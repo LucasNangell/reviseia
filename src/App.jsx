@@ -18,7 +18,7 @@ import {
 } from "lucide-react";
 import "./index.css";
 
-const API_BASE = import.meta.env.VITE_API_BASE || "http://127.0.0.1:8000";
+const API_BASE = "/api";
 
 const fadeUp = {
   hidden: { opacity: 0, y: 28 },
@@ -101,7 +101,7 @@ export default function App() {
         }
       } catch {
         if (!active) return;
-        setApiError("Não foi possível conectar à API. Verifique se o backend FastAPI está rodando em http://127.0.0.1:8000.");
+        setApiError("Não foi possível conectar à API. Verifique a conexão com o servidor.");
       } finally {
         if (active) setLoadingTracks(false);
       }
@@ -200,7 +200,7 @@ export default function App() {
           </div>
 
           <div className="pill-row">
-            <Pill>FastAPI + React</Pill>
+            <Pill>Node.js + React</Pill>
             <Pill>Visual premium</Pill>
             <Pill>Trilha orientada</Pill>
           </div>
