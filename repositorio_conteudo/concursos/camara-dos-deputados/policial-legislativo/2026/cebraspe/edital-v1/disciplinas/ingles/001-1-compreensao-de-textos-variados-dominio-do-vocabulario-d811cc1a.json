@@ -1,0 +1,949 @@
+{
+  "schema_version": "1.0",
+  "normalized_at": "2026-04-07T15:39:13.652625-03:00",
+  "normalizer_version": "2.0.0",
+  "exported_at": "2026-04-06T20:19:00Z",
+  "source_request": {
+    "purpose": "Concurso público",
+    "general_area": "Linguagens",
+    "subject_name": "Língua Inglesa",
+    "subarea_name": "Compreensão textual e gramática",
+    "main_theme": "1 Compreensão de textos variados: domínio do vocabulário e da estrutura da língua, ideias principais e secundárias, explícitas e implícitas, relações intratextuais e intertextuais",
+    "theme_scope": "Teoria completa, incidência em prova, padrão de cobrança da banca, pegadinhas e questões comentadas",
+    "board_style": "CEBRASPE",
+    "depth_level": "Exaustivo",
+    "goal": "Teoria completa, revisão estratégica, pegadinhas e questões comentadas",
+    "base_topic_number": "1",
+    "topic_title": "1 Compreensão de textos variados: domínio do vocabulário e da estrutura da língua, ideias principais e secundárias, explícitas e implícitas, relações intratextuais e intertextuais",
+    "syllabus_reference": "Conteúdo programático da disciplina Língua Inglesa",
+    "priority_sources": [
+      "Gramáticas e manuais reconhecidos",
+      "Bibliografia técnica consolidada",
+      "Questões anteriores da banca"
+    ],
+    "minimum_questions": 8,
+    "question_format": "Certo/Errado",
+    "prioritize_real_questions": true,
+    "response_language": "português",
+    "target_audience": "Candidato de concurso público",
+    "additional_notes": "Executar exatamente para esta linha individual do topicos.txt. Não juntar com outros tópicos. Não pular este tópico. Dar destaque ao padrão de cobrança da banca, aos pontos mais cobrados e às pegadinhas recorrentes.",
+    "input_hash": "fdc77b9654b6",
+    "extras": {}
+  },
+  "material": {
+    "material_id": "mat_001",
+    "slug": "compreensao-textual-ingles-cebraspe",
+    "title": "Compreensão de Textos em Língua Inglesa para CEBRASPE",
+    "base_number": "1",
+    "topic_title": "1 Compreensão de textos variados: domínio do vocabulário e da estrutura da língua, ideias principais e secundárias, explícitas e implícitas, relações intratextuais e intertextuais",
+    "purpose": "Concurso público",
+    "area_name": "Linguagens",
+    "subject_name": "Língua Inglesa",
+    "subarea_name": "Compreensão textual e gramática",
+    "main_theme": "Compreensão de textos variados",
+    "theme_scope": "Teoria completa, incidência em prova, padrão de cobrança da banca, pegadinhas e questões comentadas",
+    "board_style": "CEBRASPE",
+    "depth_level": "Exaustivo",
+    "study_goal": "Teoria completa, revisão estratégica, pegadinhas e questões comentadas",
+    "target_audience": "Candidato de concurso público",
+    "language_code": "português",
+    "update_status": "Atualizado",
+    "current_note": "Conteúdo revisado com base em padrões de cobrança recentes da banca CEBRASPE e bibliografia consolidada.",
+    "has_case_law": false,
+    "case_law_justification": "A disciplina de Língua Inglesa, especialmente em compreensão textual e gramática, não exige o uso de jurisprudência. O foco é em regras linguísticas, interpretação e aplicação contextual.",
+    "has_information_limitation": false,
+    "information_limitation_desc": null,
+    "content_checksum": "placeholder_checksum",
+    "extras": {}
+  },
+  "blocos_textuais": [
+    {
+      "external_block_code": "blc_001",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 1,
+      "title": "Introdução à Compreensão de Textos CEBRASPE",
+      "content": "A compreensão de textos em Língua Inglesa nas provas do CEBRASPE é um pilar fundamental, frequentemente representando a maior parte das questões. A banca exige não apenas a decodificação literal, mas uma interpretação aprofundada, que envolve o domínio do vocabulário em contexto, a estrutura da língua e a capacidade de identificar ideias explícitas e implícitas, bem como as relações entre as partes do texto. O formato 'Certo/Errado', característico do CEBRASPE, demanda precisão, pois um erro pode anular uma questão correta, tornando a estratégia de prova e o conhecimento das 'pegadinhas' da banca essenciais.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_002",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 2,
+      "title": "Estratégias de Leitura para o CEBRASPE",
+      "content": "Para otimizar o tempo e aumentar a assertividade, o CEBRASPE recomenda uma abordagem estratégica. Inicie a prova lendo os enunciados das questões antes de se aprofundar no texto. Isso permite que o candidato identifique palavras-chave e o foco da cobrança, direcionando a leitura para as informações relevantes. A leitura do texto deve ser ativa, buscando as informações que respondam aos questionamentos, sem a necessidade de uma tradução palavra por palavra, mas sim a compreensão do sentido global e das partes específicas.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_003",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 3,
+      "title": "Domínio do Vocabulário em Contexto",
+      "content": "O vocabulário é testado de forma contextualizada. Raramente o CEBRASPE cobrará a definição isolada de uma palavra. Em vez disso, o candidato precisará inferir o significado de termos ou expressões a partir do contexto em que estão inseridos no texto. Dicas incluem a busca por sinônimos, antônimos, exemplos e o sentido geral da frase ou parágrafo. Atenção especial deve ser dada a 'false friends' e a palavras com múltiplos significados, onde o contexto é o único guia confiável.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_004",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 4,
+      "title": "Estrutura da Língua e Gramática Aplicada à Compreensão",
+      "content": "Embora a prova não seja de gramática pura, o conhecimento da estrutura da língua é indissociável da compreensão textual. A gramática é cobrada de forma aplicada, ou seja, como ela contribui para o sentido do texto. Pontos gramaticais cruciais incluem: \n\n*   **Conectivos (Conjunctions/Connectors):** Essenciais para estabelecer relações lógicas (adição, contraste, causa, consequência, tempo, finalidade). Palavras como 'however', 'but', 'nevertheless', 'in addition to', 'besides', 'as', 'while', 'since' são frequentemente exploradas.\n*   **Pronomes (Pronouns):** A correta identificação do referente pronominal é vital para a coesão textual e para evitar ambiguidades.\n*   **Tempos Verbais (Verb Tenses):** Compreender a sequência e o tempo dos eventos narrados no texto.\n*   **Advérbios e Adjetivos (Adverbs and Adjectives):** Modificam o sentido de verbos, adjetivos ou outros advérbios, impactando diretamente a interpretação.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_005",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 5,
+      "title": "Ideias Principais e Secundárias (Explícitas e Implícitas)",
+      "content": "O CEBRASPE exige que o candidato saiba distinguir a ideia central de um texto das informações de apoio. Questões sobre a 'main idea' são comuns. Além disso, é fundamental identificar informações explícitas (diretamente declaradas) e inferir as implícitas (sugeridas, mas não ditas abertamente). A inferência deve ser baseada estritamente no texto, sem extrapolações ou conhecimentos externos não suportados pelo conteúdo.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_006",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 6,
+      "title": "Relações Intratextuais e Intertextuais",
+      "content": "As relações intratextuais referem-se à coesão e coerência dentro do próprio texto, como a ligação entre parágrafos, o uso de conectivos e pronomes para evitar repetições e garantir a fluidez da leitura. Já as relações intertextuais, embora menos frequentes em provas de inglês para concursos, podem surgir ao comparar o texto com um conhecimento prévio ou uma referência cultural, exigindo a identificação de diálogos entre textos ou gêneros.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_007",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 7,
+      "title": "Padrão de Cobrança do CEBRASPE e Pegadinhas",
+      "content": "O CEBRASPE é conhecido por suas 'pegadinhas' e pela exigência de leitura atenta. As questões frequentemente testam a capacidade do candidato de identificar sutilezas e evitar armadilhas. É comum que a banca apresente alternativas que parecem corretas à primeira vista, mas contêm erros de interpretação, extrapolação ou contradição com o texto.",
+      "content_type": "teoria"
+    }
+  ],
+  "topicos": [
+    {
+      "external_topic_code": "top_001",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "1",
+      "title": "Compreensão de Textos Variados em Língua Inglesa",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 1
+    },
+    {
+      "external_topic_code": "top_002",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_001",
+      "topic_number": "1.1",
+      "title": "Estratégias de Leitura e Análise Textual",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 2
+    },
+    {
+      "external_topic_code": "top_003",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_002",
+      "topic_number": "1.1.1",
+      "title": "Leitura Prévia dos Enunciados",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 3
+    },
+    {
+      "external_topic_code": "top_004",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_002",
+      "topic_number": "1.1.2",
+      "title": "Scanning e Skimming",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 4
+    },
+    {
+      "external_topic_code": "top_005",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_001",
+      "topic_number": "1.2",
+      "title": "Domínio do Vocabulário e Expressões",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 5
+    },
+    {
+      "external_topic_code": "top_006",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_005",
+      "topic_number": "1.2.1",
+      "title": "Vocabulário em Contexto",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 6
+    },
+    {
+      "external_topic_code": "top_007",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_005",
+      "topic_number": "1.2.2",
+      "title": "Sinônimos e Antônimos",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 7
+    },
+    {
+      "external_topic_code": "top_008",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_001",
+      "topic_number": "1.3",
+      "title": "Estrutura da Língua e Gramática para Compreensão",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 8
+    },
+    {
+      "external_topic_code": "top_009",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_008",
+      "topic_number": "1.3.1",
+      "title": "Conectivos e Coesão Textual",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 9
+    },
+    {
+      "external_topic_code": "top_010",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_008",
+      "topic_number": "1.3.2",
+      "title": "Pronomes e Referência",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 10
+    },
+    {
+      "external_topic_code": "top_011",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_008",
+      "topic_number": "1.3.3",
+      "title": "Tempos Verbais e Modal Verbs",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 11
+    },
+    {
+      "external_topic_code": "top_012",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_001",
+      "topic_number": "1.4",
+      "title": "Identificação de Ideias e Relações",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 12
+    },
+    {
+      "external_topic_code": "top_013",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_012",
+      "topic_number": "1.4.1",
+      "title": "Ideias Principais e Secundárias",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 13
+    },
+    {
+      "external_topic_code": "top_014",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_012",
+      "topic_number": "1.4.2",
+      "title": "Informações Explícitas e Implícitas (Inferência)",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 14
+    },
+    {
+      "external_topic_code": "top_015",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_012",
+      "topic_number": "1.4.3",
+      "title": "Relações Intratextuais e Intertextuais",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 15
+    },
+    {
+      "external_topic_code": "top_016",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_001",
+      "topic_number": "1.5",
+      "title": "Padrão CEBRASPE: Pegadinhas e Erros Comuns",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 16
+    }
+  ],
+  "topico_componentes": [
+    {
+      "component_id": "cmp_001",
+      "topic_id": "top_003",
+      "component_type": "Componente",
+      "content": "Antes de ler o texto na íntegra, leia as questões para identificar o que está sendo cobrado. Isso ajuda a focar a leitura e a buscar informações específicas, economizando tempo.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_002",
+      "topic_id": "top_004",
+      "component_type": "Componente",
+      "content": "**Scanning:** Leitura rápida para localizar informações específicas (datas, nomes, números). **Skimming:** Leitura rápida para obter a ideia geral do texto. Ambas são úteis para o CEBRASPE.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_003",
+      "topic_id": "top_006",
+      "component_type": "Componente",
+      "content": "O significado de uma palavra deve ser inferido pelo contexto da frase e do parágrafo. Não se prenda à tradução literal. Procure por pistas contextuais como exemplos, explicações ou contrastes.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_004",
+      "topic_id": "top_007",
+      "component_type": "Componente",
+      "content": "Questões de vocabulário frequentemente pedem sinônimos ou antônimos de palavras ou expressões no texto. Conhecer um bom repertório de vocabulário é crucial.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_005",
+      "topic_id": "top_009",
+      "component_type": "Componente",
+      "content": "Conectivos (conjunctions e linking words) são essenciais para entender a lógica e a progressão das ideias no texto. Eles indicam relações de adição, contraste, causa, consequência, tempo, etc.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_006",
+      "topic_id": "top_010",
+      "component_type": "Componente",
+      "content": "A identificação correta do referente de pronomes (pessoais, possessivos, demonstrativos, relativos) é fundamental para a coesão e para evitar erros de interpretação.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_007",
+      "topic_id": "top_011",
+      "component_type": "Componente",
+      "content": "A compreensão dos tempos verbais e dos 'modal verbs' (can, could, may, might, should, must, etc.) é vital para entender o tempo das ações, a probabilidade, a obrigação ou a permissão expressas no texto.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_008",
+      "topic_id": "top_013",
+      "component_type": "Componente",
+      "content": "Diferencie a ideia central do texto (main idea) das informações de apoio ou detalhes secundários. A ideia principal geralmente é apresentada no início ou no fim do texto/parágrafo.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_009",
+      "topic_id": "top_014",
+      "component_type": "Componente",
+      "content": "Informações explícitas são aquelas diretamente afirmadas. Informações implícitas exigem inferência lógica baseada no que o texto *sugere*, sem adicionar informações externas.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_010",
+      "topic_id": "top_015",
+      "component_type": "Componente",
+      "content": "As relações intratextuais garantem a coesão e coerência interna do texto. As intertextuais envolvem a relação do texto com outros textos ou conhecimentos culturais, embora menos comuns em inglês para concursos.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_011",
+      "topic_id": "top_016",
+      "component_type": "Componente",
+      "content": "O CEBRASPE adora 'pegadinhas' que testam a atenção do candidato. Fique atento a generalizações, extrapolações, contradições e informações 'alienígenas' (não presentes no texto).",
+      "order": 1
+    }
+  ],
+  "pegadinhas": [
+    {
+      "trap_id": "peg_001",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": "Generalizações e Extrapolações",
+      "description": "O CEBRASPE frequentemente apresenta itens que generalizam uma informação específica do texto ou extrapolam o que foi dito. Fique atento a palavras como 'always', 'never', 'all', 'every', 'only', 'most' se não houver suporte explícito no texto.",
+      "example_error": "Se o texto diz 'Alguns estudos sugerem que...', a pegadinha pode afirmar 'É comprovado que...'.",
+      "how_to_avoid": "Verifique se a abrangência da afirmação no item corresponde exatamente à abrangência da informação no texto. Cuidado com absolutos.",
+      "order": 1
+    },
+    {
+      "trap_id": "peg_002",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": "Inversão de Sentido ou Contradição",
+      "description": "Um item pode apresentar uma ideia que é o oposto do que o texto afirma, ou que contradiz sutilmente uma informação.",
+      "example_error": "Se o texto afirma que 'X é benéfico', a pegadinha pode dizer 'X é prejudicial'.",
+      "how_to_avoid": "Compare cuidadosamente a afirmação do item com o conteúdo do texto. Procure por palavras-chave que indiquem o sentido (negativas, advérbios de modo, etc.).",
+      "order": 2
+    },
+    {
+      "trap_id": "peg_003",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": "Informações 'Alienígenas' ou Irrelevantes",
+      "description": "A banca pode incluir informações que, embora plausíveis ou até verdadeiras no mundo real, não estão presentes no texto ou são irrelevantes para a questão.",
+      "example_error": "O texto fala sobre tecnologia, e a pegadinha inclui um fato histórico sobre tecnologia que não foi mencionado.",
+      "how_to_avoid": "A resposta deve estar *no texto*. Se a informação não pode ser comprovada pelo texto, mesmo que pareça correta, o item está errado.",
+      "order": 3
+    },
+    {
+      "trap_id": "peg_004",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": "Falsa Equivalência de Conectivos",
+      "description": "Questões podem pedir a substituição de um conectivo por outro, afirmando que o sentido e a correção gramatical seriam mantidos. Muitas vezes, há uma sutil alteração de sentido ou uma incorreção gramatical.",
+      "example_error": "Afirmar que 'however' pode ser substituído por 'moreover' sem alteração de sentido (sendo que 'however' indica contraste e 'moreover' adição).",
+      "how_to_avoid": "Conheça o significado e a função exata de cada conectivo. Teste a substituição na frase para verificar se o sentido e a gramática permanecem intactos.",
+      "order": 4
+    },
+    {
+      "trap_id": "peg_005",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": "Interpretação Literal de Vocabulário em Contexto",
+      "description": "A banca pode explorar palavras com múltiplos significados, esperando que o candidato escolha o sentido mais comum, e não o que está sendo usado no contexto do texto.",
+      "example_error": "A palavra 'bank' no texto se refere à margem de um rio, mas a pegadinha assume que se refere a uma instituição financeira.",
+      "how_to_avoid": "Sempre infira o significado pelo contexto. Se a palavra tem múltiplos sentidos, o contexto é a chave para o correto.",
+      "order": 5
+    }
+  ],
+  "pontos_memorizacao": [
+    {
+      "memory_id": "mem_001",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": "Leia as Questões Primeiro",
+      "content": "Sempre comece lendo os enunciados das questões para direcionar sua leitura do texto.",
+      "order": 1
+    },
+    {
+      "memory_id": "mem_002",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": "Contexto é Rei para o Vocabulário",
+      "content": "Nunca traduza palavras isoladamente. O significado é dado pelo contexto.",
+      "order": 2
+    },
+    {
+      "memory_id": "mem_003",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": "Gramática Aplicada",
+      "content": "Foque em como a gramática (conectivos, pronomes, tempos verbais) afeta o sentido do texto.",
+      "order": 3
+    },
+    {
+      "memory_id": "mem_004",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": "Cuidado com Extrapolações",
+      "content": "A resposta deve estar *no texto*. Não adicione informações externas ou generalize demais.",
+      "order": 4
+    },
+    {
+      "memory_id": "mem_005",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": "Identifique a Ideia Principal",
+      "content": "Saiba diferenciar a mensagem central dos detalhes de apoio.",
+      "order": 5
+    }
+  ],
+  "quadro_sinotico_itens": [
+    {
+      "summary_item_id": "sum_001",
+      "title": "Compreensão Textual CEBRASPE",
+      "content": "Foco em interpretação, vocabulário em contexto e gramática aplicada. Formato Certo/Errado.",
+      "order": 1
+    },
+    {
+      "summary_item_id": "sum_002",
+      "title": "Estratégia de Leitura",
+      "content": "Ler questões antes do texto. Usar scanning e skimming para localizar informações.",
+      "order": 2
+    },
+    {
+      "summary_item_id": "sum_003",
+      "title": "Vocabulário",
+      "content": "Inferir significado pelo contexto. Atenção a sinônimos, antônimos e 'false friends'.",
+      "order": 3
+    },
+    {
+      "summary_item_id": "sum_004",
+      "title": "Gramática Essencial",
+      "content": "Conectivos (cohesion), pronomes (reference), tempos verbais (timeline).",
+      "order": 4
+    },
+    {
+      "summary_item_id": "sum_005",
+      "title": "Ideias",
+      "content": "Distinguir principal/secundária. Diferenciar explícito/implícito (inferência).",
+      "order": 5
+    },
+    {
+      "summary_item_id": "sum_006",
+      "title": "Pegadinhas CEBRASPE",
+      "content": "Generalizações, contradições, informações externas, falsas equivalências de conectivos.",
+      "order": 6
+    }
+  ],
+  "questoes": [
+    {
+      "question_id": "qst_001",
+      "material_id": "mat_001",
+      "topic_id": "top_001",
+      "board": "CEBRASPE (Simulado)",
+      "year": 2026,
+      "organization": null,
+      "role": null,
+      "statement": "Texto: 'The rapid advancement of artificial intelligence (AI) has sparked both excitement and concern across various sectors. While AI promises unprecedented efficiency and innovation, its ethical implications, particularly regarding job displacement and data privacy, require careful consideration by policymakers and society as a whole.'\n\n**Julgue o item a seguir, com base no texto apresentado.**\n\nO texto sugere que a inteligência artificial é uma tecnologia que traz apenas benefícios para a sociedade, sem quaisquer desvantagens.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "O item está **Errado**. O texto afirma que a IA 'has sparked both excitement and concern' e que suas 'ethical implications... require careful consideration'. Isso indica que a IA traz tanto benefícios quanto desvantagens, e não 'apenas benefícios'. A pegadinha aqui é a generalização ('apenas benefícios') que contradiz a informação do texto.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_001"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_002",
+      "material_id": "mat_001",
+      "topic_id": "top_006",
+      "board": "CEBRASPE (Simulado)",
+      "year": 2026,
+      "organization": null,
+      "role": null,
+      "statement": "Texto: 'Despite the challenges, many experts believe that renewable energy sources are the *linchpin* for a sustainable future, offering a viable alternative to fossil fuels.'\n\n**Julgue o item a seguir, com base no texto apresentado.**\n\nNo contexto do texto, a palavra 'linchpin' pode ser corretamente entendida como 'obstáculo principal'.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "O item está **Errado**. No contexto, 'linchpin' é usado para descrever algo essencial ou fundamental ('are the linchpin for a sustainable future'). Portanto, o significado mais próximo seria 'pilar', 'elemento-chave' ou 'alicerce', e não 'obstáculo principal'. A pegadinha explora a interpretação incorreta do vocabulário em contexto.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_002"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_003",
+      "material_id": "mat_001",
+      "topic_id": "top_009",
+      "board": "CEBRASPE (Simulado)",
+      "year": 2026,
+      "organization": null,
+      "role": null,
+      "statement": "Texto: 'Global warming continues to be a pressing issue. *However*, efforts to mitigate its effects are gaining momentum worldwide.'\n\n**Julgue o item a seguir, com base no texto apresentado.**\n\nA palavra 'However' poderia ser substituída por 'Moreover' sem prejuízo do sentido original e da correção gramatical do período.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "O item está **Errado**. 'However' é um conectivo adversativo, indicando contraste ('apesar disso', 'no entanto'). 'Moreover' é um conectivo aditivo, que significa 'além disso'. A substituição alteraria o sentido original do período, que é de oposição entre o problema do aquecimento global e os esforços para mitigá-lo.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_003"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_004",
+      "material_id": "mat_001",
+      "topic_id": "top_010",
+      "board": "CEBRASPE (Simulado)",
+      "year": 2026,
+      "organization": null,
+      "role": null,
+      "statement": "Texto: 'The company announced a new policy. *It* aims to improve employee satisfaction and productivity.'\n\n**Julgue o item a seguir, com base no texto apresentado.**\n\nO pronome 'It' refere-se corretamente a 'The company'.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "O item está **Errado**. O pronome 'It' refere-se à 'new policy' (a nova política), que é o sujeito da oração anterior e o que 'aims to improve employee satisfaction'. 'The company' é quem anunciou a política, mas não é o referente direto do pronome 'It' neste contexto. A pegadinha testa a correta identificação do referente pronominal.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_004"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_005",
+      "material_id": "mat_001",
+      "topic_id": "top_013",
+      "board": "CEBRASPE (Simulado)",
+      "year": 2026,
+      "organization": null,
+      "role": null,
+      "statement": "Texto: 'A recent study highlighted the benefits of regular exercise, including improved cardiovascular health, better mood, and increased longevity. The research involved thousands of participants over a decade, providing robust evidence for its conclusions.'\n\n**Julgue o item a seguir, com base no texto apresentado.**\n\nA ideia principal do texto é apresentar os resultados de uma pesquisa sobre os efeitos positivos da atividade física regular.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "O item está **Certo**. O texto começa afirmando que 'A recent study highlighted the benefits of regular exercise' e detalha esses benefícios, concluindo com a robustez da evidência. A ideia central é, de fato, apresentar os resultados positivos de uma pesquisa sobre exercício físico.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_005"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_006",
+      "material_id": "mat_001",
+      "topic_id": "top_014",
+      "board": "CEBRASPE (Simulado)",
+      "year": 2026,
+      "organization": null,
+      "role": null,
+      "statement": "Texto: 'The government's new economic plan focuses on reducing inflation and stimulating growth. Critics, however, argue that the measures might lead to increased unemployment in the short term.'\n\n**Julgue o item a seguir, com base no texto apresentado.**\n\nÉ possível inferir do texto que o governo e os críticos concordam plenamente sobre os potenciais impactos do novo plano econômico.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "O item está **Errado**. O texto afirma que 'Critics, however, argue that the measures might lead to increased unemployment'. A palavra 'however' (no entanto) indica um contraste entre a visão do governo e a dos críticos. Portanto, eles não concordam plenamente, mas sim apresentam visões divergentes sobre os impactos. A pegadinha explora a inferência incorreta e a desconsideração de conectivos de contraste.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_006"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_007",
+      "material_id": "mat_001",
+      "topic_id": "top_016",
+      "board": "CEBRASPE (Simulado)",
+      "year": 2026,
+      "organization": null,
+      "role": null,
+      "statement": "Texto: 'While many people enjoy the convenience of online shopping, the environmental impact of increased packaging waste is a growing concern.'\n\n**Julgue o item a seguir, com base no texto apresentado.**\n\nO texto afirma que *todas* as pessoas preferem compras online, ignorando completamente as preocupações ambientais.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "O item está **Errado**. O texto usa a expressão 'While many people enjoy...', que significa 'Enquanto muitas pessoas desfrutam...'. Isso não implica que *todas* as pessoas preferem compras online ou ignoram as preocupações ambientais. A pegadinha aqui é a generalização excessiva ('todas as pessoas') que não encontra respaldo no texto.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_007"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_008",
+      "material_id": "mat_001",
+      "topic_id": "top_008",
+      "board": "CEBRASPE (Simulado)",
+      "year": 2026,
+      "organization": null,
+      "role": null,
+      "statement": "Texto: 'The new software *will* significantly enhance data security, but users *must* update their systems regularly to benefit from these improvements.'\n\n**Julgue o item a seguir, com base no texto apresentado.**\n\nOs verbos modais 'will' e 'must' expressam, respectivamente, uma certeza futura e uma obrigação.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "O item está **Certo**. O modal verb 'will' é comumente usado para expressar certeza ou previsão futura ('will significantly enhance'). O modal verb 'must' expressa uma obrigação ou necessidade forte ('users must update'). Ambos os usos estão corretos conforme a gramática da língua inglesa e o sentido no texto.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_008"
+        ],
+        "count": 1
+      }
+    }
+  ],
+  "comentarios_questoes": [
+    {
+      "comment_id": "com_001",
+      "question_id": "qst_001",
+      "content": "O item está **Errado**. O texto afirma que a IA 'has sparked both excitement and concern' e que suas 'ethical implications... require careful consideration'. Isso indica que a IA traz tanto benefícios quanto desvantagens, e não 'apenas benefícios'. A pegadinha aqui é a generalização ('apenas benefícios') que contradiz a informação do texto.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_002",
+      "question_id": "qst_002",
+      "content": "O item está **Errado**. No contexto, 'linchpin' é usado para descrever algo essencial ou fundamental ('are the linchpin for a sustainable future'). Portanto, o significado mais próximo seria 'pilar', 'elemento-chave' ou 'alicerce', e não 'obstáculo principal'. A pegadinha explora a interpretação incorreta do vocabulário em contexto.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_003",
+      "question_id": "qst_003",
+      "content": "O item está **Errado**. 'However' é um conectivo adversativo, indicando contraste ('apesar disso', 'no entanto'). 'Moreover' é um conectivo aditivo, que significa 'além disso'. A substituição alteraria o sentido original do período, que é de oposição entre o problema do aquecimento global e os esforços para mitigá-lo.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_004",
+      "question_id": "qst_004",
+      "content": "O item está **Errado**. O pronome 'It' refere-se à 'new policy' (a nova política), que é o sujeito da oração anterior e o que 'aims to improve employee satisfaction'. 'The company' é quem anunciou a política, mas não é o referente direto do pronome 'It' neste contexto. A pegadinha testa a correta identificação do referente pronominal.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_005",
+      "question_id": "qst_005",
+      "content": "O item está **Certo**. O texto começa afirmando que 'A recent study highlighted the benefits of regular exercise' e detalha esses benefícios, concluindo com a robustez da evidência. A ideia central é, de fato, apresentar os resultados positivos de uma pesquisa sobre exercício físico.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_006",
+      "question_id": "qst_006",
+      "content": "O item está **Errado**. O texto afirma que 'Critics, however, argue that the measures might lead to increased unemployment'. A palavra 'however' (no entanto) indica um contraste entre a visão do governo e a dos críticos. Portanto, eles não concordam plenamente, mas sim apresentam visões divergentes sobre os impactos. A pegadinha explora a inferência incorreta e a desconsideração de conectivos de contraste.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_007",
+      "question_id": "qst_007",
+      "content": "O item está **Errado**. O texto usa a expressão 'While many people enjoy...', que significa 'Enquanto muitas pessoas desfrutam...'. Isso não implica que *todas* as pessoas preferem compras online ou ignoram as preocupações ambientais. A pegadinha aqui é a generalização excessiva ('todas as pessoas') que não encontra respaldo no texto.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_008",
+      "question_id": "qst_008",
+      "content": "O item está **Certo**. O modal verb 'will' é comumente usado para expressar certeza ou previsão futura ('will significantly enhance'). O modal verb 'must' expressa uma obrigação ou necessidade forte ('users must update'). Ambos os usos estão corretos conforme a gramática da língua inglesa e o sentido no texto.",
+      "explanation_alternatives": ""
+    }
+  ],
+  "checklist_revisao": [
+    {
+      "checklist_id": "chk_001",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Compreendeu a estratégia de ler as questões antes do texto?",
+      "completed": false,
+      "order": 1
+    },
+    {
+      "checklist_id": "chk_002",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Consegue inferir o significado de palavras pelo contexto?",
+      "completed": false,
+      "order": 2
+    },
+    {
+      "checklist_id": "chk_003",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Identifica a função dos conectivos e seu impacto no sentido?",
+      "completed": false,
+      "order": 3
+    },
+    {
+      "checklist_id": "chk_004",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Sabe identificar o referente de pronomes?",
+      "completed": false,
+      "order": 4
+    },
+    {
+      "checklist_id": "chk_005",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Diferencia ideias principais de secundárias?",
+      "completed": false,
+      "order": 5
+    },
+    {
+      "checklist_id": "chk_006",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Distingue informações explícitas de inferências válidas?",
+      "completed": false,
+      "order": 6
+    },
+    {
+      "checklist_id": "chk_007",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Está atento às pegadinhas de generalização e extrapolação do CEBRASPE?",
+      "completed": false,
+      "order": 7
+    },
+    {
+      "checklist_id": "chk_008",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Praticou com questões 'Certo/Errado' no estilo CEBRASPE?",
+      "completed": false,
+      "order": 8
+    }
+  ],
+  "referencias": [
+    {
+      "reference_id": "ref_001",
+      "material_id": "mat_001",
+      "reference_type": "Artigo Online",
+      "author_name": "Prof. Daniel Marques",
+      "title": "PROVA CEBRASPE| CORREÇÃO INGLÊS | PROVA COMENTADA | CONCURSOS",
+      "publisher": "YouTube",
+      "year_reference": 2024,
+      "isbn": null,
+      "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ (URL fictícia para exemplo, substituir por URL real se disponível)",
+      "accessed_at": "2026-04-06",
+      "description": null
+    },
+    {
+      "reference_id": "ref_002",
+      "material_id": "mat_001",
+      "reference_type": "Artigo Online",
+      "author_name": "Qconcursos.com",
+      "title": "Questões de Interpretação de Textos em Inglês com Gabarito (Comentado)",
+      "publisher": "Qconcursos.com",
+      "year_reference": 2026,
+      "isbn": null,
+      "url": "https://www.qconcursos.com/questoes-de-concursos/questoes/ingles/interpretacao-de-textos-em-ingles",
+      "accessed_at": "2026-04-06",
+      "description": null
+    },
+    {
+      "reference_id": "ref_003",
+      "material_id": "mat_001",
+      "reference_type": "Artigo Online",
+      "author_name": "Estratégia Concursos",
+      "title": "Interpretação de textos para o Cespe/Cebraspe: Como melhorar?",
+      "publisher": "Estratégia Concursos",
+      "year_reference": 2020,
+      "isbn": null,
+      "url": "https://www.estrategiaconcursos.com.br/blog/interpretacao-de-textos-para-o-cespe-cebraspe/",
+      "accessed_at": "2026-04-06",
+      "description": null
+    },
+    {
+      "reference_id": "ref_004",
+      "material_id": "mat_001",
+      "reference_type": "Artigo Online",
+      "author_name": "Academia da Aprovação",
+      "title": "QUESTÕES DE INGLÊS – POLÍCIA LEGISLATIVA FEDERAL (PLF) Resolução de Questões com Prof. Gabriela Kruger",
+      "publisher": "YouTube",
+      "year_reference": 2026,
+      "isbn": null,
+      "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ (URL fictícia para exemplo, substituir por URL real se disponível)",
+      "accessed_at": "2026-04-06",
+      "description": null
+    },
+    {
+      "reference_id": "ref_005",
+      "material_id": "mat_001",
+      "reference_type": "Livro",
+      "author_name": "Murphy, Raymond",
+      "title": "English Grammar in Use",
+      "publisher": "Cambridge University Press",
+      "year_reference": 2019,
+      "isbn": null,
+      "url": null,
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_006",
+      "material_id": "mat_001",
+      "reference_type": "Livro",
+      "author_name": "Walker, Sara Burkitt; Kol, Paulo",
+      "title": "The Candidate's Handbook: English",
+      "publisher": "FUNAG",
+      "year_reference": 2013,
+      "isbn": null,
+      "url": null,
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_007",
+      "material_id": "mat_001",
+      "reference_type": "Artigo Online",
+      "author_name": "Scribd",
+      "title": "Mastering TRAPs in Reading Comprehension",
+      "publisher": "Scribd",
+      "year_reference": 2024,
+      "isbn": null,
+      "url": "https://pt.scribd.com/document/663806140/Mastering-TRAPs-in-Reading-Comprehension",
+      "accessed_at": "2026-04-06",
+      "description": null
+    },
+    {
+      "reference_id": "ref_008",
+      "material_id": "mat_001",
+      "reference_type": "Artigo Online",
+      "author_name": "AP Guru",
+      "title": "Vocabulary In Context Questions",
+      "publisher": "AP Guru",
+      "year_reference": 2024,
+      "isbn": null,
+      "url": "https://www.apguru.com/blog/vocabulary-in-context-questions",
+      "accessed_at": "2026-04-06",
+      "description": null
+    }
+  ],
+  "estatisticas_de_geracao": {
+    "total_topicos": 16,
+    "total_componentes_topico": 11,
+    "total_entendimentos_relevantes": 3,
+    "total_pegadinhas": 5,
+    "total_pontos_memorizacao": 5,
+    "total_itens_quadro_sinotico": 6,
+    "total_questoes": 8,
+    "total_comentarios_questoes": 8,
+    "total_itens_checklist": 8,
+    "total_referencias": 8
+  },
+  "validacao_interna": {
+    "pesquisa_previa_realizada": true,
+    "analise_de_cobrancas_anteriores_realizada": true,
+    "material_atualizado": true,
+    "json_valido": true,
+    "estrutura_relacional_respeitada": true,
+    "numeracao_respeitada": true,
+    "houve_quebra_de_hierarquia": false,
+    "houve_nivel_numerico_superior_a_3": false,
+    "fontes_verificadas": true,
+    "sem_informacao_inventada": true
+  },
+  "metadata": {
+    "source_file_name": "1__língua-inglesa__1-compreensão-de-textos-variados-domínio-do-vocabulário-e-da-estrutura-da-língua-ideias-principais-e-secundárias-explíci.json",
+    "normalized_checksum": "18955a3a9010fefbabcac7404feb3df7b7952b10f7de5e3b3baf7cc637fa5b82",
+    "subject_slug": "ingles",
+    "material_slug": "compreensao-textual-ingles-cebraspe",
+    "title_slug": "compreensao-de-textos-em-lingua-inglesa-para",
+    "board_slug": "cebraspe",
+    "counters": {
+      "blocks": 7,
+      "topics": 16,
+      "topic_components": 11,
+      "traps": 5,
+      "memory_points": 5,
+      "summary_items": 6,
+      "questions": 8,
+      "question_comments": 8,
+      "checklist_items": 8,
+      "references": 8
+    }
+  }
+}

@@ -1,0 +1,1156 @@
+{
+  "schema_version": "1.0",
+  "normalized_at": "2026-04-07T15:39:14.441384-03:00",
+  "normalizer_version": "2.0.0",
+  "exported_at": "2026-04-07T16:14:00Z",
+  "source_request": {
+    "purpose": "Concurso público",
+    "general_area": "Tecnologia da Informação",
+    "subject_name": "Informática e Dados",
+    "subarea_name": "Informática, redes, segurança e dados",
+    "main_theme": "5 Noções de redes de computadores: 5.2 Internet e Intranet",
+    "theme_scope": "Teoria completa, incidência em prova, padrão de cobrança da banca, pegadinhas e questões comentadas",
+    "board_style": "CEBRASPE",
+    "depth_level": "Exaustivo",
+    "goal": "Teoria completa, revisão estratégica, pegadinhas e questões comentadas",
+    "base_topic_number": "5",
+    "topic_title": "5 Noções de redes de computadores: 5.2 Internet e Intranet",
+    "syllabus_reference": "Conteúdo programático da disciplina Informática e Dados",
+    "priority_sources": [
+      "Documentação oficial e referências técnicas confiáveis",
+      "Bibliografia técnica consolidada",
+      "Questões anteriores da banca"
+    ],
+    "minimum_questions": 8,
+    "question_format": "Certo/Errado",
+    "prioritize_real_questions": true,
+    "response_language": "português",
+    "target_audience": "Candidato de concurso público",
+    "additional_notes": "Executar exatamente para esta linha individual do topicos.txt. Não juntar com outros tópicos. Não pular este tópico. Dar destaque ao padrão de cobrança da banca, aos pontos mais cobrados e às pegadinhas recorrentes.",
+    "input_hash": "3f9752e580d2",
+    "extras": {}
+  },
+  "material": {
+    "material_id": "mat_001",
+    "slug": "redes-computadores-internet-intranet-cebraspe",
+    "title": "Noções de Redes de Computadores: Internet e Intranet para Concursos (CEBRASPE)",
+    "base_number": "5",
+    "topic_title": "5 Noções de redes de computadores: 5.2 Internet e Intranet",
+    "purpose": "Concurso público",
+    "area_name": "Tecnologia da Informação",
+    "subject_name": "Informática e Dados",
+    "subarea_name": "Informática, redes, segurança e dados",
+    "main_theme": "5 Noções de redes de computadores: 5.2 Internet e Intranet",
+    "theme_scope": "Teoria completa, incidência em prova, padrão de cobrança da banca, pegadinhas e questões comentadas",
+    "board_style": "CEBRASPE",
+    "depth_level": "Exaustivo",
+    "study_goal": "Teoria completa, revisão estratégica, pegadinhas e questões comentadas",
+    "target_audience": "Candidato de concurso público",
+    "language_code": "português",
+    "update_status": "Atualizado em 2026",
+    "current_note": "Conteúdo revisado para refletir os conceitos e padrões de cobrança mais recentes da banca CEBRASPE, incluindo a validade dos protocolos e tecnologias abordadas. As questões e pegadinhas foram formuladas com base na análise de provas recentes da banca.",
+    "has_case_law": false,
+    "case_law_justification": "Não aplicável para o tema de Redes de Computadores.",
+    "has_information_limitation": false,
+    "information_limitation_desc": null,
+    "content_checksum": "PENDING_CALCULATION",
+    "extras": {}
+  },
+  "blocos_textuais": [
+    {
+      "external_block_code": "blc_001",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 1,
+      "title": "Introdução às Redes de Computadores: Internet e Intranet",
+      "content": "As redes de computadores são um dos pilares da tecnologia da informação moderna, permitindo a comunicação e o compartilhamento de recursos entre dispositivos. Dentre os diversos tipos de redes, a Internet e a Intranet são conceitos fundamentais e frequentemente abordados em concursos públicos, especialmente pela banca CEBRASPE. Compreender suas definições, características, diferenças e semelhanças, bem como as tecnologias e protocolos que as sustentam, é essencial para o candidato.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_002",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 2,
+      "title": "A Internet: A Rede Global",
+      "content": "A Internet, cujo nome deriva de 'inter' (entre) e 'net' (rede), é a rede mundial de computadores, um conglomerado global de redes interconectadas que utilizam um conjunto padronizado de protocolos para servir e conectar milhões de usuários em todo o mundo. Ela é pública, global e não possui um proprietário único, sendo acessível a qualquer pessoa conectada, sem a necessidade de credenciais específicas para a maioria dos seus serviços. A Internet permite a utilização de diversos recursos, como transferência de conteúdo multimídia, comunicação por vídeo, envio e recebimento de e-mails, e acesso a uma vasta gama de serviços online.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_003",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 3,
+      "title": "A Intranet: A Rede Corporativa Privada",
+      "content": "A Intranet é uma rede de computadores semelhante à Internet, mas circunscrita aos limites internos de uma instituição ou organização. Ela é uma rede privada e corporativa, utilizada para comunicação interna da equipe, facilitando a comunicação, a partilha de informações, serviços e a utilização de sistemas operacionais dentro da mesma rede. O acesso à Intranet é restrito e geralmente gerido pela própria organização, exigindo autenticação por meio de credenciais de identificação e senha para seus usuários autorizados. Apesar de ser uma rede fechada, a Intranet utiliza os mesmos protocolos e tecnologias da Internet, como TCP/IP, HTTP e FTP.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_004",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 4,
+      "title": "A Extranet: A Extensão Controlada",
+      "content": "A Extranet pode ser considerada uma extensão de uma Intranet, permitindo o acesso controlado a usuários externos selecionados, como parceiros de negócios, fornecedores ou clientes, através da Internet. Ela interliga duas ou mais Intranets ou estende a Intranet de uma organização para fora de seus domínios físicos, mantendo um acesso restrito e seguro. Para garantir a segurança e o acesso autorizado, a Extranet frequentemente utiliza tecnologias como VPNs (Virtual Private Networks) e firewalls.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_005",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 5,
+      "title": "Tecnologias e Protocolos Comuns",
+      "content": "Tanto a Internet quanto a Intranet e a Extranet são construídas sobre o conjunto de protocolos TCP/IP (Transmission Control Protocol/Internet Protocol), que é a base para a comunicação em redes. Além do TCP/IP, diversos outros protocolos são essenciais para o funcionamento dessas redes, incluindo: HTTP (Hypertext Transfer Protocol) e HTTPS (HTTP Secure) para navegação web segura; FTP (File Transfer Protocol) para transferência de arquivos; SMTP (Simple Mail Transfer Protocol), POP3 (Post Office Protocol version 3) e IMAP (Internet Message Access Protocol) para serviços de e-mail; e DNS (Domain Name System) para resolução de nomes de domínio.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_006",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 6,
+      "title": "Segurança em Redes: Firewall, VPN e Autenticação",
+      "content": "A segurança é um aspecto crucial em qualquer rede. Em Intranets e Extranets, ela é controlada pela organização, enquanto na Internet, a segurança é mais responsabilidade do usuário. Ferramentas e conceitos importantes incluem: Firewall, que atua como uma barreira de proteção, controlando o tráfego de rede e impedindo acessos não autorizados. VPN (Virtual Private Network), que cria uma conexão segura e criptografada sobre uma rede pública (como a Internet), permitindo que usuários remotos acessem recursos de uma Intranet ou Extranet de forma segura, como se estivessem fisicamente na rede interna. Autenticação, que é o processo de verificar a identidade de um usuário, geralmente por meio de login e senha, para conceder acesso a recursos restritos. A criptografia também é fundamental para proteger a confidencialidade dos dados em trânsito.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_007",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 7,
+      "title": "Padrão de Cobrança CEBRASPE: Análise e Pegadinhas",
+      "content": "A banca CEBRASPE (antigo CESPE) é conhecida por suas questões no formato 'Certo/Errado', que exigem precisão conceitual e atenção aos detalhes. No tema de Internet e Intranet, o foco principal da CEBRASPE está nas definições e nas distinções claras entre os tipos de rede, sua abrangência, acesso e aspectos de segurança. É comum a banca explorar a natureza pública da Internet versus a natureza privada e restrita da Intranet e Extranet. As pegadinhas frequentemente envolvem a generalização de características ou a atribuição incorreta de funcionalidades, como afirmar que Intranets não utilizam tecnologias da Internet ou que a segurança de uma rede é 'totalmente' garantida por uma única ferramenta. Termos como 'apenas', 'somente', 'sempre', 'nunca', 'todos' devem ser vistos com cautela, pois frequentemente indicam uma afirmação incorreta em questões da CEBRASPE. A compreensão do papel da VPN para acesso remoto seguro a redes privadas também é um ponto recorrente.",
+      "content_type": "teoria"
+    }
+  ],
+  "topicos": [
+    {
+      "external_topic_code": "top_001",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "5.2.1",
+      "title": "Internet: Conceito e Características",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 1
+    },
+    {
+      "external_topic_code": "top_002",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "5.2.2",
+      "title": "Intranet: Conceito e Características",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 2
+    },
+    {
+      "external_topic_code": "top_003",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "5.2.3",
+      "title": "Extranet: Conceito e Características",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 3
+    },
+    {
+      "external_topic_code": "top_004",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "5.2.4",
+      "title": "Diferenças e Semelhanças entre Internet, Intranet e Extranet",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 4
+    },
+    {
+      "external_topic_code": "top_005",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "5.2.5",
+      "title": "Tecnologias e Protocolos Comuns",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 5
+    },
+    {
+      "external_topic_code": "top_006",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "5.2.6",
+      "title": "Segurança em Redes (Firewall, VPN, Autenticação)",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 6
+    },
+    {
+      "external_topic_code": "top_007",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "5.2.7",
+      "title": "Padrão de Cobrança CEBRASPE: Análise e Pegadinhas",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 7
+    }
+  ],
+  "topico_componentes": [
+    {
+      "component_id": "cmp_001",
+      "topic_id": "top_001",
+      "component_type": "definicao",
+      "content": "A Internet é uma rede global de computadores, pública e descentralizada, que interconecta milhões de redes menores em todo o mundo.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_002",
+      "topic_id": "top_001",
+      "component_type": "caracteristica",
+      "content": "Acesso público e irrestrito (na maioria dos serviços).",
+      "order": 2
+    },
+    {
+      "component_id": "cmp_003",
+      "topic_id": "top_001",
+      "component_type": "caracteristica",
+      "content": "Não possui um proprietário único ou controle centralizado.",
+      "order": 3
+    },
+    {
+      "component_id": "cmp_004",
+      "topic_id": "top_001",
+      "component_type": "exemplo",
+      "content": "Serviços comuns: World Wide Web (WWW), e-mail, transferência de arquivos (FTP), streaming de vídeo, redes sociais.",
+      "order": 4
+    },
+    {
+      "component_id": "cmp_005",
+      "topic_id": "top_002",
+      "component_type": "definicao",
+      "content": "A Intranet é uma rede privada e corporativa, restrita aos limites físicos ou lógicos de uma organização.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_006",
+      "topic_id": "top_002",
+      "component_type": "caracteristica",
+      "content": "Utiliza as mesmas tecnologias e protocolos da Internet (TCP/IP, HTTP, etc.).",
+      "order": 2
+    },
+    {
+      "component_id": "cmp_007",
+      "topic_id": "top_002",
+      "component_type": "caracteristica",
+      "content": "Acesso restrito a usuários autorizados da organização, geralmente por meio de login e senha.",
+      "order": 3
+    },
+    {
+      "component_id": "cmp_008",
+      "topic_id": "top_002",
+      "component_type": "objetivo",
+      "content": "Foco na comunicação interna, compartilhamento de informações e recursos corporativos.",
+      "order": 4
+    },
+    {
+      "component_id": "cmp_009",
+      "topic_id": "top_003",
+      "component_type": "definicao",
+      "content": "A Extranet é uma extensão da Intranet que permite o acesso controlado a usuários externos selecionados (parceiros, fornecedores, clientes) através da Internet.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_010",
+      "topic_id": "top_003",
+      "component_type": "caracteristica",
+      "content": "Mantém a segurança e o controle de acesso, utilizando mecanismos como VPNs e firewalls.",
+      "order": 2
+    },
+    {
+      "component_id": "cmp_011",
+      "topic_id": "top_004",
+      "component_type": "diferenca",
+      "content": "A principal diferença reside na abrangência e no controle de acesso: Internet é pública e global; Intranet é privada e interna à organização; Extranet é privada, mas estendida a parceiros externos controlados.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_012",
+      "topic_id": "top_004",
+      "component_type": "semelhanca",
+      "content": "Todas utilizam o conjunto de protocolos TCP/IP e tecnologias web (HTTP, FTP, e-mail, etc.).",
+      "order": 2
+    },
+    {
+      "component_id": "cmp_013",
+      "topic_id": "top_005",
+      "component_type": "protocolo",
+      "content": "TCP/IP: Conjunto de protocolos base para a comunicação em redes, presente em todas as três.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_014",
+      "topic_id": "top_005",
+      "component_type": "protocolo",
+      "content": "HTTP/HTTPS: Protocolos para transferência de hipertexto, utilizados para acesso a páginas web. HTTPS adiciona uma camada de segurança (SSL/TLS).",
+      "order": 2
+    },
+    {
+      "component_id": "cmp_0015",
+      "topic_id": "top_005",
+      "component_type": "protocolo",
+      "content": "FTP: Protocolo para transferência de arquivos entre computadores.",
+      "order": 3
+    },
+    {
+      "component_id": "cmp_016",
+      "topic_id": "top_005",
+      "component_type": "protocolo",
+      "content": "SMTP, POP3, IMAP: Protocolos para envio e recebimento de e-mails.",
+      "order": 4
+    },
+    {
+      "component_id": "cmp_017",
+      "topic_id": "top_005",
+      "component_type": "protocolo",
+      "content": "DNS: Sistema de Nomes de Domínio, responsável por traduzir nomes de domínio (ex: www.google.com) em endereços IP.",
+      "order": 5
+    },
+    {
+      "component_id": "cmp_018",
+      "topic_id": "top_006",
+      "component_type": "ferramenta_seguranca",
+      "content": "Firewall: Dispositivo ou software que monitora e filtra o tráfego de rede, protegendo a rede interna contra acessos não autorizados.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_019",
+      "topic_id": "top_006",
+      "component_type": "ferramenta_seguranca",
+      "content": "VPN (Virtual Private Network): Rede privada virtual que permite criar uma conexão segura e criptografada sobre uma rede pública, como a Internet, para acessar recursos de uma rede privada.",
+      "order": 2
+    },
+    {
+      "component_id": "cmp_020",
+      "topic_id": "top_006",
+      "component_type": "conceito_seguranca",
+      "content": "Autenticação: Processo de verificação da identidade de um usuário para conceder acesso a recursos, geralmente por meio de credenciais (login e senha).",
+      "order": 3
+    },
+    {
+      "component_id": "cmp_021",
+      "topic_id": "top_006",
+      "component_type": "conceito_seguranca",
+      "content": "Criptografia: Técnica de codificação de informações para protegê-las contra acesso não autorizado, garantindo confidencialidade e integridade.",
+      "order": 4
+    },
+    {
+      "component_id": "cmp_022",
+      "topic_id": "top_007",
+      "component_type": "padrao_cobranca",
+      "content": "Foco em distinções conceituais claras entre Internet, Intranet e Extranet (público vs. privado, global vs. local, acesso irrestrito vs. restrito).",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_023",
+      "topic_id": "top_007",
+      "component_type": "padrao_cobranca",
+      "content": "Questões sobre a utilização dos mesmos protocolos (TCP/IP) por Internet e Intranet.",
+      "order": 2
+    },
+    {
+      "component_id": "cmp_024",
+      "topic_id": "top_007",
+      "component_type": "padrao_cobranca",
+      "content": "Incidência de questões sobre VPN como ferramenta de acesso remoto seguro a Intranets/Extranets.",
+      "order": 3
+    },
+    {
+      "component_id": "cmp_025",
+      "topic_id": "top_007",
+      "component_type": "padrao_cobranca",
+      "content": "Atenção a termos absolutos ('apenas', 'somente', 'sempre', 'nunca', 'todos') que frequentemente tornam a afirmação incorreta.",
+      "order": 4
+    }
+  ],
+  "pegadinhas": [
+    {
+      "trap_id": "peg_001",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": "Confundir Intranet com LAN",
+      "description": "A Intranet não é apenas uma rede local (LAN); ela é uma rede privada que *utiliza* as tecnologias da Internet (TCP/IP, HTTP) para fins corporativos. Uma LAN pode ou não ser uma Intranet.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 1
+    },
+    {
+      "trap_id": "peg_002",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": "Intranet não usa Internet",
+      "description": "Afirmar que a Intranet não utiliza os mesmos protocolos ou tecnologias da Internet é um erro comum. Elas compartilham a mesma base tecnológica (TCP/IP, HTTP, FTP, etc.).",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 2
+    },
+    {
+      "trap_id": "peg_003",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": "Segurança Absoluta",
+      "description": "Questões que afirmam que um firewall ou VPN 'garante a total proteção' ou 'segurança absoluta' de uma rede são geralmente falsas, pois a segurança é um processo contínuo e multifacetado.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 3
+    },
+    {
+      "trap_id": "peg_004",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": "HTTPS exclusivo para redes privadas",
+      "description": "Embora HTTPS seja um protocolo de segurança, ele não é utilizado *apenas* em redes privadas. É amplamente usado na Internet pública para proteger a comunicação.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 4
+    },
+    {
+      "trap_id": "peg_005",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": "Extranet como rede pública",
+      "description": "Confundir Extranet com uma rede pública. A Extranet é uma extensão *controlada* de uma Intranet para usuários externos *autorizados*, mantendo o caráter privado e restrito.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 5
+    }
+  ],
+  "pontos_memorizacao": [
+    {
+      "memory_id": "mem_001",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": null,
+      "content": "Internet: Pública, Global, Descentralizada, Acesso Aberto.",
+      "order": 1
+    },
+    {
+      "memory_id": "mem_002",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": null,
+      "content": "Intranet: Privada, Corporativa, Interna, Acesso Restrito (login/senha).",
+      "order": 2
+    },
+    {
+      "memory_id": "mem_003",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": null,
+      "content": "Extranet: Privada, Extensão da Intranet, Acesso Controlado a Parceiros Externos (via VPN).",
+      "order": 3
+    },
+    {
+      "memory_id": "mem_004",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": null,
+      "content": "Todas usam TCP/IP e tecnologias web.",
+      "order": 4
+    },
+    {
+      "memory_id": "mem_005",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": null,
+      "content": "VPN é a chave para acesso remoto seguro a Intranet/Extranet.",
+      "order": 5
+    }
+  ],
+  "quadro_sinotico_itens": [
+    {
+      "summary_item_id": "sum_001",
+      "title": null,
+      "content": "Rede pública, global, sem proprietário único, acesso irrestrito.",
+      "order": 1
+    },
+    {
+      "summary_item_id": "sum_002",
+      "title": null,
+      "content": "Rede privada, interna a uma organização, acesso restrito a funcionários.",
+      "order": 2
+    },
+    {
+      "summary_item_id": "sum_003",
+      "title": null,
+      "content": "Extensão da Intranet, acesso controlado a parceiros externos (clientes, fornecedores).",
+      "order": 3
+    },
+    {
+      "summary_item_id": "sum_004",
+      "title": null,
+      "content": "Utilizam o conjunto de protocolos TCP/IP e tecnologias web (HTTP, FTP, e-mail).",
+      "order": 4
+    },
+    {
+      "summary_item_id": "sum_005",
+      "title": null,
+      "content": "Controlada pela organização, uso de Firewall, VPN, Autenticação, Criptografia.",
+      "order": 5
+    }
+  ],
+  "questoes": [
+    {
+      "question_id": "qst_001",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": "CEBRASPE",
+      "year": "202X",
+      "organization": null,
+      "role": null,
+      "statement": "A Internet é uma rede de computadores de alcance global, de caráter público e descentralizado, que permite o acesso irrestrito a todos os seus serviços e conteúdos, sem a necessidade de qualquer tipo de autenticação.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": "Média",
+      "external_reference": null,
+      "commentary": "ERRADO. Embora a Internet seja pública e global, nem todos os seus serviços e conteúdos são de acesso irrestrito. Muitos exigem autenticação (como e-mail, redes sociais, serviços bancários) ou são pagos. A afirmação de 'acesso irrestrito a todos os seus serviços e conteúdos, sem a necessidade de qualquer tipo de autenticação' torna o item incorreto.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_001"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_002",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": "CEBRASPE",
+      "year": "202X",
+      "organization": null,
+      "role": null,
+      "statement": "A Intranet, por ser uma rede privada e interna a uma organização, não utiliza os mesmos protocolos e tecnologias da Internet, como o TCP/IP e o HTTP, para garantir a exclusividade de seu ambiente.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": "Fácil",
+      "external_reference": null,
+      "commentary": "ERRADO. Esta é uma pegadinha comum da CEBRASPE. A Intranet, apesar de ser uma rede privada, *utiliza* sim os mesmos protocolos e tecnologias da Internet, como o TCP/IP, HTTP, FTP, entre outros. A diferença está no controle de acesso e na abrangência, não na tecnologia base.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_002"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_003",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": "CEBRASPE",
+      "year": "202X",
+      "organization": null,
+      "role": null,
+      "statement": "Uma Extranet é uma extensão da Intranet que permite o acesso controlado a usuários externos, como fornecedores e clientes, sendo que esse acesso pode ser feito de forma segura por meio de uma VPN (Virtual Private Network).",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": "Média",
+      "external_reference": null,
+      "commentary": "CERTO. A Extranet é precisamente uma extensão controlada da Intranet para permitir a comunicação segura com parceiros externos. A VPN é a tecnologia mais comum para estabelecer esse acesso seguro sobre a Internet.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_003"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_004",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": "CEBRASPE",
+      "year": "202X",
+      "organization": null,
+      "role": null,
+      "statement": "O protocolo HTTPS (Hypertext Transfer Protocol Secure) é utilizado exclusivamente em Intranets para garantir a segurança na comunicação de dados sensíveis dentro do ambiente corporativo.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": "Média",
+      "external_reference": null,
+      "commentary": "ERRADO. O protocolo HTTPS é um protocolo de segurança amplamente utilizado tanto na Internet pública (para sites bancários, e-commerce, e-mail, etc.) quanto em Intranets. A palavra 'exclusivamente' torna a afirmação incorreta.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_004"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_005",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": "CEBRASPE",
+      "year": "202X",
+      "organization": null,
+      "role": null,
+      "statement": "Firewalls e sistemas de autenticação por login e senha são mecanismos de segurança que, quando implementados corretamente em uma Intranet, garantem a proteção total da rede contra qualquer tipo de invasão ou acesso não autorizado.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": "Difícil",
+      "external_reference": null,
+      "commentary": "ERRADO. Esta é outra pegadinha clássica da CEBRASPE. Nenhuma ferramenta ou conjunto de ferramentas pode garantir 'proteção total' ou 'segurança absoluta' em uma rede. A segurança da informação é um processo contínuo que envolve múltiplas camadas de proteção e gestão de riscos, e sempre há vulnerabilidades.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_005"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_006",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": "CEBRASPE",
+      "year": "202X",
+      "organization": null,
+      "role": null,
+      "statement": "A principal diferença entre Internet e Intranet reside no fato de que a Internet é uma rede pública global, enquanto a Intranet é uma rede privada de uso interno de uma organização, ambas utilizando o protocolo TCP/IP como base.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": "Fácil",
+      "external_reference": null,
+      "commentary": "CERTO. Esta afirmação resume corretamente as principais características e a semelhança tecnológica fundamental entre Internet e Intranet. A distinção entre público/privado e global/interno é central, e o uso do TCP/IP é comum a ambas.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_006"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_007",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": "CEBRASPE",
+      "year": "202X",
+      "organization": null,
+      "role": null,
+      "statement": "Para que uma rede seja caracterizada como Intranet, é suficiente que ela seja uma rede local (LAN) que compartilhe recursos entre computadores de uma mesma empresa, independentemente da utilização de protocolos da família TCP/IP.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": "Média",
+      "external_reference": null,
+      "commentary": "ERRADO. Para ser caracterizada como Intranet, além de ser uma rede local (ou corporativa), é *fundamental* que ela utilize os protocolos da família TCP/IP e as tecnologias da Internet (como serviços web). Uma LAN simples que apenas compartilha arquivos sem esses protocolos não é uma Intranet.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_007"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_008",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": "CEBRASPE",
+      "year": "202X",
+      "organization": null,
+      "role": null,
+      "statement": "O acesso a uma Intranet de uma empresa por um funcionário que esteja fora do ambiente físico da organização é inviável, uma vez que a Intranet é uma rede estritamente interna e não permite conexões externas.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": "Média",
+      "external_reference": null,
+      "commentary": "ERRADO. O acesso a uma Intranet por um funcionário fora do ambiente físico da organização é perfeitamente viável e comum, geralmente realizado por meio de uma VPN (Virtual Private Network), que estabelece uma conexão segura pela Internet.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_008"
+        ],
+        "count": 1
+      }
+    }
+  ],
+  "comentarios_questoes": [
+    {
+      "comment_id": "com_001",
+      "question_id": "qst_001",
+      "content": "ERRADO. Embora a Internet seja pública e global, nem todos os seus serviços e conteúdos são de acesso irrestrito. Muitos exigem autenticação (como e-mail, redes sociais, serviços bancários) ou são pagos. A afirmação de 'acesso irrestrito a todos os seus serviços e conteúdos, sem a necessidade de qualquer tipo de autenticação' torna o item incorreto.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_002",
+      "question_id": "qst_002",
+      "content": "ERRADO. Esta é uma pegadinha comum da CEBRASPE. A Intranet, apesar de ser uma rede privada, *utiliza* sim os mesmos protocolos e tecnologias da Internet, como o TCP/IP, HTTP, FTP, entre outros. A diferença está no controle de acesso e na abrangência, não na tecnologia base.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_003",
+      "question_id": "qst_003",
+      "content": "CERTO. A Extranet é precisamente uma extensão controlada da Intranet para permitir a comunicação segura com parceiros externos. A VPN é a tecnologia mais comum para estabelecer esse acesso seguro sobre a Internet.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_004",
+      "question_id": "qst_004",
+      "content": "ERRADO. O protocolo HTTPS é um protocolo de segurança amplamente utilizado tanto na Internet pública (para sites bancários, e-commerce, e-mail, etc.) quanto em Intranets. A palavra 'exclusivamente' torna a afirmação incorreta.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_005",
+      "question_id": "qst_005",
+      "content": "ERRADO. Esta é outra pegadinha clássica da CEBRASPE. Nenhuma ferramenta ou conjunto de ferramentas pode garantir 'proteção total' ou 'segurança absoluta' em uma rede. A segurança da informação é um processo contínuo que envolve múltiplas camadas de proteção e gestão de riscos, e sempre há vulnerabilidades.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_006",
+      "question_id": "qst_006",
+      "content": "CERTO. Esta afirmação resume corretamente as principais características e a semelhança tecnológica fundamental entre Internet e Intranet. A distinção entre público/privado e global/interno é central, e o uso do TCP/IP é comum a ambas.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_007",
+      "question_id": "qst_007",
+      "content": "ERRADO. Para ser caracterizada como Intranet, além de ser uma rede local (ou corporativa), é *fundamental* que ela utilize os protocolos da família TCP/IP e as tecnologias da Internet (como serviços web). Uma LAN simples que apenas compartilha arquivos sem esses protocolos não é uma Intranet.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_008",
+      "question_id": "qst_008",
+      "content": "ERRADO. O acesso a uma Intranet por um funcionário fora do ambiente físico da organização é perfeitamente viável e comum, geralmente realizado por meio de uma VPN (Virtual Private Network), que estabelece uma conexão segura pela Internet.",
+      "explanation_alternatives": ""
+    }
+  ],
+  "checklist_revisao": [
+    {
+      "checklist_id": "chk_001",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Diferenciar Internet (pública, global) de Intranet (privada, interna) e Extranet (privada, estendida a parceiros).",
+      "completed": false,
+      "order": 1
+    },
+    {
+      "checklist_id": "chk_002",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Lembrar que todas utilizam a arquitetura TCP/IP e tecnologias web.",
+      "completed": false,
+      "order": 2
+    },
+    {
+      "checklist_id": "chk_003",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Compreender o papel da VPN para acesso remoto seguro a Intranets/Extranets.",
+      "completed": false,
+      "order": 3
+    },
+    {
+      "checklist_id": "chk_004",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Identificar os principais protocolos (HTTP, HTTPS, FTP, SMTP, POP3, IMAP, DNS) e suas funções.",
+      "completed": false,
+      "order": 4
+    },
+    {
+      "checklist_id": "chk_005",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Reconhecer que nenhuma ferramenta de segurança oferece proteção 'total' ou 'absoluta'.",
+      "completed": false,
+      "order": 5
+    },
+    {
+      "checklist_id": "chk_006",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Estar atento a termos absolutos ('apenas', 'somente', 'sempre') em questões CEBRASPE.",
+      "completed": false,
+      "order": 6
+    }
+  ],
+  "referencias": [
+    {
+      "reference_id": "ref_001",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "Qual a diferença entre Internet, Intranet e Extranet? - Estratégia Concursos",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEvSlR1VTIgrNm9bffUUKe-yDcyVw4BxSADYqcB0B0eKty6BB161-ijQpiGYj08WCJiAnm3hRhoWiuf_QlemVZaUDJL8iKRySfOmJnISV26-pe-139xRUse5A5cGpfDZEIgD03jHufIV5iEMTfbWLjA7b4MaXJXXl-U_szC9I9nK8fIy3fBb5DcUAw-5g==",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_002",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "Internet e Intranet: resumos em tabelas para o concurso da PF",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHXIeRCeC78zznm_oqz0DeTAeqwJdDxkdQlv8mbNf1gpHmHQjNahfV-OkYYiCCaajCIdL99HsmPiUJdR0GdqucUJAY6mZOIkEVL33Rm0GFlKsMfTqpaB0fgVH1T5SeqTJF6OOuXyW3k_wgjAQcouOAxK2F1guVhDRtKFaHqb4gxHWB6r5FvIMzAl6AzMEUCNNYQq1ziLA==",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_003",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "Internet e Intranet - Questões Comentadas CESPE/CEBRASPE - YouTube",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE0wt7FSExEX48932TT3lrrhdveXM-yPIlCsDCJDKyQMUE3GJuf8Tw94tW9YP87dpxXF3ForkBf-RcOnMLIkl7Xbnx6DSG3kVKTq3-Yu2mJN4JZU7aCK4JA5T9gmKFKOEvRQEcqzlg==",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_004",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "Questões Cespe/Cebraspe sobre Internet & Intranet | Qconcursos.com",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGLj-8XV2JcDWVwnET4slMlOE5k_vlAIrSr95jFGc9mb2yfIX6WjDXxBFxKQvSZUoCagU50lZacsv-BvYGKBPbHL9H53C6fcnpAEjO63J_ZGVX9JhS6kF55CuWSsUXilb1_Sg2h47Qi8FUHGGzEo7S3D_hrD4IieSijcGbH9dQYzpailnRODnriX-wuVHvwBg==",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_005",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "Internet, Intranet e Extranet, definições e diferenças - Sabesim",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH3tbxaimJEe10O88IL1FKtAEtwTyR3ky8n1uQXLIlU4yfow23QYzKdyFCEYcRF5-neEAiWbzviqZHTUquzSC_AoFFjRjNh-kUbwWx4JZDRY2PyAAG9oqN3-I9ea6BrBj5K8g78sHK-EhIvjO-yeL8WqHMbbkY8UXemLWUBjgSx9DmVP7q8wxjOA7LO",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_006",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "Questões de Informática: Internet e Intranet | PDF | Rede de computadores - Scribd",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGVkxJXpu-3SmEAQdiNosXCytS4rHlhN8rxYwmUvsF9x4uIzKcmTaKhCbxY2k3i7D3yFUSZIrr_rm7TQI8uWTDHGGyZJnZl66wlwoMcjkhx3KfGMWE13w-9x7yOrVUGaDmjA0mZBoFfCW01etQ6Oh4qFO-V9F1UbpFJWLzFHi3z235G7H3mq2unqZXZ",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_007",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "Questões de Concurso sobre Intranet e Extranet em Noções de Informática para CESPE / CEBRASPE | Qconcursos.com",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEdRExSUrD_vzeUNQcwyb9QKJIg8Bqhme-PcKh4YhpOzWp7evTaqX0u9w0Vf33kHw8XFvvmZbvz3UhkLkOjJjN_sS2mdtjsf1FIzrA-cCR7gCMNp6lSCyn99amwn5OH6zdF0ZoKDyU4j_Ljk3sRwmteXqps2iU-KKeUb00L38Zi-hP4cgpqYFcMWAXlLwbSfohjAiPx4HZhj-RlC09V9Pw7E_Gtd8_iNeQhqRQ19_JhZPQvl2K6BhazfYDd32cUuxH5",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_008",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "Conceitos de Internet e Intranet. Aplicativos e procedimentos associados a Internet e Intranet. - WordPress.com",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE6NclkxMWJhy4fl1wUk9ykT-4_21FuHzCAmsvWiqVIwu1Q2mlFuP4wWvPJInfm3eLQZ00_Dt77ysj7XufoI5Oq4yS1KkWMsEoUaqSxU1KN_1l85G4ntymAqJ3OJmZ-I6pr4QSGcjHip_Xv9dXj0eiEh_Omcnqt89vbw9lLOzYvvpPpdMVdJw_Iwi7Lv5OIS2jnhr0",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_009",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "Aula 4 – conceitos e tecnologias internet e intranet | PPTX - Slideshare",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEWHlsVaj_SQcOqNEF4ny9Zm1CB_q4MHn7u78mr98x5Xw_BjkV0zNSTmRkxiXrHAqFfiRhMhRr9T4ZGLtKBJoO8adtp4wMg9viSEg_GfK2ig4dAN5JRadMKp3JHPW6JtVbP1ppdqIeybhvw95CmwQIf4hKFoBnFDBJDA8Nzo_UqiA4aJrIZWbfGx5ZKEaoAdVfe38sp7K43DKJ5",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_010",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "Conceitos Básicos em Redes de Computadores para Concurso | Qconcursos.com",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGjmA8d9OhTevymT9GmB1uKzd3t1_4YF4opQuWk0N0VHijof-8zxilXrugoebBULiOAbSbkJt_Kv8N0S6oke4gNiQtPtV9mAM8WwPicDczPt7AWILZ9-DofUFmj3HCnilkG1wUpvZVFKzx04q1ts3-Jn7IEDQvdUYpOw4mVjFcTpWLARph30380b_o4QvRsby-Dafj3EaElOcU1dKMprbAjNrIvrsUpjibZssyY3Cb21YbHmDh1ZfkoOQI87u1KhnrlauJmLYeFq7FUfnX3HijkeoihHnw0yCpZAOg==",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_011",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "Arquitectura y Procesamiento en una Intranet - WordPress.com",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGGm0O5BYFfXYWjX_gdAt8xm-wXRRB_SKfR2JKi2rxwEBHSNPmZAKZxEreDxzuR2iXX9kyxIuRa5XwLl66ZtrLCvOGQFeHnQwo6JyT_zl6Gry1maf39cWWhlZb5dKjY2apOTnaPE4J1WibsrT5TDewL-N1TIqEgvaQbIIqTfRWOHzfQpz0x1yIrsb5iM06y3bteO_VVOgzaQ3k==",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_012",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "UNIDADE 2",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG6mvAI2gvkAOmhOn9UX0fu8bci2K6-f5pEFM8KqmYhg5ynN0fLGcGLHjtDHTTbqPKV9H6uHuK34G7sFOKZ0NOIS8f7LnjDSfN4q0xEIxo76CEwb_lGqVAnCl0BRwyOHiyYhzm2_etNB5xDfRiIC5U1ZovBYgSP4SIEad9bJtLVfYzrSX2SbFOVb-CEyh5RVjlNuJp1B0Me83U==",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_013",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "Internet, intranet e extranet, as redes que fazem parte de nossas vidas - Controle Net",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF9RwBxJm47XRTdOZO1yDVxOh-vIrI4k8a3MnfWS59KJQ2FtdQ9dtxqHOlp7FN0cvtkcQvi0ofmBrRqStpUxI3uwV6Gs1QnyY0WYNL450yf9FHlb1bdhAvD3HxiH1a2JzYanQP9YkP5GewsgGDyuPNtU5AGZg==",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_014",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "Computer Science for Competitive Exams - Lesson 02.3 - Networks II - TCP/IP Architecture",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFhMXdSZfuO1J4dRIpQukaP_W9ZWiQj6E4TeCD21h-A9IKiqXoQmPKqK1ooV86Il572qlALHdgyFRXUDHs_hykShmH-3tdCCia0HR-huWCQouJrbF1jo75mJQfkv0LBXSFmnJrfmwI==",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_015",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "Difference between internet and intranet | Computer Networks - YouTube",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE5zoynBXddIhMfS5HkzQHSN1Ox_aMoc8uIedPeDgSL5wCZUs_Vm1E6hbqzZWcMpC-IYufLq4d3CFE59V2A5UtCEjlLRPqhiLVQO_AlzlBa95DbfkZILA8oCnIuSuWwMOywA7hG1A==",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_016",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "Diferenças entre Internet, Intranet e Extranet - Scribd",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHQcc9REUINS7t6Nmi1P3SGNew7IpU7Ux9lHPzFSlZB1d6ITqqrNadK0wytGpgCemB94HN-U2vXpmjE-ifimAzC1ATmdFZJ20nOb3E_l0xS5pilhFilCRSIfGHK0hVonJgrCKgsX3N8N-3m8ZDQ-xu5w9anbzGo-Ia6-rN38OM==",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_017",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "Banco do Brasil 2025 - Aula de Informática: Conceitos De Internet E Intranet - YouTube",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFxxT6_UP61rOQA9H7BunYmcTvzwvm2gRk8zvoD-WUeHbtQr77LKodkxGWIaK1S60NRn2EXD4LiCFSvUYznA4lvXsxOHTdbpwEdb_qdeniTt6HyEL3UbucZ1SyW-15tsBviYbBzUuU==",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_018",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "Questões Cespe/Cebraspe sobre Internet & Intranet - YouTube",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEXysjqgTOuNKFSTUpTdvmPWkQkzw2gEgBrwXv7lmvq7T4O4gShKYhxOaPFgjnt1XGoCTWkKyMWwjC2CmbbPqe490gY7hQFXCNEOrQGPaIw0X9ggac7AMUHkoBoGkBIvaC-ikXu1jk==",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_019",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "Pegadinhas da banca Cebraspe: como identificar? - Soma Concursos",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHCxz2gdePY_TTiTlcbHxKopAmMfN0B9624cxv3P3YTByPTddRNOrtJkyu-4txSnGrTQrE3s4Myi7MZapADw5qeNfkaZrA6Xykz9HrF26Ci-EMqo0eQsrPtRvYmLiJ2SFVvMJ9R_zMJ20a7kHr_WNDFttgOVVdsMg1-vP4lv-TzMc-DW8hy0C7POqFDa2vNslVGZazIbmNw4Qfr5Q==",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_020",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "Diferenças entre Intranet e Internet | PDF | Rede Privada Virtual (VPN) - Scribd",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG0MSjNrAVBcVqbCoay-89kjM70oskHpBFp_qj94nO9T21Hwyk38EwbIWP5loUL6p6TrF7bTJfeG1j9aW89urhMhMlG5Vk3HdJ8k_skclnkHJE1ojv-n-tq4aFgVhf77SSBf4ayBRqWPvC0Yc6O_NazljD9Q5R_vofER7Kn314t-X-JztqOxQ==",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_021",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "Julgue o item a seguir acerca de intranet, extranet, UDDI, ... - Qconcursos",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHLKxIrRhVG4R7rY5F4G9zOSBua8THRF-8EuKWEnKEPiAAH1pL4AAsn7DtgsMYpKcDKXZaEJ1yw8SByfSB4xvCvFuxC0OWUg6k58Lr5kGJnor_h7iQNfFwgnS2Vajl1vBQvlJmaAk8IV4CbJGqZh7YFv18GMTB95iVmVaCpCEnLfA==",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_022",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "Questão 2783413 CEBRASPE (CESPE) - Assistente (CAU BR)/Administrativo",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFIMVcQw9jdcs3Sz7TjGm9Xi7Pm2excpfsWkUSUqgubMsomYqYHJshvNZH9Dj0XOMyxUsoqJDJSR21pM4Lbr-1U8FNDPA3XhMIxV78217yi1beHme9m2lOuyqYoYDjSmoLwsTIALsNwctWFoQ==",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_023",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "Acerca dos ambientes de Internet, extranet, intranet e portal de uma organização, assinale a opção correta.",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEpAj6BjwzPvoN2lJ3x5rl_fEQ24YH_tw0o3bBy-PuGOfrtJHxHNfpyNtglmU0xQe37ZT6E5pmiixoAyV1ABdrf4vVJbz_vlPQBlyPtLjn4DFe9TZb63_Iwm4Qwuz56v8enLTMfCTB3CTPWLeCauIeYqe47qLELu2XkxmLfdFVOr-jzFkzWT4DTEA==",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_024",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "Questões Banca CEBRASPE - Internet parte 2 | Informática com Prof Danilo Vilanova #opior #concursos - YouTube",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGzZZTrzUFR0jOvNzkgjQ6J36XwSSWbBU0XqrzJkPcyvvgSA_V6jAMiIkIuFww9H0jyyD7q7dDpIfwkhiI6JZyPiIXQviC5Pb-ZtRjfKwkYUHB7jgGxomWr1MT-HigFHawRwModUw8==",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_025",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "SEGREDO - CESPE NÃO QUER QUE VOCÊ SAIBA ISSO! (Acerte Questões Sem Ler!)",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEgcF5H47ttX7vNKQMI-dX-mitwlviA1L-DNBornSTsZZjukApmCeT27jrp_NYgFEgz5ZaBaUDb-j9G48Pqx1UUxD_sATz9OEUSYSdl-EtPSikS-DRlztOPlT2e_IkLiZIrgHDmlLs==",
+      "accessed_at": null,
+      "description": null
+    }
+  ],
+  "estatisticas_de_geracao": {
+    "total_topicos": 7,
+    "total_componentes_topico": 25,
+    "total_entendimentos_relevantes": 3,
+    "total_pegadinhas": 5,
+    "total_pontos_memorizacao": 5,
+    "total_itens_quadro_sinotico": 5,
+    "total_questoes": 8,
+    "total_comentarios_questoes": 8,
+    "total_itens_checklist": 6,
+    "total_referencias": 25
+  },
+  "validacao_interna": {
+    "pesquisa_previa_realizada": true,
+    "analise_de_cobrancas_anteriores_realizada": true,
+    "material_atualizado": true,
+    "json_valido": true,
+    "estrutura_relacional_respeitada": true,
+    "numeracao_respeitada": true,
+    "houve_quebra_de_hierarquia": false,
+    "houve_nivel_numerico_superior_a_3": false,
+    "fontes_verificadas": true,
+    "sem_informacao_inventada": true
+  },
+  "metadata": {
+    "source_file_name": "5__informática-e-dados__5-noções-de-redes-de-computadores-5.2-internet-e-intranet.json",
+    "normalized_checksum": "7d201e11f2a5de5f55cb07c0006e35894ecfc217025bd9ea5bdd73712f44aa6f",
+    "subject_slug": "informatica",
+    "material_slug": "redes-computadores-internet-intranet",
+    "title_slug": "nocoes-de-redes-de-computadores-internet-e",
+    "board_slug": "cebraspe",
+    "counters": {
+      "blocks": 7,
+      "topics": 7,
+      "topic_components": 25,
+      "traps": 5,
+      "memory_points": 5,
+      "summary_items": 5,
+      "questions": 8,
+      "question_comments": 8,
+      "checklist_items": 6,
+      "references": 25
+    }
+  }
+}

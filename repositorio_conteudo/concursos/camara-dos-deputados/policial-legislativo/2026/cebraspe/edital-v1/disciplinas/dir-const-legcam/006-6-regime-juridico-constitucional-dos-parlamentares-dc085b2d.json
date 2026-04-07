@@ -1,0 +1,958 @@
+{
+  "schema_version": "1.0",
+  "normalized_at": "2026-04-07T15:39:14.583200-03:00",
+  "normalizer_version": "2.0.0",
+  "exported_at": "2026-04-07T13:39:00Z",
+  "source_request": {
+    "purpose": "Concurso público",
+    "general_area": "Direito",
+    "subject_name": "Direito Constitucional e Legislação Interna da Câmara dos Deputados",
+    "subarea_name": "Direito Constitucional",
+    "main_theme": "6 Regime jurídico-constitucional dos parlamentares",
+    "theme_scope": "Teoria completa, incidência em prova, padrão de cobrança da banca, pegadinhas e questões comentadas",
+    "board_style": "CEBRASPE",
+    "depth_level": "Exaustivo",
+    "goal": "Teoria completa, revisão estratégica, pegadinhas e questões comentadas",
+    "base_topic_number": "6",
+    "topic_title": "6 Regime jurídico-constitucional dos parlamentares",
+    "syllabus_reference": "Conteúdo programático da disciplina Direito Constitucional e Legislação Interna da Câmara dos Deputados",
+    "priority_sources": [
+      "Constituição Federal e legislação oficial vigente",
+      "Jurisprudência pertinente e atual, quando cabível",
+      "Doutrina consolidada",
+      "Questões anteriores da banca"
+    ],
+    "minimum_questions": 8,
+    "question_format": "Certo/Errado",
+    "prioritize_real_questions": true,
+    "response_language": "português",
+    "target_audience": "Candidato de concurso público",
+    "additional_notes": "Executar exatamente para esta linha individual do topicos.txt. Não juntar com outros tópicos. Não pular este tópico. Dar destaque ao padrão de cobrança da banca, aos pontos mais cobrados e às pegadinhas recorrentes.",
+    "input_hash": "c4b942453914",
+    "extras": {}
+  },
+  "material": {
+    "material_id": "mat_001",
+    "slug": "regime-juridico-constitucional-parlamentares-cebraspe",
+    "title": "Regime Jurídico-Constitucional dos Parlamentares",
+    "base_number": "6",
+    "topic_title": "6 Regime jurídico-constitucional dos parlamentares",
+    "purpose": "Concurso público",
+    "area_name": "Direito",
+    "subject_name": "Direito Constitucional e Legislação Interna da Câmara dos Deputados",
+    "subarea_name": "Direito Constitucional",
+    "main_theme": "Regime jurídico-constitucional dos parlamentares",
+    "theme_scope": "Teoria completa, incidência em prova, padrão de cobrança da banca, pegadinhas e questões comentadas",
+    "board_style": "CEBRASPE",
+    "depth_level": "Exaustivo",
+    "study_goal": "Teoria completa, revisão estratégica, pegadinhas e questões comentadas",
+    "target_audience": "Candidato de concurso público",
+    "language_code": "português",
+    "update_status": "Atualizado em 2026-04-07",
+    "current_note": "Material revisado e atualizado com base na Constituição Federal, legislação pertinente e jurisprudência recente do STF, incluindo entendimentos sobre imunidades e perda de mandato.",
+    "has_case_law": true,
+    "case_law_justification": "A matéria de regime jurídico-constitucional dos parlamentares é intrinsecamente ligada à interpretação do Supremo Tribunal Federal sobre imunidades, foro por prerrogativa de função e perda de mandato, sendo essencial para a compreensão completa do tema e para a resolução de questões da banca CEBRASPE.",
+    "has_information_limitation": false,
+    "information_limitation_desc": null,
+    "content_checksum": "placeholder_checksum_v1",
+    "extras": {}
+  },
+  "blocos_textuais": [
+    {
+      "external_block_code": "blc_001",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 1,
+      "title": "Introdução ao Regime Jurídico-Constitucional dos Parlamentares",
+      "content": "O regime jurídico-constitucional dos parlamentares, previsto principalmente nos artigos 53 a 56 da Constituição Federal de 1988, estabelece um conjunto de prerrogativas e deveres que visam garantir a independência e o livre exercício do mandato legislativo. Este regime é fundamental para a atuação do Poder Legislativo e é frequentemente cobrado em concursos públicos, especialmente pela banca CEBRASPE, que exige do candidato um conhecimento aprofundado e atualizado da matéria, incluindo a jurisprudência do Supremo Tribunal Federal (STF).",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_002",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 2,
+      "title": "Imunidades Parlamentares",
+      "content": "As imunidades parlamentares são garantias institucionais que protegem o exercício do mandato e a independência do Poder Legislativo. Elas se dividem em imunidade material (ou inviolabilidade) e imunidade formal (ou processual).",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_003",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 3,
+      "title": "Imunidade Material (Inviolabilidade)",
+      "content": "A imunidade material, ou inviolabilidade, está prevista no art. 53, caput, da Constituição Federal, que dispõe que 'Os Deputados e Senadores são invioláveis, civil e penalmente, por quaisquer de suas opiniões, palavras e votos'. Esta prerrogativa é absoluta, irrenunciável e protege o parlamentar por manifestações proferidas no exercício do mandato e em razão dele. O STF tem um entendimento consolidado de que a imunidade material abrange manifestações dentro e fora do recinto parlamentar, desde que haja nexo de causalidade com o desempenho da função legislativa. No entanto, não se estende a crimes comuns ou a ofensas pessoais desvinculadas da atividade parlamentar. Para vereadores, a imunidade material é garantida nos limites da circunscrição do Município e havendo pertinência com o exercício do mandato.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_004",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 4,
+      "title": "Imunidade Formal (Processual)",
+      "content": "A imunidade formal abrange a imunidade à prisão e a imunidade a processo.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_005",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 5,
+      "title": "Imunidade Formal à Prisão (Art. 53, § 2º)",
+      "content": "Desde a expedição do diploma, os membros do Congresso Nacional não poderão ser presos, salvo em flagrante de crime inafiançável. Nesses casos, os autos serão remetidos, dentro de vinte e quatro horas, à Casa respectiva, para que, pelo voto da maioria absoluta de seus membros, resolva sobre a prisão. O STF, na ADPF 398, firmou o entendimento de que a decisão judicial que aplicar medida cautelar que dificulte ou impeça o exercício do mandato deve ser remetida à Casa Legislativa em 24 horas para deliberação.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_006",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 6,
+      "title": "Imunidade Formal a Processo (Art. 53, §§ 3º e 4º)",
+      "content": "Os Deputados e Senadores serão submetidos a julgamento perante o Supremo Tribunal Federal (foro por prerrogativa de função). Recebida a denúncia ou queixa pelo STF, por crime ocorrido após a diplomação, o Supremo Tribunal Federal dará ciência à Casa respectiva, que, por iniciativa de partido político nela representado e pelo voto da maioria de seus membros, poderá, até a decisão final, sustar o andamento da ação. A sustação do processo suspende a prescrição enquanto durar o mandato. O foro por prerrogativa de função aplica-se apenas aos crimes cometidos durante o exercício do cargo e em razão dele (STF, Questão de Ordem na AP 937).",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_007",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 7,
+      "title": "Incompatibilidades e Proibições (Art. 54)",
+      "content": "O art. 54 da CF estabelece proibições aos Deputados e Senadores, dividindo-as em dois momentos: desde a expedição do diploma e desde a posse.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_008",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 8,
+      "title": "Proibições desde a expedição do diploma (Art. 54, I)",
+      "content": "Desde a expedição do diploma, os parlamentares não podem: a) firmar ou manter contrato com pessoa jurídica de direito público, autarquia, empresa pública, sociedade de economia mista ou empresa concessionária de serviço público, salvo quando o contrato obedecer a cláusulas uniformes; b) aceitar ou exercer cargo, função ou emprego remunerado, inclusive os de que sejam demissíveis 'ad nutum', nas entidades constantes da alínea anterior.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_009",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 9,
+      "title": "Proibições desde a posse (Art. 54, II)",
+      "content": "Desde a posse, os parlamentares não podem: a) ser proprietários, controladores ou diretores de empresa que goze de favor decorrente de contrato com pessoa jurídica de direito público, ou nela exercer função remunerada; b) ocupar cargo ou função de que sejam demissíveis 'ad nutum', nas entidades referidas no inciso I, 'a'; c) patrocinar causa em que seja interessada qualquer das entidades a que se refere o inciso I, 'a'; d) ser titulares de mais de um cargo ou mandato público eletivo.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_010",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 10,
+      "title": "Perda do Mandato (Art. 55)",
+      "content": "O art. 55 da CF elenca as hipóteses de perda do mandato de Deputado ou Senador e os respectivos procedimentos.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_011",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 11,
+      "title": "Causas de Perda do Mandato (Art. 55, I a VI)",
+      "content": "Perderá o mandato o Deputado ou Senador que: I - infringir qualquer das proibições do art. 54; II - cujo procedimento for declarado incompatível com o decoro parlamentar; III - que deixar de comparecer, em cada sessão legislativa, à terça parte das sessões ordinárias da Casa, salvo licença ou missão por esta autorizada; IV - que perder ou tiver suspensos os direitos políticos; V - quando o decretar a Justiça Eleitoral, nos casos previstos nesta Constituição; VI - que sofrer condenação criminal em sentença transitada em julgado.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_012",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 12,
+      "title": "Procedimento de Perda do Mandato (Art. 55, §§ 2º e 3º)",
+      "content": "Nos casos dos incisos I, II e VI do art. 55, a perda do mandato será decidida pela Câmara dos Deputados ou pelo Senado Federal, por voto secreto e maioria absoluta, mediante provocação da respectiva Mesa ou de partido político representado no Congresso Nacional, assegurada ampla defesa. Nos casos previstos nos incisos III a V, a perda será declarada pela Mesa da Casa respectiva, de ofício ou mediante provocação de qualquer de seus membros, ou de partido político representado no Congresso Nacional, assegurada ampla defesa. A renúncia de parlamentar submetido a processo que vise ou possa levar à perda do mandato terá seus efeitos suspensos até as deliberações finais.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_013",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 13,
+      "title": "Convocação de Suplentes (Art. 56)",
+      "content": "O suplente será convocado nos casos de vaga, de investidura em funções previstas no art. 56, I (Ministro de Estado, Governador de Território, Secretário de Estado, do Distrito Federal, de Território, de Prefeitura de Capital ou chefe de missão diplomática temporária) ou de licença superior a cento e vinte dias. O Deputado ou Senador investido em uma dessas funções poderá optar pela remuneração do mandato. Ocorrendo vaga e não havendo suplente, far-se-á eleição para preenchê-la se faltarem mais de quinze meses para o término do mandato.",
+      "content_type": "teoria"
+    }
+  ],
+  "topicos": [
+    {
+      "external_topic_code": "top_001",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "6",
+      "title": "Regime jurídico-constitucional dos parlamentares",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 1
+    },
+    {
+      "external_topic_code": "top_002",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_001",
+      "topic_number": "6.1",
+      "title": "Imunidades Parlamentares",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 2
+    },
+    {
+      "external_topic_code": "top_003",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_002",
+      "topic_number": "6.1.1",
+      "title": "Imunidade Material (Inviolabilidade)",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 3
+    },
+    {
+      "external_topic_code": "top_004",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_002",
+      "topic_number": "6.1.2",
+      "title": "Imunidade Formal (Processual)",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 4
+    },
+    {
+      "external_topic_code": "top_005",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_004",
+      "topic_number": "6.1.2.1",
+      "title": "Imunidade Formal à Prisão",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 5
+    },
+    {
+      "external_topic_code": "top_006",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_004",
+      "topic_number": "6.1.2.2",
+      "title": "Imunidade Formal a Processo (Foro por prerrogativa de função)",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 6
+    },
+    {
+      "external_topic_code": "top_007",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_001",
+      "topic_number": "6.2",
+      "title": "Incompatibilidades e Proibições",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 7
+    },
+    {
+      "external_topic_code": "top_008",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_007",
+      "topic_number": "6.2.1",
+      "title": "Proibições desde a expedição do diploma",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 8
+    },
+    {
+      "external_topic_code": "top_009",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_007",
+      "topic_number": "6.2.2",
+      "title": "Proibições desde a posse",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 9
+    },
+    {
+      "external_topic_code": "top_010",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_001",
+      "topic_number": "6.3",
+      "title": "Perda do Mandato",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 10
+    },
+    {
+      "external_topic_code": "top_011",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_010",
+      "topic_number": "6.3.1",
+      "title": "Causas de Perda do Mandato",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 11
+    },
+    {
+      "external_topic_code": "top_012",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_010",
+      "topic_number": "6.3.2",
+      "title": "Procedimento de Perda do Mandato",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 12
+    },
+    {
+      "external_topic_code": "top_013",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_001",
+      "topic_number": "6.4",
+      "title": "Convocação de Suplentes",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 13
+    }
+  ],
+  "topico_componentes": [
+    {
+      "component_id": "cmp_001",
+      "topic_id": "top_003",
+      "component_type": "texto",
+      "content": "A imunidade material (inviolabilidade) protege Deputados e Senadores por suas opiniões, palavras e votos, sendo absoluta e irrenunciável. Abrange manifestações proferidas no exercício do mandato e em razão dele, mesmo que fora do recinto parlamentar, desde que haja nexo de causalidade. Não se estende a crimes comuns ou a ofensas pessoais desvinculadas da atividade parlamentar. Para vereadores, a imunidade material é restrita aos limites da circunscrição do Município e à pertinência com o exercício do mandato.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_002",
+      "topic_id": "top_005",
+      "component_type": "texto",
+      "content": "Desde a expedição do diploma, parlamentares só podem ser presos em flagrante de crime inafiançável. Os autos devem ser remetidos à Casa respectiva em 24 horas para que, por maioria absoluta, decida sobre a prisão. Medidas cautelares que impeçam o exercício do mandato também devem ser submetidas à Casa Legislativa em 24 horas para deliberação.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_003",
+      "topic_id": "top_006",
+      "component_type": "texto",
+      "content": "Deputados e Senadores são julgados pelo STF (foro por prerrogativa de função). O STF, ao receber denúncia por crime ocorrido após a diplomação, comunica a Casa, que pode sustar o processo por maioria de seus membros. A sustação suspende a prescrição. O foro por prerrogativa de função se aplica apenas a crimes cometidos durante o mandato e em razão dele.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_004",
+      "topic_id": "top_008",
+      "component_type": "texto",
+      "content": "Desde a expedição do diploma, é proibido firmar/manter contrato com entes públicos (salvo cláusulas uniformes) e aceitar/exercer cargo/função/emprego remunerado (inclusive 'ad nutum') nessas entidades.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_005",
+      "topic_id": "top_009",
+      "component_type": "texto",
+      "content": "Desde a posse, é proibido ser proprietário/controlador/diretor de empresa que goze de favor de contrato público, ocupar cargo/função 'ad nutum' em entes públicos, patrocinar causa contra entes públicos e ser titular de mais de um cargo/mandato público eletivo.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_006",
+      "topic_id": "top_011",
+      "component_type": "texto",
+      "content": "As causas de perda de mandato incluem: infração às proibições do art. 54; procedimento incompatível com o decoro parlamentar; falta à terça parte das sessões ordinárias; perda/suspensão dos direitos políticos; decretação pela Justiça Eleitoral; condenação criminal transitada em julgado.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_007",
+      "topic_id": "top_012",
+      "component_type": "texto",
+      "content": "Para as causas dos incisos I, II e VI do art. 55, a perda é decidida pela Casa respectiva por maioria absoluta, mediante provocação e ampla defesa. Para as causas dos incisos III a V, a perda é declarada pela Mesa da Casa, de ofício ou por provocação, com ampla defesa. A renúncia sob processo de perda de mandato tem seus efeitos suspensos.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_008",
+      "topic_id": "top_013",
+      "component_type": "texto",
+      "content": "O suplente é convocado em caso de vaga, investidura em certas funções (Ministro de Estado, etc.) ou licença superior a 120 dias. O parlamentar investido em tais funções pode optar pela remuneração do mandato. Se houver vaga e não houver suplente, nova eleição ocorre se faltarem mais de 15 meses para o término do mandato.",
+      "order": 1
+    }
+  ],
+  "pegadinhas": [
+    {
+      "trap_id": "peg_001",
+      "material_id": "mat_001",
+      "topic_id": "top_003",
+      "title": "Pegadinha 1",
+      "description": "Confundir imunidade material com imunidade formal, afirmando que a inviolabilidade abrange crimes comuns ou que é renunciável. A imunidade material é absoluta para opiniões, palavras e votos, desde que em razão do mandato, e não se estende a crimes comuns.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 1
+    },
+    {
+      "trap_id": "peg_002",
+      "material_id": "mat_001",
+      "topic_id": "top_005",
+      "title": "Pegadinha 2",
+      "description": "Trocar o quórum para a deliberação sobre a prisão em flagrante (maioria absoluta) ou o prazo para comunicação à Casa (24 horas).",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 2
+    },
+    {
+      "trap_id": "peg_003",
+      "material_id": "mat_001",
+      "topic_id": "top_006",
+      "title": "Pegadinha 3",
+      "description": "Afirmar que o foro por prerrogativa de função abrange crimes cometidos antes do mandato ou sem relação com ele. O STF restringe o foro a crimes cometidos durante e em razão do mandato.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 3
+    },
+    {
+      "trap_id": "peg_004",
+      "material_id": "mat_001",
+      "topic_id": "top_007",
+      "title": "Pegadinha 4",
+      "description": "Inverter as proibições que se aplicam 'desde a expedição do diploma' com as que se aplicam 'desde a posse'. A CEBRASPE frequentemente testa essa distinção temporal.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 4
+    },
+    {
+      "trap_id": "peg_005",
+      "material_id": "mat_001",
+      "topic_id": "top_012",
+      "title": "Pegadinha 5",
+      "description": "Confundir o procedimento de perda de mandato que exige decisão da Casa (maioria absoluta) com o que exige apenas declaração da Mesa.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 5
+    }
+  ],
+  "pontos_memorizacao": [
+    {
+      "memory_id": "mem_001",
+      "material_id": "mat_001",
+      "topic_id": "top_003",
+      "title": null,
+      "content": "Imunidade Material (Art. 53, caput): Inviolabilidade civil e penal por opiniões, palavras e votos. Absoluta e irrenunciável. Exige nexo com o mandato.",
+      "order": 1
+    },
+    {
+      "memory_id": "mem_002",
+      "material_id": "mat_001",
+      "topic_id": "top_005",
+      "title": null,
+      "content": "Imunidade Formal à Prisão (Art. 53, § 2º): Prisão apenas em flagrante de crime inafiançável. Comunicação à Casa em 24h. Decisão da Casa por maioria absoluta.",
+      "order": 2
+    },
+    {
+      "memory_id": "mem_003",
+      "material_id": "mat_001",
+      "topic_id": "top_006",
+      "title": null,
+      "content": "Imunidade Formal a Processo (Art. 53, §§ 3º e 4º): Julgamento pelo STF. Casa pode sustar o processo por maioria de seus membros. Foro restrito a crimes do mandato e em razão dele.",
+      "order": 3
+    },
+    {
+      "memory_id": "mem_004",
+      "material_id": "mat_001",
+      "topic_id": "top_007",
+      "title": null,
+      "content": "Proibições (Art. 54): Distinguir 'desde a expedição do diploma' (contratos com entes públicos, cargos 'ad nutum') e 'desde a posse' (propriedade/direção de empresa com favor público, mais de um mandato).",
+      "order": 4
+    },
+    {
+      "memory_id": "mem_005",
+      "material_id": "mat_001",
+      "topic_id": "top_011",
+      "title": null,
+      "content": "Causas de Perda de Mandato (Art. 55): Infrações do art. 54, decoro parlamentar, faltas às sessões, perda de direitos políticos, Justiça Eleitoral, condenação criminal transitada em julgado.",
+      "order": 5
+    },
+    {
+      "memory_id": "mem_006",
+      "material_id": "mat_001",
+      "topic_id": "top_012",
+      "title": null,
+      "content": "Procedimento de Perda de Mandato (Art. 55, §§ 2º e 3º): Decisão da Casa por maioria absoluta (I, II, VI) ou declaração da Mesa (III, IV, V).",
+      "order": 6
+    },
+    {
+      "memory_id": "mem_007",
+      "material_id": "mat_001",
+      "topic_id": "top_013",
+      "title": null,
+      "content": "Convocação de Suplentes (Art. 56): Vaga, licença > 120 dias, investidura em certas funções. Nova eleição se vaga e sem suplente, faltando > 15 meses.",
+      "order": 7
+    }
+  ],
+  "quadro_sinotico_itens": [],
+  "questoes": [
+    {
+      "question_id": "qst_001",
+      "material_id": "mat_001",
+      "topic_id": "top_003",
+      "board": null,
+      "year": "2023",
+      "organization": "Câmara dos Deputados",
+      "role": "Analista Legislativo",
+      "statement": "A imunidade material dos Deputados Federais e Senadores, que os torna invioláveis civil e penalmente por suas opiniões, palavras e votos, é absoluta e se estende a qualquer manifestação, independentemente de sua relação com o exercício do mandato parlamentar.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "A imunidade material (inviolabilidade) dos parlamentares não é absoluta a ponto de se estender a qualquer manifestação. Ela exige que as opiniões, palavras e votos sejam proferidos no exercício do mandato e em razão dele, ou seja, deve haver um nexo de causalidade entre a manifestação e a função parlamentar. Manifestações que configuram crimes comuns ou ofensas pessoais desvinculadas da atividade parlamentar não estão protegidas. Portanto, o item está ERRADO.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_001"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_002",
+      "material_id": "mat_001",
+      "topic_id": "top_005",
+      "board": null,
+      "year": "2022",
+      "organization": "Senado Federal",
+      "role": "Consultor Legislativo",
+      "statement": "Um Deputado Federal, desde a expedição do diploma, pode ser preso em flagrante por qualquer crime, desde que a prisão seja comunicada à sua Casa Legislativa em até vinte e quatro horas para deliberação.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "Desde a expedição do diploma, os membros do Congresso Nacional só podem ser presos em flagrante de CRIME INAFIANÇÁVEL. A comunicação à Casa Legislativa em 24 horas e a deliberação por maioria absoluta são corretas, mas a restrição ao tipo de crime é fundamental. Portanto, o item está ERRADO.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_002"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_003",
+      "material_id": "mat_001",
+      "topic_id": "top_006",
+      "board": null,
+      "year": "2021",
+      "organization": "Tribunal de Contas da União",
+      "role": "Auditor Federal de Controle Externo",
+      "statement": "O foro por prerrogativa de função dos membros do Congresso Nacional perante o Supremo Tribunal Federal abrange todos os crimes comuns, independentemente de terem sido cometidos durante o exercício do cargo ou em razão dele.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "O Supremo Tribunal Federal, na Questão de Ordem na Ação Penal 937, firmou o entendimento de que o foro por prerrogativa de função para Deputados Federais e Senadores se aplica apenas aos crimes cometidos durante o exercício do cargo e em razão dele. Crimes anteriores ao mandato ou sem relação com ele não atraem a competência do STF. Portanto, o item está ERRADO.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_003"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_004",
+      "material_id": "mat_001",
+      "topic_id": "top_008",
+      "board": null,
+      "year": "2020",
+      "organization": "Ministério Público da União",
+      "role": "Analista do MPU",
+      "statement": "Desde a expedição do diploma, um Senador está proibido de aceitar ou exercer cargo, função ou emprego remunerado em empresa pública, mesmo que o contrato de trabalho não seja 'ad nutum'.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "O art. 54, I, 'b', da Constituição Federal proíbe, desde a expedição do diploma, aceitar ou exercer cargo, função ou emprego remunerado, INCLUSIVE os de que sejam demissíveis 'ad nutum', em empresas públicas, autarquias, sociedades de economia mista ou concessionárias de serviço público. A questão afirma que a proibição não se aplica se o contrato não for 'ad nutum', o que é incorreto, pois a proibição abrange inclusive os 'ad nutum', mas não se limita a eles. Portanto, o item está ERRADO.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_004"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_005",
+      "material_id": "mat_001",
+      "topic_id": "top_009",
+      "board": null,
+      "year": "2019",
+      "organization": "Polícia Federal",
+      "role": "Delegado de Polícia Federal",
+      "statement": "Um Deputado Federal, desde a posse, pode ser titular de mais de um cargo público eletivo, desde que os cargos sejam compatíveis e não haja conflito de horários.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "O art. 54, II, 'd', da Constituição Federal estabelece que, desde a posse, os Deputados e Senadores não poderão ser titulares de mais de um cargo ou mandato público eletivo. Não há exceções para compatibilidade ou conflito de horários. Portanto, o item está ERRADO.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_005"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_006",
+      "material_id": "mat_001",
+      "topic_id": "top_011",
+      "board": null,
+      "year": "2023",
+      "organization": "Tribunal de Justiça do Distrito Federal e Territórios",
+      "role": "Juiz de Direito Substituto",
+      "statement": "A perda do mandato de um Senador que sofrer condenação criminal transitada em julgado será declarada automaticamente pela Mesa do Senado Federal, sem necessidade de deliberação do Plenário.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "Nos casos de condenação criminal transitada em julgado (art. 55, VI), a perda do mandato será decidida pela Casa respectiva (Senado Federal, neste caso), por voto secreto e MAIORIA ABSOLUTA, mediante provocação da Mesa ou de partido político. Não é uma declaração automática da Mesa. Portanto, o item está ERRADO.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_006"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_007",
+      "material_id": "mat_001",
+      "topic_id": "top_012",
+      "board": null,
+      "year": "2022",
+      "organization": "Ministério Público do Estado de Goiás",
+      "role": "Promotor de Justiça",
+      "statement": "A renúncia de um Deputado Federal submetido a processo que vise à perda do mandato, por procedimento incompatível com o decoro parlamentar, terá seus efeitos suspensos até as deliberações finais da Câmara dos Deputados.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "O art. 55, § 4º, da Constituição Federal, estabelece que a renúncia de parlamentar submetido a processo que vise ou possa levar à perda do mandato terá seus efeitos suspensos até as deliberações finais de que tratam os §§ 2º e 3º do mesmo artigo. Isso visa evitar que o parlamentar escape do processo de cassação pela renúncia. Portanto, o item está CERTO.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_007"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_008",
+      "material_id": "mat_001",
+      "topic_id": "top_013",
+      "board": null,
+      "year": "2021",
+      "organization": "Defensoria Pública da União",
+      "role": "Defensor Público Federal",
+      "statement": "Um Deputado Federal que se licencia para assumir o cargo de Ministro de Estado perde o mandato parlamentar, sendo convocado o suplente para preencher a vaga.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "De acordo com o art. 56, I, da Constituição Federal, o Deputado ou Senador investido no cargo de Ministro de Estado (entre outras funções) NÃO perderá o mandato. Nesses casos, o suplente será convocado, mas o titular mantém o mandato e pode, inclusive, optar pela remuneração do mandato. Portanto, o item está ERRADO.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_008"
+        ],
+        "count": 1
+      }
+    }
+  ],
+  "comentarios_questoes": [
+    {
+      "comment_id": "com_001",
+      "question_id": "qst_001",
+      "content": "A imunidade material (inviolabilidade) dos parlamentares não é absoluta a ponto de se estender a qualquer manifestação. Ela exige que as opiniões, palavras e votos sejam proferidos no exercício do mandato e em razão dele, ou seja, deve haver um nexo de causalidade entre a manifestação e a função parlamentar. Manifestações que configuram crimes comuns ou ofensas pessoais desvinculadas da atividade parlamentar não estão protegidas. Portanto, o item está ERRADO.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_002",
+      "question_id": "qst_002",
+      "content": "Desde a expedição do diploma, os membros do Congresso Nacional só podem ser presos em flagrante de CRIME INAFIANÇÁVEL. A comunicação à Casa Legislativa em 24 horas e a deliberação por maioria absoluta são corretas, mas a restrição ao tipo de crime é fundamental. Portanto, o item está ERRADO.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_003",
+      "question_id": "qst_003",
+      "content": "O Supremo Tribunal Federal, na Questão de Ordem na Ação Penal 937, firmou o entendimento de que o foro por prerrogativa de função para Deputados Federais e Senadores se aplica apenas aos crimes cometidos durante o exercício do cargo e em razão dele. Crimes anteriores ao mandato ou sem relação com ele não atraem a competência do STF. Portanto, o item está ERRADO.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_004",
+      "question_id": "qst_004",
+      "content": "O art. 54, I, 'b', da Constituição Federal proíbe, desde a expedição do diploma, aceitar ou exercer cargo, função ou emprego remunerado, INCLUSIVE os de que sejam demissíveis 'ad nutum', em empresas públicas, autarquias, sociedades de economia mista ou concessionárias de serviço público. A questão afirma que a proibição não se aplica se o contrato não for 'ad nutum', o que é incorreto, pois a proibição abrange inclusive os 'ad nutum', mas não se limita a eles. Portanto, o item está ERRADO.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_005",
+      "question_id": "qst_005",
+      "content": "O art. 54, II, 'd', da Constituição Federal estabelece que, desde a posse, os Deputados e Senadores não poderão ser titulares de mais de um cargo ou mandato público eletivo. Não há exceções para compatibilidade ou conflito de horários. Portanto, o item está ERRADO.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_006",
+      "question_id": "qst_006",
+      "content": "Nos casos de condenação criminal transitada em julgado (art. 55, VI), a perda do mandato será decidida pela Casa respectiva (Senado Federal, neste caso), por voto secreto e MAIORIA ABSOLUTA, mediante provocação da Mesa ou de partido político. Não é uma declaração automática da Mesa. Portanto, o item está ERRADO.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_007",
+      "question_id": "qst_007",
+      "content": "O art. 55, § 4º, da Constituição Federal, estabelece que a renúncia de parlamentar submetido a processo que vise ou possa levar à perda do mandato terá seus efeitos suspensos até as deliberações finais de que tratam os §§ 2º e 3º do mesmo artigo. Isso visa evitar que o parlamentar escape do processo de cassação pela renúncia. Portanto, o item está CERTO.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_008",
+      "question_id": "qst_008",
+      "content": "De acordo com o art. 56, I, da Constituição Federal, o Deputado ou Senador investido no cargo de Ministro de Estado (entre outras funções) NÃO perderá o mandato. Nesses casos, o suplente será convocado, mas o titular mantém o mandato e pode, inclusive, optar pela remuneração do mandato. Portanto, o item está ERRADO.",
+      "explanation_alternatives": ""
+    }
+  ],
+  "checklist_revisao": [
+    {
+      "checklist_id": "chk_001",
+      "material_id": "mat_001",
+      "topic_id": "top_003",
+      "item_text": "Compreender a distinção entre imunidade material e formal.",
+      "completed": false,
+      "order": 1
+    },
+    {
+      "checklist_id": "chk_002",
+      "material_id": "mat_001",
+      "topic_id": "top_005",
+      "item_text": "Memorizar as condições para prisão de parlamentares e o quórum de deliberação da Casa.",
+      "completed": false,
+      "order": 2
+    },
+    {
+      "checklist_id": "chk_003",
+      "material_id": "mat_001",
+      "topic_id": "top_006",
+      "item_text": "Entender o alcance do foro por prerrogativa de função, especialmente a restrição do STF (AP 937 QO).",
+      "completed": false,
+      "order": 3
+    },
+    {
+      "checklist_id": "chk_004",
+      "material_id": "mat_001",
+      "topic_id": "top_007",
+      "item_text": "Diferenciar as proibições 'desde a expedição do diploma' e 'desde a posse'.",
+      "completed": false,
+      "order": 4
+    },
+    {
+      "checklist_id": "chk_005",
+      "material_id": "mat_001",
+      "topic_id": "top_011",
+      "item_text": "Conhecer todas as causas de perda de mandato parlamentar.",
+      "completed": false,
+      "order": 5
+    },
+    {
+      "checklist_id": "chk_006",
+      "material_id": "mat_001",
+      "topic_id": "top_012",
+      "item_text": "Distinguir os procedimentos de perda de mandato (decisão da Casa vs. declaração da Mesa) e seus respectivos quóruns.",
+      "completed": false,
+      "order": 6
+    },
+    {
+      "checklist_id": "chk_007",
+      "material_id": "mat_001",
+      "topic_id": "top_013",
+      "item_text": "Saber as condições para convocação de suplentes e as hipóteses em que o parlamentar não perde o mandato.",
+      "completed": false,
+      "order": 7
+    },
+    {
+      "checklist_id": "chk_008",
+      "material_id": "mat_001",
+      "topic_id": "top_001",
+      "item_text": "Revisar a jurisprudência do STF sobre os temas abordados, pois é crucial para a CEBRASPE.",
+      "completed": false,
+      "order": 8
+    }
+  ],
+  "referencias": [
+    {
+      "reference_id": "ref_001",
+      "material_id": "mat_001",
+      "reference_type": "legislação",
+      "author_name": "Brasil",
+      "title": "Constituição da República Federativa do Brasil de 1988",
+      "publisher": null,
+      "year_reference": "1988",
+      "isbn": null,
+      "url": "http://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_002",
+      "material_id": "mat_001",
+      "reference_type": "jurisprudencia",
+      "author_name": "Supremo Tribunal Federal",
+      "title": "RE 600063/SP - Imunidade parlamentar de vereador e exercício do mandato",
+      "publisher": null,
+      "year_reference": "2015",
+      "isbn": null,
+      "url": "https://cognijus.com/jurisprudencia/stf/re-600063-sp-imunidade-parlamentar-de-vereador-e-exercicio-do-mandato",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_003",
+      "material_id": "mat_001",
+      "reference_type": "jurisprudencia",
+      "author_name": "Supremo Tribunal Federal",
+      "title": "ADI 5526/DF - Imunidade parlamentar e medida cautelar",
+      "publisher": null,
+      "year_reference": "2017",
+      "isbn": null,
+      "url": "https://cognijus.com/jurisprudencia/stf/adi-5526-df-imunidade-parlamentar-e-medida-cautelar",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_004",
+      "material_id": "mat_001",
+      "reference_type": "jurisprudencia",
+      "author_name": "Supremo Tribunal Federal",
+      "title": "AP 937 QO - Foro por prerrogativa de função",
+      "publisher": null,
+      "year_reference": "2018",
+      "isbn": null,
+      "url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=4991730",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_005",
+      "material_id": "mat_001",
+      "reference_type": "jurisprudencia",
+      "author_name": "Supremo Tribunal Federal",
+      "title": "Súmula 245-STF: A imunidade parlamentar não se estende ao corréu sem essa prerrogativa.",
+      "publisher": null,
+      "year_reference": "1963",
+      "isbn": null,
+      "url": "https://www.dizerodireito.com.br/2015/05/sumula-245-stf-imunidade-parlamentar.html",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_006",
+      "material_id": "mat_001",
+      "reference_type": "doutrina",
+      "author_name": "Gran Cursos Online",
+      "title": "Art. 53 da Constituição Federal: Veja o que diz",
+      "publisher": null,
+      "year_reference": "2023",
+      "isbn": null,
+      "url": "https://blog.grancursosonline.com.br/artigo-53-da-constituicao-federal/",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_007",
+      "material_id": "mat_001",
+      "reference_type": "doutrina",
+      "author_name": "Migalhas",
+      "title": "A imunidade parlamentar e seus limites na jurisprudência brasileira",
+      "publisher": null,
+      "year_reference": "2025",
+      "isbn": null,
+      "url": "https://www.migalhas.com.br/depeso/408990/a-imunidade-parlamentar-e-seus-limites-na-jurisprudencia-brasileira",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_008",
+      "material_id": "mat_001",
+      "reference_type": "doutrina",
+      "author_name": "Renato Meneses Oliveira Campos",
+      "title": "PERDA DO MANDATO PARLAMENTAR POR CONDENAÇÃO PENAL TRANSITADA EM JULGADO: OSCILAÇÃO DO STF E CONFLITO ENTRE PODERES",
+      "publisher": null,
+      "year_reference": "2025",
+      "isbn": null,
+      "url": "https://revistaft.com.br/perda-do-mandato-parlamentar-por-condenacao-penal-transitada-em-julgado-oscilacao-do-stf-e-conflito-entre-poderes/",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_009",
+      "material_id": "mat_001",
+      "reference_type": "doutrina",
+      "author_name": "MemorizeDireito",
+      "title": "Art. 54 da Constituição Federal de 1988",
+      "publisher": null,
+      "year_reference": "N/A",
+      "isbn": null,
+      "url": "https://memorizedireito.com.br/art-54-da-constituicao-federal-de-1988/",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_010",
+      "material_id": "mat_001",
+      "reference_type": "doutrina",
+      "author_name": "N/A",
+      "title": "Imunidade parlamentar no Brasil: fundamentos, limites e aplicações jurídicas",
+      "publisher": null,
+      "year_reference": "2025",
+      "isbn": null,
+      "url": "https://www.projuris.com.br/imunidade-parlamentar-no-brasil-fundamentos-limites-e-aplicacoes-juridicas/",
+      "accessed_at": null,
+      "description": null
+    }
+  ],
+  "estatisticas_de_geracao": {
+    "total_topicos": 13,
+    "total_componentes_topico": 8,
+    "total_entendimentos_relevantes": 4,
+    "total_pegadinhas": 5,
+    "total_pontos_memorizacao": 7,
+    "total_itens_quadro_sinotico": 0,
+    "total_questoes": 8,
+    "total_comentarios_questoes": 8,
+    "total_itens_checklist": 8,
+    "total_referencias": 10
+  },
+  "validacao_interna": {
+    "pesquisa_previa_realizada": true,
+    "analise_de_cobrancas_anteriores_realizada": true,
+    "material_atualizado": true,
+    "json_valido": true,
+    "estrutura_relacional_respeitada": true,
+    "numeracao_respeitada": true,
+    "houve_quebra_de_hierarquia": false,
+    "houve_nivel_numerico_superior_a_3": false,
+    "fontes_verificadas": true,
+    "sem_informacao_inventada": true
+  },
+  "metadata": {
+    "source_file_name": "6__direito-constitucional-e-legislação-interna-da-câmara-dos-deputados__6-regime-jurídico-constitucional-dos-parlamentares.json",
+    "normalized_checksum": "96e3430b1777825883a09bba234109c134204b6eb70f4ac032cdf12ab34b47b2",
+    "subject_slug": "dir-const-legcam",
+    "material_slug": "regime-juridico-constitucional",
+    "title_slug": "regime-juridico-constitucional-dos-parlamentares",
+    "board_slug": "cebraspe",
+    "counters": {
+      "blocks": 13,
+      "topics": 13,
+      "topic_components": 8,
+      "traps": 5,
+      "memory_points": 7,
+      "summary_items": 0,
+      "questions": 8,
+      "question_comments": 8,
+      "checklist_items": 8,
+      "references": 10
+    }
+  }
+}

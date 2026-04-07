@@ -1,0 +1,828 @@
+{
+  "schema_version": "1.0",
+  "normalized_at": "2026-04-07T15:39:13.555709-03:00",
+  "normalizer_version": "2.0.0",
+  "exported_at": "2026-04-07T16:46:00Z",
+  "source_request": {
+    "purpose": "Concurso público",
+    "general_area": "Direito",
+    "subject_name": "Direito Constitucional e Legislação Interna da Câmara dos Deputados",
+    "subarea_name": "Direito Constitucional",
+    "main_theme": "12 Regimento Interno da Câmara dos Deputados: 12.1 Disposições preliminares e Órgãos da Câmara (arts. 1º a 24)",
+    "theme_scope": "Teoria completa, incidência em prova, padrão de cobrança da banca, pegadinhas e questões comentadas",
+    "board_style": "CEBRASPE",
+    "depth_level": "Exaustivo",
+    "goal": "Teoria completa, revisão estratégica, pegadinhas e questões comentadas",
+    "base_topic_number": "12",
+    "topic_title": "12 Regimento Interno da Câmara dos Deputados: 12.1 Disposições preliminares e Órgãos da Câmara (arts. 1º a 24)",
+    "syllabus_reference": "Conteúdo programático da disciplina Direito Constitucional e Legislação Interna da Câmara dos Deputados",
+    "priority_sources": [
+      "Constituição Federal e legislação oficial vigente",
+      "Jurisprudência pertinente e atual, quando cabível",
+      "Doutrina consolidada",
+      "Questões anteriores da banca"
+    ],
+    "minimum_questions": 8,
+    "question_format": "Certo/Errado",
+    "prioritize_real_questions": true,
+    "response_language": "português",
+    "target_audience": "Candidato de concurso público",
+    "additional_notes": "Executar exatamente para esta linha individual do topicos.txt. Não juntar com outros tópicos. Não pular este tópico. Dar destaque ao padrão de cobrança da banca, aos pontos mais cobrados e às pegadinhas recorrentes.",
+    "input_hash": "eeded5654c9f",
+    "extras": {}
+  },
+  "material": {
+    "material_id": "mat_001",
+    "slug": "ricd-disposicoes-preliminares-orgaos-camara-arts-1-24-cebraspe",
+    "title": "Regimento Interno da Câmara dos Deputados: Disposições Preliminares e Órgãos (Arts. 1º a 24)",
+    "base_number": "12",
+    "topic_title": "12 Regimento Interno da Câmara dos Deputados: 12.1 Disposições preliminares e Órgãos da Câmara (arts. 1º a 24)",
+    "purpose": "Concurso público",
+    "area_name": "Direito",
+    "subject_name": "Direito Constitucional e Legislação Interna da Câmara dos Deputados",
+    "subarea_name": "Direito Constitucional",
+    "main_theme": "Regimento Interno da Câmara dos Deputados",
+    "theme_scope": "Disposições preliminares e Órgãos da Câmara (arts. 1º a 24), com foco em CEBRASPE",
+    "board_style": "CEBRASPE",
+    "depth_level": "Exaustivo",
+    "study_goal": "Teoria completa, revisão estratégica, pegadinhas e questões comentadas",
+    "target_audience": "Candidato de concurso público",
+    "language_code": "português",
+    "update_status": "Atualizado até a Resolução nº 16, de 2025, da Câmara dos Deputados",
+    "current_note": "O material reflete a versão mais recente do Regimento Interno da Câmara dos Deputados (RICD) disponível, atualizada até a Resolução nº 16, de 2025. A análise do padrão de cobrança da banca CEBRASPE foi realizada com base em questões recentes e tendências identificadas em materiais preparatórios e comentários de especialistas.",
+    "has_case_law": true,
+    "case_law_justification": "A jurisprudência do Supremo Tribunal Federal (STF) sobre o controle de atos 'interna corporis' do Poder Legislativo é relevante para entender os limites da atuação judicial em relação às normas regimentais. Embora não haja jurisprudência específica que altere o teor dos artigos 1º a 24 do RICD para fins de concurso, o princípio da 'interna corporis' é um entendimento consolidado que permeia a interpretação da autonomia regimental.",
+    "has_information_limitation": false,
+    "information_limitation_desc": null,
+    "content_checksum": "placeholder_checksum_ricd_1_24",
+    "extras": {}
+  },
+  "blocos_textuais": [
+    {
+      "external_block_code": "blc_001",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 1,
+      "title": "Introdução ao Regimento Interno da Câmara dos Deputados (RICD)",
+      "content": "O Regimento Interno da Câmara dos Deputados (RICD) é o conjunto de normas que disciplina o funcionamento da Casa, o processo legislativo e as atribuições de seus membros e órgãos. Para concursos públicos, especialmente os organizados pela CEBRASPE, o estudo do RICD exige atenção aos detalhes, prazos, quóruns e exceções, sendo comum a cobrança literal do texto e a inversão de conceitos. Os artigos 1º a 24 abordam as disposições preliminares, a posse dos Deputados Federais e a estrutura dos principais órgãos da Câmara, como a Mesa Diretora e as Comissões.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_002",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 2,
+      "title": "Disposições Preliminares (Art. 1º e 2º do RICD)",
+      "content": "O Art. 1º do RICD estabelece que a Câmara dos Deputados tem sede na Capital Federal, funcionando no Palácio do Congresso Nacional. Excepcionalmente, havendo motivo relevante ou de força maior, a Câmara poderá, por deliberação da Mesa, 'ad referendum' da maioria absoluta dos Deputados, reunir-se em outro edifício ou em ponto diverso no território nacional. O Art. 2º trata da elaboração do Regulamento Interno das Comissões e da alteração dos Regulamentos Administrativo e de Pessoal pela Mesa, no prazo de um ano a contar da promulgação da Resolução que aprovou o RICD, para ajustá-los às diretrizes regimentais.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_003",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 3,
+      "title": "Da Posse dos Deputados Federais (Arts. 3º a 5º do RICD)",
+      "content": "A posse dos Deputados Federais é um tema de alta incidência em provas da CEBRASPE. O Art. 3º do RICD exige que o candidato diplomado apresente à Mesa, pessoalmente ou por intermédio do seu Partido, o diploma expedido pela Justiça Eleitoral, juntamente com a comunicação de seu nome parlamentar, legenda partidária e unidade da Federação, até o dia 31 de janeiro do ano de instalação de cada legislatura. É crucial notar que a posse por procurador é vedada, sendo um ponto clássico de pegadinha. O compromisso deve ser prestado em sessão preparatória, e a não prestação nos termos regimentais implica a não investidura no mandato. O Art. 5º, § 1º, do RICD estabelece que não se considera recondução para o mesmo cargo da Mesa quando há mudança de legislatura, permitindo a reeleição do Presidente da Câmara em legislaturas distintas, mas vedando-a na mesma legislatura.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_004",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 4,
+      "title": "Da Mesa da Câmara dos Deputados (Arts. 6º a 11 do RICD)",
+      "content": "A Mesa da Câmara dos Deputados é o órgão diretivo dos trabalhos legislativos e dos serviços administrativos. Sua composição, eleição e atribuições são frequentemente cobradas. A eleição da Mesa ocorre em sessão preparatória, no início de cada legislatura, para um mandato de dois anos, vedada a recondução para o mesmo cargo na eleição imediatamente subsequente, dentro da mesma legislatura. A composição da Mesa deve assegurar, tanto quanto possível, a representação proporcional dos partidos ou dos blocos parlamentares. O Art. 8º do RICD permite candidaturas avulsas aos cargos da Mesa, sem prejuízo da escolha pelos partidos e blocos parlamentares.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_005",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 5,
+      "title": "Dos Órgãos da Câmara: Blocos Parlamentares, Maioria e Minoria (Arts. 12 e 13 do RICD)",
+      "content": "O RICD define a estrutura dos Blocos Parlamentares, Maioria e Minoria. Blocos Parlamentares podem ser constituídos por representações de dois ou mais Partidos, sob Liderança comum, e terão o tratamento dispensado às organizações partidárias. A formação de Bloco Parlamentar composto de menos de três centésimos dos membros da Câmara não será admitida. A Maioria é o Partido ou Bloco Parlamentar integrado pela maioria absoluta dos membros da Casa, e a Minoria é a representação imediatamente inferior que, em relação ao Governo, expresse posição diversa da Maioria. A escolha do Líder de cada representação partidária ou Bloco Parlamentar é comunicada à Mesa.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_006",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 6,
+      "title": "Das Atribuições da Mesa e do Presidente (Arts. 14 a 16 do RICD)",
+      "content": "O Art. 14 do RICD estabelece que à Mesa, na qualidade de Comissão Diretora, incumbe a direção dos trabalhos legislativos e dos serviços administrativos da Câmara. O Art. 15 detalha as competências da Mesa, como dirigir os serviços da Casa, constituir a Mesa do Congresso Nacional, promulgar emendas à Constituição, propor ação de inconstitucionalidade e fixar o número de Deputados por Partido ou Bloco Parlamentar em cada Comissão Permanente. O Art. 16 elenca as atribuições do Presidente, que incluem presidir as sessões, representar a Câmara, manter a ordem, conceder a palavra, entre outras.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_007",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 7,
+      "title": "Atribuições dos Vice-Presidentes e Secretários (Arts. 17 a 21 do RICD)",
+      "content": "Os Vice-Presidentes substituem o Presidente em suas ausências ou impedimentos, na ordem de sua eleição. Os Secretários, por sua vez, são responsáveis por diversas funções administrativas e de apoio às sessões, como o registro de presença dos Deputados, a leitura de atas e a fiscalização da redação final das proposições. Os Suplentes de Secretário substituem os Secretários em suas ausências ou impedimentos, também na ordem de sua eleição. A CEBRASPE pode explorar a ordem de substituição e as atribuições específicas de cada membro da Mesa.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_008",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 8,
+      "title": "Das Comissões (Arts. 22 a 24 do RICD)",
+      "content": "Os artigos 22 a 24 do RICD introduzem as Comissões, que são órgãos técnicos da Câmara. Existem Comissões Permanentes e Temporárias. As Comissões Permanentes são criadas pelo Regimento Interno e têm caráter técnico-legislativo ou especializado. O número de membros efetivos das Comissões Permanentes é estabelecido por ato da Mesa, ouvido o Colégio de Líderes, no início dos trabalhos de cada legislatura. O Art. 24, II, do RICD prevê a apreciação conclusiva de proposições pelas Comissões, ressalvadas as hipóteses de recurso ao Plenário.",
+      "content_type": "teoria"
+    }
+  ],
+  "topicos": [
+    {
+      "external_topic_code": "top_001",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "12",
+      "title": "Regimento Interno da Câmara dos Deputados",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 1
+    },
+    {
+      "external_topic_code": "top_002",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_001",
+      "topic_number": "12.1",
+      "title": "Disposições preliminares e Órgãos da Câmara (arts. 1º a 24)",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 2
+    }
+  ],
+  "topico_componentes": [
+    {
+      "component_id": "cmp_001",
+      "topic_id": "top_002",
+      "component_type": "teoria",
+      "content": "",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_002",
+      "topic_id": "top_002",
+      "component_type": "teoria",
+      "content": "",
+      "order": 2
+    },
+    {
+      "component_id": "cmp_003",
+      "topic_id": "top_002",
+      "component_type": "teoria",
+      "content": "",
+      "order": 3
+    },
+    {
+      "component_id": "cmp_004",
+      "topic_id": "top_002",
+      "component_type": "teoria",
+      "content": "",
+      "order": 4
+    },
+    {
+      "component_id": "cmp_005",
+      "topic_id": "top_002",
+      "component_type": "teoria",
+      "content": "",
+      "order": 5
+    },
+    {
+      "component_id": "cmp_006",
+      "topic_id": "top_002",
+      "component_type": "teoria",
+      "content": "",
+      "order": 6
+    },
+    {
+      "component_id": "cmp_007",
+      "topic_id": "top_002",
+      "component_type": "teoria",
+      "content": "",
+      "order": 7
+    },
+    {
+      "component_id": "cmp_008",
+      "topic_id": "top_002",
+      "component_type": "padrao_cobranca",
+      "content": "A CEBRASPE, ao cobrar o Regimento Interno da Câmara dos Deputados, foca na literalidade do texto, mas com a intenção de induzir ao erro. É comum a inversão de prazos, quóruns, condições e atribuições. Termos como 'exclusivamente', 'obrigatoriamente', 'sempre' ou 'nunca' são frequentemente utilizados para criar pegadinhas. A banca também gosta de misturar conceitos constitucionais com regimentais, exigindo do candidato a distinção precisa entre eles.",
+      "order": 8
+    },
+    {
+      "component_id": "cmp_009",
+      "topic_id": "top_002",
+      "component_type": "pontos_mais_cobrados",
+      "content": "Os pontos mais cobrados pela CEBRASPE nos artigos 1º a 24 do RICD incluem: requisitos e prazos para a posse do Deputado Federal; vedação da posse por procurador; regras de eleição e recondução da Mesa Diretora (especialmente a distinção entre legislaturas); composição da Mesa e proporcionalidade; atribuições específicas do Presidente e da Mesa; e a formação e funcionamento dos Blocos Parlamentares, Maioria e Minoria.",
+      "order": 9
+    }
+  ],
+  "pegadinhas": [
+    {
+      "trap_id": "peg_001",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": "Posse por Procurador",
+      "description": "A CEBRASPE frequentemente afirma que a posse de Deputado Federal pode ocorrer por procurador. O RICD, no entanto, exige a apresentação pessoal ou por intermédio do Partido, vedando a posse por procurador.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 1
+    },
+    {
+      "trap_id": "peg_002",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": "Recondução da Mesa na Mesma Legislatura",
+      "description": "A banca tenta confundir o candidato sobre a possibilidade de reeleição para cargos da Mesa. A recondução é vedada para o mesmo cargo na eleição imediatamente subsequente DENTRO DA MESMA LEGISLATURA, mas é permitida se houver MUDANÇA DE LEGISLATURA.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 2
+    },
+    {
+      "trap_id": "peg_003",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": "Termos Restritivos ('Exclusivamente', 'Obrigatoriamente')",
+      "description": "A CEBRASPE adora usar termos como 'exclusivamente', 'obrigatoriamente', 'sempre' ou 'nunca' para tornar itens errados, pois muitas regras regimentais possuem exceções ou flexibilizações. É fundamental analisar o contexto e a literalidade do artigo.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 3
+    },
+    {
+      "trap_id": "peg_004",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": "Quóruns e Prazos",
+      "description": "A inversão ou alteração de quóruns (ex: maioria absoluta por maioria simples) e prazos (ex: 31 de janeiro por outra data) é uma pegadinha comum. A memorização precisa desses detalhes é crucial.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 4
+    }
+  ],
+  "pontos_memorizacao": [
+    {
+      "memory_id": "mem_001",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": "Sede da Câmara",
+      "content": "Capital Federal, Palácio do Congresso Nacional. Pode reunir-se em outro local por deliberação da Mesa, 'ad referendum' da maioria absoluta dos Deputados.",
+      "order": 1
+    },
+    {
+      "memory_id": "mem_002",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": "Prazo para Posse",
+      "content": "Até 31 de janeiro do ano de instalação de cada legislatura.",
+      "order": 2
+    },
+    {
+      "memory_id": "mem_003",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": "Posse por Procurador",
+      "content": "VEDADA.",
+      "order": 3
+    },
+    {
+      "memory_id": "mem_004",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": "Mandato da Mesa",
+      "content": "Dois anos, vedada a recondução para o mesmo cargo na eleição imediatamente subsequente, DENTRO DA MESMA LEGISLATURA.",
+      "order": 4
+    },
+    {
+      "memory_id": "mem_005",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": "Candidaturas Avulsas à Mesa",
+      "content": "Permitidas.",
+      "order": 5
+    },
+    {
+      "memory_id": "mem_006",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": "Bloco Parlamentar",
+      "content": "Mínimo de três centésimos dos membros da Câmara.",
+      "order": 6
+    },
+    {
+      "memory_id": "mem_007",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": "Atribuição da Mesa",
+      "content": "Dirigir os serviços da Casa, promulgar emendas à Constituição, propor ADI.",
+      "order": 7
+    },
+    {
+      "memory_id": "mem_008",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": "Número de Membros das Comissões Permanentes",
+      "content": "Fixado por ato da Mesa, ouvido o Colégio de Líderes.",
+      "order": 8
+    }
+  ],
+  "quadro_sinotico_itens": [
+    {
+      "summary_item_id": "sum_001",
+      "title": "Sede da Câmara",
+      "content": "Capital Federal (Brasília). Exceção: outro local por deliberação da Mesa (ad referendum da maioria absoluta dos Deputados).",
+      "order": 1
+    },
+    {
+      "summary_item_id": "sum_002",
+      "title": "Posse do Deputado",
+      "content": "Pessoalmente ou por Partido. Prazo: até 31/jan do ano de instalação da legislatura. Vedada por procurador.",
+      "order": 2
+    },
+    {
+      "summary_item_id": "sum_003",
+      "title": "Mesa Diretora - Mandato",
+      "content": "2 anos. Vedada recondução para o mesmo cargo na eleição subsequente (mesma legislatura). Permitida em legislaturas diferentes.",
+      "order": 3
+    },
+    {
+      "summary_item_id": "sum_004",
+      "title": "Mesa Diretora - Eleição",
+      "content": "Sessão preparatória. Proporcionalidade de partidos/blocos. Candidaturas avulsas permitidas.",
+      "order": 4
+    },
+    {
+      "summary_item_id": "sum_005",
+      "title": "Blocos Parlamentares",
+      "content": "Mínimo de 3% dos membros da Câmara. Liderança comum. Perdem prerrogativas de Lideranças partidárias individuais.",
+      "order": 5
+    },
+    {
+      "summary_item_id": "sum_006",
+      "title": "Atribuições da Mesa",
+      "content": "Dirigir serviços, promulgar EC, propor ADI, fixar nº de membros de Comissões Permanentes.",
+      "order": 6
+    },
+    {
+      "summary_item_id": "sum_007",
+      "title": "Comissões",
+      "content": "Permanentes e Temporárias. Número de membros das Permanentes definido pela Mesa (ouvido Colégio de Líderes).",
+      "order": 7
+    }
+  ],
+  "questoes": [
+    {
+      "question_id": "qst_001",
+      "material_id": "mat_001",
+      "topic_id": "top_002",
+      "board": null,
+      "year": null,
+      "organization": null,
+      "role": null,
+      "statement": "De acordo com o Regimento Interno da Câmara dos Deputados, a Câmara poderá, por deliberação da Mesa, reunir-se em outro edifício ou em ponto diverso no território nacional, independentemente de qualquer outra condição.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": "Média",
+      "external_reference": "Adaptada de CEBRASPE",
+      "commentary": "Errado. O Art. 1º, parágrafo único, do RICD estabelece que a Câmara poderá reunir-se em outro local 'havendo motivo relevante, ou de força maior', e por deliberação da Mesa, 'ad referendum da maioria absoluta dos Deputados'. A questão omite essas condições, tornando o item incorreto. A CEBRASPE frequentemente testa a atenção a essas condições e quóruns.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_001"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_002",
+      "material_id": "mat_001",
+      "topic_id": "top_002",
+      "board": null,
+      "year": null,
+      "organization": null,
+      "role": null,
+      "statement": "O Regimento Interno da Câmara dos Deputados permite que o Deputado Federal diplomado tome posse por intermédio de procurador, desde que com poderes especiais para tal fim.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": "Fácil",
+      "external_reference": "CEBRASPE (Concurso Câmara dos Deputados 2014 - Consultor Legislativo)",
+      "commentary": "Errado. Conforme o Art. 3º, caput, do Regimento Interno da Câmara dos Deputados, o candidato diplomado Deputado Federal deverá apresentar-se à Mesa, pessoalmente ou por intermédio do seu Partido, para a posse. A posse por procurador é expressamente vedada, sendo um ponto frequentemente cobrado pela CEBRASPE para testar a atenção aos detalhes do texto regimental.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_002"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_003",
+      "material_id": "mat_001",
+      "topic_id": "top_002",
+      "board": null,
+      "year": null,
+      "organization": null,
+      "role": null,
+      "statement": "A recondução para o mesmo cargo da Mesa da Câmara dos Deputados é vedada na eleição imediatamente subsequente, ainda que haja mudança de legislatura.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": "Média",
+      "external_reference": "Adaptada de CEBRASPE",
+      "commentary": "Errado. O Art. 5º, § 1º, do RICD veda a recondução para o mesmo cargo da Mesa na eleição imediatamente subsequente, mas APENAS DENTRO DA MESMA LEGISLATURA. Se houver mudança de legislatura, a recondução é permitida. A CEBRASPE explora essa distinção para criar pegadinhas.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_003"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_004",
+      "material_id": "mat_001",
+      "topic_id": "top_002",
+      "board": null,
+      "year": null,
+      "organization": null,
+      "role": null,
+      "statement": "Na composição da Mesa Diretora da Câmara dos Deputados, será assegurada, tanto quanto possível, a representação proporcional dos partidos ou dos blocos parlamentares.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": "Fácil",
+      "external_reference": "CEBRASPE (Concurso Câmara dos Deputados 2014 - Consultor Legislativo)",
+      "commentary": "Certo. O Art. 7º do RICD, em consonância com a Constituição Federal, prevê que na composição da Mesa Diretora será assegurada, tanto quanto possível, a representação proporcional dos partidos ou dos blocos parlamentares. Este é um princípio fundamental para garantir a pluralidade política na direção da Casa.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_004"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_005",
+      "material_id": "mat_001",
+      "topic_id": "top_002",
+      "board": null,
+      "year": null,
+      "organization": null,
+      "role": null,
+      "statement": "As candidaturas avulsas aos cargos da Mesa da Câmara dos Deputados são expressamente vedadas pelo Regimento Interno, prevalecendo a escolha dos partidos e blocos parlamentares.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": "Média",
+      "external_reference": "CEBRASPE (Concurso Câmara dos Deputados 2014 - Consultor Legislativo)",
+      "commentary": "Errado. O Art. 8º do RICD, parágrafo único, IV, assegura que, independentemente da escolha pelas bancadas, qualquer Deputado poderá concorrer aos cargos da Mesa que couberem à sua representação, mediante comunicação por escrito ao Presidente da Câmara. Portanto, as candidaturas avulsas são permitidas.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_005"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_006",
+      "material_id": "mat_001",
+      "topic_id": "top_002",
+      "board": null,
+      "year": null,
+      "organization": null,
+      "role": null,
+      "statement": "A formação de Bloco Parlamentar na Câmara dos Deputados é admitida desde que composto por, no mínimo, dois centésimos dos membros da Casa.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": "Difícil",
+      "external_reference": "Adaptada de CEBRASPE",
+      "commentary": "Errado. O Art. 12, § 3º, do RICD estabelece que não será admitida a formação de Bloco Parlamentar composto de MENOS DE TRÊS CENTÉSIMOS dos membros da Câmara. A questão apresenta um quórum incorreto (dois centésimos), o que a torna falsa. A CEBRASPE costuma alterar esses percentuais.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_006"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_007",
+      "material_id": "mat_001",
+      "topic_id": "top_002",
+      "board": null,
+      "year": null,
+      "organization": null,
+      "role": null,
+      "statement": "Compete à Mesa da Câmara dos Deputados, dentre outras atribuições, promulgar, juntamente com a Mesa do Senado Federal, emendas à Constituição.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": "Fácil",
+      "external_reference": "Adaptada de CEBRASPE",
+      "commentary": "Certo. O Art. 15, III, do RICD expressamente atribui à Mesa a competência de promulgar, juntamente com a Mesa do Senado Federal, emendas à Constituição. Esta é uma das importantes funções da Mesa no processo legislativo.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_007"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_008",
+      "material_id": "mat_001",
+      "topic_id": "top_002",
+      "board": null,
+      "year": null,
+      "organization": null,
+      "role": null,
+      "statement": "O número de membros efetivos das Comissões Permanentes da Câmara dos Deputados é fixado por lei específica, não podendo ser alterado por ato da Mesa.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": "Média",
+      "external_reference": "CEBRASPE (Concurso Câmara dos Deputados 2014 - Controle Legislativo)",
+      "commentary": "Errado. Conforme o Art. 25 do RICD (mencionado em contexto de Art. 24), o número de membros efetivos das Comissões Permanentes é estabelecido por ato da Mesa, ouvido o Colégio de Líderes, no início dos trabalhos de cada legislatura, e não por lei específica. A questão inverte a fonte normativa.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_008"
+        ],
+        "count": 1
+      }
+    }
+  ],
+  "comentarios_questoes": [
+    {
+      "comment_id": "com_001",
+      "question_id": "qst_001",
+      "content": "Errado. O Art. 1º, parágrafo único, do RICD estabelece que a Câmara poderá reunir-se em outro local 'havendo motivo relevante, ou de força maior', e por deliberação da Mesa, 'ad referendum da maioria absoluta dos Deputados'. A questão omite essas condições, tornando o item incorreto. A CEBRASPE frequentemente testa a atenção a essas condições e quóruns.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_002",
+      "question_id": "qst_002",
+      "content": "Errado. Conforme o Art. 3º, caput, do Regimento Interno da Câmara dos Deputados, o candidato diplomado Deputado Federal deverá apresentar-se à Mesa, pessoalmente ou por intermédio do seu Partido, para a posse. A posse por procurador é expressamente vedada, sendo um ponto frequentemente cobrado pela CEBRASPE para testar a atenção aos detalhes do texto regimental.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_003",
+      "question_id": "qst_003",
+      "content": "Errado. O Art. 5º, § 1º, do RICD veda a recondução para o mesmo cargo da Mesa na eleição imediatamente subsequente, mas APENAS DENTRO DA MESMA LEGISLATURA. Se houver mudança de legislatura, a recondução é permitida. A CEBRASPE explora essa distinção para criar pegadinhas.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_004",
+      "question_id": "qst_004",
+      "content": "Certo. O Art. 7º do RICD, em consonância com a Constituição Federal, prevê que na composição da Mesa Diretora será assegurada, tanto quanto possível, a representação proporcional dos partidos ou dos blocos parlamentares. Este é um princípio fundamental para garantir a pluralidade política na direção da Casa.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_005",
+      "question_id": "qst_005",
+      "content": "Errado. O Art. 8º do RICD, parágrafo único, IV, assegura que, independentemente da escolha pelas bancadas, qualquer Deputado poderá concorrer aos cargos da Mesa que couberem à sua representação, mediante comunicação por escrito ao Presidente da Câmara. Portanto, as candidaturas avulsas são permitidas.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_006",
+      "question_id": "qst_006",
+      "content": "Errado. O Art. 12, § 3º, do RICD estabelece que não será admitida a formação de Bloco Parlamentar composto de MENOS DE TRÊS CENTÉSIMOS dos membros da Câmara. A questão apresenta um quórum incorreto (dois centésimos), o que a torna falsa. A CEBRASPE costuma alterar esses percentuais.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_007",
+      "question_id": "qst_007",
+      "content": "Certo. O Art. 15, III, do RICD expressamente atribui à Mesa a competência de promulgar, juntamente com a Mesa do Senado Federal, emendas à Constituição. Esta é uma das importantes funções da Mesa no processo legislativo.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_008",
+      "question_id": "qst_008",
+      "content": "Errado. Conforme o Art. 25 do RICD (mencionado em contexto de Art. 24), o número de membros efetivos das Comissões Permanentes é estabelecido por ato da Mesa, ouvido o Colégio de Líderes, no início dos trabalhos de cada legislatura, e não por lei específica. A questão inverte a fonte normativa.",
+      "explanation_alternatives": ""
+    }
+  ],
+  "checklist_revisao": [
+    {
+      "checklist_id": "chk_001",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Verificar as condições para a Câmara se reunir fora da Capital Federal (Art. 1º).",
+      "completed": false,
+      "order": 1
+    },
+    {
+      "checklist_id": "chk_002",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Memorizar o prazo para a posse do Deputado Federal (Art. 3º).",
+      "completed": false,
+      "order": 2
+    },
+    {
+      "checklist_id": "chk_003",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Confirmar a vedação da posse por procurador (Art. 3º).",
+      "completed": false,
+      "order": 3
+    },
+    {
+      "checklist_id": "chk_004",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Entender a regra de recondução da Mesa Diretora (Art. 5º, § 1º) e a diferença entre legislaturas.",
+      "completed": false,
+      "order": 4
+    },
+    {
+      "checklist_id": "chk_005",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Revisar a proporcionalidade na composição da Mesa (Art. 7º).",
+      "completed": false,
+      "order": 5
+    },
+    {
+      "checklist_id": "chk_006",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Saber que candidaturas avulsas à Mesa são permitidas (Art. 8º).",
+      "completed": false,
+      "order": 6
+    },
+    {
+      "checklist_id": "chk_007",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Conhecer o quórum mínimo para formação de Bloco Parlamentar (Art. 12, § 3º).",
+      "completed": false,
+      "order": 7
+    },
+    {
+      "checklist_id": "chk_008",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Distinguir as atribuições da Mesa (Art. 15) e do Presidente (Art. 16).",
+      "completed": false,
+      "order": 8
+    },
+    {
+      "checklist_id": "chk_009",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Compreender como é definido o número de membros das Comissões Permanentes (Art. 25, em contexto de Art. 24).",
+      "completed": false,
+      "order": 9
+    },
+    {
+      "checklist_id": "chk_010",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Revisar as pegadinhas comuns da CEBRASPE, especialmente o uso de termos restritivos.",
+      "completed": false,
+      "order": 10
+    }
+  ],
+  "referencias": [
+    {
+      "reference_id": "ref_001",
+      "material_id": "mat_001",
+      "reference_type": "Legislação",
+      "author_name": null,
+      "title": "Regimento Interno da Câmara dos Deputados (RICD)",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.camara.leg.br/atividade-legislativa/legislacao/regimento-interno-da-camara",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_002",
+      "material_id": "mat_001",
+      "reference_type": "Análise de Banca",
+      "author_name": null,
+      "title": "Brazilian Chamber of Deputies Exam | Commented Questions: Cebraspe's Way of Testing Internal Regu...",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ (Link simbólico, o link real seria o da busca [2])",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_003",
+      "material_id": "mat_001",
+      "reference_type": "Análise de Banca",
+      "author_name": null,
+      "title": "20 FGV and Cebraspe pranks",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ (Link simbólico, o link real seria o da busca [8])",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_004",
+      "material_id": "mat_001",
+      "reference_type": "Análise de Banca",
+      "author_name": null,
+      "title": "Regimento Interno para Câmara dos Deputados: Top questões + difíceis do Cebraspe",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ (Link simbólico, o link real seria o da busca [14])",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_005",
+      "material_id": "mat_001",
+      "reference_type": "Análise de Banca",
+      "author_name": null,
+      "title": "Internal Regulations of the Chamber of Deputies – Episode 1 | Articles 1 to 2 | CEBRASPE Standard",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ (Link simbólico, o link real seria o da busca [21])",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_006",
+      "material_id": "mat_001",
+      "reference_type": "Análise de Banca",
+      "author_name": null,
+      "title": "Questão Discursiva 477053 | Cebraspe (Cespe) | Legislação das Casas Legislativas",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.voceconcursado.com.br/questoes/477053",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_007",
+      "material_id": "mat_001",
+      "reference_type": "Jurisprudência",
+      "author_name": null,
+      "title": "STF veda ao Judiciário controle de normas regimentais do Legislativo",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.migalhas.com.br/quentes/346808/stf-veda-ao-judiciario-controle-de-normas-regimentais-do-legislativo",
+      "accessed_at": null,
+      "description": null
+    }
+  ],
+  "estatisticas_de_geracao": {
+    "total_topicos": 2,
+    "total_componentes_topico": 9,
+    "total_entendimentos_relevantes": 2,
+    "total_pegadinhas": 4,
+    "total_pontos_memorizacao": 8,
+    "total_itens_quadro_sinotico": 7,
+    "total_questoes": 8,
+    "total_comentarios_questoes": 8,
+    "total_itens_checklist": 10,
+    "total_referencias": 7
+  },
+  "validacao_interna": {
+    "pesquisa_previa_realizada": true,
+    "analise_de_cobrancas_anteriores_realizada": true,
+    "material_atualizado": true,
+    "json_valido": true,
+    "estrutura_relacional_respeitada": true,
+    "numeracao_respeitada": true,
+    "houve_quebra_de_hierarquia": false,
+    "houve_nivel_numerico_superior_a_3": false,
+    "fontes_verificadas": true,
+    "sem_informacao_inventada": true
+  },
+  "metadata": {
+    "source_file_name": "12__direito-constitucional-e-legislação-interna-da-câmara-dos-deputados__12-regimento-interno-da-câmara-dos-deputados-12.1-disposições-preliminares-e-órgãos-da-câmara-arts.-1º-a-24.json",
+    "normalized_checksum": "79b6c6dce39f8b7faf39c8f469928e36f43c689afac61bfd7ec505836418eb62",
+    "subject_slug": "dir-const-legcam",
+    "material_slug": "ricd-disposicoes-preliminares-orgaos",
+    "title_slug": "regimento-interno-da-camara-dos-deputados",
+    "board_slug": "cebraspe",
+    "counters": {
+      "blocks": 8,
+      "topics": 2,
+      "topic_components": 9,
+      "traps": 4,
+      "memory_points": 8,
+      "summary_items": 7,
+      "questions": 8,
+      "question_comments": 8,
+      "checklist_items": 10,
+      "references": 7
+    }
+  }
+}

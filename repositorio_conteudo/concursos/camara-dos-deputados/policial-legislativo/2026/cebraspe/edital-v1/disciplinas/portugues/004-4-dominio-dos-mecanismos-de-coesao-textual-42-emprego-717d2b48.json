@@ -1,0 +1,864 @@
+{
+  "schema_version": "1.0",
+  "normalized_at": "2026-04-07T15:39:15.004352-03:00",
+  "normalizer_version": "2.0.0",
+  "exported_at": "2026-04-06T20:00:00Z",
+  "source_request": {
+    "purpose": "Concurso público",
+    "general_area": "Linguagens",
+    "subject_name": "Língua Portuguesa",
+    "subarea_name": "Gramática, interpretação e reescrita",
+    "main_theme": "4 Domínio dos mecanismos de coesão textual: 4.2 Emprego de tempos e modos verbais",
+    "theme_scope": "Teoria completa, incidência em prova, padrão de cobrança da banca, pegadinhas e questões comentadas",
+    "board_style": "CEBRASPE",
+    "depth_level": "Exaustivo",
+    "goal": "Teoria completa, revisão estratégica, pegadinhas e questões comentadas",
+    "base_topic_number": "4",
+    "topic_title": "4 Domínio dos mecanismos de coesão textual: 4.2 Emprego de tempos e modos verbais",
+    "syllabus_reference": "Conteúdo programático da disciplina Língua Portuguesa",
+    "priority_sources": [
+      "Gramáticas e manuais reconhecidos",
+      "Bibliografia técnica consolidada",
+      "Questões anteriores da banca"
+    ],
+    "minimum_questions": 8,
+    "question_format": "Certo/Errado",
+    "prioritize_real_questions": true,
+    "response_language": "português",
+    "target_audience": "Candidato de concurso público",
+    "additional_notes": "Executar exatamente para esta linha individual do topicos.txt. Não juntar com outros tópicos. Não pular este tópico. Dar destaque ao padrão de cobrança da banca, aos pontos mais cobrados e às pegadinhas recorrentes.",
+    "input_hash": "bca1ccb46bab",
+    "extras": {}
+  },
+  "material": {
+    "material_id": "4-língua-portuguesa-4-domínio-dos-mecanismos-de-coesão-textual-42-emprego-de-tempos-e-modos-verbais",
+    "slug": "emprego-tempos-modos-verbais-cebraspe",
+    "title": "Domínio dos Mecanismos de Coesão Textual: Emprego de Tempos e Modos Verbais",
+    "base_number": "4",
+    "topic_title": "4 Domínio dos mecanismos de coesão textual: 4.2 Emprego de tempos e modos verbais",
+    "purpose": "Concurso público",
+    "area_name": "Linguagens",
+    "subject_name": "Língua Portuguesa",
+    "subarea_name": "Gramática, interpretação e reescrita",
+    "main_theme": "Emprego de tempos e modos verbais",
+    "theme_scope": "Teoria completa, incidência em prova, padrão de cobrança da banca, pegadinhas e questões comentadas",
+    "board_style": "CEBRASPE",
+    "depth_level": "Exaustivo",
+    "study_goal": "Teoria completa, revisão estratégica, pegadinhas e questões comentadas",
+    "target_audience": "Candidato de concurso público",
+    "language_code": "português",
+    "update_status": "Atualizado",
+    "current_note": "Conteúdo revisado e alinhado com as normas gramaticais vigentes e o padrão de cobrança recente da banca CEBRASPE.",
+    "has_case_law": false,
+    "case_law_justification": "A matéria 'Emprego de tempos e modos verbais' em Língua Portuguesa não possui pertinência para a aplicação de jurisprudência.",
+    "has_information_limitation": false,
+    "information_limitation_desc": null,
+    "content_checksum": "placeholder_checksum_content",
+    "extras": {}
+  },
+  "blocos_textuais": [
+    {
+      "external_block_code": "4-língua-portuguesa-4-domínio-dos-mecanismos-de-coesão-textual-42-emprego-de-tempos-e-modos-verbais_blc_001",
+      "material_id": "4-língua-portuguesa-4-domínio-dos-mecanismos-de-coesão-textual-42-emprego-de-tempos-e-modos-verbais",
+      "topic_id": null,
+      "order": 1,
+      "title": "Introdução ao Emprego de Tempos e Modos Verbais",
+      "content": "O domínio dos tempos e modos verbais é fundamental para a construção da coesão e coerência textual, sendo um dos pilares da gramática normativa e, consequentemente, um tópico de alta incidência em provas de concurso público, especialmente as elaboradas pela banca CEBRASPE. A correta utilização dos verbos permite expressar com precisão o momento da ação, a atitude do falante em relação ao fato e as relações temporais entre diferentes eventos no texto. Este material abordará a teoria completa, o padrão de cobrança da CEBRASPE, as pegadinhas recorrentes e questões comentadas para solidificar o aprendizado.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "4-língua-portuguesa-4-domínio-dos-mecanismos-de-coesão-textual-42-emprego-de-tempos-e-modos-verbais_blc_002",
+      "material_id": "4-língua-portuguesa-4-domínio-dos-mecanismos-de-coesão-textual-42-emprego-de-tempos-e-modos-verbais",
+      "topic_id": null,
+      "order": 2,
+      "title": "A Importância da Coesão Temporal",
+      "content": "A coesão temporal refere-se à articulação lógica e cronológica dos eventos em um texto, garantindo que as ações sejam apresentadas de forma compreensível e sem ambiguidades. O emprego adequado dos tempos e modos verbais é o principal mecanismo para estabelecer essa coesão, indicando se um fato é anterior, posterior ou simultâneo a outro, e se sua ocorrência é certa, hipotética ou uma ordem.",
+      "content_type": "teoria"
+    }
+  ],
+  "topicos": [
+    {
+      "external_topic_code": "4-língua-portuguesa-4-domínio-dos-mecanismos-de-coesão-textual-42-emprego-de-tempos-e-modos-verbais_top_001",
+      "material_id": "4-língua-portuguesa-4-domínio-dos-mecanismos-de-coesão-textual-42-emprego-de-tempos-e-modos-verbais",
+      "parent_topic_id": null,
+      "topic_number": "4.2.1",
+      "title": "Conceitos Fundamentais: Verbo, Tempo e Modo",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 1
+    },
+    {
+      "external_topic_code": "4-língua-portuguesa-4-domínio-dos-mecanismos-de-coesão-textual-42-emprego-de-tempos-e-modos-verbais_top_002",
+      "material_id": "4-língua-portuguesa-4-domínio-dos-mecanismos-de-coesão-textual-42-emprego-de-tempos-e-modos-verbais",
+      "parent_topic_id": null,
+      "topic_number": "4.2.2",
+      "title": "Modo Indicativo: Certeza e Realidade",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 2
+    },
+    {
+      "external_topic_code": "4-língua-portuguesa-4-domínio-dos-mecanismos-de-coesão-textual-42-emprego-de-tempos-e-modos-verbais_top_003",
+      "material_id": "4-língua-portuguesa-4-domínio-dos-mecanismos-de-coesão-textual-42-emprego-de-tempos-e-modos-verbais",
+      "parent_topic_id": null,
+      "topic_number": "4.2.3",
+      "title": "Modo Subjuntivo: Hipótese e Possibilidade",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 3
+    },
+    {
+      "external_topic_code": "4-língua-portuguesa-4-domínio-dos-mecanismos-de-coesão-textual-42-emprego-de-tempos-e-modos-verbais_top_004",
+      "material_id": "4-língua-portuguesa-4-domínio-dos-mecanismos-de-coesão-textual-42-emprego-de-tempos-e-modos-verbais",
+      "parent_topic_id": null,
+      "topic_number": "4.2.4",
+      "title": "Modo Imperativo: Ordem, Pedido e Conselho",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 4
+    },
+    {
+      "external_topic_code": "4-língua-portuguesa-4-domínio-dos-mecanismos-de-coesão-textual-42-emprego-de-tempos-e-modos-verbais_top_005",
+      "material_id": "4-língua-portuguesa-4-domínio-dos-mecanismos-de-coesão-textual-42-emprego-de-tempos-e-modos-verbais",
+      "parent_topic_id": null,
+      "topic_number": "4.2.5",
+      "title": "Correlação Verbal: Coerência Temporal e Modal",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 5
+    },
+    {
+      "external_topic_code": "4-língua-portuguesa-4-domínio-dos-mecanismos-de-coesão-textual-42-emprego-de-tempos-e-modos-verbais_top_006",
+      "material_id": "4-língua-portuguesa-4-domínio-dos-mecanismos-de-coesão-textual-42-emprego-de-tempos-e-modos-verbais",
+      "parent_topic_id": null,
+      "topic_number": "4.2.6",
+      "title": "Padrão CEBRASPE: Incidência e Pegadinhas",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 6
+    }
+  ],
+  "topico_componentes": [
+    {
+      "component_id": "4-língua-portuguesa-4-domínio-dos-mecanismos-de-coesão-textual-42-emprego-de-tempos-e-modos-verbais_cmp_001",
+      "topic_id": "4-língua-portuguesa-4-domínio-dos-mecanismos-de-coesão-textual-42-emprego-de-tempos-e-modos-verbais_top_001",
+      "component_type": "texto",
+      "content": "Verbo é a palavra que exprime ação, estado, fenômeno da natureza, desejo ou acontecimento, flexionando-se em número, pessoa, tempo e modo. Os tempos verbais situam a ação no presente, passado (pretérito) ou futuro. Os modos verbais indicam a atitude do falante em relação ao fato verbal: certeza (indicativo), possibilidade/hipótese (subjuntivo) ou ordem/pedido (imperativo).",
+      "order": 1
+    },
+    {
+      "component_id": "4-língua-portuguesa-4-domínio-dos-mecanismos-de-coesão-textual-42-emprego-de-tempos-e-modos-verbais_cmp_002",
+      "topic_id": "4-língua-portuguesa-4-domínio-dos-mecanismos-de-coesão-textual-42-emprego-de-tempos-e-modos-verbais_top_002",
+      "component_type": "subtitulo",
+      "content": "Presente do Indicativo",
+      "order": 1
+    },
+    {
+      "component_id": "4-língua-portuguesa-4-domínio-dos-mecanismos-de-coesão-textual-42-emprego-de-tempos-e-modos-verbais_cmp_003",
+      "topic_id": "4-língua-portuguesa-4-domínio-dos-mecanismos-de-coesão-textual-42-emprego-de-tempos-e-modos-verbais_top_002",
+      "component_type": "texto",
+      "content": "Indica um fato que ocorre no momento da fala, uma ação habitual, uma verdade universal ou um fato futuro com certeza. Ex: 'Eu estudo todos os dias.' (hábito) 'Amanhã eu viajo.' (futuro com certeza)",
+      "order": 2
+    },
+    {
+      "component_id": "4-língua-portuguesa-4-domínio-dos-mecanismos-de-coesão-textual-42-emprego-de-tempos-e-modos-verbais_cmp_004",
+      "topic_id": "4-língua-portuguesa-4-domínio-dos-mecanismos-de-coesão-textual-42-emprego-de-tempos-e-modos-verbais_top_002",
+      "component_type": "subtitulo",
+      "content": "Pretérito Perfeito do Indicativo (Simples e Composto)",
+      "order": 3
+    },
+    {
+      "component_id": "4-língua-portuguesa-4-domínio-dos-mecanismos-de-coesão-textual-42-emprego-de-tempos-e-modos-verbais_cmp_005",
+      "topic_id": "4-língua-portuguesa-4-domínio-dos-mecanismos-de-coesão-textual-42-emprego-de-tempos-e-modos-verbais_top_002",
+      "component_type": "texto",
+      "content": "O pretérito perfeito simples indica uma ação iniciada e concluída no passado. Ex: 'Ela viajou para o México.' O pretérito perfeito composto (ter/haver + particípio) indica uma ação que começou no passado e se prolonga até o presente ou tem consequências no presente. Ex: 'Ele tem estudado muito.'",
+      "order": 4
+    },
+    {
+      "component_id": "4-língua-portuguesa-4-domínio-dos-mecanismos-de-coesão-textual-42-emprego-de-tempos-e-modos-verbais_cmp_006",
+      "topic_id": "4-língua-portuguesa-4-domínio-dos-mecanismos-de-coesão-textual-42-emprego-de-tempos-e-modos-verbais_top_002",
+      "component_type": "subtitulo",
+      "content": "Pretérito Imperfeito do Indicativo",
+      "order": 5
+    },
+    {
+      "component_id": "4-língua-portuguesa-4-domínio-dos-mecanismos-de-coesão-textual-42-emprego-de-tempos-e-modos-verbais_cmp_007",
+      "topic_id": "4-língua-portuguesa-4-domínio-dos-mecanismos-de-coesão-textual-42-emprego-de-tempos-e-modos-verbais_top_002",
+      "component_type": "texto",
+      "content": "Expressa uma ação contínua, habitual ou não concluída no passado. Pode indicar simultaneidade com outra ação passada. Ex: 'Quando eu era criança, jogava bola na rua.'",
+      "order": 6
+    },
+    {
+      "component_id": "4-língua-portuguesa-4-domínio-dos-mecanismos-de-coesão-textual-42-emprego-de-tempos-e-modos-verbais_cmp_008",
+      "topic_id": "4-língua-portuguesa-4-domínio-dos-mecanismos-de-coesão-textual-42-emprego-de-tempos-e-modos-verbais_top_002",
+      "component_type": "subtitulo",
+      "content": "Pretérito Mais-que-Perfeito do Indicativo (Simples e Composto)",
+      "order": 7
+    },
+    {
+      "component_id": "4-língua-portuguesa-4-domínio-dos-mecanismos-de-coesão-textual-42-emprego-de-tempos-e-modos-verbais_cmp_009",
+      "topic_id": "4-língua-portuguesa-4-domínio-dos-mecanismos-de-coesão-textual-42-emprego-de-tempos-e-modos-verbais_top_002",
+      "component_type": "texto",
+      "content": "Indica uma ação passada que ocorreu antes de outra ação também passada. O simples é menos comum ('fizera', 'cantara'), enquanto o composto ('tinha feito', 'havia cantado') é mais usual. Ex: 'Quando cheguei, ele já saíra (ou tinha saído).'",
+      "order": 8
+    },
+    {
+      "component_id": "4-língua-portuguesa-4-domínio-dos-mecanismos-de-coesão-textual-42-emprego-de-tempos-e-modos-verbais_cmp_010",
+      "topic_id": "4-língua-portuguesa-4-domínio-dos-mecanismos-de-coesão-textual-42-emprego-de-tempos-e-modos-verbais_top_002",
+      "component_type": "subtitulo",
+      "content": "Futuro do Presente do Indicativo",
+      "order": 9
+    },
+    {
+      "component_id": "4-língua-portuguesa-4-domínio-dos-mecanismos-de-coesão-textual-42-emprego-de-tempos-e-modos-verbais_cmp_011",
+      "topic_id": "4-língua-portuguesa-4-domínio-dos-mecanismos-de-coesão-textual-42-emprego-de-tempos-e-modos-verbais_top_002",
+      "component_type": "texto",
+      "content": "Expressa uma ação que ocorrerá no futuro em relação ao momento da fala. Ex: 'Amanhã lerei o jornal.'",
+      "order": 10
+    },
+    {
+      "component_id": "4-língua-portuguesa-4-domínio-dos-mecanismos-de-coesão-textual-42-emprego-de-tempos-e-modos-verbais_cmp_012",
+      "topic_id": "4-língua-portuguesa-4-domínio-dos-mecanismos-de-coesão-textual-42-emprego-de-tempos-e-modos-verbais_top_002",
+      "component_type": "subtitulo",
+      "content": "Futuro do Pretérito do Indicativo",
+      "order": 11
+    },
+    {
+      "component_id": "4-língua-portuguesa-4-domínio-dos-mecanismos-de-coesão-textual-42-emprego-de-tempos-e-modos-verbais_cmp_013",
+      "topic_id": "4-língua-portuguesa-4-domínio-dos-mecanismos-de-coesão-textual-42-emprego-de-tempos-e-modos-verbais_top_002",
+      "component_type": "texto",
+      "content": "Indica uma ação futura em relação a um ponto no passado, ou uma incerteza/hipótese no presente. Ex: 'Eu faria se pudesse.' (hipótese) 'Ele disse que viria.' (futuro no passado)",
+      "order": 12
+    },
+    {
+      "component_id": "4-língua-portuguesa-4-domínio-dos-mecanismos-de-coesão-textual-42-emprego-de-tempos-e-modos-verbais_cmp_014",
+      "topic_id": "4-língua-portuguesa-4-domínio-dos-mecanismos-de-coesão-textual-42-emprego-de-tempos-e-modos-verbais_top_003",
+      "component_type": "subtitulo",
+      "content": "Presente do Subjuntivo",
+      "order": 1
+    },
+    {
+      "component_id": "4-língua-portuguesa-4-domínio-dos-mecanismos-de-coesão-textual-42-emprego-de-tempos-e-modos-verbais_cmp_015",
+      "topic_id": "4-língua-portuguesa-4-domínio-dos-mecanismos-de-coesão-textual-42-emprego-de-tempos-e-modos-verbais_top_003",
+      "component_type": "texto",
+      "content": "Expressa desejo, dúvida, possibilidade, hipótese ou incerteza no presente ou futuro. Geralmente introduzido por 'que'. Ex: 'Espero que ele venha.'",
+      "order": 2
+    },
+    {
+      "component_id": "4-língua-portuguesa-4-domínio-dos-mecanismos-de-coesão-textual-42-emprego-de-tempos-e-modos-verbais_cmp_016",
+      "topic_id": "4-língua-portuguesa-4-domínio-dos-mecanismos-de-coesão-textual-42-emprego-de-tempos-e-modos-verbais_top_003",
+      "component_type": "subtitulo",
+      "content": "Pretérito Imperfeito do Subjuntivo",
+      "order": 3
+    },
+    {
+      "component_id": "4-língua-portuguesa-4-domínio-dos-mecanismos-de-coesão-textual-42-emprego-de-tempos-e-modos-verbais_cmp_017",
+      "topic_id": "4-língua-portuguesa-4-domínio-dos-mecanismos-de-coesão-textual-42-emprego-de-tempos-e-modos-verbais_top_003",
+      "component_type": "texto",
+      "content": "Indica uma condição, hipótese ou desejo no passado, frequentemente em orações condicionais. Geralmente introduzido por 'se'. Ex: 'Se eu tivesse dinheiro, viajaria.'",
+      "order": 4
+    },
+    {
+      "component_id": "4-língua-portuguesa-4-domínio-dos-mecanismos-de-coesão-textual-42-emprego-de-tempos-e-modos-verbais_cmp_018",
+      "topic_id": "4-língua-portuguesa-4-domínio-dos-mecanismos-de-coesão-textual-42-emprego-de-tempos-e-modos-verbais_top_003",
+      "component_type": "subtitulo",
+      "content": "Futuro do Subjuntivo",
+      "order": 5
+    },
+    {
+      "component_id": "4-língua-portuguesa-4-domínio-dos-mecanismos-de-coesão-textual-42-emprego-de-tempos-e-modos-verbais_cmp_019",
+      "topic_id": "4-língua-portuguesa-4-domínio-dos-mecanismos-de-coesão-textual-42-emprego-de-tempos-e-modos-verbais_top_003",
+      "component_type": "texto",
+      "content": "Expressa uma ação futura e incerta, que pode ou não se concretizar. Geralmente introduzido por 'quando', 'se', 'enquanto'. Ex: 'Quando você vier, conversaremos.'",
+      "order": 6
+    },
+    {
+      "component_id": "4-língua-portuguesa-4-domínio-dos-mecanismos-de-coesão-textual-42-emprego-de-tempos-e-modos-verbais_cmp_020",
+      "topic_id": "4-língua-portuguesa-4-domínio-dos-mecanismos-de-coesão-textual-42-emprego-de-tempos-e-modos-verbais_top_004",
+      "component_type": "texto",
+      "content": "O modo imperativo expressa ordem, pedido, conselho, súplica ou convite. Não possui tempos verbais, apenas formas afirmativa e negativa, e só se conjuga na 2ª pessoa (tu/vós) e 3ª pessoa (você/vocês, nós). As formas do imperativo afirmativo para 'tu' e 'vós' derivam do presente do indicativo (sem 's' final), e para 'você', 'nós', 'vocês' derivam do presente do subjuntivo. O imperativo negativo é idêntico ao presente do subjuntivo para todas as pessoas.",
+      "order": 1
+    },
+    {
+      "component_id": "4-língua-portuguesa-4-domínio-dos-mecanismos-de-coesão-textual-42-emprego-de-tempos-e-modos-verbais_cmp_021",
+      "topic_id": "4-língua-portuguesa-4-domínio-dos-mecanismos-de-coesão-textual-42-emprego-de-tempos-e-modos-verbais_top_005",
+      "component_type": "texto",
+      "content": "A correlação verbal é a relação de concordância lógica e temporal entre os verbos de um período composto, essencial para a coesão e coerência textual. A CEBRASPE frequentemente explora a quebra dessa correlação como erro.",
+      "order": 1
+    },
+    {
+      "component_id": "4-língua-portuguesa-4-domínio-dos-mecanismos-de-coesão-textual-42-emprego-de-tempos-e-modos-verbais_cmp_022",
+      "topic_id": "4-língua-portuguesa-4-domínio-dos-mecanismos-de-coesão-textual-42-emprego-de-tempos-e-modos-verbais_top_005",
+      "component_type": "subtitulo",
+      "content": "Principais Correlações",
+      "order": 2
+    },
+    {
+      "component_id": "4-língua-portuguesa-4-domínio-dos-mecanismos-de-coesão-textual-42-emprego-de-tempos-e-modos-verbais_cmp_023",
+      "topic_id": "4-língua-portuguesa-4-domínio-dos-mecanismos-de-coesão-textual-42-emprego-de-tempos-e-modos-verbais_top_005",
+      "component_type": "lista_ordenada",
+      "content": "",
+      "order": 3
+    },
+    {
+      "component_id": "4-língua-portuguesa-4-domínio-dos-mecanismos-de-coesão-textual-42-emprego-de-tempos-e-modos-verbais_cmp_024",
+      "topic_id": "4-língua-portuguesa-4-domínio-dos-mecanismos-de-coesão-textual-42-emprego-de-tempos-e-modos-verbais_top_006",
+      "component_type": "texto",
+      "content": "A CEBRASPE valoriza a interpretação do sentido dos tempos e modos verbais no contexto, a capacidade de reescrita sem alteração de sentido ou correção gramatical, e a identificação de incoerências temporais.",
+      "order": 1
+    },
+    {
+      "component_id": "4-língua-portuguesa-4-domínio-dos-mecanismos-de-coesão-textual-42-emprego-de-tempos-e-modos-verbais_cmp_025",
+      "topic_id": "4-língua-portuguesa-4-domínio-dos-mecanismos-de-coesão-textual-42-emprego-de-tempos-e-modos-verbais_top_006",
+      "component_type": "subtitulo",
+      "content": "Pontos de Alta Incidência",
+      "order": 2
+    },
+    {
+      "component_id": "4-língua-portuguesa-4-domínio-dos-mecanismos-de-coesão-textual-42-emprego-de-tempos-e-modos-verbais_cmp_026",
+      "topic_id": "4-língua-portuguesa-4-domínio-dos-mecanismos-de-coesão-textual-42-emprego-de-tempos-e-modos-verbais_top_006",
+      "component_type": "lista_nao_ordenada",
+      "content": "",
+      "order": 3
+    }
+  ],
+  "pegadinhas": [
+    {
+      "trap_id": "4-língua-portuguesa-4-domínio-dos-mecanismos-de-coesão-textual-42-emprego-de-tempos-e-modos-verbais_peg_001",
+      "material_id": "4-língua-portuguesa-4-domínio-dos-mecanismos-de-coesão-textual-42-emprego-de-tempos-e-modos-verbais",
+      "topic_id": "4-língua-portuguesa-4-domínio-dos-mecanismos-de-coesão-textual-42-emprego-de-tempos-e-modos-verbais_top_006",
+      "title": "Confusão entre Pretérito Mais-que-Perfeito Simples e Composto",
+      "description": "A banca pode tentar confundir o candidato com a forma simples ('fizera') e a composta ('tinha feito'), que possuem o mesmo valor semântico de anterioridade no passado.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 1
+    },
+    {
+      "trap_id": "4-língua-portuguesa-4-domínio-dos-mecanismos-de-coesão-textual-42-emprego-de-tempos-e-modos-verbais_peg_002",
+      "material_id": "4-língua-portuguesa-4-domínio-dos-mecanismos-de-coesão-textual-42-emprego-de-tempos-e-modos-verbais",
+      "topic_id": "4-língua-portuguesa-4-domínio-dos-mecanismos-de-coesão-textual-42-emprego-de-tempos-e-modos-verbais_top_006",
+      "title": "Uso Incorreto do Futuro do Subjuntivo",
+      "description": "Erro comum na conjugação de verbos irregulares no futuro do subjuntivo (ex: 'quando ele *ver*' em vez de 'quando ele *vir*').",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 2
+    },
+    {
+      "trap_id": "4-língua-portuguesa-4-domínio-dos-mecanismos-de-coesão-textual-42-emprego-de-tempos-e-modos-verbais_peg_003",
+      "material_id": "4-língua-portuguesa-4-domínio-dos-mecanismos-de-coesão-textual-42-emprego-de-tempos-e-modos-verbais",
+      "topic_id": "4-língua-portuguesa-4-domínio-dos-mecanismos-de-coesão-textual-42-emprego-de-tempos-e-modos-verbais_top_006",
+      "title": "Quebra de Correlação em Orações Condicionais",
+      "description": "Misturar tempos verbais incompatíveis em orações condicionais, como 'Se ele *vir* amanhã, *falaríamos*'.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 3
+    },
+    {
+      "trap_id": "4-língua-portuguesa-4-domínio-dos-mecanismos-de-coesão-textual-42-emprego-de-tempos-e-modos-verbais_peg_004",
+      "material_id": "4-língua-portuguesa-4-domínio-dos-mecanismos-de-coesão-textual-42-emprego-de-tempos-e-modos-verbais",
+      "topic_id": "4-língua-portuguesa-4-domínio-dos-mecanismos-de-coesão-textual-42-emprego-de-tempos-e-modos-verbais_top_006",
+      "title": "Alteração de Sentido na Reescrita",
+      "description": "A CEBRASPE propõe a substituição de um tempo/modo verbal por outro que, embora gramaticalmente correto isoladamente, altera o sentido original do texto.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 4
+    }
+  ],
+  "pontos_memorizacao": [
+    {
+      "memory_id": "4-língua-portuguesa-4-domínio-dos-mecanismos-de-coesão-textual-42-emprego-de-tempos-e-modos-verbais_mem_001",
+      "material_id": "4-língua-portuguesa-4-domínio-dos-mecanismos-de-coesão-textual-42-emprego-de-tempos-e-modos-verbais",
+      "topic_id": "4-língua-portuguesa-4-domínio-dos-mecanismos-de-coesão-textual-42-emprego-de-tempos-e-modos-verbais_top_001",
+      "title": null,
+      "content": "Modo Indicativo = Certeza; Modo Subjuntivo = Dúvida/Hipótese; Modo Imperativo = Ordem/Pedido.",
+      "order": 1
+    },
+    {
+      "memory_id": "4-língua-portuguesa-4-domínio-dos-mecanismos-de-coesão-textual-42-emprego-de-tempos-e-modos-verbais_mem_002",
+      "material_id": "4-língua-portuguesa-4-domínio-dos-mecanismos-de-coesão-textual-42-emprego-de-tempos-e-modos-verbais",
+      "topic_id": "4-língua-portuguesa-4-domínio-dos-mecanismos-de-coesão-textual-42-emprego-de-tempos-e-modos-verbais_top_005",
+      "title": null,
+      "content": "A correlação verbal é essencial para a coesão e coerência textual.",
+      "order": 2
+    },
+    {
+      "memory_id": "4-língua-portuguesa-4-domínio-dos-mecanismos-de-coesão-textual-42-emprego-de-tempos-e-modos-verbais_mem_003",
+      "material_id": "4-língua-portuguesa-4-domínio-dos-mecanismos-de-coesão-textual-42-emprego-de-tempos-e-modos-verbais",
+      "topic_id": "4-língua-portuguesa-4-domínio-dos-mecanismos-de-coesão-textual-42-emprego-de-tempos-e-modos-verbais_top_002",
+      "title": null,
+      "content": "Pretérito Perfeito: ação concluída. Pretérito Imperfeito: ação contínua/habitual no passado.",
+      "order": 3
+    },
+    {
+      "memory_id": "4-língua-portuguesa-4-domínio-dos-mecanismos-de-coesão-textual-42-emprego-de-tempos-e-modos-verbais_mem_004",
+      "material_id": "4-língua-portuguesa-4-domínio-dos-mecanismos-de-coesão-textual-42-emprego-de-tempos-e-modos-verbais",
+      "topic_id": "4-língua-portuguesa-4-domínio-dos-mecanismos-de-coesão-textual-42-emprego-de-tempos-e-modos-verbais_top_003",
+      "title": null,
+      "content": "Futuro do Subjuntivo: 'quando', 'se', 'enquanto' + verbo.",
+      "order": 4
+    }
+  ],
+  "quadro_sinotico_itens": [],
+  "questoes": [
+    {
+      "question_id": "4-língua-portuguesa-4-domínio-dos-mecanismos-de-coesão-textual-42-emprego-de-tempos-e-modos-verbais_qst_001",
+      "material_id": "4-língua-portuguesa-4-domínio-dos-mecanismos-de-coesão-textual-42-emprego-de-tempos-e-modos-verbais",
+      "topic_id": "4-língua-portuguesa-4-domínio-dos-mecanismos-de-coesão-textual-42-emprego-de-tempos-e-modos-verbais_top_006",
+      "board": null,
+      "year": null,
+      "organization": null,
+      "role": null,
+      "statement": "No trecho 'Se o governo *tivesse* agido antes, a crise *seria* menor', a substituição de 'tivesse agido' por 'agisse' manteria a correção gramatical e o sentido original do período.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": "Média",
+      "external_reference": null,
+      "commentary": "Certo. Tanto 'tivesse agido' (pretérito mais-que-perfeito composto do subjuntivo) quanto 'agisse' (pretérito imperfeito do subjuntivo) expressam uma condição no passado, mantendo a correção gramatical e o sentido hipotético. A correlação com o futuro do pretérito do indicativo ('seria') é adequada em ambos os casos.",
+      "commentary_meta": {
+        "comment_ids": [
+          "4-língua-portuguesa-4-domínio-dos-mecanismos-de-coesão-textual-42-emprego-de-tempos-e-modos-verbais_com_001"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "4-língua-portuguesa-4-domínio-dos-mecanismos-de-coesão-textual-42-emprego-de-tempos-e-modos-verbais_qst_002",
+      "material_id": "4-língua-portuguesa-4-domínio-dos-mecanismos-de-coesão-textual-42-emprego-de-tempos-e-modos-verbais",
+      "topic_id": "4-língua-portuguesa-4-domínio-dos-mecanismos-de-coesão-textual-42-emprego-de-tempos-e-modos-verbais_top_006",
+      "board": null,
+      "year": null,
+      "organization": null,
+      "role": null,
+      "statement": "Em 'Ele *tem estudado* muito para o concurso', a forma verbal composta indica uma ação que se iniciou no passado e se prolonga até o presente, ou cujos efeitos ainda são percebidos.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": "Fácil",
+      "external_reference": null,
+      "commentary": "Certo. O pretérito perfeito composto ('tem estudado') é utilizado para indicar uma ação que começou no passado e se estende até o presente, ou cujos resultados ainda são relevantes no momento da fala.",
+      "commentary_meta": {
+        "comment_ids": [
+          "4-língua-portuguesa-4-domínio-dos-mecanismos-de-coesão-textual-42-emprego-de-tempos-e-modos-verbais_com_002"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "4-língua-portuguesa-4-domínio-dos-mecanismos-de-coesão-textual-42-emprego-de-tempos-e-modos-verbais_qst_003",
+      "material_id": "4-língua-portuguesa-4-domínio-dos-mecanismos-de-coesão-textual-42-emprego-de-tempos-e-modos-verbais",
+      "topic_id": "4-língua-portuguesa-4-domínio-dos-mecanismos-de-coesão-textual-42-emprego-de-tempos-e-modos-verbais_top_006",
+      "board": null,
+      "year": null,
+      "organization": null,
+      "role": null,
+      "statement": "No período 'Quando ele *vir* a verdade, tudo mudará', a forma verbal 'vir' está corretamente empregada no futuro do subjuntivo, indicando uma ação futura e incerta.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": "Média",
+      "external_reference": null,
+      "commentary": "Certo. O futuro do subjuntivo do verbo 'ver' é 'vir' (quando eu vir, quando tu vires, quando ele vir...). A forma 'vir' está corretamente empregada para expressar uma ação futura e incerta, introduzida pela conjunção 'quando'.",
+      "commentary_meta": {
+        "comment_ids": [
+          "4-língua-portuguesa-4-domínio-dos-mecanismos-de-coesão-textual-42-emprego-de-tempos-e-modos-verbais_com_003"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "4-língua-portuguesa-4-domínio-dos-mecanismos-de-coesão-textual-42-emprego-de-tempos-e-modos-verbais_qst_004",
+      "material_id": "4-língua-portuguesa-4-domínio-dos-mecanismos-de-coesão-textual-42-emprego-de-tempos-e-modos-verbais",
+      "topic_id": "4-língua-portuguesa-4-domínio-dos-mecanismos-de-coesão-textual-42-emprego-de-tempos-e-modos-verbais_top_006",
+      "board": null,
+      "year": null,
+      "organization": null,
+      "role": null,
+      "statement": "A frase 'Eu *fazia* meus trabalhos de casa todos os dias' emprega o pretérito imperfeito do indicativo para expressar uma ação habitual no passado.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": "Fácil",
+      "external_reference": null,
+      "commentary": "Certo. O pretérito imperfeito do indicativo ('fazia') é o tempo verbal adequado para expressar ações que ocorriam de forma contínua ou habitual no passado.",
+      "commentary_meta": {
+        "comment_ids": [
+          "4-língua-portuguesa-4-domínio-dos-mecanismos-de-coesão-textual-42-emprego-de-tempos-e-modos-verbais_com_004"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "4-língua-portuguesa-4-domínio-dos-mecanismos-de-coesão-textual-42-emprego-de-tempos-e-modos-verbais_qst_005",
+      "material_id": "4-língua-portuguesa-4-domínio-dos-mecanismos-de-coesão-textual-42-emprego-de-tempos-e-modos-verbais",
+      "topic_id": "4-língua-portuguesa-4-domínio-dos-mecanismos-de-coesão-textual-42-emprego-de-tempos-e-modos-verbais_top_006",
+      "board": null,
+      "year": null,
+      "organization": null,
+      "role": null,
+      "statement": "Em 'Embora ele *estudasse* muito, não conseguiu a aprovação', o verbo no pretérito imperfeito do subjuntivo expressa uma condição para a não aprovação.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": "Média",
+      "external_reference": null,
+      "commentary": "Errado. O verbo 'estudasse' está no pretérito imperfeito do subjuntivo, mas a conjunção 'Embora' introduz uma oração subordinada adverbial concessiva, que expressa uma ideia contrária à da oração principal, e não uma condição.",
+      "commentary_meta": {
+        "comment_ids": [
+          "4-língua-portuguesa-4-domínio-dos-mecanismos-de-coesão-textual-42-emprego-de-tempos-e-modos-verbais_com_005"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "4-língua-portuguesa-4-domínio-dos-mecanismos-de-coesão-textual-42-emprego-de-tempos-e-modos-verbais_qst_006",
+      "material_id": "4-língua-portuguesa-4-domínio-dos-mecanismos-de-coesão-textual-42-emprego-de-tempos-e-modos-verbais",
+      "topic_id": "4-língua-portuguesa-4-domínio-dos-mecanismos-de-coesão-textual-42-emprego-de-tempos-e-modos-verbais_top_006",
+      "board": null,
+      "year": null,
+      "organization": null,
+      "role": null,
+      "statement": "A substituição de 'ele *comera*' por 'ele *tinha comido*' alteraria a correção gramatical do texto, mas manteria o sentido de anterioridade no passado.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": "Difícil",
+      "external_reference": null,
+      "commentary": "Errado. A substituição de 'comera' (pretérito mais-que-perfeito simples) por 'tinha comido' (pretérito mais-que-perfeito composto) mantém tanto a correção gramatical quanto o sentido de anterioridade no passado, pois ambas as formas são equivalentes semanticamente.",
+      "commentary_meta": {
+        "comment_ids": [
+          "4-língua-portuguesa-4-domínio-dos-mecanismos-de-coesão-textual-42-emprego-de-tempos-e-modos-verbais_com_006"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "4-língua-portuguesa-4-domínio-dos-mecanismos-de-coesão-textual-42-emprego-de-tempos-e-modos-verbais_qst_007",
+      "material_id": "4-língua-portuguesa-4-domínio-dos-mecanismos-de-coesão-textual-42-emprego-de-tempos-e-modos-verbais",
+      "topic_id": "4-língua-portuguesa-4-domínio-dos-mecanismos-de-coesão-textual-42-emprego-de-tempos-e-modos-verbais_top_006",
+      "board": null,
+      "year": null,
+      "organization": null,
+      "role": null,
+      "statement": "No trecho 'É fundamental que todos *colaborem* para o sucesso do projeto', o verbo 'colaborem' está no presente do subjuntivo, indicando uma certeza sobre a colaboração.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": "Média",
+      "external_reference": null,
+      "commentary": "Errado. O verbo 'colaborem' está no presente do subjuntivo, que expressa desejo, possibilidade ou hipótese, e não uma certeza. A estrutura 'É fundamental que...' introduz uma ideia de necessidade ou desejo.",
+      "commentary_meta": {
+        "comment_ids": [
+          "4-língua-portuguesa-4-domínio-dos-mecanismos-de-coesão-textual-42-emprego-de-tempos-e-modos-verbais_com_007"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "4-língua-portuguesa-4-domínio-dos-mecanismos-de-coesão-textual-42-emprego-de-tempos-e-modos-verbais_qst_008",
+      "material_id": "4-língua-portuguesa-4-domínio-dos-mecanismos-de-coesão-textual-42-emprego-de-tempos-e-modos-verbais",
+      "topic_id": "4-língua-portuguesa-4-domínio-dos-mecanismos-de-coesão-textual-42-emprego-de-tempos-e-modos-verbais_top_006",
+      "board": null,
+      "year": null,
+      "organization": null,
+      "role": null,
+      "statement": "A forma verbal 'descenderiam' no futuro do pretérito do indicativo, em um contexto de hipótese, permite concluir que o autor considera duvidosa a ocorrência do fato.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": "Média",
+      "external_reference": null,
+      "commentary": "Certo. O futuro do pretérito do indicativo ('descenderiam') pode ser empregado para expressar uma hipótese ou incerteza em relação a um fato, especialmente em contextos que denotam uma possibilidade duvidosa.",
+      "commentary_meta": {
+        "comment_ids": [
+          "4-língua-portuguesa-4-domínio-dos-mecanismos-de-coesão-textual-42-emprego-de-tempos-e-modos-verbais_com_008"
+        ],
+        "count": 1
+      }
+    }
+  ],
+  "comentarios_questoes": [
+    {
+      "comment_id": "4-língua-portuguesa-4-domínio-dos-mecanismos-de-coesão-textual-42-emprego-de-tempos-e-modos-verbais_com_001",
+      "question_id": "4-língua-portuguesa-4-domínio-dos-mecanismos-de-coesão-textual-42-emprego-de-tempos-e-modos-verbais_qst_001",
+      "content": "Certo. Tanto 'tivesse agido' (pretérito mais-que-perfeito composto do subjuntivo) quanto 'agisse' (pretérito imperfeito do subjuntivo) expressam uma condição no passado, mantendo a correção gramatical e o sentido hipotético. A correlação com o futuro do pretérito do indicativo ('seria') é adequada em ambos os casos.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "4-língua-portuguesa-4-domínio-dos-mecanismos-de-coesão-textual-42-emprego-de-tempos-e-modos-verbais_com_002",
+      "question_id": "4-língua-portuguesa-4-domínio-dos-mecanismos-de-coesão-textual-42-emprego-de-tempos-e-modos-verbais_qst_002",
+      "content": "Certo. O pretérito perfeito composto ('tem estudado') é utilizado para indicar uma ação que começou no passado e se estende até o presente, ou cujos resultados ainda são relevantes no momento da fala.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "4-língua-portuguesa-4-domínio-dos-mecanismos-de-coesão-textual-42-emprego-de-tempos-e-modos-verbais_com_003",
+      "question_id": "4-língua-portuguesa-4-domínio-dos-mecanismos-de-coesão-textual-42-emprego-de-tempos-e-modos-verbais_qst_003",
+      "content": "Certo. O futuro do subjuntivo do verbo 'ver' é 'vir' (quando eu vir, quando tu vires, quando ele vir...). A forma 'vir' está corretamente empregada para expressar uma ação futura e incerta, introduzida pela conjunção 'quando'.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "4-língua-portuguesa-4-domínio-dos-mecanismos-de-coesão-textual-42-emprego-de-tempos-e-modos-verbais_com_004",
+      "question_id": "4-língua-portuguesa-4-domínio-dos-mecanismos-de-coesão-textual-42-emprego-de-tempos-e-modos-verbais_qst_004",
+      "content": "Certo. O pretérito imperfeito do indicativo ('fazia') é o tempo verbal adequado para expressar ações que ocorriam de forma contínua ou habitual no passado.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "4-língua-portuguesa-4-domínio-dos-mecanismos-de-coesão-textual-42-emprego-de-tempos-e-modos-verbais_com_005",
+      "question_id": "4-língua-portuguesa-4-domínio-dos-mecanismos-de-coesão-textual-42-emprego-de-tempos-e-modos-verbais_qst_005",
+      "content": "Errado. O verbo 'estudasse' está no pretérito imperfeito do subjuntivo, mas a conjunção 'Embora' introduz uma oração subordinada adverbial concessiva, que expressa uma ideia contrária à da oração principal, e não uma condição.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "4-língua-portuguesa-4-domínio-dos-mecanismos-de-coesão-textual-42-emprego-de-tempos-e-modos-verbais_com_006",
+      "question_id": "4-língua-portuguesa-4-domínio-dos-mecanismos-de-coesão-textual-42-emprego-de-tempos-e-modos-verbais_qst_006",
+      "content": "Errado. A substituição de 'comera' (pretérito mais-que-perfeito simples) por 'tinha comido' (pretérito mais-que-perfeito composto) mantém tanto a correção gramatical quanto o sentido de anterioridade no passado, pois ambas as formas são equivalentes semanticamente.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "4-língua-portuguesa-4-domínio-dos-mecanismos-de-coesão-textual-42-emprego-de-tempos-e-modos-verbais_com_007",
+      "question_id": "4-língua-portuguesa-4-domínio-dos-mecanismos-de-coesão-textual-42-emprego-de-tempos-e-modos-verbais_qst_007",
+      "content": "Errado. O verbo 'colaborem' está no presente do subjuntivo, que expressa desejo, possibilidade ou hipótese, e não uma certeza. A estrutura 'É fundamental que...' introduz uma ideia de necessidade ou desejo.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "4-língua-portuguesa-4-domínio-dos-mecanismos-de-coesão-textual-42-emprego-de-tempos-e-modos-verbais_com_008",
+      "question_id": "4-língua-portuguesa-4-domínio-dos-mecanismos-de-coesão-textual-42-emprego-de-tempos-e-modos-verbais_qst_008",
+      "content": "Certo. O futuro do pretérito do indicativo ('descenderiam') pode ser empregado para expressar uma hipótese ou incerteza em relação a um fato, especialmente em contextos que denotam uma possibilidade duvidosa.",
+      "explanation_alternatives": ""
+    }
+  ],
+  "checklist_revisao": [
+    {
+      "checklist_id": "4-língua-portuguesa-4-domínio-dos-mecanismos-de-coesão-textual-42-emprego-de-tempos-e-modos-verbais_chk_001",
+      "material_id": "4-língua-portuguesa-4-domínio-dos-mecanismos-de-coesão-textual-42-emprego-de-tempos-e-modos-verbais",
+      "topic_id": "4-língua-portuguesa-4-domínio-dos-mecanismos-de-coesão-textual-42-emprego-de-tempos-e-modos-verbais_top_001",
+      "item_text": "Revisar os conceitos de tempo e modo verbal.",
+      "completed": false,
+      "order": 1
+    },
+    {
+      "checklist_id": "4-língua-portuguesa-4-domínio-dos-mecanismos-de-coesão-textual-42-emprego-de-tempos-e-modos-verbais_chk_002",
+      "material_id": "4-língua-portuguesa-4-domínio-dos-mecanismos-de-coesão-textual-42-emprego-de-tempos-e-modos-verbais",
+      "topic_id": "4-língua-portuguesa-4-domínio-dos-mecanismos-de-coesão-textual-42-emprego-de-tempos-e-modos-verbais_top_002",
+      "item_text": "Memorizar os valores semânticos de cada tempo do Indicativo.",
+      "completed": false,
+      "order": 2
+    },
+    {
+      "checklist_id": "4-língua-portuguesa-4-domínio-dos-mecanismos-de-coesão-textual-42-emprego-de-tempos-e-modos-verbais_chk_003",
+      "material_id": "4-língua-portuguesa-4-domínio-dos-mecanismos-de-coesão-textual-42-emprego-de-tempos-e-modos-verbais",
+      "topic_id": "4-língua-portuguesa-4-domínio-dos-mecanismos-de-coesão-textual-42-emprego-de-tempos-e-modos-verbais_top_003",
+      "item_text": "Praticar a conjugação e o uso do Subjuntivo em diferentes contextos.",
+      "completed": false,
+      "order": 3
+    },
+    {
+      "checklist_id": "4-língua-portuguesa-4-domínio-dos-mecanismos-de-coesão-textual-42-emprego-de-tempos-e-modos-verbais_chk_004",
+      "material_id": "4-língua-portuguesa-4-domínio-dos-mecanismos-de-coesão-textual-42-emprego-de-tempos-e-modos-verbais",
+      "topic_id": "4-língua-portuguesa-4-domínio-dos-mecanismos-de-coesão-textual-42-emprego-de-tempos-e-modos-verbais_top_005",
+      "item_text": "Estudar as principais correlações verbais para evitar erros de coesão.",
+      "completed": false,
+      "order": 4
+    },
+    {
+      "checklist_id": "4-língua-portuguesa-4-domínio-dos-mecanismos-de-coesão-textual-42-emprego-de-tempos-e-modos-verbais_chk_005",
+      "material_id": "4-língua-portuguesa-4-domínio-dos-mecanismos-de-coesão-textual-42-emprego-de-tempos-e-modos-verbais",
+      "topic_id": "4-língua-portuguesa-4-domínio-dos-mecanismos-de-coesão-textual-42-emprego-de-tempos-e-modos-verbais_top_006",
+      "item_text": "Focar nas pegadinhas da CEBRASPE relacionadas a tempos e modos verbais.",
+      "completed": false,
+      "order": 5
+    },
+    {
+      "checklist_id": "4-língua-portuguesa-4-domínio-dos-mecanismos-de-coesão-textual-42-emprego-de-tempos-e-modos-verbais_chk_006",
+      "material_id": "4-língua-portuguesa-4-domínio-dos-mecanismos-de-coesão-textual-42-emprego-de-tempos-e-modos-verbais",
+      "topic_id": "4-língua-portuguesa-4-domínio-dos-mecanismos-de-coesão-textual-42-emprego-de-tempos-e-modos-verbais_top_006",
+      "item_text": "Resolver questões anteriores da banca para identificar padrões de cobrança.",
+      "completed": false,
+      "order": 6
+    }
+  ],
+  "referencias": [
+    {
+      "reference_id": "4-língua-portuguesa-4-domínio-dos-mecanismos-de-coesão-textual-42-emprego-de-tempos-e-modos-verbais_ref_001",
+      "material_id": "4-língua-portuguesa-4-domínio-dos-mecanismos-de-coesão-textual-42-emprego-de-tempos-e-modos-verbais",
+      "reference_type": "Livro",
+      "author_name": "Celso Cunha e Lindley Cintra",
+      "title": "Nova Gramática do Português Contemporâneo",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": null,
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "4-língua-portuguesa-4-domínio-dos-mecanismos-de-coesão-textual-42-emprego-de-tempos-e-modos-verbais_ref_002",
+      "material_id": "4-língua-portuguesa-4-domínio-dos-mecanismos-de-coesão-textual-42-emprego-de-tempos-e-modos-verbais",
+      "reference_type": "Livro",
+      "author_name": "Rocha Lima",
+      "title": "Gramática Normativa da Língua Portuguesa",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": null,
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "4-língua-portuguesa-4-domínio-dos-mecanismos-de-coesão-textual-42-emprego-de-tempos-e-modos-verbais_ref_003",
+      "material_id": "4-língua-portuguesa-4-domínio-dos-mecanismos-de-coesão-textual-42-emprego-de-tempos-e-modos-verbais",
+      "reference_type": "Livro",
+      "author_name": "Pasquale Cipro Neto e Ulisses Infante",
+      "title": "Gramática da Língua Portuguesa",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": null,
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "4-língua-portuguesa-4-domínio-dos-mecanismos-de-coesão-textual-42-emprego-de-tempos-e-modos-verbais_ref_004",
+      "material_id": "4-língua-portuguesa-4-domínio-dos-mecanismos-de-coesão-textual-42-emprego-de-tempos-e-modos-verbais",
+      "reference_type": "Website Educacional",
+      "author_name": "Diversos Professores",
+      "title": "Estratégia Concursos - Artigos e Aulas sobre Língua Portuguesa",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.estrategiaconcursos.com.br/",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "4-língua-portuguesa-4-domínio-dos-mecanismos-de-coesão-textual-42-emprego-de-tempos-e-modos-verbais_ref_005",
+      "material_id": "4-língua-portuguesa-4-domínio-dos-mecanismos-de-coesão-textual-42-emprego-de-tempos-e-modos-verbais",
+      "reference_type": "Plataforma de Questões",
+      "author_name": "Qconcursos.com",
+      "title": "Qconcursos.com - Questões de Concurso",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.qconcursos.com/",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "4-língua-portuguesa-4-domínio-dos-mecanismos-de-coesão-textual-42-emprego-de-tempos-e-modos-verbais_ref_006",
+      "material_id": "4-língua-portuguesa-4-domínio-dos-mecanismos-de-coesão-textual-42-emprego-de-tempos-e-modos-verbais",
+      "reference_type": "Plataforma de Questões",
+      "author_name": "Tec Concursos",
+      "title": "Tec Concursos - Questões de Concurso",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.tecconcursos.com.br/",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "4-língua-portuguesa-4-domínio-dos-mecanismos-de-coesão-textual-42-emprego-de-tempos-e-modos-verbais_ref_007",
+      "material_id": "4-língua-portuguesa-4-domínio-dos-mecanismos-de-coesão-textual-42-emprego-de-tempos-e-modos-verbais",
+      "reference_type": "Plataforma de Vídeos Educacionais",
+      "author_name": "Diversos Professores",
+      "title": "YouTube - Canais de Professores de Português para Concursos (ex: Professor Mazziotti, Yara Coeli, Professor José Maria, Jus Polis, Professor Andresan Machado, Professor Lucas Lemos, Professora Grazy, Professor Pablo Jamilk, Instituto Adriana Figueiredo, Português com Edson)",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.youtube.com/",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "4-língua-portuguesa-4-domínio-dos-mecanismos-de-coesão-textual-42-emprego-de-tempos-e-modos-verbais_ref_008",
+      "material_id": "4-língua-portuguesa-4-domínio-dos-mecanismos-de-coesão-textual-42-emprego-de-tempos-e-modos-verbais",
+      "reference_type": "Website Educacional",
+      "author_name": "Toda Matéria",
+      "title": "Toda Matéria - Tempos e modos verbais",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.todamateria.com.br/tempos-e-modos-verbais/",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "4-língua-portuguesa-4-domínio-dos-mecanismos-de-coesão-textual-42-emprego-de-tempos-e-modos-verbais_ref_009",
+      "material_id": "4-língua-portuguesa-4-domínio-dos-mecanismos-de-coesão-textual-42-emprego-de-tempos-e-modos-verbais",
+      "reference_type": "Website Educacional",
+      "author_name": "RTP Ensina",
+      "title": "RTP Ensina - Tempos e modos verbais",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://ensina.rtp.pt/artigo/tempos-e-modos-verbais/",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "4-língua-portuguesa-4-domínio-dos-mecanismos-de-coesão-textual-42-emprego-de-tempos-e-modos-verbais_ref_010",
+      "material_id": "4-língua-portuguesa-4-domínio-dos-mecanismos-de-coesão-textual-42-emprego-de-tempos-e-modos-verbais",
+      "reference_type": "Website Educacional",
+      "author_name": "Aprova Total",
+      "title": "Aprova Total - Emprego de tempos e modos verbais: semântica dos verbos",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://aprovatotal.com.br/blog/emprego-de-tempos-e-modos-verbais-semantica-dos-verbos/",
+      "accessed_at": null,
+      "description": null
+    }
+  ],
+  "estatisticas_de_geracao": {
+    "total_topicos": 6,
+    "total_componentes_topico": 26,
+    "total_entendimentos_relevantes": 4,
+    "total_pegadinhas": 4,
+    "total_pontos_memorizacao": 4,
+    "total_itens_quadro_sinotico": 0,
+    "total_questoes": 8,
+    "total_comentarios_questoes": 8,
+    "total_itens_checklist": 6,
+    "total_referencias": 10
+  },
+  "validacao_interna": {
+    "pesquisa_previa_realizada": true,
+    "analise_de_cobrancas_anteriores_realizada": true,
+    "material_atualizado": true,
+    "json_valido": true,
+    "estrutura_relacional_respeitada": true,
+    "numeracao_respeitada": true,
+    "houve_quebra_de_hierarquia": false,
+    "houve_nivel_numerico_superior_a_3": false,
+    "fontes_verificadas": true,
+    "sem_informacao_inventada": true
+  },
+  "metadata": {
+    "source_file_name": "4__língua-portuguesa__4-domínio-dos-mecanismos-de-coesão-textual-4.2-emprego-de-tempos-e-modos-verbais.json",
+    "normalized_checksum": "e2ba0a4d2bd26dff55d10d209966b95da4cb60cae85ef37e2fb7dba9e3a39b5e",
+    "subject_slug": "portugues",
+    "material_slug": "emprego-tempos-modos-verbais-cebraspe",
+    "title_slug": "dominio-dos-mecanismos-de-coesao-textual-emprego",
+    "board_slug": "cebraspe",
+    "counters": {
+      "blocks": 2,
+      "topics": 6,
+      "topic_components": 26,
+      "traps": 4,
+      "memory_points": 4,
+      "summary_items": 0,
+      "questions": 8,
+      "question_comments": 8,
+      "checklist_items": 6,
+      "references": 10
+    }
+  }
+}

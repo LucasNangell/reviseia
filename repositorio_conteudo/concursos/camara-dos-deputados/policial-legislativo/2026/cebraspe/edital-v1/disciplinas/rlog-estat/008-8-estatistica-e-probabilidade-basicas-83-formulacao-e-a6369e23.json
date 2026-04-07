@@ -1,0 +1,1032 @@
+{
+  "schema_version": "1.0",
+  "normalized_at": "2026-04-07T15:39:14.776011-03:00",
+  "normalizer_version": "2.0.0",
+  "exported_at": "2026-04-07T15:46:00Z",
+  "source_request": {
+    "purpose": "Concurso público",
+    "general_area": "Exatas",
+    "subject_name": "Raciocínio Lógico e Noções de Estatística",
+    "subarea_name": "Lógica, conjuntos, contagem e estatística",
+    "main_theme": "8 Estatística e probabilidade básicas: 8.3 Formulação e validação de hipóteses",
+    "theme_scope": "Teoria completa, incidência em prova, padrão de cobrança da banca, pegadinhas e questões comentadas",
+    "board_style": "CEBRASPE",
+    "depth_level": "Exaustivo",
+    "goal": "Teoria completa, revisão estratégica, pegadinhas e questões comentadas",
+    "base_topic_number": "8",
+    "topic_title": "8 Estatística e probabilidade básicas: 8.3 Formulação e validação de hipóteses",
+    "syllabus_reference": "Conteúdo programático da disciplina Raciocínio Lógico e Noções de Estatística",
+    "priority_sources": [
+      "Bibliografia técnica consolidada",
+      "Definições, propriedades, regras e métodos consagrados",
+      "Questões anteriores da banca"
+    ],
+    "minimum_questions": 8,
+    "question_format": "Certo/Errado",
+    "prioritize_real_questions": true,
+    "response_language": "português",
+    "target_audience": "Candidato de concurso público",
+    "additional_notes": "Executar exatamente para esta linha individual do topicos.txt. Não juntar com outros tópicos. Não pular este tópico. Dar destaque ao padrão de cobrança da banca, aos pontos mais cobrados e às pegadinhas recorrentes.",
+    "input_hash": "9bc71af52906",
+    "extras": {}
+  },
+  "material": {
+    "material_id": "mat_001",
+    "slug": "estatistica-probabilidade-basicas-formulacao-validacao-hipoteses",
+    "title": "Formulação e Validação de Hipóteses em Estatística Básica",
+    "base_number": "8",
+    "topic_title": "8 Estatística e probabilidade básicas: 8.3 Formulação e validação de hipóteses",
+    "purpose": "Concurso público",
+    "area_name": "Exatas",
+    "subject_name": "Raciocínio Lógico e Noções de Estatística",
+    "subarea_name": "Lógica, conjuntos, contagem e estatística",
+    "main_theme": "8 Estatística e probabilidade básicas: 8.3 Formulação e validação de hipóteses",
+    "theme_scope": "Teoria completa, incidência em prova, padrão de cobrança da banca, pegadinhas e questões comentadas",
+    "board_style": "CEBRASPE",
+    "depth_level": "Exaustivo",
+    "study_goal": "Teoria completa, revisão estratégica, pegadinhas e questões comentadas",
+    "target_audience": "Candidato de concurso público",
+    "language_code": "português",
+    "update_status": "Atualizado em 2026-04-07",
+    "current_note": "Conteúdo revisado para refletir as definições e práticas mais recentes em testes de hipóteses, com foco na abordagem da banca CEBRASPE.",
+    "has_case_law": false,
+    "case_law_justification": "A disciplina de Raciocínio Lógico e Noções de Estatística, especialmente o tópico de testes de hipóteses, não envolve conceitos jurídicos, portanto, jurisprudência não é aplicável.",
+    "has_information_limitation": false,
+    "information_limitation_desc": null,
+    "content_checksum": "placeholder_checksum_content",
+    "extras": {}
+  },
+  "blocos_textuais": [
+    {
+      "external_block_code": "blc_001",
+      "material_id": null,
+      "topic_id": null,
+      "order": 1,
+      "title": "Introdução aos Testes de Hipóteses",
+      "content": "Testes de hipóteses são procedimentos estatísticos fundamentais que permitem tomar decisões sobre uma ou mais populações com base em informações obtidas de uma amostra. Eles são amplamente utilizados para verificar se os dados amostrais fornecem evidências suficientes para apoiar ou refutar uma suposição inicial sobre um parâmetro populacional ou sobre a distribuição de uma variável aleatória. Essa metodologia é crucial em diversas áreas, como controle de qualidade, pesquisas de mercado, ciências da saúde e análise de dados, sempre que se deseja validar uma suspeita com apoio estatístico.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_002",
+      "material_id": null,
+      "topic_id": null,
+      "order": 2,
+      "title": "Hipótese Nula (H₀) e Hipótese Alternativa (H₁)",
+      "content": "A formulação correta das hipóteses é o primeiro passo em qualquer teste estatístico. Existem duas hipóteses concorrentes: a hipótese nula e a hipótese alternativa.\n\n**Hipótese Nula (H₀):** É a hipótese assumida como verdadeira para a construção do teste, representando o 'status quo' ou a ausência de efeito/diferença. Ela é a afirmação que se busca testar e só será rejeitada se houver evidências estatísticas fortes em contrário.\n\n**Hipótese Alternativa (H₁ ou Hₐ):** É a hipótese considerada quando a hipótese nula não tem evidência estatística para ser mantida. Geralmente, é a afirmação que o pesquisador deseja provar, indicando a existência de um efeito, uma diferença ou uma relação. As hipóteses nula e alternativa são mutuamente exclusivas.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_003",
+      "material_id": null,
+      "topic_id": null,
+      "order": 3,
+      "title": "Erros em Testes de Hipóteses: Tipo I (α) e Tipo II (β)",
+      "content": "Como as decisões em testes de hipóteses são baseadas em amostras e não na população inteira, há sempre o risco de cometer erros. Existem dois tipos principais de erros:\n\n**Erro Tipo I (α ou falso positivo):** Ocorre quando a hipótese nula (H₀) é rejeitada, mas, na realidade, ela é verdadeira. A probabilidade de cometer um erro Tipo I é denotada por α (alfa) e é conhecida como nível de significância. Em muitos contextos, o erro Tipo I é considerado mais grave, pois leva a conclusões incorretas de que um efeito ou diferença existe quando não há.\n\n**Erro Tipo II (β ou falso negativo):** Ocorre quando a hipótese nula (H₀) não é rejeitada, mas, na realidade, ela é falsa. A probabilidade de cometer um erro Tipo II é denotada por β (beta). Este erro significa que um efeito ou diferença real não foi detectado pelo teste.\n\nÉ importante notar que, para um dado tamanho amostral, não é possível minimizar simultaneamente α e β; a redução de um geralmente leva ao aumento do outro. A potência de um teste é a probabilidade de rejeitar corretamente uma hipótese nula falsa, sendo calculada como 1 - β.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_004",
+      "material_id": null,
+      "topic_id": null,
+      "order": 4,
+      "title": "Nível de Significância (α) e P-valor",
+      "content": "**Nível de Significância (α):** É um limite pré-estabelecido para a probabilidade de cometer um Erro Tipo I. Valores comuns para α são 0,01 (1%), 0,05 (5%) e 0,10 (10%). A escolha de α reflete o risco que o pesquisador está disposto a assumir de rejeitar uma hipótese nula verdadeira.\n\n**P-valor (valor-p):** É a probabilidade de se obter uma estatística de teste tão extrema (ou mais extrema) quanto a observada na amostra, assumindo que a hipótese nula (H₀) é verdadeira. O p-valor quantifica a força da evidência contra a hipótese nula. Um p-valor pequeno indica que os dados observados seriam muito improváveis se H₀ fosse verdadeira, fornecendo evidências para rejeitá-la.\n\n**Regra de Decisão:**\n*   Se p-valor ≤ α: Rejeita-se a hipótese nula (H₀).\n*   Se p-valor > α: Não há evidências suficientes para rejeitar a hipótese nula (H₀).\n\nÉ crucial entender que 'não rejeitar H₀' não significa que H₀ é verdadeira, mas sim que não há evidências estatísticas suficientes para rejeitá-la com o nível de significância escolhido.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_005",
+      "material_id": null,
+      "topic_id": null,
+      "order": 5,
+      "title": "Etapas de um Teste de Hipóteses",
+      "content": "A realização de um teste de hipóteses segue uma sequência lógica de passos:\n\n1.  **Formulação das Hipóteses:** Definir claramente a hipótese nula (H₀) e a hipótese alternativa (H₁).\n2.  **Definição do Nível de Significância (α):** Escolher o nível de risco aceitável para o Erro Tipo I.\n3.  **Seleção da Estatística de Teste:** Escolher a estatística apropriada (e.g., z-score, t-score, qui-quadrado, F-score) com base no tipo de dados, tamanho da amostra e conhecimento da variância populacional.\n4.  **Cálculo da Estatística de Teste e P-valor (ou Determinação da Região Crítica):** Coletar os dados da amostra, calcular o valor da estatística de teste e, a partir dela, o p-valor, ou comparar a estatística de teste com valores críticos da distribuição.\n5.  **Tomada de Decisão e Conclusão:** Comparar o p-valor com α (ou a estatística de teste com o valor crítico) para decidir se a hipótese nula deve ser rejeitada ou não. Em seguida, interpretar o resultado no contexto do problema.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_006",
+      "material_id": null,
+      "topic_id": null,
+      "order": 6,
+      "title": "Padrão de Cobrança da Banca CEBRASPE em Testes de Hipóteses",
+      "content": "A banca CEBRASPE (antigo CESPE/UnB) é conhecida por seu estilo de prova 'Certo/Errado' e pela exigência de compreensão teórica aprofundada, raciocínio crítico e aplicação do conhecimento. Em Estatística, e especificamente em testes de hipóteses, o CEBRASPE costuma cobrar:\n\n*   **Conceitos Fundamentais:** Definições de H₀, H₁, Erros Tipo I e II, nível de significância e p-valor são frequentemente testadas.\n*   **Interpretação:** A banca valoriza a capacidade de interpretar os resultados de um teste de hipóteses e suas implicações, em vez de apenas realizar cálculos complexos.\n*   **Relações entre Conceitos:** Questões que exploram a relação entre o nível de significância e a probabilidade de Erro Tipo I, ou entre o p-valor e a decisão de rejeitar H₀.\n*   **Pegadinhas Conceituais:** O CEBRASPE elabora pegadinhas sutis nos enunciados, utilizando termos polissêmicos ou afirmações que invertem a lógica dos conceitos. Por exemplo, confundir a definição de p-valor com a probabilidade de H₀ ser verdadeira.\n*   **Contextualização:** Apresenta cenários práticos onde o candidato deve aplicar os conceitos de testes de hipóteses para julgar a correção de uma afirmação.\n*   **Incidência:** Testes de Hipótese representam um dos tópicos mais cobrados em Estatística pela CEBRASPE, com uma incidência de 14,29% em algumas análises.\n\nPara ter sucesso, é essencial não apenas memorizar as definições, mas compreender a lógica por trás de cada conceito e como eles se interligam.",
+      "content_type": "teoria"
+    }
+  ],
+  "topicos": [
+    {
+      "external_topic_code": "top_001",
+      "material_id": null,
+      "parent_topic_id": null,
+      "topic_number": "8.3",
+      "title": "Formulação e Validação de Hipóteses",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 1
+    },
+    {
+      "external_topic_code": "top_002",
+      "material_id": null,
+      "parent_topic_id": null,
+      "topic_number": "8.3.1",
+      "title": "Conceitos Fundamentais",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 2
+    },
+    {
+      "external_topic_code": "top_003",
+      "material_id": null,
+      "parent_topic_id": null,
+      "topic_number": "8.3.2",
+      "title": "Hipóteses Estatísticas: Nula (H₀) e Alternativa (H₁)",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 3
+    },
+    {
+      "external_topic_code": "top_004",
+      "material_id": null,
+      "parent_topic_id": null,
+      "topic_number": "8.3.3",
+      "title": "Erros em Testes de Hipóteses: Tipo I (α) e Tipo II (β)",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 4
+    },
+    {
+      "external_topic_code": "top_005",
+      "material_id": null,
+      "parent_topic_id": null,
+      "topic_number": "8.3.4",
+      "title": "Nível de Significância (α) e P-valor",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 5
+    },
+    {
+      "external_topic_code": "top_006",
+      "material_id": null,
+      "parent_topic_id": null,
+      "topic_number": "8.3.5",
+      "title": "Etapas de um Teste de Hipóteses",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 6
+    },
+    {
+      "external_topic_code": "top_007",
+      "material_id": null,
+      "parent_topic_id": null,
+      "topic_number": "8.3.6",
+      "title": "Padrão de Cobrança da Banca CEBRASPE",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 7
+    }
+  ],
+  "topico_componentes": [
+    {
+      "component_id": "cmp_001",
+      "topic_id": "top_002",
+      "component_type": "definicao",
+      "content": "Teste de hipóteses: Procedimento estatístico para tomar decisões sobre parâmetros populacionais com base em dados amostrais.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_002",
+      "topic_id": "top_003",
+      "component_type": "definicao",
+      "content": "Hipótese Nula (H₀): Afirmação sobre um parâmetro populacional que se assume verdadeira até que haja evidências suficientes para rejeitá-la. Geralmente, representa a ausência de efeito ou diferença.",
+      "order": 2
+    },
+    {
+      "component_id": "cmp_003",
+      "topic_id": "top_003",
+      "component_type": "definicao",
+      "content": "Hipótese Alternativa (H₁ ou Hₐ): Afirmação que contradiz a hipótese nula e que se busca provar. Representa a existência de um efeito ou diferença.",
+      "order": 3
+    },
+    {
+      "component_id": "cmp_004",
+      "topic_id": "top_004",
+      "component_type": "definicao",
+      "content": "Erro Tipo I (α): Rejeitar a hipótese nula quando ela é verdadeira (falso positivo). Sua probabilidade é o nível de significância (α).",
+      "order": 4
+    },
+    {
+      "component_id": "cmp_005",
+      "topic_id": "top_004",
+      "component_type": "definicao",
+      "content": "Erro Tipo II (β): Não rejeitar a hipótese nula quando ela é falsa (falso negativo). Sua probabilidade é β.",
+      "order": 5
+    },
+    {
+      "component_id": "cmp_006",
+      "topic_id": "top_005",
+      "component_type": "definicao",
+      "content": "Nível de Significância (α): A probabilidade máxima aceitável de cometer um Erro Tipo I. Valores comuns são 0,01, 0,05 e 0,10.",
+      "order": 6
+    },
+    {
+      "component_id": "cmp_007",
+      "topic_id": "top_005",
+      "component_type": "definicao",
+      "content": "P-valor: A probabilidade de obter um resultado amostral tão extremo (ou mais extremo) quanto o observado, assumindo que a hipótese nula é verdadeira.",
+      "order": 7
+    },
+    {
+      "component_id": "cmp_008",
+      "topic_id": "top_006",
+      "component_type": "passo_a_passo",
+      "content": "1. Formular H₀ e H₁.\n2. Escolher o nível de significância (α).\n3. Selecionar a estatística de teste.\n4. Calcular a estatística de teste e o p-valor (ou determinar a região crítica).\n5. Tomar a decisão e interpretar o resultado.",
+      "order": 8
+    },
+    {
+      "component_id": "cmp_009",
+      "topic_id": "top_007",
+      "component_type": "caracteristica_banca",
+      "content": "O CEBRASPE foca na compreensão teórica e raciocínio crítico, não apenas na memorização.",
+      "order": 9
+    },
+    {
+      "component_id": "cmp_010",
+      "topic_id": "top_007",
+      "component_type": "caracteristica_banca",
+      "content": "Questões 'Certo/Errado' com penalização por erro (uma errada anula uma certa).",
+      "order": 10
+    },
+    {
+      "component_id": "cmp_011",
+      "topic_id": "top_007",
+      "component_type": "caracteristica_banca",
+      "content": "Alta incidência de testes de hipóteses (cerca de 14,29% dos tópicos de Estatística).",
+      "order": 11
+    }
+  ],
+  "pegadinhas": [
+    {
+      "trap_id": "peg_001",
+      "material_id": null,
+      "topic_id": "top_004",
+      "title": "Confusão entre Erros Tipo I e Tipo II",
+      "description": "A banca frequentemente troca as definições de Erro Tipo I e Erro Tipo II, ou suas respectivas probabilidades (α e β). Lembre-se: α é rejeitar H₀ verdadeira, β é não rejeitar H₀ falsa.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 1
+    },
+    {
+      "trap_id": "peg_002",
+      "material_id": null,
+      "topic_id": "top_005",
+      "title": "Interpretação Incorreta do P-valor",
+      "description": "É comum o CEBRASPE afirmar que o p-valor é a probabilidade de a hipótese nula ser verdadeira. Isso está ERRADO. O p-valor é a probabilidade de observar os dados (ou mais extremos) DADO que H₀ é verdadeira.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 2
+    },
+    {
+      "trap_id": "peg_003",
+      "material_id": null,
+      "topic_id": "top_005",
+      "title": "Aceitação vs. Não Rejeição da H₀",
+      "description": "A banca pode usar o termo 'aceitar H₀' quando o correto é 'não rejeitar H₀'. Não rejeitar H₀ significa que não há evidências suficientes para refutá-la, não que ela foi provada como verdadeira.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 3
+    },
+    {
+      "trap_id": "peg_004",
+      "material_id": null,
+      "topic_id": "top_005",
+      "title": "Confusão entre Nível de Significância e P-valor",
+      "description": "Embora ambos sejam probabilidades e cruciais na decisão, o nível de significância (α) é um limite pré-definido, enquanto o p-valor é calculado a partir dos dados da amostra.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 4
+    },
+    {
+      "trap_id": "peg_005",
+      "material_id": null,
+      "topic_id": "top_007",
+      "title": "Generalizações e Restrições Excessivas",
+      "description": "O CEBRASPE adora usar palavras como 'sempre', 'nunca', 'apenas', 'exclusivamente' para tornar uma afirmação falsa. Fique atento a essas palavras restritivas ou generalistas.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 5
+    }
+  ],
+  "pontos_memorizacao": [
+    {
+      "memory_id": "mem_001",
+      "material_id": null,
+      "topic_id": "top_003",
+      "title": null,
+      "content": "H₀: Status quo, ausência de efeito. H₁: O que se quer provar, existência de efeito.",
+      "order": 1
+    },
+    {
+      "memory_id": "mem_002",
+      "material_id": null,
+      "topic_id": "top_004",
+      "title": null,
+      "content": "Erro Tipo I (α): Rejeitar H₀ verdadeira (falso positivo). Erro Tipo II (β): Não rejeitar H₀ falsa (falso negativo).",
+      "order": 2
+    },
+    {
+      "memory_id": "mem_003",
+      "material_id": null,
+      "topic_id": "top_005",
+      "title": null,
+      "content": "Nível de Significância (α): Probabilidade máxima de Erro Tipo I.",
+      "order": 3
+    },
+    {
+      "memory_id": "mem_004",
+      "material_id": null,
+      "topic_id": "top_005",
+      "title": null,
+      "content": "P-valor: Probabilidade dos dados observados (ou mais extremos) sob H₀ verdadeira.",
+      "order": 4
+    },
+    {
+      "memory_id": "mem_005",
+      "material_id": null,
+      "topic_id": "top_005",
+      "title": null,
+      "content": "Regra de Decisão: Se p-valor ≤ α, rejeita H₀. Se p-valor > α, não rejeita H₀.",
+      "order": 5
+    },
+    {
+      "memory_id": "mem_006",
+      "material_id": null,
+      "topic_id": "top_006",
+      "title": null,
+      "content": "CEBRASPE foca em compreensão, interpretação e pegadinhas conceituais. Cuidado com 'sempre', 'nunca'.",
+      "order": 6
+    }
+  ],
+  "quadro_sinotico_itens": [
+    {
+      "summary_item_id": "sum_001",
+      "title": null,
+      "content": "",
+      "order": 1
+    },
+    {
+      "summary_item_id": "sum_002",
+      "title": null,
+      "content": "",
+      "order": 2
+    },
+    {
+      "summary_item_id": "sum_003",
+      "title": null,
+      "content": "",
+      "order": 3
+    },
+    {
+      "summary_item_id": "sum_004",
+      "title": null,
+      "content": "",
+      "order": 4
+    },
+    {
+      "summary_item_id": "sum_005",
+      "title": null,
+      "content": "",
+      "order": 5
+    },
+    {
+      "summary_item_id": "sum_006",
+      "title": null,
+      "content": "",
+      "order": 6
+    },
+    {
+      "summary_item_id": "sum_007",
+      "title": null,
+      "content": "",
+      "order": 7
+    },
+    {
+      "summary_item_id": "sum_008",
+      "title": null,
+      "content": "",
+      "order": 8
+    },
+    {
+      "summary_item_id": "sum_009",
+      "title": null,
+      "content": "",
+      "order": 9
+    }
+  ],
+  "questoes": [
+    {
+      "question_id": "qst_001",
+      "material_id": null,
+      "topic_id": "top_004",
+      "board": "CEBRASPE",
+      "year": 2025,
+      "organization": "TJ-PA",
+      "role": "Analista Judiciário - Estatística",
+      "statement": "Em um teste de hipóteses, o erro do tipo I ocorre quando a hipótese nula é rejeitada, sendo ela de fato verdadeira, e sua probabilidade é denotada por β.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": null,
+      "external_reference": "Q3586105 (adaptada)",
+      "commentary": "A afirmação está ERRADA. O erro do tipo I é, de fato, rejeitar a hipótese nula quando ela é verdadeira. No entanto, a probabilidade desse erro é denotada por α (nível de significância), e não por β. A probabilidade β refere-se ao erro do tipo II.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_001"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_002",
+      "material_id": null,
+      "topic_id": "top_005",
+      "board": "CEBRASPE",
+      "year": 2025,
+      "organization": "TJ-PA",
+      "role": "Analista Judiciário - Estatística",
+      "statement": "O p-valor representa a probabilidade de que a hipótese nula seja verdadeira condicional aos dados observados.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": null,
+      "external_reference": "Q3586105",
+      "commentary": "A afirmação está ERRADA. O p-valor é a probabilidade de se obter uma estatística de teste tão extrema (ou mais extrema) quanto a observada em uma amostra, sob a hipótese nula VERDADEIRA. Ele não é a probabilidade de a hipótese nula ser verdadeira.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_002"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_003",
+      "material_id": null,
+      "topic_id": "top_003",
+      "board": "CEBRASPE",
+      "year": 2021,
+      "organization": "TJ AM",
+      "role": "Analista Judiciário",
+      "statement": "A hipótese nula (H₀) e a hipótese alternativa (H₁) são mutuamente excludentes e não podem ser verdadeiras simultaneamente.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": null,
+      "external_reference": "Q1044436",
+      "commentary": "A afirmação está CERTA. Por definição, a hipótese nula (H₀) e a hipótese alternativa (H₁) são mutuamente exclusivas, o que significa que não podem ser verdadeiras ao mesmo tempo. Se uma é verdadeira, a outra é falsa.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_003"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_004",
+      "material_id": null,
+      "topic_id": "top_005",
+      "board": "CEBRASPE",
+      "year": 2025,
+      "organization": "TJ-PA",
+      "role": "Analista Judiciário - Estatística",
+      "statement": "Se, em um teste de hipóteses, o p-valor calculado for maior que o nível de significância (α) pré-estabelecido, a decisão correta é rejeitar a hipótese nula.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": null,
+      "external_reference": "Q3586105 (adaptada)",
+      "commentary": "A afirmação está ERRADA. A regra de decisão em testes de hipóteses estabelece que, se o p-valor for MENOR ou IGUAL ao nível de significância (p-valor ≤ α), a hipótese nula é rejeitada. Se o p-valor for MAIOR que α (p-valor > α), não há evidências suficientes para rejeitar a hipótese nula.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_004"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_005",
+      "material_id": null,
+      "topic_id": "top_004",
+      "board": "CEBRASPE",
+      "year": 2025,
+      "organization": "TJ-PA",
+      "role": "Analista Judiciário - Estatística",
+      "statement": "A definição da potência de um teste é baseada na probabilidade do erro do tipo I.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": null,
+      "external_reference": "Q3586094 (adaptada)",
+      "commentary": "A afirmação está ERRADA. A potência de um teste é a probabilidade de rejeitar corretamente uma hipótese nula falsa (1 - β). A definição da potência é baseada na probabilidade do erro do tipo II (β), não do erro do tipo I (α).",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_005"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_006",
+      "material_id": null,
+      "topic_id": "top_005",
+      "board": "CEBRASPE",
+      "year": 2025,
+      "organization": "TJ-PA",
+      "role": "Analista Judiciário - Estatística",
+      "statement": "O nível de significância (α) de um teste de hipóteses representa a probabilidade máxima de cometer um erro do tipo I.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": null,
+      "external_reference": "Q3586094 (adaptada)",
+      "commentary": "A afirmação está CERTA. O nível de significância (α) é a probabilidade máxima que se aceita de cometer um erro do tipo I, ou seja, de rejeitar a hipótese nula quando ela é verdadeira.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_006"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_007",
+      "material_id": null,
+      "topic_id": "top_004",
+      "board": "CEBRASPE",
+      "year": 2025,
+      "organization": "TJ-PA",
+      "role": "Analista Judiciário - Estatística",
+      "statement": "Um erro do tipo II (falso negativo) ocorre quando a hipótese nula é falsa, mas o teste não consegue rejeitá-la.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": null,
+      "external_reference": "Q3586094 (adaptada)",
+      "commentary": "A afirmação está CERTA. O erro do tipo II, também conhecido como falso negativo, ocorre quando a hipótese nula (H₀) é falsa, mas o teste estatístico não fornece evidências suficientes para rejeitá-la.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_007"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_008",
+      "material_id": null,
+      "topic_id": "top_005",
+      "board": "CEBRASPE",
+      "year": 2025,
+      "organization": "TJ-PA",
+      "role": "Analista Judiciário - Estatística",
+      "statement": "Se o p-valor de um teste de hipóteses for igual a 0,03 e o nível de significância for 0,05, então a hipótese nula deve ser rejeitada.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": null,
+      "external_reference": "Q3586105 (adaptada)",
+      "commentary": "A afirmação está CERTA. De acordo com a regra de decisão, se o p-valor (0,03) é menor ou igual ao nível de significância (0,05), a hipótese nula deve ser rejeitada. Neste caso, 0,03 ≤ 0,05, portanto, H₀ é rejeitada.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_008"
+        ],
+        "count": 1
+      }
+    }
+  ],
+  "comentarios_questoes": [
+    {
+      "comment_id": "com_001",
+      "question_id": "qst_001",
+      "content": "A afirmação está ERRADA. O erro do tipo I é, de fato, rejeitar a hipótese nula quando ela é verdadeira. No entanto, a probabilidade desse erro é denotada por α (nível de significância), e não por β. A probabilidade β refere-se ao erro do tipo II.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_002",
+      "question_id": "qst_002",
+      "content": "A afirmação está ERRADA. O p-valor é a probabilidade de se obter uma estatística de teste tão extrema (ou mais extrema) quanto a observada em uma amostra, sob a hipótese nula VERDADEIRA. Ele não é a probabilidade de a hipótese nula ser verdadeira.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_003",
+      "question_id": "qst_003",
+      "content": "A afirmação está CERTA. Por definição, a hipótese nula (H₀) e a hipótese alternativa (H₁) são mutuamente exclusivas, o que significa que não podem ser verdadeiras ao mesmo tempo. Se uma é verdadeira, a outra é falsa.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_004",
+      "question_id": "qst_004",
+      "content": "A afirmação está ERRADA. A regra de decisão em testes de hipóteses estabelece que, se o p-valor for MENOR ou IGUAL ao nível de significância (p-valor ≤ α), a hipótese nula é rejeitada. Se o p-valor for MAIOR que α (p-valor > α), não há evidências suficientes para rejeitar a hipótese nula.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_005",
+      "question_id": "qst_005",
+      "content": "A afirmação está ERRADA. A potência de um teste é a probabilidade de rejeitar corretamente uma hipótese nula falsa (1 - β). A definição da potência é baseada na probabilidade do erro do tipo II (β), não do erro do tipo I (α).",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_006",
+      "question_id": "qst_006",
+      "content": "A afirmação está CERTA. O nível de significância (α) é a probabilidade máxima que se aceita de cometer um erro do tipo I, ou seja, de rejeitar a hipótese nula quando ela é verdadeira.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_007",
+      "question_id": "qst_007",
+      "content": "A afirmação está CERTA. O erro do tipo II, também conhecido como falso negativo, ocorre quando a hipótese nula (H₀) é falsa, mas o teste estatístico não fornece evidências suficientes para rejeitá-la.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_008",
+      "question_id": "qst_008",
+      "content": "A afirmação está CERTA. De acordo com a regra de decisão, se o p-valor (0,03) é menor ou igual ao nível de significância (0,05), a hipótese nula deve ser rejeitada. Neste caso, 0,03 ≤ 0,05, portanto, H₀ é rejeitada.",
+      "explanation_alternatives": ""
+    }
+  ],
+  "checklist_revisao": [
+    {
+      "checklist_id": "chk_001",
+      "material_id": null,
+      "topic_id": "top_001",
+      "item_text": "Compreendeu a finalidade dos testes de hipóteses?",
+      "completed": false,
+      "order": 1
+    },
+    {
+      "checklist_id": "chk_002",
+      "material_id": null,
+      "topic_id": "top_003",
+      "item_text": "Sabe diferenciar Hipótese Nula (H₀) de Hipótese Alternativa (H₁)?",
+      "completed": false,
+      "order": 2
+    },
+    {
+      "checklist_id": "chk_003",
+      "material_id": null,
+      "topic_id": "top_004",
+      "item_text": "Consegue identificar e diferenciar Erro Tipo I (α) e Erro Tipo II (β)?",
+      "completed": false,
+      "order": 3
+    },
+    {
+      "checklist_id": "chk_004",
+      "material_id": null,
+      "topic_id": "top_005",
+      "item_text": "Entende o conceito de Nível de Significância (α) e sua relação com o Erro Tipo I?",
+      "completed": false,
+      "order": 4
+    },
+    {
+      "checklist_id": "chk_005",
+      "material_id": null,
+      "topic_id": "top_005",
+      "item_text": "Sabe o que é P-valor e como ele é usado na tomada de decisão?",
+      "completed": false,
+      "order": 5
+    },
+    {
+      "checklist_id": "chk_006",
+      "material_id": null,
+      "topic_id": "top_006",
+      "item_text": "Conhece as etapas para realizar um teste de hipóteses?",
+      "completed": false,
+      "order": 6
+    },
+    {
+      "checklist_id": "chk_007",
+      "material_id": null,
+      "topic_id": "top_007",
+      "item_text": "Está ciente do padrão de cobrança da CEBRASPE para este tema, incluindo pegadinhas comuns?",
+      "completed": false,
+      "order": 7
+    },
+    {
+      "checklist_id": "chk_008",
+      "material_id": null,
+      "topic_id": "top_005",
+      "item_text": "Consegue interpretar corretamente a decisão de 'rejeitar H₀' ou 'não rejeitar H₀'?",
+      "completed": false,
+      "order": 8
+    }
+  ],
+  "referencias": [
+    {
+      "reference_id": "ref_001",
+      "material_id": null,
+      "reference_type": null,
+      "author_name": null,
+      "title": "Testes de hipóteses – Wikipédia",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://pt.wikipedia.org/wiki/Testes_de_hip%C3%B3teses",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_002",
+      "material_id": null,
+      "reference_type": null,
+      "author_name": null,
+      "title": "Erros Tipo I e Tipo II em Estatística - PA Analytics",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://paanalytics.com/blog/erros-tipo-i-e-tipo-ii-em-estatistica/",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_003",
+      "material_id": null,
+      "reference_type": null,
+      "author_name": null,
+      "title": "Teste de Hipótese: conceito, tipos e como aplicar - FM2S",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.fm2s.com.br/teste-de-hipotese/",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_004",
+      "material_id": null,
+      "reference_type": null,
+      "author_name": null,
+      "title": "Introdução aos erros tipo I e tipo II (vídeo) - Khan Academy",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://pt.khanacademy.org/math/ap-statistics/inference-for-categorical-data-proportions/errors-in-hypothesis-testing/v/type-i-and-type-ii-errors",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_005",
+      "material_id": null,
+      "reference_type": null,
+      "author_name": null,
+      "title": "Testes de Hipóteses I - IME-USP",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.ime.usp.br/~jms/mac0216/aulas/aula10.pdf",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_006",
+      "material_id": null,
+      "reference_type": null,
+      "author_name": null,
+      "title": "P-Valor: aprenda o que é e dicas de como aplicá-lo corretamente | Alura",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.alura.com.br/artigos/p-valor-o-que-e-como-aplicar",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_007",
+      "material_id": null,
+      "reference_type": null,
+      "author_name": null,
+      "title": "Erros Tipo I e II: entenda os Riscos Alfa e Beta - FM2S",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.fm2s.com.br/erros-tipo-i-e-ii/",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_008",
+      "material_id": null,
+      "reference_type": null,
+      "author_name": null,
+      "title": "Valor-p – Wikipédia",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://pt.wikipedia.org/wiki/Valor-p",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_009",
+      "material_id": null,
+      "reference_type": null,
+      "author_name": null,
+      "title": "Cap. 5. Testes de Hipóteses - UFJF",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.ufjf.br/nupes/files/2013/05/Cap.-5.-Testes-de-Hip%C3%B3teses.pdf",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_010",
+      "material_id": null,
+      "reference_type": null,
+      "author_name": null,
+      "title": "Quais são os erros do tipo I e II? - Minitab - Support",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://support.minitab.com/pt-br/minitab/21/help-and-how-to/statistics/basic-statistics/supporting-topics/basics/type-i-and-type-ii-errors/",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_011",
+      "material_id": null,
+      "reference_type": null,
+      "author_name": null,
+      "title": "Testes de hipótese: definição, utilidade e tipos principais - Alura",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.alura.com.br/artigos/testes-de-hipoteses-definicao-utilidade-tipos",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_012",
+      "material_id": null,
+      "reference_type": null,
+      "author_name": null,
+      "title": "Como compreender os testes de hipóteses: níveis de significância (alfa) e valores-p na estatística - Minitab Blog",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://blog.minitab.com/pt-br/como-compreender-os-testes-de-hipoteses-niveis-de-significancia-alfa-e-valores-p-na-estatistica",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_013",
+      "material_id": null,
+      "reference_type": null,
+      "author_name": null,
+      "title": "Teste de Hipóteses - UFRGS",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.ufrgs.br/bioestatistica/teste-de-hipoteses/",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_014",
+      "material_id": null,
+      "reference_type": null,
+      "author_name": null,
+      "title": "Teste de hipóteses facilitado - DataCamp",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.datacamp.com/pt_br/blog/teste-de-hipoteses-facilitado",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_015",
+      "material_id": null,
+      "reference_type": null,
+      "author_name": null,
+      "title": "Questões de Estatística - Testes de hipóteses para Concurso | Qconcursos.com",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.qconcursos.com/questoes-de-concursos/disciplinas/estatistica/testes-de-hipoteses",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_016",
+      "material_id": null,
+      "reference_type": null,
+      "author_name": null,
+      "title": "CESPE UnB/CEBRASPE: Saiba tudo sobre a banca - Estratégia Concursos",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.estrategiaconcursos.com.br/blog/cespe-unb-cebraspe/",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_017",
+      "material_id": null,
+      "reference_type": null,
+      "author_name": null,
+      "title": "Método Cebraspe (Cespe): veja como funciona essa avaliação de concursos",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.granconcursos.com.br/blog/metodo-cebraspe/",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_018",
+      "material_id": null,
+      "reference_type": null,
+      "author_name": null,
+      "title": "Questão 1796714 CEBRASPE (CESPE) - Agente de Polícia Judiciária (PC SE)",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.tecconcursos.com.br/questoes/1796714",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_019",
+      "material_id": null,
+      "reference_type": null,
+      "author_name": null,
+      "title": "Questão 1044436 CEBRASPE (CESPE) - Analista Judiciário (TJ AM) - Tec Concursos",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.tecconcursos.com.br/questoes/1044436",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_020",
+      "material_id": null,
+      "reference_type": null,
+      "author_name": null,
+      "title": "Como CHUTAR ESTATÍSTICA no CEBRASPE SEM saber o CONTEÚDO - YouTube",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.youtube.com/watch?v=s_t4Xj_oB_g",
+      "accessed_at": null,
+      "description": null
+    }
+  ],
+  "estatisticas_de_geracao": {
+    "total_topicos": 7,
+    "total_componentes_topico": 11,
+    "total_entendimentos_relevantes": 4,
+    "total_pegadinhas": 5,
+    "total_pontos_memorizacao": 6,
+    "total_itens_quadro_sinotico": 9,
+    "total_questoes": 8,
+    "total_comentarios_questoes": 8,
+    "total_itens_checklist": 8,
+    "total_referencias": 20
+  },
+  "validacao_interna": {
+    "pesquisa_previa_realizada": true,
+    "analise_de_cobrancas_anteriores_realizada": true,
+    "material_atualizado": true,
+    "json_valido": true,
+    "estrutura_relacional_respeitada": true,
+    "numeracao_respeitada": true,
+    "houve_quebra_de_hierarquia": false,
+    "houve_nivel_numerico_superior_a_3": false,
+    "fontes_verificadas": true,
+    "sem_informacao_inventada": true
+  },
+  "metadata": {
+    "source_file_name": "8__raciocínio-lógico-e-noções-de-estatística__8-estatística-e-probabilidade-básicas-8.3-formulação-e-validação-de-hipóteses.json",
+    "normalized_checksum": "6a2f9d5466b5510a808828c71f4fd4a14f4f9c04b6c6ddeac5a8a7cbc443435c",
+    "subject_slug": "rlog-estat",
+    "material_slug": "estatistica-probabilidade-basicas",
+    "title_slug": "formulacao-e-validacao-de-hipoteses-em-estatistica",
+    "board_slug": "cebraspe",
+    "counters": {
+      "blocks": 6,
+      "topics": 7,
+      "topic_components": 11,
+      "traps": 5,
+      "memory_points": 6,
+      "summary_items": 9,
+      "questions": 8,
+      "question_comments": 8,
+      "checklist_items": 8,
+      "references": 20
+    }
+  }
+}

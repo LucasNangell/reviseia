@@ -1,0 +1,1155 @@
+{
+  "schema_version": "1.0",
+  "normalized_at": "2026-04-07T15:39:14.023908-03:00",
+  "normalizer_version": "2.0.0",
+  "exported_at": "2026-04-07T16:06:00Z",
+  "source_request": {
+    "purpose": "Concurso público",
+    "general_area": "Tecnologia da Informação",
+    "subject_name": "Informática e Dados",
+    "subarea_name": "Informática, redes, segurança e dados",
+    "main_theme": "3 Noções de segurança da informação: 3.4 Aplicativos para segurança: antivírus, Endpoint Detection and Response (EDR), firewall, anti-spyware, gerenciadores de senhas",
+    "theme_scope": "Teoria completa, incidência em prova, padrão de cobrança da banca, pegadinhas e questões comentadas",
+    "board_style": "CEBRASPE",
+    "depth_level": "Exaustivo",
+    "goal": "Teoria completa, revisão estratégica, pegadinhas e questões comentadas",
+    "base_topic_number": "3",
+    "topic_title": "3 Noções de segurança da informação: 3.4 Aplicativos para segurança: antivírus, Endpoint Detection and Response (EDR), firewall, anti-spyware, gerenciadores de senhas",
+    "syllabus_reference": "Conteúdo programático da disciplina Informática e Dados",
+    "priority_sources": [
+      "Documentação oficial e referências técnicas confiáveis",
+      "Bibliografia técnica consolidada",
+      "Questões anteriores da banca"
+    ],
+    "minimum_questions": 8,
+    "question_format": "Certo/Errado",
+    "prioritize_real_questions": true,
+    "response_language": "português",
+    "target_audience": "Candidato de concurso público",
+    "additional_notes": "Executar exatamente para esta linha individual do topicos.txt. Não juntar com outros tópicos. Não pular este tópico. Dar destaque ao padrão de cobrança da banca, aos pontos mais cobrados e às pegadinhas recorrentes.",
+    "input_hash": "036fe7f07aa3",
+    "extras": {}
+  },
+  "material": {
+    "material_id": "mat_001",
+    "slug": "seguranca-informacao-aplicativos-cebraspe",
+    "title": "Aplicativos para Segurança da Informação: Antivírus, EDR, Firewall, Anti-spyware e Gerenciadores de Senhas (CEBRASPE)",
+    "base_number": "3",
+    "topic_title": "3 Noções de segurança da informação: 3.4 Aplicativos para segurança: antivírus, Endpoint Detection and Response (EDR), firewall, anti-spyware, gerenciadores de senhas",
+    "purpose": "Concurso público",
+    "area_name": "Tecnologia da Informação",
+    "subject_name": "Informática e Dados",
+    "subarea_name": "Informática, redes, segurança e dados",
+    "main_theme": "Aplicativos para segurança: antivírus, Endpoint Detection and Response (EDR), firewall, anti-spyware, gerenciadores de senhas",
+    "theme_scope": "Teoria completa, incidência em prova, padrão de cobrança da banca, pegadinhas e questões comentadas",
+    "board_style": "CEBRASPE",
+    "depth_level": "Exaustivo",
+    "study_goal": "Teoria completa, revisão estratégica, pegadinhas e questões comentadas",
+    "target_audience": "Candidato de concurso público",
+    "language_code": "português",
+    "update_status": "Atualizado em 2026",
+    "current_note": "Conteúdo verificado e atualizado com base nas últimas tendências e padrões de cobrança da banca CEBRASPE, incluindo a evolução de tecnologias como EDR e gerenciadores de senhas.",
+    "has_case_law": false,
+    "case_law_justification": null,
+    "has_information_limitation": false,
+    "information_limitation_desc": null,
+    "content_checksum": "gerado_automaticamente_apos_conteudo",
+    "extras": {}
+  },
+  "blocos_textuais": [
+    {
+      "external_block_code": "blc_001",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 1,
+      "title": "Introdução aos Aplicativos de Segurança",
+      "content": "A segurança da informação é um pilar fundamental na era digital, tanto para usuários domésticos quanto para grandes organizações. Para garantir a confidencialidade, integridade e disponibilidade dos dados, diversas ferramentas e aplicativos foram desenvolvidos. O CEBRASPE, em suas provas de Informática, frequentemente aborda esses aplicativos, exigindo do candidato não apenas o conhecimento de suas definições, mas também de suas funcionalidades, diferenças e limitações. É crucial entender que nenhuma ferramenta isoladamente oferece proteção completa, sendo a segurança uma abordagem em camadas.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_002",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 2,
+      "title": "Antivírus",
+      "content": "O antivírus é um software de segurança cibernética projetado para detectar, prevenir e remover softwares maliciosos (malwares) de computadores, dispositivos e redes. Originalmente focado em vírus, o termo 'antivírus' hoje se refere a soluções mais abrangentes que combatem diversos tipos de malware, como worms, cavalos de Troia, spyware, adware e ransomware. \n\n**Funcionamento:**\n1.  **Detecção baseada em assinaturas:** Compara arquivos e códigos com um banco de dados de assinaturas (padrões de dados) de malwares conhecidos.\n2.  **Detecção heurística:** Analisa o comportamento e as características de programas desconhecidos em busca de atividades suspeitas que possam indicar a presença de malware.\n3.  **Monitoramento em tempo real:** Monitora continuamente o sistema em busca de ameaças, bloqueando atividades suspeitas antes que causem danos.\n4.  **Quarentena e remoção:** Ao detectar um arquivo malicioso, o antivírus pode colocá-lo em quarentena (isolando-o) ou removê-lo do sistema.\n\n**Padrão CEBRASPE:** A banca costuma cobrar a função primária do antivírus (detecção e remoção de malware) e suas limitações, como o fato de não ser suficiente para proteger contra todos os tipos de acesso não autorizado ou ataques mais sofisticados.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_003",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 3,
+      "title": "Endpoint Detection and Response (EDR)",
+      "content": "EDR (Endpoint Detection and Response) é uma solução de cibersegurança que monitora e registra continuamente a atividade de endpoints (laptops, desktops, servidores, dispositivos móveis) para fornecer visibilidade em tempo real sobre ameaças. Diferente do antivírus tradicional, que foca na prevenção de ameaças conhecidas, o EDR vai além, permitindo detecção, investigação e resposta automatizada a atividades maliciosas, incluindo ameaças avançadas e zero-day.\n\n**Principais recursos e funcionalidades:**\n1.  **Monitoramento contínuo:** Coleta e analisa dados de telemetria dos endpoints (execução de processos, alterações no sistema de arquivos, conexões de rede, atividades de usuário).\n2.  **Detecção avançada de ameaças:** Utiliza inteligência artificial e aprendizado de máquina para identificar comportamentos incomuns, padrões de ataque sofisticados, Indicadores de Compromisso (IoCs) e Táticas, Técnicas e Procedimentos (TTPs) de ameaças avançadas.\n3.  **Caça a ameaças (Threat Hunting):** Permite que equipes de segurança busquem proativamente por ameaças não detectadas por outras soluções.\n4.  **Resposta a incidentes:** Oferece opções de resposta automatizadas ou manuais, como isolamento de endpoints, término de processos maliciosos, quarentena de arquivos e reversão de sistemas para um estado limpo.\n5.  **Análise forense detalhada:** Fornece insights aprofundados sobre como um ataque ocorreu, auxiliando na remediação.\n\n**EDR vs. Antivírus:** Enquanto o antivírus atua principalmente na prevenção de malwares conhecidos, o EDR oferece uma proteção mais integrada e em várias camadas, com foco na detecção e resposta a ameaças emergentes e sofisticadas que podem evadir defesas tradicionais.\n\n**Padrão CEBRASPE:** A banca pode explorar a distinção entre EDR e antivírus, focando nas capacidades de monitoramento contínuo, visibilidade e resposta do EDR, que são mais avançadas que as do AV tradicional.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_004",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 4,
+      "title": "Firewall",
+      "content": "Um firewall é um dispositivo ou programa que controla o fluxo de tráfego de rede entre redes ou hosts com diferentes posturas de segurança. Ele atua como uma barreira, monitorando, filtrando e controlando o tráfego de rede com base em um conjunto de regras de segurança predefinidas, impedindo acessos não autorizados e protegendo dados sensíveis.\n\n**Tipos e Funcionamento:**\n1.  **Firewall de Filtragem de Pacotes (Packet Filtering):** Examina os cabeçalhos dos pacotes de dados (endereço IP de origem/destino, porta, protocolo) e decide se permite ou bloqueia o tráfego com base em regras simples. É a metodologia mais antiga e básica.\n2.  **Firewall de Inspeção de Estado (Stateful Inspection):** Monitora o estado das conexões de rede ativas, permitindo ou bloqueando o tráfego com base no contexto da conexão, oferecendo maior segurança que a filtragem de pacotes.\n3.  **Firewall de Camada de Aplicação (Application Gateway/Proxy Firewall):** Monitora e controla o tráfego com base no conteúdo dos pacotes da camada de aplicação (HTTP, FTP, SMTP), realizando uma inspeção profunda de pacotes (DPI).\n4.  **Firewall de Próxima Geração (NGFW - Next Generation Firewall):** Combina as funcionalidades dos firewalls tradicionais com inspeção profunda de pacotes, controle de aplicações, prevenção de intrusões (IPS) e, por vezes, antivírus e filtragem de malware.\n5.  **Firewall Baseado em Host (Pessoal):** Software instalado diretamente em um dispositivo (computador, servidor) para protegê-lo individualmente, controlando o tráfego de e para aquele host.\n6.  **Firewall de Rede (Hardware):** Dispositivo físico que controla o tráfego entre redes diferentes, geralmente implementado na borda da rede.\n\n**Padrão CEBRASPE:** O CEBRASPE frequentemente cobra a função do firewall de controlar o tráfego de rede, bloquear acessos indevidos e proteger contra invasões. É comum testar a compreensão de que o firewall atua no fluxo de dados, e não necessariamente nos recursos já disponibilizados na rede. Também pode abordar a criação de DMZ (Zona Desmilitarizada) como uma função do firewall. Uma pegadinha comum é sugerir que o firewall, sozinho, elimina vírus ou que é uma opção secundária de segurança.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_005",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 5,
+      "title": "Anti-spyware",
+      "content": "Anti-spyware é um programa de segurança projetado para detectar, bloquear e remover spyware de um sistema. Spyware é um tipo de software malicioso que se instala sem autorização do usuário para coletar informações confidenciais (senhas, dados bancários, hábitos de navegação) e transmiti-las a terceiros, sem o conhecimento ou consentimento do usuário.\n\n**Funcionamento:**\n1.  **Escaneamento e detecção:** Realiza varreduras periódicas ou em tempo real para identificar a presença de spyware no sistema, buscando por assinaturas e comportamentos característicos.\n2.  **Bloqueio e remoção:** Impede a instalação de novos spywares e remove os já existentes, colocando-os em quarentena ou excluindo-os.\n3.  **Proteção em tempo real:** Monitora atividades para prevenir a instalação e execução de spyware.\n\n**Padrão CEBRASPE:** A banca foca na função específica do anti-spyware de prevenir e remover programas que coletam informações do usuário sem consentimento. Pode tentar confundir com antivírus, mas o anti-spyware tem um foco mais direcionado ao spyware, embora muitas soluções antimalware modernas integrem essa funcionalidade.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_006",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 6,
+      "title": "Gerenciadores de Senhas",
+      "content": "Gerenciadores de senhas são ferramentas que auxiliam na criação, armazenamento e gerenciamento seguro de senhas complexas e únicas para diversas contas digitais. Eles resolvem o problema de ter que memorizar múltiplas senhas fortes, armazenando-as em um 'cofre' criptografado, acessível por uma única 'senha mestra'.\n\n**Principais funcionalidades:**\n1.  **Geração de senhas fortes:** Criam senhas aleatórias, longas e complexas, que são difíceis de adivinhar ou quebrar.\n2.  **Armazenamento criptografado:** Guardam todas as senhas em um cofre digital seguro, protegido por criptografia robusta.\n3.  **Preenchimento automático:** Preenchem automaticamente credenciais de login em sites e aplicativos, aumentando a conveniência e reduzindo o risco de phishing.\n4.  **Sincronização entre dispositivos:** Permitem acesso às senhas em múltiplos dispositivos (computadores, smartphones, tablets).\n5.  **Compartilhamento seguro:** Possibilitam o compartilhamento seguro de senhas com outras pessoas ou equipes, quando necessário.\n6.  **Integração com MFA:** Muitos oferecem ou se integram com autenticação multifator (MFA) para uma camada extra de segurança.\n\n**Padrão CEBRASPE:** A banca pode cobrar a importância dos gerenciadores de senhas para a segurança digital, destacando a geração de senhas fortes e únicas, o armazenamento criptografado e a conveniência. Pode também abordar a relação com a autenticação multifator como uma prática recomendada.",
+      "content_type": "teoria"
+    }
+  ],
+  "topicos": [
+    {
+      "external_topic_code": "top_001",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "3.4",
+      "title": "Aplicativos para segurança",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 1
+    },
+    {
+      "external_topic_code": "top_002",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "3.4.1",
+      "title": "Antivírus",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 2
+    },
+    {
+      "external_topic_code": "top_003",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "3.4.2",
+      "title": "Endpoint Detection and Response (EDR)",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 3
+    },
+    {
+      "external_topic_code": "top_004",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "3.4.3",
+      "title": "Firewall",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 4
+    },
+    {
+      "external_topic_code": "top_005",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "3.4.4",
+      "title": "Anti-spyware",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 5
+    },
+    {
+      "external_topic_code": "top_006",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "3.4.5",
+      "title": "Gerenciadores de Senhas",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 6
+    }
+  ],
+  "topico_componentes": [
+    {
+      "component_id": "cmp_001",
+      "topic_id": "top_002",
+      "component_type": "Definição",
+      "content": "Software de segurança cibernética que detecta, previne e remove softwares maliciosos (malwares) de sistemas.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_002",
+      "topic_id": "top_002",
+      "component_type": "Funcionamento",
+      "content": "Detecção por assinaturas, heurística, monitoramento em tempo real, quarentena e remoção.",
+      "order": 2
+    },
+    {
+      "component_id": "cmp_003",
+      "topic_id": "top_003",
+      "component_type": "Definição",
+      "content": "Solução de cibersegurança que monitora e registra continuamente a atividade de endpoints para detecção, investigação e resposta automatizada a ameaças avançadas.",
+      "order": 3
+    },
+    {
+      "component_id": "cmp_004",
+      "topic_id": "top_003",
+      "component_type": "Funcionamento",
+      "content": "Monitoramento contínuo, detecção avançada (IA/ML), threat hunting, resposta a incidentes (isolamento, remediação), análise forense.",
+      "order": 4
+    },
+    {
+      "component_id": "cmp_005",
+      "topic_id": "top_004",
+      "component_type": "Definição",
+      "content": "Dispositivo ou programa que controla o fluxo de tráfego de rede entre redes ou hosts, com base em regras de segurança predefinidas.",
+      "order": 5
+    },
+    {
+      "component_id": "cmp_006",
+      "topic_id": "top_004",
+      "component_type": "Tipos e Funcionamento",
+      "content": "Filtragem de pacotes, inspeção de estado, camada de aplicação (proxy), NGFW, baseado em host (pessoal), de rede (hardware).",
+      "order": 6
+    },
+    {
+      "component_id": "cmp_007",
+      "topic_id": "top_005",
+      "component_type": "Definição",
+      "content": "Programa de segurança que detecta, bloqueia e remove spyware, que coleta informações confidenciais sem consentimento.",
+      "order": 7
+    },
+    {
+      "component_id": "cmp_008",
+      "topic_id": "top_005",
+      "component_type": "Funcionamento",
+      "content": "Escaneamento e detecção, bloqueio e remoção, proteção em tempo real.",
+      "order": 8
+    },
+    {
+      "component_id": "cmp_009",
+      "topic_id": "top_006",
+      "component_type": "Definição",
+      "content": "Ferramentas que auxiliam na criação, armazenamento e gerenciamento seguro de senhas complexas e únicas em um cofre criptografado.",
+      "order": 9
+    },
+    {
+      "component_id": "cmp_010",
+      "topic_id": "top_006",
+      "component_type": "Funcionalidades",
+      "content": "Geração de senhas fortes, armazenamento criptografado, preenchimento automático, sincronização multi-dispositivo, compartilhamento seguro, integração com MFA.",
+      "order": 10
+    }
+  ],
+  "pegadinhas": [
+    {
+      "trap_id": "peg_001",
+      "material_id": "mat_001",
+      "topic_id": "top_002",
+      "title": "Antivírus como proteção total",
+      "description": "A afirmação de que o antivírus é suficiente para proteger o computador contra *todos* os tipos de acesso não autorizado ou *quaisquer* problemas de segurança é falsa. Ele é uma camada, mas não a única.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 1
+    },
+    {
+      "trap_id": "peg_002",
+      "material_id": "mat_001",
+      "topic_id": "top_004",
+      "title": "Firewall elimina vírus",
+      "description": "O firewall controla o tráfego de rede e bloqueia acessos indevidos, mas sua função primária *não* é eliminar vírus já instalados. Essa é a função do antivírus.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 2
+    },
+    {
+      "trap_id": "peg_003",
+      "material_id": "mat_001",
+      "topic_id": "top_004",
+      "title": "Firewall como opção secundária",
+      "description": "O CEBRASPE pode tentar desvalorizar o firewall, afirmando que é uma opção secundária ou não essencial. Na verdade, é um componente crucial da segurança de rede.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 3
+    },
+    {
+      "trap_id": "peg_004",
+      "material_id": "mat_001",
+      "topic_id": "top_005",
+      "title": "Anti-spyware propaga proteção",
+      "description": "Confundir a função do anti-spyware com a de 'propagar proteção' ou atuar como 'antídoto' para vírus é uma pegadinha. Sua função é detectar e remover spyware.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 4
+    },
+    {
+      "trap_id": "peg_005",
+      "material_id": "mat_001",
+      "topic_id": "top_002",
+      "title": "Instalar múltiplos antivírus",
+      "description": "A instalação de múltiplos antivírus no mesmo sistema operacional é geralmente desaconselhada, pois pode causar conflitos, instabilidade e lentidão, em vez de melhorar a segurança.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 5
+    }
+  ],
+  "pontos_memorizacao": [
+    {
+      "memory_id": "mem_001",
+      "material_id": "mat_001",
+      "topic_id": "top_002",
+      "title": null,
+      "content": "Antivírus: Prevenção, detecção e remoção de MALWARE (vírus, worms, trojans, spyware, adware, ransomware). Métodos: assinaturas e heurística.",
+      "order": 1
+    },
+    {
+      "memory_id": "mem_002",
+      "material_id": "mat_001",
+      "topic_id": "top_003",
+      "title": null,
+      "content": "EDR: Monitoramento CONTÍNUO de endpoints, detecção AVANÇADA (comportamental, IA/ML), THREAT HUNTING e RESPOSTA a incidentes. Vai além do AV tradicional.",
+      "order": 2
+    },
+    {
+      "memory_id": "mem_003",
+      "material_id": "mat_001",
+      "topic_id": "top_004",
+      "title": null,
+      "content": "Firewall: CONTROLE DE TRÁFEGO de rede (entrada/saída), BLOQUEIO de acessos não autorizados, baseado em REGRAS. Pode ser de hardware ou software.",
+      "order": 3
+    },
+    {
+      "memory_id": "mem_004",
+      "material_id": "mat_001",
+      "topic_id": "top_005",
+      "title": null,
+      "content": "Anti-spyware: Detecta e remove SPYWARE (programas que coletam informações sem consentimento). Protege a PRIVACIDADE.",
+      "order": 4
+    },
+    {
+      "memory_id": "mem_005",
+      "material_id": "mat_001",
+      "topic_id": "top_006",
+      "title": null,
+      "content": "Gerenciadores de Senhas: CRIAM e ARMAZENAM senhas FORTES e ÚNICAS em cofre CRIPTOGRAFADO. Aumentam segurança e conveniência.",
+      "order": 5
+    },
+    {
+      "memory_id": "mem_006",
+      "material_id": "mat_001",
+      "topic_id": "top_001",
+      "title": null,
+      "content": "SEGURANÇA EM CAMADAS: Nenhuma ferramenta isolada oferece proteção total. A combinação de antivírus, EDR, firewall, anti-spyware e gerenciadores de senhas forma uma defesa robusta.",
+      "order": 6
+    }
+  ],
+  "quadro_sinotico_itens": [],
+  "questoes": [
+    {
+      "question_id": "qst_001",
+      "material_id": "mat_001",
+      "topic_id": "top_002",
+      "board": "CESPE/CEBRASPE",
+      "year": "2013",
+      "organization": null,
+      "role": null,
+      "statement": "A ativação do antivírus é suficiente para proteger o computador contra o acesso de usuários ou aplicações não autorizados.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": null,
+      "external_reference": "CESPE/CEBRASPE - SES ES - Técnico em Necrópsia - 2013",
+      "commentary": "ERRADO. O antivírus é uma ferramenta essencial, mas não é suficiente para garantir a proteção completa contra *todos* os tipos de ameaças e acessos não autorizados. A segurança da informação exige uma abordagem em camadas, com a combinação de diversas ferramentas como firewall, EDR, anti-spyware, e boas práticas do usuário.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_001"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_002",
+      "material_id": "mat_001",
+      "topic_id": "top_004",
+      "board": "CESPE/CEBRASPE",
+      "year": "2013",
+      "organization": null,
+      "role": null,
+      "statement": "Firewall são programas que eliminam vírus com maior eficiência que os antivírus comuns, pois realizam detecção por meio de varredura, eliminando os vírus mediante recovery.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": null,
+      "external_reference": "CESPE/CEBRASPE - SES ES - Técnico em Necrópsia - 2013",
+      "commentary": "ERRADO. A função principal do firewall é controlar o tráfego de rede, permitindo ou bloqueando conexões com base em regras. Ele *não* tem como função primária eliminar vírus ou realizar varreduras para remoção de malware; essa é a atribuição do antivírus.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_002"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_003",
+      "material_id": "mat_001",
+      "topic_id": "top_005",
+      "board": "CESPE/CEBRASPE",
+      "year": "2021",
+      "organization": null,
+      "role": null,
+      "statement": "Para prevenir ações de programas que, de forma maliciosa, monitoram atividades de um sistema e enviam as informações coletadas a terceiros, o usuário deve utilizar um software de anti-spyware.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": null,
+      "external_reference": "CESPE/CEBRASPE - Questão adaptada de Qconcursos",
+      "commentary": "CERTO. O spyware é um software malicioso que monitora as atividades do usuário e coleta informações sem consentimento. O anti-spyware é a ferramenta específica para detectar, bloquear e remover esse tipo de praga, protegendo a privacidade do usuário.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_003"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_004",
+      "material_id": "mat_001",
+      "topic_id": "top_004",
+      "board": "CESPE/CEBRASPE",
+      "year": "2025",
+      "organization": null,
+      "role": null,
+      "statement": "O uso de um programa de firewall em um computador ajuda a filtrar o tráfego de rede a partir de regras previamente definidas.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": null,
+      "external_reference": "CESPE/CEBRASPE - Questão adaptada de YouTube (Prof. Danilo Vilanova)",
+      "commentary": "CERTO. O firewall atua como um filtro, inspecionando o tráfego de rede (pacotes de dados) e aplicando regras predefinidas para decidir o que pode passar e o que deve ser bloqueado, protegendo o computador ou a rede.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_004"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_005",
+      "material_id": "mat_001",
+      "topic_id": "top_004",
+      "board": "CESPE/CEBRASPE",
+      "year": "2022",
+      "organization": null,
+      "role": null,
+      "statement": "Ao bloquear tráfego de rede atípico, um firewall pessoal adequadamente configurado é capaz de evitar que códigos maliciosos se propaguem para a rede a partir de um computador infectado.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": null,
+      "external_reference": "CESPE/CEBRASPE - MC - Atividades Técnicas de Complexidade Intelectual - Cargo 2 - 2022",
+      "commentary": "CERTO. Um firewall bem configurado pode, sim, bloquear tráfego de rede atípico ou suspeito, o que inclui tentativas de propagação de códigos maliciosos de um computador infectado para outros na rede, ou vice-versa. A palavra 'capaz' indica uma possibilidade, que é verdadeira para um firewall configurado corretamente.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_005"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_006",
+      "material_id": "mat_001",
+      "topic_id": "top_002",
+      "board": "CESPE/CEBRASPE",
+      "year": "2025",
+      "organization": null,
+      "role": null,
+      "statement": "O Windows Defender Antivírus, uma solução de segurança do sistema operacional Windows, é recomendável ser instalado na máquina do usuário junto a outros antivírus do mercado para uma melhor cobertura contra malwares e vírus.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": null,
+      "external_reference": "CESPE/CEBRASPE - Questão adaptada de YouTube (Prof. Danilo Vilanova)",
+      "commentary": "ERRADO. Não é recomendável instalar múltiplos antivírus no mesmo sistema operacional. Isso pode causar conflitos, instabilidade no sistema, lentidão e, paradoxalmente, diminuir a eficácia da proteção, pois os programas podem interferir uns nos outros. O Windows Defender, quando ativo, geralmente desativa outros antivírus para evitar esses problemas.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_006"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_007",
+      "material_id": "mat_001",
+      "topic_id": "top_004",
+      "board": "CESPE/CEBRASPE",
+      "year": "2024",
+      "organization": null,
+      "role": null,
+      "statement": "O uso de firewalls é uma opção secundária para a proteção de redes de dados que lidam com informações sensíveis, ou seja, não é requisito essencial para essa finalidade, pois existem tecnologias de segurança mais adequadas.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": null,
+      "external_reference": "CESPE/CEBRASPE - Questão adaptada de Qconcursos",
+      "commentary": "ERRADO. O firewall é um componente *essencial* e primário na proteção de redes de dados, especialmente aquelas que lidam com informações sensíveis. Ele não é uma opção secundária, mas uma primeira linha de defesa crucial para controlar o acesso e o tráfego.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_007"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_008",
+      "material_id": "mat_001",
+      "topic_id": "top_001",
+      "board": "CESPE/CEBRASPE",
+      "year": "2021",
+      "organization": null,
+      "role": null,
+      "statement": "Firewalls e antivírus são ferramentas de proteção da rede por meio do controle do tráfego de dados e do impedimento a acessos não autorizados.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": null,
+      "external_reference": "CESPE/CEBRASPE - Questão adaptada de Qconcursos",
+      "commentary": "CERTO. Esta afirmação resume corretamente as funções complementares de firewall e antivírus. O firewall controla o tráfego de dados e impede acessos não autorizados (foco na rede), enquanto o antivírus protege contra malwares (foco no software e arquivos). Juntos, eles formam uma defesa robusta.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_008"
+        ],
+        "count": 1
+      }
+    }
+  ],
+  "comentarios_questoes": [
+    {
+      "comment_id": "com_001",
+      "question_id": "qst_001",
+      "content": "ERRADO. O antivírus é uma ferramenta essencial, mas não é suficiente para garantir a proteção completa contra *todos* os tipos de ameaças e acessos não autorizados. A segurança da informação exige uma abordagem em camadas, com a combinação de diversas ferramentas como firewall, EDR, anti-spyware, e boas práticas do usuário.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_002",
+      "question_id": "qst_002",
+      "content": "ERRADO. A função principal do firewall é controlar o tráfego de rede, permitindo ou bloqueando conexões com base em regras. Ele *não* tem como função primária eliminar vírus ou realizar varreduras para remoção de malware; essa é a atribuição do antivírus.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_003",
+      "question_id": "qst_003",
+      "content": "CERTO. O spyware é um software malicioso que monitora as atividades do usuário e coleta informações sem consentimento. O anti-spyware é a ferramenta específica para detectar, bloquear e remover esse tipo de praga, protegendo a privacidade do usuário.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_004",
+      "question_id": "qst_004",
+      "content": "CERTO. O firewall atua como um filtro, inspecionando o tráfego de rede (pacotes de dados) e aplicando regras predefinidas para decidir o que pode passar e o que deve ser bloqueado, protegendo o computador ou a rede.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_005",
+      "question_id": "qst_005",
+      "content": "CERTO. Um firewall bem configurado pode, sim, bloquear tráfego de rede atípico ou suspeito, o que inclui tentativas de propagação de códigos maliciosos de um computador infectado para outros na rede, ou vice-versa. A palavra 'capaz' indica uma possibilidade, que é verdadeira para um firewall configurado corretamente.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_006",
+      "question_id": "qst_006",
+      "content": "ERRADO. Não é recomendável instalar múltiplos antivírus no mesmo sistema operacional. Isso pode causar conflitos, instabilidade no sistema, lentidão e, paradoxalmente, diminuir a eficácia da proteção, pois os programas podem interferir uns nos outros. O Windows Defender, quando ativo, geralmente desativa outros antivírus para evitar esses problemas.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_007",
+      "question_id": "qst_007",
+      "content": "ERRADO. O firewall é um componente *essencial* e primário na proteção de redes de dados, especialmente aquelas que lidam com informações sensíveis. Ele não é uma opção secundária, mas uma primeira linha de defesa crucial para controlar o acesso e o tráfego.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_008",
+      "question_id": "qst_008",
+      "content": "CERTO. Esta afirmação resume corretamente as funções complementares de firewall e antivírus. O firewall controla o tráfego de dados e impede acessos não autorizados (foco na rede), enquanto o antivírus protege contra malwares (foco no software e arquivos). Juntos, eles formam uma defesa robusta.",
+      "explanation_alternatives": ""
+    }
+  ],
+  "checklist_revisao": [
+    {
+      "checklist_id": "chk_001",
+      "material_id": "mat_001",
+      "topic_id": "top_002",
+      "item_text": "Compreender a evolução do antivírus e suas técnicas de detecção (assinatura, heurística).",
+      "completed": false,
+      "order": 1
+    },
+    {
+      "checklist_id": "chk_002",
+      "material_id": "mat_001",
+      "topic_id": "top_003",
+      "item_text": "Diferenciar EDR de antivírus tradicional, focando nas capacidades de monitoramento contínuo e resposta.",
+      "completed": false,
+      "order": 2
+    },
+    {
+      "checklist_id": "chk_003",
+      "material_id": "mat_001",
+      "topic_id": "top_004",
+      "item_text": "Conhecer os tipos de firewall (filtragem de pacotes, inspeção de estado, aplicação, NGFW) e suas funções.",
+      "completed": false,
+      "order": 3
+    },
+    {
+      "checklist_id": "chk_004",
+      "material_id": "mat_001",
+      "topic_id": "top_004",
+      "item_text": "Entender que o firewall controla tráfego, mas não elimina vírus.",
+      "completed": false,
+      "order": 4
+    },
+    {
+      "checklist_id": "chk_005",
+      "material_id": "mat_001",
+      "topic_id": "top_005",
+      "item_text": "Identificar a função específica do anti-spyware na proteção da privacidade.",
+      "completed": false,
+      "order": 5
+    },
+    {
+      "checklist_id": "chk_006",
+      "material_id": "mat_001",
+      "topic_id": "top_006",
+      "item_text": "Reconhecer a importância dos gerenciadores de senhas para senhas fortes e armazenamento seguro.",
+      "completed": false,
+      "order": 6
+    },
+    {
+      "checklist_id": "chk_007",
+      "material_id": "mat_001",
+      "topic_id": "top_001",
+      "item_text": "Memorizar que a segurança da informação é uma defesa em camadas, não dependente de uma única ferramenta.",
+      "completed": false,
+      "order": 7
+    },
+    {
+      "checklist_id": "chk_008",
+      "material_id": "mat_001",
+      "topic_id": "top_001",
+      "item_text": "Revisar as pegadinhas comuns do CEBRASPE relacionadas a cada aplicativo de segurança.",
+      "completed": false,
+      "order": 8
+    }
+  ],
+  "referencias": [
+    {
+      "reference_id": "ref_001",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "EDR vs Antivírus - Software Check Point",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEi21e7VY1Z3Y3c-nwW0vhHdf98OLpe2jJDQOQvDbFafqbqEJyxsCyEEMudsm3L58ofmVLnlMW9QYgsGSMhMKToNheEQAgeeWuNUMKQTLjKami7CqyK-NQbW9di17Is7D2Kny8c4cnSj6IXKX6hloC6weuC_n5z7DeEEruOGVjB9R2KW1Q8qrMPHKsm4PLH1bpeYgDAtwlB-4m3dOc6JSszpWXrz8zXVyKpnHsnzPCsrCt7UgydHVa9rbVULwkVqgTVv8zBmAhjZGqGQ1kspVEOIo-2maQvXKiMfgVi",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_002",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "Qual é a diferença entre o antivírus tradicional e o EDR? - WatchGuard",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHvBQEmOLpePTLNudcVUE6TxysGCfU9pHtxSOxkcpaSFqfgFVwauSXaqQMsjcuVNkaDvwIIOKM5xfWGmcK4lo29_VAZ7wbj0QSb4DOb0_8PBoZHti_3RFX1gValLDlA8oJMy4qmh_AKNMkUZFoDyzBKC3-moZ6NzqbOC-x33zfO6PcrIM4XUCKu1E2_HhxhrBqlh-_YM0hRmKnNW7ZSww==",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_003",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "Principais Tipos de Firewall e Sua Necessidade | Alfredo Sobrinho - DIO",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFnU_yioeGf82NiSBPvNNvzqYpcDIaWzg3dzjxyml_wd0XjcnRqxL0vXjMuPWyDm1_TMrSfU2Ef2_yZtkgVGTaGyFLk3KnhYlYnQRDfjG41k6PVUwIsDrc2hLAmQ6hAa4FlykpQS9DXrS4WTQMITqs0TEAfwe-z4juPI7VxQd0gjbViUScZ",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_004",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "What Is Endpoint Detection and Response (EDR)? - Palo Alto Networks",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHnbiZdH8HRHfMZ9SjSQArglrGTpQaKlEcYlp-RZaY-4-ZeAcvGx-7M_JUqnkhFsaomItb-CK4UYAdkJkAH4pc_2eayX-t67g_ZqSz6528oEs8qtrga905eddGiJHjD6idAvpLQm8JWwt2y4WoEYXc_jRJ9KVXblHAUeedqxbzvYY3jXeGGZiEc-tW9N6XgE4ZeNQ==",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_005",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "What is EDR (Endpoint Detection and Response)? - SentinelOne",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG5UHgd5Z3rwg_rEiHyq9SAEl3gwGnoqNDxMD65Zn_qC6X1RLR8mj3bDbZtNp85sfvJPQ6lqelT9A0AO3CcCzCZjNg5iGHS-YsnoyGSCIpV_dvg2GW4BwkAsINyfhV9Y6jOPq91_1kwVNtD_an0mapUVOG89HwnVZQr6cFksifKWvNXmlCintEe6P9XkzkvtkJX7ba5pAem0sUWOvlXqVV29y1xXQDjAg==",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_006",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "What Is Endpoint Detection and Response (EDR)? | Trend Micro (US)",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGwnrHh4qVZH4O-2DiEKZM8Ht7lQv8g--u1wNbPMOcxvtvGIdjiIRvvR3P9CN7Gj0Xpr8i5-5eUdYwE7ODYKiURJF9tMsnCHwfIuPypESIw0T3fPPgYdoN8GI_5LCcXaZoHPmEDF-ozE_RG7lhqs8Ez",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_007",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "Antispyware | ESET Glossary | Ayuda en línea de ESET - ESET Online Help",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF7uynCi2qtdyf8Y9HKNOL-cGVIS1G0mxcxtUdGnXADAQE07ShpoDUsudYnolg_AiCv74Cxw2TR2aWbCW3Js52tIHe4wCmf8yppBdfvdKub5IGXj9vJnXJTKiHdU0dZVLoAdJZpKsKpSc_KTNx-1bcv",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_008",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "What Is EDR? Endpoint Detection and Response | Microsoft Security",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHLNJmnCfreGK-stwqIZRPHMZcnTh3XT0_yvkkudgv2Y4vcpU4Z3BI-ZzRKpQWb3aiDLc3JhiflTc-P_T0M-N4z_AhNdzAFpu6TcyNjO6PqwmDXUCTXuzvFSyitFQyFPOkXQud22AEm_iiFjWWw85lMBT4wuh3EhGnxD8x4Gle-IfOOEWBfz4eokPxo558MuIFNP0ku27XxAyv6dxmK8arM5Q==",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_009",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "EDR Security - What is Endpoint Detection and Response? - Check Point Software",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGu6qisoTEVu0eiDTdvgtdAqvD-qyqd9c9vdPJqpR_1bRuKCZxPXmIagJH_6gsUAEBw08ZyG0PIsmadXUEp9mxiDhqSYCeFFuOsPIbgiTY4l28cSZ8DwVhe4zwVrUT9xOfRarNTr5827kNWodnR7ojYftoCPgj4UdzNC81Qbt6klQ-p0qrVpRuN38eOvYdBRfOstrAnN6cwpQI6",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_010",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "Antivírus Tradicionais vs. EDR: Entendendo as Diferenças Fundamentais - DANRESA Portal",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGREJ_LJs6e1KveOUQe3Aqw8ogjqQ9cBZvkV8hCAwQymjKY7Pr4tGObI8pvqibMqE2kBvmUsg4p3jsUPmqAS-WVjZPfNG9SQEY_PTuHQWlyr-tBJz6tLnSffCDF0CNXcQpR-NVvXjLZZgf39DWj1hA7uPskqBjwgE1N0D4erSmfnY73VHIZ9odN-J6EGANShgRZeg0TBCbJUuhaAEG7LCuoQkRGFLM75CZnUj_fv0Mq2lxM2P1fsIyvgYSklhA=",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_011",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "O que é um software antivírus? - Sophos",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMx8G2KyE9Mx-AaPu28i9Wr-IpPdzsY8z6k6RqT3F23jbNAlrPmxrgKRprroHSPQKvZ38w-cYTokDCkr_pVoA0VgqtJhZgKLN5aJYuk8s4HMfQsb_1Z7y2I6uyThDyugJ4OEkSbYLQi0YLjXgEExh-Fl5uyshzCHUx",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_012",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "EDR x antivírus: entenda as diferenças - OBlock",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGFE7Mvh0BcWTDkPVGGQeAK9RDna_eGeNqTZLETkmLfd1o3splBnGC9FzKlWdSVHfdeGrR5rJQ3o6JRNWryB_QG_0LPxMHBZOkomhsR35FopYvTPCvDJWmkJgroRitPgC0lmmDJX2tDATgzC53HqJu2Mu7hVuQx7Fp_",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_013",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "Tipos de firewalls definidos e explicados - Palo Alto Networks",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG2UdeMr80Z-Pf2UFgJDfiha_slf-lQJs-3-rHywKsBAwwQBzycAVTsOlpQq6hTAOeL7Mids8jnWw8kGWYyIZWWTh99zsCfkW57NmSDa69ywLmXO5FERUiShnkSxAW4fKEkjmFiaXDfipgyTTzUS4C-wKfx1w6iec3kmKhm",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_014",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "NIST SP 800-41, Revision 1, Guidelines on Firewalls and Firewall Policy - NIST Technical Series Publications",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGDubqYnTxd395ekUNiILJAUShyVw09Rt_fNCeb69EYZYVTW3lFYkqdMkNSy4f7YVMsDkFLmcOc75Z2EtQxgiAE2irbMaAzv0Co5R34_sTPTlYWq1fHe0mSHZH5dLa_FPCUKkdtTQbvb1qptKtDSLTF_x82NymY2p60cIZwFUle-0B9gnZVXMahGQ==",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_015",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "Quais os tipos de Firewall e suas diferenças? - Labstar",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF3JWjD0LxB0qAJoZ9hJkVkXKAmexv8u1_UEwuKZ8dS8D2Ego2pXnu2J7wC3sBfTMGlDnqTYDd7LM3OU3bmyc4KB6F90pyOvLSyxOR0y0bDdg3CsB4HucQ5NULGzlfgmI6xjiLFXAIbxBNDiBQk0zeRPSigz-2qsIji8SIQ1ASB0mU=",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_016",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "Antivírus, um software que ajuda a proteger sua vida digital",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG6Ija08wDsjG2yekVeHi1Y2-ah9RbnCT5UxGYymHruIOyicLg2BuJXHFpuAQcMnza5U20EcQSSye5RG94X8_xVEZTu-rhJyx9Ih9gcIgVqgn43n1PDv7CiPV5rZOJc60fkP-LM34al9qvP9vVZ0SVI_wQPemM5EJHQFeVazFQ5DCmBMz6tXzZGCBSt",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_017",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "Vírus e Antivírus: Conceitos e Funções | PDF | Vírus de computador - Scribd",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGxRExl2RRf4V512rPLIHjnCp5IawYNttoKL3A9D-0cYfoPeoqarig7p2LXz6I-OWqQI1H8oL0oyJxCb9v2hhA0zbUMb1iiyHXd8Na9FfUdd3RlKsgaiL-Im3TfgQpnYVmX9gpNPFlGY0ZeIM9qE41NBTXCxJduCX4dvvIdq0vDUhVhoUo=",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_018",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "O que é firewall? - Conceito, tipos e arquiteturas - Infowester",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE7_ptW2IYDVDzvmzc5nC_CRGQJrFDRJQuA0mF_xkdbu3ZP7texy7EHpB8ZAYtxjhMfiuz5Oxay45a3xZ7S_3MstorK1ITAJydxdVf_o2llVc6lZiP5XV0eWnZ11f0pH-Dd3A==",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_019",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "O que é um antivírus? - ESET",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF1vT173wHMzz-BTj98EL7gD_B5e1DhSlCtp7MGWkUrHp5YpBrTXrnx3M1uC7Rd5qk3GFKjP5TwiMA1tI5a5oZBtfYzFwXpcIR-yaIirVKPNxHLfTwL3ITBODPRa14BcKJf4IaTCQs=",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_020",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "O Guia Definitivo das Melhores Práticas de Senhas: Protegendo Sua Identidade Digital",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHP5BFC-IZkLng2I6w-TnUkkW8k81Tpw0U-PpyX_6LpI7uLrDRJjcO5DSQ8VRFXx4Z0QsZkKFZ53lo006saFU7LO_gGqy4pgXMrFxgXklOWH5nZYS2uzzGnhwG4VfpNVFyiD-fpCznMPurzFQplGfTY4eqUC9gA8PCE",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_021",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "10 Práticas de Segurança para Administrar Senhas Corporativas - IBSEC",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHHP-oXBf7UywmJ26DEXpEFPYd-Ua4iyCVpBg8K_Vw5BaGYv0rm3F33b8fJ40Q7JC98keCp7s7ybHMMz8Ng57G4TSTgeMBg0r6qDUxoIE9u1ylbCG2pFUsPq6YZRSOHDGEoo2A_BoSq3uZaQg0As3hy-IgvosYSqzvqe_jmlvt8F3o=",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_022",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "Os 8 melhores gerenciadores de senhas em 2025 - Adrenaline",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEEqyJnkZXMKdu59XGOuVMRpZkjNvNSEzAdgHakX-iy3E0sHmR-L42-6r2DZg7HqJseFGUsKPDjSR_WnuLoNlN61GRlRco6n4WAgfxrFhOGeGYspiuQEJOhIj7-A83qhLCK3WDn6MdIambJI5DrI0RnIfdMIANh5u5Iz4iZqQIUxvj8OPbudnI=",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_023",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "LastPass: Gerenciamento e cofre de senhas com SSO e MFA",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFxetDzGZw-NzPUza2E5freVVX5yTfatfNwxCRaIlvR_NY9Yp16k2jOIvGDaPMOkPjusWZuQFeqPVe_MZJ2-TzbmTypnH3Z9AcAq7Kn_z9GsPhIgljOlg==",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_024",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "Os 9 principais gerenciadores de senhas gratuitos em 2025 - Appvizer",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFRlBGwin-vQgmNlfC4R5OdLAgtiLSgPPb84oiPGnqkSUjE_RaW8PjBXlQub0uNzkgAEOIG-w5TN1D4SbfO1TrI3YNsJKJ7PoYnmC3_kBvfANu_WUgzp8S54mTMD_U8HbP6GRB8qaHyjuI_dYc0UuhzPt3aLrifugtWRY0gCZwG5uCR6XWwMItJ9vWV_wLbL3F8hM0sHA==",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_025",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "Questões Cebraspe: Segurança da Informação [Aula de Informática para concursos] #aovivo - YouTube",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHGUqP_jzoSAin0KnAlaPq1GLd_E5ECIOESoTyFBKp165XABUw7Kw7ULbIIIRqpFucoYZBr5h60_sPqGP1MIB13oKqxfyh_YipbGyXNFy0Ol9CgSrDKGGH6KEwJxueGn5BxX0uBjqk=",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_026",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "No que se refere a antivírus, firewall, spyware e anti-sp... - Gran Questões - Gran Cursos",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGkMivsThlpMDNSDVyvW2czkWnml8Y3c-2kKFIFT-1dUGiQBciEmCprJlCAOhb_GZpV58U5E74kchBWVcA3qPPE9F1EfyEGbIb9B2sHI5P01F-CObj-HroMoRdp7Vgg_KEeKWiV3r2kJDT21-MXgzXt96xDNHuobEwfb-BelspE-6C9MLVtVSFsxXt_eQ==",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_027",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "Questões Cebraspe - Segurança Da Informação | PDF - Scribd",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFCMl8A8bk1Stx0MW0nsVP0Y09DFq5bqk9I829-bw-d6um2TG-OKgKqlsh3-G-plqC-stj3UUIPU5OPJoa9tpG6RG3gmMvJHAmAX_uLyJpWTE2jEI_Kkyte2jm25Om40Rn3BoVR4BKAlu763qpMzXXTAeDOFV5tw7hJLRGM-79AB_IMHxefT9OjybtosWM=",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_028",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "A respeito de segurança da informação, julgue o item a segui... - Qconcursos",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFcvqr_5mOFboxjxgSv-7LTo1beSH2q-0tI3ettyoaJ7rrenKVq9wgExjGVKgyCM5pawRMqDXp8L9IputVCy-YsE3YwwcpvF4fOydopXtoJuoT__Llf5lbAUhPU0iK2ULhB4rfO66DVdqJ36P1QOPZw4HE5S4LUGWQJgJsqhg==",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_029",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "Julgue o próximo item, a respeito da gestão de segurança da ... - Qconcursos",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEm4exj_RZA2e1nbS1eSdJIGRTGK-tjn5nHdYHDXKpt5rWqnpvZmm2em9vCoR9RR-OINBZIbrjMAwYbfD70uOWeJxdnMAHvjrzvaSGsekRU60lzUBtrKFkdP2j5GatAYqbyXnvDIe0JLOV1NcSwc9BMiY5aaKdqQEt7SobCQfSU2Q==",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_030",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "Acerca de segurança da informação, bancos de dados e aprendi... - Qconcursos",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF7ogSEDnCfOnH7RGvZFOQx8dmJoX0jj9JQm5VKKh-JicE2EpP54CbiVH8MS6xzx3vnMGwm5zmp7gQi-Lh8uREuqPIhzVqmPSWGtD9F8GzuRKCM6zeNq4M8yUJy-s20ZdGSyNh2fh-bmkfpGdmGH-tyOoXD5VEXKAXRPIBGEtAHIQ==",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_031",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "Como antivírus funciona e detecta malwares? - Informagno | Gestão em TI",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGK0RiXMDnvGYdJ2l-ZjdIl0LOzhH3I-JU4nmNVzd8kHvgoKahshBL8ut02ZrB3-9lHoQErF52ey3yDg3ntyU9sZrIOAPMn-CfAgGGM1bSpgyrW9CoBr36Mg8gPPs0mqm7ErOTogsneLd0vu5ygqFoSY8lOa0kRa1rohwREOfNq6sg9l98=",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_032",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "Firewall: não há só a do seu PC! Conheça os outros tipos - Pplware",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZBpVVguEjWbHmS35KPBRpsCdACvucNbevTghaKxS54Dn-_EtXyR-UAxyncZll7wqDryBZFtCwyxsokdoW67rEMAVIACC3Zunlx-cGWk9ZkhtleINliDQH-75tndXzYUGw2qoET9EE4Q9mYEUIDGrBaCI1FSVRwHRnrNUtF6VraY-UcYDBzZ03lZb76P6cVVF20ZBZt7vA",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_033",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "SP 800-41 Rev. 1, Guidelines on Firewalls and Firewall Policy | CSRC",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGDDA7GrRjoVzfK2EQKxB5eZ9wVz14sFKfy0s7UyikEFXaqKhEAolbS3_BGqxr8PlOSxeckudLxQ-77sMIySAzWPlhg-cKiqnVPt-kWA-bL4j07n9xeknVzmMSEmlVVGPJeeTmErZE4Qw==",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_034",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "Los 12 mejores programas antispyware de 2025 - SentinelOne",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFhFBcOYJAx8BPBokzq-qgg7XLvYAtQUmHasapYlW9XvzzfEu3ke_wkr9KN3qygymikN7-erfn9lk_GgxG6dcP9P0QF5At_qW5SrOcq4MQjNvQqTVSoAlWkCUezE110pYSLzKtdOk8dbkRjNTlXtoROiuvPNgz1qVf1aJqLjHQc3EXEyW8llzLLOsbvyoT_Ykc=",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_035",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "Antispyware: qué es, características... - MSMK University",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGoWFW0KNYJK6vBNXx5EhjtQorUbMv3KIUmQ8YR32rHWATKJdhdHGu25PjDWXNqOvqUNd8FACYeuvh5QrjntHV9--th5WuONK9S7tpiPiRjsLGazuoR2gGhLrJ0RprX-A==",
+      "accessed_at": null,
+      "description": null
+    }
+  ],
+  "estatisticas_de_geracao": {
+    "total_topicos": 6,
+    "total_componentes_topico": 10,
+    "total_entendimentos_relevantes": 5,
+    "total_pegadinhas": 5,
+    "total_pontos_memorizacao": 6,
+    "total_itens_quadro_sinotico": 0,
+    "total_questoes": 8,
+    "total_comentarios_questoes": 8,
+    "total_itens_checklist": 8,
+    "total_referencias": 35
+  },
+  "validacao_interna": {
+    "pesquisa_previa_realizada": true,
+    "analise_de_cobrancas_anteriores_realizada": true,
+    "material_atualizado": true,
+    "json_valido": true,
+    "estrutura_relacional_respeitada": true,
+    "numeracao_respeitada": true,
+    "houve_quebra_de_hierarquia": false,
+    "houve_nivel_numerico_superior_a_3": false,
+    "fontes_verificadas": true,
+    "sem_informacao_inventada": true
+  },
+  "metadata": {
+    "source_file_name": "3__informática-e-dados__3-noções-de-segurança-da-informação-3.4-aplicativos-para-segurança-antivírus-endpoint-detection-and-response-edr-firewal.json",
+    "normalized_checksum": "31ea39571f4b5f1f737f7ace0bc6a76f274f0555fafa7b6717c1fe188b52a88e",
+    "subject_slug": "informatica",
+    "material_slug": "seguranca-informacao-aplicativos",
+    "title_slug": "aplicativos-para-seguranca-da-informacao-antivirus",
+    "board_slug": "cebraspe",
+    "counters": {
+      "blocks": 6,
+      "topics": 6,
+      "topic_components": 10,
+      "traps": 5,
+      "memory_points": 6,
+      "summary_items": 0,
+      "questions": 8,
+      "question_comments": 8,
+      "checklist_items": 8,
+      "references": 35
+    }
+  }
+}

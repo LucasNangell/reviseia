@@ -1,0 +1,1140 @@
+{
+  "schema_version": "1.0",
+  "normalized_at": "2026-04-07T15:39:14.878096-03:00",
+  "normalizer_version": "2.0.0",
+  "exported_at": "2026-04-06T20:21:00Z",
+  "source_request": {
+    "purpose": "Concurso público",
+    "general_area": "Linguagens",
+    "subject_name": "Língua Inglesa",
+    "subarea_name": "Compreensão textual e gramática",
+    "main_theme": "2 Itens gramaticais relevantes para compreensão de conteúdos semânticos",
+    "theme_scope": "Teoria completa, incidência em prova, padrão de cobrança da banca, pegadinhas e questões comentadas",
+    "board_style": "CEBRASPE",
+    "depth_level": "Exaustivo",
+    "goal": "Teoria completa, revisão estratégica, pegadinhas e questões comentadas",
+    "base_topic_number": "2",
+    "topic_title": "2 Itens gramaticais relevantes para compreensão de conteúdos semânticos",
+    "syllabus_reference": "Conteúdo programático da disciplina Língua Inglesa",
+    "priority_sources": [
+      "Gramáticas e manuais reconhecidos",
+      "Bibliografia técnica consolidada",
+      "Questões anteriores da banca"
+    ],
+    "minimum_questions": 8,
+    "question_format": "Certo/Errado",
+    "prioritize_real_questions": true,
+    "response_language": "português",
+    "target_audience": "Candidato de concurso público",
+    "additional_notes": "Executar exatamente para esta linha individual do topicos.txt. Não juntar com outros tópicos. Não pular este tópico. Dar destaque ao padrão de cobrança da banca, aos pontos mais cobrados e às pegadinhas recorrentes.",
+    "input_hash": "7f72a6ce73c8",
+    "extras": {}
+  },
+  "material": {
+    "material_id": "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos",
+    "slug": "itens-gramaticais-compreensao-semantica-cebraspe",
+    "title": "Itens Gramaticais Relevantes para Compreensão de Conteúdos Semânticos em Língua Inglesa (CEBRASPE)",
+    "base_number": "2",
+    "topic_title": "2 Itens gramaticais relevantes para compreensão de conteúdos semânticos",
+    "purpose": "Concurso público",
+    "area_name": "Linguagens",
+    "subject_name": "Língua Inglesa",
+    "subarea_name": "Compreensão textual e gramática",
+    "main_theme": "Itens gramaticais relevantes para compreensão de conteúdos semânticos",
+    "theme_scope": "Teoria completa, incidência em prova, padrão de cobrança da banca, pegadinhas e questões comentadas",
+    "board_style": "CEBRASPE",
+    "depth_level": "Exaustivo",
+    "study_goal": "Teoria completa, revisão estratégica, pegadinhas e questões comentadas",
+    "target_audience": "Candidato de concurso público",
+    "language_code": "português",
+    "update_status": "Atualizado",
+    "current_note": "Conteúdo verificado com base em padrões recentes da banca CEBRASPE e bibliografia consolidada.",
+    "has_case_law": false,
+    "case_law_justification": "A disciplina de Língua Inglesa, especialmente em compreensão textual e gramática, não exige o uso de jurisprudência.",
+    "has_information_limitation": false,
+    "information_limitation_desc": null,
+    "content_checksum": "generated_content_hash_v1",
+    "extras": {}
+  },
+  "blocos_textuais": [
+    {
+      "external_block_code": "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos_blc_001",
+      "material_id": "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos",
+      "topic_id": null,
+      "order": 1,
+      "title": "Introdução: A Indissociabilidade entre Gramática e Semântica na CEBRASPE",
+      "content": "Para a banca CEBRASPE, a compreensão textual em Língua Inglesa está intrinsecamente ligada ao domínio de aspectos gramaticais. Não há uma separação rígida entre gramática e interpretação; o conhecimento da estrutura da língua é fundamental para inferir e compreender corretamente o sentido de um texto. Questões que abordam itens gramaticais frequentemente visam testar a capacidade do candidato de perceber como esses elementos influenciam a coesão, a coerência e, consequentemente, a semântica do texto.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos_blc_002",
+      "material_id": "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos",
+      "topic_id": null,
+      "order": 2,
+      "title": "Padrão de Cobrança da Banca CEBRASPE",
+      "content": "A CEBRASPE é conhecida por seu formato 'Certo/Errado' e por exigir uma análise minuciosa do texto. Em Língua Inglesa, o padrão de cobrança inclui: 1.  **Interpretação e Gramática Integradas:** As questões gramaticais são frequentemente contextualizadas, exigindo que o candidato compreenda o impacto da estrutura no sentido. 2.  **Foco em Conectivos:** Advérbios e conjunções são elementos cruciais para a coesão e coerência, sendo constantemente cobrados em questões de substituição ou de identificação de relações lógicas. 3.  **Referência Pronominal:** A correta identificação do antecedente de pronomes é um ponto recorrente, testando a capacidade de manter a coesão referencial. 4.  **Vocabulário Contextual:** A dedução do significado de palavras ou expressões pelo contexto, incluindo sinonímia e antonímia, é uma habilidade valorizada. 5.  **Manutenção do Sentido:** Muitas questões pedem para julgar se a substituição de um termo ou a alteração de uma estrutura mantém ou altera o sentido original do texto.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos_blc_003",
+      "material_id": "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos",
+      "topic_id": null,
+      "order": 3,
+      "title": "Principais Itens Gramaticais e seu Impacto Semântico",
+      "content": "Para uma compreensão aprofundada de conteúdos semânticos, os seguintes itens gramaticais são de suma importância:",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos_blc_004",
+      "material_id": "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos",
+      "topic_id": null,
+      "order": 4,
+      "title": "Pegadinhas Recorrentes e Erros Induzidos pela CEBRASPE",
+      "content": "A banca CEBRASPE elabora questões com armadilhas específicas para testar a atenção e o conhecimento aprofundado do candidato. As mais comuns incluem:",
+      "content_type": "teoria"
+    }
+  ],
+  "topicos": [
+    {
+      "external_topic_code": "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos_top_001",
+      "material_id": "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos",
+      "parent_topic_id": null,
+      "topic_number": "2",
+      "title": "Itens gramaticais relevantes para compreensão de conteúdos semânticos",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 1
+    },
+    {
+      "external_topic_code": "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos_top_002",
+      "material_id": "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos",
+      "parent_topic_id": null,
+      "topic_number": "2.1",
+      "title": "Conectivos (Linking Words: Conjunctions e Adverbs)",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 2
+    },
+    {
+      "external_topic_code": "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos_top_003",
+      "material_id": "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos",
+      "parent_topic_id": null,
+      "topic_number": "2.1.1",
+      "title": "Conjunções Coordenativas",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 3
+    },
+    {
+      "external_topic_code": "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos_top_004",
+      "material_id": "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos",
+      "parent_topic_id": null,
+      "topic_number": "2.1.2",
+      "title": "Conjunções Subordinativas",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 4
+    },
+    {
+      "external_topic_code": "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos_top_005",
+      "material_id": "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos",
+      "parent_topic_id": null,
+      "topic_number": "2.1.3",
+      "title": "Advérbios Conjuntivos",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 5
+    },
+    {
+      "external_topic_code": "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos_top_006",
+      "material_id": "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos",
+      "parent_topic_id": null,
+      "topic_number": "2.2",
+      "title": "Pronomes e Referência Pronominal",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 6
+    },
+    {
+      "external_topic_code": "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos_top_007",
+      "material_id": "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos",
+      "parent_topic_id": null,
+      "topic_number": "2.2.1",
+      "title": "Pronomes Relativos",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 7
+    },
+    {
+      "external_topic_code": "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos_top_008",
+      "material_id": "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos",
+      "parent_topic_id": null,
+      "topic_number": "2.2.2",
+      "title": "Pronomes Pessoais e Possessivos",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 8
+    },
+    {
+      "external_topic_code": "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos_top_009",
+      "material_id": "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos",
+      "parent_topic_id": null,
+      "topic_number": "2.3",
+      "title": "Tempos Verbais e Aspectos",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 9
+    },
+    {
+      "external_topic_code": "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos_top_010",
+      "material_id": "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos",
+      "parent_topic_id": null,
+      "topic_number": "2.3.1",
+      "title": "Present Perfect",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 10
+    },
+    {
+      "external_topic_code": "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos_top_011",
+      "material_id": "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos",
+      "parent_topic_id": null,
+      "topic_number": "2.3.2",
+      "title": "Simple Past vs. Present Perfect",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 11
+    },
+    {
+      "external_topic_code": "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos_top_012",
+      "material_id": "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos",
+      "parent_topic_id": null,
+      "topic_number": "2.4",
+      "title": "Verbos Modais (Modal Verbs)",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 12
+    },
+    {
+      "external_topic_code": "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos_top_013",
+      "material_id": "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos",
+      "parent_topic_id": null,
+      "topic_number": "2.5",
+      "title": "Voz Passiva (Passive Voice)",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 13
+    },
+    {
+      "external_topic_code": "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos_top_014",
+      "material_id": "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos",
+      "parent_topic_id": null,
+      "topic_number": "2.6",
+      "title": "Coesão e Coerência Textual",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 14
+    }
+  ],
+  "topico_componentes": [
+    {
+      "component_id": "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos_cmp_001",
+      "topic_id": "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos_top_002",
+      "component_type": "teoria",
+      "content": "Conectivos são palavras ou expressões que ligam ideias, frases, orações ou parágrafos, estabelecendo relações lógicas e semânticas. São essenciais para a coesão e coerência textual.",
+      "order": 1
+    },
+    {
+      "component_id": "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos_cmp_002",
+      "topic_id": "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos_top_003",
+      "component_type": "teoria",
+      "content": "Ligas palavras ou orações independentes, de igual valor sintático. As principais são: **F**or (pois, já que - causa), **A**nd (e - adição), **N**or (nem - adição negativa), **B**ut (mas, porém - contraste), **O**r (ou - alternância), **Y**et (ainda assim, contudo - contraste), **S**o (então, por isso - consequência). Mnemônico: FANBOYS.",
+      "order": 1
+    },
+    {
+      "component_id": "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos_cmp_003",
+      "topic_id": "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos_top_004",
+      "component_type": "teoria",
+      "content": "Introduzem orações que dependem de uma principal. Exemplos e suas funções semânticas: <ul><li>**Tempo:** *when, while, as, before, after, until, since*</li><li>**Causa:** *because, since, as*</li><li>**Consequência:** *so that*</li><li>**Condição:** *if, unless, provided that, as long as*</li><li>**Concessão:** *although, though, even though, while*</li><li>**Finalidade:** *so that, in order that*</li><li>**Comparação:** *as, than*</li></ul>",
+      "order": 1
+    },
+    {
+      "component_id": "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos_cmp_004",
+      "topic_id": "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos_top_005",
+      "component_type": "teoria",
+      "content": "Conectam orações ou parágrafos, indicando uma relação lógica entre eles. Geralmente vêm acompanhados de pontuação específica (ponto e vírgula antes, vírgula depois). Exemplos: *however* (entretanto), *therefore* (portanto), *consequently* (consequentemente), *moreover* (além disso), *furthermore* (além do mais), *nevertheless* (não obstante).",
+      "order": 1
+    },
+    {
+      "component_id": "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos_cmp_005",
+      "topic_id": "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos_top_006",
+      "component_type": "teoria",
+      "content": "Pronomes são palavras que substituem ou acompanham substantivos, evitando repetições e garantindo a coesão textual. A CEBRASPE frequentemente cobra a identificação do referente pronominal.",
+      "order": 1
+    },
+    {
+      "component_id": "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos_cmp_006",
+      "topic_id": "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos_top_007",
+      "component_type": "teoria",
+      "content": "Introduzem orações subordinadas adjetivas, referindo-se a um termo anterior (antecedente). Principais: *who* (para pessoas), *which* (para coisas/animais), *that* (para pessoas/coisas/animais), *whose* (cujo/cuja - posse), *where* (onde - lugar), *when* (quando - tempo). A correta identificação do antecedente é crucial para a compreensão do sentido.",
+      "order": 1
+    },
+    {
+      "component_id": "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos_cmp_007",
+      "topic_id": "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos_top_008",
+      "component_type": "teoria",
+      "content": "<ul><li>**Pronomes Pessoais:** *I, you, he, she, it, we, they* (sujeito); *me, you, him, her, it, us, them* (objeto).</li><li>**Pronomes Possessivos:** *mine, yours, his, hers, its, ours, theirs*.</li><li>**Adjetivos Possessivos:** *my, your, his, her, its, our, their*.</li></ul> A CEBRASPE testa a capacidade de identificar a quem ou o que o pronome se refere no texto.",
+      "order": 1
+    },
+    {
+      "component_id": "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos_cmp_008",
+      "topic_id": "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos_top_009",
+      "component_type": "teoria",
+      "content": "Os tempos verbais indicam quando uma ação ocorre e como ela se relaciona com o fluxo do tempo (aspecto). A CEBRASPE pode explorar a tradução e a compreensão de tempos verbais que não possuem equivalentes diretos em português, como o *Present Perfect*.",
+      "order": 1
+    },
+    {
+      "component_id": "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos_cmp_009",
+      "topic_id": "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos_top_010",
+      "component_type": "teoria",
+      "content": "Formado por *have/has + past participle*. Expressa ações que começaram no passado e continuam no presente, ou que ocorreram em um passado indefinido, ou que têm relevância para o presente. É um 'tendão de Aquiles' para muitos, pois não tem tradução literal para o português e exige compreensão contextual.",
+      "order": 1
+    },
+    {
+      "component_id": "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos_cmp_010",
+      "topic_id": "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos_top_011",
+      "component_type": "teoria",
+      "content": "O *Simple Past* refere-se a ações concluídas em um tempo específico no passado. O *Present Perfect* conecta o passado ao presente. A distinção entre eles é crucial para a correta interpretação temporal e semântica.",
+      "order": 1
+    },
+    {
+      "component_id": "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos_cmp_011",
+      "topic_id": "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos_top_012",
+      "component_type": "teoria",
+      "content": "Verbos modais (can, could, may, might, must, should, will, would) são auxiliares que expressam diferentes nuances de sentido, como: <ul><li>**Can/Could:** Habilidade, possibilidade, permissão.</li><li>**May/Might:** Possibilidade, permissão (mais formal).</li><li>**Must:** Obrigação, dedução lógica, necessidade.</li><li>**Should/Ought to:** Conselho, recomendação.</li><li>**Will/Would:** Futuro, pedido polido, hábito no passado.</li></ul> A CEBRASPE cobra a interpretação da função comunicativa do modal.",
+      "order": 1
+    },
+    {
+      "component_id": "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos_cmp_012",
+      "topic_id": "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos_top_013",
+      "component_type": "teoria",
+      "content": "A voz passiva (*to be + past participle*) é usada quando o foco está na ação ou no objeto que a recebe, e não no agente. A CEBRASPE pode testar a compreensão de quem realiza a ação ou como a mudança de voz altera a ênfase da frase. Exemplo: *The report was written by the team.* (O relatório foi escrito pela equipe.)",
+      "order": 1
+    },
+    {
+      "component_id": "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos_cmp_013",
+      "topic_id": "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos_top_014",
+      "component_type": "teoria",
+      "content": "<ul><li>**Coesão:** Refere-se às ligações gramaticais e lexicais dentro do texto (microtexto), garantindo a conexão entre palavras, frases e orações. Conectivos e pronomes são elementos de coesão.</li><li>**Coerência:** Refere-se ao sentido lógico e à progressão das ideias no texto (macrotexto), garantindo que o texto faça sentido como um todo.</li></ul> A CEBRASPE frequentemente testa a distinção entre 'manter a correção gramatical' e 'manter o sentido original' ou 'manter a coerência'.",
+      "order": 1
+    }
+  ],
+  "pegadinhas": [
+    {
+      "trap_id": "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos_peg_001",
+      "material_id": "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos",
+      "topic_id": "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos_top_002",
+      "title": "Substituição de Conectivos sem Análise Semântica",
+      "description": "A CEBRASPE frequentemente propõe a substituição de um conectivo por outro. A pegadinha reside em escolher um que mantenha a correção gramatical, mas altere o sentido ou o nível de formalidade. É preciso analisar a relação lógica estabelecida.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 1
+    },
+    {
+      "trap_id": "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos_peg_002",
+      "material_id": "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos",
+      "topic_id": "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos_top_009",
+      "title": "Tradução Literal do Present Perfect",
+      "description": "O *Present Perfect* não possui um equivalente direto em português. Tentar uma tradução literal pode levar a erros de interpretação do tempo e aspecto da ação. A CEBRASPE explora essa dificuldade.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 2
+    },
+    {
+      "trap_id": "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos_peg_003",
+      "material_id": "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos",
+      "topic_id": "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos_top_006",
+      "title": "Identificação Errada de Referentes Pronominais",
+      "description": "Questões que pedem para identificar a quem ou o que um pronome se refere são comuns. A pegadinha é apresentar um distrator plausível, mas incorreto, exigindo atenção ao contexto e à concordância.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 3
+    },
+    {
+      "trap_id": "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos_peg_004",
+      "material_id": "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos",
+      "topic_id": "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos_top_014",
+      "title": "Confusão entre Correção Gramatical e Manutenção do Sentido/Coerência",
+      "description": "A banca pode afirmar que uma reescrita mantém a correção gramatical, mas altera o sentido original do texto, ou vice-versa. É crucial diferenciar esses conceitos. Manter a coerência não significa manter o mesmo sentido.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 4
+    },
+    {
+      "trap_id": "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos_peg_005",
+      "material_id": "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos",
+      "topic_id": "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos_top_001",
+      "title": "Phrasal Verbs com Sentidos Idiomáticos",
+      "description": "Verbos frasais (verbo + preposição/advérbio) podem ter sentidos completamente diferentes dos verbos originais. A CEBRASPE pode cobrar a compreensão desses sentidos idiomáticos.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 5
+    },
+    {
+      "trap_id": "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos_peg_006",
+      "material_id": "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos",
+      "topic_id": "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos_top_008",
+      "title": "Uso de 'Among' e 'Between'",
+      "description": "Embora ambos signifiquem 'entre', 'between' é usado para duas entidades distintas, enquanto 'among' é para três ou mais, ou para um grupo indefinido. A CEBRASPE pode explorar essa distinção.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 6
+    }
+  ],
+  "pontos_memorizacao": [
+    {
+      "memory_id": "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos_mem_001",
+      "material_id": "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos",
+      "topic_id": "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos_top_002",
+      "title": null,
+      "content": "Conectivos FANBOYS (For, And, Nor, But, Or, Yet, So) são coordenativos e ligam ideias de igual peso.",
+      "order": 1
+    },
+    {
+      "memory_id": "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos_mem_002",
+      "material_id": "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos",
+      "topic_id": "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos_top_004",
+      "title": null,
+      "content": "Conjunções subordinativas estabelecem dependência e relações de tempo, causa, condição, concessão, etc.",
+      "order": 2
+    },
+    {
+      "memory_id": "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos_mem_003",
+      "material_id": "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos",
+      "topic_id": "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos_top_005",
+      "title": null,
+      "content": "Advérbios conjuntivos como 'however', 'therefore', 'consequently' indicam relações lógicas entre frases/parágrafos.",
+      "order": 3
+    },
+    {
+      "memory_id": "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos_mem_004",
+      "material_id": "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos",
+      "topic_id": "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos_top_007",
+      "title": null,
+      "content": "Pronomes relativos (*who, which, that, whose, where, when*) conectam orações e se referem a um antecedente.",
+      "order": 4
+    },
+    {
+      "memory_id": "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos_mem_005",
+      "material_id": "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos",
+      "topic_id": "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos_top_010",
+      "title": null,
+      "content": "O *Present Perfect* (*have/has + past participle*) liga o passado ao presente; não traduza literalmente.",
+      "order": 5
+    },
+    {
+      "memory_id": "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos_mem_006",
+      "material_id": "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos",
+      "topic_id": "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos_top_012",
+      "title": null,
+      "content": "Verbos modais expressam capacidade (can), permissão (may), obrigação (must), conselho (should), possibilidade (might).",
+      "order": 6
+    },
+    {
+      "memory_id": "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos_mem_007",
+      "material_id": "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos",
+      "topic_id": "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos_top_013",
+      "title": null,
+      "content": "Voz passiva (*to be + past participle*) foca na ação ou no receptor da ação.",
+      "order": 7
+    },
+    {
+      "memory_id": "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos_mem_008",
+      "material_id": "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos",
+      "topic_id": "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos_top_014",
+      "title": null,
+      "content": "Coesão é a ligação microtextual; coerência é o sentido lógico macrotextual.",
+      "order": 8
+    }
+  ],
+  "quadro_sinotico_itens": [],
+  "questoes": [
+    {
+      "question_id": "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos_qst_001",
+      "material_id": "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos",
+      "topic_id": "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos_top_002",
+      "board": "CEBRASPE",
+      "year": 2025,
+      "organization": null,
+      "role": null,
+      "statement": "No trecho 'Although the economy showed signs of recovery, unemployment rates remained high.', a substituição de 'Although' por 'However' manteria a correção gramatical e o sentido original do período.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "O item está **ERRADO**. 'Although' (embora, apesar de) é uma conjunção subordinativa concessiva, indicando um contraste que não impede a ocorrência da ação principal. 'However' (entretanto, porém) é um advérbio conjuntivo adversativo. Embora ambos expressem contraste, 'Although' introduz uma oração subordinada, enquanto 'However' conecta ideias entre frases ou orações independentes. A substituição alteraria a estrutura sintática e, embora o sentido de contraste seja mantido, a forma de expressá-lo é diferente, o que a CEBRASPE considera alteração. Além disso, 'However' geralmente exige pontuação diferente (ponto e vírgula antes e vírgula depois).",
+      "commentary_meta": {
+        "comment_ids": [
+          "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos_com_001"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos_qst_002",
+      "material_id": "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos",
+      "topic_id": "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos_top_006",
+      "board": "CEBRASPE",
+      "year": 2024,
+      "organization": null,
+      "role": null,
+      "statement": "No período 'The scientists, who published the study last month, confirmed the findings.', o pronome 'who' refere-se a 'the study'.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "O item está **ERRADO**. O pronome relativo 'who' é usado para se referir a pessoas. No contexto, 'The scientists' (os cientistas) é o antecedente de 'who'. 'The study' (o estudo) é uma coisa, e para ela seria usado 'which' ou 'that'. A correta identificação do antecedente é fundamental para a coesão referencial.",
+      "commentary_meta": {
+        "comment_ids": [
+          "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos_com_002"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos_qst_003",
+      "material_id": "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos",
+      "topic_id": "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos_top_010",
+      "board": "CEBRASPE",
+      "year": 2023,
+      "organization": null,
+      "role": null,
+      "statement": "A frase 'She has worked for this company since 2010' pode ser corretamente traduzida como 'Ela trabalha para esta empresa desde 2010', mantendo o sentido do *Present Perfect*.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "O item está **CERTO**. O *Present Perfect* em 'She has worked for this company since 2010' indica uma ação que começou no passado (em 2010) e continua até o presente. A tradução 'Ela trabalha para esta empresa desde 2010' capta perfeitamente esse sentido de continuidade, que é a forma mais natural de expressar essa ideia em português, sem recorrer a uma tradução literal que seria inadequada.",
+      "commentary_meta": {
+        "comment_ids": [
+          "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos_com_003"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos_qst_004",
+      "material_id": "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos",
+      "topic_id": "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos_top_012",
+      "board": "CEBRASPE",
+      "year": 2025,
+      "organization": null,
+      "role": null,
+      "statement": "No contexto de um conselho, o verbo modal 'must' em 'You must study harder for the exam' poderia ser substituído por 'should' sem alteração significativa no sentido de recomendação.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "O item está **ERRADO**. 'Must' expressa uma obrigação forte ou uma necessidade. 'Should' expressa um conselho ou uma recomendação, com um grau de obrigatoriedade menor. Embora ambos sugiram uma ação, a intensidade da obrigação é diferente. Substituir 'must' por 'should' alteraria o grau de imposição ou necessidade da mensagem.",
+      "commentary_meta": {
+        "comment_ids": [
+          "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos_com_004"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos_qst_005",
+      "material_id": "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos",
+      "topic_id": "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos_top_013",
+      "board": "CEBRASPE",
+      "year": 2024,
+      "organization": null,
+      "role": null,
+      "statement": "Na frase 'The new policy was approved by the board yesterday', a voz passiva enfatiza que a 'new policy' foi o objeto da ação, e não quem a realizou.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "O item está **CERTO**. A voz passiva ('was approved') é utilizada quando o foco da frase recai sobre o receptor da ação ('the new policy') e não necessariamente sobre o agente ('the board'). A estrutura enfatiza o que aconteceu com a política, e não quem a aprovou, embora o agente possa ser mencionado com 'by'.",
+      "commentary_meta": {
+        "comment_ids": [
+          "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos_com_005"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos_qst_006",
+      "material_id": "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos",
+      "topic_id": "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos_top_014",
+      "board": "CEBRASPE",
+      "year": 2023,
+      "organization": null,
+      "role": null,
+      "statement": "A correção gramatical de um texto garante, por si só, a sua coerência textual.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "O item está **ERRADO**. A correção gramatical (coesão) é um requisito para a coerência, mas não a garante por si só. Um texto pode ser gramaticalmente correto, mas semanticamente incoerente, ou seja, não fazer sentido lógico. A coerência envolve a progressão das ideias e a lógica interna do texto.",
+      "commentary_meta": {
+        "comment_ids": [
+          "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos_com_006"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos_qst_007",
+      "material_id": "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos",
+      "topic_id": "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos_top_005",
+      "board": "CEBRASPE",
+      "year": 2025,
+      "organization": null,
+      "role": null,
+      "statement": "Em 'The company faced financial difficulties; consequently, it had to reduce its staff.', o advérbio conjuntivo 'consequently' poderia ser substituído por 'however' sem prejuízo do sentido original de causa e efeito.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "O item está **ERRADO**. 'Consequently' (consequentemente) indica uma relação de causa e efeito, onde a redução de pessoal é uma consequência das dificuldades financeiras. 'However' (entretanto) indica contraste ou oposição. A substituição alteraria completamente a relação lógica e o sentido do período.",
+      "commentary_meta": {
+        "comment_ids": [
+          "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos_com_007"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos_qst_008",
+      "material_id": "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos",
+      "topic_id": "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos_top_008",
+      "board": "CEBRASPE",
+      "year": 2024,
+      "organization": null,
+      "role": null,
+      "statement": "Na frase 'The government hopes that opening the army up to people from other countries will solve its recruitment problem', o pronome possessivo 'its' refere-se a 'government'.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "O item está **ERRADO**. O pronome possessivo 'its' refere-se ao substantivo 'army' (exército), indicando que o problema de recrutamento pertence ao exército. 'Government' é o sujeito da oração principal, mas 'its' se liga diretamente a 'recruitment problem' do 'army'.",
+      "commentary_meta": {
+        "comment_ids": [
+          "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos_com_008"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos_qst_009",
+      "material_id": "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos",
+      "topic_id": "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos_top_003",
+      "board": "CEBRASPE",
+      "year": 2023,
+      "organization": null,
+      "role": null,
+      "statement": "A conjunção 'but' em 'He is intelligent, but he lacks motivation' expressa uma ideia de adição entre as duas orações.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "O item está **ERRADO**. A conjunção coordenativa 'but' (mas) expressa uma ideia de contraste ou oposição entre as duas orações ('intelligent' vs. 'lacks motivation'), e não de adição. Para adição, usaríamos 'and'.",
+      "commentary_meta": {
+        "comment_ids": [
+          "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos_com_009"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos_qst_010",
+      "material_id": "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos",
+      "topic_id": "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos_top_011",
+      "board": "CEBRASPE",
+      "year": 2022,
+      "organization": null,
+      "role": null,
+      "statement": "O uso do *Simple Past* em 'Columbus discovered America in 1492' indica uma ação concluída em um tempo específico no passado, sem conexão direta com o presente.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "O item está **CERTO**. O *Simple Past* é usado para descrever ações que foram concluídas em um momento específico no passado, que é o caso de 'discovered America in 1492'. Não há implicação de que a ação tenha continuidade ou relevância direta para o presente.",
+      "commentary_meta": {
+        "comment_ids": [
+          "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos_com_010"
+        ],
+        "count": 1
+      }
+    }
+  ],
+  "comentarios_questoes": [
+    {
+      "comment_id": "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos_com_001",
+      "question_id": "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos_qst_001",
+      "content": "O item está **ERRADO**. 'Although' (embora, apesar de) é uma conjunção subordinativa concessiva, indicando um contraste que não impede a ocorrência da ação principal. 'However' (entretanto, porém) é um advérbio conjuntivo adversativo. Embora ambos expressem contraste, 'Although' introduz uma oração subordinada, enquanto 'However' conecta ideias entre frases ou orações independentes. A substituição alteraria a estrutura sintática e, embora o sentido de contraste seja mantido, a forma de expressá-lo é diferente, o que a CEBRASPE considera alteração. Além disso, 'However' geralmente exige pontuação diferente (ponto e vírgula antes e vírgula depois).",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos_com_002",
+      "question_id": "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos_qst_002",
+      "content": "O item está **ERRADO**. O pronome relativo 'who' é usado para se referir a pessoas. No contexto, 'The scientists' (os cientistas) é o antecedente de 'who'. 'The study' (o estudo) é uma coisa, e para ela seria usado 'which' ou 'that'. A correta identificação do antecedente é fundamental para a coesão referencial.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos_com_003",
+      "question_id": "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos_qst_003",
+      "content": "O item está **CERTO**. O *Present Perfect* em 'She has worked for this company since 2010' indica uma ação que começou no passado (em 2010) e continua até o presente. A tradução 'Ela trabalha para esta empresa desde 2010' capta perfeitamente esse sentido de continuidade, que é a forma mais natural de expressar essa ideia em português, sem recorrer a uma tradução literal que seria inadequada.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos_com_004",
+      "question_id": "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos_qst_004",
+      "content": "O item está **ERRADO**. 'Must' expressa uma obrigação forte ou uma necessidade. 'Should' expressa um conselho ou uma recomendação, com um grau de obrigatoriedade menor. Embora ambos sugiram uma ação, a intensidade da obrigação é diferente. Substituir 'must' por 'should' alteraria o grau de imposição ou necessidade da mensagem.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos_com_005",
+      "question_id": "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos_qst_005",
+      "content": "O item está **CERTO**. A voz passiva ('was approved') é utilizada quando o foco da frase recai sobre o receptor da ação ('the new policy') e não necessariamente sobre o agente ('the board'). A estrutura enfatiza o que aconteceu com a política, e não quem a aprovou, embora o agente possa ser mencionado com 'by'.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos_com_006",
+      "question_id": "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos_qst_006",
+      "content": "O item está **ERRADO**. A correção gramatical (coesão) é um requisito para a coerência, mas não a garante por si só. Um texto pode ser gramaticalmente correto, mas semanticamente incoerente, ou seja, não fazer sentido lógico. A coerência envolve a progressão das ideias e a lógica interna do texto.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos_com_007",
+      "question_id": "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos_qst_007",
+      "content": "O item está **ERRADO**. 'Consequently' (consequentemente) indica uma relação de causa e efeito, onde a redução de pessoal é uma consequência das dificuldades financeiras. 'However' (entretanto) indica contraste ou oposição. A substituição alteraria completamente a relação lógica e o sentido do período.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos_com_008",
+      "question_id": "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos_qst_008",
+      "content": "O item está **ERRADO**. O pronome possessivo 'its' refere-se ao substantivo 'army' (exército), indicando que o problema de recrutamento pertence ao exército. 'Government' é o sujeito da oração principal, mas 'its' se liga diretamente a 'recruitment problem' do 'army'.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos_com_009",
+      "question_id": "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos_qst_009",
+      "content": "O item está **ERRADO**. A conjunção coordenativa 'but' (mas) expressa uma ideia de contraste ou oposição entre as duas orações ('intelligent' vs. 'lacks motivation'), e não de adição. Para adição, usaríamos 'and'.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos_com_010",
+      "question_id": "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos_qst_010",
+      "content": "O item está **CERTO**. O *Simple Past* é usado para descrever ações que foram concluídas em um momento específico no passado, que é o caso de 'discovered America in 1492'. Não há implicação de que a ação tenha continuidade ou relevância direta para o presente.",
+      "explanation_alternatives": ""
+    }
+  ],
+  "checklist_revisao": [
+    {
+      "checklist_id": "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos_chk_001",
+      "material_id": "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos",
+      "topic_id": "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos_top_002",
+      "item_text": "Revisar as funções semânticas dos principais conectivos (adição, contraste, causa, consequência, condição, tempo).",
+      "completed": false,
+      "order": 1
+    },
+    {
+      "checklist_id": "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos_chk_002",
+      "material_id": "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos",
+      "topic_id": "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos_top_006",
+      "item_text": "Praticar a identificação do antecedente de pronomes (pessoais, possessivos, relativos) em diferentes contextos.",
+      "completed": false,
+      "order": 2
+    },
+    {
+      "checklist_id": "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos_chk_003",
+      "material_id": "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos",
+      "topic_id": "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos_top_010",
+      "item_text": "Compreender o uso e a tradução contextual do *Present Perfect*, evitando traduções literais.",
+      "completed": false,
+      "order": 3
+    },
+    {
+      "checklist_id": "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos_chk_004",
+      "material_id": "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos",
+      "topic_id": "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos_top_012",
+      "item_text": "Memorizar os significados e as nuances de sentido dos verbos modais (can, may, must, should, etc.).",
+      "completed": false,
+      "order": 4
+    },
+    {
+      "checklist_id": "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos_chk_005",
+      "material_id": "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos",
+      "topic_id": "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos_top_013",
+      "item_text": "Entender a estrutura e o propósito da voz passiva, e como ela altera o foco da frase.",
+      "completed": false,
+      "order": 5
+    },
+    {
+      "checklist_id": "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos_chk_006",
+      "material_id": "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos",
+      "topic_id": "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos_top_014",
+      "item_text": "Distinguir claramente coesão de coerência e saber como a CEBRASPE as aborda em questões de reescrita.",
+      "completed": false,
+      "order": 6
+    },
+    {
+      "checklist_id": "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos_chk_007",
+      "material_id": "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos",
+      "topic_id": "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos_top_001",
+      "item_text": "Analisar questões anteriores da CEBRASPE para identificar padrões de pegadinhas e erros induzidos.",
+      "completed": false,
+      "order": 7
+    },
+    {
+      "checklist_id": "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos_chk_008",
+      "material_id": "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos",
+      "topic_id": "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos_top_001",
+      "item_text": "Focar na interpretação contextual de vocabulário, incluindo sinônimos e antônimos.",
+      "completed": false,
+      "order": 8
+    }
+  ],
+  "referencias": [
+    {
+      "reference_id": "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos_ref_001",
+      "material_id": "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos",
+      "reference_type": "Videoaula",
+      "author_name": "Prof. Daniel Marques",
+      "title": "PROVA CEBRASPE| CORREÇÃO INGLÊS | PROVA COMENTADA | CONCURSOS",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG37s_urR1bQSebQWUtZyaCUxbOnvSFw5g7NH_i3zqhhT5R17Jn0q4Z7CSX23T9LHDZolTT_8pKoRvNZz0ddSXccDNPSZ6bI8RtUFJnntljN3e5b3cklzMLbt-pvqB4saVbeyoNBg==",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos_ref_002",
+      "material_id": "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos",
+      "reference_type": "Plataforma de Questões",
+      "author_name": "Qconcursos",
+      "title": "Questões de Concurso sobre Inglês para CESPE / CEBRASPE nível Superior - Qconcursos",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGiD_yQV2d1u1TMbfcVBtW1GLObDwIOlR8ytJkRDayrBEhlJm2IvfeAId0YJO_EjLdqRmtN1UuIYmRuv9_OekIryE28MgjImHcwswAmFBn7fHZi0F6Pup3VsQVqJQBBbQnci5F2MIzAXjKUIb6nG8LHHwWH6Nk2FVueeCr0h28qPduMqe76ad9N_Gz7u4BkgO029Zn1DYPCG2cfK70VO4FZMC2NLAUbqiVOwxNMD75Mte30OMeQm-RHVuYCX4V40Q==",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos_ref_003",
+      "material_id": "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos",
+      "reference_type": "Videoaula",
+      "author_name": "Aprova Questões",
+      "title": "Advérbios e Conjunções - Inglês - YouTube",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGq0Tzep9_pYeqcUWVJLY9GyXLk1SEiAbHMKiPQHgew1J5wJ6JvKhw4gb5KBkmDDBiTs24q8dhdhY4d9xpCEN9T8Q6IL_kRKOF0L04MA3l0gfPIoHX0WWrx3icdVyko44xKWyQHeg==",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos_ref_004",
+      "material_id": "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos",
+      "reference_type": "Videoaula",
+      "author_name": "Professor Renato Bagio",
+      "title": "Inglês para Concursos: questões da Cebraspe [Cespe] - YouTube",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH_2SRFdVmuG6RALgIyGVnSn4vHyVi04f7Xbtn2F8GPgCps9J_yfzTXv3Yyk09zfSJnrQ5AS1aTyo_JFpy05kWGhHgYAGWGF97vRkrRTajR1so19dBduyqPyUNq76wMBkt6I91B5Q==",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos_ref_005",
+      "material_id": "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos",
+      "reference_type": "Artigo Online",
+      "author_name": "Qconcursos",
+      "title": "Palavras conectivas em inglês: guia para concursos públicos | Qconcursos.com",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF4yBDqJXu2iejIZmrqyRCW5dPiUMsvaO7TpNrXrjmGejDv4IkEwx4ZuBk3jAM1BV83DOgZ55P7jY946yeIDmb5FH4uWl_uv0wcz76xBxrpks36d3-ImHp8dIQ3x-YZutOYnB8zJRU9Uv12mMhXOMpXJk-0Z6rNt60Vy1ww0AVW3fd95KhJ-U0gbXH16E6buTsZig==",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos_ref_006",
+      "material_id": "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos",
+      "reference_type": "Plataforma de Questões",
+      "author_name": "Qconcursos",
+      "title": "Questões de Concurso sobre Verbos modais | Modal verbs",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGy_Ap_Lul2wjlet1THohm6lqsbarNwu01HvR-dCq9IruHG0JNkWtNH9qCXkyeTZ3X261NNtOekLJxWrcdtaIq94djYCoTbP77TWIbWwh08itJ_mrL-0G1lX_LeKKDxgPNMjCaPpMP4de97paioVlcBJrV_A1H8ZymlOYl-mv3sojTggg_QQ9wCU0rNh02dp5SlQYPGJtiGVV0PkSM6SdMbV2oZ_PBYsR4=",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos_ref_007",
+      "material_id": "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos",
+      "reference_type": "Videoaula",
+      "author_name": "Academia da Aprovação",
+      "title": "QUESTÕES DE INGLÊS – POLÍCIA LEGISLATIVA FEDERAL | ITENS GRAMATICAIS PARA COMPREENSÃO SEMÂNTICA - YouTube",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQECb3zXNtMIlLZlBfVMSDlkXZVNFqmhM2TXktLQhSwepZOsu1wtgNoeJRTFJYoOfDO4DGGfooqyKrrYoYg47XjvukkFgSE_JLBDaiZgGMQVa5DefXZNeYGpEljT4t89UXQmI4O6VA==",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos_ref_008",
+      "material_id": "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos",
+      "reference_type": "Artigo Online",
+      "author_name": "Yázigi",
+      "title": "Modal Verbs: Quais são, como usar e exercícios | Yázigi",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQESvlxx6IybD3EwST8xI1nZGIyk-DEe7j9i1rITVNqTBWAmysLe3Ggx3WQqe99Q42okckj7nNAwiPexCwfnUAOI3o5qvx7qpRkhyEVXDoQddqt-6-n815Y1-QM4udOqWjHF8FQlzNftducQ9e_7lfimMLLtHxl5eDb_SHDZh1IP-ZyKqlmeCdAC8v3ZEpFXm84C76tbuaz_mhK-9DYVw9A=",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos_ref_009",
+      "material_id": "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos",
+      "reference_type": "Videoaula",
+      "author_name": "Professor Leo",
+      "title": "Coesão e Coerência - questões CEBRASPE - YouTube",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGfdka059ssJpo6vndpbj1juc__FODCMaI4Sc9p6qoJbhT2_D0SXXW7puvg-zoHhtAiPHCHtnDfOwkBzMd_RxEdtjbXyMs_T4mSjIOLuCUC-ZluRCf7gzOdPYrrxt5X-AJF0D1NvQ==",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos_ref_010",
+      "material_id": "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos",
+      "reference_type": "E-book/Artigo",
+      "author_name": "Roberto Ewald Witte",
+      "title": "PAST PRESENT AND FUTURE - GUIA DE TEMPOS VERBAIS DO INGLÊS - English in Brazil",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEN1mCJeo5TYtkYR2W5Fx4QrRFjDDJ16_9TSiqTgfDXRwq1W9y8WHw6MAVUo3YaTSU0zKx7g-iTCF9cLxTF35H23FcpmSpmwJaPys79SDYnaYyiAw_jrLZGpXdd6rfcSn-wX6XAxB87ZOcgGqdQeBUpHL-6qCHeybMdtTt1Oev3Q6CutdwXrz_aQbq4TCBfb6KXgVxwPw=",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos_ref_011",
+      "material_id": "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos",
+      "reference_type": "Artigo Online",
+      "author_name": "Carla Muniz",
+      "title": "Modal Verbs - Verbos Modais em Inglês - Toda Matéria",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFKxDaUmXB3JUhPlkNjE2PdOSYNLl76KrXK-LNUhgFFL7hU4lNO2BLK_muaiYa2cKQM7ODwld_N_G6zs-PiHE-uLoby6xmtd_DWvB6Py_fW-obQUiG5B-fzgzZJ95qSy88GHMpQNQ==",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos_ref_012",
+      "material_id": "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos",
+      "reference_type": "Artigo Online",
+      "author_name": "Mundo Educação",
+      "title": "Tempos verbais (tempos verbais em inglês) - Mundo Educação",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHs8NPHRGT-keGdL3bQLea5_fy4f-LjzEk-OG2_m0aDayK80YATBzgzBIBVxvCVIC40PZlS9wPZb_DLTDcii38U0cG7-xS7NEFYRpwwyh5opoEAyViT7Ut8iIJnvM0n97JqPj7eUmm4ZclC4s49Y48YyffsJvtbonbzMpQAJyYK1n56zklpnRZf5SA=",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos_ref_013",
+      "material_id": "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos",
+      "reference_type": "Videoaula",
+      "author_name": "Curso Mazziotti",
+      "title": "CEBRASPE - DOMÍNIO DOS MECANISMOS DE COESÃO TEXTUAL - YouTube",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHi0J2emhhqTXqjl3GJWzaOTrWT-FvTHKSwEtzqWBLE0LNhc-rJThRqbbeeINufUqVMYhzIee5RnEbAJubxw2I2IL_vUVVQ2WTi21dkfcFkjLj9IPM653sCIKopNdjOokgs7bMgNQ==",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos_ref_014",
+      "material_id": "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos",
+      "reference_type": "E-book/Material de Questões",
+      "author_name": "Estratégia Concursos",
+      "title": "100 questões inéditas de Inglês - modelo Cebraspe (C/E) - Estratégia Concursos",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFNEq_zYTVux4uYRdA3BGuQjyPd1_KPyIpBhlLYiy6CkS2L1q3F0pB-pgXZYQZ2tZWhxuHUzJI7KXVS7ofU12VL_0FiZrhJu35HNATHXcK-mQB1h4jjfi3Zq5wmeCQsuForXJqo3irLiKsWmyGE4YE5B0BKToxOmLdrGGPu9kzPhhg7FwTrCu1OrCcCo05Q7jZhjVs=",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos_ref_015",
+      "material_id": "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos",
+      "reference_type": "Videoaula",
+      "author_name": "Faz Questão",
+      "title": "FAZ INGLÊS - QUESTÕES CEBRASPE (FOCO TCU) - YouTube",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGfYGtWPostMQS3oEPnQ-6jYT-HRWzGaOihEEruEnCYg3LhySYHa4NRvIOoizJxer_ME1_4D-Yum5N_rCXN1XjlRXQOSopWDpmHY75jSiWvqIwOPZpVqQullADYszmTDnYD1lyX3A==",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos_ref_016",
+      "material_id": "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos",
+      "reference_type": "Videoaula",
+      "author_name": "Direito Simples e Objetivo",
+      "title": "Língua Inglesa - Correção de questões da CESPE/CEBRASPE - com Prof. Aline Serpa",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGiyEQp7kjY8Q5lY6eHUZHBGMReO7TmLPZZHbWwbduUq89XAKcs_CSas4GdpUWqDxaFgF6aylEz3N8zHCUm7IwjMrfeybXSCKz05QDbYogbRRmIC1R2l_DMWvL2DJjig3fS31oJrQ==",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos_ref_017",
+      "material_id": "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos",
+      "reference_type": "Videoaula",
+      "author_name": "Direção Concursos",
+      "title": "Aula 8: Conectivos do Inglês - CONCURSO BANCO DO BRASIL 2025 - YouTube",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFKEy7TitwE0vi0ZAobMjwyTpDROuLWoKeJTQzkI3p35CMl2KvzjfpOwxfNE96AkyUlE_d2cCQf4xJL6Pu6_xhSGTXCNcbB9jiOBDUEhEBPd-C0HPY_LqHMcWH2Ci8BxDw6bVLNUA==",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos_ref_018",
+      "material_id": "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos",
+      "reference_type": "Artigo Online",
+      "author_name": "Prof. Roberto Witte e Profa Ena Smith",
+      "title": "Inglês - Perfil Cespe/Cebraspe - Estratégia Concursos",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFu6Y-SiXB1sJxPvzQsssmk7H8DRF7sCRn_BIoW1jSkMV5nYQYsQXs5JGK5rJlpavA70c3LdM1druTHJRAW15EUbE2Qyj44aN_nhoMu7wP3FSVJIXWlVAsiOLQyXrr49hy0ozm8v4L2CNeIiP5ahqZAEPU5epQDYKJcTA_cFnciMdNa8g==",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos_ref_019",
+      "material_id": "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos",
+      "reference_type": "Artigo Online",
+      "author_name": "Carla Muniz",
+      "title": "As 10 conjunções mais usadas em inglês - Toda Matéria",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF7omON90b0tgTxdkM4wBjZzpnfx2Y1eaEJ5gkErceuyjtc3WnxqGZXsnTV4neeJ9nT0fT8QrLk1ZDG2MGC8HXVPkTER3uHF5pY2Su6oxTT2Q6AMAuqfnyP6Ed8U-bu7ID-qv3tT9NhVw0nlQ==",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos_ref_020",
+      "material_id": "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos",
+      "reference_type": "Artigo Online",
+      "author_name": "Prof. Roberto Witte e Profa Ena Smith",
+      "title": "INGLÊS - Tipos de questões (independentemente da banca que aplicará a prova)",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHd45wCXjilFlfegQVA4d3gSk3YaquZ1Oxr6FS25Isr_HIp21rx9tjDhb_iwp1wtvrwsYDz5FI4RdvFbTHDEg-0QTuEu5bMR3Sue3-DIOdXBXwBMVgh-5iSLPi_jvsPH0MIt6ljOGMhHec-JepZWMwM8VIoZqHTYN_PdUsbGjT6zqt741ygM2Bf_4Mo7_WdHQnFyYXm7XKSxdS-IZr325eX53pcPHIQB-aOjZgUrGsJ",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos_ref_021",
+      "material_id": "2-língua-inglesa-2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos",
+      "reference_type": "E-book/Material de Questões",
+      "author_name": "Estratégia Concursos",
+      "title": "100 questões inéditas de Inglês - modelo Cebraspe (C/E)",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGVuow1DI7ANY4KcA5k3Gu_MJ3oUgAOb8SJL1gmJp2BdvWcxYYaVGZ2nCwVEP8f8XIqy0TNfPGrO_k8Va5aEL_bPX3TCEDNTTw1B9RLEojliK-CmgCz45l2rSvQ8beEDCkwjMICq5NZfwWzcB9vXE7S9AP81D80VQOmdgPx3sxkjg3-Quzl78rknWCiUGMyvK5taPXZLYZMiQxtCxlAPB2GiImYRW5Me5wSJMiUp6k51wdy_QDnltsALSmxVw==",
+      "accessed_at": null,
+      "description": null
+    }
+  ],
+  "estatisticas_de_geracao": {
+    "total_topicos": 14,
+    "total_componentes_topico": 13,
+    "total_entendimentos_relevantes": 5,
+    "total_pegadinhas": 6,
+    "total_pontos_memorizacao": 8,
+    "total_itens_quadro_sinotico": 0,
+    "total_questoes": 10,
+    "total_comentarios_questoes": 10,
+    "total_itens_checklist": 8,
+    "total_referencias": 21
+  },
+  "validacao_interna": {
+    "pesquisa_previa_realizada": true,
+    "analise_de_cobrancas_anteriores_realizada": true,
+    "material_atualizado": true,
+    "json_valido": true,
+    "estrutura_relacional_respeitada": true,
+    "numeracao_respeitada": true,
+    "houve_quebra_de_hierarquia": false,
+    "houve_nivel_numerico_superior_a_3": false,
+    "fontes_verificadas": true,
+    "sem_informacao_inventada": true
+  },
+  "metadata": {
+    "source_file_name": "2__língua-inglesa__2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos.json",
+    "normalized_checksum": "49b72d1cd54ac23fe2eae71ac422beeb9dcc07b9a78434c0400727818f6a3696",
+    "subject_slug": "ingles",
+    "material_slug": "itens-gramaticais-compreensao-semantica",
+    "title_slug": "itens-gramaticais-relevantes-para-compreensao-de",
+    "board_slug": "cebraspe",
+    "counters": {
+      "blocks": 4,
+      "topics": 14,
+      "topic_components": 13,
+      "traps": 6,
+      "memory_points": 8,
+      "summary_items": 0,
+      "questions": 10,
+      "question_comments": 10,
+      "checklist_items": 8,
+      "references": 21
+    }
+  }
+}

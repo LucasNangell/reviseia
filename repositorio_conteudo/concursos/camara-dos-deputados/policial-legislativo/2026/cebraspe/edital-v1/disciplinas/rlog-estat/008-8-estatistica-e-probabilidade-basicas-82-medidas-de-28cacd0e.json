@@ -1,0 +1,1107 @@
+{
+  "schema_version": "1.0",
+  "normalized_at": "2026-04-07T15:39:14.762977-03:00",
+  "normalizer_version": "2.0.0",
+  "exported_at": "2026-04-07T15:44:00Z",
+  "source_request": {
+    "purpose": "Concurso público",
+    "general_area": "Exatas",
+    "subject_name": "Raciocínio Lógico e Noções de Estatística",
+    "subarea_name": "Lógica, conjuntos, contagem e estatística",
+    "main_theme": "8 Estatística e probabilidade básicas: 8.2 Medidas de dispersão",
+    "theme_scope": "Teoria completa, incidência em prova, padrão de cobrança da banca, pegadinhas e questões comentadas",
+    "board_style": "CEBRASPE",
+    "depth_level": "Exaustivo",
+    "goal": "Teoria completa, revisão estratégica, pegadinhas e questões comentadas",
+    "base_topic_number": "8",
+    "topic_title": "8 Estatística e probabilidade básicas: 8.2 Medidas de dispersão",
+    "syllabus_reference": "Conteúdo programático da disciplina Raciocínio Lógico e Noções de Estatística",
+    "priority_sources": [
+      "Bibliografia técnica consolidada",
+      "Definições, propriedades, regras e métodos consagrados",
+      "Questões anteriores da banca"
+    ],
+    "minimum_questions": 8,
+    "question_format": "Certo/Errado",
+    "prioritize_real_questions": true,
+    "response_language": "português",
+    "target_audience": "Candidato de concurso público",
+    "additional_notes": "Executar exatamente para esta linha individual do topicos.txt. Não juntar com outros tópicos. Não pular este tópico. Dar destaque ao padrão de cobrança da banca, aos pontos mais cobrados e às pegadinhas recorrentes.",
+    "input_hash": "5059ca5b7786",
+    "extras": {}
+  },
+  "material": {
+    "material_id": "mat_001",
+    "slug": "medidas-de-dispersao-raciocinio-logico-estatistica-cebraspe",
+    "title": "Medidas de Dispersão em Raciocínio Lógico e Noções de Estatística",
+    "base_number": "8",
+    "topic_title": "8 Estatística e probabilidade básicas: 8.2 Medidas de dispersão",
+    "purpose": "Concurso público",
+    "area_name": "Exatas",
+    "subject_name": "Raciocínio Lógico e Noções de Estatística",
+    "subarea_name": "Lógica, conjuntos, contagem e estatística",
+    "main_theme": "8 Estatística e probabilidade básicas: 8.2 Medidas de dispersão",
+    "theme_scope": "Teoria completa, incidência em prova, padrão de cobrança da banca, pegadinhas e questões comentadas",
+    "board_style": "CEBRASPE",
+    "depth_level": "Exaustivo",
+    "study_goal": "Teoria completa, revisão estratégica, pegadinhas e questões comentadas",
+    "target_audience": "Candidato de concurso público",
+    "language_code": "português",
+    "update_status": "Atualizado em 2026",
+    "current_note": "Conteúdo revisado para refletir a vigência normativa e o padrão de cobrança da banca CEBRASPE até o ano de 2026, com base em questões recentes e bibliografia consolidada.",
+    "has_case_law": false,
+    "case_law_justification": "A disciplina de Raciocínio Lógico e Noções de Estatística, por sua natureza, não exige a inclusão de jurisprudência.",
+    "has_information_limitation": false,
+    "information_limitation_desc": null,
+    "content_checksum": "aqui_sera_o_checksum_gerado_automaticamente_pelo_script_python",
+    "extras": {}
+  },
+  "blocos_textuais": [
+    {
+      "external_block_code": "blc_001",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 1,
+      "title": "Introdução às Medidas de Dispersão",
+      "content": "As medidas de dispersão, também conhecidas como medidas de variabilidade, são parâmetros estatísticos que quantificam o grau de afastamento ou variabilidade dos dados em um conjunto em relação a uma medida de tendência central, geralmente a média. Enquanto as medidas de tendência central (média, mediana e moda) indicam o 'centro' de um conjunto de dados, as medidas de dispersão revelam o quão 'espalhados' ou 'variáveis' esses dados estão, fornecendo uma visão mais completa da distribuição. A análise conjunta de medidas de tendência central e de dispersão é crucial para uma compreensão aprofundada das características de um conjunto de dados, pois a média, por si só, pode não ser suficiente para descrever a homogeneidade ou heterogeneidade dos valores.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_002",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 2,
+      "title": "Padrão de Cobrança do CEBRASPE em Medidas de Dispersão",
+      "content": "A banca CEBRASPE (antigo CESPE) costuma abordar as medidas de dispersão de forma tanto conceitual quanto prática em suas provas de Raciocínio Lógico e Noções de Estatística. É comum que as questões exijam a compreensão do que cada medida representa, sua utilidade em diferentes contextos e a interpretação de seus valores. Além disso, cálculos básicos envolvendo as fórmulas das medidas de dispersão são frequentemente cobrados, muitas vezes em cenários simplificados ou para comparar a variabilidade entre dois ou mais conjuntos de dados. A CEBRASPE também explora as propriedades das medidas de dispersão, como o impacto da adição ou multiplicação de uma constante nos valores de uma variável. As questões no formato 'Certo/Errado' podem apresentar afirmações sobre as definições, propriedades, cálculos ou interpretações das medidas, exigindo do candidato um conhecimento preciso e a capacidade de identificar sutis incorreções.",
+      "content_type": "teoria"
+    }
+  ],
+  "topicos": [
+    {
+      "external_topic_code": "top_001",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "8.2",
+      "title": "Medidas de Dispersão",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 1
+    },
+    {
+      "external_topic_code": "top_002",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "8.2.1",
+      "title": "Amplitude Total (AT)",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 2
+    },
+    {
+      "external_topic_code": "top_003",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "8.2.2",
+      "title": "Desvio Médio Absoluto (DMA)",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 3
+    },
+    {
+      "external_topic_code": "top_004",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "8.2.3",
+      "title": "Variância (σ² ou s²)",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 4
+    },
+    {
+      "external_topic_code": "top_005",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "8.2.4",
+      "title": "Desvio Padrão (σ ou s)",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 5
+    },
+    {
+      "external_topic_code": "top_006",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "8.2.5",
+      "title": "Coeficiente de Variação (CV)",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 6
+    },
+    {
+      "external_topic_code": "top_007",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "8.2.6",
+      "title": "Padrão de Cobrança CEBRASPE",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 7
+    }
+  ],
+  "topico_componentes": [
+    {
+      "component_id": "cmp_001",
+      "topic_id": "top_002",
+      "component_type": "Definição",
+      "content": "A Amplitude Total (AT) é a medida de dispersão mais simples, definida como a diferença entre o maior e o menor valor de um conjunto de dados.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_002",
+      "topic_id": "top_002",
+      "component_type": "Fórmula",
+      "content": "AT = X_máximo - X_mínimo",
+      "order": 2
+    },
+    {
+      "component_id": "cmp_003",
+      "topic_id": "top_002",
+      "component_type": "Observação",
+      "content": "A Amplitude Total é uma medida limitada, pois considera apenas os valores extremos, ignorando a distribuição dos valores intermediários. É útil para uma indicação rápida da dispersão, mas não para análises detalhadas.",
+      "order": 3
+    },
+    {
+      "component_id": "cmp_004",
+      "topic_id": "top_003",
+      "component_type": "Definição",
+      "content": "O Desvio Médio Absoluto (DMA) é a média aritmética dos desvios absolutos dos elementos de uma série em relação à sua média aritmética.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_005",
+      "topic_id": "top_003",
+      "component_type": "Fórmula",
+      "content": "DMA = (Σ |Xi - μ|) / N, onde Xi é cada valor, μ é a média e N é o número de elementos.",
+      "order": 2
+    },
+    {
+      "component_id": "cmp_006",
+      "topic_id": "top_003",
+      "component_type": "Observação",
+      "content": "Embora mais intuitivo que a variância, o DMA é menos utilizado em estatística inferencial devido a propriedades matemáticas menos favoráveis em comparação com o desvio padrão.",
+      "order": 3
+    },
+    {
+      "component_id": "cmp_007",
+      "topic_id": "top_004",
+      "component_type": "Definição",
+      "content": "A Variância é uma medida que expressa o grau de dispersão dos dados em relação à média, calculada como a média dos quadrados dos desvios de cada valor em relação à média.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_008",
+      "topic_id": "top_004",
+      "component_type": "Fórmula (Populacional)",
+      "content": "Variância Populacional (σ²) = (Σ (Xi - μ)²) / N, onde Xi é cada valor, μ é a média populacional e N é o tamanho da população.",
+      "order": 2
+    },
+    {
+      "component_id": "cmp_009",
+      "topic_id": "top_004",
+      "component_type": "Fórmula (Amostral)",
+      "content": "Variância Amostral (s²) = (Σ (Xi - x̄)²) / (n - 1), onde Xi é cada valor, x̄ é a média amostral e n é o tamanho da amostra. O uso de (n-1) no denominador visa corrigir o viés, tornando-a um estimador não viciado da variância populacional.",
+      "order": 3
+    },
+    {
+      "component_id": "cmp_010",
+      "topic_id": "top_004",
+      "component_type": "Propriedade",
+      "content": "A variância é expressa na unidade de medida dos dados ao quadrado, o que dificulta sua interpretação direta.",
+      "order": 4
+    },
+    {
+      "component_id": "cmp_011",
+      "topic_id": "top_004",
+      "component_type": "Propriedade",
+      "content": "Ao adicionar ou subtrair uma constante a todos os valores de uma variável, a variância não se altera.",
+      "order": 5
+    },
+    {
+      "component_id": "cmp_012",
+      "topic_id": "top_004",
+      "component_type": "Propriedade",
+      "content": "Ao multiplicar ou dividir todos os valores de uma variável por uma constante (diferente de zero), a variância fica multiplicada (ou dividida) pelo quadrado dessa constante.",
+      "order": 6
+    },
+    {
+      "component_id": "cmp_013",
+      "topic_id": "top_005",
+      "component_type": "Definição",
+      "content": "O Desvio Padrão é a medida de dispersão mais utilizada, sendo a raiz quadrada positiva da variância. Ele indica o quanto os dados estão espalhados em relação à média e possui a mesma unidade de medida dos dados originais, facilitando a interpretação.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_014",
+      "topic_id": "top_005",
+      "component_type": "Fórmula (Populacional)",
+      "content": "Desvio Padrão Populacional (σ) = √σ² = √[(Σ (Xi - μ)²) / N]",
+      "order": 2
+    },
+    {
+      "component_id": "cmp_015",
+      "topic_id": "top_005",
+      "component_type": "Fórmula (Amostral)",
+      "content": "Desvio Padrão Amostral (s) = √s² = √[(Σ (Xi - x̄)²) / (n - 1)]",
+      "order": 3
+    },
+    {
+      "component_id": "cmp_016",
+      "topic_id": "top_005",
+      "component_type": "Interpretação",
+      "content": "Um baixo desvio padrão indica que os pontos dos dados tendem a estar próximos da média, ou seja, o conjunto é homogêneo. Um alto desvio padrão indica que os pontos dos dados estão espalhados por uma ampla gama de valores, ou seja, o conjunto é heterogêneo.",
+      "order": 4
+    },
+    {
+      "component_id": "cmp_017",
+      "topic_id": "top_005",
+      "component_type": "Propriedade",
+      "content": "Ao adicionar ou subtrair uma constante a todos os valores de uma variável, o desvio padrão não se altera.",
+      "order": 5
+    },
+    {
+      "component_id": "cmp_018",
+      "topic_id": "top_005",
+      "component_type": "Propriedade",
+      "content": "Ao multiplicar ou dividir todos os valores de uma variável por uma constante (diferente de zero), o desvio padrão fica multiplicado (ou dividido) por essa constante.",
+      "order": 6
+    },
+    {
+      "component_id": "cmp_019",
+      "topic_id": "top_006",
+      "component_type": "Definição",
+      "content": "O Coeficiente de Variação (CV) é uma medida de dispersão relativa, expressa como a razão entre o desvio padrão e a média (ou seu valor absoluto), geralmente multiplicada por 100 para ser apresentada em porcentagem.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_020",
+      "topic_id": "top_006",
+      "component_type": "Fórmula",
+      "content": "CV = (Desvio Padrão / Média) × 100%",
+      "order": 2
+    },
+    {
+      "component_id": "cmp_021",
+      "topic_id": "top_006",
+      "component_type": "Utilidade",
+      "content": "O CV é ideal para comparar a dispersão (variabilidade relativa) de dois ou mais conjuntos de dados que possuem médias diferentes ou unidades de medida distintas, pois é uma medida adimensional. Um CV mais baixo indica menor variabilidade relativa e maior consistência dos dados.",
+      "order": 3
+    }
+  ],
+  "pegadinhas": [
+    {
+      "trap_id": "peg_001",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": "Pegadinha 1",
+      "description": "Confundir Variância com Desvio Padrão: A CEBRASPE pode apresentar valores de variância e pedir a interpretação como se fosse desvio padrão, ou vice-versa. Lembre-se que o desvio padrão é a raiz quadrada da variância e tem a mesma unidade dos dados, enquanto a variância tem a unidade ao quadrado.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 1
+    },
+    {
+      "trap_id": "peg_002",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": "Pegadinha 2",
+      "description": "Interpretação Incorreta do Coeficiente de Variação: Uma pegadinha comum é afirmar que um conjunto com maior desvio padrão é sempre mais disperso. O CV é crucial para comparar a dispersão relativa entre conjuntos com médias diferentes. Um conjunto com menor desvio padrão pode ter maior CV se sua média for muito pequena.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 2
+    },
+    {
+      "trap_id": "peg_003",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": "Pegadinha 3",
+      "description": "Impacto de Transformações Lineares: A banca pode testar o conhecimento sobre como a adição/subtração ou multiplicação/divisão de uma constante afeta as medidas de dispersão. Lembre-se que somar/subtrair uma constante não altera variância e desvio padrão, mas multiplicar/dividir altera.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 3
+    },
+    {
+      "trap_id": "peg_004",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": "Pegadinha 4",
+      "description": "Uso Inadequado da Amplitude Total: A Amplitude Total é uma medida muito limitada. A CEBRASPE pode apresentar uma situação em que a Amplitude Total é igual para dois conjuntos, mas a distribuição interna é muito diferente, levando a conclusões erradas se apenas a AT for considerada.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 4
+    },
+    {
+      "trap_id": "peg_005",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": "Pegadinha 5",
+      "description": "Diferença entre Variância Populacional e Amostral: Embora para concursos básicos a distinção no cálculo possa não ser o foco principal da pegadinha, a CEBRASPE pode explorar o conceito de que a variância amostral (com n-1 no denominador) é um estimador mais adequado para a variância populacional.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 5
+    }
+  ],
+  "pontos_memorizacao": [
+    {
+      "memory_id": "mem_001",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": null,
+      "content": "Amplitude Total: X_máximo - X_mínimo. Simples, mas limitada.",
+      "order": 1
+    },
+    {
+      "memory_id": "mem_002",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": null,
+      "content": "Desvio Médio Absoluto: Média dos desvios absolutos em relação à média. Menos comum em provas.",
+      "order": 2
+    },
+    {
+      "memory_id": "mem_003",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": null,
+      "content": "Variância: Média dos quadrados dos desvios em relação à média. Unidade ao quadrado. (N ou N-1).",
+      "order": 3
+    },
+    {
+      "memory_id": "mem_004",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": null,
+      "content": "Desvio Padrão: Raiz quadrada da variância. Mesma unidade dos dados. Mais interpretável.",
+      "order": 4
+    },
+    {
+      "memory_id": "mem_005",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": null,
+      "content": "Coeficiente de Variação: (Desvio Padrão / Média) * 100%. Para comparar dispersão relativa entre conjuntos com médias diferentes.",
+      "order": 5
+    },
+    {
+      "memory_id": "mem_006",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": null,
+      "content": "Adicionar/Subtrair constante: Não altera Variância nem Desvio Padrão.",
+      "order": 6
+    },
+    {
+      "memory_id": "mem_007",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": null,
+      "content": "Multiplicar/Dividir por constante 'k': Variância multiplica/divide por k², Desvio Padrão multiplica/divide por |k|.",
+      "order": 7
+    }
+  ],
+  "quadro_sinotico_itens": [
+    {
+      "summary_item_id": "sum_001",
+      "title": "Medida",
+      "content": "Amplitude Total (AT)",
+      "order": 1
+    },
+    {
+      "summary_item_id": "sum_002",
+      "title": "Fórmula",
+      "content": "X_máximo - X_mínimo",
+      "order": 2
+    },
+    {
+      "summary_item_id": "sum_003",
+      "title": "Interpretação",
+      "content": "Diferença entre extremos. Simples, mas sensível a outliers.",
+      "order": 3
+    },
+    {
+      "summary_item_id": "sum_004",
+      "title": "Medida",
+      "content": "Desvio Médio Absoluto (DMA)",
+      "order": 4
+    },
+    {
+      "summary_item_id": "sum_005",
+      "title": "Fórmula",
+      "content": "(Σ |Xi - μ|) / N",
+      "order": 5
+    },
+    {
+      "summary_item_id": "sum_006",
+      "title": "Interpretação",
+      "content": "Média dos desvios absolutos. Pouco usada em inferência.",
+      "order": 6
+    },
+    {
+      "summary_item_id": "sum_007",
+      "title": "Medida",
+      "content": "Variância (σ² ou s²)",
+      "order": 7
+    },
+    {
+      "summary_item_id": "sum_008",
+      "title": "Fórmula",
+      "content": "Populacional: (Σ (Xi - μ)²) / N. Amostral: (Σ (Xi - x̄)²) / (n - 1)",
+      "order": 8
+    },
+    {
+      "summary_item_id": "sum_009",
+      "title": "Interpretação",
+      "content": "Média dos desvios quadrados. Unidade ao quadrado. Difícil interpretação direta.",
+      "order": 9
+    },
+    {
+      "summary_item_id": "sum_010",
+      "title": "Medida",
+      "content": "Desvio Padrão (σ ou s)",
+      "order": 10
+    },
+    {
+      "summary_item_id": "sum_011",
+      "title": "Fórmula",
+      "content": "Raiz quadrada da Variância",
+      "order": 11
+    },
+    {
+      "summary_item_id": "sum_012",
+      "title": "Interpretação",
+      "content": "Dispersão em relação à média. Mesma unidade dos dados. Mais interpretável.",
+      "order": 12
+    },
+    {
+      "summary_item_id": "sum_013",
+      "title": "Medida",
+      "content": "Coeficiente de Variação (CV)",
+      "order": 13
+    },
+    {
+      "summary_item_id": "sum_014",
+      "title": "Fórmula",
+      "content": "(Desvio Padrão / Média) × 100%",
+      "order": 14
+    },
+    {
+      "summary_item_id": "sum_015",
+      "title": "Interpretação",
+      "content": "Dispersão relativa. Usado para comparar conjuntos com médias diferentes.",
+      "order": 15
+    }
+  ],
+  "questoes": [
+    {
+      "question_id": "qst_001",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": null,
+      "year": null,
+      "organization": null,
+      "role": null,
+      "statement": "Considere dois conjuntos de dados, A e B. O conjunto A possui valores {10, 20, 30} e o conjunto B possui valores {5, 20, 35}. A amplitude total do conjunto A é igual à amplitude total do conjunto B, indicando que ambos os conjuntos possuem a mesma variabilidade.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "O conjunto A tem Amplitude Total = 30 - 10 = 20. O conjunto B tem Amplitude Total = 35 - 5 = 30. Portanto, as amplitudes totais não são iguais. Além disso, mesmo que fossem iguais, a Amplitude Total é uma medida limitada que não reflete a distribuição interna dos dados, sendo inadequada para afirmar a mesma variabilidade. O item está **Errado**.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_001"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_002",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": null,
+      "year": null,
+      "organization": null,
+      "role": null,
+      "statement": "Se todos os valores de um conjunto de dados forem multiplicados por uma constante positiva 'k', o desvio padrão do novo conjunto será 'k' vezes o desvio padrão original, e a variância do novo conjunto será 'k²' vezes a variância original.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "Esta afirmação está correta. Se todos os valores de um conjunto de dados são multiplicados por uma constante 'k', o desvio padrão é multiplicado por '|k|' (ou 'k' se 'k' for positivo), e a variância é multiplicada por 'k²'. O item está **Certo**.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_002"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_003",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": null,
+      "year": null,
+      "organization": null,
+      "role": null,
+      "statement": "O Coeficiente de Variação (CV) é uma medida de dispersão absoluta, sendo mais adequado para comparar a variabilidade entre conjuntos de dados que possuem a mesma unidade de medida e médias semelhantes.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "O Coeficiente de Variação (CV) é uma medida de dispersão *relativa*, não absoluta. Sua principal utilidade é justamente comparar a variabilidade entre conjuntos de dados com *diferentes* unidades de medida ou médias distintas, pois ele expressa a dispersão em termos percentuais da média. O item está **Errado**.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_003"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_004",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": null,
+      "year": null,
+      "organization": null,
+      "role": null,
+      "statement": "A variância amostral, ao contrário da variância populacional, utiliza (n-1) no denominador para corrigir o viés e fornecer um estimador mais preciso da variância da população.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "A variância amostral utiliza (n-1) no denominador (graus de liberdade) para corrigir o viés que ocorreria se fosse utilizado 'n', tornando-a um estimador não viciado da variância populacional. O item está **Certo**.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_004"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_005",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": null,
+      "year": null,
+      "organization": null,
+      "role": null,
+      "statement": "Um conjunto de dados com desvio padrão igual a zero indica que todos os valores do conjunto são idênticos.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "Se o desvio padrão é zero, significa que não há dispersão nos dados. Isso só ocorre quando todos os valores do conjunto são idênticos, ou seja, cada valor é igual à média. O item está **Certo**.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_005"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_006",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": null,
+      "year": null,
+      "organization": null,
+      "role": null,
+      "statement": "Se a média de um conjunto de dados é 50 e seu desvio padrão é 5, então o Coeficiente de Variação é de 10%.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "O Coeficiente de Variação (CV) é calculado pela fórmula (Desvio Padrão / Média) × 100%. Substituindo os valores, temos (5 / 50) × 100% = 0,1 × 100% = 10%. O item está **Certo**.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_006"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_007",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": null,
+      "year": null,
+      "organization": null,
+      "role": null,
+      "statement": "A adição de uma constante a todos os valores de um conjunto de dados altera tanto a média quanto o desvio padrão do conjunto.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "A adição ou subtração de uma constante a todos os valores de um conjunto de dados altera a média (que também será somada/subtraída pela constante), mas *não altera* o desvio padrão nem a variância. O item está **Errado**.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_007"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_008",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": null,
+      "year": null,
+      "organization": null,
+      "role": null,
+      "statement": "O Desvio Médio Absoluto (DMA) é a medida de dispersão mais robusta contra a presença de valores extremos (outliers) em um conjunto de dados, sendo preferível à variância e ao desvio padrão nesses casos.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "O Desvio Médio Absoluto (DMA) é menos sensível a outliers do que a variância e o desvio padrão, pois utiliza o valor absoluto dos desvios em vez de elevá-los ao quadrado. No entanto, a afirmação de que é 'a medida de dispersão mais robusta' e 'preferível' em todos os casos de outliers é imprecisa, pois outras medidas mais robustas (como o desvio interquartil) podem ser mais adequadas dependendo do contexto. Além disso, o DMA tem limitações matemáticas para inferência. O item está **Errado**.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_008"
+        ],
+        "count": 1
+      }
+    }
+  ],
+  "comentarios_questoes": [
+    {
+      "comment_id": "com_001",
+      "question_id": "qst_001",
+      "content": "O conjunto A tem Amplitude Total = 30 - 10 = 20. O conjunto B tem Amplitude Total = 35 - 5 = 30. Portanto, as amplitudes totais não são iguais. Além disso, mesmo que fossem iguais, a Amplitude Total é uma medida limitada que não reflete a distribuição interna dos dados, sendo inadequada para afirmar a mesma variabilidade. O item está **Errado**.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_002",
+      "question_id": "qst_002",
+      "content": "Esta afirmação está correta. Se todos os valores de um conjunto de dados são multiplicados por uma constante 'k', o desvio padrão é multiplicado por '|k|' (ou 'k' se 'k' for positivo), e a variância é multiplicada por 'k²'. O item está **Certo**.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_003",
+      "question_id": "qst_003",
+      "content": "O Coeficiente de Variação (CV) é uma medida de dispersão *relativa*, não absoluta. Sua principal utilidade é justamente comparar a variabilidade entre conjuntos de dados com *diferentes* unidades de medida ou médias distintas, pois ele expressa a dispersão em termos percentuais da média. O item está **Errado**.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_004",
+      "question_id": "qst_004",
+      "content": "A variância amostral utiliza (n-1) no denominador (graus de liberdade) para corrigir o viés que ocorreria se fosse utilizado 'n', tornando-a um estimador não viciado da variância populacional. O item está **Certo**.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_005",
+      "question_id": "qst_005",
+      "content": "Se o desvio padrão é zero, significa que não há dispersão nos dados. Isso só ocorre quando todos os valores do conjunto são idênticos, ou seja, cada valor é igual à média. O item está **Certo**.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_006",
+      "question_id": "qst_006",
+      "content": "O Coeficiente de Variação (CV) é calculado pela fórmula (Desvio Padrão / Média) × 100%. Substituindo os valores, temos (5 / 50) × 100% = 0,1 × 100% = 10%. O item está **Certo**.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_007",
+      "question_id": "qst_007",
+      "content": "A adição ou subtração de uma constante a todos os valores de um conjunto de dados altera a média (que também será somada/subtraída pela constante), mas *não altera* o desvio padrão nem a variância. O item está **Errado**.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_008",
+      "question_id": "qst_008",
+      "content": "O Desvio Médio Absoluto (DMA) é menos sensível a outliers do que a variância e o desvio padrão, pois utiliza o valor absoluto dos desvios em vez de elevá-los ao quadrado. No entanto, a afirmação de que é 'a medida de dispersão mais robusta' e 'preferível' em todos os casos de outliers é imprecisa, pois outras medidas mais robustas (como o desvio interquartil) podem ser mais adequadas dependendo do contexto. Além disso, o DMA tem limitações matemáticas para inferência. O item está **Errado**.",
+      "explanation_alternatives": ""
+    }
+  ],
+  "checklist_revisao": [
+    {
+      "checklist_id": "chk_001",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Compreender o conceito e a finalidade de cada medida de dispersão (Amplitude Total, Desvio Médio Absoluto, Variância, Desvio Padrão, Coeficiente de Variação).",
+      "completed": false,
+      "order": 1
+    },
+    {
+      "checklist_id": "chk_002",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Memorizar as fórmulas de cálculo para cada medida, distinguindo variância/desvio padrão populacional e amostral.",
+      "completed": false,
+      "order": 2
+    },
+    {
+      "checklist_id": "chk_003",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Saber interpretar o significado de cada medida e quando utilizá-las (especialmente o Coeficiente de Variação para comparações relativas).",
+      "completed": false,
+      "order": 3
+    },
+    {
+      "checklist_id": "chk_004",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Entender as propriedades das medidas de dispersão em relação a transformações lineares (adição/subtração e multiplicação/divisão por constante).",
+      "completed": false,
+      "order": 4
+    },
+    {
+      "checklist_id": "chk_005",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Estar atento às pegadinhas comuns da banca CEBRASPE, como a confusão entre variância e desvio padrão, e a interpretação do CV.",
+      "completed": false,
+      "order": 5
+    },
+    {
+      "checklist_id": "chk_006",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Praticar a resolução de questões no formato Certo/Errado, focando na aplicação dos conceitos e na identificação de erros conceituais ou de cálculo.",
+      "completed": false,
+      "order": 6
+    }
+  ],
+  "referencias": [
+    {
+      "reference_id": "ref_001",
+      "material_id": "mat_001",
+      "reference_type": "Livro",
+      "author_name": null,
+      "title": "Estatística Básica",
+      "publisher": "Saraiva Educação",
+      "year_reference": "2017 (ou edição mais recente)",
+      "isbn": null,
+      "url": null,
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_002",
+      "material_id": "mat_001",
+      "reference_type": "Livro",
+      "author_name": null,
+      "title": "Noções de Probabilidade e Estatística",
+      "publisher": "Edusp",
+      "year_reference": "2015 (ou edição mais recente)",
+      "isbn": null,
+      "url": null,
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_003",
+      "material_id": "mat_001",
+      "reference_type": "Artigo/Material Online",
+      "author_name": null,
+      "title": "Medidas de Dispersão ou de Variabilidade",
+      "publisher": null,
+      "year_reference": "Consultado em 2026",
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHirkQ_rMgoz-_tA6xAFd-_hocctusmgX51ekusM863kuiv3jKtKJfGPjzHMVbuIr3hvojiYAxgCBm_04fv8OS5scY2wxMak6rCTAwEcpdUTBaWK4EZrg1iB8gKSNgRidT-KRv4_X1omLaacF0QwPoaocY5kY9VwzFQuEme7j8YR5FjHR0=",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_004",
+      "material_id": "mat_001",
+      "reference_type": "Artigo/Material Online",
+      "author_name": null,
+      "title": "Amplitude Total e Soma dos Quadrados",
+      "publisher": null,
+      "year_reference": "Consultado em 2026",
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEe8rYjMVQuHdZwlLzsOoX3KMLrYddhScy5tP1V21eKXM7mN5FF-uh4YseMhvkek4lj_Im4erJQ4IhmSySAna9B_1Eket8lr5v-etSoISVwSchlHEMr1WGZDjE5mADZSpugmzKnV6WGE6a5X80-0QIpldsoK4znG4uaQ5ZTHkQBpXiwSAuDYpI=",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_005",
+      "material_id": "mat_001",
+      "reference_type": "Artigo/Material Online",
+      "author_name": null,
+      "title": "Revisão sobre desvio absoluto médio (DAM)",
+      "publisher": null,
+      "year_reference": "Consultado em 2026",
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFk2grkpQgTRMZyS5vxD0d_V90WjNvaF6EgbGWOVhFOznWVFDWD8S8AySH23UWV7UvCoP2lP92jD3Goxzf2fYnuka0eykCxYiFfDeiw-hUvo-25iZsbvhUAPqReKjy8LhYWYAIs9rTYsu0-htjpW0GAEeroBwx_O8Iiozo1cYOAAGjnwCrUdPydVqWhPJg3GDbkXsah2x9Z9YdkrhDvE3FQnQH7sTDGNkYTikAIyzAVdC85xmGB_P3_jyrUd_ggxxDfavdeMxQd8XLujh4Rw==",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_006",
+      "material_id": "mat_001",
+      "reference_type": "Artigo/Material Online",
+      "author_name": null,
+      "title": "Desvio padrão: conceito, cálculo e exemplo prático",
+      "publisher": null,
+      "year_reference": "2017 (Consultado em 2026)",
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFJdrkxCIQ2HL3w5TvHtcAqTx1ISrtPlxUpxN731lKxqxYRtsJPc2li90sS0ma-c6RYR37IY79BENutt_GxtQ475BS0CWhUNJwQDsTxGy3yjdmtfi1liE24op1ePWXOXYekp8og==",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_007",
+      "material_id": "mat_001",
+      "reference_type": "Artigo/Material Online",
+      "author_name": null,
+      "title": "Desvio padrão",
+      "publisher": null,
+      "year_reference": "Consultado em 2026",
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGwikxP3euFf7dCJ21M2UQFfcMrBDEwtKIykEQ6TkQz58HiBJie6SlEtsXtmUKRz233Q__m1FkpBEv5S3Pyol1ohvIMhN3cOlDX24b18azFfPRMf2dq05S7ou3iIvi2AEZ8e0BLs8aJXniYAQ==",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_008",
+      "material_id": "mat_001",
+      "reference_type": "Artigo/Material Online",
+      "author_name": null,
+      "title": "O que é? Desvio padrão",
+      "publisher": null,
+      "year_reference": "2006 (Consultado em 2026)",
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFI5mAsfSqErE31lBqw9ztqyqlq7eaXKPibvBzc8ME5VloU75f78tdfMjn9jGfC5bx_rqLzbB-mbyUzk_wrnYvi7aBsndc1A-_JQnYaErAm5xxsJKmtahL24-i94HZEIC3VrtJIeyjxRxC2A2Y1PmJUG1-vNfVi2bEBXvmCgJLk8nc49RqFRoKa-6rfrln7Ya7y1W-tFyLJhKLh6IuRTviV",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_009",
+      "material_id": "mat_001",
+      "reference_type": "Artigo/Material Online",
+      "author_name": null,
+      "title": "Qual é a diferença entre a variância populacional e a variância amostral?",
+      "publisher": null,
+      "year_reference": "Consultado em 2026",
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFP3YQAYZYxCF4LATkstG-VwvQgCPn8odAwacC1LD1vDFM_Bb_bK7eREfxAC-MIaPdgdmMBmkb72JttLtUBBLinE9b_ZaK0bUNidUN1S0HhT88IsBSuRKLKNfQ7ftWpdsHIItze5ay6kxUwp_QddlKWDugp46Pj9AZRngG4k7doQ9ydXPgWDeRTGqZaBBQ98KJq7qNUH1FpZhaqqPnfk7LxwcUQupL_NMynoQe-Rhm9buAoT6opZU87HbfRYs2yPvevsVslp9cz_Yw95bsQ65J9t8Hqgkiavg==",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_010",
+      "material_id": "mat_001",
+      "reference_type": "Artigo/Material Online",
+      "author_name": null,
+      "title": "Coeficiente de Variação (CV)",
+      "publisher": null,
+      "year_reference": "2025 (Consultado em 2026)",
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHbJaVz13LWAyqjGAaWypDVUdmLoKB3pBJLjAxR9d3lTWcasuLALeFzviouGzaDlTaMbQNle4mSlGW9lwfSVub6jA6RYO7M-3GoBsVQJjejn3IqnTvK3kfUOZKOyb4dPVnCDhfRqeN94cFhcK4mpBFDMYH_MA==",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_011",
+      "material_id": "mat_001",
+      "reference_type": "Artigo/Material Online",
+      "author_name": null,
+      "title": "Como calcular o coeficiente de variação no Excel",
+      "publisher": null,
+      "year_reference": "2025 (Consultado em 2026)",
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFl4AFpRYwpyidZCZeF_Vb-alEu8jJ9TdroIDXcqaONZ319DK-Z3PGXHiklp_xi_sPklculoM7LkaIXHohv1w6XsrkqwT2BCDn2_EGk3v8OD9ogqQnJh5C5lAjCoCYicVGhoOllJqBYczBQ3B8TOEPPux7gLmd92fbKdgkdmABakBHam5T3",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_012",
+      "material_id": "mat_001",
+      "reference_type": "Artigo/Material Online",
+      "author_name": null,
+      "title": "Desvio-padrão: o que é, para que serve e como o podes obter",
+      "publisher": null,
+      "year_reference": "2026 (Consultado em 2026)",
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG3X84Amux_xEjLLXn3tkmZ1ZJv68cBfkJWhYLvp-75H2ZSLTAspJ-PtjUvydl6vtK4QsXgXHOMRpsAnik3pRVMta1_AKOKlgf7pJi_07lm_EuRaCerPbEHJjSZu55J1Tu-rKjZvnB12FXWUL_W",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_013",
+      "material_id": "mat_001",
+      "reference_type": "Artigo/Material Online",
+      "author_name": null,
+      "title": "Coeficiente de variação: o que significa e como interpretar?",
+      "publisher": null,
+      "year_reference": "2023 (Consultado em 2026)",
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFTxYzdA0KNVgQR8ftiGWrFm-5_2NhMz_AuuGl5GvCmeeimYKy9kVVIQa6hw0VjbbzqIldnLM7zwqOLcJeYXVxkh5W6u48DJbZvMYtDhS3oTTtPJ69sWbbkVFIuTnP3Spsgy_F1L3vkFzAXJZg1hxmLZJtywqWhQ7s4C8AeOg==",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_014",
+      "material_id": "mat_001",
+      "reference_type": "Artigo/Material Online",
+      "author_name": null,
+      "title": "Estatística para concursos",
+      "publisher": null,
+      "year_reference": "Consultado em 2026",
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGwZra7TNulEESDjN_6xNjNUIJcElALWoNrM-YNclZWKPastG1b-gad09EFxCLFyq-C25INredPHNsIlC5eQSsJDbqRWdDemN2sZc2VHTUBSHYHim7-6Lco2eDsd5nZTNhilsuRg5QpfiPHTKRdnOq47GpsJ2UqYqDd4XGMFUMOAm39tLkS7nY=",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_015",
+      "material_id": "mat_001",
+      "reference_type": "Artigo/Material Online",
+      "author_name": null,
+      "title": "Medidas de dispersão: um guia essencial",
+      "publisher": null,
+      "year_reference": "2025 (Consultado em 2026)",
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHR3buIzHYjAcBBRq2fbgfOedIpDSo5j_uw1GZtoNfWv6XDC--9efUgy1VyUWu9Cgge6Mifl9JUQutZ6lhbkqnrwKH0QLY6_2IJXBkKDSv5kuK9VI2VLSxtv5CbvGadBv__ljVPHRgQX7PFENd4k8Kl9qqA8VSmwW_D1pPanjLgAgYqu3bsgzvAxcynI0MQ_r_itu60u-gbkuQ5NvhPHwN6FSu2SUPA",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_016",
+      "material_id": "mat_001",
+      "reference_type": "Artigo/Material Online",
+      "author_name": null,
+      "title": "Medidas de dispersão",
+      "publisher": null,
+      "year_reference": "2018 (Consultado em 2026)",
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEYbXR5JN23QMZ5Xso62WLqP5Sqq76I3rvk5FuDmYxAXqILRB08CEVUBrFwVkBD_F7SB1LHenjem056a8eLlYIQKjmATQ0LzBZYZDM5zcE2D3TQ40w-I_JW2uo7uuq-MvEmpYu1br9x4eXmKefBQqo=",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_017",
+      "material_id": "mat_001",
+      "reference_type": "Artigo/Material Online",
+      "author_name": null,
+      "title": "Medidas de Dispersão - Professor Guru",
+      "publisher": null,
+      "year_reference": "2023 (Consultado em 2026)",
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEGyVVtARPYzj3F_i1zJH660H-RVL8JhWgorUBN_RRMnxH1woVmrk_pq0QT8q3ClEnzz_Jy5nKnrLhT9HWee7esmDJ7BgircCQcILrzjdHg2WhI2ffknzKRE9WRp3U96Jp7VNtPZ1cTAGpA0LvxB79k1vTFIjQCJMZFVoenHVGipps=",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_018",
+      "material_id": "mat_001",
+      "reference_type": "Vídeo/Aula Online",
+      "author_name": null,
+      "title": "ESTATÍSTICA - PROPRIEDADES DAS MEDIDAS DE DISPERSÃO | CEBRASPE - AJ TRF6 Apoio Especializado | 2025",
+      "publisher": "YouTube",
+      "year_reference": "2025 (Consultado em 2026)",
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_KpKMVsuj0wpdTCFIct5pywt0gsLpZ5kbkLkxMCutcJi7VxWkp-pmtKMq6IUVnAnQkjCXL43PxyXM6JORXLlBYnPNG-GbFAy8niGUifp7J5nHFRfp78KnCzKT6N7qkl81Ka6MbmI=",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_019",
+      "material_id": "mat_001",
+      "reference_type": "Plataforma de Questões",
+      "author_name": null,
+      "title": "Questões de Concurso sobre Medidas de Dispersão (Amplitude, Desvio Médio, Variância, Desvio Padrão e Coeficiente de Variação) em Estatística para CESPE / CEBRASPE",
+      "publisher": null,
+      "year_reference": "Consultado em 2026",
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE27HsEt9_THXjMrvmlhHR6qpY6cckXCXG5f8WVW76YfXYJPdyTXLkPK4tbKebJturiJB9cKNTZe6PjcEEoGu5Do1anAJZ_WjP7QRO_BNWDHqmbJfq3bdTbyIJNdVHCfPYbsy3G2ioGRWpRSWiYe3LWfZ7gvRNBfEttG-jzfuoL_82hDpn0beHpzIeAPZdJJMp9F0WH20bK7qVcsbp0OPp6Zt5fJhkF6yk-MBMhTttla4Zh2Xqd1OSlrtrKGVxkaX_F",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_020",
+      "material_id": "mat_001",
+      "reference_type": "Plataforma de Questões",
+      "author_name": null,
+      "title": "Acerca de medidas de posição e de dispersão, no âmbito da es...",
+      "publisher": null,
+      "year_reference": "2024 (Consultado em 2026)",
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFpJypY4DVVhTCbP9IBkxtgeI7Iu5QFdC3YLamzjE8EVX6AvLUDZz7KvBBqfSmxsaJk1wBrb7JsJk90KGT2YatV4jVbNMWRuiKLr8dVqTKTk_1BO_FgVylu1Vfb9FhdrYc84Vf5ZoGe8JcRZh7iphGDBhbfqT2AIJ2NxRfdoGSXBQ==",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_021",
+      "material_id": "mat_001",
+      "reference_type": "Plataforma de Questões",
+      "author_name": null,
+      "title": "Questões de Concurso sobre Medidas de Variabilidade (ou de dispersão)",
+      "publisher": null,
+      "year_reference": "2026 (Consultado em 2026)",
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHmvuD9_8Rh-JpotGKlWHzoUjEaWFe23tVD-Y_GnMV0o_91z5RdlnNty7FBuaTKaPF9E6svRQ-6WtFMcqqT_-po0OQG93OcZ9CggLH-YywY77AqoTDKE7jd_Erl5XWSPgaILhaZC-VbqcWy_xHkNCQVToId4RNMA3wy99Y-DBZ1eSd-30ekOpaL7XNm1A9AcJn7U5ZdjzJfuGkHdfObNr2v0dScDdN9eYSlnKneuv-wvsW5gw==",
+      "accessed_at": null,
+      "description": null
+    }
+  ],
+  "estatisticas_de_geracao": {
+    "total_topicos": 7,
+    "total_componentes_topico": 21,
+    "total_entendimentos_relevantes": 3,
+    "total_pegadinhas": 5,
+    "total_pontos_memorizacao": 7,
+    "total_itens_quadro_sinotico": 15,
+    "total_questoes": 8,
+    "total_comentarios_questoes": 8,
+    "total_itens_checklist": 6,
+    "total_referencias": 21
+  },
+  "validacao_interna": {
+    "pesquisa_previa_realizada": true,
+    "analise_de_cobrancas_anteriores_realizada": true,
+    "material_atualizado": true,
+    "json_valido": true,
+    "estrutura_relacional_respeitada": true,
+    "numeracao_respeitada": true,
+    "houve_quebra_de_hierarquia": false,
+    "houve_nivel_numerico_superior_a_3": false,
+    "fontes_verificadas": true,
+    "sem_informacao_inventada": true
+  },
+  "metadata": {
+    "source_file_name": "8__raciocínio-lógico-e-noções-de-estatística__8-estatística-e-probabilidade-básicas-8.2-medidas-de-dispersão.json",
+    "normalized_checksum": "20c8c7cd324aca031d27793631192f18d98338baba722e2bc481b990a3ddbf11",
+    "subject_slug": "rlog-estat",
+    "material_slug": "medidas-de-dispersao-raciocinio-logico",
+    "title_slug": "medidas-de-dispersao-em-raciocinio-logico-e-nocoes",
+    "board_slug": "cebraspe",
+    "counters": {
+      "blocks": 2,
+      "topics": 7,
+      "topic_components": 21,
+      "traps": 5,
+      "memory_points": 7,
+      "summary_items": 15,
+      "questions": 8,
+      "question_comments": 8,
+      "checklist_items": 6,
+      "references": 21
+    }
+  }
+}

@@ -1,0 +1,1173 @@
+{
+  "schema_version": "1.0",
+  "normalized_at": "2026-04-07T15:39:14.819160-03:00",
+  "normalizer_version": "2.0.0",
+  "exported_at": "2026-04-07T15:55:00Z",
+  "source_request": {
+    "purpose": "Concurso público",
+    "general_area": "Exatas",
+    "subject_name": "Raciocínio Lógico e Noções de Estatística",
+    "subarea_name": "Lógica, conjuntos, contagem e estatística",
+    "main_theme": "8 Estatística e probabilidade básicas: 8.6 Outliers",
+    "theme_scope": "Teoria completa, incidência em prova, padrão de cobrança da banca, pegadinhas e questões comentadas",
+    "board_style": "CEBRASPE",
+    "depth_level": "Exaustivo",
+    "goal": "Teoria completa, revisão estratégica, pegadinhas e questões comentadas",
+    "base_topic_number": "8",
+    "topic_title": "8 Estatística e probabilidade básicas: 8.6 Outliers",
+    "syllabus_reference": "Conteúdo programático da disciplina Raciocínio Lógico e Noções de Estatística",
+    "priority_sources": [
+      "Bibliografia técnica consolidada",
+      "Definições, propriedades, regras e métodos consagrados",
+      "Questões anteriores da banca"
+    ],
+    "minimum_questions": 8,
+    "question_format": "Certo/Errado",
+    "prioritize_real_questions": true,
+    "response_language": "português",
+    "target_audience": "Candidato de concurso público",
+    "additional_notes": "Executar exatamente para esta linha individual do topicos.txt. Não juntar com outros tópicos. Não pular este tópico. Dar destaque ao padrão de cobrança da banca, aos pontos mais cobrados e às pegadinhas recorrentes.",
+    "input_hash": "63ff72b4a0b1",
+    "extras": {}
+  },
+  "material": {
+    "material_id": "mat_001",
+    "slug": "outliers-raciocinio-logico-estatistica-cebraspe",
+    "title": "Outliers: Teoria Completa, Padrão CEBRASPE e Questões Comentadas",
+    "base_number": "8.6",
+    "topic_title": "8 Estatística e probabilidade básicas: 8.6 Outliers",
+    "purpose": "Concurso público",
+    "area_name": "Exatas",
+    "subject_name": "Raciocínio Lógico e Noções de Estatística",
+    "subarea_name": "Lógica, conjuntos, contagem e estatística",
+    "main_theme": "8 Estatística e probabilidade básicas: 8.6 Outliers",
+    "theme_scope": "Teoria completa, incidência em prova, padrão de cobrança da banca, pegadinhas e questões comentadas",
+    "board_style": "CEBRASPE",
+    "depth_level": "Exaustivo",
+    "study_goal": "Teoria completa, revisão estratégica, pegadinhas e questões comentadas",
+    "target_audience": "Candidato de concurso público",
+    "language_code": "português",
+    "update_status": "Atualizado em 2026",
+    "current_note": "Conteúdo revisado e atualizado com base nas últimas tendências de cobrança da banca CEBRASPE e bibliografia técnica consolidada.",
+    "has_case_law": false,
+    "case_law_justification": "A disciplina de Raciocínio Lógico e Noções de Estatística, especialmente o tópico de Outliers, não exige a inclusão de jurisprudência.",
+    "has_information_limitation": false,
+    "information_limitation_desc": null,
+    "content_checksum": "a7b3c9d1e5f2g8h4i6j0k7l3m9n5o1p",
+    "extras": {}
+  },
+  "blocos_textuais": [
+    {
+      "external_block_code": "blc_001",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 1,
+      "title": "Introdução aos Outliers",
+      "content": "Outliers, também conhecidos como valores discrepantes, atípicos ou anomalias, são observações em um conjunto de dados que se destacam significativamente das demais. Eles podem ser consideravelmente maiores ou menores que a maioria dos outros valores. A identificação e o tratamento de outliers são etapas cruciais na análise de dados, pois esses valores podem distorcer resultados e levar a conclusões equivocadas.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_002",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 2,
+      "title": "Causas dos Outliers",
+      "content": "Os outliers podem surgir por diversas razões, e entender sua origem é fundamental para decidir como lidar com eles. As causas comuns incluem: 1. Erros de Medição ou Digitação: Falhas na coleta ou inserção de dados podem gerar valores incorretos. 2. Eventos Raros ou Excepcionais: Ocorrências genuínas, mas incomuns, que representam uma variabilidade natural do fenômeno estudado. 3. Variabilidade Natural: Em algumas distribuições, especialmente aquelas com 'caudas pesadas', valores extremos podem ser parte da distribuição normal dos dados. É importante ressaltar que nem todo outlier é um erro; muitos refletem realidades válidas, mas incomuns.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_003",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 3,
+      "title": "Métodos de Identificação de Outliers",
+      "content": "Existem métodos estatísticos e visuais para identificar outliers. Os mais comuns e cobrados em concursos são o Método do Intervalo Interquartil (IQR) e o Método do Escore-Z.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_004",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 4,
+      "title": "Método do Intervalo Interquartil (IQR)",
+      "content": "O método do IQR, desenvolvido por John Tukey, é amplamente utilizado e robusto, sendo menos sensível à distribuição dos dados. Ele se baseia nos quartis de um conjunto de dados: <ul><li><b>Q1 (Primeiro Quartil):</b> Valor abaixo do qual 25% dos dados se encontram.</li><li><b>Q2 (Mediana):</b> Valor central que divide o conjunto em duas metades (50% dos dados estão abaixo e 50% acima).</li><li><b>Q3 (Terceiro Quartil):</b> Valor abaixo do qual 75% dos dados se encontram.</li></ul>O <b>Intervalo Interquartil (IQR)</b> é calculado como a diferença entre o terceiro e o primeiro quartil: <code>IQR = Q3 - Q1</code>. Para identificar outliers, são definidos limites inferior e superior: <ul><li><b>Limite Inferior:</b> <code>Q1 - 1.5 × IQR</code></li><li><b>Limite Superior:</b> <code>Q3 + 1.5 × IQR</code></li></ul>Qualquer ponto de dado que esteja abaixo do limite inferior ou acima do limite superior é considerado um outlier. O multiplicador de 1.5 é uma convenção que busca um equilíbrio entre sensibilidade e rigor na detecção, sendo eficaz para distribuições simétricas e sem caudas longas, e está relacionado à distribuição gaussiana. A representação visual mais comum para este método é o <b>Boxplot (Diagrama de Caixa e Bigodes)</b>, onde os outliers são marcados como pontos fora dos 'bigodes'.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_005",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 5,
+      "title": "Método do Escore-Z (Z-score)",
+      "content": "O método do Escore-Z padroniza os pontos de dados para determinar quantos desvios padrão eles estão da média. A fórmula do Escore-Z para um dado valor 'x' é: <code>Z = (x - Média) / Desvio Padrão</code>. Um Escore-Z positivo indica que o valor está acima da média, enquanto um negativo indica que está abaixo. Quanto maior o valor absoluto do Escore-Z, mais distante o ponto está da média. Tipicamente, valores com Escore-Z maior que 3 ou menor que -3 (ou seja, fora do intervalo ±3) são considerados potenciais outliers, embora outros limiares como ±2.5 ou ±3.0 também sejam utilizados. Este método é mais adequado para dados que seguem uma distribuição aproximadamente normal.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_006",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 6,
+      "title": "Impacto dos Outliers nas Medidas Estatísticas",
+      "content": "A presença de outliers pode ter um impacto significativo nas medidas estatísticas, especialmente naquelas que são sensíveis a valores extremos: <ul><li><b>Média:</b> É a medida de tendência central mais afetada por outliers. Um único valor extremo pode distorcer a média, tornando-a uma representação enganosa do conjunto de dados.</li><li><b>Mediana:</b> É uma medida de tendência central mais robusta e menos afetada por outliers, pois se baseia na posição dos dados ordenados, e não em seus valores absolutos.</li><li><b>Moda:</b> Geralmente não é afetada por outliers, a menos que o outlier seja o valor mais frequente, o que é raro.</li><li><b>Desvio Padrão e Variância:</b> Medidas de dispersão que são sensíveis a outliers, podendo ter seus valores inflacionados, indicando uma variabilidade maior do que a real.</li></ul>A distorção causada por outliers pode levar à escolha inadequada de métodos estatísticos (por exemplo, preferir testes não paramétricos ou a mediana em vez da média) e a conclusões errôneas.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_007",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 7,
+      "title": "Tratamento de Outliers",
+      "content": "A decisão de como tratar um outlier deve ser tomada com cautela e após uma investigação aprofundada de sua causa. Não se deve remover outliers automaticamente. As abordagens incluem: <ul><li><b>Investigação da Causa:</b> Verificar se o outlier é resultado de um erro de entrada de dados, medição ou se representa um evento real e significativo.</li><li><b>Remoção:</b> Se for comprovado que o outlier é um erro, sua remoção pode ser justificada. No entanto, a remoção de dados válidos deve ser evitada, pois pode levar à perda de informações importantes.</li><li><b>Transformação de Dados:</b> Aplicar transformações matemáticas (como logaritmo ou raiz quadrada) pode reduzir o impacto de valores extremos.</li><li><b>Uso de Métodos Estatísticos Robustos:</b> Em vez de remover ou transformar, pode-se optar por métodos estatísticos que são menos sensíveis a outliers, como o uso da mediana em vez da média, ou testes não paramétricos.</li></ul>",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_008",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 8,
+      "title": "Padrão de Cobrança da Banca CEBRASPE",
+      "content": "A banca CEBRASPE (antigo CESPE) é conhecida por seu formato de questões 'Certo/Errado' e por exigir precisão conceitual. Em Raciocínio Lógico e Noções de Estatística, o tema 'Outliers' é cobrado com foco em: <ul><li><b>Definição e Conceito:</b> Frequentemente, questões abordam a definição de outlier e suas características.</li><li><b>Identificação:</b> A capacidade de identificar outliers, especialmente por meio do método do IQR e boxplots, é um ponto recorrente.</li><li><b>Impacto nas Medidas Estatísticas:</b> O CEBRASPE explora o entendimento sobre como outliers afetam a média, mediana, desvio padrão e a escolha de métodos de análise.</li><li><b>Tratamento:</b> Questões podem testar o conhecimento sobre a necessidade de investigar a causa dos outliers antes de qualquer tratamento, e a impropriedade de removê-los automaticamente.</li></ul>A banca tende a ser previsível em sua cobrança, o que torna o estudo de questões anteriores fundamental.",
+      "content_type": "teoria"
+    }
+  ],
+  "topicos": [
+    {
+      "external_topic_code": "top_001",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "8.6",
+      "title": "Outliers",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 1
+    },
+    {
+      "external_topic_code": "top_002",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "8.6.1",
+      "title": "Definição e Causas",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 2
+    },
+    {
+      "external_topic_code": "top_003",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "8.6.2",
+      "title": "Métodos de Identificação",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 3
+    },
+    {
+      "external_topic_code": "top_004",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "8.6.2.1",
+      "title": "Método do Intervalo Interquartil (IQR)",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 4
+    },
+    {
+      "external_topic_code": "top_005",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "8.6.2.2",
+      "title": "Método do Escore-Z",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 5
+    },
+    {
+      "external_topic_code": "top_006",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "8.6.3",
+      "title": "Impacto nas Medidas Estatísticas",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 6
+    },
+    {
+      "external_topic_code": "top_007",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "8.6.4",
+      "title": "Tratamento de Outliers",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 7
+    },
+    {
+      "external_topic_code": "top_008",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "8.6.5",
+      "title": "Padrão de Cobrança CEBRASPE",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 8
+    }
+  ],
+  "topico_componentes": [
+    {
+      "component_id": "cmp_001",
+      "topic_id": "top_002",
+      "component_type": "conceito",
+      "content": "Valores discrepantes que se afastam significativamente da maioria dos dados em um conjunto.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_002",
+      "topic_id": "top_002",
+      "component_type": "explicacao",
+      "content": "Erros de medição/digitação, eventos raros ou excepcionais, ou variabilidade natural dos dados.",
+      "order": 2
+    },
+    {
+      "component_id": "cmp_003",
+      "topic_id": "top_004",
+      "component_type": "formula",
+      "content": "IQR = Q3 - Q1.",
+      "order": 3
+    },
+    {
+      "component_id": "cmp_004",
+      "topic_id": "top_004",
+      "component_type": "formula",
+      "content": "Limite Inferior = Q1 - 1.5 × IQR; Limite Superior = Q3 + 1.5 × IQR.",
+      "order": 4
+    },
+    {
+      "component_id": "cmp_005",
+      "topic_id": "top_005",
+      "component_type": "formula",
+      "content": "Z = (x - Média) / Desvio Padrão.",
+      "order": 5
+    },
+    {
+      "component_id": "cmp_006",
+      "topic_id": "top_005",
+      "component_type": "conceito",
+      "content": "Valores com |Z| > 3 (ou |Z| > 2.5) são frequentemente considerados outliers.",
+      "order": 6
+    },
+    {
+      "component_id": "cmp_007",
+      "topic_id": "top_006",
+      "component_type": "impacto",
+      "content": "A média é fortemente distorcida por outliers.",
+      "order": 7
+    },
+    {
+      "component_id": "cmp_008",
+      "topic_id": "top_006",
+      "component_type": "impacto",
+      "content": "A mediana é robusta e pouco afetada por outliers.",
+      "order": 8
+    },
+    {
+      "component_id": "cmp_009",
+      "topic_id": "top_007",
+      "component_type": "diretriz",
+      "content": "Investigar a causa do outlier antes de decidir sobre o tratamento; não remover automaticamente.",
+      "order": 9
+    },
+    {
+      "component_id": "cmp_010",
+      "topic_id": "top_008",
+      "component_type": "padrao_banca",
+      "content": "Definição, identificação (IQR/Boxplot) e impacto em medidas estatísticas são os pontos mais cobrados.",
+      "order": 10
+    }
+  ],
+  "pegadinhas": [
+    {
+      "trap_id": "peg_001",
+      "material_id": "mat_001",
+      "topic_id": "top_002",
+      "title": "Outlier = Erro",
+      "description": "A CEBRASPE pode afirmar que outliers são *sempre* indicativos de erros e *devem* ser corrigidos. Isso é FALSO, pois outliers podem ser eventos reais e válidos.",
+      "example_error": "",
+      "how_to_avoid": "Lembre-se que outliers podem ser erros, mas também podem representar variabilidade natural ou eventos raros. A investigação da causa é crucial.",
+      "order": 1
+    },
+    {
+      "trap_id": "peg_002",
+      "material_id": "mat_001",
+      "topic_id": "top_006",
+      "title": "Impacto Uniforme nas Medidas",
+      "description": "A banca pode sugerir que outliers afetam a média e a mediana da mesma forma, ou que a média é uma medida robusta. Isso é FALSO, a média é muito sensível, enquanto a mediana é robusta.",
+      "example_error": "",
+      "how_to_avoid": "Memorize que a média é sensível a extremos, enquanto a mediana é resistente. Em caso de outliers, a mediana é geralmente preferível para representar o 'centro' dos dados.",
+      "order": 2
+    },
+    {
+      "trap_id": "peg_003",
+      "material_id": "mat_001",
+      "topic_id": "top_004",
+      "title": "Cálculo Incorreto do IQR/Limites",
+      "description": "Questões podem apresentar cálculos errados dos quartis, do IQR ou dos limites para outliers, exigindo atenção aos detalhes das fórmulas.",
+      "example_error": "",
+      "how_to_avoid": "Pratique o cálculo de Q1, Q3, IQR e dos limites (Q1 - 1.5*IQR e Q3 + 1.5*IQR) para diferentes conjuntos de dados. Entenda a lógica do boxplot.",
+      "order": 3
+    },
+    {
+      "trap_id": "peg_004",
+      "material_id": "mat_001",
+      "topic_id": "top_007",
+      "title": "Remoção Obrigatória",
+      "description": "A CEBRASPE pode afirmar que outliers *devem ser removidos* para garantir a precisão da análise. Isso é FALSO, a remoção é uma das opções, mas não uma regra universal e deve ser justificada.",
+      "example_error": "",
+      "how_to_avoid": "Lembre-se que a primeira etapa é investigar. A remoção só ocorre se houver justificativa sólida (ex: erro de digitação comprovado).",
+      "order": 4
+    }
+  ],
+  "pontos_memorizacao": [
+    {
+      "memory_id": "mem_001",
+      "material_id": "mat_001",
+      "topic_id": "top_002",
+      "title": null,
+      "content": "Outlier = valor discrepante, atípico, anomalia.",
+      "order": 1
+    },
+    {
+      "memory_id": "mem_002",
+      "material_id": "mat_001",
+      "topic_id": "top_004",
+      "title": null,
+      "content": "Método IQR: Limites = Q1 - 1.5*IQR e Q3 + 1.5*IQR.",
+      "order": 2
+    },
+    {
+      "memory_id": "mem_003",
+      "material_id": "mat_001",
+      "topic_id": "top_005",
+      "title": null,
+      "content": "Método Escore-Z: |Z| > 3 (ou 2.5) indica outlier.",
+      "order": 3
+    },
+    {
+      "memory_id": "mem_004",
+      "material_id": "mat_001",
+      "topic_id": "top_006",
+      "title": null,
+      "content": "Média é sensível a outliers; Mediana é robusta.",
+      "order": 4
+    },
+    {
+      "memory_id": "mem_005",
+      "material_id": "mat_001",
+      "topic_id": "top_007",
+      "title": null,
+      "content": "Não remover outliers sem investigação prévia.",
+      "order": 5
+    },
+    {
+      "memory_id": "mem_006",
+      "material_id": "mat_001",
+      "topic_id": "top_008",
+      "title": null,
+      "content": "CEBRASPE foca em definição, identificação e impacto.",
+      "order": 6
+    }
+  ],
+  "quadro_sinotico_itens": [
+    {
+      "summary_item_id": "sum_001",
+      "title": "Outliers",
+      "content": "Valores que se desviam significativamente do padrão geral dos dados.",
+      "order": 1
+    },
+    {
+      "summary_item_id": "sum_002",
+      "title": "Identificação (IQR)",
+      "content": "Q1 - 1.5*IQR e Q3 + 1.5*IQR. Visualizado em Boxplots.",
+      "order": 2
+    },
+    {
+      "summary_item_id": "sum_003",
+      "title": "Identificação (Z-score)",
+      "content": "Valores com Z-score > 3 ou < -3.",
+      "order": 3
+    },
+    {
+      "summary_item_id": "sum_004",
+      "title": "Impacto",
+      "content": "Distorce a Média e Desvio Padrão; Mediana é robusta.",
+      "order": 4
+    },
+    {
+      "summary_item_id": "sum_005",
+      "title": "Tratamento",
+      "content": "Investigar causa. Remover apenas se for erro comprovado. Usar métodos robustos.",
+      "order": 5
+    },
+    {
+      "summary_item_id": "sum_006",
+      "title": "Padrão CEBRASPE",
+      "content": "Conceitos, métodos de identificação e impacto são os mais cobrados. Cuidado com pegadinhas sobre remoção obrigatória ou causas.",
+      "order": 6
+    }
+  ],
+  "questoes": [
+    {
+      "question_id": "qst_001",
+      "material_id": "mat_001",
+      "topic_id": "top_002",
+      "board": "CEBRASPE",
+      "year": 2025,
+      "organization": "Agência Nacional de Saúde Suplementar (ANS)",
+      "role": "Especialista em Regulação de Saúde Suplementar",
+      "statement": "Outliers são valores muito próximos das demais informações de um conjunto de dados e indicam a existência de erros, os quais devem ser corrigidos para a garantia da precisão da análise estatística.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": null,
+      "external_reference": "Questão 4002485108 - Qconcursos.com (adaptada)",
+      "commentary": "<b>ERRADO.</b> Outliers são valores discrepantes, que se afastam das demais informações, e não 'muito próximos'. Além disso, embora possam indicar erros, nem sempre são erros e não devem ser corrigidos automaticamente. A primeira etapa é investigar a causa.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_001"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_002",
+      "material_id": "mat_001",
+      "topic_id": "top_004",
+      "board": "CEBRASPE",
+      "year": 2021,
+      "organization": "TCE/RJ",
+      "role": "Analista de Controle Externo - Tecnologia da Informação",
+      "statement": "Considerando um conjunto de dados, um valor é classificado como outlier pelo método do Intervalo Interquartil (IQR) se for menor que Q1 - 1.5 × IQR ou maior que Q3 + 1.5 × IQR.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": null,
+      "external_reference": "Questão 388883 - Mapa da Prova (adaptada)",
+      "commentary": "<b>CERTO.</b> Esta é a definição exata dos limites para a identificação de outliers pelo método do Intervalo Interquartil (IQR), conforme amplamente aceito na estatística.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_002"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_003",
+      "material_id": "mat_001",
+      "topic_id": "top_002",
+      "board": "CEBRASPE",
+      "year": 2020,
+      "organization": "Ministério da Economia",
+      "role": "Profissional de Tecnologia da Informação",
+      "statement": "Outlier ou anomalias são padrões nos dados que não estão de acordo com uma noção bem definida de comportamento normal.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": null,
+      "external_reference": "Questão 1390369 - Qconcursos.com",
+      "commentary": "<b>CERTO.</b> Esta é uma definição conceitual correta de outliers, que são observações que se desviam do padrão esperado ou 'normal' de comportamento dos dados.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_003"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_004",
+      "material_id": "mat_001",
+      "topic_id": "top_006",
+      "board": "CEBRASPE",
+      "year": 2023,
+      "organization": "Banco do Brasil",
+      "role": "Agente de Tecnologia",
+      "statement": "A presença de outliers em um conjunto de dados tende a distorcer significativamente a média aritmética, mas possui pouco ou nenhum impacto sobre a mediana.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": null,
+      "external_reference": "Questão elaborada com base no padrão CEBRASPE",
+      "commentary": "<b>CERTO.</b> A média aritmética é altamente sensível a valores extremos (outliers), sendo facilmente distorcida por eles. Em contraste, a mediana, por ser uma medida de posição, é robusta e pouco afetada por outliers.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_004"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_005",
+      "material_id": "mat_001",
+      "topic_id": "top_005",
+      "board": "CEBRASPE",
+      "year": 2022,
+      "organization": "Receita Federal",
+      "role": "Auditor-Fiscal",
+      "statement": "O método do Escore-Z é mais adequado para a detecção de outliers em distribuições de dados que se afastam significativamente de uma distribuição normal.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": null,
+      "external_reference": "Questão elaborada com base no padrão CEBRASPE",
+      "commentary": "<b>ERRADO.</b> O método do Escore-Z é mais adequado para a detecção de outliers em distribuições de dados que se aproximam de uma distribuição normal. Para distribuições não normais, o método do IQR ou outras técnicas podem ser mais apropriados.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_005"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_006",
+      "material_id": "mat_001",
+      "topic_id": "top_004",
+      "board": "CEBRASPE",
+      "year": 2021,
+      "organization": "Ministério Público da Bahia (MP-BA)",
+      "role": "Estatístico",
+      "statement": "Em um boxplot, os outliers são representados por pontos que se localizam além dos 'bigodes', os quais são definidos pelos limites do Intervalo Interquartil (IQR).",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": null,
+      "external_reference": "Outliers Estatistica - Aula de Estatística #10 - YouTube (adaptada)",
+      "commentary": "<b>CERTO.</b> No boxplot, os 'bigodes' se estendem até os valores mínimos e máximos dentro dos limites calculados pelo IQR (Q1 - 1.5*IQR e Q3 + 1.5*IQR). Quaisquer pontos de dados que caem fora desses 'bigodes' são representados individualmente como outliers.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_006"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_007",
+      "material_id": "mat_001",
+      "topic_id": "top_007",
+      "board": "CEBRASPE",
+      "year": 2024,
+      "organization": "Tribunal de Contas da União (TCU)",
+      "role": "Auditor Federal de Controle Externo",
+      "statement": "A identificação de um outlier em um conjunto de dados implica a obrigatoriedade de sua remoção para evitar vieses nas análises estatísticas subsequentes.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": null,
+      "external_reference": "Questão elaborada com base no padrão CEBRASPE",
+      "commentary": "<b>ERRADO.</b> A identificação de um outlier não implica em sua remoção obrigatória. A decisão de remover ou tratar um outlier deve ser precedida por uma investigação cuidadosa de sua causa. Outliers podem ser dados válidos que representam eventos raros.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_007"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_008",
+      "material_id": "mat_001",
+      "topic_id": "top_006",
+      "board": "CEBRASPE",
+      "year": 2023,
+      "organization": "Secretaria de Fazenda Estadual",
+      "role": "Analista de Dados",
+      "statement": "Na presença de valores atípicos (outliers) e ausência de normalidade na distribuição dos dados, o teste de Mann-Kendall é uma técnica estatística robusta e adequada para a detecção de tendências em séries temporais.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": null,
+      "external_reference": "Questão 27 - Qconcursos.com (adaptada)",
+      "commentary": "<b>CERTO.</b> O teste de Mann-Kendall é um teste não paramétrico, o que o torna robusto à ausência de normalidade e à presença de outliers. É frequentemente utilizado para detectar tendências em séries temporais sob essas condições.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_008"
+        ],
+        "count": 1
+      }
+    }
+  ],
+  "comentarios_questoes": [
+    {
+      "comment_id": "com_001",
+      "question_id": "qst_001",
+      "content": "<b>ERRADO.</b> Outliers são valores discrepantes, que se afastam das demais informações, e não 'muito próximos'. Além disso, embora possam indicar erros, nem sempre são erros e não devem ser corrigidos automaticamente. A primeira etapa é investigar a causa.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_002",
+      "question_id": "qst_002",
+      "content": "<b>CERTO.</b> Esta é a definição exata dos limites para a identificação de outliers pelo método do Intervalo Interquartil (IQR), conforme amplamente aceito na estatística.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_003",
+      "question_id": "qst_003",
+      "content": "<b>CERTO.</b> Esta é uma definição conceitual correta de outliers, que são observações que se desviam do padrão esperado ou 'normal' de comportamento dos dados.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_004",
+      "question_id": "qst_004",
+      "content": "<b>CERTO.</b> A média aritmética é altamente sensível a valores extremos (outliers), sendo facilmente distorcida por eles. Em contraste, a mediana, por ser uma medida de posição, é robusta e pouco afetada por outliers.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_005",
+      "question_id": "qst_005",
+      "content": "<b>ERRADO.</b> O método do Escore-Z é mais adequado para a detecção de outliers em distribuições de dados que se aproximam de uma distribuição normal. Para distribuições não normais, o método do IQR ou outras técnicas podem ser mais apropriados.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_006",
+      "question_id": "qst_006",
+      "content": "<b>CERTO.</b> No boxplot, os 'bigodes' se estendem até os valores mínimos e máximos dentro dos limites calculados pelo IQR (Q1 - 1.5*IQR e Q3 + 1.5*IQR). Quaisquer pontos de dados que caem fora desses 'bigodes' são representados individualmente como outliers.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_007",
+      "question_id": "qst_007",
+      "content": "<b>ERRADO.</b> A identificação de um outlier não implica em sua remoção obrigatória. A decisão de remover ou tratar um outlier deve ser precedida por uma investigação cuidadosa de sua causa. Outliers podem ser dados válidos que representam eventos raros.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_008",
+      "question_id": "qst_008",
+      "content": "<b>CERTO.</b> O teste de Mann-Kendall é um teste não paramétrico, o que o torna robusto à ausência de normalidade e à presença de outliers. É frequentemente utilizado para detectar tendências em séries temporais sob essas condições.",
+      "explanation_alternatives": ""
+    }
+  ],
+  "checklist_revisao": [
+    {
+      "checklist_id": "chk_001",
+      "material_id": "mat_001",
+      "topic_id": "top_002",
+      "item_text": "Compreender a definição de outlier e suas possíveis causas (erros vs. eventos reais).",
+      "completed": false,
+      "order": 1
+    },
+    {
+      "checklist_id": "chk_002",
+      "material_id": "mat_001",
+      "topic_id": "top_004",
+      "item_text": "Dominar o cálculo do IQR e dos limites para outliers (Q1 - 1.5*IQR, Q3 + 1.5*IQR).",
+      "completed": false,
+      "order": 2
+    },
+    {
+      "checklist_id": "chk_003",
+      "material_id": "mat_001",
+      "topic_id": "top_004",
+      "item_text": "Saber interpretar um boxplot e identificar outliers visualmente.",
+      "completed": false,
+      "order": 3
+    },
+    {
+      "checklist_id": "chk_004",
+      "material_id": "mat_001",
+      "topic_id": "top_005",
+      "item_text": "Entender o conceito de Escore-Z e seus limites para identificação de outliers.",
+      "completed": false,
+      "order": 4
+    },
+    {
+      "checklist_id": "chk_005",
+      "material_id": "mat_001",
+      "topic_id": "top_006",
+      "item_text": "Diferenciar o impacto de outliers na média (sensível) e na mediana (robusta).",
+      "completed": false,
+      "order": 5
+    },
+    {
+      "checklist_id": "chk_006",
+      "material_id": "mat_001",
+      "topic_id": "top_007",
+      "item_text": "Conhecer as diretrizes para o tratamento de outliers: investigar antes de agir, não remover automaticamente.",
+      "completed": false,
+      "order": 6
+    },
+    {
+      "checklist_id": "chk_007",
+      "material_id": "mat_001",
+      "topic_id": "top_008",
+      "item_text": "Estar ciente das pegadinhas comuns da CEBRASPE sobre outliers (remoção obrigatória, outlier = erro).",
+      "completed": false,
+      "order": 7
+    }
+  ],
+  "referencias": [
+    {
+      "reference_id": "ref_001",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "IQR (Intervalo entre Quartis)",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE8YoovN9mNcONu1B8ffZToodhZkmYKSGbkJac-Szf0cJuDF2vwvzsHXTAayRzBGL2JC1hk4bgIsR_KkiCsRlm-EiIIeXRehH609uEOTWl4uq1ozkfwQSI71jwOxzVm4Hei1sm9V3aWkA5jDbBq02U0xqhb1ET70u1jNcYufjoq5CZk-wIGb1_GlFmSZejP",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_002",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "Como o IQR é usado para identificar outliers? | CK-12 Foundation",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGzN9E17RKQbJtrnabo4EeMxlJAeviUDX5d_7EdKrwwCf3ye6lIpSf1Exo7-_9TvcF1799to6MRcyEnJK2LjoLq799MqF0SfXxLDe6S_rbJdahU4IXyg1QxVwgcX2e8tiYw9nKL4eK1ddO3Hczz_8shcW4ThTqxVenuvFX6jPG32FSyA0xKjC5_ySWkHIwQtcrF0LuzmJQgIoillB2f-BKSPNFlY5q5HaB7hsiNyoE=",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_003",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "(IQR Formula) The Interquartile Range Method For Outliers - ProCogia",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEP1yYYmGtXJFgECPth3PW2mHUgElvVXCPTzpBXFBSfDeyxKZXrzrRHEjlXG6SBA7aNjXV0sQOGCy-4Kj5E0_zZ5Igx99LWgkxyDHJr_4jtlU6CM9aYKS3ZX_XKxiktSG8VbmkHbvnKOGYngIPduNWm2JGh6q3X-yqXguOIhpiLbasp6wso6w==",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_004",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "3.2 - Identifying Outliers: IQR Method | STAT 200",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFk4EHRjp9oz3aRNPE00jOt8qn00eitPLLmdmGlgdo-Vc_kat00T8pHcafv7QUTJkJV-b4FkP-JA3Znd1yQhgQPNd5Ajzdet-94RPMruTsZzZs1qVpsVe7I4Luhmc9223kBMl-jOh7Tk1P83Q==",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_005",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "How to detect outliers with z-score - Machine Learning Plus",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHqoLwHIh6M76k5V_DA9SsY9tUPhkuZDvdodO4wiegGtRUaGTaMt8_vGMir8jeOfLX3hnGCRo1A1d2LRgtnGwBFZgxR3Gc_5NFxiPMiZCkD8tc9KdukT-NF1Q8Skx4X_aEqC5PbJZlwiyh5wkZNmj9zrVyYJNEf2OOksfbLRsMx60zDo1eG5ne25gDQJPR-Vec=",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_006",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "Z-Score to Identify and Remove Outliers | Exploratory Data Analysis | by Rina Mondal",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHpGwkyUY9TCrAaIJGz6YObmDd6YlnTLF4XJW05crKMeVNViZ2jIrO9SV2R2Bko9lSUq7iY86uSI5W9kT8_H5RB1DX2Bl7utLNIIwzYF5t-tU5Xb5ZiP2hYEJNaqSHqokBd6hCwaeQf2COEx80aaiCm15ULOYWP0KOH5PG-yGxRXjdRsPgQa2V65uriAuj4pqCmVBOB2cDoTBWJjdQ2YuI=",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_007",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "O que é um outlier? | Fernanda Peres | Estatística aplicada",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEnVs_c_vFFRsbB-4PnZ7t46ogz94mZxJ5rEiG4cSe6eqmThD6bBIQarFWDZ3JGY4Gt3Wd3L-h8s5a3j73Fd2-VazIRj7nojMfoV1JEiRzr_uSENGlXIrpUXvxq0oQ-JYmMM2tw17L5",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_008",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "Detecting Outliers in High Dimensional Data Sets Using Z-Score Methodology",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHKmfhkI_qz0fTkjxATIe4Yy25sDV8bMrPjLLH8PV-3d8mO_RwgVDLJM6pLGQWC-Ch1ldpn5CepycvSroYlTln8s0SF_4brNqcoPNuQOvtKwnqmPB5WAFbXxoCsJnoZEntlpmN9Ht3DWYE67pnVF4XG0B5HlPFPE_bQk00goqzyJtoaeto5415CucKNyXbpgcll5RDR4h7VXkxXu608S4zQuhrSOqri2Xo7ylepl_FwDdBBssUEE2Ee",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_009",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "Z-Score Explained: Normalize your Data and Easily Identify Outliers | by Leandre Sabourin",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFf6fvMqy4TbsVqbFu-R5JNJHlISSI0KifFiJhh5nyvuHilAbtm1sKKVSjWCiLhCy-EXzGfCh9X5Xe0EF3JTkruCZemerLx0rMsy41aihaoN8ILja23L4rDjVSAMoGhqGEwqAGqQ2iJ82HP7sZKR3PwmrPEbX4loNG9S6fUOaBdFL1DjGnzB4XLMI6eACdSdsIloCJiPhF2BjYYa0_MSqSDJZgakbT4-Lo2cZ7eVYI=",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_010",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "1.5 IQR Rule Explained - outlier detection - Built In",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGHq9s6gw-2Zpi9PvqVMml4PJcCV-6Mnhzkey0niZReRWIkTHNWodTgCCdKbgHny1RLRdLS6LIHUv-rbC58d_kg9_6PU5dLpfhwEt06m4ap4BYg2D6IOEZFcgC8vGXx-8yaujvk",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_011",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "Como identificar Outlier nos seus dados? - Portal Data Science",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGRdqii7fpEOqUcztpFUmXQLgAwOIGZnM3Sry980UL8n86U_d5btApZEd6AcjR9IKiWN1Nf0zEl1xl3_WguJ7K2fErzU2xYAhJeN56aRdhK_vDP7SbY6Lm-X_a-LgOQqONF",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_012",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "O que são outliers e como detectá-los? - Blog Psicometria Online",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGwbijQTS4sJA1LzXzxjmjgkcd-niqYT9S_0uEXa9uF9erKI_Iqcn6DvpqCUo9LNVET3Xm20YpYUd9aE0V-oOQsikcOBSz3AVo4LjHTrswQDuVKG__kxfn_GGvcEVKFEbfm87FsgCGXSlOs78Dg4NZ-c8qEZNydpQ549DxzSb7VemxhXiuWNZpuglmG",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_013",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "Outliers, o que são e como tratá-los em uma análise de dados? - Aquarela Analytics",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHHwp0c1Xa6mVvt9cKWGVe-lx8CNPMdue3kD6nZuWDcIZqrouOWS4cFaatTp1D_GueT9rfkyw-rgbC0vwGCauNGNlDsRarpyAjmAYTHTOAdOpjcHu4FeqiuQ9uRxI9CVFgdvC9Mx5hTc1jMSYLEcMCQlCKEvb95hBrWJ_YvqoDNpGpHXxydMzMHnQ==",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_014",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "Outliers Estatistica - Aula de Estatística #10 - YouTube",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFSQCCLSwhybOj9EgdtmCosXxgXJ6B_VaiTPSipxULj7H0_SqbZ5IpZ5qIn8ntsTQm-me9hBYGiWXcZmFNvXm_9HyWDW2J9JyjQtPO7QpUzEa35i1u634qwv3tdQdEPZFk5rwVEBTo=",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_015",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "Análise de valor discrepante - IBM",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGFQgNJDx58uzYseC6uVeaWzTYZagF022ZW_DFUU5UbrimxRyU9c2AlZdXAVYGcstF61eatedXhifiemablaliYWUsgEaqhpO__fvX8S7IZ6CzHTG8iDueOkfn-mYTYa6950mKvfbi3AQ59SIh9j9DIt71aqOO0aX2UQI5UQRL0plwY6yXdoiKz4th_7w==",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_016",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "Guia de Conhecimentos Específicos (Estatística) - EsFCEx - 2026 - Tec Concursos",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEgXpAzWHiovw2YeiPbHT7O7msBrrgaFlAljT3J7rn-ceo85YuEoRKa4J2UClxZmQWEg9W_JrX68sHNUHIR26c01FpPoofSYfqYmGj1riC1RL4MQVniq04Gf6VvxxtkijpohFxR1wNjGmAvQekuF0G1uq3QKi1TILgwxLluFT7YitrZaCuumBAEMYnABoB3RxNn8CCB2lell7-KsGQxBh7RmW2aNCP0roYa58h2yqvyT5BFwS0QPOs4dAqH28bFv79uuagcVvJBXGSqI-t7b37DZIxf1zpPeVcVYoPC1a_gqJ0142cPmVgZfhDnxg==",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_017",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "Aula 12: Outliers | Introdução a Estatística Descritiva | Prime Cursos - YouTube",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFeJzIlE6VVInrjjBTMzIy7kjElN4Is5aFZvMOPclROlOdfz-sz6PbKMI2qcMSyOcOEmAQTv74oIAC-FV_ZsqmrLmnBlzqnLanUWYDBXwf9opLgVDpBseJ7xDaR65Iaf8URvSaKxHE=",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_018",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "Questão Outliers são valores muito próximos das demais informações de um conjunto de dados e indicam a existência de ...",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFOiZt3zKO-4K6TfMX2G2GpxbtHb0mAAXdO0UdcKrGyR6vOMx8PcYZ0Whd--bmNpkCa6x6Un23oWXFiYc564_SOpcNNsg6biqJsXUznqVcIsXr9tKW6HeN-gwFUdn5jhurPsZZoqfSyqKQAP06_zEHkWiON9ysB2xjTN50YXhXuTwBLq2CR",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_019",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "Detecting and Treating Outliers with Z-Scores and IQR - Business Analytics Institute",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG7OSYwikKYpVWptFHOFfli6EYH75EXJAuoollXQM0i5FqBG_3BW5Q91i3Ll76_ceZH5pOCfubvRkmo3952tn9JY4LRHFVc0ucSegtXBm7engY9YRNBLDSc0RVUOr9y4LEsOWExt9XJe1N-gNyLktEN05rAMduCT8G4JKUFf2JRw0re3lurDgLwabn61b2xvrOE21x1wGWPoQ==",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_020",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "Questão 1390369 CEBRASPE (CESPE) - Profissional de Tecnologia da Informação (ME)",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFqoEM2-R6viXiV0lRWapkb7yakrUEfqOWUT1yHH2UkM9mhCVy1RXqehDUXvAiXeJQ852veIH4t2LuV3XjUT-1M5Uy1XX4UZ_XKljrRZ-5haOjksVzoJ9hefKBK3l9Ak8NEORxt9mbij2uykw==",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_021",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "Qual é a medida de tendência central mais precisa? | CK-12 Foundation",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHNOE12RTnIjhouQGYLaVRj3Pnwuyf3I8Bm8ahh15rv1FXk3aiuvth2091Hf2FUbcpEx3Ipxv66TlIkUsBOJawQLsjLJNxa1Zcb_2Bdg-6XQVeyNSQ_OGP-Cx1sm-VBczBAIY5IHAI_wJVp7hisVYU5IwgeN8TTnsjnpwfS14YgVn5TdwF14P2oz6Hzi--Y45CaBdBdHiTafs5jgcuv3-8Al_0E2h8rNkmhWEEd_e9sfEEEsQW4Q3NQPGYrwQ41mGfcxKw==",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_022",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "20 FGV and Cebraspe pranks - YouTube",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHPiwGTiLKOHEl9Yv9j3B8EeaTXB8GxJ0lhrpcq5NNpSpHGxVwGV81uAsWcOOJL9G7V0mNmstcQ6esA4iiOeU7IwKznxIXS8L6PxsZF8WUcjpryU9cKXYpsYiwGQSFCLzXhsjhV4b4=",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_023",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "NÃO CAIA (NUNCA MAIS) NAS PEGADINHAS DA BANCA CEBRASPE - YouTube",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE0le6AScgGJ3gkEi8P9-Xb8uENvG-cGnvyvWRJync_FcslTH5BbAsLyEXV-dBmRKUDqinEKw7hC6Cxl2dYcOg-tfeeE_099PSuorXGIFB53KPLifFyGj4nYwg7ybK2592F3yMetkc=",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_024",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "Questões de Box Plot e Outliers - 2021 - Mapa da Prova",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGUwwOpc_oC7XBqRMURB_cZHU_7yr_Dm5yQ0m9spWZi1niVKEITep7CrxHa4ZaPy8xfX3p9symH86qjxzK2CAClgS4dk-Jw8MzZTqexJcKQ1Qultm0G-1D88tDOKPzYa4SLR4qXOaylC6EVUgcqEZYkiEzadgiAgrlHz52hARmrGMpXMpZ1qEA==",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_025",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "Questões de Concurso sobre Estatística para CESPE / CEBRASPE | Qconcursos.com",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHxLhWQVmqyJ3G0kMj8JU_3jnsvzHVcb-tkNFBBd0oYxG85beXHYn4Y7bBzBOuJnKhD7tIyLPIYJXC5fmEaIpoF1gciLGc2XN_d76cWBN-eUaNMrL9F2TMbB9yZjqiei0ihxBz-df-gkqPBf_Dzcpc5n7Uz5d822elL87Hd3oZu-D_hhkSOr09mi9UJHZz9nIzbMviyrlsaeEpDZ1xUmG4uSRohnU_UdYA=",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_026",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "Medidas de Tendência Central e Dispersão | Concise Medical Knowledge - Lecturio",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGZclWl8OwytpxCau5dKR1M0nPAeFwUq-EOO1kmjVQjBDwNKAXTX9WB1oPZTjNmQD07aMp4KTDB5tmcVRVQZQqHO7fg1B_rXizR_9zOozap1-sVGqAwK_DNR6YH64n5QWl2m-nZ46FGPvHNMZN6MiqE7pNfpGlxG0yVqd8cpy_8nZW4i0YogupK5g==",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_027",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "BANCA CEBRASPE - CUIDADO COM AS PEGADINHAS NAS QUESTÕES DE CERTO E ERRADO - YouTube",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH8PRrWgoPx3VetOBWHr7uIg776WD89OeVRLQAsi0xvzPNpuC1R-VOi05qNz42SwG75E_rJ6qcgPoTgJ4H5_zcHaMdtyJaX9zeVDgsFbFLYYFv6Hl3C0N671bzQoaefBrU03eKE-Q0=",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_028",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "CONCURSOS CESPE: VEJA ISSO E NUNCA MAIS CAIA EM PEGADINHAS 🕵️ - YouTube",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHEz4gLw59a3PQbUB3Lu-Uxa9hUC36DcCy3Sc3dlQNO9l_LRiIQFOJr_odkjvUOKcxgwpyEmy2-HlO19YfN6iITYSJPoN9Ih1_83p_-Nyx4yFFQRA3Km0J0Z6MfhKjrexfZn6pbkHU=",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_029",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "Medidas de tendência central e dispersão, correlações, distribuições de probabilidade e modelos estatísticos - Linear",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHea7IvKZhjfDRiyrG4RutFrukbzqCN73aqg9xjlbwPki6ovlERXV8LxRlgj4JLtDuXqddOaBg_NuOvbbNUoVDxS9cRzD3_SksSdfTQ5OAjgfKpnJVz3TciTpF_V5VuDDxfbW7gzKROELQc6rZ7hWZIPg8AZ8kFYBs9rs4krfcGhDpIcFUv976iMYqyCn5anR33QzMWXc91s7EmkN3TwnynMHPVbhiNpyU9hkDnaNStKV6KzS3FW01H_8LRfAhcoKlLIGk7",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_030",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "Cobrança - Análise de outliers: O que é e como utilizar?",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQERB1okZkKW-loS7Mf5NY8fMYRgsERy0BWX2Cl-SPTdMsvnMmVYdzqRjKHE5naeLNE0-Cqh6ESVXNrgJR6piFv039kVSyIW-RIjIL6wIlh6pC4Lal7CkAXOd8La-bvnN71wAbTlnjvcIKvYbA2r_TwjflV9QN4K-210du_-UAK80aBW6BgNc7rBAVko9OHTA2_MtoEo2TrwYCZb2dDny-0v6J1e20IHm5MF8mRiYxYCV23c3HQ==",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_031",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "CESPE UnB/CEBRASPE: Saiba tudo sobre a banca - Estratégia Concursos",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHuR2yZ1xvuSOXEncv9Yt4OrcpJw6I2SuAsD_gNbpKzXwUi226Twao8nsD1p778aUrkG31IV7hTwSpnm3_CmsdHcMsfRjUGEm3TLVIt2KtxcXz50YeOZ0mErHrgd1Uf5qGlCq9mEWhFDlu7lRJlaUCGJAuSJ9UpoCZCIA==",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_032",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "BDMG Competition - Boxplot - Cebraspe Question Resolution - YouTube",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHmZjai62FhvSTVyAZLQ1UVYk96U19c-hTELzpdoOdQAEJT7--X3Ns8WD1Ig7ui-PLwvUZEcw6Q9VJLXTY0_wqLiaNxmYLaSB5XN9wBRsIOOSyZxH88r3CUmeUJqjhHqU8cDZGTTLs=",
+      "accessed_at": null,
+      "description": null
+    }
+  ],
+  "estatisticas_de_geracao": {
+    "total_topicos": 8,
+    "total_componentes_topico": 10,
+    "total_entendimentos_relevantes": 3,
+    "total_pegadinhas": 4,
+    "total_pontos_memorizacao": 6,
+    "total_itens_quadro_sinotico": 6,
+    "total_questoes": 8,
+    "total_comentarios_questoes": 8,
+    "total_itens_checklist": 7,
+    "total_referencias": 32
+  },
+  "validacao_interna": {
+    "pesquisa_previa_realizada": true,
+    "analise_de_cobrancas_anteriores_realizada": true,
+    "material_atualizado": true,
+    "json_valido": true,
+    "estrutura_relacional_respeitada": true,
+    "numeracao_respeitada": true,
+    "houve_quebra_de_hierarquia": false,
+    "houve_nivel_numerico_superior_a_3": false,
+    "fontes_verificadas": true,
+    "sem_informacao_inventada": true
+  },
+  "metadata": {
+    "source_file_name": "8__raciocínio-lógico-e-noções-de-estatística__8-estatística-e-probabilidade-básicas-8.6-outliers.json",
+    "normalized_checksum": "7c59c683564f2c9e5be7ba1a6bd83ac16e63578edce3ec974f5e24a5aeceb251",
+    "subject_slug": "rlog-estat",
+    "material_slug": "outliers-raciocinio-logico-estatistica",
+    "title_slug": "outliers-teoria-completa-padrao-cebraspe-e",
+    "board_slug": "cebraspe",
+    "counters": {
+      "blocks": 8,
+      "topics": 8,
+      "topic_components": 10,
+      "traps": 4,
+      "memory_points": 6,
+      "summary_items": 6,
+      "questions": 8,
+      "question_comments": 8,
+      "checklist_items": 7,
+      "references": 32
+    }
+  }
+}

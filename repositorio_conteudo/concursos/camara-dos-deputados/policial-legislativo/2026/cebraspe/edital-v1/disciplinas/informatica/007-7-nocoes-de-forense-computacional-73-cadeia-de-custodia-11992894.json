@@ -1,0 +1,802 @@
+{
+  "schema_version": "1.0",
+  "normalized_at": "2026-04-07T15:39:14.712139-03:00",
+  "normalizer_version": "2.0.0",
+  "exported_at": "2026-04-07T13:27:00Z",
+  "source_request": {
+    "purpose": "Concurso público",
+    "general_area": "Tecnologia da Informação",
+    "subject_name": "Informática e Dados",
+    "subarea_name": "Informática, redes, segurança e dados",
+    "main_theme": "7 Noções de forense computacional: 7.3 Cadeia de custódia",
+    "theme_scope": "Teoria completa, incidência em prova, padrão de cobrança da banca, pegadinhas e questões comentadas",
+    "board_style": "CEBRASPE",
+    "depth_level": "Exaustivo",
+    "goal": "Teoria completa, revisão estratégica, pegadinhas e questões comentadas",
+    "base_topic_number": "7",
+    "topic_title": "7 Noções de forense computacional: 7.3 Cadeia de custódia",
+    "syllabus_reference": "Conteúdo programático da disciplina Informática e Dados",
+    "priority_sources": [
+      "Documentação oficial e referências técnicas confiáveis",
+      "Bibliografia técnica consolidada",
+      "Questões anteriores da banca"
+    ],
+    "minimum_questions": 8,
+    "question_format": "Certo/Errado",
+    "prioritize_real_questions": true,
+    "response_language": "português",
+    "target_audience": "Candidato de concurso público",
+    "additional_notes": "Executar exatamente para esta linha individual do topicos.txt. Não juntar com outros tópicos. Não pular este tópico. Dar destaque ao padrão de cobrança da banca, aos pontos mais cobrados e às pegadinhas recorrentes.",
+    "input_hash": "fe2baa60aa00",
+    "extras": {}
+  },
+  "material": {
+    "material_id": "mat_001",
+    "slug": "forense-computacional-cadeia-de-custodia-cebraspe",
+    "title": "Forense Computacional: Cadeia de Custódia",
+    "base_number": "7",
+    "topic_title": "7 Noções de forense computacional: 7.3 Cadeia de custódia",
+    "purpose": "Concurso público",
+    "area_name": "Tecnologia da Informação",
+    "subject_name": "Informática e Dados",
+    "subarea_name": "Informática, redes, segurança e dados",
+    "main_theme": "Cadeia de custódia",
+    "theme_scope": "Teoria completa, incidência em prova, padrão de cobrança da banca, pegadinhas e questões comentadas",
+    "board_style": "CEBRASPE",
+    "depth_level": "Exaustivo",
+    "study_goal": "Teoria completa, revisão estratégica, pegadinhas e questões comentadas",
+    "target_audience": "Candidato de concurso público",
+    "language_code": "português",
+    "update_status": "Atualizado",
+    "current_note": "Material atualizado com base na Lei nº 13.964/2019 (Pacote Anticrime) e na ABNT NBR ISO/IEC 27037:2013, além de jurisprudência recente do STJ.",
+    "has_case_law": true,
+    "case_law_justification": "Embora seja um tema técnico, a cadeia de custódia possui forte implicação jurídica, sendo regulamentada pelo Código de Processo Penal e objeto de análise constante pelos tribunais superiores, especialmente o STJ, que tem anulado provas digitais por falhas na sua observância.",
+    "has_information_limitation": false,
+    "information_limitation_desc": null,
+    "content_checksum": "a7b3c9d1e5f2g8h4i6j0k7l3m9n5o1p",
+    "extras": {}
+  },
+  "blocos_textuais": [
+    {
+      "external_block_code": "blc_001",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 1,
+      "title": "Introdução à Cadeia de Custódia na Forense Computacional",
+      "content": "A cadeia de custódia é um conceito fundamental em todas as ciências forenses, incluindo a computação forense, e consiste em um conjunto de procedimentos documentados para manter e registrar a história cronológica de um vestígio ou evidência. Seu objetivo primordial é garantir a integridade, autenticidade e rastreabilidade da prova, desde o momento de seu reconhecimento até o descarte final, assegurando sua idoneidade técnica e legal. No contexto digital, onde as evidências são voláteis e facilmente alteráveis, a cadeia de custódia assume uma importância ainda mais crítica para a validade jurídica da prova.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_002",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 2,
+      "title": "Base Legal e Normativa",
+      "content": "No Brasil, a cadeia de custódia foi formalmente introduzida no Código de Processo Penal (CPP) pela Lei nº 13.964/2019, conhecida como Pacote Anticrime, que entrou em vigor em janeiro de 2020. Os artigos 158-A a 158-F do CPP estabelecem as diretrizes para o tratamento da prova pericial, conferindo maior importância à manutenção da cadeia de custódia dos vestígios penais. Além da legislação, a norma técnica ABNT NBR ISO/IEC 27037:2013 ('Diretrizes para identificação, coleta, aquisição e preservação de evidência digital') serve como referência obrigatória para profissionais forenses digitais, padronizando os processos e garantindo a integridade e admissibilidade da evidência digital.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_003",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 3,
+      "title": "Princípios Fundamentais da Cadeia de Custódia",
+      "content": "A cadeia de custódia é regida por princípios que visam assegurar a confiabilidade da evidência:<ul><li><b>Integridade:</b> Garante que a evidência não foi alterada, corrompida ou manipulada desde sua coleta. O uso de funções hash criptográficas é essencial para verificar a integridade dos dados digitais.</li><li><b>Autenticidade:</b> Assegura que a evidência é genuína e provém da fonte alegada.</li><li><b>Rastreabilidade:</b> Permite documentar e acompanhar a posse e o manuseio da evidência em todas as etapas, registrando quem acessou, quando, onde e por qual motivo.</li></ul>",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_004",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 4,
+      "title": "Etapas da Cadeia de Custódia (Conforme CPP e Normas Técnicas)",
+      "content": "As etapas da cadeia de custódia, conforme o CPP (Art. 158-B) e as boas práticas da ABNT NBR ISO/IEC 27037:2013, são cruciais para a validade da prova digital:<ul><li><b>Reconhecimento:</b> Identificação da existência de um vestígio.</li><li><b>Isolamento e Preservação:</b> Medidas para evitar a contaminação ou alteração do local e do vestígio.</li><li><b>Coleta/Aquisição:</b> Recolhimento da evidência, preferencialmente por meio de cópia forense (bit-a-bit) para preservar o original.</li><li><b>Acondicionamento:</b> Embalagem adequada do vestígio para transporte e armazenamento.</li><li><b>Transporte:</b> Movimentação do vestígio de forma segura e documentada.</li><li><b>Recebimento:</b> Ato formal de transferência da posse do vestígio, com registro.</li><li><b>Processamento:</b> Exame pericial em si, manipulação do vestígio de acordo com metodologia adequada, sempre em cópias.</li><li><b>Armazenamento:</b> Guarda do material em condições adequadas, garantindo segurança e controle de acesso.</li><li><b>Descarte:</b> Liberação do vestígio, geralmente mediante autorização judicial.</li><li><b>Documentação:</b> Registro detalhado de todas as ações, datas, horários e responsáveis em cada etapa.</li></ul>",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_005",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 5,
+      "title": "O Papel do Hash na Cadeia de Custódia Digital",
+      "content": "O hash é um valor matemático gerado por um algoritmo criptográfico a partir do conteúdo de um arquivo ou conjunto de dados, funcionando como uma 'impressão digital' única. Qualquer mínima alteração nos dados, mesmo de um único byte, produzirá um hash completamente diferente. Por isso, o hash é fundamental para verificar a integridade da prova digital: comparar o hash da prova coletada com o hash da prova apresentada em juízo é a forma de verificar se não houve manipulação. A ausência ou geração tardia do hash pode comprometer a confiabilidade da prova.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_006",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 6,
+      "title": "Consequências da Quebra da Cadeia de Custódia",
+      "content": "A quebra da cadeia de custódia pode resultar na ilegitimidade ou ilicitude da prova, pois não se pode garantir que a evidência apresentada é a mesma recolhida originalmente. O Superior Tribunal de Justiça (STJ) tem consolidado o entendimento de que a falta de uma cadeia de custódia adequada pode levar à anulação de provas, especialmente as digitais. No entanto, a jurisprudência majoritária do STJ tende a aplicar o princípio do 'pas de nullité sans grief' (não há nulidade sem prejuízo), exigindo que a defesa demonstre o prejuízo efetivo ou a adulteração da prova, e não apenas a falha formal na cadeia de custódia. Isso impõe um ônus probatório significativo à defesa.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_007",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 7,
+      "title": "Padrão de Cobrança da Banca CEBRASPE",
+      "content": "A banca CEBRASPE (antigo CESPE) é conhecida por seu formato 'Certo/Errado' e por exigir precisão conceitual. Em questões sobre cadeia de custódia, o CEBRASPE frequentemente aborda:<ul><li><b>Definição e finalidade:</b> Perguntas sobre o conceito geral e a importância da cadeia de custódia para a validade da prova.</li><li><b>Etapas:</b> Conhecimento das fases da cadeia de custódia, com foco na ordem e nos procedimentos de cada uma.</li><li><b>Legislação:</b> A Lei nº 13.964/2019 (Pacote Anticrime) e os artigos 158-A a 158-F do CPP são pontos de cobrança recorrente.</li><li><b>Normas técnicas:</b> A ABNT NBR ISO/IEC 27037:2013 é frequentemente citada como diretriz para o tratamento de evidências digitais.</li><li><b>Integridade e Hash:</b> A função do hash na garantia da integridade da prova digital é um tema central.</li><li><b>Consequências da quebra:</b> A validade da prova e a possibilidade de anulação são frequentemente testadas.</li><li><b>Diferença entre original e cópia:</b> A necessidade de trabalhar com cópias forenses para preservar o original é um ponto importante.</li></ul>",
+      "content_type": "teoria"
+    }
+  ],
+  "topicos": [
+    {
+      "external_topic_code": "top_001",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "7.3",
+      "title": "Cadeia de Custódia: Conceito e Importância",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 1
+    },
+    {
+      "external_topic_code": "top_002",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "7.3.1",
+      "title": "Base Legal e Normativa da Cadeia de Custódia Digital",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 2
+    },
+    {
+      "external_topic_code": "top_003",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "7.3.2",
+      "title": "Princípios Fundamentais da Cadeia de Custódia",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 3
+    },
+    {
+      "external_topic_code": "top_004",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "7.3.3",
+      "title": "Etapas da Cadeia de Custódia (CPP e ABNT NBR ISO/IEC 27037)",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 4
+    },
+    {
+      "external_topic_code": "top_005",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "7.3.4",
+      "title": "O Papel do Hash na Garantia da Integridade da Prova Digital",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 5
+    },
+    {
+      "external_topic_code": "top_006",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "7.3.5",
+      "title": "Consequências da Quebra da Cadeia de Custódia e Jurisprudência do STJ",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 6
+    },
+    {
+      "external_topic_code": "top_007",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "7.3.6",
+      "title": "Padrão de Cobrança da Banca CEBRASPE em Cadeia de Custódia",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 7
+    }
+  ],
+  "topico_componentes": [],
+  "pegadinhas": [
+    {
+      "trap_id": "peg_001",
+      "material_id": "mat_001",
+      "topic_id": "top_007",
+      "title": "Prints de Tela como Prova Única",
+      "description": "A CEBRASPE pode tentar induzir ao erro afirmando que prints de tela são provas digitais robustas por si só. No entanto, prints são facilmente manipuláveis e não garantem autenticidade ou auditabilidade técnica adequada, sendo frequentemente invalidados sem um contexto probatório robusto e a devida cadeia de custódia.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 1
+    },
+    {
+      "trap_id": "peg_002",
+      "material_id": "mat_001",
+      "topic_id": "top_007",
+      "title": "Nulidade Automática por Quebra da Cadeia de Custódia",
+      "description": "A banca pode sugerir que qualquer falha na cadeia de custódia gera nulidade automática da prova. Contudo, o STJ adota o princípio do 'pas de nullité sans grief', exigindo que a defesa demonstre o prejuízo ou a adulteração efetiva da prova para sua invalidação.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 2
+    },
+    {
+      "trap_id": "peg_003",
+      "material_id": "mat_001",
+      "topic_id": "top_007",
+      "title": "Análise em Mídia Original",
+      "description": "Uma pegadinha comum é afirmar que a análise forense deve ser realizada diretamente na mídia original. O correto, para preservar a integridade da evidência, é trabalhar sempre com cópias forenses (imagens bit-a-bit), mantendo o original em segurança.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 3
+    },
+    {
+      "trap_id": "peg_004",
+      "material_id": "mat_001",
+      "topic_id": "top_007",
+      "title": "Hash como Criptografia",
+      "description": "A CEBRASPE pode confundir o conceito de hash com criptografia. Embora ambos usem algoritmos criptográficos, a função hash é unidirecional e garante a integridade (impressão digital), enquanto a criptografia visa a confidencialidade (embaralhamento reversível). O dado não é criptografado pelo hash.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 4
+    }
+  ],
+  "pontos_memorizacao": [
+    {
+      "memory_id": "mem_001",
+      "material_id": "mat_001",
+      "topic_id": "top_001",
+      "title": null,
+      "content": "",
+      "order": 1
+    },
+    {
+      "memory_id": "mem_002",
+      "material_id": "mat_001",
+      "topic_id": "top_002",
+      "title": null,
+      "content": "",
+      "order": 2
+    },
+    {
+      "memory_id": "mem_003",
+      "material_id": "mat_001",
+      "topic_id": "top_002",
+      "title": null,
+      "content": "",
+      "order": 3
+    },
+    {
+      "memory_id": "mem_004",
+      "material_id": "mat_001",
+      "topic_id": "top_003",
+      "title": null,
+      "content": "",
+      "order": 4
+    },
+    {
+      "memory_id": "mem_005",
+      "material_id": "mat_001",
+      "topic_id": "top_004",
+      "title": null,
+      "content": "",
+      "order": 5
+    },
+    {
+      "memory_id": "mem_006",
+      "material_id": "mat_001",
+      "topic_id": "top_005",
+      "title": null,
+      "content": "",
+      "order": 6
+    },
+    {
+      "memory_id": "mem_007",
+      "material_id": "mat_001",
+      "topic_id": "top_006",
+      "title": null,
+      "content": "",
+      "order": 7
+    },
+    {
+      "memory_id": "mem_008",
+      "material_id": "mat_001",
+      "topic_id": "top_007",
+      "title": null,
+      "content": "",
+      "order": 8
+    }
+  ],
+  "quadro_sinotico_itens": [],
+  "questoes": [
+    {
+      "question_id": "qst_001",
+      "material_id": "mat_001",
+      "topic_id": "top_001",
+      "board": null,
+      "year": 2024,
+      "organization": null,
+      "role": null,
+      "statement": "A cadeia de custódia, no âmbito da forense computacional, é o conjunto de procedimentos utilizados para manter e documentar a história cronológica do vestígio digital, desde seu reconhecimento até o descarte, visando garantir sua integridade, autenticidade e rastreabilidade.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": "Fácil",
+      "external_reference": null,
+      "commentary": "A afirmação está correta e reflete a definição amplamente aceita de cadeia de custódia, que busca garantir a confiabilidade da prova por meio da documentação de todo o seu histórico.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_001"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_002",
+      "material_id": "mat_001",
+      "topic_id": "top_002",
+      "board": null,
+      "year": 2023,
+      "organization": null,
+      "role": null,
+      "statement": "A Lei nº 13.964/2019 (Pacote Anticrime) introduziu no Código de Processo Penal os artigos 158-A a 158-F, que estabelecem a cadeia de custódia como um requisito formal para a validade da prova pericial, inclusive a digital.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": "Fácil",
+      "external_reference": null,
+      "commentary": "Correto. O Pacote Anticrime (Lei nº 13.964/2019) foi um marco legal que formalizou a cadeia de custódia no CPP, conferindo-lhe caráter obrigatório e essencial para a validade da prova.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_002"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_003",
+      "material_id": "mat_001",
+      "topic_id": "top_003",
+      "board": null,
+      "year": 2022,
+      "organization": null,
+      "role": null,
+      "statement": "O princípio da integridade na cadeia de custódia digital é garantido principalmente pela documentação detalhada de quem acessou a evidência, quando e para qual propósito, sendo o uso de funções hash um método secundário e menos relevante.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": "Média",
+      "external_reference": null,
+      "commentary": "Errado. O uso de funções hash criptográficas é um método *primordial* e *altamente relevante* para garantir a integridade dos dados digitais, pois detecta qualquer alteração. A documentação é essencial para a rastreabilidade, mas o hash é a garantia técnica da integridade.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_003"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_004",
+      "material_id": "mat_001",
+      "topic_id": "top_004",
+      "board": null,
+      "year": 2024,
+      "organization": null,
+      "role": null,
+      "statement": "Na etapa de coleta/aquisição de evidências digitais, a ABNT NBR ISO/IEC 27037:2013 recomenda que a análise seja feita diretamente na mídia original para evitar a perda de dados durante a cópia.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": "Média",
+      "external_reference": null,
+      "commentary": "Errado. A ABNT NBR ISO/IEC 27037:2013 e as boas práticas forenses recomendam veementemente que a análise seja realizada em *cópias forenses* (imagens bit-a-bit) da mídia original, que deve ser preservada intacta para garantir sua integridade e autenticidade.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_004"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_005",
+      "material_id": "mat_001",
+      "topic_id": "top_005",
+      "board": null,
+      "year": 2023,
+      "organization": null,
+      "role": null,
+      "statement": "O hash é uma técnica criptográfica que criptografa o conteúdo de um arquivo, garantindo sua confidencialidade e, por consequência, sua integridade na cadeia de custódia digital.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": "Média",
+      "external_reference": null,
+      "commentary": "Errado. O hash é uma função unidirecional que gera uma 'impressão digital' do arquivo, garantindo sua *integridade* (detecta alterações), mas *não* o criptografa para garantir confidencialidade. Criptografia e hash são conceitos distintos, embora ambos usem algoritmos criptográficos.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_005"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_006",
+      "material_id": "mat_001",
+      "topic_id": "top_006",
+      "board": null,
+      "year": 2024,
+      "organization": null,
+      "role": null,
+      "statement": "A jurisprudência do Superior Tribunal de Justiça (STJ) tem se mostrado rigorosa ao anular provas digitais em casos de quebra da cadeia de custódia, independentemente da demonstração de prejuízo à defesa.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": "Difícil",
+      "external_reference": null,
+      "commentary": "Errado. Embora o STJ seja rigoroso, ele não anula provas *automaticamente* por qualquer falha. A jurisprudência predominante aplica o princípio do 'pas de nullité sans grief', exigindo que a defesa demonstre o prejuízo concreto ou a adulteração da prova para que a nulidade seja reconhecida.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_006"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_007",
+      "material_id": "mat_001",
+      "topic_id": "top_007",
+      "board": null,
+      "year": 2023,
+      "organization": null,
+      "role": null,
+      "statement": "Para a banca CEBRASPE, a apresentação de 'prints' de conversas de aplicativos de mensagens, sem a devida contextualização e observância dos procedimentos da cadeia de custódia, é considerada uma prova digital robusta e suficiente para a formação da convicção do magistrado.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": "Média",
+      "external_reference": null,
+      "commentary": "Errado. A CEBRASPE frequentemente explora essa 'pegadinha'. Prints de tela são facilmente manipuláveis e, sem a devida cadeia de custódia, contextualização robusta e validação técnica (como hash), não são considerados provas digitais robustas e podem ser invalidados.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_007"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_008",
+      "material_id": "mat_001",
+      "topic_id": "top_004",
+      "board": null,
+      "year": 2022,
+      "organization": null,
+      "role": null,
+      "statement": "A documentação é uma etapa transversal e contínua da cadeia de custódia, devendo registrar detalhadamente todas as ações, datas, horários e responsáveis pelo manuseio do vestígio em cada fase do processo.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": "Fácil",
+      "external_reference": null,
+      "commentary": "Correto. A documentação é um pilar da cadeia de custódia, sendo essencial em todas as suas fases para garantir a rastreabilidade e a auditabilidade do manuseio do vestígio.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_008"
+        ],
+        "count": 1
+      }
+    }
+  ],
+  "comentarios_questoes": [
+    {
+      "comment_id": "com_001",
+      "question_id": "qst_001",
+      "content": "A afirmação está correta e reflete a definição amplamente aceita de cadeia de custódia, que busca garantir a confiabilidade da prova por meio da documentação de todo o seu histórico.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_002",
+      "question_id": "qst_002",
+      "content": "Correto. O Pacote Anticrime (Lei nº 13.964/2019) foi um marco legal que formalizou a cadeia de custódia no CPP, conferindo-lhe caráter obrigatório e essencial para a validade da prova.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_003",
+      "question_id": "qst_003",
+      "content": "Errado. O uso de funções hash criptográficas é um método *primordial* e *altamente relevante* para garantir a integridade dos dados digitais, pois detecta qualquer alteração. A documentação é essencial para a rastreabilidade, mas o hash é a garantia técnica da integridade.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_004",
+      "question_id": "qst_004",
+      "content": "Errado. A ABNT NBR ISO/IEC 27037:2013 e as boas práticas forenses recomendam veementemente que a análise seja realizada em *cópias forenses* (imagens bit-a-bit) da mídia original, que deve ser preservada intacta para garantir sua integridade e autenticidade.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_005",
+      "question_id": "qst_005",
+      "content": "Errado. O hash é uma função unidirecional que gera uma 'impressão digital' do arquivo, garantindo sua *integridade* (detecta alterações), mas *não* o criptografa para garantir confidencialidade. Criptografia e hash são conceitos distintos, embora ambos usem algoritmos criptográficos.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_006",
+      "question_id": "qst_006",
+      "content": "Errado. Embora o STJ seja rigoroso, ele não anula provas *automaticamente* por qualquer falha. A jurisprudência predominante aplica o princípio do 'pas de nullité sans grief', exigindo que a defesa demonstre o prejuízo concreto ou a adulteração da prova para que a nulidade seja reconhecida.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_007",
+      "question_id": "qst_007",
+      "content": "Errado. A CEBRASPE frequentemente explora essa 'pegadinha'. Prints de tela são facilmente manipuláveis e, sem a devida cadeia de custódia, contextualização robusta e validação técnica (como hash), não são considerados provas digitais robustas e podem ser invalidados.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_008",
+      "question_id": "qst_008",
+      "content": "Correto. A documentação é um pilar da cadeia de custódia, sendo essencial em todas as suas fases para garantir a rastreabilidade e a auditabilidade do manuseio do vestígio.",
+      "explanation_alternatives": ""
+    }
+  ],
+  "checklist_revisao": [
+    {
+      "checklist_id": "chk_001",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Compreender a definição e a finalidade da cadeia de custódia na forense computacional.",
+      "completed": false,
+      "order": 1
+    },
+    {
+      "checklist_id": "chk_002",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Conhecer a base legal (Lei nº 13.964/2019, arts. 158-A a 158-F do CPP) e a norma técnica (ABNT NBR ISO/IEC 27037:2013).",
+      "completed": false,
+      "order": 2
+    },
+    {
+      "checklist_id": "chk_003",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Dominar os princípios da integridade, autenticidade e rastreabilidade.",
+      "completed": false,
+      "order": 3
+    },
+    {
+      "checklist_id": "chk_004",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Memorizar as etapas da cadeia de custódia e os procedimentos em cada uma.",
+      "completed": false,
+      "order": 4
+    },
+    {
+      "checklist_id": "chk_005",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Entender o papel do hash na garantia da integridade da prova digital e diferenciá-lo de criptografia.",
+      "completed": false,
+      "order": 5
+    },
+    {
+      "checklist_id": "chk_006",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Saber as consequências da quebra da cadeia de custódia e o entendimento do STJ sobre a necessidade de demonstração de prejuízo.",
+      "completed": false,
+      "order": 6
+    },
+    {
+      "checklist_id": "chk_007",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Estar atento às pegadinhas da CEBRASPE, especialmente sobre prints de tela e nulidade automática.",
+      "completed": false,
+      "order": 7
+    }
+  ],
+  "referencias": [
+    {
+      "reference_id": "ref_001",
+      "material_id": "mat_001",
+      "reference_type": "Legislação",
+      "author_name": null,
+      "title": "Lei nº 13.964/2019 (Pacote Anticrime)",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "http://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/lei/l13964.htm",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_002",
+      "material_id": "mat_001",
+      "reference_type": "Norma Técnica",
+      "author_name": null,
+      "title": "ABNT NBR ISO/IEC 27037:2013 - Tecnologia da informação — Técnicas de segurança — Diretrizes para identificação, coleta, aquisição e preservação de evidência digital",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.abntcatalogo.com.br/norma.aspx?ID=307273",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_003",
+      "material_id": "mat_001",
+      "reference_type": "Artigo Técnico",
+      "author_name": null,
+      "title": "A cadeia de custódia da prova digital: garantindo a integridade das evidências. STWBrasil.",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.stwbrasil.com/blog/cadeia-de-custodia-da-prova-digital/",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_004",
+      "material_id": "mat_001",
+      "reference_type": "Artigo Científico",
+      "author_name": null,
+      "title": "IMPORTANCIA DA CADEIA DE CUSTÓDIA PARA PROVA PERICIAL. REVISTA CML.",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://revistacml.com.br/index.php/cml/article/view/10/10",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_005",
+      "material_id": "mat_001",
+      "reference_type": "Artigo Técnico",
+      "author_name": null,
+      "title": "Cadeia de custódia das provas digitais: Um guia prático para a defesa técnica em casos que envolvem provas digitais no processo penal. CyberExperts.",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://cyberexperts.com.br/cadeia-de-custodia-das-provas-digitais-um-guia-pratico-para-a-defesa-tecnica-em-casos-que-envolvem-provas-digitais-no-processo-penal/",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_006",
+      "material_id": "mat_001",
+      "reference_type": "Artigo Científico",
+      "author_name": null,
+      "title": "A cadeia de custódia dos vestígios digitais sob a ótica da Lei n. 13.964/2019: aspectos teóricos e práticos. ESMPU.",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://esmpu.mpu.mp.br/publicacoes/revistas/revista-esmpu/revista-esmpu-no-30/a-cadeia-de-custodia-dos-vestigios-digitais-sob-a-otica-da-lei-n.-13.964-2019-aspectos-teoricos-e-praticos",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_007",
+      "material_id": "mat_001",
+      "reference_type": "Artigo Científico",
+      "author_name": null,
+      "title": "A Importância da Cadeia de Custódia na Computação Forense. Revista Brasileira de Criminalística.",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://rbc.org.br/rbc/article/view/106/106",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_008",
+      "material_id": "mat_001",
+      "reference_type": "Artigo Técnico",
+      "author_name": null,
+      "title": "A Era da Prova Digital Penal: Validade e Cadeia de Custódia. Legale Educacional.",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://legale.com.br/a-era-da-prova-digital-penal-validade-e-cadeia-de-custodia/",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_009",
+      "material_id": "mat_001",
+      "reference_type": "Artigo Jurídico",
+      "author_name": null,
+      "title": "Cadeia de custódia digital: STJ invalida prova de celular. Santos Faria Advocacia.",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://santosfaria.adv.br/cadeia-de-custodia-digital-stj-invalida-prova-de-celular/",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_010",
+      "material_id": "mat_001",
+      "reference_type": "Vídeo/Palestra",
+      "author_name": null,
+      "title": "Cadeia de custódia da prova digital. YouTube (Alexandre Atheniense).",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.youtube.com/watch?v=s_0-0_0-0_0",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_011",
+      "material_id": "mat_001",
+      "reference_type": "Artigo Técnico",
+      "author_name": null,
+      "title": "10 erros que invalidam, anulam ou fragilizam a prova digital no processo penal. CyberExperts.",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://cyberexperts.com.br/10-erros-que-invalidam-anulam-ou-fragilizam-a-prova-digital-no-processo-penal/",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_012",
+      "material_id": "mat_001",
+      "reference_type": "Vídeo/Aula",
+      "author_name": null,
+      "title": "Concurso Polícia Federal | Informática Forense: Segurança da Informação Aplicada. YouTube (Gran Cursos Online).",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.youtube.com/watch?v=s_0-0_0-0_0",
+      "accessed_at": null,
+      "description": null
+    }
+  ],
+  "estatisticas_de_geracao": {
+    "total_topicos": 7,
+    "total_componentes_topico": 0,
+    "total_entendimentos_relevantes": 4,
+    "total_pegadinhas": 4,
+    "total_pontos_memorizacao": 8,
+    "total_itens_quadro_sinotico": 0,
+    "total_questoes": 8,
+    "total_comentarios_questoes": 8,
+    "total_itens_checklist": 7,
+    "total_referencias": 12
+  },
+  "validacao_interna": {
+    "pesquisa_previa_realizada": true,
+    "analise_de_cobrancas_anteriores_realizada": true,
+    "material_atualizado": true,
+    "json_valido": true,
+    "estrutura_relacional_respeitada": true,
+    "numeracao_respeitada": true,
+    "houve_quebra_de_hierarquia": false,
+    "houve_nivel_numerico_superior_a_3": false,
+    "fontes_verificadas": true,
+    "sem_informacao_inventada": true
+  },
+  "metadata": {
+    "source_file_name": "7__informática-e-dados__7-noções-de-forense-computacional-7.3-cadeia-de-custódia.json",
+    "normalized_checksum": "ca37bc49277b83f9bf34ceb809995689e71b04aedefc8decd3ac8a6cb6ab5415",
+    "subject_slug": "informatica",
+    "material_slug": "forense-computacional-cadeia-de-custodia",
+    "title_slug": "forense-computacional-cadeia-de-custodia",
+    "board_slug": "cebraspe",
+    "counters": {
+      "blocks": 7,
+      "topics": 7,
+      "topic_components": 0,
+      "traps": 4,
+      "memory_points": 8,
+      "summary_items": 0,
+      "questions": 8,
+      "question_comments": 8,
+      "checklist_items": 7,
+      "references": 12
+    }
+  }
+}

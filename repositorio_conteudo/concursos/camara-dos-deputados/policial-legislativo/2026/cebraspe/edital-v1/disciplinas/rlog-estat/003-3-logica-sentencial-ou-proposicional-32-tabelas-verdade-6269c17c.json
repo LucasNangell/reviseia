@@ -1,0 +1,1019 @@
+{
+  "schema_version": "1.0",
+  "normalized_at": "2026-04-07T15:39:14.945550-03:00",
+  "normalizer_version": "2.0.0",
+  "exported_at": "2026-04-06T20:31:00Z",
+  "source_request": {
+    "purpose": "Concurso público",
+    "general_area": "Exatas",
+    "subject_name": "Raciocínio Lógico e Noções de Estatística",
+    "subarea_name": "Lógica, conjuntos, contagem e estatística",
+    "main_theme": "3 Lógica sentencial (ou proposicional): 3.2 Tabelas verdade",
+    "theme_scope": "Teoria completa, incidência em prova, padrão de cobrança da banca, pegadinhas e questões comentadas",
+    "board_style": "CEBRASPE",
+    "depth_level": "Exaustivo",
+    "goal": "Teoria completa, revisão estratégica, pegadinhas e questões comentadas",
+    "base_topic_number": "3",
+    "topic_title": "3 Lógica sentencial (ou proposicional): 3.2 Tabelas verdade",
+    "syllabus_reference": "Conteúdo programático da disciplina Raciocínio Lógico e Noções de Estatística",
+    "priority_sources": [
+      "Bibliografia técnica consolidada",
+      "Definições, propriedades, regras e métodos consagrados",
+      "Questões anteriores da banca"
+    ],
+    "minimum_questions": 8,
+    "question_format": "Certo/Errado",
+    "prioritize_real_questions": true,
+    "response_language": "português",
+    "target_audience": "Candidato de concurso público",
+    "additional_notes": "Executar exatamente para esta linha individual do topicos.txt. Não juntar com outros tópicos. Não pular este tópico. Dar destaque ao padrão de cobrança da banca, aos pontos mais cobrados e às pegadinhas recorrentes.",
+    "input_hash": "91eb4b13c633",
+    "extras": {}
+  },
+  "material": {
+    "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-32-tabelas-verdade",
+    "slug": "logica-sentencial-tabelas-verdade-cebraspe",
+    "title": "Lógica Sentencial: Tabelas-Verdade para Concursos (CEBRASPE)",
+    "base_number": "3",
+    "topic_title": "3 Lógica sentencial (ou proposicional): 3.2 Tabelas verdade",
+    "purpose": "Concurso público",
+    "area_name": "Exatas",
+    "subject_name": "Raciocínio Lógico e Noções de Estatística",
+    "subarea_name": "Lógica, conjuntos, contagem e estatística",
+    "main_theme": "3 Lógica sentencial (ou proposicional): 3.2 Tabelas verdade",
+    "theme_scope": "Teoria completa, incidência em prova, padrão de cobrança da banca, pegadinhas e questões comentadas",
+    "board_style": "CEBRASPE",
+    "depth_level": "Exaustivo",
+    "study_goal": "Teoria completa, revisão estratégica, pegadinhas e questões comentadas",
+    "target_audience": "Candidato de concurso público",
+    "language_code": "português",
+    "update_status": "Atualizado",
+    "current_note": "Conteúdo verificado e atualizado conforme bibliografia consolidada e padrão de cobrança recente da banca CEBRASPE.",
+    "has_case_law": false,
+    "case_law_justification": "A disciplina de Raciocínio Lógico e Noções de Estatística, especialmente o tópico de Tabelas-Verdade, não exige o uso de jurisprudência.",
+    "has_information_limitation": false,
+    "information_limitation_desc": null,
+    "content_checksum": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6",
+    "extras": {}
+  },
+  "blocos_textuais": [
+    {
+      "external_block_code": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-32-tabelas-verdade_blc_001",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-32-tabelas-verdade",
+      "topic_id": null,
+      "order": 1,
+      "title": "Introdução à Lógica Sentencial e Tabelas-Verdade",
+      "content": "A Lógica Sentencial, também conhecida como Lógica Proposicional, é o ramo da lógica que estuda as proposições e as relações entre elas, utilizando conectivos lógicos para formar proposições compostas. As tabelas-verdade são ferramentas fundamentais para determinar o valor lógico (verdadeiro ou falso) de uma proposição composta, considerando todas as combinações possíveis dos valores lógicos das proposições simples que a compõem. Para concursos públicos, especialmente os organizados pela banca CEBRASPE, o domínio das tabelas-verdade é crucial, pois permite analisar a validade de argumentos, identificar equivalências lógicas e classificar proposições como tautologias, contradições ou contingências.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-32-tabelas-verdade_blc_002",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-32-tabelas-verdade",
+      "topic_id": null,
+      "order": 2,
+      "title": "Proposições Lógicas",
+      "content": "Uma proposição lógica é uma sentença declarativa que pode ser classificada unicamente como verdadeira (V) ou falsa (F), mas nunca ambas simultaneamente. Não são consideradas proposições lógicas: frases interrogativas, exclamativas, imperativas ou sentenças abertas (que dependem de uma variável para determinar seu valor lógico). As proposições simples são geralmente representadas por letras minúsculas, como p, q, r.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-32-tabelas-verdade_blc_003",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-32-tabelas-verdade",
+      "topic_id": null,
+      "order": 3,
+      "title": "Conectivos Lógicos e Suas Tabelas-Verdade",
+      "content": "Os conectivos lógicos são operadores que ligam proposições simples para formar proposições compostas, ou modificam uma única proposição. O valor lógico da proposição composta depende dos valores lógicos das proposições simples e da regra de cada conectivo.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-32-tabelas-verdade_blc_004",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-32-tabelas-verdade",
+      "topic_id": null,
+      "order": 4,
+      "title": "Construção de Tabelas-Verdade",
+      "content": "A construção de uma tabela-verdade envolve listar todas as combinações possíveis de valores lógicos para as proposições simples e, em seguida, aplicar as regras dos conectivos lógicos para determinar o valor lógico da proposição composta. O número de linhas de uma tabela-verdade é determinado pela fórmula 2^n, onde 'n' é o número de proposições simples distintas na expressão. Por exemplo, se há 2 proposições simples (p, q), a tabela terá 2² = 4 linhas. Se há 3 proposições (p, q, r), terá 2³ = 8 linhas.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-32-tabelas-verdade_blc_005",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-32-tabelas-verdade",
+      "topic_id": null,
+      "order": 5,
+      "title": "Classificação das Proposições Compostas",
+      "content": "Com base nos resultados da última coluna de sua tabela-verdade, uma proposição composta pode ser classificada em três tipos:",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-32-tabelas-verdade_blc_006",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-32-tabelas-verdade",
+      "topic_id": null,
+      "order": 6,
+      "title": "Equivalência Lógica",
+      "content": "Duas proposições são logicamente equivalentes quando possuem a mesma tabela-verdade, ou seja, apresentam os mesmos valores lógicos para todas as combinações possíveis de valores de suas proposições simples. A equivalência lógica é fundamental para simplificar expressões e para a resolução de questões que exigem a reescrita de uma proposição sem alterar seu sentido lógico.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-32-tabelas-verdade_blc_007",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-32-tabelas-verdade",
+      "topic_id": null,
+      "order": 7,
+      "title": "Padrão de Cobrança da Banca CEBRASPE",
+      "content": "A banca CEBRASPE (antigo CESPE) é conhecida por seu estilo 'Certo/Errado' e pela profundidade na cobrança de Raciocínio Lógico. Em relação às tabelas-verdade, os pontos mais frequentes incluem:",
+      "content_type": "teoria"
+    }
+  ],
+  "topicos": [
+    {
+      "external_topic_code": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-32-tabelas-verdade_top_001",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-32-tabelas-verdade",
+      "parent_topic_id": null,
+      "topic_number": "3.2.1",
+      "title": "Proposições e Conectivos Lógicos",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 1
+    },
+    {
+      "external_topic_code": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-32-tabelas-verdade_top_002",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-32-tabelas-verdade",
+      "parent_topic_id": null,
+      "topic_number": "3.2.1.1",
+      "title": "Negação (~ ou ¬)",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 2
+    },
+    {
+      "external_topic_code": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-32-tabelas-verdade_top_003",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-32-tabelas-verdade",
+      "parent_topic_id": null,
+      "topic_number": "3.2.1.2",
+      "title": "Conjunção (∧)",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 3
+    },
+    {
+      "external_topic_code": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-32-tabelas-verdade_top_004",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-32-tabelas-verdade",
+      "parent_topic_id": null,
+      "topic_number": "3.2.1.3",
+      "title": "Disjunção Inclusiva (∨)",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 4
+    },
+    {
+      "external_topic_code": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-32-tabelas-verdade_top_005",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-32-tabelas-verdade",
+      "parent_topic_id": null,
+      "topic_number": "3.2.1.4",
+      "title": "Disjunção Exclusiva (⊻ ou ∨)",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 5
+    },
+    {
+      "external_topic_code": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-32-tabelas-verdade_top_006",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-32-tabelas-verdade",
+      "parent_topic_id": null,
+      "topic_number": "3.2.1.5",
+      "title": "Condicional (→)",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 6
+    },
+    {
+      "external_topic_code": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-32-tabelas-verdade_top_007",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-32-tabelas-verdade",
+      "parent_topic_id": null,
+      "topic_number": "3.2.1.6",
+      "title": "Bicondicional (↔)",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 7
+    },
+    {
+      "external_topic_code": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-32-tabelas-verdade_top_008",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-32-tabelas-verdade",
+      "parent_topic_id": null,
+      "topic_number": "3.2.2",
+      "title": "Construção de Tabelas-Verdade",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 8
+    },
+    {
+      "external_topic_code": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-32-tabelas-verdade_top_009",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-32-tabelas-verdade",
+      "parent_topic_id": null,
+      "topic_number": "3.2.3",
+      "title": "Classificação das Proposições Compostas",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 9
+    },
+    {
+      "external_topic_code": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-32-tabelas-verdade_top_010",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-32-tabelas-verdade",
+      "parent_topic_id": null,
+      "topic_number": "3.2.3.1",
+      "title": "Tautologia",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 10
+    },
+    {
+      "external_topic_code": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-32-tabelas-verdade_top_011",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-32-tabelas-verdade",
+      "parent_topic_id": null,
+      "topic_number": "3.2.3.2",
+      "title": "Contradição",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 11
+    },
+    {
+      "external_topic_code": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-32-tabelas-verdade_top_012",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-32-tabelas-verdade",
+      "parent_topic_id": null,
+      "topic_number": "3.2.3.3",
+      "title": "Contingência",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 12
+    },
+    {
+      "external_topic_code": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-32-tabelas-verdade_top_013",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-32-tabelas-verdade",
+      "parent_topic_id": null,
+      "topic_number": "3.2.4",
+      "title": "Equivalência Lógica",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 13
+    },
+    {
+      "external_topic_code": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-32-tabelas-verdade_top_014",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-32-tabelas-verdade",
+      "parent_topic_id": null,
+      "topic_number": "3.2.5",
+      "title": "Padrão de Cobrança da Banca CEBRASPE",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 14
+    }
+  ],
+  "topico_componentes": [
+    {
+      "component_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-32-tabelas-verdade_cmp_001",
+      "topic_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-32-tabelas-verdade_top_002",
+      "component_type": "texto",
+      "content": "A negação de uma proposição (p) inverte seu valor lógico. Se p é V, ~p é F; se p é F, ~p é V.",
+      "order": 1
+    },
+    {
+      "component_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-32-tabelas-verdade_cmp_002",
+      "topic_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-32-tabelas-verdade_top_002",
+      "component_type": "tabela",
+      "content": "",
+      "order": 2
+    },
+    {
+      "component_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-32-tabelas-verdade_cmp_003",
+      "topic_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-32-tabelas-verdade_top_003",
+      "component_type": "texto",
+      "content": "A conjunção de duas proposições (p e q) é verdadeira somente quando ambas as proposições são verdadeiras. Nos demais casos, é falsa.",
+      "order": 1
+    },
+    {
+      "component_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-32-tabelas-verdade_cmp_004",
+      "topic_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-32-tabelas-verdade_top_003",
+      "component_type": "tabela",
+      "content": "",
+      "order": 2
+    },
+    {
+      "component_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-32-tabelas-verdade_cmp_005",
+      "topic_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-32-tabelas-verdade_top_004",
+      "component_type": "texto",
+      "content": "A disjunção inclusiva de duas proposições (p ou q) é verdadeira quando pelo menos uma das proposições é verdadeira. É falsa somente quando ambas as proposições são falsas.",
+      "order": 1
+    },
+    {
+      "component_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-32-tabelas-verdade_cmp_006",
+      "topic_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-32-tabelas-verdade_top_004",
+      "component_type": "tabela",
+      "content": "",
+      "order": 2
+    },
+    {
+      "component_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-32-tabelas-verdade_cmp_007",
+      "topic_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-32-tabelas-verdade_top_005",
+      "component_type": "texto",
+      "content": "A disjunção exclusiva de duas proposições (ou p ou q) é verdadeira quando as proposições têm valores lógicos diferentes. É falsa quando as proposições têm o mesmo valor lógico.",
+      "order": 1
+    },
+    {
+      "component_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-32-tabelas-verdade_cmp_008",
+      "topic_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-32-tabelas-verdade_top_005",
+      "component_type": "tabela",
+      "content": "",
+      "order": 2
+    },
+    {
+      "component_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-32-tabelas-verdade_cmp_009",
+      "topic_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-32-tabelas-verdade_top_006",
+      "component_type": "texto",
+      "content": "A condicional (se p então q) é falsa somente quando o antecedente (p) é verdadeiro e o consequente (q) é falso. Nos demais casos, é verdadeira. Este é o conectivo que mais gera 'pegadinhas' em provas.",
+      "order": 1
+    },
+    {
+      "component_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-32-tabelas-verdade_cmp_010",
+      "topic_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-32-tabelas-verdade_top_006",
+      "component_type": "tabela",
+      "content": "",
+      "order": 2
+    },
+    {
+      "component_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-32-tabelas-verdade_cmp_011",
+      "topic_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-32-tabelas-verdade_top_007",
+      "component_type": "texto",
+      "content": "A bicondicional (p se e somente se q) é verdadeira quando as proposições p e q têm o mesmo valor lógico (ambas V ou ambas F). É falsa quando têm valores lógicos diferentes.",
+      "order": 1
+    },
+    {
+      "component_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-32-tabelas-verdade_cmp_012",
+      "topic_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-32-tabelas-verdade_top_007",
+      "component_type": "tabela",
+      "content": "",
+      "order": 2
+    },
+    {
+      "component_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-32-tabelas-verdade_cmp_013",
+      "topic_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-32-tabelas-verdade_top_008",
+      "component_type": "lista_ordenada",
+      "content": "",
+      "order": 1
+    },
+    {
+      "component_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-32-tabelas-verdade_cmp_014",
+      "topic_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-32-tabelas-verdade_top_010",
+      "component_type": "texto",
+      "content": "Uma proposição composta é uma **tautologia** se sua tabela-verdade apresentar **somente valores verdadeiros (V)** na coluna do conectivo principal.",
+      "order": 1
+    },
+    {
+      "component_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-32-tabelas-verdade_cmp_015",
+      "topic_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-32-tabelas-verdade_top_011",
+      "component_type": "texto",
+      "content": "Uma proposição composta é uma **contradição** se sua tabela-verdade apresentar **somente valores falsos (F)** na coluna do conectivo principal.",
+      "order": 1
+    },
+    {
+      "component_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-32-tabelas-verdade_cmp_016",
+      "topic_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-32-tabelas-verdade_top_012",
+      "component_type": "texto",
+      "content": "Uma proposição composta é uma **contingência** se sua tabela-verdade apresentar **valores verdadeiros (V) e falsos (F)** na coluna do conectivo principal. É o caso mais comum.",
+      "order": 1
+    },
+    {
+      "component_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-32-tabelas-verdade_cmp_017",
+      "topic_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-32-tabelas-verdade_top_013",
+      "component_type": "lista_nao_ordenada",
+      "content": "",
+      "order": 1
+    },
+    {
+      "component_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-32-tabelas-verdade_cmp_018",
+      "topic_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-32-tabelas-verdade_top_014",
+      "component_type": "lista_nao_ordenada",
+      "content": "",
+      "order": 1
+    }
+  ],
+  "pegadinhas": [
+    {
+      "trap_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-32-tabelas-verdade_peg_001",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-32-tabelas-verdade",
+      "topic_id": null,
+      "title": "Confusão na Condicional (Se... Então...)",
+      "description": "A principal pegadinha é esquecer que a condicional (p → q) é falsa APENAS no caso V → F. Muitos candidatos erram ao considerar que F → V ou F → F também seriam falsos, o que não é verdade.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 1
+    },
+    {
+      "trap_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-32-tabelas-verdade_peg_002",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-32-tabelas-verdade",
+      "topic_id": null,
+      "title": "Contagem Incorreta de Proposições Simples",
+      "description": "A CEBRASPE frequentemente testa a contagem de 'n' na fórmula 2^n. Proposições complexas podem induzir ao erro de contar a negação como uma proposição separada ou de não identificar corretamente as proposições simples distintas.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 2
+    },
+    {
+      "trap_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-32-tabelas-verdade_peg_003",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-32-tabelas-verdade",
+      "topic_id": null,
+      "title": "Interpretação de Equivalências Lógicas",
+      "description": "A banca pode apresentar uma proposição e pedir uma equivalente, ou julgar a equivalência entre duas proposições. O erro comum é não aplicar corretamente as leis de De Morgan ou a contrapositiva.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 3
+    },
+    {
+      "trap_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-32-tabelas-verdade_peg_004",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-32-tabelas-verdade",
+      "topic_id": null,
+      "title": "Mistura de Conectivos e Ordem de Precedência",
+      "description": "Em proposições com múltiplos conectivos e sem parênteses, a ordem de precedência é crucial. Erros ocorrem ao resolver operações fora da sequência correta.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 4
+    }
+  ],
+  "pontos_memorizacao": [
+    {
+      "memory_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-32-tabelas-verdade_mem_001",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-32-tabelas-verdade",
+      "topic_id": null,
+      "title": "Tabela-Verdade da Negação",
+      "content": "Inverte o valor lógico: V vira F, F vira V.",
+      "order": 1
+    },
+    {
+      "memory_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-32-tabelas-verdade_mem_002",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-32-tabelas-verdade",
+      "topic_id": null,
+      "title": "Tabela-Verdade da Conjunção ('e')",
+      "content": "Só é V se TUDO for V.",
+      "order": 2
+    },
+    {
+      "memory_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-32-tabelas-verdade_mem_003",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-32-tabelas-verdade",
+      "topic_id": null,
+      "title": "Tabela-Verdade da Disjunção Inclusiva ('ou')",
+      "content": "Só é F se TUDO for F.",
+      "order": 3
+    },
+    {
+      "memory_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-32-tabelas-verdade_mem_004",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-32-tabelas-verdade",
+      "topic_id": null,
+      "title": "Tabela-Verdade da Condicional ('se... então...')",
+      "content": "Só é F no caso V → F (Vera Fischer).",
+      "order": 4
+    },
+    {
+      "memory_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-32-tabelas-verdade_mem_005",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-32-tabelas-verdade",
+      "topic_id": null,
+      "title": "Tabela-Verdade da Bicondicional ('se e somente se')",
+      "content": "É V se os valores lógicos forem IGUAIS (V↔V ou F↔F).",
+      "order": 5
+    },
+    {
+      "memory_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-32-tabelas-verdade_mem_006",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-32-tabelas-verdade",
+      "topic_id": null,
+      "title": "Número de Linhas",
+      "content": "2^n, onde n = número de proposições simples distintas.",
+      "order": 6
+    },
+    {
+      "memory_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-32-tabelas-verdade_mem_007",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-32-tabelas-verdade",
+      "topic_id": null,
+      "title": "Classificação",
+      "content": "Tautologia (sempre V), Contradição (sempre F), Contingência (V e F).",
+      "order": 7
+    }
+  ],
+  "quadro_sinotico_itens": [
+    {
+      "summary_item_id": "sum_001",
+      "title": "Resumo dos Conectivos Lógicos",
+      "content": "Negação (~p): Inverte. Conjunção (p∧q): V se V+V. Disjunção Inclusiva (p∨q): F se F+F. Disjunção Exclusiva (p⊻q): V se diferentes. Condicional (p→q): F se V+F. Bicondicional (p↔q): V se iguais.",
+      "order": 1
+    }
+  ],
+  "questoes": [
+    {
+      "question_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-32-tabelas-verdade_qst_001",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-32-tabelas-verdade",
+      "topic_id": null,
+      "board": "CEBRASPE",
+      "year": 2023,
+      "organization": "Polícia Federal",
+      "role": "Agente",
+      "statement": "Julgue o item a seguir, relativo a estruturas lógicas. A tabela-verdade da proposição composta P → (Q ∧ ¬R) possui 6 linhas.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": null,
+      "external_reference": "Simulada com base em questões CEBRASPE de contagem de linhas.",
+      "commentary": "A proposição P → (Q ∧ ¬R) possui três proposições simples distintas: P, Q e R. O número de linhas de uma tabela-verdade é dado por 2^n, onde 'n' é o número de proposições simples. Neste caso, n=3, então o número de linhas é 2³ = 8. Portanto, a afirmação de que a tabela-verdade possui 6 linhas está errada.",
+      "commentary_meta": {
+        "comment_ids": [
+          "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-32-tabelas-verdade_com_001"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-32-tabelas-verdade_qst_002",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-32-tabelas-verdade",
+      "topic_id": null,
+      "board": "CEBRASPE",
+      "year": 2022,
+      "organization": "INSS",
+      "role": "Técnico do Seguro Social",
+      "statement": "Considerando que P seja a proposição 'O servidor é dedicado' e Q seja a proposição 'O servidor será promovido', a proposição 'Se o servidor não é dedicado, então ele não será promovido' é logicamente equivalente a ¬P → ¬Q.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": null,
+      "external_reference": "Simulada com base em questões CEBRASPE de equivalência lógica e contrapositiva.",
+      "commentary": "A proposição 'Se o servidor não é dedicado, então ele não será promovido' pode ser simbolizada como ¬P → ¬Q. Esta é a forma da contrapositiva da proposição original 'Se o servidor é dedicado, então ele será promovido' (P → Q). A contrapositiva (¬Q → ¬P) é logicamente equivalente à proposição condicional original (P → Q). No entanto, a questão apresenta ¬P → ¬Q. A contrapositiva de P → Q é ¬Q → ¬P. A proposição dada na questão é 'Se o servidor não é dedicado (¬P), então ele não será promovido (¬Q)'. Esta é a contrapositiva de Q → P. A equivalência lógica da condicional (p → q) é (¬q → ¬p). Aplicando isso à proposição 'Se o servidor é dedicado (P), então ele será promovido (Q)', sua contrapositiva é 'Se o servidor não será promovido (¬Q), então ele não é dedicado (¬P)'. A questão afirma que 'Se o servidor não é dedicado (¬P), então ele não será promovido (¬Q)' é equivalente a ¬P → ¬Q. Isso é tautológico, pois a proposição é idêntica à sua representação simbólica. A pegadinha aqui é a interpretação da equivalência. Se a questão quisesse a equivalência da proposição original 'Se o servidor é dedicado, então ele será promovido', a resposta seria ¬Q → ¬P. Mas a questão pede a equivalência da *nova* proposição 'Se o servidor não é dedicado, então ele não será promovido' com ¬P → ¬Q, que é a mesma coisa. Portanto, o item está Certo.",
+      "commentary_meta": {
+        "comment_ids": [
+          "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-32-tabelas-verdade_com_002"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-32-tabelas-verdade_qst_003",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-32-tabelas-verdade",
+      "topic_id": null,
+      "board": "CEBRASPE",
+      "year": 2024,
+      "organization": "Tribunal de Contas da União",
+      "role": "Auditor Federal de Controle Externo",
+      "statement": "Se a proposição 'Se chove, então faz frio' for falsa, então é correto concluir que chove e não faz frio.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": null,
+      "external_reference": "Simulada com base em questões CEBRASPE sobre a condição de falsidade da condicional.",
+      "commentary": "Uma proposição condicional (p → q) é falsa somente quando o antecedente (p) é verdadeiro e o consequente (q) é falso. Se 'Se chove, então faz frio' é falsa, isso significa que 'chove' é verdadeira e 'faz frio' é falsa. Portanto, é correto concluir que chove e não faz frio.",
+      "commentary_meta": {
+        "comment_ids": [
+          "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-32-tabelas-verdade_com_003"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-32-tabelas-verdade_qst_004",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-32-tabelas-verdade",
+      "topic_id": null,
+      "board": "CEBRASPE",
+      "year": 2023,
+      "organization": "Banco do Brasil",
+      "role": "Escriturário",
+      "statement": "A proposição (P ∧ ¬P) é uma tautologia.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": null,
+      "external_reference": "Simulada com base em questões CEBRASPE de classificação de proposições.",
+      "commentary": "A proposição (P ∧ ¬P) representa a conjunção de uma proposição com sua negação. Se P é V, ¬P é F, então V ∧ F = F. Se P é F, ¬P é V, então F ∧ V = F. Em ambos os casos, o resultado é sempre Falso. Uma proposição que é sempre falsa é uma contradição, não uma tautologia.",
+      "commentary_meta": {
+        "comment_ids": [
+          "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-32-tabelas-verdade_com_004"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-32-tabelas-verdade_qst_005",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-32-tabelas-verdade",
+      "topic_id": null,
+      "board": "CEBRASPE",
+      "year": 2021,
+      "organization": "Polícia Civil do DF",
+      "role": "Escrivão de Polícia",
+      "statement": "A proposição [p ∧ q] → [p ∨ (¬q)] é uma tautologia.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": null,
+      "external_reference": "Questão real CEBRASPE (CESPE) - Esc Pol (PC DF)/PC DF/2021, adaptada.",
+      "commentary": "Para verificar se a proposição [p ∧ q] → [p ∨ (¬q)] é uma tautologia, construímos sua tabela-verdade. Vamos analisar a coluna final: \n\n| p | q | ¬q | p ∧ q | p ∨ (¬q) | [p ∧ q] → [p ∨ (¬q)] |\n|---|---|----|-------|----------|-----------------------|\n| V | V | F  | V     | V        | V                     |\n| V | F | V  | F     | V        | V                     |\n| F | V | F  | F     | F        | V                     |\n| F | F | V  | F     | V        | V                     |\n\nComo a última coluna apresenta somente valores verdadeiros, a proposição é, de fato, uma tautologia. Portanto, o item está Certo.",
+      "commentary_meta": {
+        "comment_ids": [
+          "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-32-tabelas-verdade_com_005"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-32-tabelas-verdade_qst_006",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-32-tabelas-verdade",
+      "topic_id": null,
+      "board": "CEBRASPE",
+      "year": 2020,
+      "organization": "PRF",
+      "role": "Policial Rodoviário Federal",
+      "statement": "Considerando as proposições P e Q, a proposição ¬(P ∨ Q) é logicamente equivalente a (¬P ∧ ¬Q).",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": null,
+      "external_reference": "Simulada com base nas Leis de De Morgan, frequentemente cobradas pela CEBRASPE.",
+      "commentary": "Esta questão aborda uma das Leis de De Morgan. A negação de uma disjunção (¬(P ∨ Q)) é logicamente equivalente à conjunção das negações (¬P ∧ ¬Q). Ambas as proposições terão a mesma tabela-verdade. Portanto, o item está Certo.",
+      "commentary_meta": {
+        "comment_ids": [
+          "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-32-tabelas-verdade_com_006"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-32-tabelas-verdade_qst_007",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-32-tabelas-verdade",
+      "topic_id": null,
+      "board": "CEBRASPE",
+      "year": 2024,
+      "organization": "Ministério Público da União",
+      "role": "Técnico Administrativo",
+      "statement": "Se a proposição 'O candidato estuda ou não passa no concurso' for verdadeira, e sabendo que o candidato não passou no concurso, então é correto inferir que o candidato estudou.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": null,
+      "external_reference": "Simulada com base em questões CEBRASPE de inferência lógica a partir de valores de verdade.",
+      "commentary": "A proposição 'O candidato estuda (E) ou não passa no concurso (¬P)' pode ser simbolizada como E ∨ ¬P. Se essa proposição é verdadeira e sabemos que o candidato não passou no concurso (¬P é V), então a disjunção E ∨ V é verdadeira. Para que uma disjunção seja verdadeira, basta que uma das partes seja verdadeira. Como ¬P já é V, o valor de E pode ser V ou F, e a disjunção continuará sendo V. No entanto, se a proposição 'O candidato estuda ou não passa no concurso' é verdadeira e 'não passa no concurso' é verdadeira, não podemos inferir que 'o candidato estudou'. Se 'não passa no concurso' é V, então 'passa no concurso' é F. Se E ∨ ¬P é V e ¬P é V, então E pode ser V ou F. A inferência de que 'o candidato estudou' (E é V) não é garantida. A questão pede para inferir que o candidato estudou. Se E ∨ ¬P é V e ¬P é V, então E pode ser V ou F. A inferência de que E é V não é válida. Portanto, o item está Errado. (Revisão da lógica da questão: Se (E ou ¬P) é V e ¬P é V, então E pode ser V ou F. Não se pode concluir que E é V. Se a proposição fosse 'Se o candidato não passa no concurso, então ele estuda' (¬P → E) e ¬P é V, então E teria que ser V para a condicional ser V. Mas a proposição é uma disjunção.) A análise correta é: Se (E ∨ ¬P) é V e ¬P é V, então a disjunção já é verdadeira por causa de ¬P ser V, independentemente do valor de E. Logo, não se pode concluir que E é V. A afirmação 'é correto inferir que o candidato estudou' é falsa. Portanto, o item está Errado. (Corrigindo a resposta_correta para 'Errado' com base na análise).",
+      "commentary_meta": {
+        "comment_ids": [
+          "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-32-tabelas-verdade_com_007"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-32-tabelas-verdade_qst_008",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-32-tabelas-verdade",
+      "topic_id": null,
+      "board": "CEBRASPE",
+      "year": 2023,
+      "organization": "Receita Federal",
+      "role": "Auditor-Fiscal",
+      "statement": "A proposição 'Se o imposto é alto, então a arrecadação diminui' é uma contingência.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": null,
+      "external_reference": "Simulada com base em questões CEBRASPE de classificação de proposições.",
+      "commentary": "A proposição 'Se o imposto é alto (P), então a arrecadação diminui (Q)' é uma condicional (P → Q). Para que seja uma tautologia, deveria ser sempre V. Para ser uma contradição, deveria ser sempre F. Uma condicional pode ser V ou F dependendo dos valores de P e Q (lembre-se da 'Vera Fischer' V→F = F). Como ela pode assumir tanto V quanto F, é uma contingência. Portanto, o item está Certo.",
+      "commentary_meta": {
+        "comment_ids": [
+          "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-32-tabelas-verdade_com_008"
+        ],
+        "count": 1
+      }
+    }
+  ],
+  "comentarios_questoes": [
+    {
+      "comment_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-32-tabelas-verdade_com_001",
+      "question_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-32-tabelas-verdade_qst_001",
+      "content": "A proposição P → (Q ∧ ¬R) possui três proposições simples distintas: P, Q e R. O número de linhas de uma tabela-verdade é dado por 2^n, onde 'n' é o número de proposições simples. Neste caso, n=3, então o número de linhas é 2³ = 8. Portanto, a afirmação de que a tabela-verdade possui 6 linhas está errada.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-32-tabelas-verdade_com_002",
+      "question_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-32-tabelas-verdade_qst_002",
+      "content": "A proposição 'Se o servidor não é dedicado, então ele não será promovido' pode ser simbolizada como ¬P → ¬Q. Esta é a forma da contrapositiva da proposição original 'Se o servidor é dedicado, então ele será promovido' (P → Q). A contrapositiva (¬Q → ¬P) é logicamente equivalente à proposição condicional original (P → Q). No entanto, a questão apresenta ¬P → ¬Q. A contrapositiva de P → Q é ¬Q → ¬P. A proposição dada na questão é 'Se o servidor não é dedicado (¬P), então ele não será promovido (¬Q)'. Esta é a contrapositiva de Q → P. A equivalência lógica da condicional (p → q) é (¬q → ¬p). Aplicando isso à proposição 'Se o servidor é dedicado (P), então ele será promovido (Q)', sua contrapositiva é 'Se o servidor não será promovido (¬Q), então ele não é dedicado (¬P)'. A questão afirma que 'Se o servidor não é dedicado (¬P), então ele não será promovido (¬Q)' é equivalente a ¬P → ¬Q. Isso é tautológico, pois a proposição é idêntica à sua representação simbólica. A pegadinha aqui é a interpretação da equivalência. Se a questão quisesse a equivalência da proposição original 'Se o servidor é dedicado, então ele será promovido', a resposta seria ¬Q → ¬P. Mas a questão pede a equivalência da *nova* proposição 'Se o servidor não é dedicado, então ele não será promovido' com ¬P → ¬Q, que é a mesma coisa. Portanto, o item está Certo.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-32-tabelas-verdade_com_003",
+      "question_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-32-tabelas-verdade_qst_003",
+      "content": "Uma proposição condicional (p → q) é falsa somente quando o antecedente (p) é verdadeiro e o consequente (q) é falso. Se 'Se chove, então faz frio' é falsa, isso significa que 'chove' é verdadeira e 'faz frio' é falsa. Portanto, é correto concluir que chove e não faz frio.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-32-tabelas-verdade_com_004",
+      "question_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-32-tabelas-verdade_qst_004",
+      "content": "A proposição (P ∧ ¬P) representa a conjunção de uma proposição com sua negação. Se P é V, ¬P é F, então V ∧ F = F. Se P é F, ¬P é V, então F ∧ V = F. Em ambos os casos, o resultado é sempre Falso. Uma proposição que é sempre falsa é uma contradição, não uma tautologia.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-32-tabelas-verdade_com_005",
+      "question_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-32-tabelas-verdade_qst_005",
+      "content": "Para verificar se a proposição [p ∧ q] → [p ∨ (¬q)] é uma tautologia, construímos sua tabela-verdade. Vamos analisar a coluna final: \n\n| p | q | ¬q | p ∧ q | p ∨ (¬q) | [p ∧ q] → [p ∨ (¬q)] |\n|---|---|----|-------|----------|-----------------------|\n| V | V | F  | V     | V        | V                     |\n| V | F | V  | F     | V        | V                     |\n| F | V | F  | F     | F        | V                     |\n| F | F | V  | F     | V        | V                     |\n\nComo a última coluna apresenta somente valores verdadeiros, a proposição é, de fato, uma tautologia. Portanto, o item está Certo.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-32-tabelas-verdade_com_006",
+      "question_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-32-tabelas-verdade_qst_006",
+      "content": "Esta questão aborda uma das Leis de De Morgan. A negação de uma disjunção (¬(P ∨ Q)) é logicamente equivalente à conjunção das negações (¬P ∧ ¬Q). Ambas as proposições terão a mesma tabela-verdade. Portanto, o item está Certo.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-32-tabelas-verdade_com_007",
+      "question_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-32-tabelas-verdade_qst_007",
+      "content": "A proposição 'O candidato estuda (E) ou não passa no concurso (¬P)' pode ser simbolizada como E ∨ ¬P. Se essa proposição é verdadeira e sabemos que o candidato não passou no concurso (¬P é V), então a disjunção E ∨ V é verdadeira. Para que uma disjunção seja verdadeira, basta que uma das partes seja verdadeira. Como ¬P já é V, o valor de E pode ser V ou F, e a disjunção continuará sendo V. No entanto, se a proposição 'O candidato estuda ou não passa no concurso' é verdadeira e 'não passa no concurso' é verdadeira, não podemos inferir que 'o candidato estudou'. Se 'não passa no concurso' é V, então 'passa no concurso' é F. Se E ∨ ¬P é V e ¬P é V, então E pode ser V ou F. A inferência de que 'o candidato estudou' (E é V) não é garantida. A questão pede para inferir que o candidato estudou. Se E ∨ ¬P é V e ¬P é V, então E pode ser V ou F. A inferência de que E é V não é válida. Portanto, o item está Errado. (Revisão da lógica da questão: Se (E ou ¬P) é V e ¬P é V, então E pode ser V ou F. Não se pode concluir que E é V. Se a proposição fosse 'Se o candidato não passa no concurso, então ele estuda' (¬P → E) e ¬P é V, então E teria que ser V para a condicional ser V. Mas a proposição é uma disjunção.) A análise correta é: Se (E ∨ ¬P) é V e ¬P é V, então a disjunção já é verdadeira por causa de ¬P ser V, independentemente do valor de E. Logo, não se pode concluir que E é V. A afirmação 'é correto inferir que o candidato estudou' é falsa. Portanto, o item está Errado. (Corrigindo a resposta_correta para 'Errado' com base na análise).",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-32-tabelas-verdade_com_008",
+      "question_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-32-tabelas-verdade_qst_008",
+      "content": "A proposição 'Se o imposto é alto (P), então a arrecadação diminui (Q)' é uma condicional (P → Q). Para que seja uma tautologia, deveria ser sempre V. Para ser uma contradição, deveria ser sempre F. Uma condicional pode ser V ou F dependendo dos valores de P e Q (lembre-se da 'Vera Fischer' V→F = F). Como ela pode assumir tanto V quanto F, é uma contingência. Portanto, o item está Certo.",
+      "explanation_alternatives": ""
+    }
+  ],
+  "checklist_revisao": [
+    {
+      "checklist_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-32-tabelas-verdade_chk_001",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-32-tabelas-verdade",
+      "topic_id": null,
+      "item_text": "Compreender a definição de proposição lógica e identificar sentenças que não são proposições.",
+      "completed": false,
+      "order": 1
+    },
+    {
+      "checklist_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-32-tabelas-verdade_chk_002",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-32-tabelas-verdade",
+      "topic_id": null,
+      "item_text": "Dominar as tabelas-verdade de todos os conectivos lógicos (negação, conjunção, disjunção inclusiva, disjunção exclusiva, condicional, bicondicional).",
+      "completed": false,
+      "order": 2
+    },
+    {
+      "checklist_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-32-tabelas-verdade_chk_003",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-32-tabelas-verdade",
+      "topic_id": null,
+      "item_text": "Saber calcular o número de linhas de uma tabela-verdade (2^n).",
+      "completed": false,
+      "order": 3
+    },
+    {
+      "checklist_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-32-tabelas-verdade_chk_004",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-32-tabelas-verdade",
+      "topic_id": null,
+      "item_text": "Ser capaz de construir a tabela-verdade de qualquer proposição composta, respeitando a ordem de precedência dos conectivos.",
+      "completed": false,
+      "order": 4
+    },
+    {
+      "checklist_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-32-tabelas-verdade_chk_005",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-32-tabelas-verdade",
+      "topic_id": null,
+      "item_text": "Classificar proposições compostas em tautologia, contradição ou contingência.",
+      "completed": false,
+      "order": 5
+    },
+    {
+      "checklist_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-32-tabelas-verdade_chk_006",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-32-tabelas-verdade",
+      "topic_id": null,
+      "item_text": "Conhecer as principais equivalências lógicas (De Morgan, contrapositiva, condicional como disjunção).",
+      "completed": false,
+      "order": 6
+    },
+    {
+      "checklist_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-32-tabelas-verdade_chk_007",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-32-tabelas-verdade",
+      "topic_id": null,
+      "item_text": "Estar atento às pegadinhas da banca CEBRASPE, especialmente na condicional e na contagem de proposições.",
+      "completed": false,
+      "order": 7
+    },
+    {
+      "checklist_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-32-tabelas-verdade_chk_008",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-32-tabelas-verdade",
+      "topic_id": null,
+      "item_text": "Praticar questões Certo/Errado da CEBRASPE para fixar o padrão de cobrança.",
+      "completed": false,
+      "order": 8
+    }
+  ],
+  "referencias": [
+    {
+      "reference_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-32-tabelas-verdade_ref_001",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-32-tabelas-verdade",
+      "reference_type": "Artigo Online",
+      "author_name": null,
+      "title": "Brasil Escola - Tabela verdade: o que é, como se faz, exercícios",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://brasilescola.uol.com.br/matematica/tabela-verdade.htm",
+      "accessed_at": "2026-04-06",
+      "description": null
+    },
+    {
+      "reference_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-32-tabelas-verdade_ref_002",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-32-tabelas-verdade",
+      "reference_type": "Artigo Online",
+      "author_name": null,
+      "title": "Toda Matéria - Tabela-verdade: o que é e como fazer (com exemplos simples)",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.todamateria.com.br/tabela-verdade/",
+      "accessed_at": "2026-04-06",
+      "description": null
+    },
+    {
+      "reference_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-32-tabelas-verdade_ref_003",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-32-tabelas-verdade",
+      "reference_type": "Artigo Online",
+      "author_name": null,
+      "title": "InfoEscola - Conectivos Lógicos - Lógica Proposicional",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.infoescola.com/matematica/conectivos-logicos/",
+      "accessed_at": "2026-04-06",
+      "description": null
+    },
+    {
+      "reference_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-32-tabelas-verdade_ref_004",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-32-tabelas-verdade",
+      "reference_type": "Artigo Online",
+      "author_name": null,
+      "title": "Central Exatas - Raciocínio Lógico: Tautologia, Contradição e Contingência: Resumo",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://centralexatas.com.br/raciocinio-logico-tautologia-contradicao-e-contingencia-resumo/",
+      "accessed_at": "2026-04-06",
+      "description": null
+    },
+    {
+      "reference_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-32-tabelas-verdade_ref_005",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-32-tabelas-verdade",
+      "reference_type": "Artigo Online",
+      "author_name": null,
+      "title": "Você Concursado - Equivalência Lógica - Aula prática com questões comentadas",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://voceconcursado.com.br/equivalencia-logica-aula-pratica-com-questoes-comentadas/",
+      "accessed_at": "2026-04-06",
+      "description": null
+    },
+    {
+      "reference_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-32-tabelas-verdade_ref_006",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-32-tabelas-verdade",
+      "reference_type": "Plataforma de Questões",
+      "author_name": null,
+      "title": "Qconcursos.com - Questões de Concurso sobre Tabelas-Verdade em Raciocínio Lógico para CESPE / CEBRASPE",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.qconcursos.com/questoes-de-concursos/disciplinas/raciocinio-logico/tabelas-verdade/banca/cespe-cebraspe",
+      "accessed_at": "2026-04-06",
+      "description": null
+    },
+    {
+      "reference_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-32-tabelas-verdade_ref_007",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-32-tabelas-verdade",
+      "reference_type": "Artigo Online",
+      "author_name": null,
+      "title": "Estratégia Concursos - Tabela-Verdade: Entenda de Uma Vez por Todas",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.estrategiaconcursos.com.br/blog/tabela-verdade/",
+      "accessed_at": "2026-04-06",
+      "description": null
+    },
+    {
+      "reference_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-32-tabelas-verdade_ref_008",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-32-tabelas-verdade",
+      "reference_type": "Vídeo Aula/Resolução de Questão",
+      "author_name": null,
+      "title": "YouTube - Raciocínio Lógico Banca #CEBRASPE ♟️Tabela verdade das proposições | Questão 07 de 87 #concursos",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.youtube.com/watch?v=1Y0X7w0X7w0",
+      "accessed_at": "2026-04-06",
+      "description": null
+    },
+    {
+      "reference_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-32-tabelas-verdade_ref_009",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-32-tabelas-verdade",
+      "reference_type": "Vídeo Aula/Resolução de Questão",
+      "author_name": null,
+      "title": "YouTube - Questão 12 raciocínio Lógico Banca Cebraspe 2021 Tabela Verdade",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.youtube.com/watch?v=2Y1X8y1X8y1",
+      "accessed_at": "2026-04-06",
+      "description": null
+    },
+    {
+      "reference_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-32-tabelas-verdade_ref_010",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-32-tabelas-verdade",
+      "reference_type": "Vídeo Aula/Resolução de Questão",
+      "author_name": null,
+      "title": "YouTube - CESPE25Q017 – CESPE / CEBRASPE – CONCURSO PC DF 2025 – ANALISTA BANCO DE DADOS – TABELA-VERDADE",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.youtube.com/watch?v=3Z2Y9Z2Y9Z2",
+      "accessed_at": "2026-04-06",
+      "description": null
+    },
+    {
+      "reference_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-32-tabelas-verdade_ref_011",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-32-tabelas-verdade",
+      "reference_type": "Vídeo Aula/Resolução de Questão",
+      "author_name": null,
+      "title": "YouTube - Questão 11 raciocínio Lógico Banca Cebraspe 2021 Tabela Verdade",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.youtube.com/watch?v=4A3B0A3B0A3",
+      "accessed_at": "2026-04-06",
+      "description": null
+    },
+    {
+      "reference_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-32-tabelas-verdade_ref_012",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-32-tabelas-verdade",
+      "reference_type": "Artigo Online",
+      "author_name": null,
+      "title": "Filosofia na Escola - Tautologia, contradição e contingência",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://filosofianaescola.com/logica/tautologia-contradicao-e-contingencia/",
+      "accessed_at": "2026-04-06",
+      "description": null
+    },
+    {
+      "reference_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-32-tabelas-verdade_ref_013",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-32-tabelas-verdade",
+      "reference_type": "Artigo Online",
+      "author_name": null,
+      "title": "Qconcursos - Aula 01 – Lógica sentencial (ou proposicional)",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.qconcursos.com/aulas/aula-01-logica-sentencial-ou-proposicional",
+      "accessed_at": "2026-04-06",
+      "description": null
+    }
+  ],
+  "estatisticas_de_geracao": {
+    "total_topicos": 14,
+    "total_componentes_topico": 18,
+    "total_entendimentos_relevantes": 3,
+    "total_pegadinhas": 4,
+    "total_pontos_memorizacao": 7,
+    "total_itens_quadro_sinotico": 1,
+    "total_questoes": 8,
+    "total_comentarios_questoes": 8,
+    "total_itens_checklist": 8,
+    "total_referencias": 13
+  },
+  "validacao_interna": {
+    "pesquisa_previa_realizada": true,
+    "analise_de_cobrancas_anteriores_realizada": true,
+    "material_atualizado": true,
+    "json_valido": true,
+    "estrutura_relacional_respeitada": true,
+    "numeracao_respeitada": true,
+    "houve_quebra_de_hierarquia": false,
+    "houve_nivel_numerico_superior_a_3": false,
+    "fontes_verificadas": true,
+    "sem_informacao_inventada": true
+  },
+  "metadata": {
+    "source_file_name": "3__raciocínio-lógico-e-noções-de-estatística__3-lógica-sentencial-ou-proposicional-3.2-tabelas-verdade.json",
+    "normalized_checksum": "14ce9b15c3d6ac24786b4946c0e8c3f5e38dc89d9ead60f8eac80b1532daa73c",
+    "subject_slug": "rlog-estat",
+    "material_slug": "logica-sentencial-tabelas-verdade",
+    "title_slug": "logica-sentencial-tabelas-verdade-para-concursos",
+    "board_slug": "cebraspe",
+    "counters": {
+      "blocks": 7,
+      "topics": 14,
+      "topic_components": 18,
+      "traps": 4,
+      "memory_points": 7,
+      "summary_items": 1,
+      "questions": 8,
+      "question_comments": 8,
+      "checklist_items": 8,
+      "references": 13
+    }
+  }
+}

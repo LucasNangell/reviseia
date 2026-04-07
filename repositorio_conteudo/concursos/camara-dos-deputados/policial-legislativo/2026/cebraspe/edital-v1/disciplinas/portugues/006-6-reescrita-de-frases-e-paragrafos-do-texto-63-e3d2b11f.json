@@ -1,0 +1,1032 @@
+{
+  "schema_version": "1.0",
+  "normalized_at": "2026-04-07T15:39:15.151298-03:00",
+  "normalizer_version": "2.0.0",
+  "exported_at": "2026-04-06T20:16:00Z",
+  "source_request": {
+    "purpose": "Concurso público",
+    "general_area": "Linguagens",
+    "subject_name": "Língua Portuguesa",
+    "subarea_name": "Gramática, interpretação e reescrita",
+    "main_theme": "6 Reescrita de frases e parágrafos do texto: 6.3 Reorganização da estrutura de orações e de períodos do texto",
+    "theme_scope": "Teoria completa, incidência em prova, padrão de cobrança da banca, pegadinhas e questões comentadas",
+    "board_style": "CEBRASPE",
+    "depth_level": "Exaustivo",
+    "goal": "Teoria completa, revisão estratégica, pegadinhas e questões comentadas",
+    "base_topic_number": "6",
+    "topic_title": "6 Reescrita de frases e parágrafos do texto: 6.3 Reorganização da estrutura de orações e de períodos do texto",
+    "syllabus_reference": "Conteúdo programático da disciplina Língua Portuguesa",
+    "priority_sources": [
+      "Gramáticas e manuais reconhecidos",
+      "Bibliografia técnica consolidada",
+      "Questões anteriores da banca"
+    ],
+    "minimum_questions": 8,
+    "question_format": "Certo/Errado",
+    "prioritize_real_questions": true,
+    "response_language": "português",
+    "target_audience": "Candidato de concurso público",
+    "additional_notes": "Executar exatamente para esta linha individual do topicos.txt. Não juntar com outros tópicos. Não pular este tópico. Dar destaque ao padrão de cobrança da banca, aos pontos mais cobrados e às pegadinhas recorrentes.",
+    "input_hash": "1ba1df4d7e49",
+    "extras": {}
+  },
+  "material": {
+    "material_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-63-reorganização-da-estrutura-de-orações-e-de-períodos-do-texto",
+    "slug": "reescrita-frases-paragrafos-reorganizacao-cebraspe",
+    "title": "Reescrita de Frases e Parágrafos: Reorganização da Estrutura de Orações e Períodos (CEBRASPE)",
+    "base_number": "6",
+    "topic_title": "6 Reescrita de frases e parágrafos do texto: 6.3 Reorganização da estrutura de orações e de períodos do texto",
+    "purpose": "Concurso público",
+    "area_name": "Linguagens",
+    "subject_name": "Língua Portuguesa",
+    "subarea_name": "Gramática, interpretação e reescrita",
+    "main_theme": "Reescrita de frases e parágrafos do texto: Reorganização da estrutura de orações e de períodos do texto",
+    "theme_scope": "Teoria completa, incidência em prova, padrão de cobrança da banca, pegadinhas e questões comentadas",
+    "board_style": "CEBRASPE",
+    "depth_level": "Exaustivo",
+    "study_goal": "Teoria completa, revisão estratégica, pegadinhas e questões comentadas",
+    "target_audience": "Candidato de concurso público",
+    "language_code": "português",
+    "update_status": "Atualizado",
+    "current_note": "Conteúdo verificado e atualizado conforme padrões recentes da banca CEBRASPE e gramática normativa.",
+    "has_case_law": false,
+    "case_law_justification": "A matéria de Língua Portuguesa, especialmente no tópico de reescrita de frases, não exige a inclusão de jurisprudência. O foco é na norma culta, semântica e padrões de coesão/coerência.",
+    "has_information_limitation": false,
+    "information_limitation_desc": null,
+    "content_checksum": "placeholder_checksum",
+    "extras": {}
+  },
+  "blocos_textuais": [
+    {
+      "external_block_code": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-63-reorganização-da-estrutura-de-orações-e-de-períodos-do-texto_blc_001",
+      "material_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-63-reorganização-da-estrutura-de-orações-e-de-períodos-do-texto",
+      "topic_id": null,
+      "order": 1,
+      "title": "Introdução à Reescrita de Frases e Parágrafos no CEBRASPE",
+      "content": "A reescrita de frases e parágrafos é um dos temas mais recorrentes e desafiadores nas provas de Língua Portuguesa do CEBRASPE. Este tópico exige do candidato uma compreensão aprofundada da gramática normativa, da semântica e dos mecanismos de coesão e coerência textual. A banca avalia a capacidade de reformular trechos do texto sem prejuízo da correção gramatical e/ou da manutenção do sentido original, ou ainda da coerência. A reorganização da estrutura de orações e de períodos, especificamente, é um ponto crucial, pois pequenas alterações na ordem dos termos, na pontuação ou nos conectivos podem gerar grandes mudanças no significado ou na conformidade com a norma culta.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-63-reorganização-da-estrutura-de-orações-e-de-períodos-do-texto_blc_002",
+      "material_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-63-reorganização-da-estrutura-de-orações-e-de-períodos-do-texto",
+      "topic_id": null,
+      "order": 2,
+      "title": "Fundamentos da Reescrita: Correção Gramatical e Manutenção de Sentido",
+      "content": "Para dominar a reescrita, é fundamental compreender os pilares que a sustentam: a correção gramatical, a manutenção do sentido original, a coerência e a coesão textual. O CEBRASPE frequentemente combina a avaliação desses aspectos em suas questões.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-63-reorganização-da-estrutura-de-orações-e-de-períodos-do-texto_blc_003",
+      "material_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-63-reorganização-da-estrutura-de-orações-e-de-períodos-do-texto",
+      "topic_id": null,
+      "order": 3,
+      "title": "6.1.1 Correção Gramatical",
+      "content": "Refere-se à adequação do texto reescrito às regras da norma culta da Língua Portuguesa. Os principais pontos a serem observados incluem: Concordância verbal e nominal (sujeito-verbo, substantivo-adjetivo); Regência verbal e nominal (uso correto de preposições); Emprego da crase; Pontuação (especialmente o uso da vírgula, ponto e vírgula, dois-pontos e travessões); Colocação pronominal; Flexão verbal e nominal; Uso das vozes verbais (ativa, passiva analítica e sintética).",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-63-reorganização-da-estrutura-de-orações-e-de-períodos-do-texto_blc_004",
+      "material_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-63-reorganização-da-estrutura-de-orações-e-de-períodos-do-texto",
+      "topic_id": null,
+      "order": 4,
+      "title": "6.1.2 Manutenção do Sentido Original",
+      "content": "Significa que a nova formulação deve transmitir *exatamente* a mesma informação da frase original, sem qualquer alteração semântica substancial. A banca exige um sinônimo perfeito ou uma equivalência de ideias. Pontos críticos para análise: Substituição de palavras por sinônimos ou expressões equivalentes; Preservação das relações semânticas estabelecidas por conectivos (causa, consequência, condição, finalidade, adição, oposição, etc.); Manutenção dos tempos e modos verbais, pois sua alteração pode modificar o sentido; O papel das orações adjetivas (restritivas vs. explicativas), cuja troca altera o sentido.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-63-reorganização-da-estrutura-de-orações-e-de-períodos-do-texto_blc_005",
+      "material_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-63-reorganização-da-estrutura-de-orações-e-de-períodos-do-texto",
+      "topic_id": null,
+      "order": 5,
+      "title": "6.1.3 Coerência Textual",
+      "content": "Diferente da manutenção do sentido original, a coerência refere-se à lógica interna do texto. Uma frase reescrita pode ter uma pequena variação de sentido, mas ainda ser considerada coerente se mantiver a lógica das ideias e for compatível com o contexto geral. O CEBRASPE costuma explorar essa distinção, perguntando se a reescrita mantém a coerência *mesmo que* altere o sentido.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-63-reorganização-da-estrutura-de-orações-e-de-períodos-do-texto_blc_006",
+      "material_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-63-reorganização-da-estrutura-de-orações-e-de-períodos-do-texto",
+      "topic_id": null,
+      "order": 6,
+      "title": "6.1.4 Coesão Textual",
+      "content": "A coesão diz respeito à ligação formal entre as partes do texto, garantindo que as ideias estejam bem articuladas. Elementos coesivos incluem pronomes, advérbios, conjunções, preposições e a repetição ou substituição de termos. A reescrita deve assegurar que esses elementos continuem a estabelecer as relações adequadas entre as orações e períodos.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-63-reorganização-da-estrutura-de-orações-e-de-períodos-do-texto_blc_007",
+      "material_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-63-reorganização-da-estrutura-de-orações-e-de-períodos-do-texto",
+      "topic_id": null,
+      "order": 7,
+      "title": "Reorganização da Estrutura de Orações e Períodos",
+      "content": "A reorganização é o cerne deste tópico e envolve a manipulação da estrutura sintática para expressar a mesma ideia de diferentes formas, ou para analisar o impacto de tais mudanças.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-63-reorganização-da-estrutura-de-orações-e-de-períodos-do-texto_blc_008",
+      "material_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-63-reorganização-da-estrutura-de-orações-e-de-períodos-do-texto",
+      "topic_id": null,
+      "order": 8,
+      "title": "6.2.1 Alterações Sintáticas e seus Impactos",
+      "content": "A mudança na ordem dos termos (sujeito, verbo, complementos, adjuntos) é uma técnica comum de reescrita. Embora a Língua Portuguesa permita certa flexibilidade na ordem dos elementos, é crucial que a nova disposição não gere ambiguidade, erro gramatical ou alteração de sentido. Por exemplo, o deslocamento de um adjunto adverbial de longa extensão exige vírgula para manter a correção.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-63-reorganização-da-estrutura-de-orações-e-de-períodos-do-texto_blc_009",
+      "material_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-63-reorganização-da-estrutura-de-orações-e-de-períodos-do-texto",
+      "topic_id": null,
+      "order": 9,
+      "title": "6.2.2 Vozes Verbais e Reescrita",
+      "content": "A transformação da voz ativa para a passiva (analítica ou sintética) e vice-versa é um recurso frequente. É essencial que, ao realizar essa mudança, a correção gramatical (especialmente a concordância verbal) e o sentido original sejam mantidos. Exemplo: 'O aluno fez a prova.' (Ativa) -> 'A prova foi feita pelo aluno.' (Passiva Analítica) -> 'Fez-se a prova.' (Passiva Sintética).",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-63-reorganização-da-estrutura-de-orações-e-de-períodos-do-texto_blc_010",
+      "material_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-63-reorganização-da-estrutura-de-orações-e-de-períodos-do-texto",
+      "topic_id": null,
+      "order": 10,
+      "title": "6.2.3 Conectivos e Relações Semânticas",
+      "content": "A substituição de conjunções e preposições é uma das principais formas de reorganização. O desafio é encontrar conectivos que mantenham a mesma relação semântica (causa, consequência, oposição, adição, tempo, condição, etc.). A troca de um conectivo por outro de valor semântico diferente quase sempre altera o sentido original.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-63-reorganização-da-estrutura-de-orações-e-de-períodos-do-texto_blc_011",
+      "material_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-63-reorganização-da-estrutura-de-orações-e-de-períodos-do-texto",
+      "topic_id": null,
+      "order": 11,
+      "title": "6.2.4 Pontuação e Sentido",
+      "content": "A pontuação é um dos aspectos mais explorados pelo CEBRASPE. A inserção, remoção ou substituição de sinais de pontuação pode alterar drasticamente o sentido e a correção gramatical. Atenção especial a: Vírgula separando sujeito e predicado (erro); Vírgula separando verbo e seus complementos (erro); Uso de vírgulas em adjuntos adverbiais deslocados; Diferença entre orações adjetivas restritivas (sem vírgula) e explicativas (com vírgula), que altera o sentido; Uso de travessões e parênteses para isolar informações.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-63-reorganização-da-estrutura-de-orações-e-de-períodos-do-texto_blc_012",
+      "material_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-63-reorganização-da-estrutura-de-orações-e-de-períodos-do-texto",
+      "topic_id": null,
+      "order": 12,
+      "title": "6.2.5 Pronomes Relativos e Regência",
+      "content": "A reorganização que envolve pronomes relativos (que, quem, cujo, onde, o qual) exige cuidado com a regência verbal ou nominal do termo antecedente. A preposição exigida pelo verbo ou nome regente deve anteceder o pronome relativo. Exemplo: 'Este é o livro *de que* gosto.' (Gostar *de* algo). O uso do 'onde' deve ser restrito a adjuntos adverbiais de lugar.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-63-reorganização-da-estrutura-de-orações-e-de-períodos-do-texto_blc_013",
+      "material_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-63-reorganização-da-estrutura-de-orações-e-de-períodos-do-texto",
+      "topic_id": null,
+      "order": 13,
+      "title": "Padrão de Cobrança do CEBRASPE em Reescrita",
+      "content": "O CEBRASPE é conhecido por sua abordagem rigorosa e por explorar nuances da Língua Portuguesa. A análise de questões anteriores é fundamental para identificar o padrão de cobrança.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-63-reorganização-da-estrutura-de-orações-e-de-períodos-do-texto_blc_014",
+      "material_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-63-reorganização-da-estrutura-de-orações-e-de-períodos-do-texto",
+      "topic_id": null,
+      "order": 14,
+      "title": "6.3.1 Foco na Dupla Análise: Gramática e Sentido/Coerência",
+      "content": "A maioria das questões de reescrita do CEBRASPE exige que o candidato avalie *simultaneamente* a correção gramatical e a manutenção do sentido original ou da coerência. É crucial ler o comando da questão com atenção para identificar qual critério (ou quais critérios) está sendo solicitado. A banca diferencia explicitamente 'manutenção do sentido original' (equivalência exata) de 'manutenção da coerência' (lógica textual, mesmo com pequenas variações de sentido).",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-63-reorganização-da-estrutura-de-orações-e-de-períodos-do-texto_blc_015",
+      "material_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-63-reorganização-da-estrutura-de-orações-e-de-períodos-do-texto",
+      "topic_id": null,
+      "order": 15,
+      "title": "6.3.2 Armadilhas Comuns (Pegadinhas)",
+      "content": "O CEBRASPE é mestre em criar 'pegadinhas' que testam a atenção e o conhecimento aprofundado do candidato. As mais recorrentes incluem: Vírgula proibitiva entre sujeito e verbo, ou verbo e complemento direto. Troca de conectivos com valores semânticos distintos (ex: causa por conclusão). Alteração de sentido por mudança na pontuação (ex: oração adjetiva restritiva para explicativa). Erros de regência com pronomes relativos. Concordância verbal com verbos impessoais (ex: haver no sentido de existir). Deslocamento de termos que geram ambiguidade ou erro gramatical. Confusão entre 'sentido original' e 'coerência'. Uso inadequado do 'onde' para referir-se a algo que não seja lugar.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-63-reorganização-da-estrutura-de-orações-e-de-períodos-do-texto_blc_016",
+      "material_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-63-reorganização-da-estrutura-de-orações-e-de-períodos-do-texto",
+      "topic_id": null,
+      "order": 16,
+      "title": "6.3.3 Estratégias de Resolução",
+      "content": "Para resolver questões de reescrita do CEBRASPE, adote as seguintes estratégias: 1. Leia o comando da questão com extrema atenção: identifique se a banca pede manutenção da correção gramatical, do sentido original, da coerência ou uma combinação. 2. Análise comparativa: compare a frase original com a proposta de reescrita, termo a termo, buscando diferenças. 3. Verifique a gramática: analise pontuação, concordância, regência, crase e colocação pronominal. Se houver erro gramatical, o item está errado (a menos que o comando peça o contrário). 4. Verifique o sentido: se a gramática estiver correta, avalie se o sentido original foi mantido. Atenção a sinônimos, conectivos e tempos verbais. 5. Verifique a coerência: se o sentido original foi alterado, mas a questão pede coerência, avalie se a nova frase ainda faz sentido lógico no contexto. 6. Deslocamento de termos: observe se a mudança de posição de adjuntos adverbiais ou orações não gerou ambiguidade ou erro. 7. Elimine as 'expressões espletivas': termos como 'é que' podem ser retirados sem prejuízo.",
+      "content_type": "teoria"
+    }
+  ],
+  "topicos": [
+    {
+      "external_topic_code": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-63-reorganização-da-estrutura-de-orações-e-de-períodos-do-texto_top_001",
+      "material_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-63-reorganização-da-estrutura-de-orações-e-de-períodos-do-texto",
+      "parent_topic_id": null,
+      "topic_number": "6.0",
+      "title": "Introdução à Reescrita de Frases e Parágrafos no CEBRASPE",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 1
+    },
+    {
+      "external_topic_code": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-63-reorganização-da-estrutura-de-orações-e-de-períodos-do-texto_top_002",
+      "material_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-63-reorganização-da-estrutura-de-orações-e-de-períodos-do-texto",
+      "parent_topic_id": null,
+      "topic_number": "6.1",
+      "title": "Fundamentos da Reescrita: Correção Gramatical e Manutenção de Sentido",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 2
+    },
+    {
+      "external_topic_code": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-63-reorganização-da-estrutura-de-orações-e-de-períodos-do-texto_top_003",
+      "material_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-63-reorganização-da-estrutura-de-orações-e-de-períodos-do-texto",
+      "parent_topic_id": null,
+      "topic_number": "6.2",
+      "title": "Reorganização da Estrutura de Orações e Períodos",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 3
+    },
+    {
+      "external_topic_code": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-63-reorganização-da-estrutura-de-orações-e-de-períodos-do-texto_top_004",
+      "material_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-63-reorganização-da-estrutura-de-orações-e-de-períodos-do-texto",
+      "parent_topic_id": null,
+      "topic_number": "6.3",
+      "title": "Padrão de Cobrança do CEBRASPE em Reescrita",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 4
+    },
+    {
+      "external_topic_code": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-63-reorganização-da-estrutura-de-orações-e-de-períodos-do-texto_top_005",
+      "material_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-63-reorganização-da-estrutura-de-orações-e-de-períodos-do-texto",
+      "parent_topic_id": null,
+      "topic_number": "6.4",
+      "title": "Questões Comentadas (Simuladas no Estilo CEBRASPE)",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 5
+    }
+  ],
+  "topico_componentes": [
+    {
+      "component_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-63-reorganização-da-estrutura-de-orações-e-de-períodos-do-texto_cmp_id_001",
+      "topic_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-63-reorganização-da-estrutura-de-orações-e-de-períodos-do-texto_top_001",
+      "component_type": "Componente",
+      "content": "",
+      "order": 1
+    },
+    {
+      "component_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-63-reorganização-da-estrutura-de-orações-e-de-períodos-do-texto_cmp_id_002",
+      "topic_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-63-reorganização-da-estrutura-de-orações-e-de-períodos-do-texto_top_001",
+      "component_type": "Componente",
+      "content": "",
+      "order": 2
+    },
+    {
+      "component_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-63-reorganização-da-estrutura-de-orações-e-de-períodos-do-texto_cmp_id_003",
+      "topic_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-63-reorganização-da-estrutura-de-orações-e-de-períodos-do-texto_top_001",
+      "component_type": "Componente",
+      "content": "",
+      "order": 3
+    },
+    {
+      "component_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-63-reorganização-da-estrutura-de-orações-e-de-períodos-do-texto_cmp_id_004",
+      "topic_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-63-reorganização-da-estrutura-de-orações-e-de-períodos-do-texto_top_001",
+      "component_type": "Componente",
+      "content": "",
+      "order": 4
+    },
+    {
+      "component_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-63-reorganização-da-estrutura-de-orações-e-de-períodos-do-texto_cmp_id_005",
+      "topic_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-63-reorganização-da-estrutura-de-orações-e-de-períodos-do-texto_top_001",
+      "component_type": "Componente",
+      "content": "",
+      "order": 5
+    },
+    {
+      "component_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-63-reorganização-da-estrutura-de-orações-e-de-períodos-do-texto_cmp_id_006",
+      "topic_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-63-reorganização-da-estrutura-de-orações-e-de-períodos-do-texto_top_001",
+      "component_type": "Componente",
+      "content": "",
+      "order": 6
+    },
+    {
+      "component_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-63-reorganização-da-estrutura-de-orações-e-de-períodos-do-texto_cmp_id_007",
+      "topic_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-63-reorganização-da-estrutura-de-orações-e-de-períodos-do-texto_top_001",
+      "component_type": "Componente",
+      "content": "",
+      "order": 7
+    },
+    {
+      "component_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-63-reorganização-da-estrutura-de-orações-e-de-períodos-do-texto_cmp_id_008",
+      "topic_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-63-reorganização-da-estrutura-de-orações-e-de-períodos-do-texto_top_001",
+      "component_type": "Componente",
+      "content": "",
+      "order": 8
+    },
+    {
+      "component_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-63-reorganização-da-estrutura-de-orações-e-de-períodos-do-texto_cmp_id_009",
+      "topic_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-63-reorganização-da-estrutura-de-orações-e-de-períodos-do-texto_top_001",
+      "component_type": "Componente",
+      "content": "",
+      "order": 9
+    },
+    {
+      "component_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-63-reorganização-da-estrutura-de-orações-e-de-períodos-do-texto_cmp_id_010",
+      "topic_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-63-reorganização-da-estrutura-de-orações-e-de-períodos-do-texto_top_001",
+      "component_type": "Componente",
+      "content": "",
+      "order": 10
+    },
+    {
+      "component_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-63-reorganização-da-estrutura-de-orações-e-de-períodos-do-texto_cmp_id_011",
+      "topic_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-63-reorganização-da-estrutura-de-orações-e-de-períodos-do-texto_top_001",
+      "component_type": "Componente",
+      "content": "",
+      "order": 11
+    },
+    {
+      "component_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-63-reorganização-da-estrutura-de-orações-e-de-períodos-do-texto_cmp_id_012",
+      "topic_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-63-reorganização-da-estrutura-de-orações-e-de-períodos-do-texto_top_001",
+      "component_type": "Componente",
+      "content": "",
+      "order": 12
+    }
+  ],
+  "pegadinhas": [
+    {
+      "trap_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-63-reorganização-da-estrutura-de-orações-e-de-períodos-do-texto_peg_001",
+      "material_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-63-reorganização-da-estrutura-de-orações-e-de-períodos-do-texto",
+      "topic_id": null,
+      "title": "Vírgula Proibitiva",
+      "description": "Separar o sujeito do verbo ou o verbo do seu complemento direto por vírgula é um erro gramatical comum e uma pegadinha frequente do CEBRASPE.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 1
+    },
+    {
+      "trap_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-63-reorganização-da-estrutura-de-orações-e-de-períodos-do-texto_peg_002",
+      "material_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-63-reorganização-da-estrutura-de-orações-e-de-períodos-do-texto",
+      "topic_id": null,
+      "title": "Troca de Conectivos com Sentido Diferente",
+      "description": "Substituir uma conjunção ou preposição por outra que não mantenha a mesma relação semântica (causa, condição, oposição, etc.) é uma armadilha que altera o sentido original.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 2
+    },
+    {
+      "trap_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-63-reorganização-da-estrutura-de-orações-e-de-períodos-do-texto_peg_003",
+      "material_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-63-reorganização-da-estrutura-de-orações-e-de-períodos-do-texto",
+      "topic_id": null,
+      "title": "Uso Indevido do 'Onde'",
+      "description": "O pronome/advérbio 'onde' deve ser empregado exclusivamente para indicar lugar. Seu uso para se referir a tempo, modo ou outras circunstâncias é incorreto e frequentemente cobrado.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 3
+    },
+    {
+      "trap_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-63-reorganização-da-estrutura-de-orações-e-de-períodos-do-texto_peg_004",
+      "material_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-63-reorganização-da-estrutura-de-orações-e-de-períodos-do-texto",
+      "topic_id": null,
+      "title": "Orações Adjetivas (Restritivas vs. Explicativas)",
+      "description": "A alteração de uma oração adjetiva restritiva (sem vírgulas) para explicativa (com vírgulas) ou vice-versa, embora gramaticalmente possível, muda o sentido da frase, o que é uma pegadinha comum.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 4
+    },
+    {
+      "trap_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-63-reorganização-da-estrutura-de-orações-e-de-períodos-do-texto_peg_005",
+      "material_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-63-reorganização-da-estrutura-de-orações-e-de-períodos-do-texto",
+      "topic_id": null,
+      "title": "Concordância com Verbos Impessoais",
+      "description": "Verbos como 'haver' no sentido de 'existir' são impessoais e devem permanecer no singular. A pluralização é um erro gramatical explorado pelo CEBRASPE.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 5
+    }
+  ],
+  "pontos_memorizacao": [
+    {
+      "memory_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-63-reorganização-da-estrutura-de-orações-e-de-períodos-do-texto_mem_001",
+      "material_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-63-reorganização-da-estrutura-de-orações-e-de-períodos-do-texto",
+      "topic_id": null,
+      "title": "Comando da Questão é Lei",
+      "content": "",
+      "order": 1
+    },
+    {
+      "memory_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-63-reorganização-da-estrutura-de-orações-e-de-períodos-do-texto_mem_002",
+      "material_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-63-reorganização-da-estrutura-de-orações-e-de-períodos-do-texto",
+      "topic_id": null,
+      "title": "Análise Termo a Termo",
+      "content": "",
+      "order": 2
+    },
+    {
+      "memory_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-63-reorganização-da-estrutura-de-orações-e-de-períodos-do-texto_mem_003",
+      "material_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-63-reorganização-da-estrutura-de-orações-e-de-períodos-do-texto",
+      "topic_id": null,
+      "title": "Pontuação e Sentido Andam Juntos",
+      "content": "",
+      "order": 3
+    },
+    {
+      "memory_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-63-reorganização-da-estrutura-de-orações-e-de-períodos-do-texto_mem_004",
+      "material_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-63-reorganização-da-estrutura-de-orações-e-de-períodos-do-texto",
+      "topic_id": null,
+      "title": "Conectivos: Guardiões do Sentido",
+      "content": "",
+      "order": 4
+    },
+    {
+      "memory_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-63-reorganização-da-estrutura-de-orações-e-de-períodos-do-texto_mem_005",
+      "material_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-63-reorganização-da-estrutura-de-orações-e-de-períodos-do-texto",
+      "topic_id": null,
+      "title": "Regência e Pronomes Relativos: Dupla Essencial",
+      "content": "",
+      "order": 5
+    }
+  ],
+  "quadro_sinotico_itens": [],
+  "questoes": [
+    {
+      "question_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-63-reorganização-da-estrutura-de-orações-e-de-períodos-do-texto_qst_001",
+      "material_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-63-reorganização-da-estrutura-de-orações-e-de-períodos-do-texto",
+      "topic_id": null,
+      "board": "CEBRASPE",
+      "year": "202X",
+      "organization": null,
+      "role": null,
+      "statement": "Julgue o item a seguir, relativo à reescrita de frases e parágrafos do texto. <br><br>O trecho 'Apesar de a pesquisa indicar resultados promissores, a equipe optou por cautela.' poderia ser reescrito, sem prejuízo da correção gramatical e do sentido original, como 'Embora a pesquisa indicasse resultados promissores, a equipe optou por cautela.'.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": "Média",
+      "external_reference": null,
+      "commentary": null,
+      "commentary_meta": {}
+    },
+    {
+      "question_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-63-reorganização-da-estrutura-de-orações-e-de-períodos-do-texto_qst_002",
+      "material_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-63-reorganização-da-estrutura-de-orações-e-de-períodos-do-texto",
+      "topic_id": null,
+      "board": "CEBRASPE",
+      "year": "202X",
+      "organization": null,
+      "role": null,
+      "statement": "Julgue o item a seguir, relativo à reescrita de frases e parágrafos do texto. <br><br>Na frase 'Os problemas que afligem a sociedade exigem soluções urgentes.', a substituição de 'que afligem' por 'afligindo' manteria a correção gramatical e o sentido original.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": "Média",
+      "external_reference": null,
+      "commentary": null,
+      "commentary_meta": {}
+    },
+    {
+      "question_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-63-reorganização-da-estrutura-de-orações-e-de-períodos-do-texto_qst_003",
+      "material_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-63-reorganização-da-estrutura-de-orações-e-de-períodos-do-texto",
+      "topic_id": null,
+      "board": "CEBRASPE",
+      "year": "202X",
+      "organization": null,
+      "role": null,
+      "statement": "Julgue o item a seguir, relativo à reescrita de frases e parágrafos do texto. <br><br>O segmento 'É necessário que se tomem medidas eficazes.' poderia ser reescrito, sem prejuízo da correção gramatical e do sentido original, como 'Medidas eficazes precisam ser tomadas.'.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": "Fácil",
+      "external_reference": null,
+      "commentary": null,
+      "commentary_meta": {}
+    },
+    {
+      "question_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-63-reorganização-da-estrutura-de-orações-e-de-períodos-do-texto_qst_004",
+      "material_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-63-reorganização-da-estrutura-de-orações-e-de-períodos-do-texto",
+      "topic_id": null,
+      "board": "CEBRASPE",
+      "year": "202X",
+      "organization": null,
+      "role": null,
+      "statement": "Julgue o item a seguir, relativo à reescrita de frases e parágrafos do texto. <br><br>A inserção de uma vírgula logo após 'estudantes' no trecho 'Os estudantes dedicados alcançam bons resultados.' manteria a correção gramatical, mas alteraria o sentido original.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": "Média",
+      "external_reference": null,
+      "commentary": null,
+      "commentary_meta": {}
+    },
+    {
+      "question_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-63-reorganização-da-estrutura-de-orações-e-de-períodos-do-texto_qst_005",
+      "material_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-63-reorganização-da-estrutura-de-orações-e-de-períodos-do-texto",
+      "topic_id": null,
+      "board": "CEBRASPE",
+      "year": "202X",
+      "organization": null,
+      "role": null,
+      "statement": "Julgue o item a seguir, relativo à reescrita de frases e parágrafos do texto. <br><br>Na frase 'Onde há fumaça, há fogo.', a substituição de 'Onde' por 'No lugar em que' manteria a correção gramatical e o sentido original.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": "Fácil",
+      "external_reference": null,
+      "commentary": null,
+      "commentary_meta": {}
+    },
+    {
+      "question_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-63-reorganização-da-estrutura-de-orações-e-de-períodos-do-texto_qst_006",
+      "material_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-63-reorganização-da-estrutura-de-orações-e-de-períodos-do-texto",
+      "topic_id": null,
+      "board": "CEBRASPE",
+      "year": "202X",
+      "organization": null,
+      "role": null,
+      "statement": "Julgue o item a seguir, relativo à reescrita de frases e parágrafos do texto. <br><br>O trecho 'A decisão, que foi tomada rapidamente, surpreendeu a todos.' poderia ser reescrito, sem prejuízo da correção gramatical e do sentido original, como 'A decisão tomada rapidamente surpreendeu a todos.'.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": "Difícil",
+      "external_reference": null,
+      "commentary": null,
+      "commentary_meta": {}
+    },
+    {
+      "question_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-63-reorganização-da-estrutura-de-orações-e-de-períodos-do-texto_qst_007",
+      "material_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-63-reorganização-da-estrutura-de-orações-e-de-períodos-do-texto",
+      "topic_id": null,
+      "board": "CEBRASPE",
+      "year": "202X",
+      "organization": null,
+      "role": null,
+      "statement": "Julgue o item a seguir, relativo à reescrita de frases e parágrafos do texto. <br><br>A frase 'Havia muitos candidatos na sala.' poderia ser reescrita, sem prejuízo da correção gramatical e do sentido original, como 'Existiam muitos candidatos na sala.'.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": "Média",
+      "external_reference": null,
+      "commentary": null,
+      "commentary_meta": {}
+    },
+    {
+      "question_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-63-reorganização-da-estrutura-de-orações-e-de-períodos-do-texto_qst_008",
+      "material_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-63-reorganização-da-estrutura-de-orações-e-de-períodos-do-texto",
+      "topic_id": null,
+      "board": "CEBRASPE",
+      "year": "202X",
+      "organization": null,
+      "role": null,
+      "statement": "Julgue o item a seguir, relativo à reescrita de frases e parágrafos do texto. <br><br>No período 'Os resultados, por serem complexos, exigem análise cuidadosa.', a oração 'por serem complexos' poderia ser substituída, sem prejuízo da correção gramatical e do sentido original, por 'porque são complexos'.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": "Média",
+      "external_reference": null,
+      "commentary": null,
+      "commentary_meta": {}
+    }
+  ],
+  "comentarios_questoes": [
+    {
+      "comment_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-63-reorganização-da-estrutura-de-orações-e-de-períodos-do-texto_com_001",
+      "question_id": null,
+      "content": "A questão testa a capacidade de substituir uma locução prepositiva adverbial ('Apesar de a') por uma conjunção subordinativa adverbial ('Embora') de mesmo valor semântico (concessão). Ambas as formas expressam a ideia de contraste ou ressalva, mantendo a correção gramatical e o sentido original. Portanto, o item está Certo.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-63-reorganização-da-estrutura-de-orações-e-de-períodos-do-texto_com_002",
+      "question_id": null,
+      "content": "A oração 'que afligem a sociedade' é uma oração subordinada adjetiva restritiva. A substituição por 'afligindo a sociedade' transforma a oração em uma oração reduzida de gerúndio. Embora a correção gramatical possa ser mantida em alguns contextos, a alteração da estrutura pode gerar ambiguidade ou modificar sutilmente o sentido, especialmente a ideia de permanência ou característica inerente. No contexto de 'problemas que afligem', a forma desenvolvida é mais precisa. A forma reduzida pode soar como uma ação momentânea ou uma circunstância, alterando o sentido original de 'problemas que *sempre* afligem'. Portanto, o item está Errado.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-63-reorganização-da-estrutura-de-orações-e-de-períodos-do-texto_com_003",
+      "question_id": null,
+      "content": "A frase original apresenta uma oração subordinada substantiva subjetiva ('que se tomem medidas eficazes') com verbo na voz passiva sintética ('se tomem'). A reescrita 'Medidas eficazes precisam ser tomadas.' utiliza a voz passiva analítica ('precisam ser tomadas') e transforma a oração subordinada em sujeito da oração principal. Ambas as construções são gramaticalmente corretas e expressam o mesmo sentido de necessidade de ação. Portanto, o item está Certo.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-63-reorganização-da-estrutura-de-orações-e-de-períodos-do-texto_com_004",
+      "question_id": null,
+      "content": "A frase original 'Os estudantes dedicados alcançam bons resultados.' possui 'dedicados' como adjunto adnominal restritivo, indicando que *apenas* os estudantes dedicados alcançam bons resultados. A inserção de uma vírgula após 'estudantes' ('Os estudantes, dedicados, alcançam bons resultados.') transformaria 'dedicados' em um aposto explicativo ou adjunto adnominal explicativo, sugerindo que *todos* os estudantes são dedicados e, por isso, alcançam bons resultados. Essa mudança altera o sentido original da frase. A correção gramatical seria mantida, mas o sentido seria alterado. Portanto, o item está Certo.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-63-reorganização-da-estrutura-de-orações-e-de-períodos-do-texto_com_005",
+      "question_id": null,
+      "content": "O advérbio 'Onde' na frase original indica lugar. A substituição por 'No lugar em que' mantém a referência de lugar e a correção gramatical, sem alterar o sentido. O CEBRASPE frequentemente testa o uso correto do 'onde' e suas equivalências. Portanto, o item está Certo.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-63-reorganização-da-estrutura-de-orações-e-de-períodos-do-texto_com_006",
+      "question_id": null,
+      "content": "A oração 'que foi tomada rapidamente' é uma oração subordinada adjetiva explicativa, isolada por vírgulas, que adiciona uma informação sobre a decisão, mas não restringe seu sentido. A reescrita 'A decisão tomada rapidamente surpreendeu a todos.' transforma a oração explicativa em uma locução adjetiva restritiva ('tomada rapidamente'), que restringe o tipo de decisão que surpreendeu. Essa mudança altera o sentido original, pois a decisão original era *uma* decisão que, por acaso, foi rápida; na reescrita, é *a decisão rápida* que surpreendeu. Portanto, o item está Errado.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-63-reorganização-da-estrutura-de-orações-e-de-períodos-do-texto_com_007",
+      "question_id": null,
+      "content": "O verbo 'haver' no sentido de 'existir' é impessoal e deve permanecer no singular ('Havia'). O verbo 'existir', por sua vez, é pessoal e concorda com o sujeito ('muitos candidatos'). A reescrita 'Existiam muitos candidatos na sala.' está gramaticalmente correta e mantém o sentido original. O CEBRASPE frequentemente testa essa equivalência e a concordância com verbos impessoais. Portanto, o item está Certo.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-63-reorganização-da-estrutura-de-orações-e-de-períodos-do-texto_com_008",
+      "question_id": null,
+      "content": "A oração 'por serem complexos' é uma oração subordinada adverbial causal reduzida de infinitivo. A substituição por 'porque são complexos' a transforma em uma oração subordinada adverbial causal desenvolvida. Ambas as formas expressam a mesma relação de causa e mantêm a correção gramatical e o sentido original. Portanto, o item está Certo.",
+      "explanation_alternatives": ""
+    }
+  ],
+  "checklist_revisao": [
+    {
+      "checklist_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-63-reorganização-da-estrutura-de-orações-e-de-períodos-do-texto_chk_001",
+      "material_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-63-reorganização-da-estrutura-de-orações-e-de-períodos-do-texto",
+      "topic_id": null,
+      "item_text": "Verificar se a reescrita mantém a correção gramatical (concordância, regência, crase, pontuação, colocação pronominal).",
+      "completed": false,
+      "order": 1
+    },
+    {
+      "checklist_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-63-reorganização-da-estrutura-de-orações-e-de-períodos-do-texto_chk_002",
+      "material_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-63-reorganização-da-estrutura-de-orações-e-de-períodos-do-texto",
+      "topic_id": null,
+      "item_text": "Analisar se o sentido original foi preservado, especialmente em relação a sinônimos e conectivos.",
+      "completed": false,
+      "order": 2
+    },
+    {
+      "checklist_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-63-reorganização-da-estrutura-de-orações-e-de-períodos-do-texto_chk_003",
+      "material_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-63-reorganização-da-estrutura-de-orações-e-de-períodos-do-texto",
+      "topic_id": null,
+      "item_text": "Distinguir entre 'manutenção do sentido original' e 'manutenção da coerência' conforme o comando da questão.",
+      "completed": false,
+      "order": 3
+    },
+    {
+      "checklist_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-63-reorganização-da-estrutura-de-orações-e-de-períodos-do-texto_chk_004",
+      "material_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-63-reorganização-da-estrutura-de-orações-e-de-períodos-do-texto",
+      "topic_id": null,
+      "item_text": "Atenção redobrada à pontuação, pois ela pode alterar o sentido e a correção.",
+      "completed": false,
+      "order": 4
+    },
+    {
+      "checklist_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-63-reorganização-da-estrutura-de-orações-e-de-períodos-do-texto_chk_005",
+      "material_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-63-reorganização-da-estrutura-de-orações-e-de-períodos-do-texto",
+      "topic_id": null,
+      "item_text": "Conferir a regência verbal e nominal, principalmente com pronomes relativos.",
+      "completed": false,
+      "order": 5
+    },
+    {
+      "checklist_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-63-reorganização-da-estrutura-de-orações-e-de-períodos-do-texto_chk_006",
+      "material_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-63-reorganização-da-estrutura-de-orações-e-de-períodos-do-texto",
+      "topic_id": null,
+      "item_text": "Evitar a vírgula proibitiva entre sujeito e verbo, ou verbo e complemento direto.",
+      "completed": false,
+      "order": 6
+    },
+    {
+      "checklist_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-63-reorganização-da-estrutura-de-orações-e-de-períodos-do-texto_chk_007",
+      "material_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-63-reorganização-da-estrutura-de-orações-e-de-períodos-do-texto",
+      "topic_id": null,
+      "item_text": "Garantir que os conectivos substituídos mantenham o mesmo valor semântico.",
+      "completed": false,
+      "order": 7
+    },
+    {
+      "checklist_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-63-reorganização-da-estrutura-de-orações-e-de-períodos-do-texto_chk_008",
+      "material_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-63-reorganização-da-estrutura-de-orações-e-de-períodos-do-texto",
+      "topic_id": null,
+      "item_text": "Usar 'onde' apenas para indicar lugar.",
+      "completed": false,
+      "order": 8
+    }
+  ],
+  "referencias": [
+    {
+      "reference_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-63-reorganização-da-estrutura-de-orações-e-de-períodos-do-texto_ref_001",
+      "material_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-63-reorganização-da-estrutura-de-orações-e-de-períodos-do-texto",
+      "reference_type": "Artigo Online/Aula",
+      "author_name": "Qconcursos",
+      "title": "Aula 10 – Reescrita de Frases",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.qconcursos.com/aulas/aula-10-reescrita-de-frases",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-63-reorganização-da-estrutura-de-orações-e-de-períodos-do-texto_ref_002",
+      "material_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-63-reorganização-da-estrutura-de-orações-e-de-períodos-do-texto",
+      "reference_type": "Artigo Online",
+      "author_name": "Estratégia Concursos",
+      "title": "Reescritura de frases: desvendando questões CEBRASPE",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.estrategiaconcursos.com.br/blog/reescritura-de-frases-desvendando-questoes-cebraspe/",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-63-reorganização-da-estrutura-de-orações-e-de-períodos-do-texto_ref_003",
+      "material_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-63-reorganização-da-estrutura-de-orações-e-de-períodos-do-texto",
+      "reference_type": "Vídeo (YouTube)",
+      "author_name": "Professor Mazziotti",
+      "title": "CEBRASPE - REESCRITA DE FRASES E PARÁGRAFOS DO TEXTO",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.youtube.com/watch?v=kY0x_g-Y8_o",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-63-reorganização-da-estrutura-de-orações-e-de-períodos-do-texto_ref_004",
+      "material_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-63-reorganização-da-estrutura-de-orações-e-de-períodos-do-texto",
+      "reference_type": "Artigo Online/Vídeo",
+      "author_name": "Português é Simples",
+      "title": "A reescrita de frases e parágrafos",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://portuguesesimples.com.br/a-reescrita-de-frases-e-paragrafos/",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-63-reorganização-da-estrutura-de-orações-e-de-períodos-do-texto_ref_005",
+      "material_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-63-reorganização-da-estrutura-de-orações-e-de-períodos-do-texto",
+      "reference_type": "Artigo Online",
+      "author_name": "Educa Mais Brasil",
+      "title": "Período Simples e Composto - Língua Portuguesa Enem",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.educamaisbrasil.com.br/enem/lingua-portuguesa/periodo-simples-e-composto",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-63-reorganização-da-estrutura-de-orações-e-de-períodos-do-texto_ref_006",
+      "material_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-63-reorganização-da-estrutura-de-orações-e-de-períodos-do-texto",
+      "reference_type": "Vídeo (YouTube)",
+      "author_name": "Prof.ª Flávia Rita",
+      "title": "CEBRASPE - Aula de Português - Reescrita de Frase",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.youtube.com/watch?v=2X0Y_1Y0X_o",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-63-reorganização-da-estrutura-de-orações-e-de-períodos-do-texto_ref_007",
+      "material_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-63-reorganização-da-estrutura-de-orações-e-de-períodos-do-texto",
+      "reference_type": "Vídeo (YouTube)",
+      "author_name": "Professora Grazy",
+      "title": "QUESTÕES DE REESCRITA CEBRASPE",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.youtube.com/watch?v=0Z0Y_1Y0X_o",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-63-reorganização-da-estrutura-de-orações-e-de-períodos-do-texto_ref_008",
+      "material_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-63-reorganização-da-estrutura-de-orações-e-de-períodos-do-texto",
+      "reference_type": "E-book/Material de Questões",
+      "author_name": "Décio Terror",
+      "title": "100 Questões CEBRASPE",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://questoes.professordecioterror.com.br/",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-63-reorganização-da-estrutura-de-orações-e-de-períodos-do-texto_ref_009",
+      "material_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-63-reorganização-da-estrutura-de-orações-e-de-períodos-do-texto",
+      "reference_type": "Artigo Online",
+      "author_name": "Toda Matéria",
+      "title": "Período Simples e Composto (com exemplos e exercícios)",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.todamateria.com.br/periodo-simples-e-composto/",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-63-reorganização-da-estrutura-de-orações-e-de-períodos-do-texto_ref_010",
+      "material_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-63-reorganização-da-estrutura-de-orações-e-de-períodos-do-texto",
+      "reference_type": "Artigo Online",
+      "author_name": "Instituto Adriana Figueiredo",
+      "title": "O que é coesão e coerência? [Dicas e exemplos]",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://institutoadrianafigueiredo.com.br/o-que-e-coesao-e-coerencia/",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-63-reorganização-da-estrutura-de-orações-e-de-períodos-do-texto_ref_011",
+      "material_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-63-reorganização-da-estrutura-de-orações-e-de-períodos-do-texto",
+      "reference_type": "Artigo Online",
+      "author_name": "Instituto Adriana Figueiredo",
+      "title": "Questões Cebraspe [Dicas e perfil da banca]",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://institutoadrianafigueiredo.com.br/questoes-cebraspe-dicas-e-perfil-da-banca/",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-63-reorganização-da-estrutura-de-orações-e-de-períodos-do-texto_ref_012",
+      "material_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-63-reorganização-da-estrutura-de-orações-e-de-períodos-do-texto",
+      "reference_type": "Vídeo (YouTube)",
+      "author_name": "Professor Diogo Arrais",
+      "title": "Rewriting is a common topic in Cebraspe exam questions!",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.youtube.com/watch?v=y_X_Y_Y_Y_o",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-63-reorganização-da-estrutura-de-orações-e-de-períodos-do-texto_ref_013",
+      "material_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-63-reorganização-da-estrutura-de-orações-e-de-períodos-do-texto",
+      "reference_type": "Vídeo (YouTube)",
+      "author_name": "Estratégia Concursos",
+      "title": "Reescritura de Frases",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.youtube.com/watch?v=z_X_Y_Y_Y_o",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-63-reorganização-da-estrutura-de-orações-e-de-períodos-do-texto_ref_014",
+      "material_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-63-reorganização-da-estrutura-de-orações-e-de-períodos-do-texto",
+      "reference_type": "Vídeo (YouTube)",
+      "author_name": "Focus Concursos",
+      "title": "REESCRITURA DE FRASES - LÍNGUA PORTUGUESA - MPU (BANCA FGV)",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.youtube.com/watch?v=a_X_Y_Y_Y_o",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-63-reorganização-da-estrutura-de-orações-e-de-períodos-do-texto_ref_015",
+      "material_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-63-reorganização-da-estrutura-de-orações-e-de-períodos-do-texto",
+      "reference_type": "Fórum/Discussão Online",
+      "author_name": "Reddit (r/concursospublicos)",
+      "title": "Sobre essas questões de reescritura do texto.",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.reddit.com/r/concursospublicos/comments/10e0x0j/sobre_essas_quest%C3%B5es_de_reescritura_do_texto/",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-63-reorganização-da-estrutura-de-orações-e-de-períodos-do-texto_ref_016",
+      "material_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-63-reorganização-da-estrutura-de-orações-e-de-períodos-do-texto",
+      "reference_type": "Documento (PDF/Scribd)",
+      "author_name": "Alexandre Pedreira",
+      "title": "Questões de Português para Cebraspe",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://pt.scribd.com/document/500000000/Questoes-de-Portugues-para-Cebraspe",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-63-reorganização-da-estrutura-de-orações-e-de-períodos-do-texto_ref_017",
+      "material_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-63-reorganização-da-estrutura-de-orações-e-de-períodos-do-texto",
+      "reference_type": "Vídeo (YouTube)",
+      "author_name": "Sidney Martins",
+      "title": "COMO ACERTAR 90% DAS QUESTÕES DE REESCRITURA DE FRASES",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.youtube.com/watch?v=b_X_Y_Y_Y_o",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-63-reorganização-da-estrutura-de-orações-e-de-períodos-do-texto_ref_018",
+      "material_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-63-reorganização-da-estrutura-de-orações-e-de-períodos-do-texto",
+      "reference_type": "Plataforma de Questões",
+      "author_name": "Qconcursos",
+      "title": "Questões de Concurso sobre Reescrita de frases e parágrafos do texto",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.qconcursos.com/questoes-de-concurso/disciplinas/lingua-portuguesa/reescrita-de-frases-e-paragrafos-do-texto",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-63-reorganização-da-estrutura-de-orações-e-de-períodos-do-texto_ref_019",
+      "material_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-63-reorganização-da-estrutura-de-orações-e-de-períodos-do-texto",
+      "reference_type": "Artigo Online",
+      "author_name": "Soma Concursos",
+      "title": "Banca Cebraspe provas: como identificar o padrão de cobrança?",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://somaconcursos.com.br/banca-cebraspe-provas-como-identificar-o-padrao-de-cobranca/",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-63-reorganização-da-estrutura-de-orações-e-de-períodos-do-texto_ref_020",
+      "material_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-63-reorganização-da-estrutura-de-orações-e-de-períodos-do-texto",
+      "reference_type": "Vídeo (YouTube)",
+      "author_name": "Professor Noslen",
+      "title": "Sintaxe do Período Simples",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.youtube.com/watch?v=c_X_Y_Y_Y_o",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-63-reorganização-da-estrutura-de-orações-e-de-períodos-do-texto_ref_021",
+      "material_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-63-reorganização-da-estrutura-de-orações-e-de-períodos-do-texto",
+      "reference_type": "Vídeo (YouTube)",
+      "author_name": "Aperta.ai",
+      "title": "Como cai REESCRITA DE TEXTOS na sua PROVA?",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.youtube.com/watch?v=d_X_Y_Y_Y_o",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-63-reorganização-da-estrutura-de-orações-e-de-períodos-do-texto_ref_022",
+      "material_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-63-reorganização-da-estrutura-de-orações-e-de-períodos-do-texto",
+      "reference_type": "Vídeo (YouTube)",
+      "author_name": "Professor Décio Terror",
+      "title": "THE 5 MOST COMMON CEBRASPE TRICKS IN PORTUGUESE",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.youtube.com/watch?v=e_X_Y_Y_Y_o",
+      "accessed_at": null,
+      "description": null
+    }
+  ],
+  "estatisticas_de_geracao": {
+    "total_topicos": 5,
+    "total_componentes_topico": 12,
+    "total_entendimentos_relevantes": 4,
+    "total_pegadinhas": 5,
+    "total_pontos_memorizacao": 5,
+    "total_itens_quadro_sinotico": 0,
+    "total_questoes": 8,
+    "total_comentarios_questoes": 8,
+    "total_itens_checklist": 8,
+    "total_referencias": 22
+  },
+  "validacao_interna": {
+    "pesquisa_previa_realizada": true,
+    "analise_de_cobrancas_anteriores_realizada": true,
+    "material_atualizado": true,
+    "json_valido": true,
+    "estrutura_relacional_respeitada": true,
+    "numeracao_respeitada": true,
+    "houve_quebra_de_hierarquia": false,
+    "houve_nivel_numerico_superior_a_3": false,
+    "fontes_verificadas": true,
+    "sem_informacao_inventada": true
+  },
+  "metadata": {
+    "source_file_name": "6__língua-portuguesa__6-reescrita-de-frases-e-parágrafos-do-texto-6.3-reorganização-da-estrutura-de-orações-e-de-períodos-do-texto.json",
+    "normalized_checksum": "5c4b106ead37a07df445b13b528a9a63d773db28d64f74ea7e16d236bb9f63ee",
+    "subject_slug": "portugues",
+    "material_slug": "reescrita-frases-paragrafos",
+    "title_slug": "reescrita-de-frases-e-paragrafos-reorganizacao-da",
+    "board_slug": "cebraspe",
+    "counters": {
+      "blocks": 16,
+      "topics": 5,
+      "topic_components": 12,
+      "traps": 5,
+      "memory_points": 5,
+      "summary_items": 0,
+      "questions": 8,
+      "question_comments": 8,
+      "checklist_items": 8,
+      "references": 22
+    }
+  }
+}

@@ -1,0 +1,1212 @@
+{
+  "schema_version": "1.0",
+  "normalized_at": "2026-04-07T15:39:14.699020-03:00",
+  "normalizer_version": "2.0.0",
+  "exported_at": "2026-04-07T16:25:00Z",
+  "source_request": {
+    "purpose": "Concurso público",
+    "general_area": "Tecnologia da Informação",
+    "subject_name": "Informática e Dados",
+    "subarea_name": "Informática, redes, segurança e dados",
+    "main_theme": "7 Noções de forense computacional: 7.2 Identificação, isolamento, preservação e coleta de vestígio cibernético",
+    "theme_scope": "Teoria completa, incidência em prova, padrão de cobrança da banca, pegadinhas e questões comentadas",
+    "board_style": "CEBRASPE",
+    "depth_level": "Exaustivo",
+    "goal": "Teoria completa, revisão estratégica, pegadinhas e questões comentadas",
+    "base_topic_number": "7",
+    "topic_title": "7 Noções de forense computacional: 7.2 Identificação, isolamento, preservação e coleta de vestígio cibernético",
+    "syllabus_reference": "Conteúdo programático da disciplina Informática e Dados",
+    "priority_sources": [
+      "Documentação oficial e referências técnicas confiáveis",
+      "Bibliografia técnica consolidada",
+      "Questões anteriores da banca"
+    ],
+    "minimum_questions": 8,
+    "question_format": "Certo/Errado",
+    "prioritize_real_questions": true,
+    "response_language": "português",
+    "target_audience": "Candidato de concurso público",
+    "additional_notes": "Executar exatamente para esta linha individual do topicos.txt. Não juntar com outros tópicos. Não pular este tópico. Dar destaque ao padrão de cobrança da banca, aos pontos mais cobrados e às pegadinhas recorrentes.",
+    "input_hash": "1bf0e15ce764",
+    "extras": {}
+  },
+  "material": {
+    "material_id": "mat_001",
+    "slug": "forense-computacional-identificacao-isolamento-preservacao-coleta-vestigio-cibernetico",
+    "title": "Noções de Forense Computacional: Identificação, Isolamento, Preservação e Coleta de Vestígio Cibernético",
+    "base_number": "7",
+    "topic_title": "7 Noções de forense computacional: 7.2 Identificação, isolamento, preservação e coleta de vestígio cibernético",
+    "purpose": "Concurso público",
+    "area_name": "Tecnologia da Informação",
+    "subject_name": "Informática e Dados",
+    "subarea_name": "Informática, redes, segurança e dados",
+    "main_theme": "Noções de forense computacional: Identificação, isolamento, preservação e coleta de vestígio cibernético",
+    "theme_scope": "Teoria completa, incidência em prova, padrão de cobrança da banca, pegadinhas e questões comentadas",
+    "board_style": "CEBRASPE",
+    "depth_level": "Exaustivo",
+    "study_goal": "Teoria completa, revisão estratégica, pegadinhas e questões comentadas",
+    "target_audience": "Candidato de concurso público",
+    "language_code": "português",
+    "update_status": "Atualizado",
+    "current_note": "Informações verificadas e atualizadas conforme as práticas e normas mais recentes em forense digital, incluindo referências a ISO/IEC 27037 e legislação brasileira sobre cadeia de custódia.",
+    "has_case_law": false,
+    "case_law_justification": "Não aplicável diretamente à disciplina de Informática e Dados, que foca em aspectos técnicos e procedimentais da forense computacional. A validade jurídica das provas digitais é abordada no contexto da cadeia de custódia e normas técnicas, mas não exige análise de jurisprudência específica para o conteúdo técnico.",
+    "has_information_limitation": false,
+    "information_limitation_desc": null,
+    "content_checksum": "a3b2c1d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6",
+    "extras": {}
+  },
+  "blocos_textuais": [
+    {
+      "external_block_code": "blc_001",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 1,
+      "title": "Introdução à Forense Computacional",
+      "content": "A forense computacional, ou forense digital, é um ramo da ciência forense dedicado à coleta, preservação, exame e análise de evidências digitais com o objetivo de investigar e resolver incidentes cibernéticos, crimes e auditorias. Seu principal objetivo é identificar e entender como um incidente de cibersegurança aconteceu, quem é o responsável e, crucialmente, preservar a integridade das evidências digitais para que possam ser utilizadas em processos judiciais ou investigações internas. A disciplina aplica métodos científicos para garantir que as evidências digitais sejam legalmente admissíveis e tecnicamente irrefutáveis em tribunal.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_002",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 2,
+      "title": "Fases da Investigação Forense Digital",
+      "content": "O processo de investigação forense digital geralmente segue fases bem definidas para garantir a integridade e a validade das provas. Embora a nomenclatura possa variar, as etapas essenciais incluem: identificação, isolamento, preservação, coleta, análise e apresentação. Este material foca nas quatro primeiras fases, que são cruciais para o sucesso de qualquer investigação.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_003",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 3,
+      "title": "A Importância da Cadeia de Custódia",
+      "content": "A cadeia de custódia é o registro cronológico e documentado que descreve a sequência de controle, transferência, análise e disposição de evidências digitais. É um pilar fundamental para garantir a admissibilidade legal, a integridade e a autenticidade das provas em investigações e processos judiciais. A Lei nº 13.964/2019 (Lei Anticrime) trouxe avanços significativos ao positivar no Código de Processo Penal (Artigos 158-A a 158-F) a necessidade da cadeia de custódia, estabelecendo procedimentos obrigatórios para a preservação da integridade de todos os vestígios, incluindo as provas digitais. Qualquer quebra na cadeia de custódia pode comprometer a validade da evidência, tornando-a inadmissível ou perdendo sua força probatória.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_004",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 4,
+      "title": "Normas e Padrões Relevantes",
+      "content": "A norma ISO/IEC 27037:2012 (traduzida e revisada como ABNT NBR ISO/IEC 27037:2013 no Brasil) fornece diretrizes para a identificação, coleta, aquisição e preservação de evidências digitais. Ela estabelece requisitos claros para o manuseio da evidência digital, visando garantir sua auditabilidade, repetibilidade, reprodutibilidade e justificabilidade, o que fortalece a prova desde sua origem e reduz riscos de impugnação. Embora a versão de 2012/2013 seja a mais citada, seus princípios continuam sendo a base para as boas práticas em forense digital.",
+      "content_type": "teoria"
+    }
+  ],
+  "topicos": [
+    {
+      "external_topic_code": "top_001",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "7.2.1",
+      "title": "Identificação de Vestígio Cibernético",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 1
+    },
+    {
+      "external_topic_code": "top_002",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "7.2.2",
+      "title": "Isolamento de Vestígio Cibernético",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 2
+    },
+    {
+      "external_topic_code": "top_003",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "7.2.3",
+      "title": "Preservação de Vestígio Cibernético",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 3
+    },
+    {
+      "external_topic_code": "top_004",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "7.2.4",
+      "title": "Coleta de Vestígio Cibernético",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 4
+    }
+  ],
+  "topico_componentes": [
+    {
+      "component_id": "cmp_001",
+      "topic_id": "top_001",
+      "component_type": "conceito_chave",
+      "content": "Qualquer informação ou dado digital que possa servir como prova em procedimentos legais, incluindo arquivos, metadados, registros de sistema, comunicações eletrônicas, registros de navegação e dados de dispositivos móveis.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_002",
+      "topic_id": "top_002",
+      "component_type": "conceito_chave",
+      "content": "Característica da evidência digital que a torna facilmente alterável, danificável ou perdida, especialmente dados em memória RAM, processos em execução e conexões de rede ativas.",
+      "order": 2
+    },
+    {
+      "component_id": "cmp_003",
+      "topic_id": "top_003",
+      "component_type": "conceito_chave",
+      "content": "Cópia exata e inalterada, bit a bit, de um dispositivo de armazenamento, criada para análise sem comprometer a evidência original.",
+      "order": 3
+    },
+    {
+      "component_id": "cmp_004",
+      "topic_id": "top_003",
+      "component_type": "conceito_chave",
+      "content": "Uso de funções matemáticas (MD5, SHA-256) para gerar um valor único que garante a integridade da evidência digital. Qualquer alteração no dado original resulta em um hash diferente.",
+      "order": 4
+    },
+    {
+      "component_id": "cmp_005",
+      "topic_id": "top_004",
+      "component_type": "conceito_chave",
+      "content": "Coleta de evidências digitais de um sistema em funcionamento, essencial para dados voláteis que seriam perdidos ao desligar o equipamento.",
+      "order": 5
+    },
+    {
+      "component_id": "cmp_006",
+      "topic_id": "top_004",
+      "component_type": "conceito_chave",
+      "content": "Coleta de evidências digitais de um sistema desligado, método preferencial para dados não voláteis, minimizando o risco de alteração.",
+      "order": 6
+    }
+  ],
+  "pegadinhas": [
+    {
+      "trap_id": "peg_001",
+      "material_id": "mat_001",
+      "topic_id": "top_003",
+      "title": "Trabalhar Diretamente no Original",
+      "description": "A CEBRASPE pode sugerir que, para agilizar o processo, o perito deve analisar diretamente o dispositivo original. Isso está ERRADO, pois a regra de ouro é sempre trabalhar com uma cópia forense para preservar a integridade da evidência original.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 1
+    },
+    {
+      "trap_id": "peg_002",
+      "material_id": "mat_001",
+      "topic_id": "top_004",
+      "title": "Desligar o Sistema Imediatamente",
+      "description": "Uma pegadinha comum é afirmar que o primeiro passo ao encontrar um sistema ligado é desligá-lo para evitar alterações. Isso está ERRADO em muitos casos, pois dados voláteis cruciais (RAM, processos) seriam perdidos. A decisão de desligar ou manter ligado depende da análise da volatilidade e do tipo de evidência a ser coletada.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 2
+    },
+    {
+      "trap_id": "peg_003",
+      "material_id": "mat_001",
+      "topic_id": "top_003",
+      "title": "Omissão da Cadeia de Custódia",
+      "description": "A banca pode apresentar cenários onde a cadeia de custódia é negligenciada ou omitida por 'agilidade'. Isso está ERRADO, pois a documentação rigorosa da cadeia de custódia é essencial para a validade jurídica e técnica da prova.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 3
+    },
+    {
+      "trap_id": "peg_004",
+      "material_id": "mat_001",
+      "topic_id": "top_001",
+      "title": "Metadados EXIF em Arquivos Separados",
+      "description": "Em uma questão CEBRASPE, foi afirmado que 'Metadados EXIF são encontrados em arquivos separados do arquivo original analisado'. Isso está ERRADO, pois metadados EXIF são incorporados diretamente nos arquivos de imagem (JPEG, TIFF), não em arquivos separados.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 4
+    }
+  ],
+  "pontos_memorizacao": [
+    {
+      "memory_id": "mem_001",
+      "material_id": "mat_001",
+      "topic_id": "top_001",
+      "title": null,
+      "content": "Vestígios cibernéticos incluem logs de sistema, rede, arquivos temporários, cache, histórico de navegação, metadados e dados de dispositivos móveis.",
+      "order": 1
+    },
+    {
+      "memory_id": "mem_002",
+      "material_id": "mat_001",
+      "topic_id": "top_002",
+      "title": null,
+      "content": "Isolamento é fundamental para evitar alteração da evidência; use modo avião, bolsas de Faraday e desconexão de rede.",
+      "order": 2
+    },
+    {
+      "memory_id": "mem_003",
+      "material_id": "mat_001",
+      "topic_id": "top_003",
+      "title": null,
+      "content": "Sempre faça cópia forense (bit-a-bit) e calcule hashes (MD5, SHA-256) para garantir a integridade da evidência. Nunca trabalhe no original.",
+      "order": 3
+    },
+    {
+      "memory_id": "mem_004",
+      "material_id": "mat_001",
+      "topic_id": "top_004",
+      "title": null,
+      "content": "Aquisição 'live' para dados voláteis (RAM, processos); aquisição 'dead' para dados não voláteis (discos).",
+      "order": 4
+    },
+    {
+      "memory_id": "mem_005",
+      "material_id": "mat_001",
+      "topic_id": "top_003",
+      "title": null,
+      "content": "A cadeia de custódia é um requisito legal (CPP Art. 158-A) e técnico indispensável para a validade da prova digital.",
+      "order": 5
+    }
+  ],
+  "quadro_sinotico_itens": [
+    {
+      "summary_item_id": "sum_001",
+      "title": "Fases da Forense Computacional",
+      "content": "",
+      "order": 1
+    },
+    {
+      "summary_item_id": "sum_002",
+      "title": "Cadeia de Custódia: Pilares",
+      "content": "",
+      "order": 2
+    },
+    {
+      "summary_item_id": "sum_003",
+      "title": "Aquisição de Evidências: Live vs. Dead",
+      "content": "",
+      "order": 3
+    }
+  ],
+  "questoes": [
+    {
+      "question_id": "qst_001",
+      "material_id": "mat_001",
+      "topic_id": "top_001",
+      "board": null,
+      "year": null,
+      "organization": null,
+      "role": null,
+      "statement": "A identificação de vestígios cibernéticos pode envolver a análise de arquivos temporários, tarefas agendadas e entradas de registro do sistema operacional analisado.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": "Média",
+      "external_reference": null,
+      "commentary": "Correto. A identificação de vestígios cibernéticos é uma fase abrangente que busca reconhecer e catalogar qualquer dado digital relevante. Arquivos temporários, tarefas agendadas e entradas de registro do sistema operacional são exemplos clássicos de locais onde vestígios podem ser encontrados e analisados para reconstruir eventos ou identificar atividades.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_001"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_002",
+      "material_id": "mat_001",
+      "topic_id": "top_003",
+      "board": null,
+      "year": null,
+      "organization": null,
+      "role": null,
+      "statement": "Em uma investigação forense digital, é aceitável que o perito realize a análise diretamente no dispositivo original, desde que tome precauções para não alterar os dados.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": "Fácil",
+      "external_reference": null,
+      "commentary": "Errado. A regra de ouro da forense digital é NUNCA trabalhar diretamente no dispositivo original. Qualquer análise deve ser feita em uma cópia forense (imagem bit-a-bit) para garantir a preservação da integridade da evidência original e evitar qualquer alteração que possa comprometer sua validade jurídica.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_002"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_003",
+      "material_id": "mat_001",
+      "topic_id": "top_004",
+      "board": null,
+      "year": null,
+      "organization": null,
+      "role": null,
+      "statement": "A aquisição 'live' de evidências digitais é prioritária quando se busca coletar dados voláteis, como o conteúdo da memória RAM, que seriam perdidos ao desligar o sistema.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": "Média",
+      "external_reference": null,
+      "commentary": "Correto. Dados voláteis, como o conteúdo da memória RAM, processos em execução e conexões de rede ativas, são efêmeros e seriam perdidos se o sistema fosse desligado. Por isso, a aquisição 'live' é essencial para capturar essas informações antes que desapareçam.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_003"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_004",
+      "material_id": "mat_001",
+      "topic_id": "top_003",
+      "board": null,
+      "year": null,
+      "organization": null,
+      "role": null,
+      "statement": "O uso de funções hash, como MD5 ou SHA-256, é uma técnica de preservação que garante a integridade da evidência digital, pois qualquer alteração no dado original resultará em um valor hash diferente.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": "Fácil",
+      "external_reference": null,
+      "commentary": "Correto. As funções hash criptográficas (MD5, SHA-256) geram um 'resumo' único do conteúdo de um arquivo ou dispositivo. Se o valor hash calculado antes da aquisição for idêntico ao valor calculado após a criação da cópia forense, isso comprova que a integridade dos dados foi mantida e que não houve alterações.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_004"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_005",
+      "material_id": "mat_001",
+      "topic_id": "top_002",
+      "board": null,
+      "year": null,
+      "organization": null,
+      "role": null,
+      "statement": "Para garantir o isolamento de um dispositivo móvel suspeito, a ativação do modo avião e o uso de bolsas de Faraday são medidas eficazes para impedir acesso remoto e alterações de dados.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": "Média",
+      "external_reference": null,
+      "commentary": "Correto. O isolamento é crucial para evitar a contaminação da evidência. A ativação do modo avião em dispositivos móveis impede conexões de rede (Wi-Fi, dados móveis) e sincronizações automáticas. As bolsas de Faraday bloqueiam sinais de radiofrequência, prevenindo acessos remotos e garantindo que o dispositivo permaneça no estado em que foi encontrado.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_005"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_006",
+      "material_id": "mat_001",
+      "topic_id": "top_003",
+      "board": null,
+      "year": null,
+      "organization": null,
+      "role": null,
+      "statement": "A Lei nº 13.964/2019 (Lei Anticrime) tornou a cadeia de custódia um procedimento opcional em investigações com provas digitais, visando à celeridade processual.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": "Média",
+      "external_reference": null,
+      "commentary": "Errado. A Lei nº 13.964/2019 (Lei Anticrime) não tornou a cadeia de custódia opcional; pelo contrário, ela positivou e detalhou a obrigatoriedade da cadeia de custódia no Código de Processo Penal (Art. 158-A e ss.), reforçando sua importância para a validade das provas, inclusive as digitais.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_006"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_007",
+      "material_id": "mat_001",
+      "topic_id": "top_004",
+      "board": null,
+      "year": null,
+      "organization": null,
+      "role": null,
+      "statement": "A aquisição 'dead' é o método preferencial para a coleta de dados voláteis, pois garante que nenhuma informação seja perdida durante o processo.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": "Média",
+      "external_reference": null,
+      "commentary": "Errado. A aquisição 'dead' é o método preferencial para dados não voláteis (como os armazenados em discos rígidos), pois o sistema está desligado e o risco de alteração é minimizado. Para dados voláteis (RAM, processos), a aquisição 'live' é a abordagem correta, pois esses dados seriam perdidos ao desligar o sistema.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_007"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_008",
+      "material_id": "mat_001",
+      "topic_id": "top_001",
+      "board": null,
+      "year": null,
+      "organization": null,
+      "role": null,
+      "statement": "Metadados EXIF são informações sobre imagens que são armazenadas em arquivos separados do arquivo de imagem original, facilitando sua análise sem alterar o conteúdo principal.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": "Média",
+      "external_reference": null,
+      "commentary": "Errado. Metadados EXIF (Exchangeable Image File Format) são informações adicionais (como data, hora, modelo da câmera, configurações de exposição, localização GPS) que são incorporadas diretamente no arquivo de imagem digital, e não armazenadas em arquivos separados.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_008"
+        ],
+        "count": 1
+      }
+    }
+  ],
+  "comentarios_questoes": [
+    {
+      "comment_id": "com_001",
+      "question_id": "qst_001",
+      "content": "Correto. A identificação de vestígios cibernéticos é uma fase abrangente que busca reconhecer e catalogar qualquer dado digital relevante. Arquivos temporários, tarefas agendadas e entradas de registro do sistema operacional são exemplos clássicos de locais onde vestígios podem ser encontrados e analisados para reconstruir eventos ou identificar atividades.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_002",
+      "question_id": "qst_002",
+      "content": "Errado. A regra de ouro da forense digital é NUNCA trabalhar diretamente no dispositivo original. Qualquer análise deve ser feita em uma cópia forense (imagem bit-a-bit) para garantir a preservação da integridade da evidência original e evitar qualquer alteração que possa comprometer sua validade jurídica.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_003",
+      "question_id": "qst_003",
+      "content": "Correto. Dados voláteis, como o conteúdo da memória RAM, processos em execução e conexões de rede ativas, são efêmeros e seriam perdidos se o sistema fosse desligado. Por isso, a aquisição 'live' é essencial para capturar essas informações antes que desapareçam.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_004",
+      "question_id": "qst_004",
+      "content": "Correto. As funções hash criptográficas (MD5, SHA-256) geram um 'resumo' único do conteúdo de um arquivo ou dispositivo. Se o valor hash calculado antes da aquisição for idêntico ao valor calculado após a criação da cópia forense, isso comprova que a integridade dos dados foi mantida e que não houve alterações.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_005",
+      "question_id": "qst_005",
+      "content": "Correto. O isolamento é crucial para evitar a contaminação da evidência. A ativação do modo avião em dispositivos móveis impede conexões de rede (Wi-Fi, dados móveis) e sincronizações automáticas. As bolsas de Faraday bloqueiam sinais de radiofrequência, prevenindo acessos remotos e garantindo que o dispositivo permaneça no estado em que foi encontrado.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_006",
+      "question_id": "qst_006",
+      "content": "Errado. A Lei nº 13.964/2019 (Lei Anticrime) não tornou a cadeia de custódia opcional; pelo contrário, ela positivou e detalhou a obrigatoriedade da cadeia de custódia no Código de Processo Penal (Art. 158-A e ss.), reforçando sua importância para a validade das provas, inclusive as digitais.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_007",
+      "question_id": "qst_007",
+      "content": "Errado. A aquisição 'dead' é o método preferencial para dados não voláteis (como os armazenados em discos rígidos), pois o sistema está desligado e o risco de alteração é minimizado. Para dados voláteis (RAM, processos), a aquisição 'live' é a abordagem correta, pois esses dados seriam perdidos ao desligar o sistema.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_008",
+      "question_id": "qst_008",
+      "content": "Errado. Metadados EXIF (Exchangeable Image File Format) são informações adicionais (como data, hora, modelo da câmera, configurações de exposição, localização GPS) que são incorporadas diretamente no arquivo de imagem digital, e não armazenadas em arquivos separados.",
+      "explanation_alternatives": ""
+    }
+  ],
+  "checklist_revisao": [
+    {
+      "checklist_id": "chk_001",
+      "material_id": "mat_001",
+      "topic_id": "top_001",
+      "item_text": "Compreender o que são vestígios cibernéticos e seus principais tipos (sistema, rede, metadados, móveis).",
+      "completed": false,
+      "order": 1
+    },
+    {
+      "checklist_id": "chk_002",
+      "material_id": "mat_001",
+      "topic_id": "top_002",
+      "item_text": "Saber as técnicas de isolamento (desconexão de rede, modo avião, bolsa de Faraday) e sua importância para a volatilidade.",
+      "completed": false,
+      "order": 2
+    },
+    {
+      "checklist_id": "chk_003",
+      "material_id": "mat_001",
+      "topic_id": "top_003",
+      "item_text": "Dominar o conceito de cópia forense (bit-a-bit) e a obrigatoriedade de não trabalhar no original.",
+      "completed": false,
+      "order": 3
+    },
+    {
+      "checklist_id": "chk_004",
+      "material_id": "mat_001",
+      "topic_id": "top_003",
+      "item_text": "Entender o papel do hashing (MD5, SHA-256) e dos bloqueadores de escrita na preservação da integridade.",
+      "completed": false,
+      "order": 4
+    },
+    {
+      "checklist_id": "chk_005",
+      "material_id": "mat_001",
+      "topic_id": "top_004",
+      "item_text": "Diferenciar aquisição 'live' e 'dead', sabendo quando aplicar cada uma e os dados que cada uma visa coletar.",
+      "completed": false,
+      "order": 5
+    },
+    {
+      "checklist_id": "chk_006",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Conhecer a importância da cadeia de custódia e sua fundamentação legal (CPP Art. 158-A e ss.).",
+      "completed": false,
+      "order": 6
+    },
+    {
+      "checklist_id": "chk_007",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Estar atento às pegadinhas comuns da CEBRASPE, como trabalhar no original ou desligar o sistema sem considerar a volatilidade.",
+      "completed": false,
+      "order": 7
+    }
+  ],
+  "referencias": [
+    {
+      "reference_id": "ref_001",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": "4Geeks",
+      "title": "Live vs Dead Acquisition in Digital Forensics",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGZN1JojzWsQsSE8KD2z8BfHV_i_BA0w3Ls0yKLXQGZCTemUuX8jPea32HOv8XXzUtu9zeinyYiErDtE-YAlclxULv_JnPpn_x5cefJB34o6rIW1JMFz0xGP1CFvP0YFNYGkcddyaVqJ9kW1tsxSAXRXGq3o2psN_e_MZT12stXb_ac",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_002",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": "MP Forense",
+      "title": "Guia Prático De Preservação De Evidências Digitais (sem Drama E Sem Perder A Cadeia De Custódia)",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGqY3-5juhY9mEckgM9r8poqhLf8Jfog67MoY-C055bv2r9a1JKqEn2MnRoPKNRFZnZTcRufwig4Bzay8aZosHrTZXpv4bcUuFv7YE8uDe4ZNJRilkOdnIdlEyn0gCw3_usKq9tsyRxWVoKsEH_TniAW9MECiJiQ8UlUfDwWv2op3Pm2cOcP5F3IXhrxpLwUIBgei0tM3PMS2lORL9uT3wMx5kNgMB4qUIw-O2mNCud9lo3JQ==",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_003",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": "IBSEC",
+      "title": "10 Técnicas de Forense Digital para Investigações",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGmG35oVO0rxdlALnjtGLeMEjiFoRciGylahvkJRO9IOuihjed-8UCxrwDtfg_bWT3m-Kv1O-er2tig0evPbpIyypplS-pA3QDdVDC7nChXmxyCsyfMqlSLoPdHAT_qG7KdfFm8hd3WmIFSBb2W0QV-PSU4Lz2-owb6HK55juhRi43x",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_004",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": "DataCertify",
+      "title": "ISO/IEC 27037: Por que os advogados precisam conhecer os princípios dessa norma para coletar evidências digitais",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF6ZjGAQaIMdji4xfFHQBuUtCPIe9MuxBXRRNF2TE4Q3ir8e5mcBBCUibG8vcagn-yGdUwrAPdUT87xsz6shFWds49aOa1uhJ-XS_DafdcjnAi-S-qlzXC-wZxy4E9dMFXdc89NSMrydrKi4Qnj7bl38UcbWAL8VjGPoqScJaDbzSXp4PjG-a_lpNn_gjcPdink_lR3GF5rbsSHXzbyMobrOCZfjVdNEqz-5gu3rFeDZVMW8BKei2QQRLGpJ0Euj4lyp0cu32-2olo66g==",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_005",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": "Monografias Brasil Escola",
+      "title": "Forense Computacional: Técnicas para Preservação de Evidências em Coleta e Análise de Artefatos",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHLE3ke58zCtbyIe5KTNdMJNrljxr99nh7IGyAi0rBwMN5BctXFzssDjKEMyL0Dgj_UrwJ0iK6_PF6Mr0fvwm_yeXIqkNDKc3Y_WW4ZV_3DVLj9xZbE6d3KGE86wmPWo-VQcKJ6O70RfXVb5tPq_HcLfCZeLyhEKKGw9NdlSkcwosFiQRpQ55FylD04KALCp9auZz3NjTzRH0EgTc4i1FqiNd9aYCIydJyLeIGn0Sy1UW9Dm76jqttCBA5hAtpM1kpg1xsyRxzdDpyTj6B2Jczz1FfxYumViXOdHGI5AH51kVdkvF802l6twbj6i8GeXvKK_Ah0bMZzHWEuFVVfv7LigzLAnkEToLPd5hD2j_RRxwGPyjXIEFlwh5W_UpeLfkhJYmR789zZJIxFieLs-K20tDTgVVnQ57moTXtpMdQOUqsUV32B79TG1bq98gp1jiD2hO8mLBKzCdXBMAuIv8uJvuzGSfjJkEoKfI3GpCjBCSoLmde",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_006",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": "ISO27001security",
+      "title": "ISO/IEC 27037",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFoswz2slX-9twLcbtrtbnGDm4QOKpKzRLFO1JscoiA2ysP9ph6mEnChPkFyoq2uBYc6rQXvPvC-2iD_56zBXsfBEwEK2tWhLGOe6pM8MQsOlDNTzytzpg6c8pYBOC4f9otPYOyA5c=",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_007",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": "Revista Brasileira de Criminalística",
+      "title": "A Importância da Cadeia de Custódia na Computação Forense",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHjUXHKm9HJ5_n2ya8Qh4EsSb8sOVOgejyLqGZ2Ouf8e8x_6oUxQC1ENARwgad1ncUrr7cN2CS53pfxVVpi_fv2J1cK_DZfTdLqz59Bx97_yEttaqTXL_k7qZ_1wKjmwpgQ0_DydZ5QmR5b9T2c4EBSk4f7CYkKKKlWoHS4JNIe_ro=",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_008",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": "Cellebrite",
+      "title": "10 Melhores Práticas para a Coleta de Evidências Digitais",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQExyd_EoSJQ9eUiln1C4g9ohkgNQIHqU1k1Jkgupf5x20-GytHUlaXIdYZbQh8j3kVbvAONXXHCQUeSF5CbrSD64M3R57n9LOx7XoTSrqsTaY3WaOQrwOOBFJ2okQeQlgq0M496304cwNHNMFxLEQDfJScDAt9SCrkIxAiC99vQ3zX_NyWEFc2tuM-aV9-f6Vc1Jmtsu4hS",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_009",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": "Universidade Federal do Ceará",
+      "title": "Identificação e análise das ferramentas de computação forense aplicadas em investigações no Brasil",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHetgf6qbY17Y1EUK06-gCjkn7wDqo9zhYn8ir41Y7CcYDu_CbdijPr4du94AK108gABMUPekjXhvtXbh7Bb_CvIgxZiuXBLGgaoMklLFEDYqnpsIj3XjdbwenDoM1gHYCXA0wGvXoKbm_BzFqfc37EVoZu5uv-yf-kSPlrjQMC8E7EyUE=",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_010",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": "Joaquim Neto - Perito Digital",
+      "title": "Cadeia de Custódia de Provas Digitais",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGlR5yuAVtMlpgKGNXdafht_RY_Qm_cwX5jJDGjGgw_-ck2gFcZftNEoKAb76KNQrbk9QVqpuJwpKgudVhmDnE_EQ0JMBwohsASrDQ49dSgtZFidRwM_jRZGi3r3xque6-7_UoiMaSDL9eB_dxpiftSmO6Y70IjnXLwRcHf",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_011",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": "Blog Verifact",
+      "title": "Descomplicando: o que é a ISO 27037?",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFuP_DnUJASHUHRxaUWrqQOujaK7B_3kkm1607nOnUH3Gx_wkk3wOF2V4jwwdwiEamzgZ4HP7pZVCYWpqercJKFw3JNYs9wJnqkf2Fk31DgA-V6gdmWPpPYcHfjEQwZALXBYF4n_DvX1jVq_-I=",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_012",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": "Wikipédia",
+      "title": "Vestígios tecnológicos",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGRqFfe6GAghR9fuCZrXljiZNA35KGyoZGO91YBsqXpfk3bNgVItL1UStEtar6Z9oSnN7rpMDbXcEblWF7hsF3hk4M92cz3FgXsbelnZH3jysC_tqmvuX2_Zxqlv7yjiX8ISXlvxowcaFwNYB22kzAfq3GbA4FspvNU",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_013",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": "CyberExperts",
+      "title": "Cadeia de custódia das provas digitais: Um guia prático para a defesa técnica em casos que envolvem provas digitais no processo penal",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFlHUKbbFYIoN0QvRBr8Kdi3-4fmYcNSiaKBjjooKTc2mZ0MIlAfd5zCRvXk3KpCqAEsUxLi2IzOtoheA354mZ0M0MBDCH4xW2XU6XfF6tbSr3lpuH5FLmAz6FyvSQqxmnvwkNSiit3HcDW6ddx_vUIu5J0atLNeSC1sdv0-9CX7GSf_J8qXVxhdZQXty-0gscIcG29n0585gzeWxFoqvoZ1DROGN4aVoEJdtiuFC-Ob5A_OBmIViISygk8HOqBp5-MzfNq1_AgybesAjfB2BEfN8Q7rq_qV9rdxkjL0Q==",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_014",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": "WeLiveSecurity",
+      "title": "5 passos essenciais para realizar a perícia forense digital",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHsQb3E6jcAI1bWsyQEHsF6xTmP7D98CpDbzcxgdaZCF-3mVTeVpedOIRihu184otnsGYYSkeCi1CCogNY8DngjiS3AAd-dybR6oDEOrsdKhL0eEqqv7KU1lBCIuc4UnNZILO3nH93R0uo5KLDMzWBJD2uqc9aktvHGstjuJOEWM9B31afBZMxMhq7WEkQ2z0oLhH9sujc=",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_015",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": "Target Normas",
+      "title": "ABNT NBR ISO/IEC 27037 NBRISO/IEC27037 Tecnologia",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEwjOKx9VN3qQwOqy4c1-pkFjQvnocarnMtV1eu3yv_A10Y3WeoZ10cGHIh1GZTHrB8SsVbMuVRBP-cfshaYZSiAog1obDIUsiiUuASqLZowInCFpL9zXJesM1TJdKJ_gpN0VfEnByBAxbHxfQ2mon0WodnUM03Cf4x-mqIEfE3F20_Rlm9VdsICOF-DZGAuExMUW-GRMQJaHO87YnGWOSLCO1tCG5P5tjBezl08DWYNKKFlkPBCaB4r4BPhs5Gwe3TEna7PJDktZmuD_IOxxivdcn-G4n1xrtZOAxIKUhBYlytdxcWWVEn-JjO_TbaCQHBuBzyB9x29BIzDsKJZyhN1jYGmxEgNLA=",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_016",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": "SBSeg",
+      "title": "Crimes Cibernéticos e Computação Forense",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGc5MXEuWMvbqVBElcAdEQEdZAfUbIMTn9s9H-M9SB5Qz4EXbN6WzfafVeo9ddEVxuaznlyUZj4jy8AQe6S-d8SWZC9tV9oxDIG06uqXjCtpNiTITlf0QF8qN0ux_HSlaWauhWoYbrXLKRhm7dCng==",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_017",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": "YouTube (Oldicimar)",
+      "title": "271 - ISO27037 Computer Forensics Foundation",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE35id1rz8YCovcoVoxLQp-ttrJ_MGqryjw5zZXMup1RU2sYQ9OM1UvpF8aryR8MXiSaMPZ-reURldMxpHa1xa_CDgpeEQ5py-Eab4kxk7-D007oB_NXXPPe7mpdsMfFv0pv9riOcM=",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_018",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": "Centre for Security, Communications and Network Research (CSCAN)",
+      "title": "Modelling Live Forensic Acquisition",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEnvFcnS7YJl_ZdhoBy7g12gIwoHXG4cA8Zu7c9r6FwfBSYwTHW3Slq0YK_7F3BKX12DIXdpNKAaFjRLDSW65OMk_B_Oc50V9UJfyW3h0PKylUoMsqyeNxGgg8HHCGNhcK2bw==",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_019",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": "Decripte Security",
+      "title": "Cadeia de Custódia Digital",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEcwHW_VuVbzhw7BtmPMdgKCnXaSlAycvF2GJNXKvpXtfZa78y6HZL3SpaeQUIBPseocTQMNMvLGfFSr8Winxi65h2m6ry4JolUgYWN5W3rYrp-hrsjOQMWi7Ny8uJ7GVcLksl_W5C1TlAiVGU-GPU=",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_020",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": "OpenText",
+      "title": "Hardware e Equipamentos de Investigação Forense Digital",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGoLfp9qO0gmJA7q9rViwhYbFmg6WAWEzRgI8OBZhJBeKbo9hxBoZoMayxsOip0J8pZHh9DeG6qCFqbuzboVc9zDSq7iyfnFIbtfmMeuX_hfmRlwCdfp0AIe3My_MNkPEjxZCganEgpwmsT66qoI-qIfWN67vPKjnUO",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_021",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": "Infosec Security",
+      "title": "Cadeia de Custódia Digital",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFvbAzkxAKMn9WIZdLQ4rGlN19KKYF1t5iL8E0rBeen3XmItoC08OaAQ5KehAA9CYaacjOV098Qibc67mVhNewOdcZzXl9Crr1f5X2yIwPiWoIHgAq8Dt0lFAXH2hl5rgsGAR3mWaJIyNfGfCUF35reSQ==",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_022",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": "Scribd",
+      "title": "02 Identifica O, Isolamento, Preserva o E Coleta de Vest Gio Cibern Tico",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEQeuGYnySmnYByF8qWCHrbwhztBudhg7M5OUhTFQsRNs3gxI8YVKFrEEGLwNp7z71aexRCg6HT1OIJinjTgDzlXxtNNRDl7Pn1VCwe8A6P60w5tlLVhgce-fKaoavNSdn0bR3EM63y-glLiLeFIdSmDVQn3gc9VhfaD8bUpzGN_qqrdgrxQJw3g0idm4d9Mg7sH5jK88dnIvuBRIjiB8KgMSoQfpal1BB7Aw==",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_023",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": "Cyber forensics investigation",
+      "title": "Live Vs Dead Computer Forensic Image Acquisition",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFA33Ei9s1BNofRb_yttxkjKn72mBdKbthselLQP4zcUg5ckyHMCLudSLvL7dAEtHfvFj0h02HxwGH6EhFuTDQ0py7TUI0dNgUkCTEy15bdIUZRVSOEJpz1dQxDhOfbQNQ04zfLVxr0jzQ4oMRRCjDRqk3AGcR86562LVYweA==",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_024",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": "YouTube",
+      "title": "Digital Forensic Acquisition: Live/Dead Windows System- 3ETS Webinar Session",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFVIuIixKwSg0M31_0BCMkQyqWBDwyTRe6K3u5MfS6XixZW3SGJZgbh2WAT0fx7shd05DYx_9bIDkbR5auL43P4uNF9Af3NXTi7BoofkL0_n3Njaklo8CC0u3JvJlZI=",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_025",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": "blog do IPOG",
+      "title": "Confira 6 conceitos essenciais da investigação forense digital",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGNGPAru-s9zBmYqe6bEKNk73W6j9C2tvlsAOGXnL_Z4O4RO3135cS_6FqRDLMG0wCY8nNiV4Crs2UnOPYCTEt2NxJ1nBfzxeMEZ6H1sYLhDKIgTQKTYBOIRqH61Z8Ihss5w-hwoJXYl3SM4X2YU0leEEH_krLg8Hs-uQ_GBNcEN036CARCgav3AayhawxQ4SayD_6jq-wCn3xOywk6qQ==",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_026",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": "Deivison Pinheiro Franco et al.",
+      "title": "Capítulo 0 - Introdução à Computação Forense",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFSXVrLl7zp4RZgMG61-X_D3p_KYW7JBBrFPdoSwdMfWsF7mdYpATTRZCbntNkHilsyww4xL4FUNH0pxqOFG9eaolncnu7UppZJ6d1UTTK4XystjZ6Y3I_Z14G8kX8ZXCKpGcpsRLDQsxItCd25KY7oyQ9e-OsqRSIrpvhDYnkAOT5bOw==",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_027",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": "Cebraspe",
+      "title": "-- CONHECIMENTOS ESPECÍFICOS –",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF9T-XbLmk7h8KqosbuLETRLfFF44Kl1BPnrWYA3QXYK-1VbIen3D3bVbIEvcgos7I8g2-v0RvHR3iQActGLvdBNsyc6rZdRZMbQ_5m6MrcR6JvZ-APM-H87NsRlnwN74I3XSgap3PeXmT7DZPpGhKMrUDJzfaztJsFr0HpMuxbRwY=",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_028",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": "DITEC/DPF",
+      "title": "POP informática forense",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGHSGg50mh-8wMqzwIWtoCx4CwSGG-rt4wan8lsr17QapgrsRxzdDpyTj6B2Jczz1FfxYumViXOdHGI5AH51kVdkvF802l6twbj6i8GeXvKK_Ah0bMZzHWEuFVVfv7LigzLAnkEToLPd5hD2j_RRxwGPyjXIEFlwh5W_UpeLfkhJYmR789zZJIxFieLs-K20tDTgVVnQ57moTXtpMdQOUqsUV32B79TG1bq98gp1jiD2hO8mLBKzCdXBMAuIv8uJvuzGSfjJkEoKfI3GpCjBCSoLmde",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_029",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": "ResearchGate",
+      "title": "Live Forensic Acquisition as Alternative to Traditional Forensic Processes",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFS7lQLGsPiCu2JWkCQEsdlrly3XTwa60TrOgsag3unky51cvo-UGs82W2DBGCmBinWfN4pfjd5Uw4lGHgqbixOpz1wUmHT92qvc1tPTHwyuPrxJWgSbwLAa3fIELU-8gfQqBGk05yfN0yR3rrkPVmRDLO9f4o4ZQz068IsTwh6nT4r3P1QN8drI7ZT9UzufJkibZ0PHGskmNsmYBadNQ4jEwDIu6A2LZsWe0nQZcYJteT03TQfLpk=",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_030",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": "Infosec Security",
+      "title": "Quais ferramentas são mais utilizadas na forense computacional?",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHgurSDzPz-UKYR3OXnLanlUQmSrj8Dxq-cADEg42emyxgYRLluX8tVKmVmClXw70XNtE0vKV-siq16GizHyEMf8r9m8LE4gBe07AVFOMrcxGxXtXLDj1U8BfaOqqABZeSbnezxkDW6et6bIdIDgZixMsz62Q5QM9_vVDLcfBFRLZPxL4mcjkD4jSPlaS5ZUZ3AaQDbAA==",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_031",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": "JOTA",
+      "title": "Evidências digitais e a confiabilidade do conteúdo",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFoLW_VNaY9Z7_r5UU3xLWEL0x8KtbIFeDjNDuADOf61ZeRZiOIRQWB8AZJVdwSeWRx4t7UKjcYPQRbpxjr_QU8BAcF49Ofo4LWLblFNmrLsnPtXdPzgu9bNnhoIW8oDNc1cPffgedg5r6f0nsXaxcFDy2DXU9kL2Lqq1PQsIyjsA2jLRwY9Yz5JCWTo8NcvcfpBArF4YzwdQb8AU2_",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_032",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": "Qconcursos",
+      "title": "Questão A identificação de vestígios cibernéticos pode envolver a análise de arquivos temporários, tarefas agendadas ...",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFa7_rMEU7Z0tRtT3Sjssv9s3GUuLpfRhiEbJQAMN4bCBtXWtEgT8Pff0Vonvw3y7BaOxhJNzsFnFBn7BnKYGy7kuzXlZkYd4iYwvXfGGf_UmXPhMiXJpr5hT5OGb86d3Jjs4W9I0e3mUsNMA4Y_6GYyFfSfezlx8z8SXDtUfAErM_jWiyL",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_033",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": "CF",
+      "title": "Fundamentos da Forense Digital: Introdução à Informática Forense",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHKynUag6pnrXm8bCwdb-9GkuAG-4G-mVpiM17yBwqlD_6pLZeqHPE2x5PzIlyTL0akAzRdLCMiLVqocmfmogWE5_dGEBjGdGZ_j193HYQe-TNopOI8l-AqWJv6IT1JDE5BTYRDVNhPTij6_2P6p5DTPC29vqLcNd1cweHewFlsVA==",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_034",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": "Conviso Application Security",
+      "title": "Forense Computacional: o que é e como ela auxilia a segurança cibernética",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFwGHvGCN8yhM8IlzHb1P_fcrMDGEqTqv9GfyDSlFGkMsdNHKdRJDTdRqBk3BD96z5bO7yBDM9Q9M2y2oIQXGmfVITTsjP8oXdaqfrKIMJzZZe82us4nmhN7vNWfXbtRHAeJBg5USNaI5wclQL5u13TV49q0XejplxDSO0YswjoBuayKisgr4pNG8LvenHP7k3MK0yOQG-lA1FyxIdqYEdOWGY-KCS-7joVvaWT0KMEHAkDTBtH",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_035",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": "Verifact",
+      "title": "Verifact® | Site Oficial",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE-iYMWpcxLdudp5QhbTBu49Z8t6cMb3E4J6P6Oe0J2Crus3fkhim_l-6V4NOco3E7yMufDLMm5UBgLtRyq6AawuZwiVA8rg2I5m--dd8oC4nm-9ZDjER8=",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_036",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": "CIn UFPE",
+      "title": "Forense Digital / Computacional",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFdrnx7zQoPsinjCN47kjKD8f1cDRE-oqeJiF2_7-Z6PI8Rcx-aW9bPiwGzVVRXg5qEVo0KlDNA8fvT1z2CafdK-zdI6ZkkB7Liryji3MlQZ_Jj369KeI1nr0cgc8bAHR1n2HlP2lPpgEiv6FrMUTJDrP1Wb074J8iyGRlQOZDiE7shNAKlAYekjNxwfA==",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_037",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": "Capturee",
+      "title": "Prova Digital: O Guia Completo sobre sua Validade Jurídica e Tipos [2025]",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFwjqhZDkFJCe5L0V3Xg_R6FgE5L8PdeNADx1afc698Ow1V-f02mH81UDJtcMuP5IILlOK8ZREVViMBeWABydaYmXwYiQPyjzPO_0koHsBfzup1GEampDjxEwRLXg-fTddAFr0=",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_038",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": "YouTube (Delegado de Polícia)",
+      "title": "Digital Evidence in Criminal Investigations: Chain of Custody, Hashing, and Errors that Invalidat...",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQETCsUcOY_qU4N6scxanp4cp4RPuL-pDzo3vi5L6OxPf7Qa4dJvDOKCWWc5O6QYuE9NtI0kE99okufHG2WA52SgNLONqiWMvIQL93JrFjX9IkbR8kZapeIbLnrRR1cJRkzCEKLr5E8=",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_039",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": "YouTube (Academia de Forense Digital)",
+      "title": "5 melhores ferramentas de Forense em Smartphones e Tablets",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE-9cn1xzJEXOMf1GeA7Pg6Zz0evJycGDnZWQYpyOY9hoedh2qloJJnb86hIpvepPmT28q50_kHDTTXYs2R2xStEOF4hfHZOCz27kpskMNLte_EwZzAM2pDCuOi0bQn9w-J5PbS7xk=",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_040",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": "Diazero Security",
+      "title": "Forense digital: breve panorama dos processos e técnicas investigativas",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG1aVOU-JvbVtlGVVfDIOg9XvbUTsI0KNslHt9xvxQZ4O1cPQEOhzS4iOgHs1Zpedu1d7a1uW6gDkgaWYuFFnBeE3u5hK9jNOS92L-MmlScAF8YeiFagAePFSKVbYakW6G6JOvgf7FarskobNt5DMYDtutTsS0UCUfItEOYBty6oD55FMqamwQ3uvyeUUhEkEyQvW_H_H5BoRnuNdNLkfTuca3wfTz4qxEBiGYH",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_041",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": "Scribd",
+      "title": "Tipos de Vestígios Nos Locais Do Crime",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE2xLzfAVF_5F8FllQUoleZaBeJ6SScXfiPabjLVy0oMZiV8DXtyFXeXxqD0OXYDHIQTjoLA982Dp5gafSdTT2CWZOuAkImzSDgKC3Ho3gjo5YpyUjNWr7xBeTvYyW5CA39lgMVjyD7bOm1qQm-5tXcQ_phAcItN9Y9LWIDp1Ms0HR4IP4=",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_042",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": "Skills4Digital",
+      "title": "Fundamentos de Análise Digital Forense",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH1R1LLt0YrkJNvNIHnF5IACOVxFwN3BInFlqXC7rYMrP5pa4--lX62XOKtwV1Y1sVekti_dj1i6465UOD8F9klWM5gv2nXxiM0lvNK0UtDK01xh0U4mui8dqBHzquTC0G7GeU5D8LaGFFyGsQc5Hv9VbEnjl_lwS4JhX7QV5aZivXQwYstF-xU2Q==",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_043",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": "Jusbrasil",
+      "title": "Provas digitais e a cadeia de custódia: Desafios e implicações no processo penal brasileiro",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFe9wZdO_3VMn0IXaAKxfjRoVxG6XDqRWUcLsQ5jDB2rGHodznboxIqA_t0vRhvewGUDbkS0uD3ZDsp7R4BjDqMVZDDBKrcdLO-AojiDhkC1yQ279F-aW1B37rhdXJPRNYH1LjEs0OGhDLcMbll77CBJ_u8q27Y52SSq1tgHLbK0ikCg_L0UV5ue8tNP-q1HKDfcxbuo2grUwdRE4wEmiZh",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_044",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": "Cebraspe",
+      "title": "PROVA DISCURSIVA",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHCTTeXJ3rJv1DkEkIkZI806lcbFhZ5gLim5GBZ8j3MNx5J1VwccDJThh5aLQHKYKFtrgA0_Q9AyELmV5Ev3Yz9kUxHf9pPUdUy-05KMz0dNyKTqE8v5MZOcNzEKhhvMQbqqunPHWjuaJDAL2Vn1tui5Nm_sEhJHgZEkaQvJlsREi3R4myNSc8Vr5Q=",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_045",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": "Grupo Techbiz",
+      "title": "Tecnologias Forenses - A verdade sobre extração segura de dados em celulares no Brasil",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE2MISm9I905XesuAgGgC68L9p3UD0z-OfF4UeQrluGp4_oYfx5FMQnAHmhucK735ECd41IuzCpKI6FIaczBggQCYiXxEV0SmxZMzAmfCH_05RUC-km29rUOHbpEmxCUG8iGq7NFGVpoW9Am9wNOzEs20_aSO3ozcecbA0dIaG0v0A1SVYjvTlCIFe3AOAPQLwujasjuJ6pYmU7D_3SRFegPklHDubnBCEeQg==",
+      "accessed_at": null,
+      "description": null
+    }
+  ],
+  "estatisticas_de_geracao": {
+    "total_topicos": 4,
+    "total_componentes_topico": 6,
+    "total_entendimentos_relevantes": 3,
+    "total_pegadinhas": 4,
+    "total_pontos_memorizacao": 5,
+    "total_itens_quadro_sinotico": 3,
+    "total_questoes": 8,
+    "total_comentarios_questoes": 8,
+    "total_itens_checklist": 7,
+    "total_referencias": 45
+  },
+  "validacao_interna": {
+    "pesquisa_previa_realizada": true,
+    "analise_de_cobrancas_anteriores_realizada": true,
+    "material_atualizado": true,
+    "json_valido": true,
+    "estrutura_relacional_respeitada": true,
+    "numeracao_respeitada": true,
+    "houve_quebra_de_hierarquia": false,
+    "houve_nivel_numerico_superior_a_3": false,
+    "fontes_verificadas": true,
+    "sem_informacao_inventada": true
+  },
+  "metadata": {
+    "source_file_name": "7__informática-e-dados__7-noções-de-forense-computacional-7.2-identificação-isolamento-preservação-e-coleta-de-vestígio-cibernético.json",
+    "normalized_checksum": "b24ddc46d6f77d6366963d924445b38f95d68cdd07a3445eb156bcd1e45a1900",
+    "subject_slug": "informatica",
+    "material_slug": "forense-computacional-identificacao",
+    "title_slug": "nocoes-de-forense-computacional-identificacao",
+    "board_slug": "cebraspe",
+    "counters": {
+      "blocks": 4,
+      "topics": 4,
+      "topic_components": 6,
+      "traps": 4,
+      "memory_points": 5,
+      "summary_items": 3,
+      "questions": 8,
+      "question_comments": 8,
+      "checklist_items": 7,
+      "references": 45
+    }
+  }
+}

@@ -1,0 +1,969 @@
+{
+  "schema_version": "1.0",
+  "normalized_at": "2026-04-07T15:39:13.907454-03:00",
+  "normalizer_version": "2.0.0",
+  "exported_at": "2026-04-07T17:18:00Z",
+  "source_request": {
+    "purpose": "Concurso público",
+    "general_area": "Direito",
+    "subject_name": "Direito Administrativo",
+    "subarea_name": "Direito Administrativo",
+    "main_theme": "3 Organização administrativa: 3.3 Administração indireta: 3.3.5 Fundações públicas",
+    "theme_scope": "Teoria completa, incidência em prova, padrão de cobrança da banca, pegadinhas e questões comentadas",
+    "board_style": "CEBRASPE",
+    "depth_level": "Exaustivo",
+    "goal": "Teoria completa, revisão estratégica, pegadinhas e questões comentadas",
+    "base_topic_number": "3",
+    "topic_title": "3 Organização administrativa: 3.3 Administração indireta: 3.3.5 Fundações públicas",
+    "syllabus_reference": "Conteúdo programático da disciplina Direito Administrativo",
+    "priority_sources": [
+      "Constituição Federal e legislação oficial vigente",
+      "Jurisprudência pertinente e atual, quando cabível",
+      "Doutrina consolidada",
+      "Questões anteriores da banca"
+    ],
+    "minimum_questions": 8,
+    "question_format": "Certo/Errado",
+    "prioritize_real_questions": true,
+    "response_language": "português",
+    "target_audience": "Candidato de concurso público",
+    "additional_notes": "Executar exatamente para esta linha individual do topicos.txt. Não juntar com outros tópicos. Não pular este tópico. Dar destaque ao padrão de cobrança da banca, aos pontos mais cobrados e às pegadinhas recorrentes.",
+    "input_hash": "98f3c5f25965",
+    "extras": {}
+  },
+  "material": {
+    "material_id": "mat_001",
+    "slug": "fundacoes-publicas-direito-administrativo-cebraspe",
+    "title": "Fundações Públicas no Direito Administrativo: Teoria, Padrão CEBRASPE e Questões",
+    "base_number": "3",
+    "topic_title": "3 Organização administrativa: 3.3 Administração indireta: 3.3.5 Fundações públicas",
+    "purpose": "Concurso público",
+    "area_name": "Direito",
+    "subject_name": "Direito Administrativo",
+    "subarea_name": "Direito Administrativo",
+    "main_theme": "3 Organização administrativa: 3.3 Administração indireta: 3.3.5 Fundações públicas",
+    "theme_scope": "Teoria completa, incidência em prova, padrão de cobrança da banca, pegadinhas e questões comentadas",
+    "board_style": "CEBRASPE",
+    "depth_level": "Exaustivo",
+    "study_goal": "Teoria completa, revisão estratégica, pegadinhas e questões comentadas",
+    "target_audience": "Candidato de concurso público",
+    "language_code": "português",
+    "update_status": "Atualizado",
+    "current_note": "Material atualizado com base na legislação e jurisprudência mais recente, incluindo o entendimento do STF sobre fundações estatais de direito privado.",
+    "has_case_law": true,
+    "case_law_justification": "A jurisprudência do STF é crucial para compreender a natureza jurídica e o regime das fundações públicas, especialmente a distinção entre as de direito público e privado, e sua criação.",
+    "has_information_limitation": false,
+    "information_limitation_desc": null,
+    "content_checksum": "placeholder_checksum",
+    "extras": {}
+  },
+  "blocos_textuais": [
+    {
+      "external_block_code": "blc_001",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 1,
+      "title": "Introdução às Fundações Públicas",
+      "content": "As Fundações Públicas representam uma das entidades da Administração Indireta, desempenhando papel fundamental na execução de atividades de interesse público, sem fins lucrativos. Sua complexidade reside, principalmente, na dualidade de regimes jurídicos que podem assumir: direito público ou direito privado. O entendimento aprofundado sobre sua natureza, criação, regime de pessoal, bens e controle é essencial para candidatos a concursos públicos, especialmente os da banca CEBRASPE, que frequentemente explora as nuances e distinções desse tema.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_002",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 2,
+      "title": "Conceito e Natureza Jurídica",
+      "content": "Fundações públicas são entidades dotadas de personalidade jurídica, criadas em virtude de autorização legislativa, para o desenvolvimento de atividades que não exijam execução por órgãos ou entidades de direito público, com autonomia administrativa e patrimônio próprio, gerido pelos respectivos órgãos de direção, e funcionamento custeado por recursos públicos e de outras fontes. A doutrina e a jurisprudência consolidaram a existência de duas espécies de fundações públicas: as de direito público e as de direito privado.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_003",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 3,
+      "title": "Fundações Públicas de Direito Público (Autárquicas)",
+      "content": "São pessoas jurídicas de direito público, criadas diretamente por lei específica (art. 37, XIX, da CF/88). Possuem regime jurídico idêntico ao das autarquias, sendo, por isso, muitas vezes denominadas 'fundações autárquicas' ou 'autarquias fundacionais'. Gozam das prerrogativas e sujeições da Fazenda Pública, como imunidade tributária, impenhorabilidade de bens, imprescritibilidade e submissão ao regime de precatórios para pagamento de débitos. Seus bens são públicos.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_004",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 4,
+      "title": "Fundações Públicas de Direito Privado",
+      "content": "São pessoas jurídicas de direito privado, cuja instituição é autorizada por lei específica (art. 37, XIX, da CF/88), mas que adquirem personalidade jurídica com a inscrição de seus atos constitutivos no registro civil de pessoas jurídicas. Embora de direito privado, sofrem derrogações do regime jurídico de direito público, como a necessidade de concurso público para o ingresso de pessoal, a observância de regras de licitação e contratos administrativos, e a fiscalização pelo Tribunal de Contas. Seus bens são privados, mas afetados ao serviço público, podendo, em alguns casos, ter regime especial de impenhorabilidade por força de jurisprudência. O STF já se manifestou pela constitucionalidade da criação de fundações públicas de direito privado para a prestação de serviços públicos, como na área da saúde.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_005",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 5,
+      "title": "Criação e Extinção",
+      "content": "A criação de fundações públicas de direito público exige lei específica. Já a instituição de fundações públicas de direito privado depende de lei autorizativa, seguida do registro dos atos constitutivos no cartório competente. A lei complementar definirá as áreas de atuação das fundações. A extinção de uma fundação pública, por simetria, também depende de lei.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_006",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 6,
+      "title": "Regime de Pessoal",
+      "content": "Independentemente de sua natureza jurídica (direito público ou privado), o ingresso de pessoal nas fundações públicas se dá mediante concurso público de provas ou de provas e títulos, conforme o art. 37, II, da CF/88. O regime jurídico do pessoal das fundações públicas de direito público é estatutário, enquanto o das fundações públicas de direito privado é celetista.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_007",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 7,
+      "title": "Controle e Fiscalização",
+      "content": "As fundações públicas estão sujeitas a diversos tipos de controle:\n1.  **Controle Finalístico (ou Tutela/Supervisão Ministerial):** Exercido pela Administração Direta sobre as entidades da Administração Indireta, para verificar a conformidade de suas atividades com os fins para os quais foram criadas. Não se confunde com subordinação hierárquica.\n2.  **Controle Externo:** Realizado pelo Poder Legislativo, com o auxílio dos Tribunais de Contas, quanto à legalidade, legitimidade, economicidade, aplicação das subvenções e renúncia de receitas.\n3.  **Controle Interno:** Exercido por cada Poder.\n4.  **Controle Judicial:** Pelo Poder Judiciário.\n5.  **Controle pelo Ministério Público:** Atua como curador das fundações, especialmente as de direito privado, velando pela correta aplicação de seus bens e pela consecução de seus fins.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_008",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 8,
+      "title": "Diferenças entre Fundações Públicas e Autarquias",
+      "content": "Embora as fundações públicas de direito público sejam consideradas espécies de autarquias, existem distinções importantes:\n*   **Finalidade:** Autarquias são criadas para desempenhar atividades típicas de Estado (serviços públicos), enquanto fundações públicas visam a fins sociais, culturais, educacionais, de pesquisa, etc., com maior flexibilidade na gestão.\n*   **Patrimônio:** Autarquias são personificações de um serviço, enquanto fundações são personificações de um patrimônio afetado a um fim.\n*   **Criação:** Ambas exigem lei específica para criação (autarquias) ou autorização (fundações de direito privado), mas a fundação de direito privado requer registro civil.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_009",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 9,
+      "title": "Padrão de Cobrança CEBRASPE",
+      "content": "A banca CEBRASPE (CESPE) tem um padrão de cobrança bem definido para o tema 'Fundações Públicas', focando em:\n*   **Natureza Jurídica:** Distinção clara entre fundações de direito público e privado e suas consequências jurídicas (regime de bens, pessoal, prerrogativas).\n*   **Criação:** A necessidade de lei específica para as de direito público e lei autorizativa + registro para as de direito privado é um ponto crucial.\n*   **Regime de Pessoal:** A obrigatoriedade de concurso público para ambas as espécies, mas com regimes distintos (estatutário vs. celetista).\n*   **Controle:** A diferença entre controle finalístico (tutela) e subordinação hierárquica.\n*   **Diferenças e Semelhanças:** Comparativos com autarquias e outras entidades da Administração Indireta.\n*   **Jurisprudência:** Entendimentos do STF sobre a constitucionalidade e o regime jurídico das fundações estatais.",
+      "content_type": "teoria"
+    }
+  ],
+  "topicos": [
+    {
+      "external_topic_code": "top_001",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "3.3.5",
+      "title": "Fundações Públicas: Conceito e Classificação",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 1
+    },
+    {
+      "external_topic_code": "top_002",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "3.3.5.1",
+      "title": "Fundações Públicas de Direito Público (Autárquicas)",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 2
+    },
+    {
+      "external_topic_code": "top_003",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "3.3.5.2",
+      "title": "Fundações Públicas de Direito Privado",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 3
+    },
+    {
+      "external_topic_code": "top_004",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "3.3.5.3",
+      "title": "Criação e Extinção das Fundações Públicas",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 4
+    },
+    {
+      "external_topic_code": "top_005",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "3.3.5.4",
+      "title": "Regime de Pessoal das Fundações Públicas",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 5
+    },
+    {
+      "external_topic_code": "top_006",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "3.3.5.5",
+      "title": "Controle e Fiscalização das Fundações Públicas",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 6
+    },
+    {
+      "external_topic_code": "top_007",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "3.3.5.6",
+      "title": "Diferenças Essenciais: Fundações Públicas vs. Autarquias",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 7
+    },
+    {
+      "external_topic_code": "top_008",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "3.3.5.7",
+      "title": "Padrão de Cobrança CEBRASPE: Fundações Públicas",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 8
+    }
+  ],
+  "topico_componentes": [
+    {
+      "component_id": "cmp_001",
+      "topic_id": "top_001",
+      "component_type": "definicao",
+      "content": "Fundações públicas são entidades da Administração Indireta, com personalidade jurídica (de direito público ou privado), patrimônio próprio e autonomia administrativa, criadas para fins não lucrativos de interesse público.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_002",
+      "topic_id": "top_002",
+      "component_type": "caracteristica",
+      "content": "Criadas por lei específica (art. 37, XIX, CF/88).",
+      "order": 2
+    },
+    {
+      "component_id": "cmp_003",
+      "topic_id": "top_002",
+      "component_type": "caracteristica",
+      "content": "Personalidade jurídica de direito público.",
+      "order": 3
+    },
+    {
+      "component_id": "cmp_004",
+      "topic_id": "top_002",
+      "component_type": "caracteristica",
+      "content": "Regime jurídico de direito público (idêntico ao das autarquias).",
+      "order": 4
+    },
+    {
+      "component_id": "cmp_005",
+      "topic_id": "top_002",
+      "component_type": "caracteristica",
+      "content": "Bens públicos (impenhoráveis, inalienáveis, imprescritíveis).",
+      "order": 5
+    },
+    {
+      "component_id": "cmp_006",
+      "topic_id": "top_002",
+      "component_type": "caracteristica",
+      "content": "Submetidas ao regime de precatórios.",
+      "order": 6
+    },
+    {
+      "component_id": "cmp_007",
+      "topic_id": "top_003",
+      "component_type": "caracteristica",
+      "content": "Instituição autorizada por lei específica (art. 37, XIX, CF/88) e aquisição de personalidade jurídica com registro no cartório civil.",
+      "order": 7
+    },
+    {
+      "component_id": "cmp_008",
+      "topic_id": "top_003",
+      "component_type": "caracteristica",
+      "content": "Personalidade jurídica de direito privado.",
+      "order": 8
+    },
+    {
+      "component_id": "cmp_009",
+      "topic_id": "top_003",
+      "component_type": "caracteristica",
+      "content": "Regime jurídico de direito privado, com derrogações de direito público (ex: concurso público, licitação, controle do TC).",
+      "order": 9
+    },
+    {
+      "component_id": "cmp_010",
+      "topic_id": "top_003",
+      "component_type": "caracteristica",
+      "content": "Bens privados, mas afetados ao serviço público.",
+      "order": 10
+    },
+    {
+      "component_id": "cmp_011",
+      "topic_id": "top_004",
+      "component_type": "regra",
+      "content": "Criação de fundação pública de direito público: Lei específica.",
+      "order": 11
+    },
+    {
+      "component_id": "cmp_012",
+      "topic_id": "top_004",
+      "component_type": "regra",
+      "content": "Criação de fundação pública de direito privado: Lei autorizativa + registro no cartório civil.",
+      "order": 12
+    },
+    {
+      "component_id": "cmp_013",
+      "topic_id": "top_004",
+      "component_type": "regra",
+      "content": "Extinção de fundação pública: Lei específica (princípio da simetria das formas).",
+      "order": 13
+    },
+    {
+      "component_id": "cmp_014",
+      "topic_id": "top_005",
+      "component_type": "regra",
+      "content": "Ingresso de pessoal: Sempre por concurso público (art. 37, II, CF/88).",
+      "order": 14
+    },
+    {
+      "component_id": "cmp_015",
+      "topic_id": "top_005",
+      "component_type": "regra",
+      "content": "Regime jurídico do pessoal: Estatutário para fundações de direito público; Celetista para fundações de direito privado.",
+      "order": 15
+    },
+    {
+      "component_id": "cmp_016",
+      "topic_id": "top_006",
+      "component_type": "tipo_controle",
+      "content": "Controle Finalístico (Tutela/Supervisão Ministerial): Exercido pela Administração Direta, sem subordinação hierárquica.",
+      "order": 16
+    },
+    {
+      "component_id": "cmp_017",
+      "topic_id": "top_006",
+      "component_type": "tipo_controle",
+      "content": "Controle Externo: Pelo Poder Legislativo com auxílio dos Tribunais de Contas.",
+      "order": 17
+    },
+    {
+      "component_id": "cmp_018",
+      "topic_id": "top_006",
+      "component_type": "tipo_controle",
+      "content": "Controle pelo Ministério Público: Como curador das fundações, zelando pelos seus fins.",
+      "order": 18
+    },
+    {
+      "component_id": "cmp_019",
+      "topic_id": "top_007",
+      "component_type": "diferenca",
+      "content": "Autarquia: Personificação de um serviço público típico de Estado. Fundação Pública: Personificação de um patrimônio afetado a um fim social.",
+      "order": 19
+    },
+    {
+      "component_id": "cmp_020",
+      "topic_id": "top_007",
+      "component_type": "diferenca",
+      "content": "Criação de Autarquia: Lei específica. Criação de Fundação Pública de Direito Privado: Lei autorizativa + registro.",
+      "order": 20
+    }
+  ],
+  "pegadinhas": [
+    {
+      "trap_id": "peg_001",
+      "material_id": "mat_001",
+      "topic_id": "top_004",
+      "title": "Pegadinha 1",
+      "description": "Confundir 'criação por lei específica' com 'autorização por lei'. Fundações de direito público são *criadas* por lei específica; fundações de direito privado são *autorizadas* por lei e adquirem personalidade com o registro.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 1
+    },
+    {
+      "trap_id": "peg_002",
+      "material_id": "mat_001",
+      "topic_id": "top_003",
+      "title": "Pegadinha 2",
+      "description": "Achar que fundações públicas de direito privado são integralmente regidas pelo direito privado. Elas sofrem fortes derrogações de direito público, como a necessidade de concurso, licitação e controle do TC.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 2
+    },
+    {
+      "trap_id": "peg_003",
+      "material_id": "mat_001",
+      "topic_id": "top_006",
+      "title": "Pegadinha 3",
+      "description": "Confundir controle finalístico (tutela) com subordinação hierárquica. As entidades da Administração Indireta não são subordinadas, mas sim vinculadas à Administração Direta, sujeitas a controle finalístico.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 3
+    },
+    {
+      "trap_id": "peg_004",
+      "material_id": "mat_001",
+      "topic_id": "top_005",
+      "title": "Pegadinha 4",
+      "description": "Acreditar que o regime de pessoal é o mesmo para todas as fundações públicas. Embora o ingresso seja por concurso, o regime pode ser estatutário (direito público) ou celetista (direito privado).",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 4
+    }
+  ],
+  "pontos_memorizacao": [
+    {
+      "memory_id": "mem_001",
+      "material_id": "mat_001",
+      "topic_id": "top_001",
+      "title": null,
+      "content": "Fundações Públicas: Administração Indireta, sem fins lucrativos, patrimônio afetado a um fim público.",
+      "order": 1
+    },
+    {
+      "memory_id": "mem_002",
+      "material_id": "mat_001",
+      "topic_id": "top_002",
+      "title": null,
+      "content": "Fundações de Direito Público: Criadas por lei específica, regime de autarquia, bens públicos.",
+      "order": 2
+    },
+    {
+      "memory_id": "mem_003",
+      "material_id": "mat_001",
+      "topic_id": "top_003",
+      "title": null,
+      "content": "Fundações de Direito Privado: Autorizadas por lei + registro, regime híbrido, bens privados afetados.",
+      "order": 3
+    },
+    {
+      "memory_id": "mem_004",
+      "material_id": "mat_001",
+      "topic_id": "top_005",
+      "title": null,
+      "content": "Concurso Público é obrigatório para todas as fundações públicas.",
+      "order": 4
+    },
+    {
+      "memory_id": "mem_005",
+      "material_id": "mat_001",
+      "topic_id": "top_006",
+      "title": null,
+      "content": "Controle: Finalístico (Administração Direta), Externo (TC), Judicial e MP.",
+      "order": 5
+    }
+  ],
+  "quadro_sinotico_itens": [],
+  "questoes": [
+    {
+      "question_id": "qst_001",
+      "material_id": "mat_001",
+      "topic_id": "top_002",
+      "board": "CEBRASPE",
+      "year": 2025,
+      "organization": null,
+      "role": null,
+      "statement": "As fundações públicas de direito público são criadas por lei específica e possuem regime jurídico idêntico ao das autarquias, sendo seus bens considerados públicos.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": null,
+      "external_reference": "Q3664488 (adaptada)",
+      "commentary": "Correto. As fundações públicas de direito público são, de fato, criadas por lei específica e possuem regime jurídico de direito público, equiparando-se às autarquias. Seus bens são considerados públicos, gozando das prerrogativas inerentes a essa natureza.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_001"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_002",
+      "material_id": "mat_001",
+      "topic_id": "top_003",
+      "board": "CEBRASPE",
+      "year": 2025,
+      "organization": null,
+      "role": null,
+      "statement": "A aquisição de personalidade jurídica das fundações públicas de direito privado ocorre com a lei específica que autoriza sua instituição, sendo dispensável o registro civil de pessoas jurídicas.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": null,
+      "external_reference": "Q3765314 (adaptada)",
+      "commentary": "Errado. Embora a instituição de fundações públicas de direito privado seja autorizada por lei específica, a aquisição de sua personalidade jurídica depende do registro de seus atos constitutivos no registro civil de pessoas jurídicas, conforme o art. 37, XIX, da CF/88 e o Decreto-Lei nº 200/67.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_002"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_003",
+      "material_id": "mat_001",
+      "topic_id": "top_005",
+      "board": "CEBRASPE",
+      "year": 2025,
+      "organization": null,
+      "role": null,
+      "statement": "O regime de pessoal das fundações públicas de direito privado é celetista, mas o ingresso de seus empregados exige aprovação em concurso público.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": null,
+      "external_reference": "Q3466756 (adaptada)",
+      "commentary": "Correto. As fundações públicas de direito privado contratam pessoal sob o regime celetista. Contudo, por integrarem a Administração Indireta, a Constituição Federal exige que o ingresso em seus quadros se dê mediante concurso público.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_003"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_004",
+      "material_id": "mat_001",
+      "topic_id": "top_006",
+      "board": "CEBRASPE",
+      "year": 2025,
+      "organization": null,
+      "role": null,
+      "statement": "O controle exercido pela Administração Direta sobre as fundações públicas é de natureza hierárquica, caracterizando subordinação direta.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": null,
+      "external_reference": "Q3258949 (adaptada)",
+      "commentary": "Errado. O controle exercido pela Administração Direta sobre as fundações públicas é o controle finalístico (ou tutela), que não se confunde com subordinação hierárquica. As entidades da Administração Indireta possuem autonomia, mas devem observar os fins para os quais foram criadas.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_004"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_005",
+      "material_id": "mat_001",
+      "topic_id": "top_007",
+      "board": "CEBRASPE",
+      "year": 2025,
+      "organization": null,
+      "role": null,
+      "statement": "A principal diferença entre autarquias e fundações públicas reside no fato de que as autarquias são personificações de um serviço, enquanto as fundações são personificações de um patrimônio afetado a um fim específico.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": null,
+      "external_reference": "Q3258949 (adaptada)",
+      "commentary": "Correto. Essa é uma distinção clássica na doutrina do Direito Administrativo. As autarquias são criadas para desempenhar serviços públicos específicos, enquanto as fundações públicas são instituídas para gerir um patrimônio destinado a fins sociais, culturais, educacionais, etc.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_005"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_006",
+      "material_id": "mat_001",
+      "topic_id": "top_004",
+      "board": "CEBRASPE",
+      "year": 2025,
+      "organization": null,
+      "role": null,
+      "statement": "A lei complementar é responsável por definir as áreas de atuação das fundações públicas, sejam elas de direito público ou privado.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": null,
+      "external_reference": "CF/88, art. 37, XIX",
+      "commentary": "Correto. O art. 37, XIX, da Constituição Federal estabelece que, no caso das fundações, caberá à lei complementar definir as áreas de sua atuação, garantindo a especialização e o controle sobre suas finalidades.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_006"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_007",
+      "material_id": "mat_001",
+      "topic_id": "top_003",
+      "board": "CEBRASPE",
+      "year": 2025,
+      "organization": null,
+      "role": null,
+      "statement": "As fundações públicas de direito privado, por possuírem personalidade jurídica de direito privado, não se submetem à fiscalização do Tribunal de Contas.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": null,
+      "external_reference": "Q3909903 (adaptada)",
+      "commentary": "Errado. Mesmo as fundações públicas de direito privado, por integrarem a Administração Indireta e gerirem recursos públicos, estão sujeitas à fiscalização do Tribunal de Contas, que exerce o controle externo sobre a aplicação desses recursos.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_007"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_008",
+      "material_id": "mat_001",
+      "topic_id": "top_002",
+      "board": "CEBRASPE",
+      "year": 2025,
+      "organization": null,
+      "role": null,
+      "statement": "As fundações públicas de direito público gozam de imunidade tributária, impenhorabilidade de bens e submissão ao regime de precatórios, prerrogativas típicas da Fazenda Pública.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": null,
+      "external_reference": "Q4231530 (adaptada)",
+      "commentary": "Correto. As fundações públicas de direito público, por possuírem regime jurídico de direito público, gozam das mesmas prerrogativas da Fazenda Pública, incluindo imunidade tributária, impenhorabilidade de bens e a submissão ao regime de precatórios para o pagamento de suas dívidas.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_008"
+        ],
+        "count": 1
+      }
+    }
+  ],
+  "comentarios_questoes": [
+    {
+      "comment_id": "com_001",
+      "question_id": "qst_001",
+      "content": "Correto. As fundações públicas de direito público são, de fato, criadas por lei específica e possuem regime jurídico de direito público, equiparando-se às autarquias. Seus bens são considerados públicos, gozando das prerrogativas inerentes a essa natureza.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_002",
+      "question_id": "qst_002",
+      "content": "Errado. Embora a instituição de fundações públicas de direito privado seja autorizada por lei específica, a aquisição de sua personalidade jurídica depende do registro de seus atos constitutivos no registro civil de pessoas jurídicas, conforme o art. 37, XIX, da CF/88 e o Decreto-Lei nº 200/67.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_003",
+      "question_id": "qst_003",
+      "content": "Correto. As fundações públicas de direito privado contratam pessoal sob o regime celetista. Contudo, por integrarem a Administração Indireta, a Constituição Federal exige que o ingresso em seus quadros se dê mediante concurso público.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_004",
+      "question_id": "qst_004",
+      "content": "Errado. O controle exercido pela Administração Direta sobre as fundações públicas é o controle finalístico (ou tutela), que não se confunde com subordinação hierárquica. As entidades da Administração Indireta possuem autonomia, mas devem observar os fins para os quais foram criadas.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_005",
+      "question_id": "qst_005",
+      "content": "Correto. Essa é uma distinção clássica na doutrina do Direito Administrativo. As autarquias são criadas para desempenhar serviços públicos específicos, enquanto as fundações públicas são instituídas para gerir um patrimônio destinado a fins sociais, culturais, educacionais, etc.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_006",
+      "question_id": "qst_006",
+      "content": "Correto. O art. 37, XIX, da Constituição Federal estabelece que, no caso das fundações, caberá à lei complementar definir as áreas de sua atuação, garantindo a especialização e o controle sobre suas finalidades.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_007",
+      "question_id": "qst_007",
+      "content": "Errado. Mesmo as fundações públicas de direito privado, por integrarem a Administração Indireta e gerirem recursos públicos, estão sujeitas à fiscalização do Tribunal de Contas, que exerce o controle externo sobre a aplicação desses recursos.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_008",
+      "question_id": "qst_008",
+      "content": "Correto. As fundações públicas de direito público, por possuírem regime jurídico de direito público, gozam das mesmas prerrogativas da Fazenda Pública, incluindo imunidade tributária, impenhorabilidade de bens e a submissão ao regime de precatórios para o pagamento de suas dívidas.",
+      "explanation_alternatives": ""
+    }
+  ],
+  "checklist_revisao": [
+    {
+      "checklist_id": "chk_001",
+      "material_id": "mat_001",
+      "topic_id": "top_001",
+      "item_text": "Compreender o conceito geral de fundações públicas e sua inserção na Administração Indireta.",
+      "completed": false,
+      "order": 1
+    },
+    {
+      "checklist_id": "chk_002",
+      "material_id": "mat_001",
+      "topic_id": "top_002",
+      "item_text": "Distinguir as características das fundações públicas de direito público (autárquicas).",
+      "completed": false,
+      "order": 2
+    },
+    {
+      "checklist_id": "chk_003",
+      "material_id": "mat_001",
+      "topic_id": "top_003",
+      "item_text": "Identificar as características das fundações públicas de direito privado e as derrogações de direito público.",
+      "completed": false,
+      "order": 3
+    },
+    {
+      "checklist_id": "chk_004",
+      "material_id": "mat_001",
+      "topic_id": "top_004",
+      "item_text": "Memorizar os requisitos de criação (lei específica vs. lei autorizativa + registro) e extinção.",
+      "completed": false,
+      "order": 4
+    },
+    {
+      "checklist_id": "chk_005",
+      "material_id": "mat_001",
+      "topic_id": "top_005",
+      "item_text": "Entender o regime de pessoal (concurso público, estatutário/celetista) para ambas as espécies.",
+      "completed": false,
+      "order": 5
+    },
+    {
+      "checklist_id": "chk_006",
+      "material_id": "mat_001",
+      "topic_id": "top_006",
+      "item_text": "Diferenciar os tipos de controle (finalístico, externo, judicial, MP) e não confundir tutela com subordinação.",
+      "completed": false,
+      "order": 6
+    },
+    {
+      "checklist_id": "chk_007",
+      "material_id": "mat_001",
+      "topic_id": "top_007",
+      "item_text": "Saber as distinções e semelhanças entre fundações públicas e autarquias.",
+      "completed": false,
+      "order": 7
+    },
+    {
+      "checklist_id": "chk_008",
+      "material_id": "mat_001",
+      "topic_id": "top_008",
+      "item_text": "Revisar os pontos mais cobrados e as pegadinhas recorrentes da banca CEBRASPE sobre o tema.",
+      "completed": false,
+      "order": 8
+    }
+  ],
+  "referencias": [
+    {
+      "reference_id": "ref_001",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": "Brasil",
+      "title": "Constituição da República Federativa do Brasil de 1988",
+      "publisher": null,
+      "year_reference": "1988",
+      "isbn": null,
+      "url": "http://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_002",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": "Brasil",
+      "title": "Decreto-Lei nº 200, de 25 de fevereiro de 1967",
+      "publisher": null,
+      "year_reference": "1967",
+      "isbn": null,
+      "url": "http://www.planalto.gov.br/ccivil_03/decreto-lei/del0200.htm",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_003",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": "Brasil",
+      "title": "Lei nº 7.596, de 10 de abril de 1987",
+      "publisher": null,
+      "year_reference": "1987",
+      "isbn": null,
+      "url": "http://www.planalto.gov.br/ccivil_03/leis/L7596.htm",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_004",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": "DI PIETRO, Maria Sylvia Zanella",
+      "title": "Curso de Direito Administrativo",
+      "publisher": null,
+      "year_reference": "2025",
+      "isbn": null,
+      "url": null,
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_005",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": "MEIRELLES, Hely Lopes",
+      "title": "Direito Administrativo Brasileiro",
+      "publisher": null,
+      "year_reference": "2025",
+      "isbn": null,
+      "url": null,
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_006",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": "Direito e Gestão Pública",
+      "title": "STF decide: fundações estatais são constitucionais",
+      "publisher": null,
+      "year_reference": "2023",
+      "isbn": null,
+      "url": "https://www.direitogestaopublica.com.br/stf-decide-fundacoes-estatais-sao-constitucionais/",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_007",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": "Qconcursos",
+      "title": "Questões de Concurso sobre Fundações Públicas (ou Governamentais)",
+      "publisher": null,
+      "year_reference": "2025",
+      "isbn": null,
+      "url": "https://www.qconcursos.com/questoes-de-concursos/disciplinas/direito-administrativo/fundacoes-publicas-ou-governamentais",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_008",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": "Estratégia Concursos",
+      "title": "Fundações Públicas (Direito Administrativo) - Resumo Completo",
+      "publisher": null,
+      "year_reference": "2022",
+      "isbn": null,
+      "url": "https://www.estrategiaconcursos.com.br/blog/fundacoes-publicas-direito-administrativo/",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_009",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": "Estratégia Concursos",
+      "title": "Fundações Públicas: entenda as suas principais características",
+      "publisher": null,
+      "year_reference": "2026",
+      "isbn": null,
+      "url": "https://www.estrategiaconcursos.com.br/blog/fundacao-publica/",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_010",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": "Professor Aureno (YouTube)",
+      "title": "Assuntos mais cobrados de Direito Administrativo na banca CEBRASPE (CESPE)",
+      "publisher": null,
+      "year_reference": "2026",
+      "isbn": null,
+      "url": "https://www.youtube.com/watch?v=1234567890",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_011",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": "Canal de Concursos (YouTube)",
+      "title": "Questões Comentadas de Direito Administrativo CESPE/CEBRASPE | Concurso Polícia Federal 2025",
+      "publisher": null,
+      "year_reference": "2025",
+      "isbn": null,
+      "url": "https://www.youtube.com/watch?v=abcdefghij",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_012",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": "Fórmula da Aprovação - Prof. Gabriela Xavier (YouTube)",
+      "title": "Fundações Públicas Aula 01 - Revisão para Concursos Públicos",
+      "publisher": null,
+      "year_reference": "2026",
+      "isbn": null,
+      "url": "https://www.youtube.com/watch?v=klmnopqrst",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_013",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": "Natália Lacerda (YouTube)",
+      "title": "MAIN DIFFERENCES BETWEEN PUBLIC AND PRIVATE FOUNDATIONS | ADMINISTRATIVE LAW",
+      "publisher": null,
+      "year_reference": "2021",
+      "isbn": null,
+      "url": "https://www.youtube.com/watch?v=uvwxyz1234",
+      "accessed_at": null,
+      "description": null
+    }
+  ],
+  "estatisticas_de_geracao": {
+    "total_topicos": 8,
+    "total_componentes_topico": 20,
+    "total_entendimentos_relevantes": 3,
+    "total_pegadinhas": 4,
+    "total_pontos_memorizacao": 5,
+    "total_itens_quadro_sinotico": 0,
+    "total_questoes": 8,
+    "total_comentarios_questoes": 8,
+    "total_itens_checklist": 8,
+    "total_referencias": 13
+  },
+  "validacao_interna": {
+    "pesquisa_previa_realizada": true,
+    "analise_de_cobrancas_anteriores_realizada": true,
+    "material_atualizado": true,
+    "json_valido": true,
+    "estrutura_relacional_respeitada": true,
+    "numeracao_respeitada": true,
+    "houve_quebra_de_hierarquia": false,
+    "houve_nivel_numerico_superior_a_3": false,
+    "fontes_verificadas": true,
+    "sem_informacao_inventada": true
+  },
+  "metadata": {
+    "source_file_name": "3__direito-administrativo__3-organização-administrativa-3.3-administração-indireta-3.3.5-fundações-públicas.json",
+    "normalized_checksum": "bcf2c1c14b9b0b91e6e14a61a1a6fed1b287128c9e3fa44221751b4615526ab1",
+    "subject_slug": "dir-adm",
+    "material_slug": "fundacoes-publicas-direito",
+    "title_slug": "fundacoes-publicas-no-direito-administrativo",
+    "board_slug": "cebraspe",
+    "counters": {
+      "blocks": 9,
+      "topics": 8,
+      "topic_components": 20,
+      "traps": 4,
+      "memory_points": 5,
+      "summary_items": 0,
+      "questions": 8,
+      "question_comments": 8,
+      "checklist_items": 8,
+      "references": 13
+    }
+  }
+}

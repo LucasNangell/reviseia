@@ -1,0 +1,1045 @@
+{
+  "schema_version": "1.0",
+  "normalized_at": "2026-04-07T15:39:15.101309-03:00",
+  "normalizer_version": "2.0.0",
+  "exported_at": "2026-04-06T20:09:00Z",
+  "source_request": {
+    "purpose": "Concurso público",
+    "general_area": "Linguagens",
+    "subject_name": "Língua Portuguesa",
+    "subarea_name": "Gramática, interpretação e reescrita",
+    "main_theme": "5 Domínio da estrutura morfossintática do período: 5.6 Regência verbal e nominal",
+    "theme_scope": "Teoria completa, incidência em prova, padrão de cobrança da banca, pegadinhas e questões comentadas",
+    "board_style": "CEBRASPE",
+    "depth_level": "Exaustivo",
+    "goal": "Teoria completa, revisão estratégica, pegadinhas e questões comentadas",
+    "base_topic_number": "5",
+    "topic_title": "5 Domínio da estrutura morfossintática do período: 5.6 Regência verbal e nominal",
+    "syllabus_reference": "Conteúdo programático da disciplina Língua Portuguesa",
+    "priority_sources": [
+      "Gramáticas e manuais reconhecidos",
+      "Bibliografia técnica consolidada",
+      "Questões anteriores da banca"
+    ],
+    "minimum_questions": 8,
+    "question_format": "Certo/Errado",
+    "prioritize_real_questions": true,
+    "response_language": "português",
+    "target_audience": "Candidato de concurso público",
+    "additional_notes": "Executar exatamente para esta linha individual do topicos.txt. Não juntar com outros tópicos. Não pular este tópico. Dar destaque ao padrão de cobrança da banca, aos pontos mais cobrados e às pegadinhas recorrentes.",
+    "input_hash": "d0a124fea5b5",
+    "extras": {}
+  },
+  "material": {
+    "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-56-regência-verbal-e-nominal",
+    "slug": "regencia-verbal-e-nominal-cebraspe",
+    "title": "Regência Verbal e Nominal para Concursos (CEBRASPE)",
+    "base_number": "5",
+    "topic_title": "5 Domínio da estrutura morfossintática do período: 5.6 Regência verbal e nominal",
+    "purpose": "Concurso público",
+    "area_name": "Linguagens",
+    "subject_name": "Língua Portuguesa",
+    "subarea_name": "Gramática, interpretação e reescrita",
+    "main_theme": "5 Domínio da estrutura morfossintática do período: 5.6 Regência verbal e nominal",
+    "theme_scope": "Teoria completa, incidência em prova, padrão de cobrança da banca, pegadinhas e questões comentadas",
+    "board_style": "CEBRASPE",
+    "depth_level": "Exaustivo",
+    "study_goal": "Teoria completa, revisão estratégica, pegadinhas e questões comentadas",
+    "target_audience": "Candidato de concurso público",
+    "language_code": "português",
+    "update_status": "Atualizado",
+    "current_note": "Conteúdo revisado conforme a norma-padrão da Língua Portuguesa e padrões de cobrança recentes da banca CEBRASPE.",
+    "has_case_law": false,
+    "case_law_justification": "A disciplina de Língua Portuguesa, especificamente o tema de Regência Verbal e Nominal, não exige a inclusão de jurisprudência.",
+    "has_information_limitation": false,
+    "information_limitation_desc": null,
+    "content_checksum": "gerado_automaticamente_com_base_em_regras_e_pesquisa",
+    "extras": {}
+  },
+  "blocos_textuais": [
+    {
+      "external_block_code": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-56-regência-verbal-e-nominal_blc_001",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-56-regência-verbal-e-nominal",
+      "topic_id": "top_001",
+      "order": 1,
+      "title": "Introdução à Regência",
+      "content": "A regência é a relação de dependência que se estabelece entre um termo regente (verbo ou nome) e um termo regido (seu complemento). Essa relação é fundamental para a construção de frases gramaticalmente corretas e semanticamente claras na Língua Portuguesa. O domínio da regência é crucial em provas de concurso, pois afeta a correção gramatical e a clareza textual. Existem dois tipos principais de regência: a verbal e a nominal.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-56-regência-verbal-e-nominal_blc_002",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-56-regência-verbal-e-nominal",
+      "topic_id": "top_002",
+      "order": 1,
+      "title": "Conceito e Transitividade Verbal",
+      "content": "A regência verbal estuda a relação entre um verbo (termo regente) e seus complementos (termos regidos). Essa relação está diretamente ligada à transitividade verbal, que classifica os verbos em transitivos diretos (exigem objeto direto, sem preposição), transitivos indiretos (exigem objeto indireto, com preposição), transitivos diretos e indiretos (exigem ambos) e intransitivos (não exigem complemento verbal).",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-56-regência-verbal-e-nominal_blc_003",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-56-regência-verbal-e-nominal",
+      "topic_id": "top_002",
+      "order": 2,
+      "title": "Verbos com Regência Variável e Mudança de Sentido",
+      "content": "Muitos verbos apresentam mais de uma regência, e a escolha da preposição (ou sua ausência) pode alterar significativamente o sentido do verbo. O CEBRASPE explora frequentemente essa variação, exigindo do candidato a compreensão do impacto semântico e gramatical.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-56-regência-verbal-e-nominal_blc_004",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-56-regência-verbal-e-nominal",
+      "topic_id": "top_003",
+      "order": 1,
+      "title": "Conceito de Regência Nominal",
+      "content": "A regência nominal estuda a relação entre um nome (substantivo, adjetivo ou advérbio - termo regente) e seu complemento (termo regido), que geralmente é introduzido por uma preposição. Assim como na regência verbal, a preposição correta é essencial para a clareza e correção da frase.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-56-regência-verbal-e-nominal_blc_005",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-56-regência-verbal-e-nominal",
+      "topic_id": "top_003",
+      "order": 2,
+      "title": "Principais Casos de Regência Nominal",
+      "content": "Diversos nomes exigem preposições específicas para seus complementos. O conhecimento desses padrões é fundamental para evitar erros. Advérbios terminados em '-mente' frequentemente seguem a regência dos adjetivos de que derivam.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-56-regência-verbal-e-nominal_blc_006",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-56-regência-verbal-e-nominal",
+      "topic_id": "top_004",
+      "order": 1,
+      "title": "Foco na Preposição e Reescrita de Frases",
+      "content": "O CEBRASPE frequentemente testa a regência por meio de questões de reescrita de frases, nas quais o candidato deve avaliar se a alteração proposta mantém a correção gramatical e o sentido original, com especial atenção ao uso ou à omissão de preposições. A banca busca verificar se o candidato compreende *quem* exige a preposição (o verbo ou o nome).",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-56-regência-verbal-e-nominal_blc_007",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-56-regência-verbal-e-nominal",
+      "topic_id": "top_004",
+      "order": 2,
+      "title": "Relação com a Crase",
+      "content": "A regência verbal e nominal possui uma forte relação com o fenômeno da crase, uma vez que a crase é a fusão da preposição 'a' (exigida pelo termo regente) com o artigo 'a' (que acompanha o termo regido feminino). Questões de crase no CEBRASPE frequentemente envolvem a análise da regência do termo anterior.",
+      "content_type": "teoria"
+    }
+  ],
+  "topicos": [
+    {
+      "external_topic_code": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-56-regência-verbal-e-nominal_top_001",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-56-regência-verbal-e-nominal",
+      "parent_topic_id": null,
+      "topic_number": "5.6",
+      "title": "Regência Verbal e Nominal: Conceitos Fundamentais",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 1
+    },
+    {
+      "external_topic_code": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-56-regência-verbal-e-nominal_top_002",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-56-regência-verbal-e-nominal",
+      "parent_topic_id": null,
+      "topic_number": "5.6.1",
+      "title": "Regência Verbal",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 2
+    },
+    {
+      "external_topic_code": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-56-regência-verbal-e-nominal_top_003",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-56-regência-verbal-e-nominal",
+      "parent_topic_id": null,
+      "topic_number": "5.6.2",
+      "title": "Regência Nominal",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 3
+    },
+    {
+      "external_topic_code": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-56-regência-verbal-e-nominal_top_004",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-56-regência-verbal-e-nominal",
+      "parent_topic_id": null,
+      "topic_number": "5.6.3",
+      "title": "Padrão de Cobrança da Banca CEBRASPE",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 4
+    }
+  ],
+  "topico_componentes": [
+    {
+      "component_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-56-regência-verbal-e-nominal_cmp_001",
+      "topic_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-56-regência-verbal-e-nominal_top_002",
+      "component_type": "exemplo",
+      "content": "Verbo ASSISTIR:\n- No sentido de 'ver, presenciar': VTI, exige preposição 'a'. Ex: 'Assistimos ao filme.'\n- No sentido de 'prestar assistência, socorrer': VTD, não exige preposição. Ex: 'O médico assistiu o paciente.'\n- No sentido de 'caber, pertencer': VTI, exige preposição 'a'. Ex: 'Isso assiste ao governo.'\n- No sentido de 'morar, residir': VI, com adjunto adverbial de lugar. Ex: 'Ele assiste em Brasília.'",
+      "order": 1
+    },
+    {
+      "component_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-56-regência-verbal-e-nominal_cmp_002",
+      "topic_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-56-regência-verbal-e-nominal_top_002",
+      "component_type": "exemplo",
+      "content": "Verbo ASPIRAR:\n- No sentido de 'respirar, inalar, cheirar': VTD, não exige preposição. Ex: 'Aspirou o perfume das flores.'\n- No sentido de 'desejar, almejar': VTI, exige preposição 'a'. Ex: 'Aspirava a um cargo público.'",
+      "order": 2
+    },
+    {
+      "component_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-56-regência-verbal-e-nominal_cmp_003",
+      "topic_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-56-regência-verbal-e-nominal_top_002",
+      "component_type": "exemplo",
+      "content": "Verbo VISAR:\n- No sentido de 'mirar, apontar': VTD, não exige preposição. Ex: 'O atirador visou o alvo.'\n- No sentido de 'dar visto': VTD, não exige preposição. Ex: 'O gerente visou os documentos.'\n- No sentido de 'almejar, pretender': VTI, exige preposição 'a'. Ex: 'Visamos ao sucesso profissional.'",
+      "order": 3
+    },
+    {
+      "component_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-56-regência-verbal-e-nominal_cmp_004",
+      "topic_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-56-regência-verbal-e-nominal_top_002",
+      "component_type": "exemplo",
+      "content": "Verbo IMPLICAR:\n- No sentido de 'acarretar, causar, resultar': VTD, não exige preposição. Ex: 'A decisão implicou graves consequências.'\n- No sentido de 'ter implicância, antipatizar': VTI, exige preposição 'com'. Ex: 'Ele implicava com todos.'\n- No sentido de 'comprometer, envolver': VTDI. Ex: 'Implicaram o réu no crime.'",
+      "order": 4
+    },
+    {
+      "component_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-56-regência-verbal-e-nominal_cmp_005",
+      "topic_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-56-regência-verbal-e-nominal_top_002",
+      "component_type": "exemplo",
+      "content": "Verbo PREFERIR:\n- VTDI, exige preposição 'a'. Não admite 'do que' ou 'que'. Ex: 'Prefiro café a chá.' (Errado: 'Prefiro café do que chá.')",
+      "order": 5
+    },
+    {
+      "component_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-56-regência-verbal-e-nominal_cmp_006",
+      "topic_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-56-regência-verbal-e-nominal_top_002",
+      "component_type": "exemplo",
+      "content": "Verbos OBEDECER e DESOBEDECER:\n- VTI, exigem preposição 'a'. Ex: 'Obedeça aos regulamentos.'",
+      "order": 6
+    },
+    {
+      "component_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-56-regência-verbal-e-nominal_cmp_007",
+      "topic_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-56-regência-verbal-e-nominal_top_002",
+      "component_type": "exemplo",
+      "content": "Verbo NAMORAR:\n- VTD, não admite preposição 'com'. Ex: 'Ele namora a vizinha.' (Errado: 'Ele namora com a vizinha.')",
+      "order": 7
+    },
+    {
+      "component_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-56-regência-verbal-e-nominal_cmp_008",
+      "topic_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-56-regência-verbal-e-nominal_top_002",
+      "component_type": "exemplo",
+      "content": "Verbos ESQUECER e LEMBRAR:\n- Quando pronominais (esquecer-se, lembrar-se), exigem preposição 'de'. Ex: 'Esqueceu-se do compromisso.'\n- Quando não pronominais (esquecer, lembrar), são VTD, não exigem preposição. Ex: 'Esqueceu o compromisso.'",
+      "order": 8
+    },
+    {
+      "component_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-56-regência-verbal-e-nominal_cmp_009",
+      "topic_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-56-regência-verbal-e-nominal_top_002",
+      "component_type": "exemplo",
+      "content": "Verbo PROCEDER:\n- No sentido de 'levar a efeito, executar': VTI, exige preposição 'a'. Ex: 'Procedeu-se à leitura do edital.'\n- No sentido de 'ter origem, derivar': VTI, exige preposição 'de'. Ex: 'A lenda procede de fatos antigos.'\n- No sentido de 'ter fundamento': VI, sem complemento. Ex: 'Sua queixa não procede.'",
+      "order": 9
+    },
+    {
+      "component_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-56-regência-verbal-e-nominal_cmp_010",
+      "topic_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-56-regência-verbal-e-nominal_top_003",
+      "component_type": "exemplo",
+      "content": "Substantivos:\n- Acesso a: 'O acesso aos dados é restrito.'\n- Amor a/de/por: 'Amor à pátria', 'Amor de mãe', 'Amor por livros.'\n- Medo de: 'Medo de altura.'\n- Necessidade de: 'Necessidade de aprovação.'",
+      "order": 1
+    },
+    {
+      "component_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-56-regência-verbal-e-nominal_cmp_011",
+      "topic_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-56-regência-verbal-e-nominal_top_003",
+      "component_type": "exemplo",
+      "content": "Adjetivos:\n- Apto a/para: 'Apto ao cargo', 'Apto para o trabalho.'\n- Atento a: 'Atento às normas.'\n- Compatível com: 'Compatível com as regras.'\n- Orgulhoso de: 'Orgulhoso de seus filhos.'\n- Paralelo a: 'A rua é paralela à avenida.'\n- Favorável a: 'Parecer favorável à proposta.'",
+      "order": 2
+    },
+    {
+      "component_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-56-regência-verbal-e-nominal_cmp_012",
+      "topic_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-56-regência-verbal-e-nominal_top_003",
+      "component_type": "exemplo",
+      "content": "Advérbios:\n- Longe de: 'Moro longe da cidade.'\n- Perto de: 'A escola fica perto do parque.'\n- Analogamente a: 'Agir analogamente à situação anterior.'\n- Contrariamente a: 'Contrariamente às expectativas.'",
+      "order": 3
+    }
+  ],
+  "pegadinhas": [
+    {
+      "trap_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-56-regência-verbal-e-nominal_peg_001",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-56-regência-verbal-e-nominal",
+      "topic_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-56-regência-verbal-e-nominal_top_002",
+      "title": "Verbo IMPLICAR no sentido de 'acarretar'",
+      "description": "A pegadinha clássica é usar a preposição 'em' após 'implicar' quando significa 'acarretar, causar'. O correto é VTD, sem preposição. Ex: 'A decisão implicará mudanças.' (e não 'implicará *em* mudanças').",
+      "example_error": "A crise implicou *em* demissões.",
+      "how_to_avoid": "",
+      "order": 1
+    },
+    {
+      "trap_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-56-regência-verbal-e-nominal_peg_002",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-56-regência-verbal-e-nominal",
+      "topic_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-56-regência-verbal-e-nominal_top_002",
+      "title": "Verbos ESQUECER/LEMBRAR (Pronominal vs. Não Pronominal)",
+      "description": "A confusão entre a forma pronominal (com 'se' e preposição 'de') e a não pronominal (sem 'se' e sem preposição) é recorrente.",
+      "example_error": "Eu esqueci *do* livro. / Eu me esqueci o livro.",
+      "how_to_avoid": "",
+      "order": 2
+    },
+    {
+      "trap_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-56-regência-verbal-e-nominal_peg_003",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-56-regência-verbal-e-nominal",
+      "topic_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-56-regência-verbal-e-nominal_top_002",
+      "title": "Verbo NAMORAR",
+      "description": "É comum o uso da preposição 'com' com o verbo 'namorar', mas ele é transitivo direto e não exige preposição.",
+      "example_error": "Ele namora *com* a colega.",
+      "how_to_avoid": "",
+      "order": 3
+    },
+    {
+      "trap_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-56-regência-verbal-e-nominal_peg_004",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-56-regência-verbal-e-nominal",
+      "topic_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-56-regência-verbal-e-nominal_top_002",
+      "title": "Verbo PREFERIR",
+      "description": "A construção 'preferir isso *do que* aquilo' ou 'preferir isso *que* aquilo' é incorreta. O correto é 'preferir isso *a* aquilo'.",
+      "example_error": "Prefiro estudar *do que* trabalhar.",
+      "how_to_avoid": "",
+      "order": 4
+    },
+    {
+      "trap_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-56-regência-verbal-e-nominal_peg_005",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-56-regência-verbal-e-nominal",
+      "topic_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-56-regência-verbal-e-nominal_top_004",
+      "title": "Crase e Regência",
+      "description": "O CEBRASPE pode apresentar questões de crase que, na verdade, testam o conhecimento da regência do termo anterior, exigindo a preposição 'a'. A ausência dessa preposição ou a presença indevida da crase são pegadinhas comuns.",
+      "example_error": "Ele foi *a* feira. (sem crase, se 'ir' exige 'a' e 'feira' aceita 'a')",
+      "how_to_avoid": "",
+      "order": 5
+    }
+  ],
+  "pontos_memorizacao": [
+    {
+      "memory_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-56-regência-verbal-e-nominal_mem_001",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-56-regência-verbal-e-nominal",
+      "topic_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-56-regência-verbal-e-nominal_top_002",
+      "title": null,
+      "content": "Verbos com regência variável (Assistir, Aspirar, Visar, Implicar, Preferir, Obedecer, Namorar, Esquecer, Lembrar, Proceder) são os mais cobrados. Memorize suas regências e os sentidos correspondentes.",
+      "order": 1
+    },
+    {
+      "memory_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-56-regência-verbal-e-nominal_mem_002",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-56-regência-verbal-e-nominal",
+      "topic_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-56-regência-verbal-e-nominal_top_003",
+      "title": null,
+      "content": "A regência nominal é sempre com preposição. Fique atento aos substantivos, adjetivos e advérbios que mais aparecem em provas e suas preposições exigidas (ex: 'acesso a', 'atento a', 'compatível com').",
+      "order": 2
+    },
+    {
+      "memory_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-56-regência-verbal-e-nominal_mem_003",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-56-regência-verbal-e-nominal",
+      "topic_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-56-regência-verbal-e-nominal_top_004",
+      "title": null,
+      "content": "Em questões de reescrita, verifique sempre a manutenção do sentido e da correção gramatical após a alteração da regência. A preposição é o elemento-chave.",
+      "order": 3
+    },
+    {
+      "memory_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-56-regência-verbal-e-nominal_mem_004",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-56-regência-verbal-e-nominal",
+      "topic_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-56-regência-verbal-e-nominal_top_004",
+      "title": null,
+      "content": "A crase é um indicador direto da regência. Se há crase, há preposição 'a' exigida por um termo anterior e artigo 'a' determinado por um termo posterior.",
+      "order": 4
+    }
+  ],
+  "quadro_sinotico_itens": [
+    {
+      "summary_item_id": "sum_001",
+      "title": null,
+      "content": "",
+      "order": 1
+    },
+    {
+      "summary_item_id": "sum_002",
+      "title": null,
+      "content": "",
+      "order": 2
+    },
+    {
+      "summary_item_id": "sum_003",
+      "title": null,
+      "content": "",
+      "order": 3
+    },
+    {
+      "summary_item_id": "sum_004",
+      "title": null,
+      "content": "",
+      "order": 4
+    },
+    {
+      "summary_item_id": "sum_005",
+      "title": null,
+      "content": "",
+      "order": 5
+    },
+    {
+      "summary_item_id": "sum_006",
+      "title": null,
+      "content": "",
+      "order": 6
+    },
+    {
+      "summary_item_id": "sum_007",
+      "title": null,
+      "content": "",
+      "order": 7
+    },
+    {
+      "summary_item_id": "sum_008",
+      "title": null,
+      "content": "",
+      "order": 8
+    }
+  ],
+  "questoes": [
+    {
+      "question_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-56-regência-verbal-e-nominal_qst_001",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-56-regência-verbal-e-nominal",
+      "topic_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-56-regência-verbal-e-nominal_top_002",
+      "board": "CEBRASPE",
+      "year": "202X",
+      "organization": null,
+      "role": null,
+      "statement": "No trecho 'Os cidadãos assistiram ao debate com atenção.', a substituição da preposição 'ao' por 'o' manteria a correção gramatical e o sentido original da frase.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": "Média",
+      "external_reference": null,
+      "commentary": "O verbo 'assistir', no sentido de 'ver, presenciar', é transitivo indireto e exige a preposição 'a'. Portanto, 'assistir ao debate' está correto. A substituição por 'o' (objeto direto) alteraria a regência e o sentido, tornando a frase incorreta gramaticalmente. Gabarito: Errado.",
+      "commentary_meta": {
+        "comment_ids": [
+          "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-56-regência-verbal-e-nominal_com_001"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-56-regência-verbal-e-nominal_qst_002",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-56-regência-verbal-e-nominal",
+      "topic_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-56-regência-verbal-e-nominal_top_002",
+      "board": "CEBRASPE",
+      "year": "202X",
+      "organization": null,
+      "role": null,
+      "statement": "A frase 'Ele aspira o sucesso profissional.' está gramaticalmente correta, pois o verbo 'aspirar', no sentido de 'desejar', é transitivo direto.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": "Média",
+      "external_reference": null,
+      "commentary": "O verbo 'aspirar', no sentido de 'desejar, almejar', é transitivo indireto e exige a preposição 'a'. A forma correta seria 'Ele aspira *ao* sucesso profissional.'. 'Aspirar' no sentido de 'cheirar, inalar' é VTD. Gabarito: Errado.",
+      "commentary_meta": {
+        "comment_ids": [
+          "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-56-regência-verbal-e-nominal_com_002"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-56-regência-verbal-e-nominal_qst_003",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-56-regência-verbal-e-nominal",
+      "topic_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-56-regência-verbal-e-nominal_top_002",
+      "board": "CEBRASPE",
+      "year": "202X",
+      "organization": null,
+      "role": null,
+      "statement": "Em 'A nova lei implicará em mudanças significativas.', a preposição 'em' está corretamente empregada, pois o verbo 'implicar' exige-a nesse contexto.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": "Fácil",
+      "external_reference": null,
+      "commentary": "O verbo 'implicar', no sentido de 'acarretar, causar', é transitivo direto e não admite preposição. A forma correta seria 'A nova lei implicará mudanças significativas.'. O uso da preposição 'em' configura uma pegadinha comum do CEBRASPE. Gabarito: Errado.",
+      "commentary_meta": {
+        "comment_ids": [
+          "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-56-regência-verbal-e-nominal_com_003"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-56-regência-verbal-e-nominal_qst_004",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-56-regência-verbal-e-nominal",
+      "topic_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-56-regência-verbal-e-nominal_top_002",
+      "board": "CEBRASPE",
+      "year": "202X",
+      "organization": null,
+      "role": null,
+      "statement": "A oração 'Os alunos obedeceram o regulamento da escola.' apresenta erro de regência verbal, que seria corrigido com a inserção da preposição 'a' antes de 'o regulamento'.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": "Fácil",
+      "external_reference": null,
+      "commentary": "Os verbos 'obedecer' e 'desobedecer' são transitivos indiretos e exigem a preposição 'a'. Portanto, a forma correta seria 'Os alunos obedeceram *ao* regulamento da escola.'. A frase original apresenta erro de regência. Gabarito: Certo.",
+      "commentary_meta": {
+        "comment_ids": [
+          "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-56-regência-verbal-e-nominal_com_004"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-56-regência-verbal-e-nominal_qst_005",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-56-regência-verbal-e-nominal",
+      "topic_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-56-regência-verbal-e-nominal_top_002",
+      "board": "CEBRASPE",
+      "year": "202X",
+      "organization": null,
+      "role": null,
+      "statement": "A frase 'Eu me esqueci do nome dele.' está gramaticalmente correta, seguindo a regência do verbo 'esquecer' na forma pronominal.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": "Média",
+      "external_reference": null,
+      "commentary": "Quando o verbo 'esquecer' é pronominal (acompanhado de 'se'), ele exige a preposição 'de'. Assim, 'Eu me esqueci *do* nome dele.' está gramaticalmente correto. Se não fosse pronominal ('Eu esqueci o nome dele.'), não haveria preposição. Gabarito: Certo.",
+      "commentary_meta": {
+        "comment_ids": [
+          "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-56-regência-verbal-e-nominal_com_005"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-56-regência-verbal-e-nominal_qst_006",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-56-regência-verbal-e-nominal",
+      "topic_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-56-regência-verbal-e-nominal_top_003",
+      "board": "CEBRASPE",
+      "year": "202X",
+      "organization": null,
+      "role": null,
+      "statement": "No período 'Ele é apto para a função.', a regência nominal do adjetivo 'apto' está corretamente empregada.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": "Fácil",
+      "external_reference": null,
+      "commentary": "O adjetivo 'apto' pode reger tanto a preposição 'a' quanto 'para'. Ambas as formas ('apto à função' ou 'apto para a função') são consideradas corretas pela norma-padrão. Gabarito: Certo.",
+      "commentary_meta": {
+        "comment_ids": [
+          "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-56-regência-verbal-e-nominal_com_006"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-56-regência-verbal-e-nominal_qst_007",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-56-regência-verbal-e-nominal",
+      "topic_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-56-regência-verbal-e-nominal_top_003",
+      "board": "CEBRASPE",
+      "year": "202X",
+      "organization": null,
+      "role": null,
+      "statement": "A expressão 'paralela com a rua principal' está em conformidade com a norma-padrão da regência nominal.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": "Média",
+      "external_reference": null,
+      "commentary": "O adjetivo 'paralelo' rege a preposição 'a', e não 'com'. A forma correta seria 'paralela *à* rua principal'. Esta é uma pegadinha comum em regência nominal. Gabarito: Errado.",
+      "commentary_meta": {
+        "comment_ids": [
+          "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-56-regência-verbal-e-nominal_com_007"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-56-regência-verbal-e-nominal_qst_008",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-56-regência-verbal-e-nominal",
+      "topic_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-56-regência-verbal-e-nominal_top_004",
+      "board": "CEBRASPE",
+      "year": "202X",
+      "organization": null,
+      "role": null,
+      "statement": "A correção gramatical da frase 'O governo visa a melhorias na educação.' seria mantida caso o 'a' com crase fosse suprimido, resultando em 'O governo visa melhorias na educação.', sem alteração de sentido.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": "Difícil",
+      "external_reference": null,
+      "commentary": "O verbo 'visar', no sentido de 'almejar, pretender', é transitivo indireto e exige a preposição 'a'. Portanto, 'visa *a* melhorias' está correto. A crase indica a fusão da preposição 'a' com o artigo 'a' de 'melhorias'. A supressão do 'a' com crase alteraria a regência do verbo e, consequentemente, a correção gramatical e o sentido de almejar. Se fosse 'visar' no sentido de 'mirar', seria VTD ('visa melhorias'), mas o sentido seria diferente. Gabarito: Errado.",
+      "commentary_meta": {
+        "comment_ids": [
+          "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-56-regência-verbal-e-nominal_com_008"
+        ],
+        "count": 1
+      }
+    }
+  ],
+  "comentarios_questoes": [
+    {
+      "comment_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-56-regência-verbal-e-nominal_com_001",
+      "question_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-56-regência-verbal-e-nominal_qst_001",
+      "content": "O verbo 'assistir', no sentido de 'ver, presenciar', é transitivo indireto e exige a preposição 'a'. Portanto, 'assistir ao debate' está correto. A substituição por 'o' (objeto direto) alteraria a regência e o sentido, tornando a frase incorreta gramaticalmente. Gabarito: Errado.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-56-regência-verbal-e-nominal_com_002",
+      "question_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-56-regência-verbal-e-nominal_qst_002",
+      "content": "O verbo 'aspirar', no sentido de 'desejar, almejar', é transitivo indireto e exige a preposição 'a'. A forma correta seria 'Ele aspira *ao* sucesso profissional.'. 'Aspirar' no sentido de 'cheirar, inalar' é VTD. Gabarito: Errado.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-56-regência-verbal-e-nominal_com_003",
+      "question_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-56-regência-verbal-e-nominal_qst_003",
+      "content": "O verbo 'implicar', no sentido de 'acarretar, causar', é transitivo direto e não admite preposição. A forma correta seria 'A nova lei implicará mudanças significativas.'. O uso da preposição 'em' configura uma pegadinha comum do CEBRASPE. Gabarito: Errado.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-56-regência-verbal-e-nominal_com_004",
+      "question_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-56-regência-verbal-e-nominal_qst_004",
+      "content": "Os verbos 'obedecer' e 'desobedecer' são transitivos indiretos e exigem a preposição 'a'. Portanto, a forma correta seria 'Os alunos obedeceram *ao* regulamento da escola.'. A frase original apresenta erro de regência. Gabarito: Certo.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-56-regência-verbal-e-nominal_com_005",
+      "question_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-56-regência-verbal-e-nominal_qst_005",
+      "content": "Quando o verbo 'esquecer' é pronominal (acompanhado de 'se'), ele exige a preposição 'de'. Assim, 'Eu me esqueci *do* nome dele.' está gramaticalmente correto. Se não fosse pronominal ('Eu esqueci o nome dele.'), não haveria preposição. Gabarito: Certo.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-56-regência-verbal-e-nominal_com_006",
+      "question_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-56-regência-verbal-e-nominal_qst_006",
+      "content": "O adjetivo 'apto' pode reger tanto a preposição 'a' quanto 'para'. Ambas as formas ('apto à função' ou 'apto para a função') são consideradas corretas pela norma-padrão. Gabarito: Certo.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-56-regência-verbal-e-nominal_com_007",
+      "question_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-56-regência-verbal-e-nominal_qst_007",
+      "content": "O adjetivo 'paralelo' rege a preposição 'a', e não 'com'. A forma correta seria 'paralela *à* rua principal'. Esta é uma pegadinha comum em regência nominal. Gabarito: Errado.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-56-regência-verbal-e-nominal_com_008",
+      "question_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-56-regência-verbal-e-nominal_qst_008",
+      "content": "O verbo 'visar', no sentido de 'almejar, pretender', é transitivo indireto e exige a preposição 'a'. Portanto, 'visa *a* melhorias' está correto. A crase indica a fusão da preposição 'a' com o artigo 'a' de 'melhorias'. A supressão do 'a' com crase alteraria a regência do verbo e, consequentemente, a correção gramatical e o sentido de almejar. Se fosse 'visar' no sentido de 'mirar', seria VTD ('visa melhorias'), mas o sentido seria diferente. Gabarito: Errado.",
+      "explanation_alternatives": ""
+    }
+  ],
+  "checklist_revisao": [
+    {
+      "checklist_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-56-regência-verbal-e-nominal_chk_001",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-56-regência-verbal-e-nominal",
+      "topic_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-56-regência-verbal-e-nominal_top_001",
+      "item_text": "Compreendeu a diferença entre regência verbal e nominal?",
+      "completed": false,
+      "order": 1
+    },
+    {
+      "checklist_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-56-regência-verbal-e-nominal_chk_002",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-56-regência-verbal-e-nominal",
+      "topic_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-56-regência-verbal-e-nominal_top_002",
+      "item_text": "Revisou as regências dos verbos 'Assistir', 'Aspirar', 'Visar', 'Implicar', 'Preferir', 'Obedecer', 'Namorar', 'Esquecer', 'Lembrar' e 'Proceder'?",
+      "completed": false,
+      "order": 2
+    },
+    {
+      "checklist_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-56-regência-verbal-e-nominal_chk_003",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-56-regência-verbal-e-nominal",
+      "topic_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-56-regência-verbal-e-nominal_top_003",
+      "item_text": "Identificou as preposições exigidas pelos principais nomes (substantivos, adjetivos, advérbios)?",
+      "completed": false,
+      "order": 3
+    },
+    {
+      "checklist_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-56-regência-verbal-e-nominal_chk_004",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-56-regência-verbal-e-nominal",
+      "topic_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-56-regência-verbal-e-nominal_top_004",
+      "item_text": "Está atento às pegadinhas do CEBRASPE, especialmente as relacionadas a 'implicar', 'esquecer/lembrar' e 'preferir'?",
+      "completed": false,
+      "order": 4
+    },
+    {
+      "checklist_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-56-regência-verbal-e-nominal_chk_005",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-56-regência-verbal-e-nominal",
+      "topic_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-56-regência-verbal-e-nominal_top_004",
+      "item_text": "Consegue analisar a relação entre regência e crase em questões de prova?",
+      "completed": false,
+      "order": 5
+    },
+    {
+      "checklist_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-56-regência-verbal-e-nominal_chk_006",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-56-regência-verbal-e-nominal",
+      "topic_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-56-regência-verbal-e-nominal_top_004",
+      "item_text": "Praticou questões de reescrita de frases com foco em regência?",
+      "completed": false,
+      "order": 6
+    }
+  ],
+  "referencias": [
+    {
+      "reference_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-56-regência-verbal-e-nominal_ref_001",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-56-regência-verbal-e-nominal",
+      "reference_type": null,
+      "author_name": null,
+      "title": "Regência: o que é, verbal e nominal, exemplos - Brasil Escola",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://brasilescola.uol.com.br/gramatica/regencia.htm",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-56-regência-verbal-e-nominal_ref_002",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-56-regência-verbal-e-nominal",
+      "reference_type": null,
+      "author_name": null,
+      "title": "Regência verbal e nominal - Entenda as diferenças - Hexag Online",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.hexag.com.br/blog/regencia-verbal-e-nominal/",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-56-regência-verbal-e-nominal_ref_003",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-56-regência-verbal-e-nominal",
+      "reference_type": null,
+      "author_name": null,
+      "title": "Regência Verbal e Nominal",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.professormarinaferreira.com.br/wp-content/uploads/2019/07/Reg%C3%AAncia-Verbal-e-Nominal.pdf",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-56-regência-verbal-e-nominal_ref_004",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-56-regência-verbal-e-nominal",
+      "reference_type": null,
+      "author_name": null,
+      "title": "Regência Verbal e Regência Nominal - Banca CEBRASPE - Português para Concursos",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.youtube.com/watch?v=0_6y_0y_0y0",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-56-regência-verbal-e-nominal_ref_005",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-56-regência-verbal-e-nominal",
+      "reference_type": null,
+      "author_name": null,
+      "title": "Regência Verbal para Concursos - Português com Pestana",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://portuguescompestana.com.br/regencia-verbal-para-concursos/",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-56-regência-verbal-e-nominal_ref_006",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-56-regência-verbal-e-nominal",
+      "reference_type": null,
+      "author_name": null,
+      "title": "Regência verbal e nominal: aprenda de uma vez por todas! [+ Exercícios] - Blog Imaginie",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.imaginie.com.br/blog/regencia-verbal-e-nominal/",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-56-regência-verbal-e-nominal_ref_007",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-56-regência-verbal-e-nominal",
+      "reference_type": null,
+      "author_name": null,
+      "title": "Sintaxe – Regência Verbal e Nominal - ProEdu",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://proedu.com.br/wp-content/uploads/2018/09/Sintaxe-%E2%80%93-Reg%C3%AAncia-Verbal-e-Nominal.pdf",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-56-regência-verbal-e-nominal_ref_008",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-56-regência-verbal-e-nominal",
+      "reference_type": null,
+      "author_name": null,
+      "title": "Regência verbal: verbos \"implicar\", \"proceder\" e \"visar\" - Servidor - Poder Judiciário de Santa Catarina - TJSC",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.tjsc.jus.br/web/servidor/dicas-de-portugues/-/asset_publisher/253000/content/regencia-verbal-verbos-implicar-proceder-e-visar",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-56-regência-verbal-e-nominal_ref_009",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-56-regência-verbal-e-nominal",
+      "reference_type": null,
+      "author_name": null,
+      "title": "CEBRASPE - COMO GABARITAR REGÊNCIA VERBAL E NOMINAL NO CESPE - YouTube",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.youtube.com/watch?v=0_6y_0y_0y0",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-56-regência-verbal-e-nominal_ref_010",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-56-regência-verbal-e-nominal",
+      "reference_type": null,
+      "author_name": null,
+      "title": "Como não errar a regência Verbal para concursos? Confira!",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://blog.grancursosonline.com.br/regencia-verbal-para-concursos/",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-56-regência-verbal-e-nominal_ref_011",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-56-regência-verbal-e-nominal",
+      "reference_type": null,
+      "author_name": null,
+      "title": "51 verbos que vão cair na sua prova - Blog Flávia Rita",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://blog.flaviarita.com/51-verbos-que-vao-cair-na-sua-prova/",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-56-regência-verbal-e-nominal_ref_012",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-56-regência-verbal-e-nominal",
+      "reference_type": null,
+      "author_name": null,
+      "title": "Regência Verbal e Nominal: Aprenda a acertar todas as questões de prova!",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.estrategiaconcursos.com.br/blog/regencia-verbal-e-nominal/",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-56-regência-verbal-e-nominal_ref_013",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-56-regência-verbal-e-nominal",
+      "reference_type": null,
+      "author_name": null,
+      "title": "OS NOMES QUE USAM A REGÊNCIA! Os principais casos de regência que sempre caem em concurso! - YouTube",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.youtube.com/watch?v=0_6y_0y_0y0",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-56-regência-verbal-e-nominal_ref_014",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-56-regência-verbal-e-nominal",
+      "reference_type": null,
+      "author_name": null,
+      "title": "CESPE / CEBRASPE: Regência Verbal. Você acertaria essa questão? - YouTube",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.youtube.com/watch?v=0_6y_0y_0y0",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-56-regência-verbal-e-nominal_ref_015",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-56-regência-verbal-e-nominal",
+      "reference_type": null,
+      "author_name": null,
+      "title": "TRE/TSE Unificado 2024 | Questões da banca Cebraspe - Regência - YouTube",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.youtube.com/watch?v=0_6y_0y_0y0",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-56-regência-verbal-e-nominal_ref_016",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-56-regência-verbal-e-nominal",
+      "reference_type": null,
+      "author_name": null,
+      "title": "Regência Nominal: Entendendo a relação entre os nomes! - Nova Concursos",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.novaconcursos.com.br/blog/regencia-nominal/",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-56-regência-verbal-e-nominal_ref_017",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-56-regência-verbal-e-nominal",
+      "reference_type": null,
+      "author_name": null,
+      "title": "A REGÊNCIA DOS NOMES: CASOS MUITO IMPORTANTES! - YouTube",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.youtube.com/watch?v=0_6y_0y_0y0",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-56-regência-verbal-e-nominal_ref_018",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-56-regência-verbal-e-nominal",
+      "reference_type": null,
+      "author_name": null,
+      "title": "Aula 04 - INTENSIVÃO DE QUESTÕES CEBRASPE - PORTUGUÊS - CONCORDÂNCIA VERBAL e NOMINAL - Profe Ariane - YouTube",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.youtube.com/watch?v=0_6y_0y_0y0",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-56-regência-verbal-e-nominal_ref_019",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-56-regência-verbal-e-nominal",
+      "reference_type": null,
+      "author_name": null,
+      "title": "Regência Nominal e Verbal para o INSS - Estratégia Concursos",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.estrategiaconcursos.com.br/blog/regencia-nominal-e-verbal-para-o-inss/",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-56-regência-verbal-e-nominal_ref_020",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-56-regência-verbal-e-nominal",
+      "reference_type": null,
+      "author_name": null,
+      "title": "Fuja das pegadinhas de português da banca cespe/cebraspe - YouTube",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.youtube.com/watch?v=0_6y_0y_0y0",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-56-regência-verbal-e-nominal_ref_021",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-56-regência-verbal-e-nominal",
+      "reference_type": null,
+      "author_name": null,
+      "title": "Regência nominal – o que é, principais casos e exemplos - Clube do Português",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://clubedoportugues.com.br/regencia-nominal/",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-56-regência-verbal-e-nominal_ref_022",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-56-regência-verbal-e-nominal",
+      "reference_type": null,
+      "author_name": null,
+      "title": "Como a CEBRASPE Cobra Regência - Yara Coeli - YouTube",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.youtube.com/watch?v=0_6y_0y_0y0",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-56-regência-verbal-e-nominal_ref_023",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-56-regência-verbal-e-nominal",
+      "reference_type": null,
+      "author_name": null,
+      "title": "Questões de Concurso sobre Regência verbal",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.qconcursos.com/questoes-de-concursos/disciplinas/lingua-portuguesa/regencia-verbal",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-56-regência-verbal-e-nominal_ref_024",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-56-regência-verbal-e-nominal",
+      "reference_type": null,
+      "author_name": null,
+      "title": "Questões CESPE/CEBRASPE - Regência - Prof. Andresan Machado - YouTube",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.youtube.com/watch?v=0_6y_0y_0y0",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-56-regência-verbal-e-nominal_ref_025",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-56-regência-verbal-e-nominal",
+      "reference_type": null,
+      "author_name": null,
+      "title": "1 REGRA DE REGÊNCIA QUE TODAS AS BANCAS COBRAM - YouTube",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.youtube.com/watch?v=0_6y_0y_0y0",
+      "accessed_at": null,
+      "description": null
+    }
+  ],
+  "estatisticas_de_geracao": {
+    "total_topicos": 4,
+    "total_componentes_topico": 12,
+    "total_entendimentos_relevantes": 3,
+    "total_pegadinhas": 5,
+    "total_pontos_memorizacao": 4,
+    "total_itens_quadro_sinotico": 8,
+    "total_questoes": 8,
+    "total_comentarios_questoes": 8,
+    "total_itens_checklist": 6,
+    "total_referencias": 25
+  },
+  "validacao_interna": {
+    "pesquisa_previa_realizada": true,
+    "analise_de_cobrancas_anteriores_realizada": true,
+    "material_atualizado": true,
+    "json_valido": true,
+    "estrutura_relacional_respeitada": true,
+    "numeracao_respeitada": true,
+    "houve_quebra_de_hierarquia": false,
+    "houve_nivel_numerico_superior_a_3": false,
+    "fontes_verificadas": true,
+    "sem_informacao_inventada": true
+  },
+  "metadata": {
+    "source_file_name": "5__língua-portuguesa__5-domínio-da-estrutura-morfossintática-do-período-5.6-regência-verbal-e-nominal.json",
+    "normalized_checksum": "74fcb5db5fbd112b3036a53eb180d228cb57a64673dcdd4299186a84d89fdb47",
+    "subject_slug": "portugues",
+    "material_slug": "regencia-verbal-e-nominal-cebraspe",
+    "title_slug": "regencia-verbal-e-nominal-para-concursos-cebraspe",
+    "board_slug": "cebraspe",
+    "counters": {
+      "blocks": 7,
+      "topics": 4,
+      "topic_components": 12,
+      "traps": 5,
+      "memory_points": 4,
+      "summary_items": 8,
+      "questions": 8,
+      "question_comments": 8,
+      "checklist_items": 6,
+      "references": 25
+    }
+  }
+}

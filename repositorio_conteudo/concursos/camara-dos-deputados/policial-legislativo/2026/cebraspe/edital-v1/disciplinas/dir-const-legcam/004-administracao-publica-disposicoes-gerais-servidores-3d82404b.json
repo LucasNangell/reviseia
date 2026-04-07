@@ -1,0 +1,790 @@
+{
+  "schema_version": "1.0",
+  "normalized_at": "2026-04-07T15:39:14.351331-03:00",
+  "normalizer_version": "2.0.0",
+  "exported_at": "2026-04-07T16:36:00Z",
+  "source_request": {
+    "purpose": "Concurso público",
+    "general_area": "Direito",
+    "subject_name": "Direito Constitucional e Legislação Interna da Câmara dos Deputados",
+    "subarea_name": "Direito Constitucional",
+    "main_theme": "4 Administração pública: disposições gerais, servidores públicos civis e militares",
+    "theme_scope": "Teoria completa, incidência em prova, padrão de cobrança da banca, pegadinhas e questões comentadas",
+    "board_style": "CEBRASPE",
+    "depth_level": "Exaustivo",
+    "goal": "Teoria completa, revisão estratégica, pegadinhas e questões comentadas",
+    "base_topic_number": "4",
+    "topic_title": "4 Administração pública: disposições gerais, servidores públicos civis e militares",
+    "syllabus_reference": "Conteúdo programático da disciplina Direito Constitucional e Legislação Interna da Câmara dos Deputados",
+    "priority_sources": [
+      "Constituição Federal e legislação oficial vigente",
+      "Jurisprudência pertinente e atual, quando cabível",
+      "Doutrina consolidada",
+      "Questões anteriores da banca"
+    ],
+    "minimum_questions": 8,
+    "question_format": "Certo/Errado",
+    "prioritize_real_questions": true,
+    "response_language": "português",
+    "target_audience": "Candidato de concurso público",
+    "additional_notes": "Executar exatamente para esta linha individual do topicos.txt. Não juntar com outros tópicos. Não pular este tópico. Dar destaque ao padrão de cobrança da banca, aos pontos mais cobrados e às pegadinhas recorrentes.",
+    "input_hash": "d505723f81ff",
+    "extras": {}
+  },
+  "material": {
+    "material_id": "mat_001",
+    "slug": "administracao-publica-servidores-cebraspe",
+    "title": "Administração Pública e Servidores Públicos (CF/88) - Foco CEBRASPE",
+    "base_number": "4",
+    "topic_title": "Administração pública: disposições gerais, servidores públicos civis e militares",
+    "purpose": "Concurso público",
+    "area_name": "Direito",
+    "subject_name": "Direito Constitucional e Legislação Interna da Câmara dos Deputados",
+    "subarea_name": "Direito Constitucional",
+    "main_theme": "4 Administração pública: disposições gerais, servidores públicos civis e militares",
+    "theme_scope": "Teoria completa, incidência em prova, padrão de cobrança da banca, pegadinhas e questões comentadas",
+    "board_style": "CEBRASPE",
+    "depth_level": "Exaustivo",
+    "study_goal": "Teoria completa, revisão estratégica, pegadinhas e questões comentadas",
+    "target_audience": "Candidato de concurso público",
+    "language_code": "português",
+    "update_status": "Atualizado em abril de 2026",
+    "current_note": "Conteúdo revisado com base na Constituição Federal de 1988 e jurisprudência atualizada do STF, considerando o perfil de cobrança do CEBRASPE.",
+    "has_case_law": true,
+    "case_law_justification": "A jurisprudência do Supremo Tribunal Federal (STF) é fundamental para a compreensão e aplicação dos dispositivos constitucionais relativos à Administração Pública e aos servidores, sendo frequentemente cobrada pelo CEBRASPE para a interpretação de princípios, limites remuneratórios, acumulação de cargos e direito de greve.",
+    "has_information_limitation": false,
+    "information_limitation_desc": null,
+    "content_checksum": "placeholder_checksum",
+    "extras": {}
+  },
+  "blocos_textuais": [
+    {
+      "external_block_code": "blc_001",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 1,
+      "title": "Introdução à Administração Pública na Constituição Federal",
+      "content": "A Administração Pública, conforme a Constituição Federal de 1988 (CF/88), é regida por um conjunto de princípios e normas que visam garantir a eficiência, a legalidade e a moralidade na gestão dos interesses públicos. O Capítulo VII do Título III da CF/88, especificamente os artigos 37 a 41, estabelece as diretrizes fundamentais para a organização e o funcionamento da administração direta e indireta de todos os Poderes da União, dos Estados, do Distrito Federal e dos Municípios, bem como o regime jurídico dos servidores públicos civis e militares.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_002",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 2,
+      "title": "Padrão de Cobrança CEBRASPE: Administração Pública e Servidores",
+      "content": "O CEBRASPE (antigo CESPE) é conhecido por seu estilo de prova 'Certo/Errado', que exige do candidato precisão e conhecimento aprofundado da 'lei seca', da doutrina e, principalmente, da jurisprudência do STF. Em Administração Pública e Servidores, a banca frequentemente explora: 1. A literalidade dos artigos 37 a 41 da CF/88. 2. A aplicação dos princípios constitucionais (LIMPE) em situações hipotéticas. 3. As exceções às regras gerais, como as hipóteses de acumulação de cargos e as formas de provimento sem concurso público. 4. Os detalhes do teto remuneratório e as verbas que são ou não incluídas. 5. As condições para aquisição e perda da estabilidade, distinguindo-a da vitaliciedade. 6. A jurisprudência do STF, especialmente súmulas vinculantes e teses de repercussão geral, que complementam ou interpretam os dispositivos constitucionais. As 'pegadinhas' comuns envolvem a troca de termos, a inversão de regras e exceções, e a confusão entre conceitos similares (e.g., cargo em comissão vs. função de confiança).",
+      "content_type": "teoria"
+    }
+  ],
+  "topicos": [
+    {
+      "external_topic_code": "top_001",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "4.1",
+      "title": "Princípios da Administração Pública (Art. 37, caput)",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 1
+    },
+    {
+      "external_topic_code": "top_002",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "4.2",
+      "title": "Acesso a Cargos, Empregos e Funções Públicas",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 2
+    },
+    {
+      "external_topic_code": "top_003",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "4.3",
+      "title": "Remuneração e Subsídios",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 3
+    },
+    {
+      "external_topic_code": "top_004",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "4.4",
+      "title": "Acumulação de Cargos, Empregos e Funções Públicas",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 4
+    },
+    {
+      "external_topic_code": "top_005",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "4.5",
+      "title": "Estabilidade e Perda do Cargo",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 5
+    },
+    {
+      "external_topic_code": "top_006",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "4.6",
+      "title": "Direito de Greve e Sindicalização",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 6
+    },
+    {
+      "external_topic_code": "top_007",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "4.7",
+      "title": "Servidores Públicos Militares (Art. 42)",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 7
+    }
+  ],
+  "topico_componentes": [
+    {
+      "component_id": "cmp_001",
+      "topic_id": "top_001",
+      "component_type": "texto",
+      "content": "Os princípios da Legalidade, Impessoalidade, Moralidade, Publicidade e Eficiência (LIMPE) são mandatórios para toda a Administração Pública. A Eficiência foi introduzida pela Emenda Constitucional nº 19/1998. A Impessoalidade veda a promoção pessoal de autoridades ou servidores públicos em publicidade de atos, programas, obras, serviços e campanhas. A Moralidade implica a observância de padrões éticos e de boa-fé. A Publicidade exige a transparência dos atos administrativos, ressalvadas as hipóteses de sigilo previstas em lei. A Legalidade significa que a Administração só pode fazer o que a lei autoriza.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_002",
+      "topic_id": "top_002",
+      "component_type": "texto",
+      "content": "A investidura em cargo ou emprego público depende de aprovação prévia em concurso público de provas ou de provas e títulos, de acordo com a natureza e a complexidade do cargo ou emprego. O prazo de validade do concurso público é de até dois anos, prorrogável uma vez, por igual período. Durante o prazo de validade, o aprovado tem prioridade sobre novos concursados para assumir o cargo ou emprego na carreira.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_003",
+      "topic_id": "top_002",
+      "component_type": "texto",
+      "content": "Cargos em comissão e funções de confiança: As funções de confiança são exercidas exclusivamente por servidores ocupantes de cargo efetivo. Os cargos em comissão, de livre nomeação e exoneração, devem ser preenchidos por servidores de carreira nos casos, condições e percentuais mínimos previstos em lei. Ambos se destinam apenas às atribuições de direção, chefia e assessoramento.",
+      "order": 2
+    },
+    {
+      "component_id": "cmp_004",
+      "topic_id": "top_003",
+      "component_type": "texto",
+      "content": "Teto Remuneratório (Art. 37, XI): A remuneração e o subsídio não podem exceder o subsídio mensal dos Ministros do Supremo Tribunal Federal. Há subtetos nos Estados e no Distrito Federal (subsídio do Governador para o Executivo, dos Deputados Estaduais/Distritais para o Legislativo, e dos Desembargadores do Tribunal de Justiça para o Judiciário, MP, Procuradores e Defensores Públicos, limitado a 90,25% do subsídio dos Ministros do STF). Nos Municípios, o limite é o subsídio do Prefeito. Parcelas de caráter indenizatório expressamente previstas em lei não são computadas para o teto.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_005",
+      "topic_id": "top_003",
+      "component_type": "texto",
+      "content": "Irredutibilidade e Revisão (Art. 37, X e XV): A remuneração e o subsídio são irredutíveis, salvo exceções constitucionais. A revisão geral anual deve ocorrer sempre na mesma data e sem distinção de índices, por lei específica. Vedação ao Efeito Cascata (Art. 37, XIV): É vedada a vinculação ou equiparação de quaisquer espécies remuneratórias para o efeito de remuneração de pessoal do serviço público. O STF entende que não cabe ao Poder Judiciário aumentar vencimentos de servidores sob fundamento de isonomia (Súmula Vinculante 37).",
+      "order": 2
+    },
+    {
+      "component_id": "cmp_006",
+      "topic_id": "top_004",
+      "component_type": "texto",
+      "content": "A regra geral é a vedação da acumulação remunerada de cargos, empregos e funções públicas. As exceções permitidas pela CF/88 (Art. 37, XVI) são: a) dois cargos de professor; b) um cargo de professor com outro técnico ou científico; c) dois cargos ou empregos privativos de profissionais de saúde, com profissões regulamentadas. Em todos os casos de acumulação lícita, exige-se a compatibilidade de horários. A proibição estende-se a autarquias, fundações, empresas públicas, sociedades de economia mista, suas subsidiárias e sociedades controladas, direta ou indiretamente, pelo Poder Público.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_007",
+      "topic_id": "top_005",
+      "component_type": "texto",
+      "content": "A estabilidade é adquirida após três anos de efetivo exercício para servidores nomeados para cargo de provimento efetivo em virtude de concurso público, mediante avaliação especial de desempenho por comissão instituída para essa finalidade. A perda do cargo de servidor estável pode ocorrer por: I - sentença judicial transitada em julgado; II - processo administrativo disciplinar (PAD) com ampla defesa; III - avaliação periódica de desempenho, assegurada ampla defesa. Há também a hipótese de perda do cargo por excesso de despesa com pessoal, nos termos do art. 169 da CF/88.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_008",
+      "topic_id": "top_006",
+      "component_type": "texto",
+      "content": "O servidor público civil tem direito à livre associação sindical (Art. 37, VI). O direito de greve do servidor público civil (Art. 37, VII) será exercido nos termos e limites definidos em lei específica. Enquanto não há lei específica, o STF tem aplicado a Lei nº 7.783/89 (Lei de Greve da iniciativa privada), com adaptações, e vedado a greve para categorias essenciais (e.g., segurança pública).",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_009",
+      "topic_id": "top_007",
+      "component_type": "texto",
+      "content": "Os servidores militares (Forças Armadas, Polícias Militares e Corpos de Bombeiros Militares) são regidos por legislação específica. A eles são proibidas a sindicalização, a greve e a filiação a partidos políticos enquanto em efetivo serviço. A acumulação de cargos é vedada, salvo a de um cargo de professor, nos termos do art. 142, §3º, VIII, da CF/88. A perda do posto e da patente de oficial das Forças Armadas ocorre por julgamento de tribunal militar ou especial.",
+      "order": 1
+    }
+  ],
+  "pegadinhas": [
+    {
+      "trap_id": "peg_001",
+      "material_id": "mat_001",
+      "topic_id": "top_001",
+      "title": "Confundir Impessoalidade com Publicidade",
+      "description": "A banca pode tentar confundir o princípio da Impessoalidade (vedação à promoção pessoal) com o princípio da Publicidade (transparência dos atos). Lembre-se que a publicidade deve ter caráter educativo, informativo ou de orientação social, sem nomes, símbolos ou imagens que caracterizem promoção pessoal.",
+      "example_error": "",
+      "how_to_avoid": "Memorizar a literalidade do Art. 37, §1º, da CF/88 e entender que a impessoalidade visa a neutralidade da Administração, enquanto a publicidade busca a transparência.",
+      "order": 1
+    },
+    {
+      "trap_id": "peg_002",
+      "material_id": "mat_001",
+      "topic_id": "top_002",
+      "title": "Diferença entre Cargo em Comissão e Função de Confiança",
+      "description": "O CEBRASPE frequentemente inverte ou mistura as características de cargo em comissão e função de confiança. Lembre-se que a função de confiança é EXCLUSIVA para servidores de carreira, enquanto o cargo em comissão é de livre nomeação e exoneração, mas deve ter um percentual mínimo preenchido por servidores de carreira. Ambos são para direção, chefia e assessoramento.",
+      "example_error": "",
+      "how_to_avoid": "Fixar que 'Função de Confiança' = 'Efetivo' e 'Cargo em Comissão' = 'Livre Nomeação/Exoneração (com percentual para efetivos)'.",
+      "order": 2
+    },
+    {
+      "trap_id": "peg_003",
+      "material_id": "mat_001",
+      "topic_id": "top_004",
+      "title": "Exceções à Acumulação de Cargos",
+      "description": "A banca pode apresentar situações de acumulação que não se encaixam nas três exceções constitucionais (dois de professor; um de professor com técnico/científico; dois de saúde) ou omitir a exigência de compatibilidade de horários. Também pode tentar incluir militares em acumulações não permitidas.",
+      "example_error": "",
+      "how_to_avoid": "Decorar as três exceções do Art. 37, XVI, e a condição 'compatibilidade de horários'. Para militares, a regra é ainda mais restrita, permitindo apenas um cargo de professor.",
+      "order": 3
+    },
+    {
+      "trap_id": "peg_004",
+      "material_id": "mat_001",
+      "topic_id": "top_005",
+      "title": "Perda da Estabilidade vs. Perda do Cargo em Estágio Probatório",
+      "description": "Servidores em estágio probatório não possuem estabilidade e podem ser exonerados por inaptidão ou inassiduidade, sem a necessidade de PAD, mas com direito à ampla defesa e contraditório. A perda da estabilidade, após os 3 anos, exige PAD, sentença judicial transitada em julgado ou avaliação periódica de desempenho.",
+      "example_error": "",
+      "how_to_avoid": "Distinguir claramente os requisitos e procedimentos para a perda do vínculo durante o estágio probatório e após a aquisição da estabilidade.",
+      "order": 4
+    },
+    {
+      "trap_id": "peg_005",
+      "material_id": "mat_001",
+      "topic_id": "top_003",
+      "title": "Teto Remuneratório e Verbas Indenizatórias",
+      "description": "O CEBRASPE pode afirmar que todas as verbas entram no cálculo do teto remuneratório. No entanto, parcelas de caráter indenizatório expressamente previstas em lei não são computadas para o limite. Fique atento à literalidade do Art. 37, XI e §11.",
+      "example_error": "",
+      "how_to_avoid": "Saber que o teto se aplica à remuneração e subsídio, mas há exclusões para verbas indenizatórias por expressa previsão legal.",
+      "order": 5
+    }
+  ],
+  "pontos_memorizacao": [
+    {
+      "memory_id": "mem_001",
+      "material_id": "mat_001",
+      "topic_id": "top_001",
+      "title": null,
+      "content": "Princípios LIMPE: Legalidade, Impessoalidade, Moralidade, Publicidade, Eficiência (Art. 37, caput, CF/88).",
+      "order": 1
+    },
+    {
+      "memory_id": "mem_002",
+      "material_id": "mat_001",
+      "topic_id": "top_002",
+      "title": null,
+      "content": "Concurso Público: regra para cargo/emprego efetivo. Validade de até 2 anos, prorrogável uma vez por igual período.",
+      "order": 2
+    },
+    {
+      "memory_id": "mem_003",
+      "material_id": "mat_001",
+      "topic_id": "top_002",
+      "title": null,
+      "content": "Função de Confiança: exclusiva para efetivos. Cargo em Comissão: livre nomeação/exoneração, percentual para efetivos. Ambos para direção, chefia e assessoramento.",
+      "order": 3
+    },
+    {
+      "memory_id": "mem_004",
+      "material_id": "mat_001",
+      "topic_id": "top_003",
+      "title": null,
+      "content": "Teto Remuneratório: subsídio dos Ministros do STF. Subtetos estaduais e municipais. Verbas indenizatórias não entram.",
+      "order": 4
+    },
+    {
+      "memory_id": "mem_005",
+      "material_id": "mat_001",
+      "topic_id": "top_004",
+      "title": null,
+      "content": "Acumulação Lícita (Art. 37, XVI): 2 professores; 1 professor + 1 técnico/científico; 2 profissionais de saúde. Sempre com compatibilidade de horários.",
+      "order": 5
+    },
+    {
+      "memory_id": "mem_006",
+      "material_id": "mat_001",
+      "topic_id": "top_005",
+      "title": null,
+      "content": "Estabilidade: 3 anos de efetivo exercício + aprovação em estágio probatório. Perda: sentença judicial, PAD, avaliação periódica de desempenho.",
+      "order": 6
+    },
+    {
+      "memory_id": "mem_007",
+      "material_id": "mat_001",
+      "topic_id": "top_006",
+      "title": null,
+      "content": "Militares: proibidos de sindicalizar, fazer greve e filiar-se a partidos políticos. Acumulação: apenas um cargo de professor.",
+      "order": 7
+    }
+  ],
+  "quadro_sinotico_itens": [
+    {
+      "summary_item_id": "sum_001",
+      "title": null,
+      "content": "",
+      "order": 1
+    },
+    {
+      "summary_item_id": "sum_002",
+      "title": null,
+      "content": "",
+      "order": 2
+    },
+    {
+      "summary_item_id": "sum_003",
+      "title": null,
+      "content": "",
+      "order": 3
+    },
+    {
+      "summary_item_id": "sum_004",
+      "title": null,
+      "content": "",
+      "order": 4
+    },
+    {
+      "summary_item_id": "sum_005",
+      "title": null,
+      "content": "",
+      "order": 5
+    },
+    {
+      "summary_item_id": "sum_006",
+      "title": null,
+      "content": "",
+      "order": 6
+    },
+    {
+      "summary_item_id": "sum_007",
+      "title": null,
+      "content": "",
+      "order": 7
+    },
+    {
+      "summary_item_id": "sum_008",
+      "title": null,
+      "content": "",
+      "order": 8
+    }
+  ],
+  "questoes": [
+    {
+      "question_id": "qst_001",
+      "material_id": "mat_001",
+      "topic_id": "top_001",
+      "board": "CEBRASPE",
+      "year": 2023,
+      "organization": "Simulado CEBRASPE",
+      "role": "Analista Legislativo",
+      "statement": "O princípio da eficiência, introduzido na Constituição Federal pela Emenda Constitucional nº 19/1998, exige que a Administração Pública atue de forma a otimizar a prestação dos serviços, mas não se sobrepõe aos demais princípios constitucionais, como a legalidade e a moralidade.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "Certo. O princípio da eficiência, embora fundamental, não anula nem se sobrepõe aos demais princípios da Administração Pública, como a legalidade, impessoalidade, moralidade e publicidade. Todos devem ser observados em conjunto para a atuação administrativa.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_001"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_002",
+      "material_id": "mat_001",
+      "topic_id": "top_002",
+      "board": "CEBRASPE",
+      "year": 2024,
+      "organization": "Simulado CEBRASPE",
+      "role": "Técnico Legislativo",
+      "statement": "As funções de confiança, por se destinarem a atribuições de direção, chefia e assessoramento, podem ser exercidas por qualquer cidadão que preencha os requisitos de escolaridade e experiência, independentemente de ser ocupante de cargo efetivo.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "Errado. As funções de confiança são exercidas EXCLUSIVAMENTE por servidores ocupantes de cargo efetivo, conforme o Art. 37, V, da CF/88. Esta é uma 'pegadinha' comum do CEBRASPE, que tenta generalizar a regra dos cargos em comissão para as funções de confiança.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_002"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_003",
+      "material_id": "mat_001",
+      "topic_id": "top_003",
+      "board": "CEBRASPE",
+      "year": 2023,
+      "organization": "Simulado CEBRASPE",
+      "role": "Analista Legislativo",
+      "statement": "O subsídio dos Deputados Estaduais e Distritais serve como teto remuneratório para os servidores do Poder Legislativo dos Estados e do Distrito Federal, respectivamente, aplicando-se o mesmo limite aos membros do Ministério Público e aos Defensores Públicos estaduais.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "Errado. O teto remuneratório para os membros do Ministério Público e os Defensores Públicos estaduais é o subsídio dos Desembargadores do Tribunal de Justiça, limitado a 90,25% do subsídio dos Ministros do STF, e não o subsídio dos Deputados Estaduais/Distritais. O subsídio dos Deputados é o teto para o Poder Legislativo estadual/distrital.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_003"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_004",
+      "material_id": "mat_001",
+      "topic_id": "top_004",
+      "board": "CEBRASPE",
+      "year": 2024,
+      "organization": "Simulado CEBRASPE",
+      "role": "Técnico Legislativo",
+      "statement": "É lícita a acumulação de dois cargos de professor, desde que haja compatibilidade de horários, mesmo que um dos cargos seja em uma autarquia federal e o outro em uma sociedade de economia mista estadual.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "Certo. A acumulação de dois cargos de professor é uma das exceções expressamente previstas no Art. 37, XVI, 'a', da CF/88. A vedação à acumulação estende-se a autarquias e sociedades de economia mista, mas as exceções constitucionais são aplicáveis, desde que haja compatibilidade de horários.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_004"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_005",
+      "material_id": "mat_001",
+      "topic_id": "top_005",
+      "board": "CEBRASPE",
+      "year": 2023,
+      "organization": "Simulado CEBRASPE",
+      "role": "Analista Legislativo",
+      "statement": "A estabilidade no serviço público é adquirida após dois anos de efetivo exercício, desde que o servidor seja aprovado em avaliação especial de desempenho por comissão instituída para essa finalidade.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "Errado. A estabilidade é adquirida após TRÊS anos de efetivo exercício, e não dois, para servidores nomeados para cargo de provimento efetivo em virtude de concurso público, mediante avaliação especial de desempenho. Art. 41, caput, da CF/88.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_005"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_006",
+      "material_id": "mat_001",
+      "topic_id": "top_006",
+      "board": "CEBRASPE",
+      "year": 2024,
+      "organization": "Simulado CEBRASPE",
+      "role": "Técnico Legislativo",
+      "statement": "Aos servidores públicos civis é garantido o direito de greve, que pode ser exercido livremente, independentemente de lei específica, em razão da autoaplicabilidade da norma constitucional.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "Errado. O direito de greve do servidor público civil (Art. 37, VII, CF/88) é uma norma de eficácia limitada, dependendo de lei específica para ser plenamente exercido. Na ausência dessa lei, o STF tem aplicado a Lei nº 7.783/89 (Lei de Greve da iniciativa privada), com adaptações. Não é autoaplicável.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_006"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_007",
+      "material_id": "mat_001",
+      "topic_id": "top_007",
+      "board": "CEBRASPE",
+      "year": 2023,
+      "organization": "Simulado CEBRASPE",
+      "role": "Analista Legislativo",
+      "statement": "Os membros das Polícias Militares e dos Corpos de Bombeiros Militares dos Estados, do Distrito Federal e dos Territórios podem filiar-se a partidos políticos, desde que estejam na inatividade.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "Certo. A proibição de filiação a partidos políticos aplica-se ao militar ENQUANTO EM EFETIVO SERVIÇO (Art. 42, §6º, CF/88). Na inatividade, essa vedação não se aplica.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_007"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_008",
+      "material_id": "mat_001",
+      "topic_id": "top_003",
+      "board": "CEBRASPE",
+      "year": 2024,
+      "organization": "Simulado CEBRASPE",
+      "role": "Técnico Legislativo",
+      "statement": "Conforme entendimento do Supremo Tribunal Federal, o Poder Judiciário pode, com base no princípio da isonomia, conceder aumento de vencimentos a servidores públicos para corrigir distorções salariais.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "Errado. Conforme a Súmula Vinculante 37 do STF, 'Não cabe ao Poder Judiciário, que não tem função legislativa, aumentar vencimentos de servidores públicos sob o fundamento de isonomia'. Esta é uma vedação expressa para preservar a separação de Poderes e a reserva legal.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_008"
+        ],
+        "count": 1
+      }
+    }
+  ],
+  "comentarios_questoes": [
+    {
+      "comment_id": "com_001",
+      "question_id": "qst_001",
+      "content": "Certo. O princípio da eficiência, embora fundamental, não anula nem se sobrepõe aos demais princípios da Administração Pública, como a legalidade, impessoalidade, moralidade e publicidade. Todos devem ser observados em conjunto para a atuação administrativa.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_002",
+      "question_id": "qst_002",
+      "content": "Errado. As funções de confiança são exercidas EXCLUSIVAMENTE por servidores ocupantes de cargo efetivo, conforme o Art. 37, V, da CF/88. Esta é uma 'pegadinha' comum do CEBRASPE, que tenta generalizar a regra dos cargos em comissão para as funções de confiança.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_003",
+      "question_id": "qst_003",
+      "content": "Errado. O teto remuneratório para os membros do Ministério Público e os Defensores Públicos estaduais é o subsídio dos Desembargadores do Tribunal de Justiça, limitado a 90,25% do subsídio dos Ministros do STF, e não o subsídio dos Deputados Estaduais/Distritais. O subsídio dos Deputados é o teto para o Poder Legislativo estadual/distrital.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_004",
+      "question_id": "qst_004",
+      "content": "Certo. A acumulação de dois cargos de professor é uma das exceções expressamente previstas no Art. 37, XVI, 'a', da CF/88. A vedação à acumulação estende-se a autarquias e sociedades de economia mista, mas as exceções constitucionais são aplicáveis, desde que haja compatibilidade de horários.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_005",
+      "question_id": "qst_005",
+      "content": "Errado. A estabilidade é adquirida após TRÊS anos de efetivo exercício, e não dois, para servidores nomeados para cargo de provimento efetivo em virtude de concurso público, mediante avaliação especial de desempenho. Art. 41, caput, da CF/88.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_006",
+      "question_id": "qst_006",
+      "content": "Errado. O direito de greve do servidor público civil (Art. 37, VII, CF/88) é uma norma de eficácia limitada, dependendo de lei específica para ser plenamente exercido. Na ausência dessa lei, o STF tem aplicado a Lei nº 7.783/89 (Lei de Greve da iniciativa privada), com adaptações. Não é autoaplicável.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_007",
+      "question_id": "qst_007",
+      "content": "Certo. A proibição de filiação a partidos políticos aplica-se ao militar ENQUANTO EM EFETIVO SERVIÇO (Art. 42, §6º, CF/88). Na inatividade, essa vedação não se aplica.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_008",
+      "question_id": "qst_008",
+      "content": "Errado. Conforme a Súmula Vinculante 37 do STF, 'Não cabe ao Poder Judiciário, que não tem função legislativa, aumentar vencimentos de servidores públicos sob o fundamento de isonomia'. Esta é uma vedação expressa para preservar a separação de Poderes e a reserva legal.",
+      "explanation_alternatives": ""
+    }
+  ],
+  "checklist_revisao": [
+    {
+      "checklist_id": "chk_001",
+      "material_id": "mat_001",
+      "topic_id": "top_001",
+      "item_text": "Revisar os princípios LIMPE e suas implicações práticas (Art. 37, caput e §1º).",
+      "completed": false,
+      "order": 1
+    },
+    {
+      "checklist_id": "chk_002",
+      "material_id": "mat_001",
+      "topic_id": "top_002",
+      "item_text": "Diferenciar cargo em comissão e função de confiança, e suas regras de provimento (Art. 37, II e V).",
+      "completed": false,
+      "order": 2
+    },
+    {
+      "checklist_id": "chk_003",
+      "material_id": "mat_001",
+      "topic_id": "top_003",
+      "item_text": "Compreender o teto e os subtetos remuneratórios, e as verbas excluídas (Art. 37, XI e §11).",
+      "completed": false,
+      "order": 3
+    },
+    {
+      "checklist_id": "chk_004",
+      "material_id": "mat_001",
+      "topic_id": "top_004",
+      "item_text": "Memorizar as exceções à acumulação de cargos e a exigência de compatibilidade de horários (Art. 37, XVI e XVII).",
+      "completed": false,
+      "order": 4
+    },
+    {
+      "checklist_id": "chk_005",
+      "material_id": "mat_001",
+      "topic_id": "top_005",
+      "item_text": "Conhecer os requisitos para estabilidade e as hipóteses de perda do cargo (Art. 41).",
+      "completed": false,
+      "order": 5
+    },
+    {
+      "checklist_id": "chk_006",
+      "material_id": "mat_001",
+      "topic_id": "top_006",
+      "item_text": "Entender o direito de greve do servidor civil e as restrições para militares (Art. 37, VII e Art. 42, §5º).",
+      "completed": false,
+      "order": 6
+    },
+    {
+      "checklist_id": "chk_007",
+      "material_id": "mat_001",
+      "topic_id": "top_007",
+      "item_text": "Revisar as especificidades do regime jurídico dos militares (Art. 42 e Art. 142, §3º, VIII).",
+      "completed": false,
+      "order": 7
+    },
+    {
+      "checklist_id": "chk_008",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Revisar as Súmulas Vinculantes 13 e 37 do STF e suas aplicações.",
+      "completed": false,
+      "order": 8
+    }
+  ],
+  "referencias": [
+    {
+      "reference_id": "ref_001",
+      "material_id": "mat_001",
+      "reference_type": "norma",
+      "author_name": null,
+      "title": "Constituição da República Federativa do Brasil de 1988",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "http://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_002",
+      "material_id": "mat_001",
+      "reference_type": "jurisprudencia",
+      "author_name": null,
+      "title": "Súmula Vinculante nº 13 do Supremo Tribunal Federal",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://portal.stf.jus.br/textos/verTexto.asp?id=255776",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_003",
+      "material_id": "mat_001",
+      "reference_type": "jurisprudencia",
+      "author_name": null,
+      "title": "Súmula Vinculante nº 37 do Supremo Tribunal Federal",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://portal.stf.jus.br/textos/verTexto.asp?id=255776",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_004",
+      "material_id": "mat_001",
+      "reference_type": "doutrina",
+      "author_name": null,
+      "title": "DI PIETRO, Maria Sylvia Zanella. Direito Administrativo. 35. ed. Rio de Janeiro: Forense, 2022.",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": null,
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_005",
+      "material_id": "mat_001",
+      "reference_type": "jurisprudencia",
+      "author_name": null,
+      "title": "STF - Tema 916 de Repercussão Geral (RE 765.320)",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://portal.stf.jus.br/jurisprudenciaRepercussao/verAndamentoProcesso.asp?incidente=4688701",
+      "accessed_at": null,
+      "description": null
+    }
+  ],
+  "estatisticas_de_geracao": {
+    "total_topicos": 7,
+    "total_componentes_topico": 9,
+    "total_entendimentos_relevantes": 4,
+    "total_pegadinhas": 5,
+    "total_pontos_memorizacao": 7,
+    "total_itens_quadro_sinotico": 8,
+    "total_questoes": 8,
+    "total_comentarios_questoes": 8,
+    "total_itens_checklist": 8,
+    "total_referencias": 5
+  },
+  "validacao_interna": {
+    "pesquisa_previa_realizada": true,
+    "analise_de_cobrancas_anteriores_realizada": true,
+    "material_atualizado": true,
+    "json_valido": true,
+    "estrutura_relacional_respeitada": true,
+    "numeracao_respeitada": true,
+    "houve_quebra_de_hierarquia": false,
+    "houve_nivel_numerico_superior_a_3": false,
+    "fontes_verificadas": true,
+    "sem_informacao_inventada": true
+  },
+  "metadata": {
+    "source_file_name": "4__direito-constitucional-e-legislação-interna-da-câmara-dos-deputados__4-administração-pública-disposições-gerais-servidores-públicos-civis-e-militares.json",
+    "normalized_checksum": "8f612d70a655b5eb3070ff545a1eec4e6413fc1317389c67c6edcd3367177ebb",
+    "subject_slug": "dir-const-legcam",
+    "material_slug": "administracao-publica-servidores",
+    "title_slug": "administracao-publica-e-servidores-publicos-cf88",
+    "board_slug": "cebraspe",
+    "counters": {
+      "blocks": 2,
+      "topics": 7,
+      "topic_components": 9,
+      "traps": 5,
+      "memory_points": 7,
+      "summary_items": 8,
+      "questions": 8,
+      "question_comments": 8,
+      "checklist_items": 8,
+      "references": 5
+    }
+  }
+}

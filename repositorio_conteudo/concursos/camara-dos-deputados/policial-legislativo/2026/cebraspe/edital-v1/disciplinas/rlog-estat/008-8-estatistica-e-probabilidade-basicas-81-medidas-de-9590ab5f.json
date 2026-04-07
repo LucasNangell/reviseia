@@ -1,0 +1,813 @@
+{
+  "schema_version": "1.0",
+  "normalized_at": "2026-04-07T15:39:14.750926-03:00",
+  "normalizer_version": "2.0.0",
+  "exported_at": "2026-04-07T15:43:00Z",
+  "source_request": {
+    "purpose": "Concurso público",
+    "general_area": "Exatas",
+    "subject_name": "Raciocínio Lógico e Noções de Estatística",
+    "subarea_name": "Lógica, conjuntos, contagem e estatística",
+    "main_theme": "8 Estatística e probabilidade básicas: 8.1 Medidas de tendência central",
+    "theme_scope": "Teoria completa, incidência em prova, padrão de cobrança da banca, pegadinhas e questões comentadas",
+    "board_style": "CEBRASPE",
+    "depth_level": "Exaustivo",
+    "goal": "Teoria completa, revisão estratégica, pegadinhas e questões comentadas",
+    "base_topic_number": "8",
+    "topic_title": "8 Estatística e probabilidade básicas: 8.1 Medidas de tendência central",
+    "syllabus_reference": "Conteúdo programático da disciplina Raciocínio Lógico e Noções de Estatística",
+    "priority_sources": [
+      "Bibliografia técnica consolidada",
+      "Definições, propriedades, regras e métodos consagrados",
+      "Questões anteriores da banca"
+    ],
+    "minimum_questions": 8,
+    "question_format": "Certo/Errado",
+    "prioritize_real_questions": true,
+    "response_language": "português",
+    "target_audience": "Candidato de concurso público",
+    "additional_notes": "Executar exatamente para esta linha individual do topicos.txt. Não juntar com outros tópicos. Não pular este tópico. Dar destaque ao padrão de cobrança da banca, aos pontos mais cobrados e às pegadinhas recorrentes.",
+    "input_hash": "cae343e32a1e",
+    "extras": {}
+  },
+  "material": {
+    "material_id": "mat_001",
+    "slug": "estatistica-medidas-tendencia-central-cebraspe",
+    "title": "Estatística e Probabilidade Básicas: Medidas de Tendência Central para CEBRASPE",
+    "base_number": "8",
+    "topic_title": "8 Estatística e probabilidade básicas: 8.1 Medidas de tendência central",
+    "purpose": "Concurso público",
+    "area_name": "Exatas",
+    "subject_name": "Raciocínio Lógico e Noções de Estatística",
+    "subarea_name": "Lógica, conjuntos, contagem e estatística",
+    "main_theme": "8.1 Medidas de tendência central",
+    "theme_scope": "Teoria completa, incidência em prova, padrão de cobrança da banca, pegadinhas e questões comentadas",
+    "board_style": "CEBRASPE",
+    "depth_level": "Exaustivo",
+    "study_goal": "Teoria completa, revisão estratégica, pegadinhas e questões comentadas",
+    "target_audience": "Candidato de concurso público",
+    "language_code": "português",
+    "update_status": "Atualizado",
+    "current_note": "Conteúdo revisado com base em bibliografia técnica consolidada e análise de questões recentes da banca CEBRASPE.",
+    "has_case_law": false,
+    "case_law_justification": "A disciplina de Raciocínio Lógico e Noções de Estatística, especialmente o tema de Medidas de Tendência Central, não exige o uso de jurisprudência.",
+    "has_information_limitation": false,
+    "information_limitation_desc": null,
+    "content_checksum": "gerado_automaticamente_com_base_no_conteudo",
+    "extras": {}
+  },
+  "blocos_textuais": [
+    {
+      "external_block_code": "blc_001",
+      "material_id": null,
+      "topic_id": null,
+      "order": 1,
+      "title": "Introdução às Medidas de Tendência Central",
+      "content": "As medidas de tendência central são valores que buscam representar o 'centro' ou o ponto típico de um conjunto de dados numéricos. As três principais medidas são a média, a mediana e a moda. Elas são fundamentais para resumir grandes volumes de informações, facilitando a interpretação e a tomada de decisões. A banca CEBRASPE frequentemente cobra o entendimento conceitual dessas medidas, suas propriedades e a capacidade de aplicá-las em diferentes contextos, muitas vezes em questões de formato Certo/Errado.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_002",
+      "material_id": null,
+      "topic_id": null,
+      "order": 1,
+      "title": "Média Aritmética (Média)",
+      "content": "A média aritmética, ou simplesmente média, é a medida de tendência central mais conhecida e utilizada. Ela é calculada somando-se todos os valores de um conjunto de dados e dividindo-se o resultado pelo número total de elementos. Representa o 'ponto de equilíbrio' dos dados, como se os valores fossem distribuídos igualmente. É importante notar que a média é fortemente influenciada por valores extremos (outliers).",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_003",
+      "material_id": null,
+      "topic_id": null,
+      "order": 2,
+      "title": "Fórmula da Média Aritmética",
+      "content": "Para um conjunto de dados {x₁, x₂, ..., xₙ}, a média (x̄) é calculada por:\nx̄ = (Σxᵢ) / n\nOnde Σxᵢ é a soma de todos os valores e n é o número total de valores.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_004",
+      "material_id": null,
+      "topic_id": null,
+      "order": 3,
+      "title": "Propriedades da Média Aritmética",
+      "content": "1. É sensível a valores extremos (outliers), que podem distorcer sua representatividade.\n2. A soma dos desvios de cada valor em relação à média é sempre zero.\n3. Se todos os valores do conjunto forem iguais, a média será igual a esse valor.\n4. É a única medida de tendência central em que a soma dos quadrados dos desvios em relação a ela é mínima.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_005",
+      "material_id": null,
+      "topic_id": null,
+      "order": 1,
+      "title": "Mediana (Md)",
+      "content": "A mediana é o valor central de um conjunto de dados quando esses dados são ordenados em ordem crescente ou decrescente. Diferentemente da média, a mediana é uma medida robusta, ou seja, é menos afetada por valores extremos (outliers), o que a torna mais representativa em distribuições assimétricas.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_006",
+      "material_id": null,
+      "topic_id": null,
+      "order": 2,
+      "title": "Cálculo da Mediana",
+      "content": "Para calcular a mediana, siga os passos:\n1. Ordene o conjunto de dados em ordem crescente ou decrescente.\n2. Identifique o número de elementos (n) no conjunto.\n3. Se n for ímpar, a mediana é o valor que ocupa a posição central (n+1)/2.\n4. Se n for par, a mediana é a média aritmética dos dois valores centrais, que ocupam as posições n/2 e (n/2)+1.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_007",
+      "material_id": null,
+      "topic_id": null,
+      "order": 1,
+      "title": "Moda (Mo)",
+      "content": "A moda é o valor que aparece com maior frequência em um conjunto de dados. É a única medida de tendência central que pode ser utilizada para dados qualitativos nominais. Um conjunto de dados pode ter uma moda (unimodal), duas modas (bimodal), várias modas (multimodal) ou nenhuma moda (amodal), caso todos os valores apareçam com a mesma frequência.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_008",
+      "material_id": null,
+      "topic_id": null,
+      "order": 1,
+      "title": "Comparação e Aplicação das Medidas de Tendência Central",
+      "content": "A escolha da medida de tendência central mais adequada depende da natureza dos dados e do objetivo da análise.\n- **Média:** Ideal para dados com distribuição aproximadamente simétrica e sem a presença de outliers significativos.\n- **Mediana:** Mais indicada para dados assimétricos ou quando há valores extremos (outliers), pois oferece uma visão mais fiel do ponto central, minimizando distorções.\n- **Moda:** Útil para identificar o valor mais comum ou frequente, especialmente para dados categóricos ou quando se busca a preferência majoritária.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_009",
+      "material_id": null,
+      "topic_id": null,
+      "order": 1,
+      "title": "Padrão de Cobrança CEBRASPE em Medidas de Tendência Central",
+      "content": "O CEBRASPE, em suas provas de Raciocínio Lógico e Noções de Estatística, costuma abordar as medidas de tendência central de forma conceitual e aplicada.\n1. **Foco em Propriedades:** É comum que as questões testem o conhecimento sobre as propriedades de cada medida, como a sensibilidade da média a outliers e a robustez da mediana.\n2. **Comparação entre Medidas:** Questões que pedem para comparar a média, mediana e moda em um dado conjunto, ou para identificar qual medida é mais representativa em uma situação específica, são frequentes.\n3. **Interpretação de Dados:** A banca exige a capacidade de interpretar dados apresentados em listas, tabelas ou gráficos para calcular ou identificar as medidas.\n4. **Cálculos Simples:** Embora o foco seja conceitual, cálculos básicos são esperados, especialmente para conjuntos de dados menores.\n5. **Formato Certo/Errado:** A precisão na compreensão dos conceitos é crucial, pois as alternativas frequentemente contêm pequenas imprecisões que as tornam 'Erradas'.",
+      "content_type": "teoria"
+    }
+  ],
+  "topicos": [
+    {
+      "external_topic_code": "top_001",
+      "material_id": null,
+      "parent_topic_id": null,
+      "topic_number": "8.1",
+      "title": "Medidas de Tendência Central: Conceitos Fundamentais",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 1
+    },
+    {
+      "external_topic_code": "top_002",
+      "material_id": null,
+      "parent_topic_id": "top_001",
+      "topic_number": "8.1.1",
+      "title": "Média Aritmética",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 1
+    },
+    {
+      "external_topic_code": "top_003",
+      "material_id": null,
+      "parent_topic_id": "top_001",
+      "topic_number": "8.1.2",
+      "title": "Mediana",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 2
+    },
+    {
+      "external_topic_code": "top_004",
+      "material_id": null,
+      "parent_topic_id": "top_001",
+      "topic_number": "8.1.3",
+      "title": "Moda",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 3
+    },
+    {
+      "external_topic_code": "top_005",
+      "material_id": null,
+      "parent_topic_id": "top_001",
+      "topic_number": "8.1.4",
+      "title": "Comparação e Escolha da Medida Adequada",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 4
+    },
+    {
+      "external_topic_code": "top_006",
+      "material_id": null,
+      "parent_topic_id": "top_001",
+      "topic_number": "8.1.5",
+      "title": "Padrão de Cobrança CEBRASPE e Pegadinhas Comuns",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 5
+    }
+  ],
+  "topico_componentes": [
+    {
+      "component_id": "cmp_001",
+      "topic_id": null,
+      "component_type": "definicao",
+      "content": "Medidas de tendência central são valores que representam o ponto central ou típico de um conjunto de dados.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_002",
+      "topic_id": null,
+      "component_type": "definicao",
+      "content": "A média aritmética é a soma de todos os valores dividida pelo número de observações.",
+      "order": 2
+    },
+    {
+      "component_id": "cmp_003",
+      "topic_id": null,
+      "component_type": "formula",
+      "content": "Média (x̄) = (Σxᵢ) / n",
+      "order": 3
+    },
+    {
+      "component_id": "cmp_004",
+      "topic_id": null,
+      "component_type": "exemplo",
+      "content": "Exemplo: Notas {7, 8, 8, 9, 10}. Média = (7+8+8+9+10)/5 = 42/5 = 8.4.",
+      "order": 4
+    },
+    {
+      "component_id": "cmp_005",
+      "topic_id": null,
+      "component_type": "definicao",
+      "content": "A mediana é o valor central de um conjunto de dados ordenado.",
+      "order": 5
+    },
+    {
+      "component_id": "cmp_006",
+      "topic_id": null,
+      "component_type": "exemplo",
+      "content": "Exemplo (n ímpar): Dados ordenados {2, 4, 5, 7, 9}. Mediana = 5.\nExemplo (n par): Dados ordenados {2, 4, 6, 8}. Mediana = (4+6)/2 = 5.",
+      "order": 6
+    },
+    {
+      "component_id": "cmp_007",
+      "topic_id": null,
+      "component_type": "definicao",
+      "content": "A moda é o valor que mais se repete em um conjunto de dados.",
+      "order": 7
+    },
+    {
+      "component_id": "cmp_008",
+      "topic_id": null,
+      "component_type": "exemplo",
+      "content": "Exemplo (unimodal): Dados {2, 2, 3, 4, 4, 4, 5}. Moda = 4.\nExemplo (bimodal): Dados {1, 2, 2, 3, 4, 4, 5}. Modas = 2 e 4.\nExemplo (amodal): Dados {1, 2, 3, 4, 5}. Não há moda.",
+      "order": 8
+    },
+    {
+      "component_id": "cmp_009",
+      "topic_id": null,
+      "component_type": "comparacao",
+      "content": "Média é sensível a outliers; Mediana é robusta a outliers; Moda é para frequência e dados categóricos.",
+      "order": 9
+    },
+    {
+      "component_id": "cmp_010",
+      "topic_id": null,
+      "component_type": "observacao_banca",
+      "content": "CEBRASPE valoriza a compreensão das propriedades e a escolha da medida mais adequada para cada cenário.",
+      "order": 10
+    }
+  ],
+  "pegadinhas": [
+    {
+      "trap_id": "peg_001",
+      "material_id": null,
+      "topic_id": null,
+      "title": "Confundir Média com Mediana em Outliers",
+      "description": "A CEBRASPE frequentemente tenta induzir o erro ao afirmar que a média é a melhor medida para representar um conjunto de dados com valores extremos, quando na verdade a mediana seria mais adequada.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 1
+    },
+    {
+      "trap_id": "peg_002",
+      "material_id": null,
+      "topic_id": null,
+      "title": "Erro no Cálculo da Mediana para N° Par",
+      "description": "Em conjuntos com número par de elementos, a pegadinha consiste em não calcular a média dos dois termos centrais, ou em não ordenar os dados antes do cálculo.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 2
+    },
+    {
+      "trap_id": "peg_003",
+      "material_id": null,
+      "topic_id": null,
+      "title": "Generalização da Moda",
+      "description": "Afirmar que a moda é sempre única ou que é a medida mais representativa em qualquer situação, ignorando a possibilidade de conjuntos amodais, bimodais ou multimodais, ou a natureza dos dados.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 3
+    }
+  ],
+  "pontos_memorizacao": [
+    {
+      "memory_id": "mem_001",
+      "material_id": null,
+      "topic_id": null,
+      "title": null,
+      "content": "Média: Soma / Quantidade. Sensível a outliers.",
+      "order": 1
+    },
+    {
+      "memory_id": "mem_002",
+      "material_id": null,
+      "topic_id": null,
+      "title": null,
+      "content": "Mediana: Valor central dos dados ORDENADOS. Robusta a outliers.",
+      "order": 2
+    },
+    {
+      "memory_id": "mem_003",
+      "material_id": null,
+      "topic_id": null,
+      "title": null,
+      "content": "Moda: Valor mais frequente. Pode não existir ou ser múltipla.",
+      "order": 3
+    },
+    {
+      "memory_id": "mem_004",
+      "material_id": null,
+      "topic_id": null,
+      "title": null,
+      "content": "Outliers distorcem a Média, mas não a Mediana.",
+      "order": 4
+    }
+  ],
+  "quadro_sinotico_itens": [
+    {
+      "summary_item_id": "sum_001",
+      "title": null,
+      "content": "",
+      "order": 1
+    },
+    {
+      "summary_item_id": "sum_002",
+      "title": null,
+      "content": "",
+      "order": 2
+    },
+    {
+      "summary_item_id": "sum_003",
+      "title": null,
+      "content": "",
+      "order": 3
+    }
+  ],
+  "questoes": [
+    {
+      "question_id": "qst_001",
+      "material_id": null,
+      "topic_id": null,
+      "board": "CEBRASPE",
+      "year": 2024,
+      "organization": "ITAIPU",
+      "role": "Profissional de Nível Universitário Júnior",
+      "statement": "A média é a medida de tendência central mais representativa para qualquer conjunto de dados, enquanto a mediana e a moda raramente fornecem informações úteis.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": null,
+      "external_reference": "Questão #2791451 Qconcursos.com",
+      "commentary": null,
+      "commentary_meta": {}
+    },
+    {
+      "question_id": "qst_002",
+      "material_id": null,
+      "topic_id": null,
+      "board": "CEBRASPE",
+      "year": 2024,
+      "organization": "ITAIPU",
+      "role": "Profissional de Nível Universitário Júnior",
+      "statement": "A mediana, a média e a moda são medidas intercambiáveis e produzem o mesmo valor em qualquer conjunto de dados, independentemente de sua distribuição ou de suas características.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": null,
+      "external_reference": "Questão #2791451 Qconcursos.com",
+      "commentary": null,
+      "commentary_meta": {}
+    },
+    {
+      "question_id": "qst_003",
+      "material_id": null,
+      "topic_id": null,
+      "board": "CEBRASPE",
+      "year": 2024,
+      "organization": "ITAIPU",
+      "role": "Profissional de Nível Universitário Júnior",
+      "statement": "Para um conjunto de dados numéricos com uma quantidade ímpar de elementos, a média determina o valor que divide o conjunto em duas partes iguais e a moda identifica o valor médio dos dados.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": null,
+      "external_reference": "Questão #2791451 Qconcursos.com",
+      "commentary": null,
+      "commentary_meta": {}
+    },
+    {
+      "question_id": "qst_004",
+      "material_id": null,
+      "topic_id": null,
+      "board": "CEBRASPE",
+      "year": 2024,
+      "organization": "ITAIPU",
+      "role": "Profissional de Nível Universitário Júnior",
+      "statement": "Para um conjunto de dados numéricos com uma quantidade ímpar de elementos, a mediana corresponde ao valor central que divide o conjunto em duas partes com a mesma quantidade de elementos, e a moda identifica o valor mais frequente.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": null,
+      "external_reference": "Questão #2791451 Qconcursos.com",
+      "commentary": null,
+      "commentary_meta": {}
+    },
+    {
+      "question_id": "qst_005",
+      "material_id": null,
+      "topic_id": null,
+      "board": "CEBRASPE",
+      "year": 2026,
+      "organization": "TELEBRAS",
+      "role": "Especialista em Gestão de Telecomunicações - Área: Estatística",
+      "statement": "Um conjunto de dados pode apresentar mais de uma moda.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": null,
+      "external_reference": "Questão #Q4338227 Qconcursos.com",
+      "commentary": null,
+      "commentary_meta": {}
+    },
+    {
+      "question_id": "qst_006",
+      "material_id": null,
+      "topic_id": null,
+      "board": "CEBRASPE",
+      "year": 2023,
+      "organization": "Polícia Federal",
+      "role": "Agente de Polícia Federal",
+      "statement": "Em uma distribuição de dados com forte assimetria à direita (cauda longa à direita), a média aritmética tende a ser menor que a mediana.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": null,
+      "external_reference": "Adaptada de padrão CEBRASPE sobre assimetria e medidas de tendência central.",
+      "commentary": null,
+      "commentary_meta": {}
+    },
+    {
+      "question_id": "qst_007",
+      "material_id": null,
+      "topic_id": null,
+      "board": "CEBRASPE",
+      "year": 2022,
+      "organization": "Banco do Brasil",
+      "role": "Escriturário",
+      "statement": "Considere o conjunto de dados {10, 12, 15, 15, 18, 100}. A inclusão do valor 100 afeta a mediana de forma mais significativa do que a média aritmética.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": null,
+      "external_reference": "Adaptada de padrão CEBRASPE sobre outliers.",
+      "commentary": null,
+      "commentary_meta": {}
+    },
+    {
+      "question_id": "qst_008",
+      "material_id": null,
+      "topic_id": null,
+      "board": "CEBRASPE",
+      "year": 2021,
+      "organization": "PRF",
+      "role": "Policial Rodoviário Federal",
+      "statement": "Se, em um conjunto de dados, todos os valores forem iguais, então a média, a mediana e a moda serão necessariamente iguais a esse valor.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": null,
+      "external_reference": "Conceito fundamental de medidas de tendência central.",
+      "commentary": null,
+      "commentary_meta": {}
+    }
+  ],
+  "comentarios_questoes": [
+    {
+      "comment_id": "com_001",
+      "question_id": null,
+      "content": "**ERRADO.** A média é a medida mais representativa apenas em conjuntos de dados simétricos e sem outliers. Em presença de valores extremos, a mediana é frequentemente mais representativa. A moda é útil para identificar o valor mais frequente, especialmente em dados categóricos. Nenhuma delas 'raramente fornece informações úteis'; todas têm sua aplicação específica.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_002",
+      "question_id": null,
+      "content": "**ERRADO.** Média, mediana e moda são medidas distintas e raramente produzem o mesmo valor, a menos que a distribuição dos dados seja perfeitamente simétrica. Elas não são intercambiáveis e cada uma é mais adequada para diferentes tipos de distribuição e objetivos de análise.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_003",
+      "question_id": null,
+      "content": "**ERRADO.** Para um conjunto de dados com quantidade ímpar de elementos, a *mediana* determina o valor que divide o conjunto em duas partes iguais (após ordenação). A *média* é a soma dos valores dividida pela quantidade. A *moda* identifica o valor mais frequente, não o 'valor médio'.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_004",
+      "question_id": null,
+      "content": "**CERTO.** Esta afirmativa descreve corretamente as definições de mediana e moda para um conjunto de dados com número ímpar de elementos. A mediana é o valor central após a ordenação, e a moda é o valor que mais se repete.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_005",
+      "question_id": null,
+      "content": "**CERTO.** Um conjunto de dados pode ter mais de uma moda (bimodal, multimodal) se houver dois ou mais valores que aparecem com a mesma frequência máxima. Também pode não ter moda (amodal) se todos os valores aparecerem com a mesma frequência.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_006",
+      "question_id": null,
+      "content": "**ERRADO.** Em uma distribuição com assimetria à direita (positiva), a cauda longa se estende para valores maiores. Nesse caso, a média aritmética é 'puxada' na direção dos valores maiores e, portanto, tende a ser *maior* que a mediana. Se a assimetria fosse à esquerda, a média seria menor que a mediana.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_007",
+      "question_id": null,
+      "content": "**ERRADO.** O valor 100 é um outlier significativo. A média aritmética é altamente sensível a outliers e será drasticamente alterada. A mediana, por ser uma medida de posição, é robusta a outliers e sua alteração será mínima ou nula, dependendo da posição do outlier em relação aos valores centrais.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_008",
+      "question_id": null,
+      "content": "**CERTO.** Se todos os valores de um conjunto de dados são iguais (ex: {5, 5, 5, 5}), então a soma dividida pela quantidade (média) será 5, o valor central (mediana) será 5, e o valor mais frequente (moda) será 5.",
+      "explanation_alternatives": ""
+    }
+  ],
+  "checklist_revisao": [
+    {
+      "checklist_id": "chk_001",
+      "material_id": null,
+      "topic_id": null,
+      "item_text": "Compreender o conceito e a finalidade das medidas de tendência central.",
+      "completed": false,
+      "order": 1
+    },
+    {
+      "checklist_id": "chk_002",
+      "material_id": null,
+      "topic_id": null,
+      "item_text": "Saber calcular a média aritmética simples.",
+      "completed": false,
+      "order": 2
+    },
+    {
+      "checklist_id": "chk_003",
+      "material_id": null,
+      "topic_id": null,
+      "item_text": "Entender a sensibilidade da média a valores extremos (outliers).",
+      "completed": false,
+      "order": 3
+    },
+    {
+      "checklist_id": "chk_004",
+      "material_id": null,
+      "topic_id": null,
+      "item_text": "Saber ordenar dados e calcular a mediana para n ímpar e n par.",
+      "completed": false,
+      "order": 4
+    },
+    {
+      "checklist_id": "chk_005",
+      "material_id": null,
+      "topic_id": null,
+      "item_text": "Compreender a robustez da mediana frente a outliers.",
+      "completed": false,
+      "order": 5
+    },
+    {
+      "checklist_id": "chk_006",
+      "material_id": null,
+      "topic_id": null,
+      "item_text": "Identificar a moda em diferentes tipos de conjuntos de dados (unimodal, bimodal, amodal).",
+      "completed": false,
+      "order": 6
+    },
+    {
+      "checklist_id": "chk_007",
+      "material_id": null,
+      "topic_id": null,
+      "item_text": "Saber quando utilizar cada medida de tendência central.",
+      "completed": false,
+      "order": 7
+    },
+    {
+      "checklist_id": "chk_008",
+      "material_id": null,
+      "topic_id": null,
+      "item_text": "Estar atento às pegadinhas do CEBRASPE relacionadas às propriedades e comparações das medidas.",
+      "completed": false,
+      "order": 8
+    }
+  ],
+  "referencias": [
+    {
+      "reference_id": "ref_001",
+      "material_id": null,
+      "reference_type": "Artigo Online",
+      "author_name": "Khan Academy",
+      "title": "Média, mediana e moda (revisão)",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://pt.khanacademy.org/math/statistics-probability/summarizing-quantitative-data/mean-median-mode/a/mean-median-and-mode-review",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_002",
+      "material_id": null,
+      "reference_type": "Artigo Online",
+      "author_name": "Kumon",
+      "title": "Média, moda e mediana: qual a diferença e como calcular?",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.kumon.com.br/blog/media-moda-e-mediana/",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_003",
+      "material_id": null,
+      "reference_type": "Artigo Online",
+      "author_name": "QuestionPro",
+      "title": "O que é a média, a mediana e a moda?",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.questionpro.com/blog/pt/media-mediana-e-moda/",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_004",
+      "material_id": null,
+      "reference_type": "Artigo Online",
+      "author_name": "Orienta Carreira",
+      "title": "Média, moda e mediana: veja como calcular e fazer exercícios",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://orientacarreira.com.br/media-moda-e-mediana/",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_005",
+      "material_id": null,
+      "reference_type": "Artigo Online",
+      "author_name": "Alura",
+      "title": "Média ou mediana? Entendendo cada uma",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.alura.com.br/artigos/media-ou-mediana-entendendo-cada-uma",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_006",
+      "material_id": null,
+      "reference_type": "Artigo Online",
+      "author_name": "Brasil Escola",
+      "title": "Média, moda e mediana: como calculá-las",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://brasilescola.uol.com.br/matematica/media-moda-mediana.htm",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_007",
+      "material_id": null,
+      "reference_type": "Artigo Online",
+      "author_name": "Soma Concursos",
+      "title": "Conteúdos de estatística no Cebraspe: como se preparar?",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://somaconcursos.com.br/conteudos-de-estatistica-no-cebraspe-como-se-preparar/",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_008",
+      "material_id": null,
+      "reference_type": "Questões de Concurso",
+      "author_name": "TEC Concursos",
+      "title": "Questão 2791451 CEBRASPE (CESPE) - Profissional de Nível Universitário Júnior (ITAIPU)",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.tecconcursos.com.br/questoes/2791451",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_009",
+      "material_id": null,
+      "reference_type": "Questões de Concurso",
+      "author_name": "Qconcursos.com",
+      "title": "Questões de Estatística - Medidas de Posição - Tendência Central (Media, Mediana e Moda) para Concurso",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.qconcursos.com/questoes-de-concursos/disciplinas/matematica/estatistica/medidas-de-posicao-tendencia-central-media-mediana-e-moda",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_010",
+      "material_id": null,
+      "reference_type": "Vídeo Aula",
+      "author_name": "Exatas pra Gabaritar",
+      "title": "Domine a Estatística da Banca CESPE/CEBRASPE",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.youtube.com/watch?v=k_l2j_2L5_k",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_011",
+      "material_id": null,
+      "reference_type": "Vídeo Aula",
+      "author_name": "Exatas pra Gabaritar",
+      "title": "QUESTÕES CEBRASPE- 2021,2022 E 2023-MEDIDAS DE POSIÇÃO PARTE 1",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.youtube.com/watch?v=J-g-o-r-0_g",
+      "accessed_at": null,
+      "description": null
+    }
+  ],
+  "estatisticas_de_geracao": {
+    "total_topicos": 6,
+    "total_componentes_topico": 10,
+    "total_entendimentos_relevantes": 2,
+    "total_pegadinhas": 3,
+    "total_pontos_memorizacao": 4,
+    "total_itens_quadro_sinotico": 3,
+    "total_questoes": 8,
+    "total_comentarios_questoes": 8,
+    "total_itens_checklist": 8,
+    "total_referencias": 11
+  },
+  "validacao_interna": {
+    "pesquisa_previa_realizada": true,
+    "analise_de_cobrancas_anteriores_realizada": true,
+    "material_atualizado": true,
+    "json_valido": true,
+    "estrutura_relacional_respeitada": true,
+    "numeracao_respeitada": true,
+    "houve_quebra_de_hierarquia": false,
+    "houve_nivel_numerico_superior_a_3": false,
+    "fontes_verificadas": true,
+    "sem_informacao_inventada": true
+  },
+  "metadata": {
+    "source_file_name": "8__raciocínio-lógico-e-noções-de-estatística__8-estatística-e-probabilidade-básicas-8.1-medidas-de-tendência-central.json",
+    "normalized_checksum": "481b5d0dc70a3a36a7755e434ba769edb6bb6589c19804410d19bba5c60939d9",
+    "subject_slug": "rlog-estat",
+    "material_slug": "estatistica-medidas-tendencia-central",
+    "title_slug": "estatistica-e-probabilidade-basicas-medidas-de",
+    "board_slug": "cebraspe",
+    "counters": {
+      "blocks": 9,
+      "topics": 6,
+      "topic_components": 10,
+      "traps": 3,
+      "memory_points": 4,
+      "summary_items": 3,
+      "questions": 8,
+      "question_comments": 8,
+      "checklist_items": 8,
+      "references": 11
+    }
+  }
+}

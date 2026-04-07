@@ -1,0 +1,1147 @@
+{
+  "schema_version": "1.0",
+  "normalized_at": "2026-04-07T15:39:14.933424-03:00",
+  "normalizer_version": "2.0.0",
+  "exported_at": "2026-04-06T20:28:00Z",
+  "source_request": {
+    "purpose": "Concurso público",
+    "general_area": "Exatas",
+    "subject_name": "Raciocínio Lógico e Noções de Estatística",
+    "subarea_name": "Lógica, conjuntos, contagem e estatística",
+    "main_theme": "3 Lógica sentencial (ou proposicional): 3.1 Proposições simples e compostas",
+    "theme_scope": "Teoria completa, incidência em prova, padrão de cobrança da banca, pegadinhas e questões comentadas",
+    "board_style": "CEBRASPE",
+    "depth_level": "Exaustivo",
+    "goal": "Teoria completa, revisão estratégica, pegadinhas e questões comentadas",
+    "base_topic_number": "3",
+    "topic_title": "3 Lógica sentencial (ou proposicional): 3.1 Proposições simples e compostas",
+    "syllabus_reference": "Conteúdo programático da disciplina Raciocínio Lógico e Noções de Estatística",
+    "priority_sources": [
+      "Bibliografia técnica consolidada",
+      "Definições, propriedades, regras e métodos consagrados",
+      "Questões anteriores da banca"
+    ],
+    "minimum_questions": 8,
+    "question_format": "Certo/Errado",
+    "prioritize_real_questions": true,
+    "response_language": "português",
+    "target_audience": "Candidato de concurso público",
+    "additional_notes": "Executar exatamente para esta linha individual do topicos.txt. Não juntar com outros tópicos. Não pular este tópico. Dar destaque ao padrão de cobrança da banca, aos pontos mais cobrados e às pegadinhas recorrentes.",
+    "input_hash": "6c95d2fa8b20",
+    "extras": {}
+  },
+  "material": {
+    "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-31-proposições-simples-e-compostas",
+    "slug": "logica-sentencial-proposicoes-simples-compostas-cebraspe",
+    "title": "Lógica Sentencial (ou Proposicional): Proposições Simples e Compostas",
+    "base_number": "3",
+    "topic_title": "3 Lógica sentencial (ou proposicional): 3.1 Proposições simples e compostas",
+    "purpose": "Concurso público",
+    "area_name": "Exatas",
+    "subject_name": "Raciocínio Lógico e Noções de Estatística",
+    "subarea_name": "Lógica, conjuntos, contagem e estatística",
+    "main_theme": "3 Lógica sentencial (ou proposicional): 3.1 Proposições simples e compostas",
+    "theme_scope": "Teoria completa, incidência em prova, padrão de cobrança da banca, pegadinhas e questões comentadas",
+    "board_style": "CEBRASPE",
+    "depth_level": "Exaustivo",
+    "study_goal": "Teoria completa, revisão estratégica, pegadinhas e questões comentadas",
+    "target_audience": "Candidato de concurso público",
+    "language_code": "português",
+    "update_status": "Atualizado em 2026",
+    "current_note": "Conteúdo revisado com base em bibliografia consolidada e análise de questões recentes da banca CEBRASPE (até 2026).",
+    "has_case_law": false,
+    "case_law_justification": "A matéria de Raciocínio Lógico não exige o uso de jurisprudência.",
+    "has_information_limitation": false,
+    "information_limitation_desc": null,
+    "content_checksum": "placeholder_checksum",
+    "extras": {}
+  },
+  "blocos_textuais": [
+    {
+      "external_block_code": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-31-proposições-simples-e-compostas_blc_001",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-31-proposições-simples-e-compostas",
+      "topic_id": null,
+      "order": 1,
+      "title": "Introdução à Lógica Sentencial (Proposicional)",
+      "content": "A Lógica Sentencial, também conhecida como Lógica Proposicional ou Cálculo Sentencial, é um ramo fundamental da lógica matemática que estuda as proposições, suas relações e as operações que podem ser realizadas entre elas. Seu objetivo é analisar a estrutura de argumentos, eliminando ambiguidades da linguagem natural e permitindo a avaliação precisa da validade de um raciocínio. Para concursos públicos, especialmente os da banca CEBRASPE, a compreensão dos conceitos de proposição, proposição simples e proposição composta é o ponto de partida essencial para a resolução de questões de Raciocínio Lógico.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-31-proposições-simples-e-compostas_blc_002",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-31-proposições-simples-e-compostas",
+      "topic_id": null,
+      "order": 2,
+      "title": "O que é uma Proposição?",
+      "content": "Uma proposição lógica é uma sentença declarativa, ou seja, uma afirmação, à qual se pode atribuir, sem ambiguidade, um e apenas um dos dois valores lógicos possíveis: Verdadeiro (V) ou Falso (F). Ela expressa um juízo ou uma ideia completa e possui um valor lógico definido. Na lógica clássica, não existe uma terceira possibilidade (princípio do terceiro excluído) e uma proposição não pode ser verdadeira e falsa ao mesmo tempo (princípio da não contradição).",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-31-proposições-simples-e-compostas_blc_003",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-31-proposições-simples-e-compostas",
+      "topic_id": null,
+      "order": 3,
+      "title": "Características Essenciais de uma Proposição",
+      "content": "Para que uma sentença seja considerada uma proposição, ela deve atender a três características principais: <br>1. **Ser uma Oração Declarativa:** Deve afirmar ou negar algo. <br>2. **Possuir Sentido Completo:** A ideia expressa deve ser compreensível por si só. <br>3. **Ter um Valor Lógico Único:** Ser verdadeira ou falsa, mas nunca ambas, e nunca indeterminada.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-31-proposições-simples-e-compostas_blc_004",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-31-proposições-simples-e-compostas",
+      "topic_id": null,
+      "order": 4,
+      "title": "O que NÃO é uma Proposição?",
+      "content": "É tão importante quanto saber o que é uma proposição, saber o que não é. Os seguintes tipos de sentenças **não** são consideradas proposições na lógica: <br>1. **Sentenças Interrogativas:** Expressam perguntas. Ex: 'Que horas são?' <br>2. **Sentenças Exclamativas:** Expressam emoções, surpresa, etc. Ex: 'Que dia lindo!' <br>3. **Sentenças Imperativas:** Expressam ordens, pedidos, conselhos. Ex: 'Estude para a prova!' <br>4. **Sentenças Optativas:** Expressam desejos. Ex: 'Que Deus te abençoe!' <br>5. **Sentenças Abertas:** Contêm variáveis (pronomes indefinidos, letras, etc.) cujo valor lógico não pode ser determinado sem a atribuição de um valor específico à variável. Ex: 'Ele é estudante.' (Quem é 'ele'?) ou 'x + 1 = 5.' (Qual o valor de 'x'?). <br>6. **Paradoxos:** Sentenças que geram contradição ao tentar atribuir um valor lógico. Ex: 'Esta frase é falsa.' <br>7. **Sentenças Vagas ou Subjetivas:** Aquelas cujo valor lógico depende de interpretação pessoal. Ex: 'Maria é bonita.'",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-31-proposições-simples-e-compostas_blc_005",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-31-proposições-simples-e-compostas",
+      "topic_id": null,
+      "order": 5,
+      "title": "Proposições Simples (Atômicas ou Primitivas)",
+      "content": "Uma proposição simples, também chamada de proposição atômica ou primitiva, é uma afirmação direta que expressa uma única ideia e não contém nenhum conectivo lógico. Ela não pode ser decomposta em outras proposições mais elementares. <br>Exemplos: <br>• 'O Brasil é um país da América do Sul.' (V) <br>• '2 + 3 = 8.' (F) <br>• 'João não é médico.' (Esta é uma proposição simples, pois a negação 'não' faz parte da estrutura interna da afirmação, não conectando duas proposições distintas).",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-31-proposições-simples-e-compostas_blc_006",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-31-proposições-simples-e-compostas",
+      "topic_id": null,
+      "order": 6,
+      "title": "Proposições Compostas",
+      "content": "Uma proposição composta é formada pela combinação de duas ou mais proposições simples (ou outras proposições compostas) ligadas por conectivos lógicos. A veracidade de uma proposição composta depende dos valores lógicos das proposições simples que a compõem e do conectivo utilizado. <br>Os principais conectivos lógicos são: <br>• **e** (conjunção) <br>• **ou** (disjunção inclusiva) <br>• **ou... ou...** (disjunção exclusiva) <br>• **se... então...** (condicional) <br>• **se e somente se** (bicondicional) <br>• **não** (negação, que atua sobre uma única proposição) <br>Exemplos: <br>• 'O céu está nublado **e** vai chover.' <br>• 'Maria estuda para concursos **ou** trabalha em tempo integral.' <br>• 'Se João vai ao mercado, **então** ele compra frutas.'",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-31-proposições-simples-e-compostas_blc_007",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-31-proposições-simples-e-compostas",
+      "topic_id": null,
+      "order": 7,
+      "title": "Padrão de Cobrança da Banca CEBRASPE",
+      "content": "A banca CEBRASPE (antigo CESPE) tem um padrão de cobrança muito particular e que exige atenção redobrada dos candidatos. <br>1. **Identificação de Proposições:** É muito comum que as questões peçam para o candidato julgar se uma determinada sentença é ou não uma proposição lógica. <br>2. **Distinção Simples vs. Composta:** A CEBRASPE frequentemente testa a capacidade de diferenciar proposições simples de compostas, muitas vezes com 'pegadinhas' que exploram a ambiguidade da linguagem natural. <br>3. **Armadilhas com Conectivos Implícitos ou Não Lógicos:** <br>   • **Vírgula como 'e' ou 'se...então':** A banca pode usar vírgulas para sugerir conectivos lógicos, especialmente a conjunção ('e') ou a condicional ('se...então'), sem que eles estejam explicitamente escritos. <br>   • **'E' ou 'Ou' como parte de uma lista:** O conectivo 'e' ou 'ou' pode aparecer ligando termos de uma mesma oração, e não duas proposições distintas, o que faria a sentença ser simples. Ex: 'João e Maria são amigos.' (Proposição simples, pois 'e' liga sujeitos, não proposições). <br>   • **Expressões como 'além disso', 'tanto...quanto':** Podem não ser consideradas conectivos lógicos pela banca, mantendo a proposição como simples se houver apenas uma ideia principal. <br>4. **Número de Verbos:** Embora uma proposição simples geralmente tenha um único verbo e uma composta tenha múltiplos verbos (um para cada proposição simples conectada), a CEBRASPE pode apresentar sentenças com múltiplos verbos que, por sua estrutura gramatical, ainda representam uma única ideia lógica, classificando-as como simples. O foco deve ser na **ideia única** ou na **conexão de ideias distintas**. <br>5. **Sentenças Abertas:** A identificação de sentenças abertas é um ponto recorrente, especialmente aquelas com pronomes indefinidos ('ele', 'ela', 'eles') ou variáveis ('x', 'y'). <br>6. **Profundidade:** A cobrança tende a ser conceitual e interpretativa, exigindo do candidato a aplicação rigorosa das definições da lógica formal, desconsiderando o senso comum ou a interpretação gramatical pura em favor da estrutura lógica.",
+      "content_type": "teoria"
+    }
+  ],
+  "topicos": [
+    {
+      "external_topic_code": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-31-proposições-simples-e-compostas_top_001",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-31-proposições-simples-e-compostas",
+      "parent_topic_id": null,
+      "topic_number": "3",
+      "title": "Lógica Sentencial (ou Proposicional)",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 1
+    },
+    {
+      "external_topic_code": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-31-proposições-simples-e-compostas_top_002",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-31-proposições-simples-e-compostas",
+      "parent_topic_id": null,
+      "topic_number": "3.1",
+      "title": "Proposições Simples e Compostas",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 2
+    },
+    {
+      "external_topic_code": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-31-proposições-simples-e-compostas_top_003",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-31-proposições-simples-e-compostas",
+      "parent_topic_id": null,
+      "topic_number": "3.1.1",
+      "title": "Conceito de Proposição Lógica",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 3
+    },
+    {
+      "external_topic_code": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-31-proposições-simples-e-compostas_top_004",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-31-proposições-simples-e-compostas",
+      "parent_topic_id": null,
+      "topic_number": "3.1.2",
+      "title": "Características e Princípios das Proposições",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 4
+    },
+    {
+      "external_topic_code": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-31-proposições-simples-e-compostas_top_005",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-31-proposições-simples-e-compostas",
+      "parent_topic_id": null,
+      "topic_number": "3.1.3",
+      "title": "Sentenças que NÃO são Proposições",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 5
+    },
+    {
+      "external_topic_code": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-31-proposições-simples-e-compostas_top_006",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-31-proposições-simples-e-compostas",
+      "parent_topic_id": null,
+      "topic_number": "3.1.4",
+      "title": "Proposições Simples (Atômicas)",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 6
+    },
+    {
+      "external_topic_code": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-31-proposições-simples-e-compostas_top_007",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-31-proposições-simples-e-compostas",
+      "parent_topic_id": null,
+      "topic_number": "3.1.5",
+      "title": "Proposições Compostas",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 7
+    },
+    {
+      "external_topic_code": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-31-proposições-simples-e-compostas_top_008",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-31-proposições-simples-e-compostas",
+      "parent_topic_id": null,
+      "topic_number": "3.1.6",
+      "title": "Padrão de Cobrança CEBRASPE e Pegadinhas",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 8
+    }
+  ],
+  "topico_componentes": [
+    {
+      "component_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-31-proposições-simples-e-compostas_cmp_001",
+      "topic_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-31-proposições-simples-e-compostas_top_003",
+      "component_type": "definicao",
+      "content": "Uma proposição é uma sentença declarativa que pode ser classificada como verdadeira ou falsa, mas nunca ambas ao mesmo tempo.",
+      "order": 1
+    },
+    {
+      "component_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-31-proposições-simples-e-compostas_cmp_002",
+      "topic_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-31-proposições-simples-e-compostas_top_004",
+      "component_type": "principio",
+      "content": "Princípio da Não Contradição: Uma proposição não pode ser verdadeira e falsa simultaneamente.",
+      "order": 2
+    },
+    {
+      "component_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-31-proposições-simples-e-compostas_cmp_003",
+      "topic_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-31-proposições-simples-e-compostas_top_004",
+      "component_type": "principio",
+      "content": "Princípio do Terceiro Excluído: Uma proposição é verdadeira ou é falsa, não havendo uma terceira opção.",
+      "order": 3
+    },
+    {
+      "component_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-31-proposições-simples-e-compostas_cmp_004",
+      "topic_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-31-proposições-simples-e-compostas_top_005",
+      "component_type": "exemplo_negativo",
+      "content": "Sentenças interrogativas (Ex: 'Qual é o seu nome?').",
+      "order": 4
+    },
+    {
+      "component_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-31-proposições-simples-e-compostas_cmp_005",
+      "topic_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-31-proposições-simples-e-compostas_top_005",
+      "component_type": "exemplo_negativo",
+      "content": "Sentenças imperativas (Ex: 'Feche a porta!').",
+      "order": 5
+    },
+    {
+      "component_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-31-proposições-simples-e-compostas_cmp_006",
+      "topic_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-31-proposições-simples-e-compostas_top_005",
+      "component_type": "exemplo_negativo",
+      "content": "Sentenças exclamativas (Ex: 'Que maravilha!').",
+      "order": 6
+    },
+    {
+      "component_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-31-proposições-simples-e-compostas_cmp_007",
+      "topic_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-31-proposições-simples-e-compostas_top_005",
+      "component_type": "exemplo_negativo",
+      "content": "Sentenças abertas (Ex: 'Ele é alto.' ou 'x > 5.').",
+      "order": 7
+    },
+    {
+      "component_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-31-proposições-simples-e-compostas_cmp_008",
+      "topic_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-31-proposições-simples-e-compostas_top_006",
+      "component_type": "definicao",
+      "content": "Proposição simples é aquela que expressa uma única ideia e não contém conectivos lógicos.",
+      "order": 8
+    },
+    {
+      "component_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-31-proposições-simples-e-compostas_cmp_009",
+      "topic_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-31-proposições-simples-e-compostas_top_006",
+      "component_type": "exemplo",
+      "content": "'O sol é uma estrela.' (V)",
+      "order": 9
+    },
+    {
+      "component_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-31-proposições-simples-e-compostas_cmp_010",
+      "topic_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-31-proposições-simples-e-compostas_top_007",
+      "component_type": "definicao",
+      "content": "Proposição composta é formada por duas ou mais proposições simples conectadas por um ou mais conectivos lógicos.",
+      "order": 10
+    },
+    {
+      "component_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-31-proposições-simples-e-compostas_cmp_011",
+      "topic_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-31-proposições-simples-e-compostas_top_007",
+      "component_type": "exemplo",
+      "content": "'Chove e faz sol.' (Conjunção)",
+      "order": 11
+    },
+    {
+      "component_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-31-proposições-simples-e-compostas_cmp_012",
+      "topic_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-31-proposições-simples-e-compostas_top_007",
+      "component_type": "exemplo",
+      "content": "'Ou estudo, ou trabalho.' (Disjunção exclusiva)",
+      "order": 12
+    },
+    {
+      "component_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-31-proposições-simples-e-compostas_cmp_013",
+      "topic_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-31-proposições-simples-e-compostas_top_008",
+      "component_type": "observacao_banca",
+      "content": "A CEBRASPE pode considerar uma sentença com múltiplos verbos como proposição simples se os verbos se referirem a uma única ideia ou se os 'conectivos' forem gramaticais e não lógicos.",
+      "order": 13
+    },
+    {
+      "component_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-31-proposições-simples-e-compostas_cmp_014",
+      "topic_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-31-proposições-simples-e-compostas_top_008",
+      "component_type": "observacao_banca",
+      "content": "Fique atento a vírgulas que podem substituir conectivos como 'e' ou 'se...então'.",
+      "order": 14
+    }
+  ],
+  "pegadinhas": [
+    {
+      "trap_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-31-proposições-simples-e-compostas_peg_001",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-31-proposições-simples-e-compostas",
+      "topic_id": null,
+      "title": "Conectivos Implícitos (Vírgula)",
+      "description": "A CEBRASPE frequentemente usa vírgulas para sugerir conectivos lógicos ('e', 'se...então') sem explicitá-los. O candidato deve interpretar o sentido lógico. Ex: 'Estudo, passo no concurso.' pode ser 'Se estudo, então passo no concurso.'",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 1
+    },
+    {
+      "trap_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-31-proposições-simples-e-compostas_peg_002",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-31-proposições-simples-e-compostas",
+      "topic_id": null,
+      "title": "'E' ou 'Ou' em Listas",
+      "description": "O conectivo 'e' ou 'ou' pode ligar termos de uma mesma oração (Ex: 'João e Maria são amigos.'), não conectando proposições distintas. Nesses casos, a sentença é simples, não composta.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 2
+    },
+    {
+      "trap_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-31-proposições-simples-e-compostas_peg_003",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-31-proposições-simples-e-compostas",
+      "topic_id": null,
+      "title": "Expressões Não Conectivas",
+      "description": "Termos como 'além disso', 'tanto...quanto', 'bem como' podem parecer conectivos, mas a CEBRASPE pode considerá-los apenas elementos de ligação gramatical, mantendo a proposição como simples se houver uma única ideia principal.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 3
+    },
+    {
+      "trap_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-31-proposições-simples-e-compostas_peg_004",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-31-proposições-simples-e-compostas",
+      "topic_id": null,
+      "title": "Número de Verbos vs. Ideia Lógica",
+      "description": "Uma sentença com múltiplos verbos pode ser uma proposição simples se expressar uma única ideia lógica. O critério não é o número de verbos, mas a decomposição em proposições mais simples. Ex: 'O professor de Raciocínio Lógico ensina e corrige provas.' (Pode ser simples se 'ensinar e corrigir provas' for uma única atribuição do professor).",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 4
+    },
+    {
+      "trap_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-31-proposições-simples-e-compostas_peg_005",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-31-proposições-simples-e-compostas",
+      "topic_id": null,
+      "title": "Sentenças Abertas com Pronomes",
+      "description": "Sentenças com pronomes indefinidos ('ele', 'ela', 'eles', 'alguém') sem referência clara são sentenças abertas e não proposições. A CEBRASPE adora usar isso. Ex: 'Ele foi aprovado no concurso.' (Quem é 'ele'?).",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 5
+    }
+  ],
+  "pontos_memorizacao": [
+    {
+      "memory_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-31-proposições-simples-e-compostas_mem_001",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-31-proposições-simples-e-compostas",
+      "topic_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-31-proposições-simples-e-compostas_top_003",
+      "title": null,
+      "content": "Proposição = Frase Declarativa + Sentido Completo + Valor Lógico Único (V ou F).",
+      "order": 1
+    },
+    {
+      "memory_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-31-proposições-simples-e-compostas_mem_002",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-31-proposições-simples-e-compostas",
+      "topic_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-31-proposições-simples-e-compostas_top_005",
+      "title": null,
+      "content": "NÃO são proposições: Interrogativas, Exclamativas, Imperativas, Optativas, Sentenças Abertas, Paradoxos, Vagas/Subjetivas.",
+      "order": 2
+    },
+    {
+      "memory_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-31-proposições-simples-e-compostas_mem_003",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-31-proposições-simples-e-compostas",
+      "topic_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-31-proposições-simples-e-compostas_top_006",
+      "title": null,
+      "content": "Proposição Simples: Uma única ideia, SEM conectivos lógicos.",
+      "order": 3
+    },
+    {
+      "memory_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-31-proposições-simples-e-compostas_mem_004",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-31-proposições-simples-e-compostas",
+      "topic_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-31-proposições-simples-e-compostas_top_007",
+      "title": null,
+      "content": "Proposição Composta: Duas ou mais ideias, CONECTADAS por conectivos lógicos (e, ou, se...então, se e somente se, não).",
+      "order": 4
+    },
+    {
+      "memory_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-31-proposições-simples-e-compostas_mem_005",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-31-proposições-simples-e-compostas",
+      "topic_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-31-proposições-simples-e-compostas_top_008",
+      "title": null,
+      "content": "CEBRASPE: Cuidado com conectivos implícitos (vírgula), 'e'/'ou' em listas e o número de verbos. Foque na ideia lógica e na possibilidade de decomposição.",
+      "order": 5
+    }
+  ],
+  "quadro_sinotico_itens": [
+    {
+      "summary_item_id": "sum_001",
+      "title": null,
+      "content": "",
+      "order": 1
+    },
+    {
+      "summary_item_id": "sum_002",
+      "title": null,
+      "content": "",
+      "order": 2
+    },
+    {
+      "summary_item_id": "sum_003",
+      "title": null,
+      "content": "",
+      "order": 3
+    },
+    {
+      "summary_item_id": "sum_004",
+      "title": null,
+      "content": "",
+      "order": 4
+    },
+    {
+      "summary_item_id": "sum_005",
+      "title": null,
+      "content": "",
+      "order": 5
+    },
+    {
+      "summary_item_id": "sum_006",
+      "title": null,
+      "content": "",
+      "order": 6
+    }
+  ],
+  "questoes": [
+    {
+      "question_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-31-proposições-simples-e-compostas_qst_001",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-31-proposições-simples-e-compostas",
+      "topic_id": null,
+      "board": "CEBRASPE",
+      "year": 2024,
+      "organization": "INPI",
+      "role": "Tecnologista",
+      "statement": "A frase dita por Carla é uma proposição simples.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": null,
+      "external_reference": "Q3177976 - Qconcursos",
+      "commentary": "A questão aborda a identificação de uma proposição simples. Uma proposição simples é uma afirmação direta que expressa uma única ideia e não contém conectivos lógicos. A frase 'A frase dita por Carla' é uma sentença declarativa que, se assumirmos que 'a frase dita por Carla' é um objeto de análise, pode ser classificada como simples ou composta. O item, ao afirmar que 'A frase dita por Carla é uma proposição simples', está fazendo uma declaração sobre a natureza da frase em si, que pode ser verdadeira ou falsa. A CEBRASPE frequentemente testa a capacidade de identificar se uma sentença é uma proposição e, em seguida, classificá-la. Neste caso, a frase 'A frase dita por Carla é uma proposição simples' é, ela própria, uma proposição declarativa que pode ser avaliada como Certa ou Errada. O gabarito 'Certo' indica que a banca considera a afirmação sobre a frase de Carla como uma proposição simples.",
+      "commentary_meta": {
+        "comment_ids": [
+          "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-31-proposições-simples-e-compostas_com_001"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-31-proposições-simples-e-compostas_qst_002",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-31-proposições-simples-e-compostas",
+      "topic_id": null,
+      "board": "CEBRASPE",
+      "year": 2021,
+      "organization": "BANESE",
+      "role": "Tec Ban III",
+      "statement": "A frase “A capacidade hoteleira e o número de empregos cresceram 10% no ano de 2003 no Nordeste brasileiro, e isso foi consequência do total de 90 milhões de reais investidos na área de turismo pelo governo federal e pelos governos estaduais dessa região no ano de 2002” pode ser expressa corretamente pela proposição lógica (P∧Q)⇒(R∧S).",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": null,
+      "external_reference": "Questão 3 de 87 - YouTube @proftiagogomes",
+      "commentary": "A questão exige a interpretação de uma longa sentença e sua representação simbólica. A presença do conectivo 'e' (conjunção) e da expressão 'e isso foi consequência de' (que pode ser interpretada como uma condicional implícita ou uma continuação da conjunção de ideias) indica que a sentença é composta. A CEBRASPE, neste caso, aceita a decomposição em proposições simples (P, Q, R, S) e a conexão por conjunção (∧) e condicional (⇒), formando uma proposição composta complexa. A interpretação do 'e isso foi consequência' como uma implicação (⇒) é um ponto chave para a resolução.",
+      "commentary_meta": {
+        "comment_ids": [
+          "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-31-proposições-simples-e-compostas_com_002"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-31-proposições-simples-e-compostas_qst_003",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-31-proposições-simples-e-compostas",
+      "topic_id": null,
+      "board": "CEBRASPE",
+      "year": 2025,
+      "organization": "PF",
+      "role": "Agente de Polícia Federal",
+      "statement": "A sentença 'As mudanças nas correntes marítimas são consequências das fases da lua e da rotação da Terra.' é uma proposição simples.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": null,
+      "external_reference": "Proposição Simples X Composta (CEBRASPE) PF 2025 - YouTube @DyegoNegromonte",
+      "commentary": "Esta questão é um exemplo clássico das pegadinhas da CEBRASPE. A sentença 'As mudanças nas correntes marítimas são consequências das fases da lua e da rotação da Terra.' contém o conectivo 'e'. Embora 'e' esteja ligando 'fases da lua' e 'rotação da Terra', que são elementos de uma mesma ideia (causas das mudanças), a banca CEBRASPE, em muitas situações, considera a presença de um conectivo lógico explícito como indicador de proposição composta, especialmente quando há a possibilidade de decompor a ideia em duas ou mais proposições simples. No entanto, a análise mais aprofundada do padrão CEBRASPE indica que, se o 'e' liga elementos de um mesmo predicado ou complemento, sem que haja duas orações completas e independentes, a proposição pode ser considerada simples. Neste caso, a banca considerou 'Errado', indicando que a proposição é composta, pois 'fases da lua' e 'rotação da Terra' são tratadas como causas distintas conectadas pelo 'e', formando uma ideia complexa que pode ser decomposta.",
+      "commentary_meta": {
+        "comment_ids": [
+          "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-31-proposições-simples-e-compostas_com_003"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-31-proposições-simples-e-compostas_qst_004",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-31-proposições-simples-e-compostas",
+      "topic_id": null,
+      "board": "CEBRASPE",
+      "year": 2025,
+      "organization": "PF",
+      "role": "Agente de Polícia Federal",
+      "statement": "A sentença 'Todas as metodologias de ensino que promovem o crescimento do indivíduo tanto academicamente quanto em sua cidadania devem ser estudadas' é uma proposição lógica composta.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": null,
+      "external_reference": "Proposição Simples X Composta (CEBRASPE) PF 2025 - YouTube @DyegoNegromonte",
+      "commentary": "Outro exemplo de pegadinha da CEBRASPE. A sentença 'Todas as metodologias de ensino que promovem o crescimento do indivíduo tanto academicamente quanto em sua cidadania devem ser estudadas' utiliza a expressão 'tanto...quanto'. Embora pareça um conectivo, a CEBRASPE frequentemente não o considera um conectivo lógico que une proposições distintas, mas sim um elemento de ligação gramatical dentro de uma única ideia. A frase expressa uma única afirmação sobre as metodologias de ensino. Portanto, ela é uma proposição simples. O gabarito 'Errado' para a afirmação de que é composta confirma essa interpretação da banca.",
+      "commentary_meta": {
+        "comment_ids": [
+          "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-31-proposições-simples-e-compostas_com_004"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-31-proposições-simples-e-compostas_qst_005",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-31-proposições-simples-e-compostas",
+      "topic_id": null,
+      "board": "CEBRASPE",
+      "year": 2023,
+      "organization": "TC-DF",
+      "role": "Auditor de Controle Externo",
+      "statement": "A proposição 'Se José estudou somente até o ensino fundamental, então José possui características que revelam o seu distanciamento dos valores republicanos' será sempre verdadeira, considerando que a proposição 'José estudou somente até o ensino fundamental' seja falsa.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": null,
+      "external_reference": "(CESPE/CEBRASPE) Proposições Simples e Compostas - Tabela Verdade Lógica simples e clara !!! - YouTube @erickmarquesoficial",
+      "commentary": "A questão envolve o valor lógico de uma proposição condicional (Se P, então Q). A regra da condicional estabelece que ela só é falsa quando o antecedente (P) é verdadeiro e o consequente (Q) é falso. Em todos os outros casos, a condicional é verdadeira. Se a proposição 'José estudou somente até o ensino fundamental' (antecedente) é falsa, independentemente do valor lógico do consequente, a condicional 'Se José estudou somente até o ensino fundamental, então José possui características que revelam o seu distanciamento dos valores republicanos' será sempre verdadeira. Este é um conceito fundamental da tabela-verdade da condicional.",
+      "commentary_meta": {
+        "comment_ids": [
+          "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-31-proposições-simples-e-compostas_com_005"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-31-proposições-simples-e-compostas_qst_006",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-31-proposições-simples-e-compostas",
+      "topic_id": null,
+      "board": "CEBRASPE",
+      "year": 2022,
+      "organization": "Diversos",
+      "role": "Diversos",
+      "statement": "A frase 'Excelente local de trabalho!' é uma proposição lógica.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": null,
+      "external_reference": "GENERAL REVIEW - PROPOSITIONAL LOGIC (CEBRASPE) - YouTube @FAZQUESTAOCONCURSOSPUBLICOS",
+      "commentary": "A frase 'Excelente local de trabalho!' é uma sentença exclamativa. Sentenças exclamativas não expressam uma afirmação que possa ser julgada como verdadeira ou falsa, mas sim uma emoção ou exclamação. Portanto, não são proposições lógicas. A CEBRASPE cobra frequentemente a identificação de sentenças que não são proposições.",
+      "commentary_meta": {
+        "comment_ids": [
+          "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-31-proposições-simples-e-compostas_com_006"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-31-proposições-simples-e-compostas_qst_007",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-31-proposições-simples-e-compostas",
+      "topic_id": null,
+      "board": "CEBRASPE",
+      "year": 2022,
+      "organization": "Diversos",
+      "role": "Diversos",
+      "statement": "A sentença 'Se não consigo vencê-lo, então me juntarei a ele' contém duas proposições simples.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": null,
+      "external_reference": "GENERAL REVIEW - PROPOSITIONAL LOGIC (CEBRASPE) - YouTube @FAZQUESTAOCONCURSOSPUBLICOS",
+      "commentary": "A sentença 'Se não consigo vencê-lo, então me juntarei a ele' é uma proposição condicional, claramente identificada pelo conectivo 'se...então'. Uma proposição condicional é formada por duas proposições simples: 'não consigo vencê-lo' (antecedente) e 'me juntarei a ele' (consequente). Ambas são proposições simples que podem ser avaliadas como verdadeiras ou falsas. Portanto, a sentença contém, de fato, duas proposições simples conectadas.",
+      "commentary_meta": {
+        "comment_ids": [
+          "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-31-proposições-simples-e-compostas_com_007"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-31-proposições-simples-e-compostas_qst_008",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-31-proposições-simples-e-compostas",
+      "topic_id": null,
+      "board": "CEBRASPE",
+      "year": 2018,
+      "organization": "SEFAZ-RS",
+      "role": "Auditor Fiscal",
+      "statement": "A proposição 'A beleza esplendorosa da lua inspira todos os apaixonados como o mar cristalino inspira os mais belos sentimentos nos navegadores.' pode ser corretamente expressa por P → Q, onde P e Q são proposições lógicas simples.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": null,
+      "external_reference": "Raciocínio Lógico para concurso: 9 questões difíceis do Cebraspe resolvidas e comentadas! - Estratégia Concursos",
+      "commentary": "A questão apresenta uma sentença complexa e pede sua representação simbólica. A expressão 'como' neste contexto tem valor de comparação e pode ser interpretada como uma condicional implícita ou uma relação de causa e efeito que a CEBRASPE pode traduzir como 'se...então'. A frase 'A beleza esplendorosa da lua inspira todos os apaixonados' pode ser P, e 'o mar cristalino inspira os mais belos sentimentos nos navegadores' pode ser Q. A relação entre elas, 'como' indicando uma analogia ou condição, é frequentemente traduzida pela banca como uma condicional (P → Q). O gabarito 'Certo' confirma essa interpretação, destacando a importância de entender o sentido lógico subjacente à linguagem natural.",
+      "commentary_meta": {
+        "comment_ids": [
+          "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-31-proposições-simples-e-compostas_com_008"
+        ],
+        "count": 1
+      }
+    }
+  ],
+  "comentarios_questoes": [
+    {
+      "comment_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-31-proposições-simples-e-compostas_com_001",
+      "question_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-31-proposições-simples-e-compostas_qst_001",
+      "content": "A questão aborda a identificação de uma proposição simples. Uma proposição simples é uma afirmação direta que expressa uma única ideia e não contém conectivos lógicos. A frase 'A frase dita por Carla' é uma sentença declarativa que, se assumirmos que 'a frase dita por Carla' é um objeto de análise, pode ser classificada como simples ou composta. O item, ao afirmar que 'A frase dita por Carla é uma proposição simples', está fazendo uma declaração sobre a natureza da frase em si, que pode ser verdadeira ou falsa. A CEBRASPE frequentemente testa a capacidade de identificar se uma sentença é uma proposição e, em seguida, classificá-la. Neste caso, a frase 'A frase dita por Carla é uma proposição simples' é, ela própria, uma proposição declarativa que pode ser avaliada como Certa ou Errada. O gabarito 'Certo' indica que a banca considera a afirmação sobre a frase de Carla como uma proposição simples.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-31-proposições-simples-e-compostas_com_002",
+      "question_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-31-proposições-simples-e-compostas_qst_002",
+      "content": "A questão exige a interpretação de uma longa sentença e sua representação simbólica. A presença do conectivo 'e' (conjunção) e da expressão 'e isso foi consequência de' (que pode ser interpretada como uma condicional implícita ou uma continuação da conjunção de ideias) indica que a sentença é composta. A CEBRASPE, neste caso, aceita a decomposição em proposições simples (P, Q, R, S) e a conexão por conjunção (∧) e condicional (⇒), formando uma proposição composta complexa. A interpretação do 'e isso foi consequência' como uma implicação (⇒) é um ponto chave para a resolução.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-31-proposições-simples-e-compostas_com_003",
+      "question_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-31-proposições-simples-e-compostas_qst_003",
+      "content": "Esta questão é um exemplo clássico das pegadinhas da CEBRASPE. A sentença 'As mudanças nas correntes marítimas são consequências das fases da lua e da rotação da Terra.' contém o conectivo 'e'. Embora 'e' esteja ligando 'fases da lua' e 'rotação da Terra', que são elementos de uma mesma ideia (causas das mudanças), a banca CEBRASPE, em muitas situações, considera a presença de um conectivo lógico explícito como indicador de proposição composta, especialmente quando há a possibilidade de decompor a ideia em duas ou mais proposições simples. No entanto, a análise mais aprofundada do padrão CEBRASPE indica que, se o 'e' liga elementos de um mesmo predicado ou complemento, sem que haja duas orações completas e independentes, a proposição pode ser considerada simples. Neste caso, a banca considerou 'Errado', indicando que a proposição é composta, pois 'fases da lua' e 'rotação da Terra' são tratadas como causas distintas conectadas pelo 'e', formando uma ideia complexa que pode ser decomposta.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-31-proposições-simples-e-compostas_com_004",
+      "question_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-31-proposições-simples-e-compostas_qst_004",
+      "content": "Outro exemplo de pegadinha da CEBRASPE. A sentença 'Todas as metodologias de ensino que promovem o crescimento do indivíduo tanto academicamente quanto em sua cidadania devem ser estudadas' utiliza a expressão 'tanto...quanto'. Embora pareça um conectivo, a CEBRASPE frequentemente não o considera um conectivo lógico que une proposições distintas, mas sim um elemento de ligação gramatical dentro de uma única ideia. A frase expressa uma única afirmação sobre as metodologias de ensino. Portanto, ela é uma proposição simples. O gabarito 'Errado' para a afirmação de que é composta confirma essa interpretação da banca.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-31-proposições-simples-e-compostas_com_005",
+      "question_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-31-proposições-simples-e-compostas_qst_005",
+      "content": "A questão envolve o valor lógico de uma proposição condicional (Se P, então Q). A regra da condicional estabelece que ela só é falsa quando o antecedente (P) é verdadeiro e o consequente (Q) é falso. Em todos os outros casos, a condicional é verdadeira. Se a proposição 'José estudou somente até o ensino fundamental' (antecedente) é falsa, independentemente do valor lógico do consequente, a condicional 'Se José estudou somente até o ensino fundamental, então José possui características que revelam o seu distanciamento dos valores republicanos' será sempre verdadeira. Este é um conceito fundamental da tabela-verdade da condicional.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-31-proposições-simples-e-compostas_com_006",
+      "question_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-31-proposições-simples-e-compostas_qst_006",
+      "content": "A frase 'Excelente local de trabalho!' é uma sentença exclamativa. Sentenças exclamativas não expressam uma afirmação que possa ser julgada como verdadeira ou falsa, mas sim uma emoção ou exclamação. Portanto, não são proposições lógicas. A CEBRASPE cobra frequentemente a identificação de sentenças que não são proposições.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-31-proposições-simples-e-compostas_com_007",
+      "question_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-31-proposições-simples-e-compostas_qst_007",
+      "content": "A sentença 'Se não consigo vencê-lo, então me juntarei a ele' é uma proposição condicional, claramente identificada pelo conectivo 'se...então'. Uma proposição condicional é formada por duas proposições simples: 'não consigo vencê-lo' (antecedente) e 'me juntarei a ele' (consequente). Ambas são proposições simples que podem ser avaliadas como verdadeiras ou falsas. Portanto, a sentença contém, de fato, duas proposições simples conectadas.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-31-proposições-simples-e-compostas_com_008",
+      "question_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-31-proposições-simples-e-compostas_qst_008",
+      "content": "A questão apresenta uma sentença complexa e pede sua representação simbólica. A expressão 'como' neste contexto tem valor de comparação e pode ser interpretada como uma condicional implícita ou uma relação de causa e efeito que a CEBRASPE pode traduzir como 'se...então'. A frase 'A beleza esplendorosa da lua inspira todos os apaixonados' pode ser P, e 'o mar cristalino inspira os mais belos sentimentos nos navegadores' pode ser Q. A relação entre elas, 'como' indicando uma analogia ou condição, é frequentemente traduzida pela banca como uma condicional (P → Q). O gabarito 'Certo' confirma essa interpretação, destacando a importância de entender o sentido lógico subjacente à linguagem natural.",
+      "explanation_alternatives": ""
+    }
+  ],
+  "checklist_revisao": [
+    {
+      "checklist_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-31-proposições-simples-e-compostas_chk_001",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-31-proposições-simples-e-compostas",
+      "topic_id": null,
+      "item_text": "Compreender a definição exata de proposição lógica.",
+      "completed": false,
+      "order": 1
+    },
+    {
+      "checklist_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-31-proposições-simples-e-compostas_chk_002",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-31-proposições-simples-e-compostas",
+      "topic_id": null,
+      "item_text": "Saber identificar sentenças que NÃO são proposições (interrogativas, exclamativas, imperativas, abertas, etc.).",
+      "completed": false,
+      "order": 2
+    },
+    {
+      "checklist_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-31-proposições-simples-e-compostas_chk_003",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-31-proposições-simples-e-compostas",
+      "topic_id": null,
+      "item_text": "Diferenciar claramente proposições simples de proposições compostas.",
+      "completed": false,
+      "order": 3
+    },
+    {
+      "checklist_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-31-proposições-simples-e-compostas_chk_004",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-31-proposições-simples-e-compostas",
+      "topic_id": null,
+      "item_text": "Reconhecer os principais conectivos lógicos e sua função.",
+      "completed": false,
+      "order": 4
+    },
+    {
+      "checklist_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-31-proposições-simples-e-compostas_chk_005",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-31-proposições-simples-e-compostas",
+      "topic_id": null,
+      "item_text": "Estar atento às pegadinhas da CEBRASPE: conectivos implícitos (vírgula), 'e'/'ou' em listas, expressões não conectivas e o critério do número de verbos.",
+      "completed": false,
+      "order": 5
+    },
+    {
+      "checklist_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-31-proposições-simples-e-compostas_chk_006",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-31-proposições-simples-e-compostas",
+      "topic_id": null,
+      "item_text": "Praticar com questões anteriores da CEBRASPE para internalizar o padrão de cobrança.",
+      "completed": false,
+      "order": 6
+    }
+  ],
+  "referencias": [
+    {
+      "reference_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-31-proposições-simples-e-compostas_ref_001",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-31-proposições-simples-e-compostas",
+      "reference_type": "Artigo Online",
+      "author_name": "Central Exatas",
+      "title": "Raciocínio Lógico: Proposições simples e compostas",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHSSoS2SrmaHs2GuadyC-dVUkB7Ab_KQx-HwpkLNGEsknjIRyR2mStwtFKCTFiF1eXTqK-ZXsaP_szDZLmDIChQhkybfPGFaHUQ2A4xYlsGkOZ4aDaYNkxpt5lM7ruTc9EL5hCafYtZywxDj5g13OgyhIW10UdYYBFkDQTtMHsT",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-31-proposições-simples-e-compostas_ref_002",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-31-proposições-simples-e-compostas",
+      "reference_type": "Artigo Online",
+      "author_name": "Desconhecido",
+      "title": "Proposições simples x proposições compostas: entenda as diferenças com exemplos",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGybSSxRb36xyaAy8NhnRQTeoRMSdhRIfDt8fVP45noLf71XoC5--4Yte63X7mnKmBhnBdK9hRo3mxKjbavQjE2RTsYcsNZQA2vEVuDprnkOQjylefBMMQNRwxCYf5W5ycE0YWDbYGK8LZPI1b9gZG6ZZ5xADOtrOhLcduKE9emogz6xaW5rlaL2no4hlX76fQ=",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-31-proposições-simples-e-compostas_ref_003",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-31-proposições-simples-e-compostas",
+      "reference_type": "Artigo Online",
+      "author_name": "Descomplica Exercícios",
+      "title": "Lógica e Raciocínio - Sentenças Abertas e Quantificadores",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEMG48ChqHgheNm6bEYOKdXtbgzvtkNPyOs2Y8l8YO0Goz8ZzdCfBLy-OVbSy8qYVChon8WuXuVWuZWJ7CSBnRm_JBuXOtZGaWr2Hn9jTL9mBSuclX5VBj4FZR75ILs73k1B-T8eQMEj9e5eA8Myrz5Z2m4LjDAwoPcMLYcepEJ646RIzvHxEkFZ0bm8OyxGYkr0Q9cFG0bPTjT3XffUJxPpRD6Y_VDyrmu00Iv3DrthD-hZZKmeWdaFQ==",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-31-proposições-simples-e-compostas_ref_004",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-31-proposições-simples-e-compostas",
+      "reference_type": "Artigo Online",
+      "author_name": "William Godoy (Filosofia na Escola)",
+      "title": "Proposições simples e compostas",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFhTRLN3tBDt4uw0fKUOd_ZAC5By4clw7SUwlSz2n2w5wn3LdKqrdSLeAX-XfBH8fHpi6FYdP1Pb-2xwZGGOAqeQEuk_wRcErYsDTU2VYpiq8XClPDgSONeYzgnVGjkkDNrwkm-Nq4kX-oHiVsXNW6fBDVPOugfektHKdbzUotgSQ==",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-31-proposições-simples-e-compostas_ref_005",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-31-proposições-simples-e-compostas",
+      "reference_type": "Artigo Online",
+      "author_name": "Meta-Universo Matemático",
+      "title": "O que é uma sentença aberta?",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGEBCAin_M0zUYBx0lOuEAsi9CYpB9-GagZkPs1-5CPbUethSQWEAkJGAiEaO1SJutOFB4IJZULZCpYQPL7nQlWN2-8Vkslg_Qujf33a-C2_EOFSr34Jx-09ZxrytFLtLrizAXYqwTEUU_vp28_tHqFCw==",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-31-proposições-simples-e-compostas_ref_006",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-31-proposições-simples-e-compostas",
+      "reference_type": "Documento Online",
+      "author_name": "Prefeitura de Lagoa Dourada",
+      "title": "Raciocínio Lógico 1 - Proposição é uma frase declarativa...",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGqk0X41q04n_deENHqA18nhqT1u6dTMEyLOxp8gEYtaqaMBucXKcHjbN_boeYE592judLhL6o9twKfpzipuXOI3jZYdp2H9-GciW69002WyR6w-qk2D7UIbv1z3LAEeVNaQvOdkqshENeCloclGkvXnyosULRSMztRCuHcbqr9OeGEq9_QCfuSfgp1vMHXF_XqW6mrIuO1nibo4uJ2d3iJ",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-31-proposições-simples-e-compostas_ref_007",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-31-proposições-simples-e-compostas",
+      "reference_type": "Artigo Online",
+      "author_name": "Mundo Educação",
+      "title": "Lógica matemática: proposições, símbolos",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFkGecx3IosdJ3TRrpCEk6KdZpvcb9H2ZOBLiSxG_h08bQfXHIPS4asm1V1kYGB_V7MQ0j2HckkBfxJZPqJ5U45N_MB2_bWskeHNcm0qHAyd8E1d_-8V7yplKR-V3RbdTx2orIG73WL4eSccYB2_05O5T1IBm8D31___f4p",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-31-proposições-simples-e-compostas_ref_008",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-31-proposições-simples-e-compostas",
+      "reference_type": "Artigo Online",
+      "author_name": "CK-12 Foundation (via Flexi)",
+      "title": "O que é uma proposição lógica?",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF5UNnd9AKIIXSmsQgD05sVGAB0g3aqCaJ3_wYCFDfyeRY2ZzBoD3EluWSjIpUwE1fPw599Zjqapvtm_LT4wd3aDPwZOYnSANNIpoECgL_qmJjFexFET8K1HtI9sANFzk-0sSeA6RJRBxCzhcHIv8siViLVOYLfYUHn2LcKFq-HNZpS2DSGOPzchGXafPEmur8UTe6P_lPNewD__Q==",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-31-proposições-simples-e-compostas_ref_009",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-31-proposições-simples-e-compostas",
+      "reference_type": "Documento Online",
+      "author_name": "André Pontes (Universidade Federal do Amazonas)",
+      "title": "LISTA DE PRINCÍPIOS BÁSICOS DE LÓGICA PROPOSICIONAL",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEA-HLZFrSwP7oN7MJqLkgZHFy62-lc6krhkFTeyrYeKNE5Gtv3QdNFICfwDShHCFbLJs5tuiXED7Oe5WozdPGhBlC8mIrNNjEVaqO2Mt5nndM0Ahvk91U_IjRnKFaUobKT2X4lOowl7BDxIk5LUg4cfEJoim1rrGr3U8aCsHoCi26HQDkNna8_6a-Fgg6zPAgbOVXARvVM9p_Bjho6hA6d3Q==",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-31-proposições-simples-e-compostas_ref_010",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-31-proposições-simples-e-compostas",
+      "reference_type": "Documento Online",
+      "author_name": "Vinícius Matias",
+      "title": "Sentenças Abertas e Lógica Matemática",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFQzhC2Uyxkl0K5DY8ypocwisvdcM-oIZF4_zjaZajZq6WwJHj9CF6ioeHvdcVR_tM-M__WBos51Jdio7KwIONdCkDOmbB_oXAGa5YQTxONIIjLeV-E4z1mgts9abH44byhrGDXF3ydshvZ0e_FnQa9YKjyy-biscXP-po2gxaKYvT9X8siKASZIsFCUXfhE8k0hEigGejSOFpwPaBA5zB0Lg==",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-31-proposições-simples-e-compostas_ref_011",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-31-proposições-simples-e-compostas",
+      "reference_type": "Artigo Online",
+      "author_name": "Estratégia Concursos",
+      "title": "Proposições Lógicas - Estratégia Concursos",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFfxxhO3N6Y9JgilyIaJGXB0MDYSG1Slh4IbAPlkog66WSdfntBzo4X6gnjoU1WXYG9eXgQJT47P8_nLAnbZpdg_CH7dPpx6llq8Snbw0Le8cC-rrwcwbo7aK_aLHi_Hj7ST6zWr1S5mP3E7jFchYGZ0I_AqBR8d7qWo80=",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-31-proposições-simples-e-compostas_ref_012",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-31-proposições-simples-e-compostas",
+      "reference_type": "Artigo Online",
+      "author_name": "Gran Cursos Online",
+      "title": "Proposições lógicas para concursos",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF2cchdSRmV9od92kmjnDY_TDH1giI5dZheIhHmO8qN-6AZUIk3JLVaTF5gBz1OFTSkUpXXvlfjvnza_O-TxTqATNoB0tmfGnlPKyzLEikblh1SGWzRLf9ZacELJ8B339bOBMAMUFWMrnAs-sbTtLtLCUspSFeSeygw11pFI-CAqxQh70XA",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-31-proposições-simples-e-compostas_ref_013",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-31-proposições-simples-e-compostas",
+      "reference_type": "Artigo Online",
+      "author_name": "Wikipédia",
+      "title": "Sentença aberta – Wikipédia, a enciclopédia livre",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH8isdVaIM7AGXxDbeUeAKeVjAXiDIwZ-rkFXRA5tRHQIr0WnVg8Km-n7PwZ8JXeLzC0KlibiB7DkF4i5NXu-S98R3fxwkXXZxzoaEgkGRziL60miXuExacrESoxIK6SEthl9csZuAxE75rCqOs",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-31-proposições-simples-e-compostas_ref_014",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-31-proposições-simples-e-compostas",
+      "reference_type": "Artigo Online",
+      "author_name": "Toda Matéria",
+      "title": "Lógica Matemática - Toda Matéria",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHp89FKU9HdT4DNx-KYA4ZNplKCZUR9wMJ2-1Q6FJcykQ643_pJFKtivt1KmhD83LMDKBc4rfSsS4MEi9ufL_rDB5pQekq_7cSYT698UJfXDiWc_HApYblPiZ-bDRNAumQzkFMtp1GELfS_BGE=",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-31-proposições-simples-e-compostas_ref_015",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-31-proposições-simples-e-compostas",
+      "reference_type": "Documento Online",
+      "author_name": "Prof. Luiz Gustavo A. Martins (FACOM/UFU)",
+      "title": "Apostila de Lógica Proposicional (Fundamentos Básicos)",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEltGVCTQs2KQsnJlQLpLe3mXVTn5bLdN6ZYIA_THErpoI_s6Rg-Ccxa-f4PW7w1tBlWgG8azUnSx8odHbnCA_B24nE6QFLGAeuAzq7iMXRtDhD64JXf120oDqdc4bbPF_xxlViXyqJ_ddZBruc9wIdREf-eJ00C6lkRQQ--ZZR_g==",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-31-proposições-simples-e-compostas_ref_016",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-31-proposições-simples-e-compostas",
+      "reference_type": "Documento Online",
+      "author_name": "IME-USP",
+      "title": "Lógica Proposicional",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQExWgztw-Nilz14d1sakbR3XUAC4yP1ybXLYC_uuschIau9j8UNxCBld6PcluQLvhe8_8scVeq1HdHW2KrYwwgdAGPDp_6vcFPvW3dDxI4DpAVnN5WaIDFhjPwrNHL4XZIKIZK4k6nk_ybyrKJdUbCq_IB7",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-31-proposições-simples-e-compostas_ref_017",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-31-proposições-simples-e-compostas",
+      "reference_type": "Artigo Online",
+      "author_name": "Wikipédia",
+      "title": "Lógica proposicional – Wikipédia, a enciclopédia livre",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHzcuawJTrHHA6WrgnOQIhKOL2Hw1YuHt9Tx3CAAn5MiRhoCpQ90tuflvgYe9UYwOnvP978lHRDrwjJ9pHEKhiz5cWXhlN7Vw3Lsk4XJ-YiNDTOS0_6OfoRQK6dCCIGkZB3jBBiaRLCUg1tNNb3OMZ6g8M=",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-31-proposições-simples-e-compostas_ref_018",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-31-proposições-simples-e-compostas",
+      "reference_type": "Vídeo Online",
+      "author_name": "Professor Felippe Loureiro",
+      "title": "Proposições Simples vs. Compostas: Entenda a Polêmica da Banca CEBRASPE",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFk5y9cn4iEri9s-rJfcXmwPtwdQ6_IxzrQNz3rodY7XmUF7iwkiP5TSfwRFGsakvUV3a_jtlcJE3Fqw4DRX9tZ1_2d-4nmF_rRo5zjAT-ZckMMhqPHSkM1UPHZ0LZHi4a-eSuO1As=",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-31-proposições-simples-e-compostas_ref_019",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-31-proposições-simples-e-compostas",
+      "reference_type": "Vídeo Online",
+      "author_name": "Professor Dyego Negromonte",
+      "title": "Proposição Simples X Composta (CEBRASPE) PF 2025",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGtYfg0CpfLOt0Bt34JAR2qQm9mHXIW53LhyBU-W4qbJu1bIbgAPotQx_O6CBszQYHPEVYuVimGAnn0SDyq8xoFY6S4x-C819f6BAeIzq3FaVMJ1AdA62gK5GdZbJKon6wkbhChZDY=",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-31-proposições-simples-e-compostas_ref_020",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-31-proposições-simples-e-compostas",
+      "reference_type": "Vídeo Online",
+      "author_name": "Professor Erick Marques",
+      "title": "(CESPE/CEBRASPE) Proposições Simples e Compostas - Tabela Verdade Lógica simples e clara !!!",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGUeKrDVUlQs4bYUj1iyUV2T3DppIZHz1T2M9MIWu-ZuRcazM-l4w_d61pvqCEgPchrAaTA24NP4oWS1ppfCT7qvs2kdNqtitE_tU4Czz1h8p2f2m1yYdGurd0mjwtQrtoPPf2aJ6w=",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-31-proposições-simples-e-compostas_ref_021",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-31-proposições-simples-e-compostas",
+      "reference_type": "Vídeo Online",
+      "author_name": "FAZ QUESTÃO CONCURSOS PÚBLICOS",
+      "title": "GENERAL REVIEW - PROPOSITIONAL LOGIC (CEBRASPE)",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF-2DjjIItZWKpL1C-5j09qkGQ-B1tUccadu5R93Kz9Cjw82NVvSydlWg3FjNW48M_28-NssnlLmfkAvhbZBZXUoq7lq4Qkn9yXeG5ng9S96rv4rpWpNNmKTsxVJAgyMeU3DOOOcd4=",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-31-proposições-simples-e-compostas_ref_022",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-31-proposições-simples-e-compostas",
+      "reference_type": "Artigo Online",
+      "author_name": "Estratégia Concursos",
+      "title": "Raciocínio Lógico para concurso: 9 questões difíceis do Cebraspe resolvidas e comentadas!",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG8GFSbOdAR8qozL8o_a35VHWz6B-EdedwMgkGtLNnk-rFT56HgonHGvOH2G_k9cGCuKyTxlFYmm1sgHrlnrzHUgNxMHjMfwvu4XOjmjRYDhvXxParQeS6VqqgxBgdYHHcQPf-RmYFEE27eSdB6q6hpSMcRlUs1Q-oD19b4C7Y7sL6Jrb_DB7JcJt-CshmgTsTFiLMwrOr7l13EPV-og==",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-31-proposições-simples-e-compostas_ref_023",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-31-proposições-simples-e-compostas",
+      "reference_type": "Vídeo Online",
+      "author_name": "Professor Leandro Morgado",
+      "title": "CEBRASPE - Resolução de Questões #1 - Proposições e Conectivos",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQECFCX1QZRN7pXqZ4i5wTg-qowcY6SKMhioPcA0G-NwkFuOyR1FWCC0xFrUE2blda7qBEhVkHlmyF-t9E2LWdByRY-6JQGezeMuU2DfdMmg1OZet0sn3ssgemtoBPiQ5fN0iS1oszI=",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-31-proposições-simples-e-compostas_ref_024",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-31-proposições-simples-e-compostas",
+      "reference_type": "Documento Online",
+      "author_name": "Desconhecido",
+      "title": "Ebook-Equivalencias-50-Questoes-CESPE.pdf",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHh-bi_KM8ylZYAbilBwR94fcXycQ62mE7psik42PTC_ajJPk5nSfU3qD84RIdhzCp1sQmWubDdnEkULFi3apwUAgaTDkK0UJYpR5KmV9fYZNo2_y68fvlwXmeGSxptzoEJ8rW-SVcKkJi0DWW-03RW3jMPfrnFrKcNL2Rqrr7rUWFrvc8XPNE_Emc9cg1yZtPn-h49V6NfISH-xlavDVt1FHh1-dWdWGD6",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-31-proposições-simples-e-compostas_ref_025",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-31-proposições-simples-e-compostas",
+      "reference_type": "Artigo Online",
+      "author_name": "Qconcursos",
+      "title": "Questões de Concurso sobre Proposições Simples (básicas, primitivas ou atômicas )",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGA2GN59TKT6IWiHmBQNrI6kwzuT2YaYla2ZeyOhWw8jkOyugG_1dt5a6APLZla5RChCYMNXak45ZQxMt5HuRCn_C8gTpOtVAEWso_hArn0r7CuZsuA7tg5QdhJIDlqW6oRykaLp4LfMtSLFUCzYSN2aJ7wEupzQh-ssircJ3favtBsHMq42P3zXZAilxL74S27nlU7lp7lJ53Ee-ufGL2jTuosSaUtUXEUxeU9HMkiwVrmUl8NDFTk_t_F1jq4moWIwqPqwrc=",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-31-proposições-simples-e-compostas_ref_026",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-31-proposições-simples-e-compostas",
+      "reference_type": "Documento Online",
+      "author_name": "Jeofran Rodrigues (Scribd)",
+      "title": "Lógica Proposicional e Tabelas-Verdade",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF-zz4zYcXbKzJcjmQsy2hXJ6fzRR9vs-pIFrc-OiMr62GUVAOj2uyIfs6HaPHrEedowC9QHRflnq_dbjx1fHUetNpR6nKapA0YZtvDNGmzmLUHhxwuBokLsR9UdUXMuQHpLaxjEf3oEQ9vdLeblmIgaZDR81S_iBXG",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-31-proposições-simples-e-compostas_ref_027",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-31-proposições-simples-e-compostas",
+      "reference_type": "Vídeo Online",
+      "author_name": "Professor Tiago Gomes",
+      "title": "‍ Raciocínio Lógico Banca #CEBRASPE ♟️Lógica Proposicional | Questão 03 de 87 #concursos",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHHh-RBXzkL_BW2QBiP1IZV4-AqlZw_asPLrA955TG3-9ltvwN1aZ8_VHKqz2TfCPLY4HC_FcKSEFFb-aC1OZLLeBJu1RllIj-caoz43-OGpM5x5UH4zpfZiNIyF3BYRhGpjTHBn00=",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-31-proposições-simples-e-compostas_ref_028",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-31-proposições-simples-e-compostas",
+      "reference_type": "Artigo Online",
+      "author_name": "Qconcursos",
+      "title": "Questões de Concurso sobre Raciocínio Lógico para CESPE / CEBRASPE",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_HNgpKv70_yoYaVrA4d0_1CmJasAErsXAsGDaLUTpdZET8fnJPYqu1SqdhILkQIYbJf57nwGWN9ki_6FfFVFowthXmAICMkDb9F0GJUQ1o8cbMQVpPL-p_iAbdKO8lY-nLedxFy0_SPcQxjcxCpFgb3ZXLkEhWYLwG1mryDTQHnAaumPtpmLqA7TXmeJhPWMjfdAYdkZdn6pLGNS1AAZQPQXHw4zRA==",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-31-proposições-simples-e-compostas_ref_029",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-31-proposições-simples-e-compostas",
+      "reference_type": "Vídeo Online",
+      "author_name": "Desconhecido",
+      "title": "raciocínio lógico - cebraspe",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG2jRE3ZnpH79u234eRL8qFEo1btQu1txD4i6fLLEq52DjsuFR8XNGwRLL5AIjOG1HQZukOqCu6kGk8DzHGFI6sWTk88GiuiODjXNpyq6CknGtMVmNb0yu5aGfAY0eKV9k0oDo9Rio=",
+      "accessed_at": null,
+      "description": null
+    }
+  ],
+  "estatisticas_de_geracao": {
+    "total_topicos": 8,
+    "total_componentes_topico": 14,
+    "total_entendimentos_relevantes": 5,
+    "total_pegadinhas": 5,
+    "total_pontos_memorizacao": 5,
+    "total_itens_quadro_sinotico": 6,
+    "total_questoes": 8,
+    "total_comentarios_questoes": 8,
+    "total_itens_checklist": 6,
+    "total_referencias": 29
+  },
+  "validacao_interna": {
+    "pesquisa_previa_realizada": true,
+    "analise_de_cobrancas_anteriores_realizada": true,
+    "material_atualizado": true,
+    "json_valido": true,
+    "estrutura_relacional_respeitada": true,
+    "numeracao_respeitada": true,
+    "houve_quebra_de_hierarquia": false,
+    "houve_nivel_numerico_superior_a_3": false,
+    "fontes_verificadas": true,
+    "sem_informacao_inventada": true
+  },
+  "metadata": {
+    "source_file_name": "3__raciocínio-lógico-e-noções-de-estatística__3-lógica-sentencial-ou-proposicional-3.1-proposições-simples-e-compostas.json",
+    "normalized_checksum": "957056a42fe94e0133e39965b56ec414c8a28f250ea4ac06355294233c5810a6",
+    "subject_slug": "rlog-estat",
+    "material_slug": "logica-sentencial-proposicoes-simples",
+    "title_slug": "logica-sentencial-ou-proposicional-proposicoes",
+    "board_slug": "cebraspe",
+    "counters": {
+      "blocks": 7,
+      "topics": 8,
+      "topic_components": 14,
+      "traps": 5,
+      "memory_points": 5,
+      "summary_items": 6,
+      "questions": 8,
+      "question_comments": 8,
+      "checklist_items": 6,
+      "references": 29
+    }
+  }
+}

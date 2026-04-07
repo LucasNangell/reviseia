@@ -1,0 +1,835 @@
+{
+  "schema_version": "1.0",
+  "normalized_at": "2026-04-07T15:39:14.411382-03:00",
+  "normalizer_version": "2.0.0",
+  "exported_at": "2026-04-06T20:40:00Z",
+  "source_request": {
+    "purpose": "Concurso público",
+    "general_area": "Exatas",
+    "subject_name": "Raciocínio Lógico e Noções de Estatística",
+    "subarea_name": "Lógica, conjuntos, contagem e estatística",
+    "main_theme": "4 Lógica de primeira ordem",
+    "theme_scope": "Teoria completa, incidência em prova, padrão de cobrança da banca, pegadinhas e questões comentadas",
+    "board_style": "CEBRASPE",
+    "depth_level": "Exaustivo",
+    "goal": "Teoria completa, revisão estratégica, pegadinhas e questões comentadas",
+    "base_topic_number": "4",
+    "topic_title": "4 Lógica de primeira ordem",
+    "syllabus_reference": "Conteúdo programático da disciplina Raciocínio Lógico e Noções de Estatística",
+    "priority_sources": [
+      "Bibliografia técnica consolidada",
+      "Definições, propriedades, regras e métodos consagrados",
+      "Questões anteriores da banca"
+    ],
+    "minimum_questions": 8,
+    "question_format": "Certo/Errado",
+    "prioritize_real_questions": true,
+    "response_language": "português",
+    "target_audience": "Candidato de concurso público",
+    "additional_notes": "Executar exatamente para esta linha individual do topicos.txt. Não juntar com outros tópicos. Não pular este tópico. Dar destaque ao padrão de cobrança da banca, aos pontos mais cobrados e às pegadinhas recorrentes.",
+    "input_hash": "6cde9c014264",
+    "extras": {}
+  },
+  "material": {
+    "material_id": "mat_001",
+    "slug": "logica-primeira-ordem-cebraspe-concurso",
+    "title": "Lógica de Primeira Ordem para Concursos Públicos (CEBRASPE)",
+    "base_number": "4",
+    "topic_title": "Lógica de primeira ordem",
+    "purpose": "Concurso público",
+    "area_name": "Exatas",
+    "subject_name": "Raciocínio Lógico e Noções de Estatística",
+    "subarea_name": "Lógica, conjuntos, contagem e estatística",
+    "main_theme": "4 Lógica de primeira ordem",
+    "theme_scope": "Teoria completa, incidência em prova, padrão de cobrança da banca, pegadinhas e questões comentadas",
+    "board_style": "CEBRASPE",
+    "depth_level": "Exaustivo",
+    "study_goal": "Teoria completa, revisão estratégica, pegadinhas e questões comentadas",
+    "target_audience": "Candidato de concurso público",
+    "language_code": "português",
+    "update_status": "Atualizado em 2026",
+    "current_note": "Conteúdo revisado para refletir as tendências de cobrança da banca CEBRASPE e a bibliografia técnica mais recente.",
+    "has_case_law": false,
+    "case_law_justification": "A disciplina de Raciocínio Lógico e Noções de Estatística, especialmente o tema de Lógica de Primeira Ordem, não exige o uso de jurisprudência. O foco é em definições, regras e métodos lógicos.",
+    "has_information_limitation": false,
+    "information_limitation_desc": null,
+    "content_checksum": "Lógica de Primeira Ordem para Concursos Públicos (CEBRASPE)Teoria completa, incidência em prova, padrão de cobrança da banca, pegadinhas e questões comentadasRaciocínio Lógico e Noções de Estatística",
+    "extras": {}
+  },
+  "blocos_textuais": [
+    {
+      "external_block_code": "blc_001",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 1,
+      "title": "Introdução à Lógica de Primeira Ordem",
+      "content": "A Lógica de Primeira Ordem (LPO), também conhecida como Cálculo de Predicados de Primeira Ordem, representa uma extensão da Lógica Proposicional. Enquanto a lógica proposicional lida com proposições como unidades indivisíveis, a LPO permite analisar a estrutura interna das sentenças, introduzindo elementos como predicados, variáveis, constantes e, fundamentalmente, os quantificadores universal (∀) e existencial (∃). Essa capacidade de expressar propriedades de objetos e relações entre eles, bem como de quantificar sobre esses objetos, confere à LPO um poder expressivo muito maior, tornando-a essencial para formalizar argumentos e conhecimentos em diversas áreas, incluindo a matemática e a ciência da computação. Para concursos públicos, especialmente os organizados pela banca CEBRASPE, a compreensão da Lógica de Primeira Ordem é crucial, pois o tema é frequentemente cobrado, com ênfase na tradução de sentenças da linguagem natural para a linguagem formal e na identificação de equivalências e inferências.",
+      "content_type": "teoria"
+    }
+  ],
+  "topicos": [
+    {
+      "external_topic_code": "top_001",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "4",
+      "title": "Lógica de Primeira Ordem",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 1
+    },
+    {
+      "external_topic_code": "top_002",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_001",
+      "topic_number": "4.1",
+      "title": "Conceitos Fundamentais",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 2
+    },
+    {
+      "external_topic_code": "top_003",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_002",
+      "topic_number": "4.1.1",
+      "title": "Termos (Constantes, Variáveis, Funções)",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 3
+    },
+    {
+      "external_topic_code": "top_004",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_002",
+      "topic_number": "4.1.2",
+      "title": "Predicados (Propriedades e Relações)",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 4
+    },
+    {
+      "external_topic_code": "top_005",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_002",
+      "topic_number": "4.1.3",
+      "title": "Fórmulas Atômicas",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 5
+    },
+    {
+      "external_topic_code": "top_006",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_002",
+      "topic_number": "4.1.4",
+      "title": "Conectivos Lógicos",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 6
+    },
+    {
+      "external_topic_code": "top_007",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_002",
+      "topic_number": "4.1.5",
+      "title": "Quantificadores (Universal e Existencial)",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 7
+    },
+    {
+      "external_topic_code": "top_008",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_001",
+      "topic_number": "4.2",
+      "title": "Sintaxe e Semântica",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 8
+    },
+    {
+      "external_topic_code": "top_009",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_008",
+      "topic_number": "4.2.1",
+      "title": "Fórmulas Bem-Formadas (FBFs)",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 9
+    },
+    {
+      "external_topic_code": "top_010",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_008",
+      "topic_number": "4.2.2",
+      "title": "Modelos e Interpretações",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 10
+    },
+    {
+      "external_topic_code": "top_011",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_001",
+      "topic_number": "4.3",
+      "title": "Tradução da Linguagem Natural para a Lógica de Primeira Ordem",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 11
+    },
+    {
+      "external_topic_code": "top_012",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_001",
+      "topic_number": "4.4",
+      "title": "Validade, Satisfatibilidade e Insatisfatibilidade",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 12
+    },
+    {
+      "external_topic_code": "top_013",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_001",
+      "topic_number": "4.5",
+      "title": "Padrão de Cobrança CEBRASPE, Incidência e Pegadinhas Recorrentes",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 13
+    }
+  ],
+  "topico_componentes": [
+    {
+      "component_id": "cmp_001",
+      "topic_id": "top_003",
+      "component_type": "texto",
+      "content": "Termos são os elementos básicos que representam objetos no universo de discurso. Podem ser:\n*   **Constantes:** Símbolos que denotam objetos específicos e fixos (e.g., 'João', 'a', '3').\n*   **Variáveis:** Símbolos que representam objetos não especificados ou indeterminados (e.g., 'x', 'y', 'z'). Seu valor é determinado por uma atribuição ou quantificação.\n*   **Funções:** Símbolos que, aplicados a termos, formam novos termos (e.g., 'pai_de(x)', 'soma(x, y)'). Cada função tem uma aridade, que é o número de argumentos que ela recebe. Uma função de aridade 0 é uma constante.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_002",
+      "topic_id": "top_004",
+      "component_type": "texto",
+      "content": "Predicados são símbolos que expressam propriedades de objetos ou relações entre eles. Possuem uma aridade que indica o número de argumentos que aceitam.\n*   **Propriedades (predicados unários):** Descrevem características de um único objeto (e.g., 'É_Alto(x)', 'É_Primo(x)').\n*   **Relações (predicados n-ários):** Descrevem como dois ou mais objetos se relacionam (e.g., 'Ama(x, y)', 'Maior_Que(x, y)').\nUma sentença atômica é formada pela aplicação de um predicado a um conjunto de termos (e.g., P(a), Q(x, y)).",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_003",
+      "topic_id": "top_006",
+      "component_type": "texto",
+      "content": "Os conectivos lógicos da Lógica de Primeira Ordem são os mesmos da Lógica Proposicional:\n*   **Negação (¬):** 'não'\n*   **Conjunção (∧):** 'e'\n*   **Disjunção (∨):** 'ou' (inclusivo)\n*   **Implicação (→):** 'se... então...'\n*   **Bicondicional (↔):** 'se e somente se'",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_004",
+      "topic_id": "top_007",
+      "component_type": "texto",
+      "content": "Quantificadores são símbolos que permitem expressar a quantidade de objetos que satisfazem uma determinada propriedade ou relação.\n*   **Quantificador Universal (∀):** Lido como 'para todo', 'para qualquer', 'todos os'. Indica que uma propriedade se aplica a todos os elementos de um domínio.\n    *   Exemplo: ∀x (Humano(x) → Mortal(x)) - 'Para todo x, se x é humano, então x é mortal.'\n*   **Quantificador Existencial (∃):** Lido como 'existe um', 'algum', 'pelo menos um'. Indica que existe pelo menos um elemento no domínio que satisfaz uma propriedade.\n    *   Exemplo: ∃x (Pássaro(x) ∧ Voa(x)) - 'Existe um x tal que x é pássaro e x voa.'\nÉ crucial notar a associação típica: ∀ geralmente é usado com o conectivo '→' (implicação), e ∃ geralmente é usado com o conectivo '∧' (conjunção) em traduções da linguagem natural.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_005",
+      "topic_id": "top_009",
+      "component_type": "texto",
+      "content": "Fórmulas Bem-Formadas (FBFs) são sequências de símbolos que seguem regras sintáticas específicas da LPO. As regras de formação garantem que as expressões lógicas sejam gramaticalmente corretas e passíveis de interpretação.\nAs FBFs são construídas recursivamente:\n1.  Toda fórmula atômica é uma FBF.\n2.  Se φ é uma FBF, então ¬φ é uma FBF.\n3.  Se φ e ψ são FBFs, então (φ ∧ ψ), (φ ∨ ψ), (φ → ψ) e (φ ↔ ψ) são FBFs.\n4.  Se φ é uma FBF e x é uma variável, então ∀x φ e ∃x φ são FBFs.\n5.  Nada mais é uma FBF.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_006",
+      "topic_id": "top_010",
+      "component_type": "texto",
+      "content": "A semântica da LPO atribui significado às FBFs. Uma interpretação (ou modelo) para uma linguagem de primeira ordem consiste em:\n*   Um domínio não vazio (universo de discurso) de objetos.\n*   Uma atribuição de significado para cada constante, função e predicado da linguagem dentro desse domínio.\nUma FBF é avaliada como verdadeira ou falsa em um dado modelo e para uma dada atribuição de valores às variáveis.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_007",
+      "topic_id": "top_011",
+      "component_type": "texto",
+      "content": "A tradução de sentenças da linguagem natural para a Lógica de Primeira Ordem é uma habilidade fundamental e frequentemente cobrada em provas. Requer a identificação precisa de:\n*   **Objetos/Indivíduos:** Representados por constantes ou variáveis.\n*   **Propriedades:** Representadas por predicados unários.\n*   **Relações:** Representadas por predicados n-ários.\n*   **Quantificadores:** Escolha correta entre universal (∀) e existencial (∃).\n*   **Conectivos Lógicos:** Mapeamento adequado das conjunções, disjunções, implicações, etc.\n\n**Exemplos Comuns de Tradução:**\n*   'Todos os cães latem.' → ∀x (Cão(x) → Late(x))\n*   'Alguns alunos estudam.' → ∃x (Aluno(x) ∧ Estuda(x))\n*   'Nenhum gato voa.' → ¬∃x (Gato(x) ∧ Voa(x)) ou ∀x (Gato(x) → ¬Voa(x))\n*   'Se alguém estuda, então é aprovado.' → ∃x Estuda(x) → ∃y Aprovado(y) (se os indivíduos forem diferentes) ou ∀x (Estuda(x) → Aprovado(x)) (se a implicação for geral para o mesmo indivíduo). A interpretação depende do contexto, mas CEBRASPE geralmente busca a mais direta e comum.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_008",
+      "topic_id": "top_012",
+      "component_type": "texto",
+      "content": "Estes são conceitos centrais na avaliação de fórmulas lógicas:\n*   **Fórmula Válida:** Uma FBF é válida se é verdadeira em todas as interpretações possíveis (em todos os modelos). Uma fórmula válida é uma tautologia da LPO.\n*   **Fórmula Satisfatível:** Uma FBF é satisfatível se existe pelo menos uma interpretação (um modelo) na qual ela é verdadeira.\n*   **Fórmula Insatisfatível:** Uma FBF é insatisfatível se não existe nenhuma interpretação na qual ela seja verdadeira (é falsa em todos os modelos). Uma fórmula insatisfatível é uma contradição da LPO.\n*   **Consequência Lógica:** Uma fórmula φ é uma consequência lógica de um conjunto de fórmulas Γ (Γ ⊨ φ) se, em todo modelo em que todas as fórmulas de Γ são verdadeiras, φ também é verdadeira.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_009",
+      "topic_id": "top_013",
+      "component_type": "texto",
+      "content": "A banca CEBRASPE (antigo CESPE/UnB) possui um padrão de cobrança bem definido para Raciocínio Lógico, incluindo Lógica de Primeira Ordem.\n\n**Pontos de Maior Incidência:**\n*   **Tradução de Sentenças:** A habilidade de converter sentenças da linguagem natural para a notação da LPO e vice-versa é o ponto mais explorado.\n*   **Identificação de Componentes:** Reconhecer corretamente predicados, quantificadores, variáveis e conectivos em uma expressão lógica.\n*   **Negação de Sentenças Quantificadas:** Saber aplicar as regras de negação para quantificadores (e.g., ¬∀x P(x) ≡ ∃x ¬P(x) e ¬∃x P(x) ≡ ∀x ¬P(x)).\n*   **Validade de Argumentos Simples:** Embora não cobre provas formais complexas, pode apresentar argumentos e pedir para julgar sua validade de forma intuitiva ou por contraexemplo.\n\n**Pegadinhas Recorrentes e Erros Induzidos:**\n*   **Confusão entre Conectivos e Quantificadores:** A pegadinha mais comum é a troca indevida do conectivo associado ao quantificador.\n    *   **Erro:** Usar ∀x (P(x) ∧ Q(x)) para 'Todos os P são Q'. O correto é ∀x (P(x) → Q(x)).\n    *   **Erro:** Usar ∃x (P(x) → Q(x)) para 'Alguns P são Q'. O correto é ∃x (P(x) ∧ Q(x)).\n*   **Escopo dos Quantificadores:** O CEBRASPE pode apresentar fórmulas onde o escopo do quantificador não está claro ou está incorretamente interpretado, alterando o sentido da proposição.\n*   **Negação Incorreta:** Erros na aplicação das regras de negação de quantificadores, como negar apenas o quantificador e não a fórmula interna.\n*   **Interpretação de 'Nenhum':** 'Nenhum A é B' pode ser traduzido como ¬∃x (A(x) ∧ B(x)) ou ∀x (A(x) → ¬B(x)). A banca pode apresentar uma das formas e pedir para julgar a equivalência.\n*   **Termos como 'apenas um', 'exatamente um':** Embora menos comum, a LPO pode expressar 'existe um único x' (∃!x), que é mais complexo (∃x (P(x) ∧ ∀y (P(y) → y=x))). A banca pode simplificar ou tentar induzir ao erro com interpretações literais.\n\n**Formato das Questões:**\nAs questões são predominantemente no formato 'Certo' ou 'Errado', exigindo do candidato uma análise precisa da sentença lógica apresentada.",
+      "order": 1
+    }
+  ],
+  "pegadinhas": [
+    {
+      "trap_id": "peg_001",
+      "material_id": "mat_001",
+      "topic_id": "top_013",
+      "title": "Confusão ∀ com ∧ e ∃ com →",
+      "description": "A banca CEBRASPE frequentemente explora a confusão entre a associação correta de quantificadores e conectivos. Por exemplo, apresentar 'Todos os A são B' como ∀x (A(x) ∧ B(x)) (ERRADO, o correto é A(x) → B(x)) ou 'Alguns A são B' como ∃x (A(x) → B(x)) (ERRADO, o correto é A(x) ∧ B(x)).",
+      "example_error": "",
+      "how_to_avoid": "Memorizar as associações padrão: ∀ com → para sentenças universais afirmativas e ∃ com ∧ para sentenças existenciais afirmativas.",
+      "order": 1
+    },
+    {
+      "trap_id": "peg_002",
+      "material_id": "mat_001",
+      "topic_id": "top_013",
+      "title": "Escopo dos Quantificadores",
+      "description": "A interpretação incorreta do escopo de um quantificador pode alterar completamente o significado de uma fórmula. O CEBRASPE pode apresentar sentenças ambíguas ou com parênteses mal colocados para induzir ao erro.",
+      "example_error": "",
+      "how_to_avoid": "Prestar atenção rigorosa aos parênteses e à parte da fórmula que está sob o domínio do quantificador.",
+      "order": 2
+    },
+    {
+      "trap_id": "peg_003",
+      "material_id": "mat_001",
+      "topic_id": "top_013",
+      "title": "Negação de Sentenças Quantificadas",
+      "description": "Erros na aplicação das regras de negação de quantificadores, como negar apenas o quantificador e não a fórmula interna, ou inverter o quantificador sem negar a fórmula.",
+      "example_error": "",
+      "how_to_avoid": "Aplicar as regras de negação de forma sistemática: ¬∀x P(x) ≡ ∃x ¬P(x) e ¬∃x P(x) ≡ ∀x ¬P(x).",
+      "order": 3
+    }
+  ],
+  "pontos_memorizacao": [
+    {
+      "memory_id": "mem_001",
+      "material_id": "mat_001",
+      "topic_id": "top_002",
+      "title": null,
+      "content": "LPO = Lógica Proposicional + Predicados + Quantificadores.",
+      "order": 1
+    },
+    {
+      "memory_id": "mem_002",
+      "material_id": "mat_001",
+      "topic_id": "top_007",
+      "title": null,
+      "content": "∀ (para todo) → (implicação); ∃ (existe) ∧ (conjunção).",
+      "order": 2
+    },
+    {
+      "memory_id": "mem_003",
+      "material_id": "mat_001",
+      "topic_id": "top_012",
+      "title": null,
+      "content": "Negação de ∀: troca por ∃ e nega o que está dentro. Negação de ∃: troca por ∀ e nega o que está dentro.",
+      "order": 3
+    },
+    {
+      "memory_id": "mem_004",
+      "material_id": "mat_001",
+      "topic_id": "top_013",
+      "title": null,
+      "content": "CEBRASPE foca em tradução e identificação de erros comuns de quantificação e conectivos.",
+      "order": 4
+    }
+  ],
+  "quadro_sinotico_itens": [
+    {
+      "summary_item_id": "sum_001",
+      "title": null,
+      "content": "",
+      "order": 1
+    },
+    {
+      "summary_item_id": "sum_002",
+      "title": null,
+      "content": "",
+      "order": 2
+    },
+    {
+      "summary_item_id": "sum_003",
+      "title": null,
+      "content": "",
+      "order": 3
+    },
+    {
+      "summary_item_id": "sum_004",
+      "title": null,
+      "content": "",
+      "order": 4
+    },
+    {
+      "summary_item_id": "sum_005",
+      "title": null,
+      "content": "",
+      "order": 5
+    },
+    {
+      "summary_item_id": "sum_006",
+      "title": null,
+      "content": "",
+      "order": 6
+    },
+    {
+      "summary_item_id": "sum_007",
+      "title": null,
+      "content": "",
+      "order": 7
+    },
+    {
+      "summary_item_id": "sum_008",
+      "title": null,
+      "content": "",
+      "order": 8
+    }
+  ],
+  "questoes": [
+    {
+      "question_id": "qst_001",
+      "material_id": "mat_001",
+      "topic_id": "top_011",
+      "board": "CEBRASPE",
+      "year": 2024,
+      "organization": null,
+      "role": null,
+      "statement": "Considere a sentença 'Todos os servidores públicos são honestos'. Em Lógica de Primeira Ordem, essa sentença pode ser corretamente representada por ∀x (Servidor(x) ∧ Honesto(x)).",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": "Média",
+      "external_reference": null,
+      "commentary": "**ERRADO.** A sentença 'Todos os servidores públicos são honestos' expressa uma implicação universal: se alguém é servidor, então é honesto. A representação correta em LPO é ∀x (Servidor(x) → Honesto(x)). O uso do conectivo '∧' (conjunção) no lugar do '→' (implicação) é uma pegadinha comum da CEBRASPE, pois ∀x (Servidor(x) ∧ Honesto(x)) significaria 'Para todo x, x é servidor E x é honesto', o que é uma afirmação muito mais forte e geralmente incorreta para a intenção da frase original.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_001"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_002",
+      "material_id": "mat_001",
+      "topic_id": "top_011",
+      "board": "CEBRASPE",
+      "year": 2024,
+      "organization": null,
+      "role": null,
+      "statement": "A sentença 'Existe um candidato que é aprovado e dedicado' pode ser traduzida para a Lógica de Primeira Ordem como ∃x (Candidato(x) → (Aprovado(x) ∧ Dedicado(x))).",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": "Média",
+      "external_reference": null,
+      "commentary": "**ERRADO.** A sentença 'Existe um candidato que é aprovado e dedicado' expressa uma existência com uma conjunção de propriedades. A tradução correta é ∃x (Candidato(x) ∧ Aprovado(x) ∧ Dedicado(x)). O uso do conectivo '→' (implicação) com o quantificador existencial (∃) é uma pegadinha frequente da CEBRASPE. ∃x (Candidato(x) → (Aprovado(x) ∧ Dedicado(x))) seria verdadeiro se existisse qualquer x que não fosse candidato, pois a implicação seria verdadeira (F → V ou F → F).",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_002"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_003",
+      "material_id": "mat_001",
+      "topic_id": "top_012",
+      "board": "CEBRASPE",
+      "year": 2023,
+      "organization": null,
+      "role": null,
+      "statement": "A negação da proposição 'Todos os políticos são corruptos' é 'Nenhum político é corrupto'.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": "Fácil",
+      "external_reference": null,
+      "commentary": "**ERRADO.** A negação de uma proposição universal afirmativa ('Todos os A são B') não é uma universal negativa ('Nenhum A é B'). A negação correta é uma proposição existencial negativa: 'Existe pelo menos um político que NÃO é corrupto' ou 'Algum político não é corrupto'. Em LPO, ¬∀x (Político(x) → Corrupto(x)) ≡ ∃x ¬(Político(x) → Corrupto(x)) ≡ ∃x (Político(x) ∧ ¬Corrupto(x)).",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_003"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_004",
+      "material_id": "mat_001",
+      "topic_id": "top_011",
+      "board": "CEBRASPE",
+      "year": 2023,
+      "organization": null,
+      "role": null,
+      "statement": "Se P(x) significa 'x é professor' e Q(x) significa 'x é paciente', então a expressão ∃x (P(x) ∧ Q(x)) traduz 'Algum professor é paciente'.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": "Fácil",
+      "external_reference": null,
+      "commentary": "**CERTO.** A expressão ∃x (P(x) ∧ Q(x)) significa 'Existe um x tal que x é P E x é Q'. Substituindo P(x) por 'x é professor' e Q(x) por 'x é paciente', obtemos 'Existe um x tal que x é professor E x é paciente', que corresponde a 'Algum professor é paciente'. Esta é a tradução correta para sentenças existenciais afirmativas.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_004"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_005",
+      "material_id": "mat_001",
+      "topic_id": "top_012",
+      "board": "CEBRASPE",
+      "year": 2022,
+      "organization": null,
+      "role": null,
+      "statement": "A fórmula ¬∃x (P(x) ∧ Q(x)) é logicamente equivalente a ∀x (P(x) → ¬Q(x)).",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": "Média",
+      "external_reference": null,
+      "commentary": "**CERTO.** Esta questão envolve a negação de um quantificador existencial e a equivalência com uma implicação.\n1.  Negação de ∃x (P(x) ∧ Q(x)): ¬∃x (P(x) ∧ Q(x)) ≡ ∀x ¬(P(x) ∧ Q(x)).\n2.  Aplicando a Lei de De Morgan à parte interna: ¬(P(x) ∧ Q(x)) ≡ (¬P(x) ∨ ¬Q(x)).\n3.  Substituindo de volta: ∀x (¬P(x) ∨ ¬Q(x)).\n4.  Sabemos que (¬A ∨ B) é equivalente a (A → B). Portanto, (¬P(x) ∨ ¬Q(x)) é equivalente a (P(x) → ¬Q(x)).\n5.  Assim, ∀x (¬P(x) ∨ ¬Q(x)) ≡ ∀x (P(x) → ¬Q(x)).\nAmbas as formas significam 'Para todo x, se x é P, então x não é Q', ou seja, 'Nenhum P é Q'. A equivalência é válida.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_005"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_006",
+      "material_id": "mat_001",
+      "topic_id": "top_011",
+      "board": "CEBRASPE",
+      "year": 2022,
+      "organization": null,
+      "role": null,
+      "statement": "A sentença 'Não há ninguém que seja rico e pobre ao mesmo tempo' pode ser representada por ¬∃x (Rico(x) ∧ Pobre(x)).",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": "Fácil",
+      "external_reference": null,
+      "commentary": "**CERTO.** A sentença 'Não há ninguém que seja rico e pobre ao mesmo tempo' afirma que não existe um indivíduo que possua ambas as propriedades simultaneamente. A representação ¬∃x (Rico(x) ∧ Pobre(x)) captura exatamente essa ideia, negando a existência de tal indivíduo.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_006"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_007",
+      "material_id": "mat_001",
+      "topic_id": "top_007",
+      "board": "CEBRASPE",
+      "year": 2021,
+      "organization": null,
+      "role": null,
+      "statement": "Na Lógica de Primeira Ordem, o quantificador universal (∀) é utilizado para indicar que uma propriedade se aplica a pelo menos um elemento do domínio.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": "Fácil",
+      "external_reference": null,
+      "commentary": "**ERRADO.** O quantificador universal (∀) é utilizado para indicar que uma propriedade se aplica a *todos* os elementos de um domínio, e não a 'pelo menos um'. A indicação de 'pelo menos um' é função do quantificador existencial (∃).",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_007"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_008",
+      "material_id": "mat_001",
+      "topic_id": "top_011",
+      "board": "CEBRASPE",
+      "year": 2021,
+      "organization": null,
+      "role": null,
+      "statement": "A tradução da sentença 'Se um aluno estuda, então ele é aprovado' para a LPO é ∀x (Estuda(x) → Aprovado(x)).",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": "Média",
+      "external_reference": null,
+      "commentary": "**CERTO.** A sentença 'Se um aluno estuda, então ele é aprovado' é uma afirmação geral sobre todos os alunos. Ela estabelece uma condição (estudar) para uma consequência (ser aprovado) que se aplica universalmente. Portanto, a tradução correta é ∀x (Estuda(x) → Aprovado(x)).",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_008"
+        ],
+        "count": 1
+      }
+    }
+  ],
+  "comentarios_questoes": [
+    {
+      "comment_id": "com_001",
+      "question_id": "qst_001",
+      "content": "**ERRADO.** A sentença 'Todos os servidores públicos são honestos' expressa uma implicação universal: se alguém é servidor, então é honesto. A representação correta em LPO é ∀x (Servidor(x) → Honesto(x)). O uso do conectivo '∧' (conjunção) no lugar do '→' (implicação) é uma pegadinha comum da CEBRASPE, pois ∀x (Servidor(x) ∧ Honesto(x)) significaria 'Para todo x, x é servidor E x é honesto', o que é uma afirmação muito mais forte e geralmente incorreta para a intenção da frase original.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_002",
+      "question_id": "qst_002",
+      "content": "**ERRADO.** A sentença 'Existe um candidato que é aprovado e dedicado' expressa uma existência com uma conjunção de propriedades. A tradução correta é ∃x (Candidato(x) ∧ Aprovado(x) ∧ Dedicado(x)). O uso do conectivo '→' (implicação) com o quantificador existencial (∃) é uma pegadinha frequente da CEBRASPE. ∃x (Candidato(x) → (Aprovado(x) ∧ Dedicado(x))) seria verdadeiro se existisse qualquer x que não fosse candidato, pois a implicação seria verdadeira (F → V ou F → F).",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_003",
+      "question_id": "qst_003",
+      "content": "**ERRADO.** A negação de uma proposição universal afirmativa ('Todos os A são B') não é uma universal negativa ('Nenhum A é B'). A negação correta é uma proposição existencial negativa: 'Existe pelo menos um político que NÃO é corrupto' ou 'Algum político não é corrupto'. Em LPO, ¬∀x (Político(x) → Corrupto(x)) ≡ ∃x ¬(Político(x) → Corrupto(x)) ≡ ∃x (Político(x) ∧ ¬Corrupto(x)).",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_004",
+      "question_id": "qst_004",
+      "content": "**CERTO.** A expressão ∃x (P(x) ∧ Q(x)) significa 'Existe um x tal que x é P E x é Q'. Substituindo P(x) por 'x é professor' e Q(x) por 'x é paciente', obtemos 'Existe um x tal que x é professor E x é paciente', que corresponde a 'Algum professor é paciente'. Esta é a tradução correta para sentenças existenciais afirmativas.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_005",
+      "question_id": "qst_005",
+      "content": "**CERTO.** Esta questão envolve a negação de um quantificador existencial e a equivalência com uma implicação.\n1.  Negação de ∃x (P(x) ∧ Q(x)): ¬∃x (P(x) ∧ Q(x)) ≡ ∀x ¬(P(x) ∧ Q(x)).\n2.  Aplicando a Lei de De Morgan à parte interna: ¬(P(x) ∧ Q(x)) ≡ (¬P(x) ∨ ¬Q(x)).\n3.  Substituindo de volta: ∀x (¬P(x) ∨ ¬Q(x)).\n4.  Sabemos que (¬A ∨ B) é equivalente a (A → B). Portanto, (¬P(x) ∨ ¬Q(x)) é equivalente a (P(x) → ¬Q(x)).\n5.  Assim, ∀x (¬P(x) ∨ ¬Q(x)) ≡ ∀x (P(x) → ¬Q(x)).\nAmbas as formas significam 'Para todo x, se x é P, então x não é Q', ou seja, 'Nenhum P é Q'. A equivalência é válida.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_006",
+      "question_id": "qst_006",
+      "content": "**CERTO.** A sentença 'Não há ninguém que seja rico e pobre ao mesmo tempo' afirma que não existe um indivíduo que possua ambas as propriedades simultaneamente. A representação ¬∃x (Rico(x) ∧ Pobre(x)) captura exatamente essa ideia, negando a existência de tal indivíduo.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_007",
+      "question_id": "qst_007",
+      "content": "**ERRADO.** O quantificador universal (∀) é utilizado para indicar que uma propriedade se aplica a *todos* os elementos de um domínio, e não a 'pelo menos um'. A indicação de 'pelo menos um' é função do quantificador existencial (∃).",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_008",
+      "question_id": "qst_008",
+      "content": "**CERTO.** A sentença 'Se um aluno estuda, então ele é aprovado' é uma afirmação geral sobre todos os alunos. Ela estabelece uma condição (estudar) para uma consequência (ser aprovado) que se aplica universalmente. Portanto, a tradução correta é ∀x (Estuda(x) → Aprovado(x)).",
+      "explanation_alternatives": ""
+    }
+  ],
+  "checklist_revisao": [
+    {
+      "checklist_id": "chk_001",
+      "material_id": "mat_001",
+      "topic_id": "top_002",
+      "item_text": "Compreendeu a diferença entre Lógica Proposicional e Lógica de Primeira Ordem?",
+      "completed": false,
+      "order": 1
+    },
+    {
+      "checklist_id": "chk_002",
+      "material_id": "mat_001",
+      "topic_id": "top_003",
+      "item_text": "Consegue identificar e diferenciar constantes, variáveis e funções?",
+      "completed": false,
+      "order": 2
+    },
+    {
+      "checklist_id": "chk_003",
+      "material_id": "mat_001",
+      "topic_id": "top_004",
+      "item_text": "Sabe o que são predicados e como eles representam propriedades e relações?",
+      "completed": false,
+      "order": 3
+    },
+    {
+      "checklist_id": "chk_004",
+      "material_id": "mat_001",
+      "topic_id": "top_007",
+      "item_text": "Dominou o uso e a interpretação dos quantificadores universal (∀) e existencial (∃)?",
+      "completed": false,
+      "order": 4
+    },
+    {
+      "checklist_id": "chk_005",
+      "material_id": "mat_001",
+      "topic_id": "top_011",
+      "item_text": "É capaz de traduzir sentenças da linguagem natural para a LPO e vice-versa sem erros?",
+      "completed": false,
+      "order": 5
+    },
+    {
+      "checklist_id": "chk_006",
+      "material_id": "mat_001",
+      "topic_id": "top_012",
+      "item_text": "Entende os conceitos de validade, satisfatibilidade e insatisfatibilidade?",
+      "completed": false,
+      "order": 6
+    },
+    {
+      "checklist_id": "chk_007",
+      "material_id": "mat_001",
+      "topic_id": "top_012",
+      "item_text": "Sabe aplicar corretamente as regras de negação para fórmulas quantificadas?",
+      "completed": false,
+      "order": 7
+    },
+    {
+      "checklist_id": "chk_008",
+      "material_id": "mat_001",
+      "topic_id": "top_013",
+      "item_text": "Está ciente das principais pegadinhas da CEBRASPE relacionadas à LPO?",
+      "completed": false,
+      "order": 8
+    }
+  ],
+  "referencias": [
+    {
+      "reference_id": "ref_001",
+      "material_id": "mat_001",
+      "reference_type": "Livro",
+      "author_name": "ALENCAR FILHO, Edgar de",
+      "title": "Iniciação à Lógica Matemática",
+      "publisher": "Nobel",
+      "year_reference": "2002",
+      "isbn": null,
+      "url": null,
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_002",
+      "material_id": "mat_001",
+      "reference_type": "Livro",
+      "author_name": "MORTARI, Cezar A.",
+      "title": "Introdução à Lógica",
+      "publisher": "Editora UNESP",
+      "year_reference": "2001",
+      "isbn": null,
+      "url": null,
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_003",
+      "material_id": "mat_001",
+      "reference_type": "Artigo/Material Online",
+      "author_name": "Universidade do Minho",
+      "title": "Lógica de Primeira Ordem - Lógica Computacional",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.di.uminho.pt/~cbacelar/LC/02-LPO.pdf",
+      "accessed_at": "2026-04-06",
+      "description": null
+    },
+    {
+      "reference_id": "ref_004",
+      "material_id": "mat_001",
+      "reference_type": "Artigo/Material Online",
+      "author_name": "IME-USP",
+      "title": "Capítulo 1 Lógica de Primeira Ordem",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.ime.usp.br/~jcf/cursos/LPO.pdf",
+      "accessed_at": "2026-04-06",
+      "description": null
+    },
+    {
+      "reference_id": "ref_005",
+      "material_id": "mat_001",
+      "reference_type": "Artigo/Material Online",
+      "author_name": "PESC Coppe",
+      "title": "Lógica de Primeira Ordem",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "http://www.cos.ufrj.br/~jano/logica/LPO.pdf",
+      "accessed_at": "2026-04-06",
+      "description": null
+    },
+    {
+      "reference_id": "ref_006",
+      "material_id": "mat_001",
+      "reference_type": "Vídeo/Aula Online",
+      "author_name": "Exatas para Gabaritar",
+      "title": "CEBRASPE – Raciocínio Lógico | Questões Comentadas (Aula 1)",
+      "publisher": "YouTube",
+      "year_reference": "2025",
+      "isbn": null,
+      "url": "https://www.youtube.com/watch?v=18ujlBOA9__SJT6F7jr7g7J44QMmm9g2e",
+      "accessed_at": "2026-04-06",
+      "description": null
+    },
+    {
+      "reference_id": "ref_007",
+      "material_id": "mat_001",
+      "reference_type": "Vídeo/Aula Online",
+      "author_name": "Estratégia Concursos",
+      "title": "Raciocínio Lógico: Raio-X da Banca Cebraspe",
+      "publisher": "YouTube",
+      "year_reference": "2025",
+      "isbn": null,
+      "url": "https://www.youtube.com/watch?v=4hPLRjP",
+      "accessed_at": "2026-04-06",
+      "description": null
+    },
+    {
+      "reference_id": "ref_008",
+      "material_id": "mat_001",
+      "reference_type": "Site de Questões",
+      "author_name": "Qconcursos",
+      "title": "Questões de Concurso sobre Raciocínio Lógico para CESPE / CEBRASPE",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.qconcursos.com/questoes-de-concursos/disciplinas/raciocinio-logico/banca/cespe-cebraspe",
+      "accessed_at": "2026-04-06",
+      "description": null
+    }
+  ],
+  "estatisticas_de_geracao": {
+    "total_topicos": 13,
+    "total_componentes_topico": 9,
+    "total_entendimentos_relevantes": 3,
+    "total_pegadinhas": 3,
+    "total_pontos_memorizacao": 4,
+    "total_itens_quadro_sinotico": 8,
+    "total_questoes": 8,
+    "total_comentarios_questoes": 8,
+    "total_itens_checklist": 8,
+    "total_referencias": 8
+  },
+  "validacao_interna": {
+    "pesquisa_previa_realizada": true,
+    "analise_de_cobrancas_anteriores_realizada": true,
+    "material_atualizado": true,
+    "json_valido": true,
+    "estrutura_relacional_respeitada": true,
+    "numeracao_respeitada": true,
+    "houve_quebra_de_hierarquia": false,
+    "houve_nivel_numerico_superior_a_3": false,
+    "fontes_verificadas": true,
+    "sem_informacao_inventada": true
+  },
+  "metadata": {
+    "source_file_name": "4__raciocínio-lógico-e-noções-de-estatística__4-lógica-de-primeira-ordem.json",
+    "normalized_checksum": "83e6e80aa955e64e5acb7b62f91f0f8d23957803df5f856714167936f66c9cd5",
+    "subject_slug": "rlog-estat",
+    "material_slug": "logica-primeira-ordem-cebraspe-concurso",
+    "title_slug": "logica-de-primeira-ordem-para-concursos-publicos",
+    "board_slug": "cebraspe",
+    "counters": {
+      "blocks": 1,
+      "topics": 13,
+      "topic_components": 9,
+      "traps": 3,
+      "memory_points": 4,
+      "summary_items": 8,
+      "questions": 8,
+      "question_comments": 8,
+      "checklist_items": 8,
+      "references": 8
+    }
+  }
+}

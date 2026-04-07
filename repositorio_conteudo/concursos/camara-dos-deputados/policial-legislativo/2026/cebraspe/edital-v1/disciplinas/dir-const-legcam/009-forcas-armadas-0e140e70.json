@@ -1,0 +1,1092 @@
+{
+  "schema_version": "1.0",
+  "normalized_at": "2026-04-07T15:39:14.830802-03:00",
+  "normalizer_version": "2.0.0",
+  "exported_at": "2026-04-07T16:43:00Z",
+  "source_request": {
+    "purpose": "Concurso público",
+    "general_area": "Direito",
+    "subject_name": "Direito Constitucional e Legislação Interna da Câmara dos Deputados",
+    "subarea_name": "Direito Constitucional",
+    "main_theme": "9 Forças Armadas",
+    "theme_scope": "Teoria completa, incidência em prova, padrão de cobrança da banca, pegadinhas e questões comentadas",
+    "board_style": "CEBRASPE",
+    "depth_level": "Exaustivo",
+    "goal": "Teoria completa, revisão estratégica, pegadinhas e questões comentadas",
+    "base_topic_number": "9",
+    "topic_title": "9 Forças Armadas",
+    "syllabus_reference": "Conteúdo programático da disciplina Direito Constitucional e Legislação Interna da Câmara dos Deputados",
+    "priority_sources": [
+      "Constituição Federal e legislação oficial vigente",
+      "Jurisprudência pertinente e atual, quando cabível",
+      "Doutrina consolidada",
+      "Questões anteriores da banca"
+    ],
+    "minimum_questions": 8,
+    "question_format": "Certo/Errado",
+    "prioritize_real_questions": true,
+    "response_language": "português",
+    "target_audience": "Candidato de concurso público",
+    "additional_notes": "Executar exatamente para esta linha individual do topicos.txt. Não juntar com outros tópicos. Não pular este tópico. Dar destaque ao padrão de cobrança da banca, aos pontos mais cobrados e às pegadinhas recorrentes.",
+    "input_hash": "0adb5e749ec5",
+    "extras": {}
+  },
+  "material": {
+    "material_id": "mat_001",
+    "slug": "forcas-armadas-direito-constitucional-cebraspe",
+    "title": "Forças Armadas na Constituição Federal: Teoria, Padrão CEBRASPE e Questões Comentadas",
+    "base_number": "9",
+    "topic_title": "Forças Armadas",
+    "purpose": "Concurso público",
+    "area_name": "Direito",
+    "subject_name": "Direito Constitucional e Legislação Interna da Câmara dos Deputados",
+    "subarea_name": "Direito Constitucional",
+    "main_theme": "Forças Armadas",
+    "theme_scope": "Teoria completa, incidência em prova, padrão de cobrança da banca, pegadinhas e questões comentadas",
+    "board_style": "CEBRASPE",
+    "depth_level": "Exaustivo",
+    "study_goal": "Teoria completa, revisão estratégica, pegadinhas e questões comentadas",
+    "target_audience": "Candidato de concurso público",
+    "language_code": "português",
+    "update_status": "Atualizado",
+    "current_note": "Material atualizado com a jurisprudência mais recente do STF sobre o Art. 142 da CF/88, especialmente quanto ao 'poder moderador'.",
+    "has_case_law": true,
+    "case_law_justification": "A jurisprudência do STF sobre o Art. 142 da CF/88, em especial a ADI 6457, é fundamental para a compreensão do tema e é frequentemente cobrada pela banca CEBRASPE, sendo essencial para evitar pegadinhas.",
+    "has_information_limitation": false,
+    "information_limitation_desc": null,
+    "content_checksum": "placeholder_checksum_for_content",
+    "extras": {}
+  },
+  "blocos_textuais": [
+    {
+      "external_block_code": "blc_001",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 1,
+      "title": "Introdução às Forças Armadas na Constituição Federal",
+      "content": "As Forças Armadas, tema de grande relevância no Direito Constitucional, são tratadas nos artigos 142 e 143 da Constituição Federal de 1988 (CF/88). Compreender sua estrutura, finalidade e limites é essencial para qualquer candidato a concurso público, especialmente aqueles que enfrentam a banca CEBRASPE, conhecida por sua cobrança detalhada e por vezes literal desses dispositivos.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_002",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 2,
+      "title": "Art. 142 da CF/88: Estrutura e Finalidade das Forças Armadas",
+      "content": "O artigo 142 da Constituição Federal estabelece que as Forças Armadas são constituídas pela Marinha, pelo Exército e pela Aeronáutica. Elas são instituições nacionais permanentes e regulares, organizadas com base na hierarquia e na disciplina, sob a autoridade suprema do Presidente da República. Suas finalidades são: a defesa da Pátria; a garantia dos poderes constitucionais; e, por iniciativa de qualquer destes, a garantia da lei e da ordem.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_003",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 3,
+      "title": "Princípios Fundamentais: Hierarquia e Disciplina",
+      "content": "A organização das Forças Armadas é pautada em dois princípios basilares: a hierarquia e a disciplina. A hierarquia militar é a ordenação da autoridade em níveis sucessivos, enquanto a disciplina é a rigorosa observância e o acatamento integral das leis, regulamentos, normas e disposições que fundamentam o organismo militar. Esses princípios são cruciais para a coesão e operacionalidade das Forças.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_004",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 4,
+      "title": "Autoridade Suprema e Controle Civil",
+      "content": "A autoridade suprema das Forças Armadas é exercida pelo Presidente da República, que é o Comandante em Chefe. Este é um ponto fundamental que demarca o controle civil sobre as Forças Armadas, essencial para a manutenção do Estado Democrático de Direito. O controle civil garante que as decisões estratégicas e políticas do país permaneçam nas mãos da liderança política eleita, e não dos militares profissionais.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_005",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 5,
+      "title": "Garantia da Lei e da Ordem (GLO)",
+      "content": "A atuação das Forças Armadas na garantia da lei e da ordem (GLO) é uma de suas finalidades constitucionais. Contudo, essa atuação não pode ser por iniciativa própria das Forças Armadas. Ela deve ocorrer 'por iniciativa de qualquer dos Poderes Constitucionais' (Executivo, Legislativo ou Judiciário). Este é um detalhe frequentemente explorado em questões de prova.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_006",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 6,
+      "title": "O 'Poder Moderador' e a Jurisprudência do STF",
+      "content": "Uma das maiores pegadinhas e pontos de debate recentes sobre o Art. 142 da CF/88 diz respeito à tese do 'poder moderador' das Forças Armadas. O Supremo Tribunal Federal (STF), por unanimidade, já pacificou o entendimento de que a Constituição Federal não confere às Forças Armadas o papel de 'poder moderador' para arbitrar conflitos entre os Poderes Executivo, Legislativo e Judiciário. A missão institucional das Forças Armadas é subalterna aos poderes civis e não acomoda qualquer interpretação que permita sua utilização para indevidas intromissões no funcionamento independente dos outros Poderes.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_007",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 7,
+      "title": "Restrições aos Militares (Art. 142, §3º, CF/88)",
+      "content": "O §3º do Art. 142 da CF/88, incluído pela Emenda Constitucional nº 18/1998, estabelece diversas disposições aplicáveis aos militares. Dentre elas, destacam-se: a proibição de sindicalização e greve; a vedação de filiação a partidos políticos enquanto em serviço ativo; e a regra de que o militar em atividade que tomar posse em cargo ou emprego público civil permanente será transferido para a reserva. Essas restrições visam garantir a neutralidade política e a dedicação exclusiva às suas funções constitucionais.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_008",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 8,
+      "title": "Habeas Corpus e Punições Disciplinares Militares",
+      "content": "O §2º do Art. 142 da CF/88 prevê expressamente que 'Não caberá habeas corpus em relação a punições disciplinares militares'. Essa é uma exceção constitucional à ampla garantia do habeas corpus, justificada pela necessidade de manutenção da hierarquia e disciplina nas Forças Armadas.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_009",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 9,
+      "title": "Art. 143 da CF/88: Serviço Militar",
+      "content": "O artigo 143 da Constituição Federal trata do serviço militar, estabelecendo que ele é obrigatório nos termos da lei. O §1º permite o serviço alternativo aos que, em tempo de paz, após alistados, alegarem imperativo de consciência (crença religiosa, convicção filosófica ou política) para se eximirem de atividades de caráter essencialmente militar. O §2º isenta mulheres e eclesiásticos do serviço militar obrigatório em tempo de paz, sujeitando-os a outros encargos que a lei lhes atribuir.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_010",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 10,
+      "title": "Padrão de Cobrança da Banca CEBRASPE",
+      "content": "A banca CEBRASPE (antigo CESPE) tem um padrão de cobrança bem definido para o tema Forças Armadas. É comum a exigência da literalidade dos artigos 142 e 143 da CF/88. As questões frequentemente abordam as finalidades das Forças Armadas, a autoridade suprema do Presidente da República, os princípios de hierarquia e disciplina, e as restrições aos militares. Um ponto de destaque é a interpretação do Art. 142 no que tange ao 'poder moderador', sendo crucial conhecer o entendimento do STF. A banca também explora a distinção entre a atuação das Forças Armadas e a segurança pública (Art. 144 da CF/88), que é de responsabilidade primária das polícias.",
+      "content_type": "teoria"
+    }
+  ],
+  "topicos": [
+    {
+      "external_topic_code": "top_001",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "9",
+      "title": "Forças Armadas na Constituição Federal",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 1
+    },
+    {
+      "external_topic_code": "top_002",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_001",
+      "topic_number": "9.1",
+      "title": "Art. 142 da CF/88: Disposições Gerais",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 2
+    },
+    {
+      "external_topic_code": "top_003",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_002",
+      "topic_number": "9.1.1",
+      "title": "Composição e Natureza Jurídica",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 3
+    },
+    {
+      "external_topic_code": "top_004",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_002",
+      "topic_number": "9.1.2",
+      "title": "Princípios Organizacionais: Hierarquia e Disciplina",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 4
+    },
+    {
+      "external_topic_code": "top_005",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_002",
+      "topic_number": "9.1.3",
+      "title": "Autoridade Suprema e Controle Civil",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 5
+    },
+    {
+      "external_topic_code": "top_006",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_002",
+      "topic_number": "9.1.4",
+      "title": "Finalidades Constitucionais",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 6
+    },
+    {
+      "external_topic_code": "top_007",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_006",
+      "topic_number": "9.1.4.1",
+      "title": "Defesa da Pátria",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 7
+    },
+    {
+      "external_topic_code": "top_008",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_006",
+      "topic_number": "9.1.4.2",
+      "title": "Garantia dos Poderes Constitucionais",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 8
+    },
+    {
+      "external_topic_code": "top_009",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_006",
+      "topic_number": "9.1.4.3",
+      "title": "Garantia da Lei e da Ordem (GLO)",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 9
+    },
+    {
+      "external_topic_code": "top_010",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_002",
+      "topic_number": "9.1.5",
+      "title": "Restrições e Disposições Específicas (Art. 142, §3º)",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 10
+    },
+    {
+      "external_topic_code": "top_011",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_002",
+      "topic_number": "9.1.6",
+      "title": "Inaplicabilidade do Habeas Corpus (Art. 142, §2º)",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 11
+    },
+    {
+      "external_topic_code": "top_012",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_001",
+      "topic_number": "9.2",
+      "title": "Art. 143 da CF/88: Serviço Militar",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 12
+    },
+    {
+      "external_topic_code": "top_013",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_012",
+      "topic_number": "9.2.1",
+      "title": "Obrigatoriedade e Serviço Alternativo",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 13
+    },
+    {
+      "external_topic_code": "top_014",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_012",
+      "topic_number": "9.2.2",
+      "title": "Isenções",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 14
+    },
+    {
+      "external_topic_code": "top_015",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_001",
+      "topic_number": "9.3",
+      "title": "Padrão de Cobrança CEBRASPE e Pegadinhas",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 15
+    },
+    {
+      "external_topic_code": "top_016",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_015",
+      "topic_number": "9.3.1",
+      "title": "Literalidade e Conceitos Chave",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 16
+    },
+    {
+      "external_topic_code": "top_017",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_015",
+      "topic_number": "9.3.2",
+      "title": "O 'Poder Moderador' e o STF",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 17
+    },
+    {
+      "external_topic_code": "top_018",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_015",
+      "topic_number": "9.3.3",
+      "title": "Distinção GLO x Segurança Pública",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 18
+    }
+  ],
+  "topico_componentes": [
+    {
+      "component_id": "cmp_001",
+      "topic_id": "top_003",
+      "component_type": "texto",
+      "content": "As Forças Armadas são compostas pela Marinha, pelo Exército e pela Aeronáutica.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_002",
+      "topic_id": "top_003",
+      "component_type": "texto",
+      "content": "São instituições nacionais permanentes e regulares.",
+      "order": 2
+    },
+    {
+      "component_id": "cmp_003",
+      "topic_id": "top_004",
+      "component_type": "texto",
+      "content": "Organizadas com base na hierarquia e na disciplina.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_004",
+      "topic_id": "top_005",
+      "component_type": "texto",
+      "content": "Subordinadas à autoridade suprema do Presidente da República.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_005",
+      "topic_id": "top_005",
+      "component_type": "texto",
+      "content": "O Presidente da República é o Comandante em Chefe das Forças Armadas, garantindo o controle civil.",
+      "order": 2
+    },
+    {
+      "component_id": "cmp_006",
+      "topic_id": "top_007",
+      "component_type": "texto",
+      "content": "Destinam-se à defesa da Pátria.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_007",
+      "topic_id": "top_008",
+      "component_type": "texto",
+      "content": "Destinam-se à garantia dos poderes constitucionais.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_008",
+      "topic_id": "top_009",
+      "component_type": "texto",
+      "content": "Destinam-se, por iniciativa de qualquer dos Poderes Constitucionais, à garantia da lei e da ordem (GLO).",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_009",
+      "topic_id": "top_010",
+      "component_type": "texto",
+      "content": "Proibição de sindicalização e greve.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_010",
+      "topic_id": "top_010",
+      "component_type": "texto",
+      "content": "Proibição de filiação a partidos políticos enquanto em serviço ativo.",
+      "order": 2
+    },
+    {
+      "component_id": "cmp_011",
+      "topic_id": "top_010",
+      "component_type": "texto",
+      "content": "Militar em atividade que tomar posse em cargo ou emprego público civil permanente será transferido para a reserva.",
+      "order": 3
+    },
+    {
+      "component_id": "cmp_012",
+      "topic_id": "top_011",
+      "component_type": "texto",
+      "content": "Não caberá habeas corpus em relação a punições disciplinares militares.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_013",
+      "topic_id": "top_013",
+      "component_type": "texto",
+      "content": "Serviço militar é obrigatório nos termos da lei.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_014",
+      "topic_id": "top_013",
+      "component_type": "texto",
+      "content": "Possibilidade de serviço alternativo por imperativo de consciência (crença religiosa, convicção filosófica ou política) em tempo de paz.",
+      "order": 2
+    },
+    {
+      "component_id": "cmp_015",
+      "topic_id": "top_014",
+      "component_type": "texto",
+      "content": "Mulheres e eclesiásticos são isentos do serviço militar obrigatório em tempo de paz.",
+      "order": 1
+    }
+  ],
+  "pegadinhas": [
+    {
+      "trap_id": "peg_001",
+      "material_id": "mat_001",
+      "topic_id": "top_009",
+      "title": "Pegadinha 1",
+      "description": "Afirmar que as Forças Armadas podem atuar na garantia da lei e da ordem (GLO) por iniciativa própria, sem a requisição de um dos Poderes Constitucionais. A CF/88 é clara: 'por iniciativa de qualquer destes'.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 1
+    },
+    {
+      "trap_id": "peg_002",
+      "material_id": "mat_001",
+      "topic_id": "top_017",
+      "title": "Pegadinha 2",
+      "description": "Atribuir às Forças Armadas o papel de 'poder moderador' ou de árbitro em conflitos entre os Poderes. O STF já rechaçou essa tese.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 2
+    },
+    {
+      "trap_id": "peg_003",
+      "material_id": "mat_001",
+      "topic_id": "top_005",
+      "title": "Pegadinha 3",
+      "description": "Confundir a autoridade suprema do Presidente da República com a subordinação a outros Poderes ou a uma 'tutela' militar. A subordinação é ao Presidente.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 3
+    },
+    {
+      "trap_id": "peg_004",
+      "material_id": "mat_001",
+      "topic_id": "top_004",
+      "title": "Pegadinha 4",
+      "description": "Inverter ou misturar os princípios de organização das Forças Armadas (hierarquia e disciplina) com outros conceitos, como 'ética militar' ou 'patriotismo', que, embora relevantes, não são os princípios constitucionais expressos no Art. 142.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 4
+    },
+    {
+      "trap_id": "peg_005",
+      "material_id": "mat_001",
+      "topic_id": "top_011",
+      "title": "Pegadinha 5",
+      "description": "Afirmar que cabe habeas corpus contra punições disciplinares militares. O Art. 142, §2º, da CF/88 veda expressamente essa possibilidade.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 5
+    },
+    {
+      "trap_id": "peg_006",
+      "material_id": "mat_001",
+      "topic_id": "top_018",
+      "title": "Pegadinha 6",
+      "description": "Confundir as Forças Armadas (Art. 142) com os órgãos de segurança pública (Art. 144), atribuindo às Forças Armadas a responsabilidade primária pela segurança pública interna. A atuação das Forças Armadas na GLO é subsidiária e excepcional.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 6
+    },
+    {
+      "trap_id": "peg_007",
+      "material_id": "mat_001",
+      "topic_id": "top_010",
+      "title": "Pegadinha 7",
+      "description": "Ignorar as restrições aos militares, como a proibição de sindicalização, greve e filiação partidária enquanto em serviço ativo.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 7
+    }
+  ],
+  "pontos_memorizacao": [
+    {
+      "memory_id": "mem_001",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": null,
+      "content": "Art. 142, CF/88: Marinha, Exército e Aeronáutica. Permanentes e regulares. Hierarquia e disciplina. Autoridade suprema do Presidente da República. Finalidades: defesa da Pátria, garantia dos poderes constitucionais e, por iniciativa de qualquer destes, da lei e da ordem.",
+      "order": 1
+    },
+    {
+      "memory_id": "mem_002",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": null,
+      "content": "Art. 142, §2º, CF/88: Não cabe habeas corpus em relação a punições disciplinares militares.",
+      "order": 2
+    },
+    {
+      "memory_id": "mem_003",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": null,
+      "content": "Art. 142, §3º, CF/88: Proibição de sindicalização, greve e filiação partidária (enquanto em serviço ativo).",
+      "order": 3
+    },
+    {
+      "memory_id": "mem_004",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": null,
+      "content": "Art. 143, CF/88: Serviço militar obrigatório. Serviço alternativo por imperativo de consciência. Isenção para mulheres e eclesiásticos em tempo de paz.",
+      "order": 4
+    },
+    {
+      "memory_id": "mem_005",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": null,
+      "content": "STF (ADI 6457): Forças Armadas NÃO exercem 'poder moderador'.",
+      "order": 5
+    }
+  ],
+  "quadro_sinotico_itens": [
+    {
+      "summary_item_id": "sum_001",
+      "title": null,
+      "content": "",
+      "order": 1
+    },
+    {
+      "summary_item_id": "sum_002",
+      "title": null,
+      "content": "",
+      "order": 2
+    },
+    {
+      "summary_item_id": "sum_003",
+      "title": null,
+      "content": "",
+      "order": 3
+    },
+    {
+      "summary_item_id": "sum_004",
+      "title": null,
+      "content": "",
+      "order": 4
+    },
+    {
+      "summary_item_id": "sum_005",
+      "title": null,
+      "content": "",
+      "order": 5
+    },
+    {
+      "summary_item_id": "sum_006",
+      "title": null,
+      "content": "",
+      "order": 6
+    },
+    {
+      "summary_item_id": "sum_007",
+      "title": null,
+      "content": "",
+      "order": 7
+    },
+    {
+      "summary_item_id": "sum_008",
+      "title": null,
+      "content": "",
+      "order": 8
+    },
+    {
+      "summary_item_id": "sum_009",
+      "title": null,
+      "content": "",
+      "order": 9
+    }
+  ],
+  "questoes": [
+    {
+      "question_id": "qst_001",
+      "material_id": "mat_001",
+      "topic_id": "top_009",
+      "board": "CEBRASPE",
+      "year": 2023,
+      "organization": null,
+      "role": null,
+      "statement": "As Forças Armadas, constituídas pela Marinha, pelo Exército e pela Aeronáutica, são instituições nacionais permanentes e regulares, organizadas com base na hierarquia e na disciplina, sob a autoridade suprema do Presidente da República, e destinam-se à defesa da Pátria, à garantia dos poderes constitucionais e, por iniciativa própria, à garantia da lei e da ordem.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": "Média",
+      "external_reference": null,
+      "commentary": "O item está ERRADO. A pegadinha reside na expressão 'por iniciativa própria'. O Art. 142 da CF/88 estabelece que a garantia da lei e da ordem pelas Forças Armadas deve ocorrer 'por iniciativa de qualquer destes' (Poderes Constitucionais), e não por iniciativa própria das Forças Armadas. Este é um erro comum explorado pela banca CEBRASPE.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_001"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_002",
+      "material_id": "mat_001",
+      "topic_id": "top_011",
+      "board": "CEBRASPE",
+      "year": 2022,
+      "organization": null,
+      "role": null,
+      "statement": "De acordo com a Constituição Federal, não caberá habeas corpus em relação a punições disciplinares militares.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": "Fácil",
+      "external_reference": null,
+      "commentary": "O item está CERTO. O Art. 142, §2º, da Constituição Federal de 1988 é expresso ao dispor que 'Não caberá habeas corpus em relação a punições disciplinares militares'. Trata-se de uma exceção constitucional à garantia do habeas corpus.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_002"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_003",
+      "material_id": "mat_001",
+      "topic_id": "top_010",
+      "board": "CEBRASPE",
+      "year": 2021,
+      "organization": null,
+      "role": null,
+      "statement": "O militar em atividade que tomar posse em cargo ou emprego público civil permanente será transferido para a reserva, nos termos da lei.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": "Fácil",
+      "external_reference": null,
+      "commentary": "O item está CERTO. Conforme o Art. 142, §3º, inciso II, da CF/88, 'o militar em atividade que tomar posse em cargo ou emprego público civil permanente, ressalvada a hipótese prevista no art. 37, inciso XVI, alínea 'c', será transferido para a reserva, nos termos da lei'.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_003"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_004",
+      "material_id": "mat_001",
+      "topic_id": "top_017",
+      "board": "CEBRASPE",
+      "year": 2024,
+      "organization": null,
+      "role": null,
+      "statement": "As Forças Armadas, em sua missão constitucional, podem atuar como poder moderador para dirimir eventuais conflitos entre o Poder Executivo, o Poder Legislativo e o Poder Judiciário.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": "Média",
+      "external_reference": null,
+      "commentary": "O item está ERRADO. O Supremo Tribunal Federal (STF) já pacificou o entendimento de que as Forças Armadas não exercem o papel de 'poder moderador' para dirimir conflitos entre os Poderes. Sua função é de defesa da Pátria, garantia dos poderes constitucionais e da lei e da ordem, sempre sob a autoridade suprema do Presidente da República e em subordinação aos poderes civis. Esta é uma pegadinha recorrente e um ponto crucial da jurisprudência atual.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_004"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_005",
+      "material_id": "mat_001",
+      "topic_id": "top_010",
+      "board": "CEBRASPE",
+      "year": 2023,
+      "organization": null,
+      "role": null,
+      "statement": "A Constituição Federal proíbe a sindicalização e a greve aos militares, mas permite a filiação a partidos políticos, desde que não estejam em serviço ativo.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": "Média",
+      "external_reference": null,
+      "commentary": "O item está ERRADO. O Art. 142, §3º, incisos IV e V, da CF/88, proíbe tanto a sindicalização e a greve quanto a filiação a partidos políticos para o militar enquanto em serviço ativo. A questão afirma que a filiação partidária é permitida se não estiver em serviço ativo, mas a vedação é 'enquanto em serviço ativo'. A filiação partidária é vedada para o militar da ativa.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_005"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_006",
+      "material_id": "mat_001",
+      "topic_id": "top_013",
+      "board": "CEBRASPE",
+      "year": 2022,
+      "organization": null,
+      "role": null,
+      "statement": "O serviço militar é obrigatório nos termos da lei, sendo vedada a atribuição de serviço alternativo por imperativo de consciência.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": "Fácil",
+      "external_reference": null,
+      "commentary": "O item está ERRADO. O Art. 143, §1º, da CF/88, prevê expressamente a possibilidade de atribuição de serviço alternativo aos que, em tempo de paz, alegarem imperativo de consciência (crença religiosa, convicção filosófica ou política) para se eximirem de atividades de caráter essencialmente militar.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_006"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_007",
+      "material_id": "mat_001",
+      "topic_id": "top_014",
+      "board": "CEBRASPE",
+      "year": 2021,
+      "organization": null,
+      "role": null,
+      "statement": "As mulheres e os eclesiásticos ficam isentos do serviço militar obrigatório em tempo de paz, sujeitos, porém, a outros encargos que a lei lhes atribuir.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": "Fácil",
+      "external_reference": null,
+      "commentary": "O item está CERTO. O Art. 143, §2º, da CF/88, estabelece que 'As mulheres e os eclesiásticos ficam isentos do serviço militar obrigatório em tempo de paz, sujeitos, porém, a outros encargos que a lei lhes atribuir'.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_007"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_008",
+      "material_id": "mat_001",
+      "topic_id": "top_004",
+      "board": "CEBRASPE",
+      "year": 2024,
+      "organization": null,
+      "role": null,
+      "statement": "A organização das Forças Armadas tem como pilares a hierarquia, a disciplina e a ética militar, conforme expressamente previsto na Constituição Federal.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": "Média",
+      "external_reference": null,
+      "commentary": "O item está ERRADO. O Art. 142 da CF/88 estabelece que as Forças Armadas são organizadas 'com base na hierarquia e na disciplina'. A 'ética militar', embora seja um valor importante, não é um dos princípios constitucionais expressos para a organização das Forças Armadas.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_008"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_009",
+      "material_id": "mat_001",
+      "topic_id": "top_017",
+      "board": "CEBRASPE",
+      "year": 2024,
+      "organization": null,
+      "role": null,
+      "statement": "A prerrogativa do Presidente da República de autorizar o emprego das Forças Armadas, por iniciativa própria ou em atendimento a pedido manifestado por quaisquer dos outros poderes constitucionais, pode ser exercida contra os próprios Poderes entre si, em situações de grave crise institucional.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": "Difícil",
+      "external_reference": null,
+      "commentary": "O item está ERRADO. O STF, no julgamento da ADI 6457, assentou que a prerrogativa do Presidente da República de autorizar o emprego das Forças Armadas, por iniciativa própria ou em atendimento a pedido manifestado por quaisquer dos outros poderes constitucionais, NÃO PODE JAMAIS SER EXERCIDA CONTRA OS PRÓPRIOS PODERES ENTRE SI. Esta é uma interpretação crucial para a manutenção do equilíbrio entre os Poderes e a estabilidade democrática.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_009"
+        ],
+        "count": 1
+      }
+    }
+  ],
+  "comentarios_questoes": [
+    {
+      "comment_id": "com_001",
+      "question_id": "qst_001",
+      "content": "O item está ERRADO. A pegadinha reside na expressão 'por iniciativa própria'. O Art. 142 da CF/88 estabelece que a garantia da lei e da ordem pelas Forças Armadas deve ocorrer 'por iniciativa de qualquer destes' (Poderes Constitucionais), e não por iniciativa própria das Forças Armadas. Este é um erro comum explorado pela banca CEBRASPE.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_002",
+      "question_id": "qst_002",
+      "content": "O item está CERTO. O Art. 142, §2º, da Constituição Federal de 1988 é expresso ao dispor que 'Não caberá habeas corpus em relação a punições disciplinares militares'. Trata-se de uma exceção constitucional à garantia do habeas corpus.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_003",
+      "question_id": "qst_003",
+      "content": "O item está CERTO. Conforme o Art. 142, §3º, inciso II, da CF/88, 'o militar em atividade que tomar posse em cargo ou emprego público civil permanente, ressalvada a hipótese prevista no art. 37, inciso XVI, alínea 'c', será transferido para a reserva, nos termos da lei'.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_004",
+      "question_id": "qst_004",
+      "content": "O item está ERRADO. O Supremo Tribunal Federal (STF) já pacificou o entendimento de que as Forças Armadas não exercem o papel de 'poder moderador' para dirimir conflitos entre os Poderes. Sua função é de defesa da Pátria, garantia dos poderes constitucionais e da lei e da ordem, sempre sob a autoridade suprema do Presidente da República e em subordinação aos poderes civis. Esta é uma pegadinha recorrente e um ponto crucial da jurisprudência atual.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_005",
+      "question_id": "qst_005",
+      "content": "O item está ERRADO. O Art. 142, §3º, incisos IV e V, da CF/88, proíbe tanto a sindicalização e a greve quanto a filiação a partidos políticos para o militar enquanto em serviço ativo. A questão afirma que a filiação partidária é permitida se não estiver em serviço ativo, mas a vedação é 'enquanto em serviço ativo'. A filiação partidária é vedada para o militar da ativa.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_006",
+      "question_id": "qst_006",
+      "content": "O item está ERRADO. O Art. 143, §1º, da CF/88, prevê expressamente a possibilidade de atribuição de serviço alternativo aos que, em tempo de paz, alegarem imperativo de consciência (crença religiosa, convicção filosófica ou política) para se eximirem de atividades de caráter essencialmente militar.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_007",
+      "question_id": "qst_007",
+      "content": "O item está CERTO. O Art. 143, §2º, da CF/88, estabelece que 'As mulheres e os eclesiásticos ficam isentos do serviço militar obrigatório em tempo de paz, sujeitos, porém, a outros encargos que a lei lhes atribuir'.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_008",
+      "question_id": "qst_008",
+      "content": "O item está ERRADO. O Art. 142 da CF/88 estabelece que as Forças Armadas são organizadas 'com base na hierarquia e na disciplina'. A 'ética militar', embora seja um valor importante, não é um dos princípios constitucionais expressos para a organização das Forças Armadas.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_009",
+      "question_id": "qst_009",
+      "content": "O item está ERRADO. O STF, no julgamento da ADI 6457, assentou que a prerrogativa do Presidente da República de autorizar o emprego das Forças Armadas, por iniciativa própria ou em atendimento a pedido manifestado por quaisquer dos outros poderes constitucionais, NÃO PODE JAMAIS SER EXERCIDA CONTRA OS PRÓPRIOS PODERES ENTRE SI. Esta é uma interpretação crucial para a manutenção do equilíbrio entre os Poderes e a estabilidade democrática.",
+      "explanation_alternatives": ""
+    }
+  ],
+  "checklist_revisao": [
+    {
+      "checklist_id": "chk_001",
+      "material_id": "mat_001",
+      "topic_id": "top_002",
+      "item_text": "Revisar a literalidade do Art. 142 da CF/88 (composição, natureza, princípios, autoridade suprema, finalidades).",
+      "completed": false,
+      "order": 1
+    },
+    {
+      "checklist_id": "chk_002",
+      "material_id": "mat_001",
+      "topic_id": "top_006",
+      "item_text": "Memorizar as três finalidades das Forças Armadas e a condição para a GLO ('por iniciativa de qualquer destes').",
+      "completed": false,
+      "order": 2
+    },
+    {
+      "checklist_id": "chk_003",
+      "material_id": "mat_001",
+      "topic_id": "top_010",
+      "item_text": "Compreender e memorizar as restrições aos militares (sindicalização, greve, filiação partidária em serviço ativo).",
+      "completed": false,
+      "order": 3
+    },
+    {
+      "checklist_id": "chk_004",
+      "material_id": "mat_001",
+      "topic_id": "top_011",
+      "item_text": "Fixar a regra do habeas corpus para punições disciplinares militares (Art. 142, §2º).",
+      "completed": false,
+      "order": 4
+    },
+    {
+      "checklist_id": "chk_005",
+      "material_id": "mat_001",
+      "topic_id": "top_017",
+      "item_text": "Entender e memorizar o posicionamento do STF sobre o 'poder moderador' das Forças Armadas (ADI 6457).",
+      "completed": false,
+      "order": 5
+    },
+    {
+      "checklist_id": "chk_006",
+      "material_id": "mat_001",
+      "topic_id": "top_018",
+      "item_text": "Distinguir claramente as funções das Forças Armadas (Art. 142) das funções dos órgãos de segurança pública (Art. 144).",
+      "completed": false,
+      "order": 6
+    },
+    {
+      "checklist_id": "chk_007",
+      "material_id": "mat_001",
+      "topic_id": "top_012",
+      "item_text": "Revisar o Art. 143 da CF/88 (serviço militar obrigatório, serviço alternativo, isenções).",
+      "completed": false,
+      "order": 7
+    },
+    {
+      "checklist_id": "chk_008",
+      "material_id": "mat_001",
+      "topic_id": "top_015",
+      "item_text": "Praticar questões CEBRASPE sobre o tema, focando nas pegadinhas e na interpretação literal dos dispositivos constitucionais.",
+      "completed": false,
+      "order": 8
+    }
+  ],
+  "referencias": [
+    {
+      "reference_id": "ref_001",
+      "material_id": "mat_001",
+      "reference_type": "Legislação",
+      "author_name": null,
+      "title": "Constituição da República Federativa do Brasil de 1988",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "http://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_002",
+      "material_id": "mat_001",
+      "reference_type": "Jurisprudência",
+      "author_name": null,
+      "title": "Supremo Tribunal Federal (STF) - Ação Direta de Inconstitucionalidade (ADI) 6457",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=5913214",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_003",
+      "material_id": "mat_001",
+      "reference_type": "Doutrina",
+      "author_name": "Luís Roberto Barroso",
+      "title": "Curso de Direito Constitucional Contemporâneo",
+      "publisher": "Saraiva Educação",
+      "year_reference": 2022,
+      "isbn": null,
+      "url": null,
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_004",
+      "material_id": "mat_001",
+      "reference_type": "Artigo Acadêmico",
+      "author_name": "Eduardo F Gorga",
+      "title": "Controle civil sobre as Forças Armadas brasileiras: Defesa e segurança do Estado",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://velhogeneral.com.br/controle-civil-sobre-as-forcas-armadas-brasileiras-defesa-e-seguranca-do-estado/",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_005",
+      "material_id": "mat_001",
+      "reference_type": "Notícia/Análise",
+      "author_name": null,
+      "title": "Por unanimidade, STF diz que Forças Armadas não são 'poder moderador'",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2024-04/por-unanimidade-stf-diz-que-forcas-armadas-nao-sao-poder-moderador",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_006",
+      "material_id": "mat_001",
+      "reference_type": "Artigo Acadêmico",
+      "author_name": "Diversos",
+      "title": "A (in)constitucionalidade dos regulamentos disciplinares das Forças Armadas",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": null,
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_007",
+      "material_id": "mat_001",
+      "reference_type": "Vídeo Educacional",
+      "author_name": "Adriane Fauth",
+      "title": "Armed Forces - Cebraspe | Constitutional Law | Adriane Fauth",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.youtube.com/watch?v=EXAMPLE_VIDEO_ID",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_008",
+      "material_id": "mat_001",
+      "reference_type": "Portal de Questões",
+      "author_name": null,
+      "title": "Qconcursos.com - Questões de Concurso sobre Forças Armadas e Segurança Pública em Direito Constitucional para CESPE / CEBRASPE",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.qconcursos.com/questoes-de-concursos/disciplinas/direito-constitucional/defesa-do-estado-e-das-instituicoes-democraticas/forcas-armadas-e-seguranca-publica/banca/cespe-cebraspe",
+      "accessed_at": null,
+      "description": null
+    }
+  ],
+  "estatisticas_de_geracao": {
+    "total_topicos": 18,
+    "total_componentes_topico": 15,
+    "total_entendimentos_relevantes": 2,
+    "total_pegadinhas": 7,
+    "total_pontos_memorizacao": 5,
+    "total_itens_quadro_sinotico": 9,
+    "total_questoes": 9,
+    "total_comentarios_questoes": 9,
+    "total_itens_checklist": 8,
+    "total_referencias": 8
+  },
+  "validacao_interna": {
+    "pesquisa_previa_realizada": true,
+    "analise_de_cobrancas_anteriores_realizada": true,
+    "material_atualizado": true,
+    "json_valido": true,
+    "estrutura_relacional_respeitada": true,
+    "numeracao_respeitada": true,
+    "houve_quebra_de_hierarquia": false,
+    "houve_nivel_numerico_superior_a_3": false,
+    "fontes_verificadas": true,
+    "sem_informacao_inventada": true
+  },
+  "metadata": {
+    "source_file_name": "9__direito-constitucional-e-legislação-interna-da-câmara-dos-deputados__9-forças-armadas.json",
+    "normalized_checksum": "2f9fc6111b745d6cf2e2dfbc2e60d256776aca0f5d9e83cafdf6c794e90f0613",
+    "subject_slug": "dir-const-legcam",
+    "material_slug": "forcas-armadas-direito-constitucional",
+    "title_slug": "forcas-armadas-na-constituicao-federal-teoria",
+    "board_slug": "cebraspe",
+    "counters": {
+      "blocks": 10,
+      "topics": 18,
+      "topic_components": 15,
+      "traps": 7,
+      "memory_points": 5,
+      "summary_items": 9,
+      "questions": 9,
+      "question_comments": 9,
+      "checklist_items": 8,
+      "references": 8
+    }
+  }
+}

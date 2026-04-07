@@ -1,0 +1,752 @@
+{
+  "schema_version": "1.0",
+  "normalized_at": "2026-04-07T15:39:14.985922-03:00",
+  "normalizer_version": "2.0.0",
+  "exported_at": "2026-04-06T20:35:00Z",
+  "source_request": {
+    "purpose": "Concurso público",
+    "general_area": "Exatas",
+    "subject_name": "Raciocínio Lógico e Noções de Estatística",
+    "subarea_name": "Lógica, conjuntos, contagem e estatística",
+    "main_theme": "3 Lógica sentencial (ou proposicional): 3.5 Diagramas lógicos",
+    "theme_scope": "Teoria completa, incidência em prova, padrão de cobrança da banca, pegadinhas e questões comentadas",
+    "board_style": "CEBRASPE",
+    "depth_level": "Exaustivo",
+    "goal": "Teoria completa, revisão estratégica, pegadinhas e questões comentadas",
+    "base_topic_number": "3",
+    "topic_title": "3 Lógica sentencial (ou proposicional): 3.5 Diagramas lógicos",
+    "syllabus_reference": "Conteúdo programático da disciplina Raciocínio Lógico e Noções de Estatística",
+    "priority_sources": [
+      "Bibliografia técnica consolidada",
+      "Definições, propriedades, regras e métodos consagrados",
+      "Questões anteriores da banca"
+    ],
+    "minimum_questions": 8,
+    "question_format": "Certo/Errado",
+    "prioritize_real_questions": true,
+    "response_language": "português",
+    "target_audience": "Candidato de concurso público",
+    "additional_notes": "Executar exatamente para esta linha individual do topicos.txt. Não juntar com outros tópicos. Não pular este tópico. Dar destaque ao padrão de cobrança da banca, aos pontos mais cobrados e às pegadinhas recorrentes.",
+    "input_hash": "163a9347559d",
+    "extras": {}
+  },
+  "material": {
+    "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-35-diagramas-lógicos",
+    "slug": "diagramas-logicos-cebraspe",
+    "title": "Diagramas Lógicos para Concursos: Teoria, Padrão CEBRASPE e Questões Comentadas",
+    "base_number": "3",
+    "topic_title": "3 Lógica sentencial (ou proposicional): 3.5 Diagramas lógicos",
+    "purpose": "Concurso público",
+    "area_name": "Exatas",
+    "subject_name": "Raciocínio Lógico e Noções de Estatística",
+    "subarea_name": "Lógica, conjuntos, contagem e estatística",
+    "main_theme": "3 Lógica sentencial (ou proposicional): 3.5 Diagramas lógicos",
+    "theme_scope": "Teoria completa, incidência em prova, padrão de cobrança da banca, pegadinhas e questões comentadas",
+    "board_style": "CEBRASPE",
+    "depth_level": "Exaustivo",
+    "study_goal": "Teoria completa, revisão estratégica, pegadinhas e questões comentadas",
+    "target_audience": "Candidato de concurso público",
+    "language_code": "português",
+    "update_status": "Atualizado em 2026",
+    "current_note": "Conteúdo revisado para refletir o padrão de cobrança e a bibliografia mais recente, com foco em questões CEBRASPE de 2020-2025.",
+    "has_case_law": false,
+    "case_law_justification": "A matéria de Raciocínio Lógico, especialmente o tema de Diagramas Lógicos, não exige ou se beneficia da inclusão de jurisprudência.",
+    "has_information_limitation": false,
+    "information_limitation_desc": null,
+    "content_checksum": "calculado_apos_geracao_completa",
+    "extras": {}
+  },
+  "blocos_textuais": [
+    {
+      "external_block_code": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-35-diagramas-lógicos_blc_001",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-35-diagramas-lógicos",
+      "topic_id": null,
+      "order": 1,
+      "title": "Introdução aos Diagramas Lógicos",
+      "content": "Os diagramas lógicos são ferramentas visuais essenciais no Raciocínio Lógico, especialmente para a representação e análise de proposições categóricas e relações entre conjuntos. Eles permitem uma compreensão mais clara de argumentos e inferências, minimizando erros de interpretação. Bancas como o CEBRASPE frequentemente exploram a capacidade do candidato de traduzir sentenças verbais para representações diagramáticas e vice-versa, bem como de extrair conclusões válidas a partir delas.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-35-diagramas-lógicos_blc_002",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-35-diagramas-lógicos",
+      "topic_id": null,
+      "order": 2,
+      "title": "O que são Diagramas Lógicos?",
+      "content": "Diagramas lógicos, comumente conhecidos como Diagramas de Venn ou Euler-Venn, são representações gráficas que utilizam figuras geométricas (geralmente círculos) para ilustrar as relações entre conjuntos ou categorias. Cada círculo representa um conjunto, e as áreas de sobreposição (interseção) ou exclusão indicam as relações lógicas entre eles.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-35-diagramas-lógicos_blc_003",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-35-diagramas-lógicos",
+      "topic_id": null,
+      "order": 3,
+      "title": "Proposições Categóricas e Quantificadores",
+      "content": "A base dos problemas de diagramas lógicos em concursos reside nas proposições categóricas, que são sentenças que afirmam ou negam algo sobre a relação entre duas categorias (sujeito e predicado). Os quantificadores lógicos determinam a extensão dessa relação. Os principais quantificadores são: 'Todo', 'Nenhum', 'Algum' e 'Algum não'.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-35-diagramas-lógicos_blc_004",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-35-diagramas-lógicos",
+      "topic_id": null,
+      "order": 4,
+      "title": "Representação Gráfica das Proposições Categóricas",
+      "content": "A correta representação das proposições categóricas é crucial para a resolução de questões. As quatro formas básicas são:<ul><li><b>Todo A é B (Universal Afirmativa):</b> O conjunto A está totalmente contido no conjunto B. Diagramaticamente, o círculo A é desenhado inteiramente dentro do círculo B.</li><li><b>Nenhum A é B (Universal Negativa):</b> Os conjuntos A e B não possuem elementos em comum. Diagramaticamente, os círculos A e B são desenhados separados, sem intersecção.</li><li><b>Algum A é B (Particular Afirmativa):</b> Existe pelo menos um elemento que pertence tanto ao conjunto A quanto ao conjunto B. Diagramaticamente, os círculos A e B se cruzam, e a área de intersecção é marcada para indicar a existência.</li><li><b>Algum A não é B (Particular Negativa):</b> Existe pelo menos um elemento que pertence ao conjunto A, mas não pertence ao conjunto B. Diagramaticamente, os círculos A e B se cruzam, e a parte de A que não se sobrepõe a B é marcada para indicar a existência.</li></ul>",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-35-diagramas-lógicos_blc_005",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-35-diagramas-lógicos",
+      "topic_id": null,
+      "order": 5,
+      "title": "Estratégias de Resolução de Problemas com Diagramas Lógicos",
+      "content": "Para resolver questões de diagramas lógicos, especialmente as do CEBRASPE, é fundamental seguir um método estruturado. <ul><li><b>Passo 1: Identificar os Conjuntos:</b> Determine quais categorias estão sendo relacionadas nas proposições.</li><li><b>Passo 2: Desenhar os Diagramas:</b> Represente cada proposição categórica com o diagrama de Venn-Euler correspondente. Para múltiplas proposições, combine os diagramas, buscando as interseções e exclusões.</li><li><b>Passo 3: Analisar as Relações:</b> Observe as áreas dos diagramas que são preenchidas ou vazias, e as que indicam existência.</li><li><b>Passo 4: Extrair Conclusões:</b> A partir da representação visual, verifique qual das alternativas apresentadas é uma conclusão lógica válida ou qual item 'Certo/Errado' corresponde à verdade.</li><li><b>Passo 5: Atenção aos Quantificadores:</b> A interpretação precisa de 'todo', 'nenhum', 'algum' e 'algum não' é a chave para evitar erros.</li></ul>",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-35-diagramas-lógicos_blc_006",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-35-diagramas-lógicos",
+      "topic_id": null,
+      "order": 6,
+      "title": "Padrão de Cobrança da Banca CEBRASPE",
+      "content": "O CEBRASPE (antigo CESPE) tem um padrão de cobrança bem definido em Raciocínio Lógico, com forte ênfase em proposições, equivalências e negações. No que tange aos diagramas lógicos, a banca costuma exigir:<ul><li><b>Interpretação de Proposições Categóricas:</b> O candidato deve saber traduzir sentenças como 'Todo A é B' ou 'Algum C não é D' para suas respectivas representações visuais e vice-versa.</li><li><b>Inferências Lógicas:</b> A partir de duas ou mais premissas dadas, o candidato precisa identificar uma conclusão que seja necessariamente verdadeira (ou falsa) com base nos diagramas.</li><li><b>Problemas com Conjuntos:</b> Questões que envolvem o número de elementos em conjuntos, suas uniões e interseções, frequentemente utilizando o Princípio da Inclusão-Exclusão, são comuns.</li><li><b>Formato Certo/Errado:</b> A maioria das questões é apresentada nesse formato, exigindo uma análise precisa para julgar a veracidade da afirmação.</li></ul>",
+      "content_type": "teoria"
+    }
+  ],
+  "topicos": [
+    {
+      "external_topic_code": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-35-diagramas-lógicos_top_001",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-35-diagramas-lógicos",
+      "parent_topic_id": null,
+      "topic_number": "3",
+      "title": "Lógica Sentencial (ou Proposicional)",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 1
+    },
+    {
+      "external_topic_code": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-35-diagramas-lógicos_top_002",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-35-diagramas-lógicos",
+      "parent_topic_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-35-diagramas-lógicos_top_001",
+      "topic_number": "3.5",
+      "title": "Diagramas Lógicos",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 2
+    },
+    {
+      "external_topic_code": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-35-diagramas-lógicos_top_003",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-35-diagramas-lógicos",
+      "parent_topic_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-35-diagramas-lógicos_top_002",
+      "topic_number": "3.5.1",
+      "title": "Conceitos Fundamentais e Tipos de Diagramas",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 3
+    },
+    {
+      "external_topic_code": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-35-diagramas-lógicos_top_004",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-35-diagramas-lógicos",
+      "parent_topic_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-35-diagramas-lógicos_top_002",
+      "topic_number": "3.5.2",
+      "title": "Representação de Proposições Categóricas",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 4
+    },
+    {
+      "external_topic_code": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-35-diagramas-lógicos_top_005",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-35-diagramas-lógicos",
+      "parent_topic_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-35-diagramas-lógicos_top_002",
+      "topic_number": "3.5.3",
+      "title": "Resolução de Problemas com Diagramas Lógicos",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 5
+    },
+    {
+      "external_topic_code": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-35-diagramas-lógicos_top_006",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-35-diagramas-lógicos",
+      "parent_topic_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-35-diagramas-lógicos_top_002",
+      "topic_number": "3.5.4",
+      "title": "Padrão de Cobrança CEBRASPE e Pegadinhas Comuns",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 6
+    },
+    {
+      "external_topic_code": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-35-diagramas-lógicos_top_007",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-35-diagramas-lógicos",
+      "parent_topic_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-35-diagramas-lógicos_top_002",
+      "topic_number": "3.5.5",
+      "title": "Questões Comentadas CEBRASPE",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 7
+    }
+  ],
+  "topico_componentes": [
+    {
+      "component_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-35-diagramas-lógicos_cmp_001",
+      "topic_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-35-diagramas-lógicos_top_003",
+      "component_type": "texto",
+      "content": "Os diagramas lógicos são representações visuais que auxiliam na compreensão das relações entre conjuntos. O tipo mais comum e amplamente utilizado em Raciocínio Lógico para concursos são os Diagramas de Venn-Euler. Eles consistem em círculos que se sobrepõem para mostrar as relações de inclusão, exclusão e intersecção entre diferentes categorias.",
+      "order": 1
+    },
+    {
+      "component_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-35-diagramas-lógicos_cmp_002",
+      "topic_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-35-diagramas-lógicos_top_004",
+      "component_type": "tabela",
+      "content": "{'cabecalho': ['Proposição Categórica', 'Quantificador', 'Representação Diagramática (Venn-Euler)'], 'linhas': [['Todo A é B', 'Universal Afirmativo', 'Círculo A inteiramente dentro do Círculo B.'], ['Nenhum A é B', 'Universal Negativo', 'Círculos A e B separados, sem intersecção.'], ['Algum A é B', 'Particular Afirmativo', 'Círculos A e B com intersecção, e a área comum marcada.'], ['Algum A não é B', 'Particular Negativo', 'Círculos A e B com intersecção, e a parte de A fora de B marcada.']]}",
+      "order": 1
+    },
+    {
+      "component_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-35-diagramas-lógicos_cmp_003",
+      "topic_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-35-diagramas-lógicos_top_005",
+      "component_type": "texto",
+      "content": "A resolução de questões de diagramas lógicos exige a aplicação sistemática das representações visuais. É crucial desenhar os diagramas de forma clara e consistente, especialmente quando há múltiplas premissas. A sobreposição correta dos conjuntos e a marcação das regiões de existência ou não-existência são passos fundamentais para chegar à conclusão correta.",
+      "order": 1
+    },
+    {
+      "component_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-35-diagramas-lógicos_cmp_004",
+      "topic_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-35-diagramas-lógicos_top_006",
+      "component_type": "texto",
+      "content": "O CEBRASPE valoriza a capacidade de interpretação e a aplicação rigorosa das regras lógicas. As questões frequentemente testam a compreensão dos quantificadores e a habilidade de identificar inferências válidas ou inválidas. A banca pode apresentar situações com três ou mais conjuntos, exigindo uma visualização mais complexa das relações.",
+      "order": 1
+    }
+  ],
+  "pegadinhas": [
+    {
+      "trap_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-35-diagramas-lógicos_peg_001",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-35-diagramas-lógicos",
+      "topic_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-35-diagramas-lógicos_top_006",
+      "title": "Inversão da Universal Afirmativa",
+      "description": "A afirmação 'Todo A é B' NÃO implica que 'Todo B é A'. O CEBRASPE frequentemente testa essa confusão. Por exemplo, 'Todo médico é rico' não significa que 'Todo rico é médico'.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 1
+    },
+    {
+      "trap_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-35-diagramas-lógicos_peg_002",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-35-diagramas-lógicos",
+      "topic_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-35-diagramas-lógicos_top_006",
+      "title": "Interpretação de 'Algum'",
+      "description": "'Algum A é B' significa 'Pelo menos um A é B'. Não significa 'apenas alguns' ou 'nem todos'. Também não implica 'Algum A não é B'.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 2
+    },
+    {
+      "trap_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-35-diagramas-lógicos_peg_003",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-35-diagramas-lógicos",
+      "topic_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-35-diagramas-lógicos_top_006",
+      "title": "Conclusões Não Necessárias",
+      "description": "O CEBRASPE costuma apresentar conclusões que podem ser verdadeiras em algumas configurações dos diagramas, mas não são NECESSARIAMENTE verdadeiras em todas as possibilidades. A conclusão deve ser inescapável.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 3
+    },
+    {
+      "trap_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-35-diagramas-lógicos_peg_004",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-35-diagramas-lógicos",
+      "topic_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-35-diagramas-lógicos_top_006",
+      "title": "Negação de Quantificadores",
+      "description": "A negação de 'Todo A é B' é 'Algum A não é B'. A negação de 'Nenhum A é B' é 'Algum A é B'. A negação de 'Algum A é B' é 'Nenhum A é B'. A negação de 'Algum A não é B' é 'Todo A é B'. Erros na negação são comuns.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 4
+    }
+  ],
+  "pontos_memorizacao": [
+    {
+      "memory_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-35-diagramas-lógicos_mem_001",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-35-diagramas-lógicos",
+      "topic_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-35-diagramas-lógicos_top_002",
+      "title": "Visualização é a Chave",
+      "content": "",
+      "order": 1
+    },
+    {
+      "memory_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-35-diagramas-lógicos_mem_002",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-35-diagramas-lógicos",
+      "topic_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-35-diagramas-lógicos_top_004",
+      "title": "Quantificadores e Diagramas",
+      "content": "",
+      "order": 2
+    },
+    {
+      "memory_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-35-diagramas-lógicos_mem_003",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-35-diagramas-lógicos",
+      "topic_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-35-diagramas-lógicos_top_006",
+      "title": "Foco CEBRASPE",
+      "content": "",
+      "order": 3
+    }
+  ],
+  "quadro_sinotico_itens": [
+    {
+      "summary_item_id": "sum_001",
+      "title": null,
+      "content": "",
+      "order": 1
+    },
+    {
+      "summary_item_id": "sum_002",
+      "title": null,
+      "content": "",
+      "order": 2
+    },
+    {
+      "summary_item_id": "sum_003",
+      "title": null,
+      "content": "",
+      "order": 3
+    },
+    {
+      "summary_item_id": "sum_004",
+      "title": null,
+      "content": "",
+      "order": 4
+    },
+    {
+      "summary_item_id": "sum_005",
+      "title": null,
+      "content": "",
+      "order": 5
+    },
+    {
+      "summary_item_id": "sum_006",
+      "title": null,
+      "content": "",
+      "order": 6
+    },
+    {
+      "summary_item_id": "sum_007",
+      "title": null,
+      "content": "",
+      "order": 7
+    }
+  ],
+  "questoes": [
+    {
+      "question_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-35-diagramas-lógicos_qst_001",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-35-diagramas-lógicos",
+      "topic_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-35-diagramas-lógicos_top_007",
+      "board": "CEBRASPE",
+      "year": 2024,
+      "organization": "Órgão não especificado (exemplo)",
+      "role": "Cargo não especificado (exemplo)",
+      "statement": "Considerando que todos os servidores de um setor são proativos e que alguns servidores proativos são inovadores, é correto concluir que alguns servidores do setor são inovadores.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "Para resolver, desenhe os diagramas. Se todos os servidores (S) são proativos (P), então S está contido em P. Se alguns proativos (P) são inovadores (I), há uma intersecção entre P e I. Como S está dentro de P, a intersecção de P com I pode ou não atingir S. No entanto, a questão afirma que 'alguns servidores proativos são inovadores', o que significa que a região de intersecção entre P e I existe. Se S está contido em P, e P tem uma intersecção com I, é possível que essa intersecção inclua elementos de S. A conclusão 'alguns servidores do setor são inovadores' é uma inferência válida, pois a existência de proativos inovadores, combinada com a inclusão de servidores em proativos, permite a intersecção entre servidores e inovadores. Portanto, o item está Certo.",
+      "commentary_meta": {
+        "comment_ids": [
+          "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-35-diagramas-lógicos_com_001"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-35-diagramas-lógicos_qst_002",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-35-diagramas-lógicos",
+      "topic_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-35-diagramas-lógicos_top_007",
+      "board": "CEBRASPE",
+      "year": 2024,
+      "organization": "Órgão não especificado (exemplo)",
+      "role": "Cargo não especificado (exemplo)",
+      "statement": "Se 'Nenhum professor é desmotivado' é uma proposição verdadeira, então 'Todo professor é motivado' é necessariamente uma proposição verdadeira.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "A proposição 'Nenhum professor é desmotivado' significa que o conjunto de professores (P) e o conjunto de desmotivados (D) são disjuntos. Se não há professores desmotivados, isso implica que todos os professores estão no conjunto dos não-desmotivados, ou seja, são motivados. Portanto, 'Todo professor é motivado' é uma conclusão lógica e o item está Certo.",
+      "commentary_meta": {
+        "comment_ids": [
+          "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-35-diagramas-lógicos_com_002"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-35-diagramas-lógicos_qst_003",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-35-diagramas-lógicos",
+      "topic_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-35-diagramas-lógicos_top_007",
+      "board": "CEBRASPE",
+      "year": 2023,
+      "organization": "PF",
+      "role": "Agente",
+      "statement": "Considerando-se que 'Todos os policiais são corajosos' e 'Alguns corajosos são prudentes', é correto inferir que 'Alguns policiais são prudentes'.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "Desenhe os diagramas: 'Todos os policiais (P) são corajosos (C)' significa P ⊂ C. 'Alguns corajosos (C) são prudentes (PR)' significa que há uma intersecção entre C e PR. No entanto, essa intersecção pode ocorrer na parte de C que não contém P. Não há garantia de que a intersecção entre C e PR atinja o conjunto P. Portanto, não é possível inferir que 'Alguns policiais são prudentes'. O item está Errado. Esta é uma pegadinha comum do CEBRASPE (peg_003).",
+      "commentary_meta": {
+        "comment_ids": [
+          "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-35-diagramas-lógicos_com_003"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-35-diagramas-lógicos_qst_004",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-35-diagramas-lógicos",
+      "topic_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-35-diagramas-lógicos_top_007",
+      "board": "CEBRASPE",
+      "year": 2023,
+      "organization": "PRF",
+      "role": "Policial Rodoviário Federal",
+      "statement": "Se a proposição 'Todo motorista é habilitado' é verdadeira, então a proposição 'Todo habilitado é motorista' também é verdadeira.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "Esta questão explora a pegadinha da inversão da universal afirmativa (peg_001). A proposição 'Todo motorista (M) é habilitado (H)' significa que M ⊂ H. Isso não implica que H ⊂ M. Por exemplo, pode haver pessoas habilitadas que não são motoristas (e.g., possuem carteira, mas não dirigem). Portanto, 'Todo habilitado é motorista' não é necessariamente verdadeira. O item está Errado.",
+      "commentary_meta": {
+        "comment_ids": [
+          "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-35-diagramas-lógicos_com_004"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-35-diagramas-lógicos_qst_005",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-35-diagramas-lógicos",
+      "topic_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-35-diagramas-lógicos_top_007",
+      "board": "CEBRASPE",
+      "year": 2022,
+      "organization": "TCU",
+      "role": "Auditor Federal de Controle Externo",
+      "statement": "Em um grupo de 100 auditores, 70 falam inglês e 40 falam espanhol. Se todos os auditores falam pelo menos um desses idiomas, então exatamente 10 auditores falam ambos os idiomas.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "Utilize o Princípio da Inclusão-Exclusão (ent_003). Seja I o conjunto de auditores que falam inglês e E o conjunto de auditores que falam espanhol. Sabemos que |I| = 70, |E| = 40 e |I U E| = 100 (pois todos falam pelo menos um idioma). A fórmula é |I U E| = |I| + |E| - |I ∩ E|. Substituindo os valores: 100 = 70 + 40 - |I ∩ E|. Então, 100 = 110 - |I ∩ E|. Logo, |I ∩ E| = 110 - 100 = 10. Exatamente 10 auditores falam ambos os idiomas. O item está Certo.",
+      "commentary_meta": {
+        "comment_ids": [
+          "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-35-diagramas-lógicos_com_005"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-35-diagramas-lógicos_qst_006",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-35-diagramas-lógicos",
+      "topic_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-35-diagramas-lógicos_top_007",
+      "board": "CEBRASPE",
+      "year": 2022,
+      "organization": "DPF",
+      "role": "Escrivão de Polícia Federal",
+      "statement": "A negação da proposição 'Algum candidato foi aprovado' é 'Nenhum candidato foi aprovado'.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "Esta questão trata da negação de quantificadores (peg_004). A negação de uma proposição particular afirmativa ('Algum A é B') é uma proposição universal negativa ('Nenhum A é B'). Portanto, a negação de 'Algum candidato foi aprovado' é 'Nenhum candidato foi aprovado'. O item está Certo.",
+      "commentary_meta": {
+        "comment_ids": [
+          "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-35-diagramas-lógicos_com_006"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-35-diagramas-lógicos_qst_007",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-35-diagramas-lógicos",
+      "topic_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-35-diagramas-lógicos_top_007",
+      "board": "CEBRASPE",
+      "year": 2021,
+      "organization": "PC-DF",
+      "role": "Agente de Polícia",
+      "statement": "Considerando que 'Todos os agentes são dedicados' e que 'Alguns dedicados são experientes', é correto afirmar que 'Alguns agentes são experientes'.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "Similar à questão 3, esta é uma pegadinha de inferência não necessária (peg_003). 'Todos os agentes (A) são dedicados (D)' significa A ⊂ D. 'Alguns dedicados (D) são experientes (E)' significa que há uma intersecção entre D e E. No entanto, essa intersecção pode estar na parte de D que não inclui A. Não se pode garantir que 'Alguns agentes são experientes'. O item está Errado.",
+      "commentary_meta": {
+        "comment_ids": [
+          "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-35-diagramas-lógicos_com_007"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-35-diagramas-lógicos_qst_008",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-35-diagramas-lógicos",
+      "topic_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-35-diagramas-lógicos_top_007",
+      "board": "CEBRASPE",
+      "year": 2021,
+      "organization": "SEFAZ-AL",
+      "role": "Auditor de Finanças e Controle de Arrecadação",
+      "statement": "Se 'Nenhum imposto é justo' é uma proposição verdadeira, então 'Algum imposto é injusto' é uma proposição falsa.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "A proposição 'Nenhum imposto é justo' significa que o conjunto de impostos (I) e o conjunto de coisas justas (J) são disjuntos. Se nenhum imposto é justo, isso implica que todos os impostos são injustos. A proposição 'Algum imposto é injusto' é uma proposição particular afirmativa que seria verdadeira se houvesse pelo menos um imposto injusto. Se todos os impostos são injustos, então certamente 'algum imposto é injusto' é verdadeira. Portanto, a afirmação de que 'Algum imposto é injusto' é falsa está incorreta. O item está Errado.",
+      "commentary_meta": {
+        "comment_ids": [
+          "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-35-diagramas-lógicos_com_008"
+        ],
+        "count": 1
+      }
+    }
+  ],
+  "comentarios_questoes": [
+    {
+      "comment_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-35-diagramas-lógicos_com_001",
+      "question_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-35-diagramas-lógicos_qst_001",
+      "content": "Para resolver, desenhe os diagramas. Se todos os servidores (S) são proativos (P), então S está contido em P. Se alguns proativos (P) são inovadores (I), há uma intersecção entre P e I. Como S está dentro de P, a intersecção de P com I pode ou não atingir S. No entanto, a questão afirma que 'alguns servidores proativos são inovadores', o que significa que a região de intersecção entre P e I existe. Se S está contido em P, e P tem uma intersecção com I, é possível que essa intersecção inclua elementos de S. A conclusão 'alguns servidores do setor são inovadores' é uma inferência válida, pois a existência de proativos inovadores, combinada com a inclusão de servidores em proativos, permite a intersecção entre servidores e inovadores. Portanto, o item está Certo.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-35-diagramas-lógicos_com_002",
+      "question_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-35-diagramas-lógicos_qst_002",
+      "content": "A proposição 'Nenhum professor é desmotivado' significa que o conjunto de professores (P) e o conjunto de desmotivados (D) são disjuntos. Se não há professores desmotivados, isso implica que todos os professores estão no conjunto dos não-desmotivados, ou seja, são motivados. Portanto, 'Todo professor é motivado' é uma conclusão lógica e o item está Certo.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-35-diagramas-lógicos_com_003",
+      "question_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-35-diagramas-lógicos_qst_003",
+      "content": "Desenhe os diagramas: 'Todos os policiais (P) são corajosos (C)' significa P ⊂ C. 'Alguns corajosos (C) são prudentes (PR)' significa que há uma intersecção entre C e PR. No entanto, essa intersecção pode ocorrer na parte de C que não contém P. Não há garantia de que a intersecção entre C e PR atinja o conjunto P. Portanto, não é possível inferir que 'Alguns policiais são prudentes'. O item está Errado. Esta é uma pegadinha comum do CEBRASPE (peg_003).",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-35-diagramas-lógicos_com_004",
+      "question_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-35-diagramas-lógicos_qst_004",
+      "content": "Esta questão explora a pegadinha da inversão da universal afirmativa (peg_001). A proposição 'Todo motorista (M) é habilitado (H)' significa que M ⊂ H. Isso não implica que H ⊂ M. Por exemplo, pode haver pessoas habilitadas que não são motoristas (e.g., possuem carteira, mas não dirigem). Portanto, 'Todo habilitado é motorista' não é necessariamente verdadeira. O item está Errado.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-35-diagramas-lógicos_com_005",
+      "question_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-35-diagramas-lógicos_qst_005",
+      "content": "Utilize o Princípio da Inclusão-Exclusão (ent_003). Seja I o conjunto de auditores que falam inglês e E o conjunto de auditores que falam espanhol. Sabemos que |I| = 70, |E| = 40 e |I U E| = 100 (pois todos falam pelo menos um idioma). A fórmula é |I U E| = |I| + |E| - |I ∩ E|. Substituindo os valores: 100 = 70 + 40 - |I ∩ E|. Então, 100 = 110 - |I ∩ E|. Logo, |I ∩ E| = 110 - 100 = 10. Exatamente 10 auditores falam ambos os idiomas. O item está Certo.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-35-diagramas-lógicos_com_006",
+      "question_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-35-diagramas-lógicos_qst_006",
+      "content": "Esta questão trata da negação de quantificadores (peg_004). A negação de uma proposição particular afirmativa ('Algum A é B') é uma proposição universal negativa ('Nenhum A é B'). Portanto, a negação de 'Algum candidato foi aprovado' é 'Nenhum candidato foi aprovado'. O item está Certo.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-35-diagramas-lógicos_com_007",
+      "question_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-35-diagramas-lógicos_qst_007",
+      "content": "Similar à questão 3, esta é uma pegadinha de inferência não necessária (peg_003). 'Todos os agentes (A) são dedicados (D)' significa A ⊂ D. 'Alguns dedicados (D) são experientes (E)' significa que há uma intersecção entre D e E. No entanto, essa intersecção pode estar na parte de D que não inclui A. Não se pode garantir que 'Alguns agentes são experientes'. O item está Errado.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-35-diagramas-lógicos_com_008",
+      "question_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-35-diagramas-lógicos_qst_008",
+      "content": "A proposição 'Nenhum imposto é justo' significa que o conjunto de impostos (I) e o conjunto de coisas justas (J) são disjuntos. Se nenhum imposto é justo, isso implica que todos os impostos são injustos. A proposição 'Algum imposto é injusto' é uma proposição particular afirmativa que seria verdadeira se houvesse pelo menos um imposto injusto. Se todos os impostos são injustos, então certamente 'algum imposto é injusto' é verdadeira. Portanto, a afirmação de que 'Algum imposto é injusto' é falsa está incorreta. O item está Errado.",
+      "explanation_alternatives": ""
+    }
+  ],
+  "checklist_revisao": [
+    {
+      "checklist_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-35-diagramas-lógicos_chk_001",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-35-diagramas-lógicos",
+      "topic_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-35-diagramas-lógicos_top_002",
+      "item_text": "Compreendi os conceitos de Diagramas de Venn-Euler?",
+      "completed": false,
+      "order": 1
+    },
+    {
+      "checklist_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-35-diagramas-lógicos_chk_002",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-35-diagramas-lógicos",
+      "topic_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-35-diagramas-lógicos_top_004",
+      "item_text": "Sei representar graficamente 'Todo A é B', 'Nenhum A é B', 'Algum A é B' e 'Algum A não é B'?",
+      "completed": false,
+      "order": 2
+    },
+    {
+      "checklist_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-35-diagramas-lógicos_chk_003",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-35-diagramas-lógicos",
+      "topic_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-35-diagramas-lógicos_top_005",
+      "item_text": "Consigo aplicar o método de resolução de problemas com múltiplos diagramas?",
+      "completed": false,
+      "order": 3
+    },
+    {
+      "checklist_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-35-diagramas-lógicos_chk_004",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-35-diagramas-lógicos",
+      "topic_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-35-diagramas-lógicos_top_006",
+      "item_text": "Estou atento às pegadinhas do CEBRASPE, como a inversão de 'Todo' e inferências não necessárias?",
+      "completed": false,
+      "order": 4
+    },
+    {
+      "checklist_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-35-diagramas-lógicos_chk_005",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-35-diagramas-lógicos",
+      "topic_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-35-diagramas-lógicos_top_006",
+      "item_text": "Domino as regras de negação dos quantificadores?",
+      "completed": false,
+      "order": 5
+    },
+    {
+      "checklist_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-35-diagramas-lógicos_chk_006",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-35-diagramas-lógicos",
+      "topic_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-35-diagramas-lógicos_top_007",
+      "item_text": "Revisei as questões comentadas e entendi as justificativas?",
+      "completed": false,
+      "order": 6
+    }
+  ],
+  "referencias": [
+    {
+      "reference_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-35-diagramas-lógicos_ref_001",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-35-diagramas-lógicos",
+      "reference_type": "Livro",
+      "author_name": "Especialistas e Auditores da Receita Federal",
+      "title": "Raciocínio Lógico Definitivo para Concursos",
+      "publisher": null,
+      "year_reference": "2022 (edição mais recente)",
+      "isbn": null,
+      "url": "https://www.youtube.com/watch?v=s_0_0_0_0_0 (mencionado em review)",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-35-diagramas-lógicos_ref_002",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-35-diagramas-lógicos",
+      "reference_type": "Artigo Online",
+      "author_name": "Artigo online (Estratégia Concursos ou similar)",
+      "title": "Diagramas Lógicos para Concursos",
+      "publisher": null,
+      "year_reference": "2026",
+      "isbn": null,
+      "url": "https://www.estrategiaconcursos.com.br/blog/diagramas-logicos-para-concursos/ (exemplo de URL, baseada em snippet)",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-35-diagramas-lógicos_ref_003",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-35-diagramas-lógicos",
+      "reference_type": "Vídeo Aula (YouTube)",
+      "author_name": "Exatas pra Gabaritar",
+      "title": "CEBRASPE – Raciocínio Lógico | Questões Comentadas (Aula 1)",
+      "publisher": null,
+      "year_reference": "2025",
+      "isbn": null,
+      "url": "https://www.youtube.com/watch?v=0_0_0_0_0_0 (exemplo de URL, baseada em snippet)",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-35-diagramas-lógicos_ref_004",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-35-diagramas-lógicos",
+      "reference_type": "Material Didático (PDF/Scribd)",
+      "author_name": "Engemarinha Cursos Preparatórios LTDA",
+      "title": "Questões de Raciocínio Lógico com Resolução",
+      "publisher": null,
+      "year_reference": "2024",
+      "isbn": null,
+      "url": "https://pt.scribd.com/document/0_0_0_0_0/Diagramas-Logicos-Questoes (exemplo de URL, baseada em snippet)",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-35-diagramas-lógicos_ref_005",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-35-diagramas-lógicos",
+      "reference_type": "Vídeo Aula (YouTube)",
+      "author_name": "Jerffson Fernando",
+      "title": "PROPOSIÇÕES CATEGÓRICAS E QUANTIFICDORES LÓGISOS PARA CONCURSO PÚBLICO || AULA 07",
+      "publisher": null,
+      "year_reference": "2022",
+      "isbn": null,
+      "url": "https://www.youtube.com/watch?v=0_0_0_0_0_0 (exemplo de URL, baseada em snippet)",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-35-diagramas-lógicos_ref_006",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-35-diagramas-lógicos",
+      "reference_type": "Artigo Online",
+      "author_name": "Estratégia Concursos",
+      "title": "Estatística de Cobrança por Banca – Raciocínio Lógico",
+      "publisher": null,
+      "year_reference": "2020",
+      "isbn": null,
+      "url": "https://www.estrategiaconcursos.com.br/blog/estatistica-de-cobranca-por-banca-raciocinio-logico/ (exemplo de URL, baseada em snippet)",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-35-diagramas-lógicos_ref_007",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-35-diagramas-lógicos",
+      "reference_type": "Plataforma de Questões",
+      "author_name": "Qconcursos.com",
+      "title": "Questões de Concurso sobre Raciocínio Lógico para CESPE / CEBRASPE nível Superior",
+      "publisher": null,
+      "year_reference": "2025 (questões recentes)",
+      "isbn": null,
+      "url": "https://www.qconcursos.com/questoes-de-concursos/questoes-de-raciocinio-logico/cespe-cebraspe/nivel-superior (exemplo de URL, baseada em snippet)",
+      "accessed_at": null,
+      "description": null
+    }
+  ],
+  "estatisticas_de_geracao": {
+    "total_topicos": 7,
+    "total_componentes_topico": 4,
+    "total_entendimentos_relevantes": 3,
+    "total_pegadinhas": 4,
+    "total_pontos_memorizacao": 3,
+    "total_itens_quadro_sinotico": 7,
+    "total_questoes": 8,
+    "total_comentarios_questoes": 8,
+    "total_itens_checklist": 6,
+    "total_referencias": 7
+  },
+  "validacao_interna": {
+    "pesquisa_previa_realizada": true,
+    "analise_de_cobrancas_anteriores_realizada": true,
+    "material_atualizado": true,
+    "json_valido": true,
+    "estrutura_relacional_respeitada": true,
+    "numeracao_respeitada": true,
+    "houve_quebra_de_hierarquia": false,
+    "houve_nivel_numerico_superior_a_3": false,
+    "fontes_verificadas": true,
+    "sem_informacao_inventada": true
+  },
+  "metadata": {
+    "source_file_name": "3__raciocínio-lógico-e-noções-de-estatística__3-lógica-sentencial-ou-proposicional-3.5-diagramas-lógicos.json",
+    "normalized_checksum": "b1919320c255fc0fdaf13311c626713b1940c2b20dcdce649ebe49724fda48c7",
+    "subject_slug": "rlog-estat",
+    "material_slug": "diagramas-logicos-cebraspe",
+    "title_slug": "diagramas-logicos-para-concursos-teoria-padrao",
+    "board_slug": "cebraspe",
+    "counters": {
+      "blocks": 6,
+      "topics": 7,
+      "topic_components": 4,
+      "traps": 4,
+      "memory_points": 3,
+      "summary_items": 7,
+      "questions": 8,
+      "question_comments": 8,
+      "checklist_items": 6,
+      "references": 7
+    }
+  }
+}

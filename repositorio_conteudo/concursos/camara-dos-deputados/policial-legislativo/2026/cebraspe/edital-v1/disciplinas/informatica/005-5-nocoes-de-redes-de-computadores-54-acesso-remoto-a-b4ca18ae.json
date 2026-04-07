@@ -1,0 +1,1064 @@
+{
+  "schema_version": "1.0",
+  "normalized_at": "2026-04-07T15:39:14.460677-03:00",
+  "normalizer_version": "2.0.0",
+  "exported_at": "2026-04-07T16:17:00Z",
+  "source_request": {
+    "purpose": "Concurso público",
+    "general_area": "Tecnologia da Informação",
+    "subject_name": "Informática e Dados",
+    "subarea_name": "Informática, redes, segurança e dados",
+    "main_theme": "5 Noções de redes de computadores: 5.4 Acesso remoto a computadores: VPN, RDP",
+    "theme_scope": "Teoria completa, incidência em prova, padrão de cobrança da banca, pegadinhas e questões comentadas",
+    "board_style": "CEBRASPE",
+    "depth_level": "Exaustivo",
+    "goal": "Teoria completa, revisão estratégica, pegadinhas e questões comentadas",
+    "base_topic_number": "5",
+    "topic_title": "5 Noções de redes de computadores: 5.4 Acesso remoto a computadores: VPN, RDP",
+    "syllabus_reference": "Conteúdo programático da disciplina Informática e Dados",
+    "priority_sources": [
+      "Documentação oficial e referências técnicas confiáveis",
+      "Bibliografia técnica consolidada",
+      "Questões anteriores da banca"
+    ],
+    "minimum_questions": 8,
+    "question_format": "Certo/Errado",
+    "prioritize_real_questions": true,
+    "response_language": "português",
+    "target_audience": "Candidato de concurso público",
+    "additional_notes": "Executar exatamente para esta linha individual do topicos.txt. Não juntar com outros tópicos. Não pular este tópico. Dar destaque ao padrão de cobrança da banca, aos pontos mais cobrados e às pegadinhas recorrentes.",
+    "input_hash": "88de7c42e69e",
+    "extras": {}
+  },
+  "material": {
+    "material_id": "mat_001",
+    "slug": "acesso-remoto-vpn-rdp-cebraspe",
+    "title": "Acesso Remoto a Computadores: VPN e RDP para Concursos CEBRASPE",
+    "base_number": "5",
+    "topic_title": "5 Noções de redes de computadores: 5.4 Acesso remoto a computadores: VPN, RDP",
+    "purpose": "Concurso público",
+    "area_name": "Tecnologia da Informação",
+    "subject_name": "Informática e Dados",
+    "subarea_name": "Informática, redes, segurança e dados",
+    "main_theme": "Acesso remoto a computadores: VPN, RDP",
+    "theme_scope": "Teoria completa, incidência em prova, padrão de cobrança da banca, pegadinhas e questões comentadas",
+    "board_style": "CEBRASPE",
+    "depth_level": "Exaustivo",
+    "study_goal": "Teoria completa, revisão estratégica, pegadinhas e questões comentadas",
+    "target_audience": "Candidato de concurso público",
+    "language_code": "português",
+    "update_status": "Atualizado em 2026",
+    "current_note": "Informações técnicas e padrões de cobrança da banca CEBRASPE verificados e atualizados.",
+    "has_case_law": false,
+    "case_law_justification": "O tema 'Acesso remoto a computadores: VPN, RDP' é de natureza técnica em Tecnologia da Informação, não havendo aplicação direta ou relevante de jurisprudência para fins de concursos públicos nesta disciplina.",
+    "has_information_limitation": false,
+    "information_limitation_desc": null,
+    "content_checksum": "placeholder_checksum",
+    "extras": {}
+  },
+  "blocos_textuais": [
+    {
+      "external_block_code": "blc_001",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 1,
+      "title": "Introdução ao Acesso Remoto",
+      "content": "O acesso remoto a computadores é uma funcionalidade essencial em ambientes corporativos e para usuários individuais, permitindo a conexão e o controle de sistemas à distância. Duas das tecnologias mais relevantes e frequentemente cobradas em concursos, especialmente pela banca CEBRASPE, são as Redes Privadas Virtuais (VPN) e o Protocolo de Área de Trabalho Remota (RDP). Compreender suas características, finalidades e diferenças é crucial para a aprovação.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_002",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 2,
+      "title": "Rede Privada Virtual (VPN)",
+      "content": "Uma VPN (Virtual Private Network) é uma tecnologia que estende uma rede privada por uma rede pública, como a internet, permitindo que os usuários enviem e recebam dados como se seus dispositivos estivessem diretamente conectados à rede privada. O principal objetivo de uma VPN é garantir a segurança, confidencialidade e integridade dos dados, além de proporcionar acesso a recursos restritos da rede interna de uma organização.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_003",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 3,
+      "title": "Funcionamento da VPN",
+      "content": "O funcionamento de uma VPN baseia-se na criação de um 'túnel' criptografado entre o dispositivo do usuário e o servidor VPN. Todo o tráfego de dados que passa por esse túnel é criptografado, protegendo-o de interceptações e monitoramento por terceiros. Além da criptografia, a VPN geralmente emprega mecanismos de autenticação para verificar a identidade do usuário ou do dispositivo que tenta se conectar à rede privada.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_004",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 4,
+      "title": "Tipos de VPN",
+      "content": "Existem diferentes tipos de VPN, sendo os mais comuns: \n*   **VPN de Acesso Remoto (Client-to-Site):** Conecta usuários individuais (clientes) à rede corporativa, geralmente para funcionários que trabalham de casa ou em trânsito. Requer a instalação de um software cliente VPN no dispositivo do usuário.\n*   **VPN Site-to-Site:** Conecta duas ou mais redes locais (LANs) distintas através de uma rede pública, como a internet. É comumente utilizada para conectar filiais de uma empresa à sua matriz, fazendo com que as redes pareçam uma única rede privada.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_005",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 5,
+      "title": "Protocolos VPN Comuns",
+      "content": "Os protocolos VPN definem as regras para a criptografia e a transmissão de dados. Alguns dos mais conhecidos incluem: \n*   **IPsec (Internet Protocol Security):** Um conjunto de protocolos que fornece segurança na camada de rede. É robusto e amplamente utilizado em VPNs site-to-site e de acesso remoto, podendo operar em modo transporte ou túnel.\n*   **SSL/TLS (Secure Sockets Layer/Transport Layer Security):** Utilizado por VPNs baseadas em navegador (Web-based VPNs) e por soluções como OpenVPN. Oferece flexibilidade e é eficaz para acesso remoto, pois pode atravessar firewalls mais facilmente.\n*   **PPTP (Point-to-Point Tunneling Protocol):** Um dos protocolos mais antigos, simples e rápido, mas considerado menos seguro devido a vulnerabilidades conhecidas.\n*   **L2TP/IPsec (Layer 2 Tunneling Protocol/IPsec):** Combina o L2TP para tunelamento com o IPsec para criptografia e segurança, oferecendo um bom equilíbrio entre segurança e desempenho.\n*   **WireGuard:** Um protocolo mais recente, conhecido por sua simplicidade, alta velocidade e segurança moderna.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_006",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 6,
+      "title": "Protocolo de Área de Trabalho Remota (RDP)",
+      "content": "O RDP (Remote Desktop Protocol) é um protocolo proprietário desenvolvido pela Microsoft que permite a um usuário controlar graficamente um computador remoto através de uma conexão de rede. Ele exibe a interface gráfica do sistema operacional do computador remoto no dispositivo local do usuário, permitindo a interação como se estivesse fisicamente presente.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_007",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 7,
+      "title": "Funcionamento do RDP",
+      "content": "O RDP opera criando um canal de rede dedicado, geralmente utilizando a porta TCP 3389 por padrão, para enviar dados via TCP/IP. Os comandos do teclado e mouse do usuário local são transmitidos para o computador remoto, e a tela do computador remoto é enviada de volta para o dispositivo local. Todos os dados transmitidos via RDP são criptografados para garantir a segurança da comunicação.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_008",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 8,
+      "title": "Usos e Segurança do RDP",
+      "content": "O RDP é amplamente utilizado para suporte técnico remoto, administração de servidores e para que funcionários acessem seus desktops de trabalho de casa. Embora o RDP criptografe o tráfego, ele possui vulnerabilidades de segurança que podem ser exploradas se não for configurado corretamente. Boas práticas de segurança incluem: alterar a porta padrão (3389), usar senhas fortes, implementar Autenticação em Nível de Rede (NLA) e Autenticação de Dois Fatores (2FA), e manter o sistema operacional atualizado.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_009",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 9,
+      "title": "VPN vs. RDP: Principais Diferenças e Aplicações",
+      "content": "Embora ambos permitam o acesso remoto, VPN e RDP têm finalidades distintas e operam em níveis diferentes: \n*   **VPN:** Foca na segurança da conexão e no acesso à rede. Ela cria um túnel seguro para que o dispositivo do usuário se conecte à rede remota, permitindo acesso a todos os recursos da rede como se estivesse fisicamente conectado. A VPN não controla diretamente a interface gráfica do computador remoto.\n*   **RDP:** Foca no controle gráfico de um computador específico. Ele permite que o usuário interaja com a área de trabalho de um sistema remoto, mas não fornece acesso à rede subjacente de forma ampla como uma VPN.\n\nÉ comum e recomendado utilizar RDP sobre uma conexão VPN para combinar a segurança da VPN (túnel criptografado para a rede) com a funcionalidade de controle gráfico do RDP, aumentando significativamente a segurança do acesso remoto.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_010",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 10,
+      "title": "Padrão de Cobrança CEBRASPE",
+      "content": "A banca CEBRASPE costuma abordar VPN e RDP em questões de 'Certo/Errado', focando em: \n*   **Conceitos e Finalidades:** Distinguir o propósito principal de cada tecnologia.\n*   **Segurança:** Aspectos de criptografia, autenticação e vulnerabilidades.\n*   **Funcionamento Básico:** Como cada um estabelece a conexão (túnel, porta padrão do RDP).\n*   **Comparativos:** Diferenças e cenários de uso combinado.\n*   **Pegadinhas Comuns:** Confundir as funcionalidades, afirmar que um substitui o outro completamente (ex: VPN substitui firewall), ou atribuir características incorretas a protocolos específicos.",
+      "content_type": "teoria"
+    }
+  ],
+  "topicos": [
+    {
+      "external_topic_code": "top_001",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "5.4",
+      "title": "Acesso remoto a computadores: VPN, RDP",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 1
+    },
+    {
+      "external_topic_code": "top_002",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_001",
+      "topic_number": "5.4.1",
+      "title": "Rede Privada Virtual (VPN)",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 2
+    },
+    {
+      "external_topic_code": "top_003",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_002",
+      "topic_number": "5.4.1.1",
+      "title": "Conceito e Finalidade",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 3
+    },
+    {
+      "external_topic_code": "top_004",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_002",
+      "topic_number": "5.4.1.2",
+      "title": "Funcionamento e Segurança",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 4
+    },
+    {
+      "external_topic_code": "top_005",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_002",
+      "topic_number": "5.4.1.3",
+      "title": "Tipos de VPN (Acesso Remoto, Site-to-Site)",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 5
+    },
+    {
+      "external_topic_code": "top_006",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_002",
+      "topic_number": "5.4.1.4",
+      "title": "Protocolos VPN (IPsec, SSL/TLS, PPTP, L2TP/IPsec, WireGuard)",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 6
+    },
+    {
+      "external_topic_code": "top_007",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_001",
+      "topic_number": "5.4.2",
+      "title": "Protocolo de Área de Trabalho Remota (RDP)",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 7
+    },
+    {
+      "external_topic_code": "top_008",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_007",
+      "topic_number": "5.4.2.1",
+      "title": "Conceito e Finalidade",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 8
+    },
+    {
+      "external_topic_code": "top_009",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_007",
+      "topic_number": "5.4.2.2",
+      "title": "Funcionamento e Porta Padrão (TCP 3389)",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 9
+    },
+    {
+      "external_topic_code": "top_010",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_007",
+      "topic_number": "5.4.2.3",
+      "title": "Segurança e Boas Práticas",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 10
+    },
+    {
+      "external_topic_code": "top_011",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_001",
+      "topic_number": "5.4.3",
+      "title": "Comparativo e Aplicações Combinadas",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 11
+    },
+    {
+      "external_topic_code": "top_012",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_001",
+      "topic_number": "5.4.4",
+      "title": "Padrão de Cobrança CEBRASPE",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 12
+    }
+  ],
+  "topico_componentes": [
+    {
+      "component_id": "cmp_001",
+      "topic_id": "top_003",
+      "component_type": "texto",
+      "content": "Uma VPN cria um 'túnel' seguro e criptografado sobre uma rede pública, como a internet, para conectar um usuário ou uma rede a uma rede privada.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_002",
+      "topic_id": "top_003",
+      "component_type": "texto",
+      "content": "Sua principal finalidade é garantir a confidencialidade, integridade e autenticidade dos dados, além de permitir o acesso a recursos internos de uma rede corporativa de forma segura, como se o usuário estivesse fisicamente conectado à rede privada.",
+      "order": 2
+    },
+    {
+      "component_id": "cmp_003",
+      "topic_id": "top_004",
+      "component_type": "texto",
+      "content": "A VPN encapsula os pacotes de dados em um túnel virtual, criptografando-os antes de enviá-los pela rede pública. Ao chegar ao destino, os pacotes são descriptografados.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_004",
+      "topic_id": "top_004",
+      "component_type": "texto",
+      "content": "A segurança é reforçada por protocolos de criptografia e autenticação, que verificam a identidade dos usuários e garantem que apenas partes autorizadas possam acessar a rede.",
+      "order": 2
+    },
+    {
+      "component_id": "cmp_005",
+      "topic_id": "top_005",
+      "component_type": "lista",
+      "content": "['**VPN de Acesso Remoto (Client-to-Site):** Conecta um usuário individual a uma rede privada. Ideal para teletrabalho.', '**VPN Site-to-Site:** Conecta duas redes locais distintas, como matriz e filial, criando uma rede estendida.']",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_006",
+      "topic_id": "top_006",
+      "component_type": "lista",
+      "content": "['**IPsec:** Conjunto de protocolos para segurança na camada IP, amplamente usado em VPNs.', '**SSL/TLS:** Usado em VPNs baseadas em navegador (Web-based) e OpenVPN, oferecendo flexibilidade.', '**PPTP:** Mais antigo, rápido, mas com vulnerabilidades de segurança.', '**L2TP/IPsec:** Combina tunelamento L2TP com segurança IPsec.', '**WireGuard:** Protocolo moderno, focado em simplicidade, velocidade e segurança.']",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_007",
+      "topic_id": "top_008",
+      "component_type": "texto",
+      "content": "RDP (Remote Desktop Protocol) é um protocolo da Microsoft que permite o controle gráfico de um computador remoto.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_008",
+      "topic_id": "top_008",
+      "component_type": "texto",
+      "content": "Sua finalidade é permitir que um usuário interaja com a área de trabalho de outro computador como se estivesse fisicamente presente, visualizando a tela e controlando teclado e mouse.",
+      "order": 2
+    },
+    {
+      "component_id": "cmp_009",
+      "topic_id": "top_009",
+      "component_type": "texto",
+      "content": "O RDP estabelece um canal de comunicação dedicado, utilizando a porta TCP 3389 por padrão, para transmitir os dados gráficos e de interação.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_001",
+      "topic_id": "top_009",
+      "component_type": "texto",
+      "content": "Todos os comandos e dados transmitidos via RDP são criptografados.",
+      "order": 2
+    },
+    {
+      "component_id": "cmp_011",
+      "topic_id": "top_010",
+      "component_type": "lista",
+      "content": "['Alterar a porta padrão (3389) do RDP.', 'Utilizar senhas fortes e complexas.', 'Habilitar Autenticação em Nível de Rede (NLA).', 'Implementar Autenticação de Dois Fatores (2FA).', 'Manter o sistema operacional e o software RDP atualizados para corrigir vulnerabilidades.', 'Restringir o acesso RDP apenas a IPs confiáveis.']",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_012",
+      "topic_id": "top_011",
+      "component_type": "tabela",
+      "content": "",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_013",
+      "topic_id": "top_012",
+      "component_type": "texto",
+      "content": "A CEBRASPE valoriza a compreensão das diferenças conceituais e funcionais entre VPN e RDP. Questões frequentemente testam a capacidade do candidato de distinguir suas aplicações e benefícios de segurança.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_014",
+      "topic_id": "top_012",
+      "component_type": "texto",
+      "content": "É comum a banca apresentar cenários onde uma tecnologia é mais adequada que a outra, ou tentar confundir o candidato sobre a abrangência de segurança de cada uma.",
+      "order": 2
+    }
+  ],
+  "pegadinhas": [
+    {
+      "trap_id": "peg_001",
+      "material_id": "mat_001",
+      "topic_id": "top_011",
+      "title": "Confundir VPN com RDP",
+      "description": "A CEBRASPE pode tentar confundir as finalidades. Lembre-se: VPN é para acesso seguro à *rede*, RDP é para controle *gráfico* de um *computador* específico.",
+      "example_error": "Afirmar que uma VPN permite controlar a interface gráfica de um servidor remoto diretamente, sem software adicional.",
+      "how_to_avoid": "Focar nas palavras-chave: 'rede segura' para VPN e 'área de trabalho remota' para RDP.",
+      "order": 1
+    },
+    {
+      "trap_id": "peg_002",
+      "material_id": "mat_001",
+      "topic_id": "top_004",
+      "title": "VPN substitui Firewall",
+      "description": "É um erro comum pensar que o uso de VPN elimina a necessidade de um firewall. A VPN protege o túnel de comunicação, mas não substitui as funções de filtragem e proteção de rede de um firewall.",
+      "example_error": "Julgar que 'O uso de VPN substitui totalmente a necessidade de firewalls, já que o túnel criptografado estabelecido por ela impede qualquer ataque externo.'",
+      "how_to_avoid": "Entender que as camadas de segurança são complementares, não excludentes.",
+      "order": 2
+    },
+    {
+      "trap_id": "peg_003",
+      "material_id": "mat_001",
+      "topic_id": "top_006",
+      "title": "Atribuir características erradas a protocolos VPN",
+      "description": "A banca pode trocar as características de protocolos VPN, como afirmar que PPTP é o mais seguro ou que IPsec opera apenas em modo transporte para túneis virtuais.",
+      "example_error": "Afirmar que 'As VPN IPSec operam apenas no modo transporte e garante a segurança de cabeçalhos e payloads embora não permita tunelamento entre redes inteiras.'",
+      "how_to_avoid": "Memorizar as principais características e níveis de segurança dos protocolos mais comuns (IPsec, SSL/TLS, WireGuard).",
+      "order": 3
+    },
+    {
+      "trap_id": "peg_004",
+      "material_id": "mat_001",
+      "topic_id": "top_009",
+      "title": "Porta Padrão do RDP",
+      "description": "A CEBRASPE pode tentar confundir a porta padrão do RDP (TCP 3389) ou associá-la a outro protocolo.",
+      "example_error": "Afirmar que 'O RDS utiliza o protocolo SSH como base para conexões de área de trabalho remota, garantindo criptografia ponta a ponta entre cliente e servidor.' (SSH usa porta 22, RDP usa 3389).",
+      "how_to_avoid": "Memorizar a porta TCP 3389 como padrão para RDP.",
+      "order": 4
+    }
+  ],
+  "pontos_memorizacao": [
+    {
+      "memory_id": "mem_001",
+      "material_id": "mat_001",
+      "topic_id": "top_003",
+      "title": null,
+      "content": "VPN: Rede Privada Virtual. Cria túnel criptografado sobre rede pública.",
+      "order": 1
+    },
+    {
+      "memory_id": "mem_002",
+      "material_id": "mat_001",
+      "topic_id": "top_003",
+      "title": null,
+      "content": "Finalidade da VPN: Segurança (confidencialidade, integridade), privacidade e acesso a recursos internos.",
+      "order": 2
+    },
+    {
+      "memory_id": "mem_003",
+      "material_id": "mat_001",
+      "topic_id": "top_005",
+      "title": null,
+      "content": "Tipos de VPN: Acesso Remoto (Client-to-Site) e Site-to-Site.",
+      "order": 3
+    },
+    {
+      "memory_id": "mem_004",
+      "material_id": "mat_001",
+      "topic_id": "top_008",
+      "title": null,
+      "content": "RDP: Remote Desktop Protocol. Permite controle gráfico remoto de um computador.",
+      "order": 4
+    },
+    {
+      "memory_id": "mem_005",
+      "material_id": "mat_001",
+      "topic_id": "top_009",
+      "title": null,
+      "content": "Porta padrão RDP: TCP 3389.",
+      "order": 5
+    },
+    {
+      "memory_id": "mem_006",
+      "material_id": "mat_001",
+      "topic_id": "top_011",
+      "title": null,
+      "content": "VPN e RDP são complementares; RDP sobre VPN aumenta a segurança.",
+      "order": 6
+    },
+    {
+      "memory_id": "mem_007",
+      "material_id": "mat_001",
+      "topic_id": "top_010",
+      "title": null,
+      "content": "Boas práticas RDP: Alterar porta, senhas fortes, NLA, 2FA, atualizações.",
+      "order": 7
+    },
+    {
+      "memory_id": "mem_008",
+      "material_id": "mat_001",
+      "topic_id": "top_006",
+      "title": null,
+      "content": "Protocolos VPN importantes: IPsec (robusto), SSL/TLS (flexível), WireGuard (moderno e rápido).",
+      "order": 8
+    }
+  ],
+  "quadro_sinotico_itens": [],
+  "questoes": [
+    {
+      "question_id": "qst_001",
+      "material_id": "mat_001",
+      "topic_id": "top_003",
+      "board": "CEBRASPE",
+      "year": 2022,
+      "organization": "Não especificado (Questão adaptada de padrão CEBRASPE)",
+      "role": "Não especificado",
+      "statement": "A rede privada virtual (VPN) é uma tecnologia de rede implementada para conectar um ou mais computadores a uma rede privada pela Internet, garantindo a confidencialidade e a integridade dos dados transmitidos por meio de um túnel criptografado.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "A VPN realmente cria um túnel criptografado sobre a internet para conectar a uma rede privada, garantindo segurança e privacidade. O item está correto.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_001"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_002",
+      "material_id": "mat_001",
+      "topic_id": "top_011",
+      "board": "CEBRASPE",
+      "year": 2023,
+      "organization": "Não especificado (Questão elaborada com base em padrão CEBRASPE)",
+      "role": "Não especificado",
+      "statement": "O Remote Desktop Protocol (RDP) e as Redes Privadas Virtuais (VPN) possuem a mesma finalidade, que é permitir o controle gráfico de um computador remoto através de uma conexão segura pela internet.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "O item está errado. Embora ambos permitam acesso remoto, VPN e RDP têm finalidades distintas. A VPN foca em acesso seguro à *rede* e privacidade, enquanto o RDP foca no *controle gráfico* de um *computador* específico. Não possuem a mesma finalidade principal.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_002"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_003",
+      "material_id": "mat_001",
+      "topic_id": "top_005",
+      "board": "CEBRASPE",
+      "year": 2018,
+      "organization": "Não especificado (Questão adaptada de padrão CEBRASPE)",
+      "role": "Não especificado",
+      "statement": "Uma VPN do tipo site-to-site estabelece túneis criptografados entre redes distintas, sendo frequentemente utilizada para conectar filiais de uma mesma organização.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "Correto. VPNs site-to-site são projetadas para interligar redes locais geograficamente separadas, como filiais de uma empresa, criando uma única rede lógica segura.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_003"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_004",
+      "material_id": "mat_001",
+      "topic_id": "top_009",
+      "board": "CEBRASPE",
+      "year": 2024,
+      "organization": "Não especificado (Questão elaborada com base em padrão CEBRASPE)",
+      "role": "Não especificado",
+      "statement": "O protocolo RDP, utilizado para acesso remoto a áreas de trabalho, opera por padrão na porta TCP 3389, e todo o tráfego de comandos e dados transmitidos por ele é criptografado.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "O item está correto. A porta TCP 3389 é a porta padrão para o RDP, e o protocolo criptografa os dados da sessão para garantir a segurança da comunicação.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_004"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_005",
+      "material_id": "mat_001",
+      "topic_id": "top_004",
+      "board": "CEBRASPE",
+      "year": 2021,
+      "organization": "Não especificado (Questão adaptada de padrão CEBRASPE)",
+      "role": "Não especificado",
+      "statement": "O uso de uma VPN dispensa completamente a necessidade de firewalls na rede corporativa, uma vez que o túnel criptografado estabelecido pela VPN já garante proteção total contra ataques externos.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "O item está errado. A VPN e o firewall são tecnologias de segurança complementares. A VPN protege o tráfego dentro do túnel, mas o firewall é essencial para controlar o tráfego de rede, filtrar pacotes e proteger contra ameaças que não são cobertas apenas pela VPN.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_005"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_006",
+      "material_id": "mat_001",
+      "topic_id": "top_006",
+      "board": "CEBRASPE",
+      "year": 2014,
+      "organization": "ANTAQ",
+      "role": "Analista Administrativo - Infraestrutura de Tecnologia da Informação",
+      "statement": "Em VPN com uso de IPsec, são suportados basicamente dois modos de operação: o modo transporte, que é utilizado para ligação de túneis virtuais; e o modo túnel, para estabelecer comunicação entre dois hosts, apenas.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "O item está errado. No IPsec, o modo transporte é para comunicação entre dois hosts, protegendo apenas o payload, enquanto o modo túnel é para ligação de túneis virtuais entre redes, protegendo o cabeçalho e o payload. A questão inverte as definições.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_006"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_007",
+      "material_id": "mat_001",
+      "topic_id": "top_010",
+      "board": "CEBRASPE",
+      "year": 2025,
+      "organization": "Não especificado (Questão elaborada com base em padrão CEBRASPE)",
+      "role": "Não especificado",
+      "statement": "Para aumentar a segurança de conexões RDP, é uma boa prática alterar a porta padrão 3389 e habilitar a Autenticação em Nível de Rede (NLA).",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "Correto. Alterar a porta padrão do RDP e habilitar a NLA são medidas importantes para dificultar ataques de força bruta e garantir que apenas usuários autenticados possam estabelecer sessões RDP.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_007"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_008",
+      "material_id": "mat_001",
+      "topic_id": "top_011",
+      "board": "CEBRASPE",
+      "year": 2024,
+      "organization": "Não especificado (Questão elaborada com base em padrão CEBRASPE)",
+      "role": "Não especificado",
+      "statement": "A forma mais segura de utilizar o RDP para acesso a um servidor corporativo a partir de uma rede externa é estabelecendo a conexão RDP por meio de um túnel VPN previamente configurado.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "Correto. A combinação de RDP com VPN é uma prática de segurança recomendada. A VPN cria um túnel seguro para a rede corporativa, e o RDP é então utilizado dentro desse túnel, adicionando uma camada extra de proteção à sessão de área de trabalho remota.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_008"
+        ],
+        "count": 1
+      }
+    }
+  ],
+  "comentarios_questoes": [
+    {
+      "comment_id": "com_001",
+      "question_id": "qst_001",
+      "content": "A VPN realmente cria um túnel criptografado sobre a internet para conectar a uma rede privada, garantindo segurança e privacidade. O item está correto.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_002",
+      "question_id": "qst_002",
+      "content": "O item está errado. Embora ambos permitam acesso remoto, VPN e RDP têm finalidades distintas. A VPN foca em acesso seguro à *rede* e privacidade, enquanto o RDP foca no *controle gráfico* de um *computador* específico. Não possuem a mesma finalidade principal.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_003",
+      "question_id": "qst_003",
+      "content": "Correto. VPNs site-to-site são projetadas para interligar redes locais geograficamente separadas, como filiais de uma empresa, criando uma única rede lógica segura.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_004",
+      "question_id": "qst_004",
+      "content": "O item está correto. A porta TCP 3389 é a porta padrão para o RDP, e o protocolo criptografa os dados da sessão para garantir a segurança da comunicação.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_005",
+      "question_id": "qst_005",
+      "content": "O item está errado. A VPN e o firewall são tecnologias de segurança complementares. A VPN protege o tráfego dentro do túnel, mas o firewall é essencial para controlar o tráfego de rede, filtrar pacotes e proteger contra ameaças que não são cobertas apenas pela VPN.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_006",
+      "question_id": "qst_006",
+      "content": "O item está errado. No IPsec, o modo transporte é para comunicação entre dois hosts, protegendo apenas o payload, enquanto o modo túnel é para ligação de túneis virtuais entre redes, protegendo o cabeçalho e o payload. A questão inverte as definições.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_007",
+      "question_id": "qst_007",
+      "content": "Correto. Alterar a porta padrão do RDP e habilitar a NLA são medidas importantes para dificultar ataques de força bruta e garantir que apenas usuários autenticados possam estabelecer sessões RDP.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_008",
+      "question_id": "qst_008",
+      "content": "Correto. A combinação de RDP com VPN é uma prática de segurança recomendada. A VPN cria um túnel seguro para a rede corporativa, e o RDP é então utilizado dentro desse túnel, adicionando uma camada extra de proteção à sessão de área de trabalho remota.",
+      "explanation_alternatives": ""
+    }
+  ],
+  "checklist_revisao": [
+    {
+      "checklist_id": "chk_001",
+      "material_id": "mat_001",
+      "topic_id": "top_003",
+      "item_text": "Compreender o conceito e a finalidade da VPN (rede privada virtual, túnel criptografado, segurança, privacidade, acesso a recursos).",
+      "completed": false,
+      "order": 1
+    },
+    {
+      "checklist_id": "chk_002",
+      "material_id": "mat_001",
+      "topic_id": "top_005",
+      "item_text": "Diferenciar os tipos de VPN: Acesso Remoto (Client-to-Site) e Site-to-Site.",
+      "completed": false,
+      "order": 2
+    },
+    {
+      "checklist_id": "chk_003",
+      "material_id": "mat_001",
+      "topic_id": "top_006",
+      "item_text": "Conhecer os principais protocolos VPN (IPsec, SSL/TLS, PPTP, L2TP/IPsec, WireGuard) e suas características básicas.",
+      "completed": false,
+      "order": 3
+    },
+    {
+      "checklist_id": "chk_004",
+      "material_id": "mat_001",
+      "topic_id": "top_008",
+      "item_text": "Compreender o conceito e a finalidade do RDP (controle gráfico remoto, interface de usuário).",
+      "completed": false,
+      "order": 4
+    },
+    {
+      "checklist_id": "chk_005",
+      "material_id": "mat_001",
+      "topic_id": "top_009",
+      "item_text": "Memorizar a porta padrão do RDP (TCP 3389).",
+      "completed": false,
+      "order": 5
+    },
+    {
+      "checklist_id": "chk_006",
+      "material_id": "mat_001",
+      "topic_id": "top_010",
+      "item_text": "Identificar as boas práticas de segurança para RDP (alterar porta, senhas fortes, NLA, 2FA, atualizações).",
+      "completed": false,
+      "order": 6
+    },
+    {
+      "checklist_id": "chk_007",
+      "material_id": "mat_001",
+      "topic_id": "top_011",
+      "item_text": "Saber as diferenças fundamentais entre VPN e RDP e quando usar cada um, ou a combinação de ambos.",
+      "completed": false,
+      "order": 7
+    },
+    {
+      "checklist_id": "chk_008",
+      "material_id": "mat_001",
+      "topic_id": "top_012",
+      "item_text": "Reconhecer as pegadinhas comuns da CEBRASPE relacionadas a VPN e RDP (confusão de finalidades, substituição de firewalls, características de protocolos).",
+      "completed": false,
+      "order": 8
+    }
+  ],
+  "referencias": [
+    {
+      "reference_id": "ref_001",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": "Huntress",
+      "title": "VPN vs. Remote Desktop: Which Is the Best Choice for Your Business?",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG2wWM4TP2X0VjdLuBD7IhvJ512dK0OH8WgOmhXVDzPp8UYrat5gTUqxt-R5TjlnWmlj1cfY66MEZ4hE9UnHRIup1dTBueBfKwfgoLtEGrLePTMQNjJysG-3h_NW5-l3_IvZVyXgpD0X7ZzG8pB85if5I8_yCTy5Ca1HvXsTjd_O0idM9n-u3bF3w==",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_002",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": "ScreenConnect",
+      "title": "RDP vs VPN: Differences, Pros & Cons",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFnrcNQEWS-xre8AhrQ7ziLbveonoiXbKNUQJiJacyXXxIPEv0oDfvy970o51qTZchaueUCSWvvLe3UV_lfIn7OFRKZYGzxLFPfhQTwjFdtrSCfW5lAwqnXK57hTvPlE3Qe6DtcJiFwqA==",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_003",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": "Kaspersky",
+      "title": "O que é uma VPN? Como funciona, tipos e benefícios das VPNs",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHUN6wz5uH4fuj7U1BT2Qwlt3y11Ji0vFOMgFWphEG3XJcphvNdyS1tywBkMbbPE3MjTfIzUTfivE_dp-_OGB6cCFG1VZX81OyJSRKEzMK_xDY7UPjp4DZpyuN3cl8PclEqPeUv7Lng1e-bTb1El9YShyf5b7_ROmjgn0vOcgVR0I=",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_004",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": "Surfshark",
+      "title": "RDP vs. VPN explicado (2026)",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFj_rj8m1U08j7Sj06AGuUyzz-PweTALIMB6W14Pp12PsXT4npOypj-NKDp2Nd-ow6Uc9Y2-83cgmRZ1pVT7DzCYdNET-u7SOkmdACpXrMD5-eOS2zvN05VCWrN6Laj1Qw-kbUpfbg=",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_005",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": "CloudSEK",
+      "title": "Explorando Protocolos de VPN: Tipos, Forças e Como Escolher",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQENJKP1ULtgA6xEH-LgKyy2imncxpPmYfEaADZdtjfRrk6L_2_b6Ky64yR3fISSd18LvCufduXArZFvjZa2UMp-K2hlNK-8gLBR5aohkn-mAjXssIPZI_d9YtwwE8Osfs2g5SmeEjUJ35RsA9-qHhisfcQ73VIkH-Kut7NaOg==",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_006",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": "IBM",
+      "title": "Conceitos de VPN",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHguUAupDjYw8YAWG68Xnfp2lCx43-f-KD0ct4aKuraUwuB5Q-NiO8CLNgRqblLRPNTHY08Fapt22SOD9l-h_jYiuudVZ4JPgeEKrNrL8cjJ7EZKJQm3eJMaxfP0yRzvNPi_WDV1j9Fj_QV_RRE_u04wnUD5hCa9yCEkN4=",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_007",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": "Fortinet",
+      "title": "O que é Protocolo de Desktop Remoto (RDP)? Como funciona o RDP?",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHVU3462hwZcJYglH8Gkqdd1nLZMLvb2GbqJ9_dMY286r7pG3xChSr2MbuTfHiFyU4ksUAdvzA0Z4Qm3HEYp--WAasCNMZELqvsoaxmN5ShHD4PieR0znCD9HAjwfvlec8G2bbSPeSCT8jBDyfKLAFUdFECD7ZVJotU8LdznNTtV736ABDiLg==",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_008",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": "ExpressVPN",
+      "title": "VPN vs. área de trabalho remota",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEKVTWyoHeeWbXrOqKdHeqQAQYpzwnndnqbvDwqKOxg3d37Pl5z6lB-HztQACBXeLSvDMbrUa3fBRSdm-wt7kwbf008MZ7FtgtLEJhBOs9nb_FatCy3cOR2iuyRrWGlftyMJZQo39tzcBFh1V3bA-pGUY4i79bgIIcSlA==",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_009",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": "Imprivata",
+      "title": "What's the difference between RDP and VPN for remote access?",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHC5DvHJDJN1IxQetzsa19vcHkdV_yZQfQVGfU37ouJ4682hCd0xyhPTwN0A_JzsmDO_-Y13nR3IA1UIf50W4uyTOAJKxRoD21PAkHZ_zrGanIiCWzLrBx4Md-PtT2u-O2uswjmXrUO2xVm1frKldKXv40VXlgyh2NFOGtEyLbi5AFzRFMsuyjBp9aCpA==",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_010",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": "Cloudflare",
+      "title": "O que é Protocolo de Desktop Remoto (RDP)?",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGk3-EUdm-hnp4utfv6sQqXYmgFC8zEW8Zjxd0lAgP7UCSMvC01SfCjjXJvzj3UVqL4wU_Fza5RJu1xufqR88GWrJRCbo_b0KVICvtPL_wu3k2gFDC_IscTncscXXrI1NJIFBrpjOwa9V01EEAPRSoIrtBSmvaEMrS5hBQi60NCPctQi2-hol3NVXDL_-W0qDBVd8ESijRrHyac-Q==",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_011",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": "Zscaler",
+      "title": "O que é uma VPN? — Tipos e como funciona",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGVuLprB2v2SGPYO8LVMiZ8KimgzGv_-9fAK_dXheJf4gCjDNQ1W4xUazNfRlFWdp5PSC2q-HRkbGsMEWg29D_ugTxAJRh8NAakN_TaRxvhaRHH5JFH7kOTD6vVPYPRN668Hj8TWAx7AQQD",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_012",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": "TSplus",
+      "title": "Portas RDP: Configuração, Segurança e Melhores Práticas",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHr4QB5aUNhak4xQdFfBS6koxo9UhbrAFP5zuXHxGLub1ZAk_TjcLikTmob1fOP8Yt9B4qPQhHzZAxe7TjLMdovEh4dZbmuMfjTH90XEETWj3UZTQT-NjM-Wl7nOr-Yqb-v0NPzKCnRbB5ErP7FlYYjA155jCHRtbTk6Hxh",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_013",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": "ManageEngine",
+      "title": "O que é acesso RDP e como garantir a segurança?",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFLjdotIB9s2WvnP9TMJG8tl9Hj1flWKt5kRIRYHLLXMAMAUYfA_SpRKzMjNwAFSIW8vGJyYeujf7rs3nlapTb1ZGVCqnPq7OGiqS3dcsWIV4Dz0KRCckj-HtuNIn8VQWwSp7fc14CPDxVXf2Pi3KDlIhBjxznO5C7bbvkJNCpgU64J1e2Y_fEjFYA=",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_014",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": "ManageEngine",
+      "title": "O que é e como funciona um ataque RDP (Remote Desktop Protocol)?",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHSP9lbkLy--o3mHvJbXKOV_1UsmfQiiLdbmWE3L6NwxG3SELwmfM2wX_wuRzXx5i2BafdYfO7V7BqWHeAHz_6J3299JmsP3LoT26qSGminWD7tlprNqLB-Z1vFw0sMsfmE2Lg-DBHQQ5dJWpz3ymwU5H4QpDVg5jtRxa2FJ71JGb78b9lpDNt1wxSF4a5UMJlu7nrm6Cu5hMpW-EKVln955mG76fNFx-vomg==",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_015",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": "Qconcursos.com",
+      "title": "VPN (Virtual Private Network), Software para Acesso Remoto e Team Viwer em Redes de Computadores para CESPE / CEBRASPE",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHVluaKxHs3dOhODyO6GvnhFlFp0kCFz2-yw_z5JTHZZGikX5YFJrGnC6YkojpJc76Yr1nrwa3oazR08GQAwx_AoGFLuSphWPxdzF97_YFb8sFGQIwV43QTbOk4YY0n2mXPrZF3563VcsmmP55Z1NbRYfja_Do74SkAp6QETSN1O10oA-Jk6GE8WYvjb_-wwJ_9p_dUDg8qs1emDDboTQNpWX2N109B-WIvtpsJrdeO1G50sDDHJ_fKpHE3B63-ztmn",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_016",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": "Resolva Mais",
+      "title": "Questões de concurso - Redes de computadores - Acesso remoto",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHltn8InUUPz0zErtpKKtrifevV7_ws7-WGL1OVhDhMDpYva6NixEIsBVB7iPLtYvkQu9LWY0Tluafbn0zQUlz0FjQByUhv_58qXr3eWS_d6PP6pgf5DKbtlKCS9dlDA3tAGfrc6-7NHa_UN00_SHXQgvSEUvrFhZZFP8pinyNn9nGUgSU5wBoqaqi1KchFbLZ5mbHMIwsS3nIuvkhx9kCpJQXUeK632OsjSRS7xYEQBSKYqShT8CMREj7x7BWkAwOTElPDvtKSez7SgG8tU0oSQ842ZQ==",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_017",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": "Qconcursos.com",
+      "title": "Questão 2981689 CEBRASPE (CESPE) - Analista de Sistemas (Pref Cach Itapemirim)",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEn5AQsGhb-sT0ui3Q1hgU7mCnUx15qP_Ay04TyWcNkNPRjo4xY_e32gPcBDUc3bDgVL4a2KVk4KOBIBSr1iWZAfdWVag_pWiKJxa1L5f00jNQP-mGn0lrO_QsvU2gKqULVIFjJS-99OkKCTA==",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_018",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": "Qconcursos.com",
+      "title": "Questões de VPN - 2014",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGWNC18qjRbFhONPNO5OxJA1woCwlnLXnTJLyXORQ0N-NgCmHRCbMFKEC64VzrYPjfLpEqTzXOQcsGN2MTlDG3zjuJPlQqB9jsUkjhVGyU5dGwMnkDYkXV02R9ltgF7T5s_KQ92sHBvn1nLkl8cpw1iFH5GAQzJeXS3z8cbuHmOwVivLtQ==",
+      "accessed_at": null,
+      "description": null
+    }
+  ],
+  "estatisticas_de_geracao": {
+    "total_topicos": 12,
+    "total_componentes_topico": 14,
+    "total_entendimentos_relevantes": 5,
+    "total_pegadinhas": 4,
+    "total_pontos_memorizacao": 8,
+    "total_itens_quadro_sinotico": 0,
+    "total_questoes": 8,
+    "total_comentarios_questoes": 8,
+    "total_itens_checklist": 8,
+    "total_referencias": 18
+  },
+  "validacao_interna": {
+    "pesquisa_previa_realizada": true,
+    "analise_de_cobrancas_anteriores_realizada": true,
+    "material_atualizado": true,
+    "json_valido": true,
+    "estrutura_relacional_respeitada": true,
+    "numeracao_respeitada": true,
+    "houve_quebra_de_hierarquia": false,
+    "houve_nivel_numerico_superior_a_3": false,
+    "fontes_verificadas": true,
+    "sem_informacao_inventada": true
+  },
+  "metadata": {
+    "source_file_name": "5__informática-e-dados__5-noções-de-redes-de-computadores-5.4-acesso-remoto-a-computadores-vpn-rdp.json",
+    "normalized_checksum": "532ebba6fb9c73791eb9efc8365c51f77d6826c4edc4abb0b8e7d20bb00ed404",
+    "subject_slug": "informatica",
+    "material_slug": "acesso-remoto-vpn-rdp-cebraspe",
+    "title_slug": "acesso-remoto-a-computadores-vpn-e-rdp-para",
+    "board_slug": "cebraspe",
+    "counters": {
+      "blocks": 10,
+      "topics": 12,
+      "topic_components": 14,
+      "traps": 4,
+      "memory_points": 8,
+      "summary_items": 0,
+      "questions": 8,
+      "question_comments": 8,
+      "checklist_items": 8,
+      "references": 18
+    }
+  }
+}

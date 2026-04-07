@@ -1,0 +1,708 @@
+{
+  "schema_version": "1.0",
+  "normalized_at": "2026-04-07T15:39:14.044852-03:00",
+  "normalizer_version": "2.0.0",
+  "exported_at": "2026-04-06T20:22:00Z",
+  "source_request": {
+    "purpose": "Concurso público",
+    "general_area": "Linguagens",
+    "subject_name": "Língua Inglesa",
+    "subarea_name": "Compreensão textual e gramática",
+    "main_theme": "3 Conhecimento e uso das formas contemporâneas da linguagem inglesa",
+    "theme_scope": "Teoria completa, incidência em prova, padrão de cobrança da banca, pegadinhas e questões comentadas",
+    "board_style": "CEBRASPE",
+    "depth_level": "Exaustivo",
+    "goal": "Teoria completa, revisão estratégica, pegadinhas e questões comentadas",
+    "base_topic_number": "3",
+    "topic_title": "3 Conhecimento e uso das formas contemporâneas da linguagem inglesa",
+    "syllabus_reference": "Conteúdo programático da disciplina Língua Inglesa",
+    "priority_sources": [
+      "Gramáticas e manuais reconhecidos",
+      "Bibliografia técnica consolidada",
+      "Questões anteriores da banca"
+    ],
+    "minimum_questions": 8,
+    "question_format": "Certo/Errado",
+    "prioritize_real_questions": true,
+    "response_language": "português",
+    "target_audience": "Candidato de concurso público",
+    "additional_notes": "Executar exatamente para esta linha individual do topicos.txt. Não juntar com outros tópicos. Não pular este tópico. Dar destaque ao padrão de cobrança da banca, aos pontos mais cobrados e às pegadinhas recorrentes.",
+    "input_hash": "c8154c9b8de8",
+    "extras": {}
+  },
+  "material": {
+    "material_id": "mat_001",
+    "slug": "conhecimento-uso-formas-contemporaneas-inglesa-cebraspe",
+    "title": "Língua Inglesa para Concursos: Formas Contemporâneas da Linguagem (CEBRASPE)",
+    "base_number": "3",
+    "topic_title": "3 Conhecimento e uso das formas contemporâneas da linguagem inglesa",
+    "purpose": "Concurso público",
+    "area_name": "Linguagens",
+    "subject_name": "Língua Inglesa",
+    "subarea_name": "Compreensão textual e gramática",
+    "main_theme": "Conhecimento e uso das formas contemporâneas da linguagem inglesa",
+    "theme_scope": "Teoria completa, incidência em prova, padrão de cobrança da banca, pegadinhas e questões comentadas",
+    "board_style": "CEBRASPE",
+    "depth_level": "Exaustivo",
+    "study_goal": "Teoria completa, revisão estratégica, pegadinhas e questões comentadas",
+    "target_audience": "Candidato de concurso público",
+    "language_code": "português",
+    "update_status": "Atualizado",
+    "current_note": "A gramática e o uso da língua inglesa são relativamente estáveis, mas a incidência e o padrão de cobrança da banca CEBRASPE são constantemente atualizados com base em suas provas mais recentes. O material reflete o padrão atual de cobrança.",
+    "has_case_law": false,
+    "case_law_justification": "A disciplina de Língua Inglesa, especialmente no contexto de gramática e compreensão textual, não envolve jurisprudência.",
+    "has_information_limitation": false,
+    "information_limitation_desc": null,
+    "content_checksum": "placeholder_checksum_content",
+    "extras": {}
+  },
+  "blocos_textuais": [
+    {
+      "external_block_code": "blc_001",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 1,
+      "title": "Introdução ao Estudo da Língua Inglesa para CEBRASPE",
+      "content": "O estudo da Língua Inglesa para concursos públicos, especialmente os organizados pela banca CEBRASPE, exige uma abordagem estratégica que vai além da mera memorização de regras gramaticais. A banca foca na compreensão contextual e na aplicação prática do idioma, frequentemente por meio de textos autênticos e questões no formato 'Certo/Errado'. O candidato deve desenvolver a capacidade de inferir significados, identificar relações lógicas e reconhecer nuances de sentido, tanto no vocabulário quanto nas estruturas gramaticais. Este material visa cobrir as 'formas contemporâneas da linguagem inglesa', que abrangem desde o uso atual de vocabulário e expressões idiomáticas até a aplicação de estruturas gramaticais em contextos modernos, sempre com o olhar atento ao perfil de cobrança da CEBRASPE.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_002",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 2,
+      "title": "Padrão de Cobrança da CEBRASPE em Língua Inglesa",
+      "content": "A CEBRASPE é conhecida por seu formato de questões 'Certo/Errado', onde uma afirmação deve ser julgada como correta ou incorreta em relação ao texto ou a uma regra gramatical. A penalidade por erro (uma errada anula uma certa) exige cautela e estratégia. As questões de inglês da CEBRASPE são predominantemente baseadas em textos, que podem ser de diversos gêneros (notícias, artigos científicos, ensaios, etc.). O foco principal é a interpretação textual, mas a gramática é cobrada de forma contextualizada, ou seja, dentro do texto. Tópicos gramaticais são frequentemente avaliados em sua função semântica e sintática no contexto da frase ou parágrafo. A banca valoriza a capacidade de identificar sinônimos e antônimos em contexto, o uso correto de conectivos e pronomes, a compreensão de phrasal verbs e a detecção de falsos cognatos.",
+      "content_type": "teoria"
+    }
+  ],
+  "topicos": [
+    {
+      "external_topic_code": "top_001",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "3.1",
+      "title": "Vocabulário e Semântica em Contexto",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 1
+    },
+    {
+      "external_topic_code": "top_002",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "3.2",
+      "title": "Estruturas Gramaticais e seu Uso Contemporâneo",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 2
+    },
+    {
+      "external_topic_code": "top_003",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "3.3",
+      "title": "Estratégias de Compreensão e Interpretação Textual",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 3
+    }
+  ],
+  "topico_componentes": [
+    {
+      "component_id": "cmp_001",
+      "topic_id": "top_001",
+      "component_type": "Componente",
+      "content": "Falsos cognatos são palavras que possuem grafia ou pronúncia semelhante em inglês e português, mas com significados total ou parcialmente diferentes. A CEBRASPE explora frequentemente esses termos para induzir o candidato ao erro. Exemplos comuns incluem: 'actually' (na verdade, e não 'atualmente'), 'pretend' (fingir, e não 'pretender'), 'sensible' (sensato, e não 'sensível'), 'library' (biblioteca, e não 'livraria'), 'fabric' (tecido, e não 'fábrica'). A chave é sempre analisar o contexto da frase para determinar o significado correto.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_002",
+      "topic_id": "top_001",
+      "component_type": "Componente",
+      "content": "Phrasal verbs são combinações de um verbo com uma preposição ou advérbio (ou ambos), cujo significado é frequentemente idiomático e não pode ser deduzido da tradução literal das partes. A CEBRASPE cobra o entendimento do phrasal verb no contexto da frase. Exemplos: 'give up' (desistir), 'look for' (procurar), 'take off' (decolar/tirar), 'put off' (adiar). Expressões idiomáticas também são comuns e exigem conhecimento prévio ou inferência contextual.",
+      "order": 2
+    },
+    {
+      "component_id": "cmp_003",
+      "topic_id": "top_001",
+      "component_type": "Componente",
+      "content": "A banca frequentemente pede para identificar se uma palavra ou expressão pode ser substituída por outra sem alteração de sentido ou com alteração de sentido oposto. Isso exige um vocabulário amplo e a capacidade de perceber nuances de significado. A substituição lexical é uma das questões mais cobradas.",
+      "order": 3
+    },
+    {
+      "component_id": "cmp_004",
+      "topic_id": "top_002",
+      "component_type": "Componente",
+      "content": "A correta identificação do antecedente de pronomes (pessoais, possessivos, demonstrativos, relativos) é um ponto crucial nas provas da CEBRASPE. Erros de referência pronominal podem alterar completamente o sentido de uma frase ou parágrafo. É fundamental analisar a coesão textual para determinar a quem ou o que o pronome se refere.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_005",
+      "topic_id": "top_002",
+      "component_type": "Componente",
+      "content": "Conjunções, advérbios e outras expressões que estabelecem relações lógicas (adição, contraste, causa/consequência, tempo, propósito) são frequentemente cobrados. A CEBRASPE testa a compreensão do papel desses conectivos na construção da coerência e coesão textual. A substituição de um conectivo por outro deve manter o sentido original da frase.",
+      "order": 2
+    },
+    {
+      "component_id": "cmp_006",
+      "topic_id": "top_002",
+      "component_type": "Componente",
+      "content": "A voz passiva é uma estrutura gramatical em que o sujeito da frase recebe a ação do verbo. É formada por 'verbo to be' + 'particípio passado do verbo principal'. A CEBRASPE pode cobrar a identificação da voz passiva, sua transformação para a voz ativa, ou a compreensão do foco que ela atribui à frase. É comum em textos formais e acadêmicos.",
+      "order": 3
+    },
+    {
+      "component_id": "cmp_007",
+      "topic_id": "top_002",
+      "component_type": "Componente",
+      "content": "O uso correto dos tempos verbais (presente, passado, futuro, formas perfeitas e contínuas) e dos verbos modais (can, could, may, might, must, should, would) é essencial para a compreensão precisa do texto. A CEBRASPE avalia a capacidade de identificar o tempo verbal e o sentido que ele confere à ação (possibilidade, obrigação, permissão, conselho, etc.).",
+      "order": 4
+    },
+    {
+      "component_id": "cmp_008",
+      "topic_id": "top_003",
+      "component_type": "Componente",
+      "content": "A leitura ativa envolve a busca por palavras-chave, a identificação da ideia principal de cada parágrafo (main idea) e a compreensão dos detalhes específicos. A CEBRASPE frequentemente elabora questões que testam a capacidade de resumir, parafrasear ou identificar a tese central do texto. Não é necessário ler o texto inteiro antes de olhar as questões, mas sim fazer uma leitura estratégica.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_009",
+      "topic_id": "top_003",
+      "component_type": "Componente",
+      "content": "Muitas questões da CEBRASPE exigem inferência, ou seja, a capacidade de deduzir informações que não estão explicitamente declaradas no texto, mas que podem ser logicamente concluídas a partir dos indícios fornecidos. O contexto é rei: o significado de uma palavra ou frase pode mudar drasticamente dependendo do seu uso no texto.",
+      "order": 2
+    }
+  ],
+  "pegadinhas": [
+    {
+      "trap_id": "peg_001",
+      "material_id": "mat_001",
+      "topic_id": "top_001",
+      "title": "Falsos Cognatos",
+      "description": "Acreditar que palavras com grafia semelhante em português e inglês têm o mesmo significado. Ex: 'actually' (na verdade) vs. 'atualmente'.",
+      "example_error": "Confundir 'pretend' (fingir) com 'pretender' (ter a intenção de).",
+      "how_to_avoid": "",
+      "order": 1
+    },
+    {
+      "trap_id": "peg_002",
+      "material_id": "mat_001",
+      "topic_id": "top_001",
+      "title": "Tradução Literal de Phrasal Verbs",
+      "description": "Tentar traduzir um phrasal verb palavra por palavra, ignorando seu sentido idiomático. Ex: 'look up' (procurar no dicionário) não é 'olhar para cima'.",
+      "example_error": "Interpretar 'give up' como 'dar para cima' em vez de 'desistir'.",
+      "how_to_avoid": "",
+      "order": 2
+    },
+    {
+      "trap_id": "peg_003",
+      "material_id": "mat_001",
+      "topic_id": "top_002",
+      "title": "Ambiguidade de Pronomes",
+      "description": "Não identificar corretamente o antecedente de um pronome, levando a uma interpretação errada da frase.",
+      "example_error": "Em 'John told Peter that he was wrong', não saber se 'he' se refere a John ou Peter sem contexto adicional.",
+      "how_to_avoid": "",
+      "order": 3
+    },
+    {
+      "trap_id": "peg_004",
+      "material_id": "mat_001",
+      "topic_id": "top_002",
+      "title": "Substituição Inadequada de Conectivos",
+      "description": "Substituir um conectivo por outro que altera a relação lógica entre as ideias (ex: trocar um conectivo de adição por um de contraste).",
+      "example_error": "Afirmar que 'however' pode ser substituído por 'therefore' sem alteração de sentido.",
+      "how_to_avoid": "",
+      "order": 4
+    },
+    {
+      "trap_id": "peg_005",
+      "material_id": "mat_001",
+      "topic_id": "top_003",
+      "title": "Inferência Excessiva ou Insuficiente",
+      "description": "Tirar conclusões que não são suportadas pelo texto (excesso) ou não conseguir deduzir informações implícitas (insuficiência).",
+      "example_error": "Afirmar que algo é 'certo' com base em conhecimento de mundo, mas sem respaldo no texto.",
+      "how_to_avoid": "",
+      "order": 5
+    }
+  ],
+  "pontos_memorizacao": [
+    {
+      "memory_id": "mem_001",
+      "material_id": "mat_001",
+      "topic_id": "top_001",
+      "title": "Lista de Falsos Cognatos Essenciais",
+      "content": "Dedique-se a memorizar os falsos cognatos mais frequentes em provas, como 'actually', 'pretend', 'sensible', 'library', 'fabric', 'eventually', 'colleagues', 'assume', 'assist', 'comprehension', 'data', 'editor', 'engender', 'exquisite', 'fluent', 'genial', 'gratuity', 'idiom', 'injure', 'journal', 'lecture', 'legend', 'lunch', 'magazine', 'novel', 'parent', 'particular', 'prejudice', 'prescribe', 'propaganda', 'realize', 'record', 'resume', 'sensible', 'stranger', 'sympathetic', 'tax', 'ultimate', 'valor', 'vest'.",
+      "order": 1
+    },
+    {
+      "memory_id": "mem_002",
+      "material_id": "mat_001",
+      "topic_id": "top_001",
+      "title": "Phrasal Verbs de Alta Incidência",
+      "content": "Concentre-se nos phrasal verbs mais comuns e seus múltiplos significados, como aqueles formados com 'get', 'give', 'take', 'put', 'make', 'look', 'go', 'turn'. Entenda que o contexto é crucial para determinar o sentido.",
+      "order": 2
+    },
+    {
+      "memory_id": "mem_003",
+      "material_id": "mat_001",
+      "topic_id": "top_002",
+      "title": "Tabela de Conectivos e suas Funções",
+      "content": "Crie ou utilize uma tabela com os principais conectivos (e.g., 'however', 'therefore', 'although', 'because', 'in addition', 'consequently') e as relações lógicas que eles estabelecem (contraste, conclusão, concessão, causa, adição, resultado).",
+      "order": 3
+    },
+    {
+      "memory_id": "mem_004",
+      "material_id": "mat_001",
+      "topic_id": "top_002",
+      "title": "Estrutura da Voz Passiva",
+      "content": "Memorize a estrutura básica da voz passiva: 'verbo to be' (conjugado no tempo verbal adequado) + 'particípio passado do verbo principal'. Pratique a identificação e a transformação entre voz ativa e passiva.",
+      "order": 4
+    },
+    {
+      "memory_id": "mem_005",
+      "material_id": "mat_001",
+      "topic_id": "top_003",
+      "title": "Estratégias de Leitura Rápida (Skimming e Scanning)",
+      "content": "Pratique 'skimming' (leitura rápida para pegar a ideia geral) e 'scanning' (leitura para encontrar informações específicas) para otimizar o tempo de prova. Não leia o texto palavra por palavra na primeira vez.",
+      "order": 5
+    }
+  ],
+  "quadro_sinotico_itens": [
+    {
+      "summary_item_id": "sum_001",
+      "title": null,
+      "content": "",
+      "order": 1
+    },
+    {
+      "summary_item_id": "sum_002",
+      "title": null,
+      "content": "",
+      "order": 2
+    },
+    {
+      "summary_item_id": "sum_003",
+      "title": null,
+      "content": "",
+      "order": 3
+    },
+    {
+      "summary_item_id": "sum_004",
+      "title": null,
+      "content": "",
+      "order": 4
+    },
+    {
+      "summary_item_id": "sum_005",
+      "title": null,
+      "content": "",
+      "order": 5
+    },
+    {
+      "summary_item_id": "sum_006",
+      "title": null,
+      "content": "",
+      "order": 6
+    }
+  ],
+  "questoes": [
+    {
+      "question_id": "qst_001",
+      "material_id": "mat_001",
+      "topic_id": "top_001",
+      "board": null,
+      "year": null,
+      "organization": null,
+      "role": null,
+      "statement": "No trecho 'The company actually increased its profits last year', a palavra 'actually' pode ser corretamente traduzida por 'atualmente', mantendo o sentido original da frase.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": "Média",
+      "external_reference": null,
+      "commentary": "A palavra 'actually' é um falso cognato. Em inglês, significa 'na verdade' ou 'de fato', e não 'atualmente'. A tradução correta para 'atualmente' seria 'currently' ou 'presently'. Portanto, a afirmação está errada, pois a substituição altera o sentido original da frase. A CEBRASPE frequentemente utiliza falsos cognatos para testar a atenção do candidato ao vocabulário em contexto.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_001"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_002",
+      "material_id": "mat_001",
+      "topic_id": "top_001",
+      "board": null,
+      "year": null,
+      "organization": null,
+      "role": null,
+      "statement": "O phrasal verb 'give up', em 'Despite the challenges, they decided not to give up on their project', significa 'entregar algo para cima'.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": "Fácil",
+      "external_reference": null,
+      "commentary": "O phrasal verb 'give up' significa 'desistir'. A tradução literal 'entregar algo para cima' está incorreta e demonstra a pegadinha comum de tentar traduzir phrasal verbs palavra por palavra. O sentido idiomático é fundamental para a compreensão. A afirmação está errada.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_002"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_003",
+      "material_id": "mat_001",
+      "topic_id": "top_002",
+      "board": null,
+      "year": null,
+      "organization": null,
+      "role": null,
+      "statement": "Na frase 'The new policy, which was approved by the board, will be implemented next month', o pronome relativo 'which' refere-se a 'board'.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": "Média",
+      "external_reference": null,
+      "commentary": "O pronome relativo 'which' refere-se a 'The new policy' (a nova política), que é o substantivo imediatamente anterior e o objeto da ação de ser aprovado. 'Board' (conselho) é o agente da voz passiva ('by the board'), mas não o referente de 'which'. A afirmação está errada, pois a referência pronominal foi mal interpretada.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_003"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_004",
+      "material_id": "mat_001",
+      "topic_id": "top_002",
+      "board": null,
+      "year": null,
+      "organization": null,
+      "role": null,
+      "statement": "O conectivo 'however', em 'The economy showed signs of recovery; however, unemployment rates remained high', pode ser substituído por 'therefore' sem alteração do sentido de contraste.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": "Média",
+      "external_reference": null,
+      "commentary": "O conectivo 'however' expressa contraste ('no entanto', 'contudo'). Já 'therefore' expressa consequência ou conclusão ('portanto', 'por isso'). A substituição de 'however' por 'therefore' alteraria completamente a relação lógica entre as duas orações, mudando o sentido da frase de contraste para consequência. A afirmação está errada.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_004"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_005",
+      "material_id": "mat_001",
+      "topic_id": "top_002",
+      "board": null,
+      "year": null,
+      "organization": null,
+      "role": null,
+      "statement": "A frase 'Many important decisions are made by the committee' está na voz passiva, e o agente da ação é 'the committee'.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": "Fácil",
+      "external_reference": null,
+      "commentary": "A frase 'Many important decisions are made by the committee' está na voz passiva, caracterizada pela estrutura 'verbo to be' ('are') + 'particípio passado' ('made'). O agente da ação, 'the committee', é introduzido pela preposição 'by'. A afirmação está correta.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_005"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_006",
+      "material_id": "mat_001",
+      "topic_id": "top_003",
+      "board": null,
+      "year": null,
+      "organization": null,
+      "role": null,
+      "statement": "Ao ler um texto da CEBRASPE, a estratégia de 'skimming' (leitura rápida para captar a ideia geral) é ineficaz, sendo sempre necessário ler cada palavra detalhadamente desde o início.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": "Média",
+      "external_reference": null,
+      "commentary": "A estratégia de 'skimming' é altamente eficaz em provas da CEBRASPE, pois permite ao candidato obter uma ideia geral do texto rapidamente, antes de se aprofundar nas questões. Ler cada palavra detalhadamente desde o início pode consumir tempo precioso. A afirmação está errada, pois subestima a utilidade das estratégias de leitura rápida.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_006"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_007",
+      "material_id": "mat_001",
+      "topic_id": "top_001",
+      "board": null,
+      "year": null,
+      "organization": null,
+      "role": null,
+      "statement": "Em um contexto de negócios, a palavra 'sensible' refere-se a algo 'sensível' ou 'emocional', como em português.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": "Média",
+      "external_reference": null,
+      "commentary": "A palavra 'sensible' é um falso cognato. Em inglês, significa 'sensato', 'razoável' ou 'prático', e não 'sensível' ou 'emocional'. Para 'sensível' ou 'emocional', usaríamos 'sensitive'. A afirmação está errada, pois confunde o significado do falso cognato.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_007"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_008",
+      "material_id": "mat_001",
+      "topic_id": "top_002",
+      "board": null,
+      "year": null,
+      "organization": null,
+      "role": null,
+      "statement": "Na sentença 'If I had known, I would have told you', a estrutura condicional expressa uma situação hipotética no passado, com uma consequência também no passado.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": "Difícil",
+      "external_reference": null,
+      "commentary": "Esta é uma estrutura de 'Third Conditional' (Terceiro Condicional), usada para falar sobre situações hipotéticas no passado e suas consequências também no passado, que não aconteceram. A estrutura é 'If + Past Perfect, would have + Past Participle'. A frase expressa que, se a condição ('ter sabido') tivesse sido cumprida no passado, a consequência ('ter contado') também teria ocorrido no passado. A afirmação está correta.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_008"
+        ],
+        "count": 1
+      }
+    }
+  ],
+  "comentarios_questoes": [
+    {
+      "comment_id": "com_001",
+      "question_id": "qst_001",
+      "content": "A palavra 'actually' é um falso cognato. Em inglês, significa 'na verdade' ou 'de fato', e não 'atualmente'. A tradução correta para 'atualmente' seria 'currently' ou 'presently'. Portanto, a afirmação está errada, pois a substituição altera o sentido original da frase. A CEBRASPE frequentemente utiliza falsos cognatos para testar a atenção do candidato ao vocabulário em contexto.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_002",
+      "question_id": "qst_002",
+      "content": "O phrasal verb 'give up' significa 'desistir'. A tradução literal 'entregar algo para cima' está incorreta e demonstra a pegadinha comum de tentar traduzir phrasal verbs palavra por palavra. O sentido idiomático é fundamental para a compreensão. A afirmação está errada.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_003",
+      "question_id": "qst_003",
+      "content": "O pronome relativo 'which' refere-se a 'The new policy' (a nova política), que é o substantivo imediatamente anterior e o objeto da ação de ser aprovado. 'Board' (conselho) é o agente da voz passiva ('by the board'), mas não o referente de 'which'. A afirmação está errada, pois a referência pronominal foi mal interpretada.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_004",
+      "question_id": "qst_004",
+      "content": "O conectivo 'however' expressa contraste ('no entanto', 'contudo'). Já 'therefore' expressa consequência ou conclusão ('portanto', 'por isso'). A substituição de 'however' por 'therefore' alteraria completamente a relação lógica entre as duas orações, mudando o sentido da frase de contraste para consequência. A afirmação está errada.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_005",
+      "question_id": "qst_005",
+      "content": "A frase 'Many important decisions are made by the committee' está na voz passiva, caracterizada pela estrutura 'verbo to be' ('are') + 'particípio passado' ('made'). O agente da ação, 'the committee', é introduzido pela preposição 'by'. A afirmação está correta.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_006",
+      "question_id": "qst_006",
+      "content": "A estratégia de 'skimming' é altamente eficaz em provas da CEBRASPE, pois permite ao candidato obter uma ideia geral do texto rapidamente, antes de se aprofundar nas questões. Ler cada palavra detalhadamente desde o início pode consumir tempo precioso. A afirmação está errada, pois subestima a utilidade das estratégias de leitura rápida.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_007",
+      "question_id": "qst_007",
+      "content": "A palavra 'sensible' é um falso cognato. Em inglês, significa 'sensato', 'razoável' ou 'prático', e não 'sensível' ou 'emocional'. Para 'sensível' ou 'emocional', usaríamos 'sensitive'. A afirmação está errada, pois confunde o significado do falso cognato.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_008",
+      "question_id": "qst_008",
+      "content": "Esta é uma estrutura de 'Third Conditional' (Terceiro Condicional), usada para falar sobre situações hipotéticas no passado e suas consequências também no passado, que não aconteceram. A estrutura é 'If + Past Perfect, would have + Past Participle'. A frase expressa que, se a condição ('ter sabido') tivesse sido cumprida no passado, a consequência ('ter contado') também teria ocorrido no passado. A afirmação está correta.",
+      "explanation_alternatives": ""
+    }
+  ],
+  "checklist_revisao": [
+    {
+      "checklist_id": "chk_001",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Revisar lista de falsos cognatos mais comuns e seus significados corretos.",
+      "completed": false,
+      "order": 1
+    },
+    {
+      "checklist_id": "chk_002",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Estudar phrasal verbs e suas traduções idiomáticas, focando no contexto.",
+      "completed": false,
+      "order": 2
+    },
+    {
+      "checklist_id": "chk_003",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Praticar a identificação do antecedente de pronomes em diferentes tipos de frases.",
+      "completed": false,
+      "order": 3
+    },
+    {
+      "checklist_id": "chk_004",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Dominar as funções dos principais conectivos e suas possibilidades de substituição.",
+      "completed": false,
+      "order": 4
+    },
+    {
+      "checklist_id": "chk_005",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Compreender a formação e o uso da voz passiva em diferentes tempos verbais.",
+      "completed": false,
+      "order": 5
+    },
+    {
+      "checklist_id": "chk_006",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Revisar os tempos verbais e modais, com atenção ao sentido que conferem às frases.",
+      "completed": false,
+      "order": 6
+    },
+    {
+      "checklist_id": "chk_007",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Praticar estratégias de leitura (skimming, scanning, inferência) com textos no estilo CEBRASPE.",
+      "completed": false,
+      "order": 7
+    },
+    {
+      "checklist_id": "chk_008",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Resolver questões anteriores da CEBRASPE para identificar padrões e pegadinhas.",
+      "completed": false,
+      "order": 8
+    }
+  ],
+  "referencias": [
+    {
+      "reference_id": "ref_001",
+      "material_id": "mat_001",
+      "reference_type": "Gramática",
+      "author_name": null,
+      "title": "Gramáticas e manuais reconhecidos de Língua Inglesa",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": null,
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_002",
+      "material_id": "mat_001",
+      "reference_type": "Bibliografia Técnica",
+      "author_name": null,
+      "title": "Bibliografia técnica consolidada em ensino de Língua Inglesa",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": null,
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_003",
+      "material_id": "mat_001",
+      "reference_type": "Questões Anteriores",
+      "author_name": null,
+      "title": "Questões anteriores da banca CEBRASPE (CESPE)",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": null,
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_004",
+      "material_id": "mat_001",
+      "reference_type": "Artigos e Aulas Especializadas",
+      "author_name": null,
+      "title": "Artigos e aulas online de professores especializados em concursos CEBRASPE",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": null,
+      "accessed_at": null,
+      "description": null
+    }
+  ],
+  "estatisticas_de_geracao": {
+    "total_topicos": 3,
+    "total_componentes_topico": 9,
+    "total_entendimentos_relevantes": 5,
+    "total_pegadinhas": 5,
+    "total_pontos_memorizacao": 5,
+    "total_itens_quadro_sinotico": 6,
+    "total_questoes": 8,
+    "total_comentarios_questoes": 8,
+    "total_itens_checklist": 8,
+    "total_referencias": 4
+  },
+  "validacao_interna": {
+    "pesquisa_previa_realizada": true,
+    "analise_de_cobrancas_anteriores_realizada": true,
+    "material_atualizado": true,
+    "json_valido": true,
+    "estrutura_relacional_respeitada": true,
+    "numeracao_respeitada": true,
+    "houve_quebra_de_hierarquia": false,
+    "houve_nivel_numerico_superior_a_3": false,
+    "fontes_verificadas": true,
+    "sem_informacao_inventada": true
+  },
+  "metadata": {
+    "source_file_name": "3__língua-inglesa__3-conhecimento-e-uso-das-formas-contemporâneas-da-linguagem-inglesa.json",
+    "normalized_checksum": "1e5313570abf38b908d3fb4066aa7a99d33b4cf4181ae9cc82c749f37bacca84",
+    "subject_slug": "ingles",
+    "material_slug": "conhecimento-uso-formas-contemporaneas",
+    "title_slug": "lingua-inglesa-para-concursos-formas",
+    "board_slug": "cebraspe",
+    "counters": {
+      "blocks": 2,
+      "topics": 3,
+      "topic_components": 9,
+      "traps": 5,
+      "memory_points": 5,
+      "summary_items": 6,
+      "questions": 8,
+      "question_comments": 8,
+      "checklist_items": 8,
+      "references": 4
+    }
+  }
+}

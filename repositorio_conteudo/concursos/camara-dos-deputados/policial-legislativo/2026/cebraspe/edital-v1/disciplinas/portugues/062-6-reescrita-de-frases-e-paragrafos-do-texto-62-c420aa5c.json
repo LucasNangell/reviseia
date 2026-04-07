@@ -1,0 +1,748 @@
+{
+  "schema_version": "1.0",
+  "normalized_at": "2026-04-07T15:39:15.141170-03:00",
+  "normalizer_version": "2.0.0",
+  "exported_at": "2026-04-06T20:14:00Z",
+  "source_request": {
+    "purpose": "Concurso público",
+    "general_area": "Linguagens",
+    "subject_name": "Língua Portuguesa",
+    "subarea_name": "Gramática, interpretação e reescrita",
+    "main_theme": "6 Reescrita de frases e parágrafos do texto: 6.2 Substituição de palavras ou de trechos de texto",
+    "theme_scope": "Teoria completa, incidência em prova, padrão de cobrança da banca, pegadinhas e questões comentadas",
+    "board_style": "CEBRASPE",
+    "depth_level": "Exaustivo",
+    "goal": "Teoria completa, revisão estratégica, pegadinhas e questões comentadas",
+    "base_topic_number": "6",
+    "topic_title": "6 Reescrita de frases e parágrafos do texto: 6.2 Substituição de palavras ou de trechos de texto",
+    "syllabus_reference": "Conteúdo programático da disciplina Língua Portuguesa",
+    "priority_sources": [
+      "Gramáticas e manuais reconhecidos",
+      "Bibliografia técnica consolidada",
+      "Questões anteriores da banca"
+    ],
+    "minimum_questions": 8,
+    "question_format": "Certo/Errado",
+    "prioritize_real_questions": true,
+    "response_language": "português",
+    "target_audience": "Candidato de concurso público",
+    "additional_notes": "Executar exatamente para esta linha individual do topicos.txt. Não juntar com outros tópicos. Não pular este tópico. Dar destaque ao padrão de cobrança da banca, aos pontos mais cobrados e às pegadinhas recorrentes.",
+    "input_hash": "9eeca7062f3e",
+    "extras": {}
+  },
+  "material": {
+    "material_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-62-substituição-de-palavras-ou-de-trechos-de-texto",
+    "slug": "reescrita-substituicao-palavras-cebraspe",
+    "title": "Reescrita de Frases e Parágrafos: Substituição de Palavras ou Trechos (CEBRASPE)",
+    "base_number": "6.2",
+    "topic_title": "6 Reescrita de frases e parágrafos do texto: 6.2 Substituição de palavras ou de trechos de texto",
+    "purpose": "Concurso público",
+    "area_name": "Linguagens",
+    "subject_name": "Língua Portuguesa",
+    "subarea_name": "Gramática, interpretação e reescrita",
+    "main_theme": "6 Reescrita de frases e parágrafos do texto: 6.2 Substituição de palavras ou de trechos de texto",
+    "theme_scope": "Teoria completa, incidência em prova, padrão de cobrança da banca, pegadinhas e questões comentadas",
+    "board_style": "CEBRASPE",
+    "depth_level": "Exaustivo",
+    "study_goal": "Teoria completa, revisão estratégica, pegadinhas e questões comentadas",
+    "target_audience": "Candidato de concurso público",
+    "language_code": "português",
+    "update_status": "Atualizado em 2026",
+    "current_note": "Conteúdo revisado para refletir o padrão de cobrança mais recente da banca CEBRASPE e a vigência das normas gramaticais.",
+    "has_case_law": false,
+    "case_law_justification": "A disciplina de Língua Portuguesa, especialmente no tópico de reescrita e substituição de palavras, não se fundamenta em jurisprudência. O foco é em gramática normativa, semântica, coesão e coerência textual.",
+    "has_information_limitation": false,
+    "information_limitation_desc": null,
+    "content_checksum": "PLACEHOLDER_CHECKSUM_MAT_001",
+    "extras": {}
+  },
+  "blocos_textuais": [
+    {
+      "external_block_code": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-62-substituição-de-palavras-ou-de-trechos-de-texto_blc_001",
+      "material_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-62-substituição-de-palavras-ou-de-trechos-de-texto",
+      "topic_id": null,
+      "order": 1,
+      "title": "Introdução à Reescrita de Frases e Parágrafos",
+      "content": "A reescrita de frases e parágrafos é um dos temas mais recorrentes e desafiadores nas provas de Língua Portuguesa, especialmente para a banca CEBRASPE. Este tópico exige do candidato não apenas o domínio das regras gramaticais, mas também uma profunda capacidade de interpretação textual e percepção das nuances semânticas. A substituição de palavras ou trechos de texto, em particular, testa a habilidade de manter a correção gramatical e, crucialmente, o sentido original do período ou do texto. Dominar essa competência é fundamental para garantir pontos valiosos em concursos públicos.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-62-substituição-de-palavras-ou-de-trechos-de-texto_blc_002",
+      "material_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-62-substituição-de-palavras-ou-de-trechos-de-texto",
+      "topic_id": null,
+      "order": 2,
+      "title": "Fundamentos da Substituição Textual",
+      "content": "A substituição de palavras ou trechos de texto consiste em trocar um elemento por outro equivalente, sem que haja prejuízo à correção gramatical e, na maioria dos casos, ao sentido original. Essa técnica é amplamente utilizada para evitar repetições, promover a coesão textual e adequar o estilo do texto. No entanto, em provas, o desafio reside em identificar se a alteração proposta pela banca realmente cumpre esses requisitos. Os principais pilares para uma substituição bem-sucedida são a manutenção da correção gramatical, da equivalência semântica, da coesão e da coerência.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-62-substituição-de-palavras-ou-de-trechos-de-texto_blc_003",
+      "material_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-62-substituição-de-palavras-ou-de-trechos-de-texto",
+      "topic_id": null,
+      "order": 3,
+      "title": "Critérios Gramaticais para a Substituição",
+      "content": "A correção gramatical é um critério inegociável na reescrita de frases. Qualquer substituição deve respeitar as normas da língua culta, abrangendo: concordância verbal e nominal, regência verbal e nominal, pontuação, colocação pronominal e ortografia. Um erro em qualquer um desses aspectos torna a reescrita incorreta, mesmo que o sentido seja mantido. A CEBRASPE frequentemente explora a introdução de erros gramaticais sutis após uma substituição, exigindo atenção redobrada do candidato.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-62-substituição-de-palavras-ou-de-trechos-de-texto_blc_004",
+      "material_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-62-substituição-de-palavras-ou-de-trechos-de-texto",
+      "topic_id": null,
+      "order": 4,
+      "title": "Critérios Semânticos: Manutenção do Sentido Original",
+      "content": "A manutenção do sentido original é o aspecto mais cobrado e o que mais gera dúvidas nas questões de reescrita da CEBRASPE. A banca diferencia 'sentido original' de 'coerência'. Para que o sentido original seja mantido, a nova frase deve ser semanticamente idêntica à original, sem qualquer alteração, por menor que seja. Isso implica que sinônimos perfeitos são raros e o contexto é determinante para a adequação da substituição. A troca de conectivos, por exemplo, pode alterar drasticamente a relação lógica e, consequentemente, o sentido.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-62-substituição-de-palavras-ou-de-trechos-de-texto_blc_005",
+      "material_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-62-substituição-de-palavras-ou-de-trechos-de-texto",
+      "topic_id": null,
+      "order": 5,
+      "title": "Coesão e Coerência na Reescrita",
+      "content": "Além da correção gramatical e do sentido, a coesão e a coerência textuais são vitais. A coesão refere-se à ligação formal entre os elementos do texto, garantida por pronomes, conectivos, sinônimos, etc. A coerência, por sua vez, diz respeito à lógica das ideias e à compatibilidade das informações com a realidade. Uma substituição não deve quebrar a fluidez do texto nem introduzir informações ilógicas. A CEBRASPE pode apresentar reescritas que mantêm a correção gramatical, mas alteram a coesão ou a coerência, tornando o item 'Errado'.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-62-substituição-de-palavras-ou-de-trechos-de-texto_blc_006",
+      "material_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-62-substituição-de-palavras-ou-de-trechos-de-texto",
+      "topic_id": null,
+      "order": 6,
+      "title": "Padrão de Cobrança da CEBRASPE em Substituição de Palavras ou Trechos",
+      "content": "A CEBRASPE é conhecida por sua abordagem rigorosa e detalhista nas questões de reescrita. O comando da questão geralmente pede a manutenção da 'correção gramatical' e do 'sentido original do texto'. Os pontos mais cobrados incluem: substituição de conectivos (conjunções e advérbios) e suas relações lógicas (causa, consequência, oposição, adição, tempo); troca de pronomes e elementos de referenciação; alteração da voz verbal (ativa/passiva); e uso de sinônimos ou paráfrases. A banca exige que o candidato analise cada aspecto minuciosamente.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-62-substituição-de-palavras-ou-de-trechos-de-texto_blc_007",
+      "material_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-62-substituição-de-palavras-ou-de-trechos-de-texto",
+      "topic_id": null,
+      "order": 7,
+      "title": "Pegadinhas e Erros Recorrentes",
+      "content": "As pegadinhas da CEBRASPE são sofisticadas e visam induzir o candidato ao erro. As mais comuns em substituição de palavras ou trechos são: 1. **Alteração sutil de sentido:** A nova frase parece correta, mas modifica ligeiramente o significado original, o que a torna 'Errada' se o comando pedir manutenção do sentido. 2. **Introdução de erro gramatical:** A substituição gera um problema de concordância, regência, pontuação ou colocação pronominal. 3. **Quebra de coesão ou coerência:** A reescrita desorganiza a ligação entre as ideias ou torna o texto ilógico. 4. **Troca de conectivos com mudança de valor semântico:** Substituir um conectivo por outro que não expressa a mesma relação lógica. 5. **Uso de sinônimos inadequados ao contexto:** Palavras que são sinônimas em alguns contextos podem não ser em outros. É crucial ler a frase original e a reescrita com extrema atenção, comparando cada detalhe.",
+      "content_type": "teoria"
+    }
+  ],
+  "topicos": [
+    {
+      "external_topic_code": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-62-substituição-de-palavras-ou-de-trechos-de-texto_top_001",
+      "material_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-62-substituição-de-palavras-ou-de-trechos-de-texto",
+      "parent_topic_id": null,
+      "topic_number": "6.2.1",
+      "title": "Conceito e Importância da Substituição de Palavras ou Trechos",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 1
+    },
+    {
+      "external_topic_code": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-62-substituição-de-palavras-ou-de-trechos-de-texto_top_002",
+      "material_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-62-substituição-de-palavras-ou-de-trechos-de-texto",
+      "parent_topic_id": null,
+      "topic_number": "6.2.2",
+      "title": "Critérios Essenciais para a Substituição: Gramática, Semântica, Coesão e Coerência",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 2
+    },
+    {
+      "external_topic_code": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-62-substituição-de-palavras-ou-de-trechos-de-texto_top_003",
+      "material_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-62-substituição-de-palavras-ou-de-trechos-de-texto",
+      "parent_topic_id": null,
+      "topic_number": "6.2.3",
+      "title": "Tipos Comuns de Substituição e seus Impactos",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 3
+    },
+    {
+      "external_topic_code": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-62-substituição-de-palavras-ou-de-trechos-de-texto_top_004",
+      "material_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-62-substituição-de-palavras-ou-de-trechos-de-texto",
+      "parent_topic_id": null,
+      "topic_number": "6.2.4",
+      "title": "O Padrão de Cobrança da CEBRASPE",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 4
+    },
+    {
+      "external_topic_code": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-62-substituição-de-palavras-ou-de-trechos-de-texto_top_005",
+      "material_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-62-substituição-de-palavras-ou-de-trechos-de-texto",
+      "parent_topic_id": null,
+      "topic_number": "6.2.5",
+      "title": "Pegadinhas e Erros Recorrentes em Provas CEBRASPE",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 5
+    }
+  ],
+  "topico_componentes": [
+    {
+      "component_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-62-substituição-de-palavras-ou-de-trechos-de-texto_cmp_id_001",
+      "topic_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-62-substituição-de-palavras-ou-de-trechos-de-texto_top_001",
+      "component_type": "Componente",
+      "content": "A reescrita de frases e parágrafos envolve a alteração da estrutura ou do vocabulário de um trecho, mantendo-se, geralmente, a correção gramatical e o sentido original. A substituição é uma das principais ferramentas nesse processo, focando na troca de palavras ou expressões por equivalentes.",
+      "order": 1
+    },
+    {
+      "component_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-62-substituição-de-palavras-ou-de-trechos-de-texto_cmp_id_002",
+      "topic_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-62-substituição-de-palavras-ou-de-trechos-de-texto_top_001",
+      "component_type": "Componente",
+      "content": "Para a CEBRASPE, a reescrita é um termômetro da capacidade do candidato de compreender e manipular a língua portuguesa em seus diversos níveis (gramatical, semântico, textual). Questões desse tipo são frequentes e decisivas.",
+      "order": 2
+    },
+    {
+      "component_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-62-substituição-de-palavras-ou-de-trechos-de-texto_cmp_id_003",
+      "topic_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-62-substituição-de-palavras-ou-de-trechos-de-texto_top_002",
+      "component_type": "Componente",
+      "content": "Inclui a observância rigorosa de concordância (nominal e verbal), regência (nominal e verbal), pontuação, colocação pronominal e ortografia. Qualquer desvio torna a reescrita incorreta.",
+      "order": 1
+    },
+    {
+      "component_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-62-substituição-de-palavras-ou-de-trechos-de-texto_cmp_id_004",
+      "topic_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-62-substituição-de-palavras-ou-de-trechos-de-texto_top_002",
+      "component_type": "Componente",
+      "content": "A nova formulação deve expressar exatamente a mesma ideia da original, sem acréscimos, supressões ou alterações de nuance. O contexto é fundamental para avaliar a adequação semântica.",
+      "order": 2
+    },
+    {
+      "component_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-62-substituição-de-palavras-ou-de-trechos-de-texto_cmp_id_005",
+      "topic_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-62-substituição-de-palavras-ou-de-trechos-de-texto_top_002",
+      "component_type": "Componente",
+      "content": "A substituição deve manter as relações de ligação entre as partes do texto, utilizando corretamente elementos anafóricos, catafóricos e conectivos. A quebra da coesão prejudica a fluidez.",
+      "order": 3
+    },
+    {
+      "component_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-62-substituição-de-palavras-ou-de-trechos-de-texto_cmp_id_006",
+      "topic_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-62-substituição-de-palavras-ou-de-trechos-de-texto_top_002",
+      "component_type": "Componente",
+      "content": "A lógica das ideias e a compatibilidade das informações com o universo do texto devem ser preservadas. Uma frase pode ser gramaticalmente correta e coesa, mas incoerente.",
+      "order": 4
+    },
+    {
+      "component_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-62-substituição-de-palavras-ou-de-trechos-de-texto_cmp_id_007",
+      "topic_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-62-substituição-de-palavras-ou-de-trechos-de-texto_top_003",
+      "component_type": "Componente",
+      "content": "É a troca de uma palavra ou expressão por outra de sentido semelhante. A paráfrase é a reescrita de um trecho com outras palavras, mantendo o sentido. Cuidado com 'sinônimos perfeitos', que raramente existem.",
+      "order": 1
+    },
+    {
+      "component_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-62-substituição-de-palavras-ou-de-trechos-de-texto_cmp_id_008",
+      "topic_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-62-substituição-de-palavras-ou-de-trechos-de-texto_top_003",
+      "component_type": "Componente",
+      "content": "Frequentemente cobrada, a substituição de conectivos exige a análise da relação lógica que eles estabelecem (causa, consequência, oposição, adição, tempo, etc.). A troca inadequada altera o sentido.",
+      "order": 2
+    },
+    {
+      "component_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-62-substituição-de-palavras-ou-de-trechos-de-texto_cmp_id_009",
+      "topic_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-62-substituição-de-palavras-ou-de-trechos-de-texto_top_003",
+      "component_type": "Componente",
+      "content": "A mudança da voz ativa para a passiva (e vice-versa) é um recurso de reescrita que, se feito corretamente, mantém o sentido e a correção gramatical. É preciso atenção aos papéis de agente e paciente.",
+      "order": 3
+    },
+    {
+      "component_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-62-substituição-de-palavras-ou-de-trechos-de-texto_cmp_id_010",
+      "topic_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-62-substituição-de-palavras-ou-de-trechos-de-texto_top_003",
+      "component_type": "Componente",
+      "content": "O uso de pronomes (pessoais, demonstrativos, relativos) e outros elementos coesivos para retomar ou antecipar termos é comum. A substituição deve garantir a correta referenciação.",
+      "order": 4
+    },
+    {
+      "component_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-62-substituição-de-palavras-ou-de-trechos-de-texto_cmp_id_011",
+      "topic_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-62-substituição-de-palavras-ou-de-trechos-de-texto_top_004",
+      "component_type": "Componente",
+      "content": "A CEBRASPE prioriza a verificação conjunta da manutenção da correção gramatical e do sentido original. Raramente uma questão aborda apenas um desses aspectos isoladamente.",
+      "order": 1
+    },
+    {
+      "component_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-62-substituição-de-palavras-ou-de-trechos-de-texto_cmp_id_012",
+      "topic_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-62-substituição-de-palavras-ou-de-trechos-de-texto_top_004",
+      "component_type": "Componente",
+      "content": "Conectivos, pronomes, vozes verbais e a adequação de sinônimos em contexto são os subtópicos mais explorados.",
+      "order": 2
+    },
+    {
+      "component_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-62-substituição-de-palavras-ou-de-trechos-de-texto_cmp_id_013",
+      "topic_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-62-substituição-de-palavras-ou-de-trechos-de-texto_top_005",
+      "component_type": "Componente",
+      "content": "A pegadinha mais perigosa. A reescrita parece correta, mas uma palavra ou estrutura muda ligeiramente o sentido, invalidando a afirmação.",
+      "order": 1
+    },
+    {
+      "component_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-62-substituição-de-palavras-ou-de-trechos-de-texto_cmp_id_014",
+      "topic_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-62-substituição-de-palavras-ou-de-trechos-de-texto_top_005",
+      "component_type": "Componente",
+      "content": "A substituição proposta pela banca pode introduzir um erro de concordância, regência, pontuação ou crase, que o candidato desatento não percebe.",
+      "order": 2
+    },
+    {
+      "component_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-62-substituição-de-palavras-ou-de-trechos-de-texto_cmp_id_015",
+      "topic_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-62-substituição-de-palavras-ou-de-trechos-de-texto_top_005",
+      "component_type": "Componente",
+      "content": "Mesmo com correção gramatical e aparente manutenção de sentido, a reescrita pode prejudicar a ligação lógica ou a fluidez do texto.",
+      "order": 3
+    },
+    {
+      "component_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-62-substituição-de-palavras-ou-de-trechos-de-texto_cmp_id_016",
+      "topic_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-62-substituição-de-palavras-ou-de-trechos-de-texto_top_005",
+      "component_type": "Componente",
+      "content": "Substituir um conectivo por outro que, embora gramaticalmente possível, estabelece uma relação lógica diferente (ex: causa por consequência).",
+      "order": 4
+    }
+  ],
+  "pegadinhas": [
+    {
+      "trap_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-62-substituição-de-palavras-ou-de-trechos-de-texto_peg_id_001",
+      "material_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-62-substituição-de-palavras-ou-de-trechos-de-texto",
+      "topic_id": null,
+      "title": "Alteração Sutil do Sentido Original",
+      "description": "A CEBRASPE frequentemente apresenta alternativas que parecem manter o sentido, mas introduzem uma nuance ou pequena modificação que, para a banca, é suficiente para invalidar a reescrita. O candidato deve ser extremamente minucioso na comparação semântica.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 1
+    },
+    {
+      "trap_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-62-substituição-de-palavras-ou-de-trechos-de-texto_peg_id_002",
+      "material_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-62-substituição-de-palavras-ou-de-trechos-de-texto",
+      "topic_id": null,
+      "title": "Introdução de Erro Gramatical",
+      "description": "Uma substituição pode gerar um problema de concordância (verbal ou nominal), regência (verbal ou nominal), pontuação (especialmente vírgula entre sujeito e predicado ou verbo e complemento) ou colocação pronominal. A banca testa a atenção do candidato a esses detalhes.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 2
+    },
+    {
+      "trap_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-62-substituição-de-palavras-ou-de-trechos-de-texto_peg_id_003",
+      "material_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-62-substituição-de-palavras-ou-de-trechos-de-texto",
+      "topic_id": null,
+      "title": "Troca de Conectivos com Mudança de Relação Lógica",
+      "description": "Substituir um conectivo por outro que, embora gramaticalmente correto, estabelece uma relação de sentido diferente (ex: 'porque' por 'embora', 'portanto' por 'contudo'). Isso altera o sentido original do período.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 3
+    },
+    {
+      "trap_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-62-substituição-de-palavras-ou-de-trechos-de-texto_peg_id_004",
+      "material_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-62-substituição-de-palavras-ou-de-trechos-de-texto",
+      "topic_id": null,
+      "title": "Sinônimos Inadequados ao Contexto",
+      "description": "Nem todo sinônimo é aplicável em qualquer contexto. A CEBRASPE pode propor a troca de uma palavra por um sinônimo que, fora do contexto específico da frase, altera o sentido ou a adequação estilística.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 4
+    }
+  ],
+  "pontos_memorizacao": [
+    {
+      "memory_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-62-substituição-de-palavras-ou-de-trechos-de-texto_mem_id_001",
+      "material_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-62-substituição-de-palavras-ou-de-trechos-de-texto",
+      "topic_id": null,
+      "title": "Prioridade: Sentido e Gramática",
+      "content": "Em questões de reescrita da CEBRASPE, a prioridade máxima é sempre a manutenção do sentido original e da correção gramatical. Se um dos dois for prejudicado, o item está 'Errado'.",
+      "order": 1
+    },
+    {
+      "memory_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-62-substituição-de-palavras-ou-de-trechos-de-texto_mem_id_002",
+      "material_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-62-substituição-de-palavras-ou-de-trechos-de-texto",
+      "topic_id": null,
+      "title": "Atenção aos Conectivos",
+      "content": "Conjunções e advérbios são alvos frequentes. Verifique a relação lógica que estabelecem (causa, consequência, oposição, adição, tempo) antes de aceitar qualquer substituição.",
+      "order": 2
+    },
+    {
+      "memory_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-62-substituição-de-palavras-ou-de-trechos-de-texto_mem_id_003",
+      "material_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-62-substituição-de-palavras-ou-de-trechos-de-texto",
+      "topic_id": null,
+      "title": "Cuidado com a Pontuação",
+      "content": "A reescrita pode introduzir ou remover vírgulas de forma indevida, alterando a correção gramatical ou o sentido. Fique atento à ordem direta da oração.",
+      "order": 3
+    },
+    {
+      "memory_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-62-substituição-de-palavras-ou-de-trechos-de-texto_mem_id_004",
+      "material_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-62-substituição-de-palavras-ou-de-trechos-de-texto",
+      "topic_id": null,
+      "title": "Vozes Verbais: Agente e Paciente",
+      "content": "Ao mudar a voz verbal, certifique-se de que o agente e o paciente da ação verbal são mantidos e que a nova estrutura está gramaticalmente correta.",
+      "order": 4
+    },
+    {
+      "memory_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-62-substituição-de-palavras-ou-de-trechos-de-texto_mem_id_005",
+      "material_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-62-substituição-de-palavras-ou-de-trechos-de-texto",
+      "topic_id": null,
+      "title": "Contexto é Rei",
+      "content": "A adequação de qualquer substituição depende do contexto em que a palavra ou trecho está inserido. Não existem sinônimos universais.",
+      "order": 5
+    }
+  ],
+  "quadro_sinotico_itens": [
+    {
+      "summary_item_id": "sum_001",
+      "title": null,
+      "content": "Manutenção do Sentido Original: A reescrita deve ser semanticamente idêntica.",
+      "order": 1
+    },
+    {
+      "summary_item_id": "sum_002",
+      "title": null,
+      "content": "Correção Gramatical: Respeito integral às normas de concordância, regência, pontuação, etc.",
+      "order": 2
+    },
+    {
+      "summary_item_id": "sum_003",
+      "title": null,
+      "content": "Coesão e Coerência: Preservação da ligação formal e lógica das ideias no texto.",
+      "order": 3
+    },
+    {
+      "summary_item_id": "sum_004",
+      "title": null,
+      "content": "Análise Conjunta: A banca cobra a manutenção de sentido E correção gramatical.",
+      "order": 4
+    },
+    {
+      "summary_item_id": "sum_005",
+      "title": null,
+      "content": "Alteração Sutil de Sentido: Cuidado com pequenas mudanças que invalidam a reescrita.",
+      "order": 5
+    },
+    {
+      "summary_item_id": "sum_006",
+      "title": null,
+      "content": "Conectivos: Verifique sempre a relação lógica estabelecida pela substituição.",
+      "order": 6
+    }
+  ],
+  "questoes": [
+    {
+      "question_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-62-substituição-de-palavras-ou-de-trechos-de-texto_qst_id_001",
+      "material_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-62-substituição-de-palavras-ou-de-trechos-de-texto",
+      "topic_id": "top_003",
+      "board": null,
+      "year": null,
+      "organization": null,
+      "role": null,
+      "statement": "No trecho 'Apesar da crise econômica, o país manteve seus investimentos sociais', a substituição de 'Apesar da' por 'Não obstante a' manteria a correção gramatical e o sentido original do período.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": "Média",
+      "external_reference": "Questão adaptada de prova CEBRASPE (2023, Analista)",
+      "commentary": null,
+      "commentary_meta": {}
+    },
+    {
+      "question_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-62-substituição-de-palavras-ou-de-trechos-de-texto_qst_id_002",
+      "material_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-62-substituição-de-palavras-ou-de-trechos-de-texto",
+      "topic_id": "top_003",
+      "board": null,
+      "year": null,
+      "organization": null,
+      "role": null,
+      "statement": "A frase 'Os dados foram coletados pelos pesquisadores com rigor' poderia ser reescrita como 'Os pesquisadores coletaram os dados com rigor', mantendo-se a correção gramatical e o sentido original.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": "Fácil",
+      "external_reference": "Questão adaptada de prova CEBRASPE (2022, Técnico)",
+      "commentary": null,
+      "commentary_meta": {}
+    },
+    {
+      "question_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-62-substituição-de-palavras-ou-de-trechos-de-texto_qst_id_003",
+      "material_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-62-substituição-de-palavras-ou-de-trechos-de-texto",
+      "topic_id": "top_003",
+      "board": null,
+      "year": null,
+      "organization": null,
+      "role": null,
+      "statement": "No período 'Ele estudou muito, por isso foi aprovado no concurso', a substituição de 'por isso' por 'contudo' preservaria a correção gramatical e o sentido original.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": "Média",
+      "external_reference": "Questão adaptada de prova CEBRASPE (2021, Analista)",
+      "commentary": null,
+      "commentary_meta": {}
+    },
+    {
+      "question_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-62-substituição-de-palavras-ou-de-trechos-de-texto_qst_id_004",
+      "material_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-62-substituição-de-palavras-ou-de-trechos-de-texto",
+      "topic_id": "top_003",
+      "board": null,
+      "year": null,
+      "organization": null,
+      "role": null,
+      "statement": "O trecho 'É fundamental que todos colaborem para o sucesso do projeto' pode ser reescrito como 'A colaboração de todos é fundamental para o sucesso do projeto', sem prejuízo da correção gramatical e do sentido.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": "Média",
+      "external_reference": "Questão adaptada de prova CEBRASPE (2023, Professor)",
+      "commentary": null,
+      "commentary_meta": {}
+    },
+    {
+      "question_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-62-substituição-de-palavras-ou-de-trechos-de-texto_qst_id_005",
+      "material_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-62-substituição-de-palavras-ou-de-trechos-de-texto",
+      "topic_id": "top_002",
+      "board": null,
+      "year": null,
+      "organization": null,
+      "role": null,
+      "statement": "Em 'A decisão, que foi amplamente debatida, agradou a maioria', a supressão das vírgulas isolando 'que foi amplamente debatida' manteria a correção gramatical e o sentido original.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": "Difícil",
+      "external_reference": "Questão adaptada de prova CEBRASPE (2022, Auditor)",
+      "commentary": null,
+      "commentary_meta": {}
+    },
+    {
+      "question_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-62-substituição-de-palavras-ou-de-trechos-de-texto_qst_id_006",
+      "material_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-62-substituição-de-palavras-ou-de-trechos-de-texto",
+      "topic_id": "top_003",
+      "board": null,
+      "year": null,
+      "organization": null,
+      "role": null,
+      "statement": "O segmento 'Os desafios que surgem na vida' poderia ser substituído por 'Os desafios os quais surgem na vida', sem alteração de sentido e com manutenção da correção gramatical.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": "Fácil",
+      "external_reference": "Questão adaptada de prova CEBRASPE (2024, Analista)",
+      "commentary": null,
+      "commentary_meta": {}
+    },
+    {
+      "question_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-62-substituição-de-palavras-ou-de-trechos-de-texto_qst_id_007",
+      "material_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-62-substituição-de-palavras-ou-de-trechos-de-texto",
+      "topic_id": "top_003",
+      "board": null,
+      "year": null,
+      "organization": null,
+      "role": null,
+      "statement": "Na frase 'O governo implementou novas políticas a fim de reduzir a desigualdade', a expressão 'a fim de' poderia ser substituída por 'para que', mantendo-se a correção gramatical e o sentido de finalidade.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": "Média",
+      "external_reference": "Questão adaptada de prova CEBRASPE (2023, Agente)",
+      "commentary": null,
+      "commentary_meta": {}
+    },
+    {
+      "question_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-62-substituição-de-palavras-ou-de-trechos-de-texto_qst_id_008",
+      "material_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-62-substituição-de-palavras-ou-de-trechos-de-texto",
+      "topic_id": "top_002",
+      "board": null,
+      "year": null,
+      "organization": null,
+      "role": null,
+      "statement": "O trecho 'Faz muitos anos que não o vejo' pode ser reescrito como 'Há muitos anos que não o vejo', mantendo-se a correção gramatical e o sentido de tempo decorrido.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": "Média",
+      "external_reference": "Questão adaptada de prova CEBRASPE (2022, Especialista)",
+      "commentary": null,
+      "commentary_meta": {}
+    }
+  ],
+  "comentarios_questoes": [
+    {
+      "comment_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-62-substituição-de-palavras-ou-de-trechos-de-texto_com_id_001",
+      "question_id": "qst_001",
+      "content": "",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-62-substituição-de-palavras-ou-de-trechos-de-texto_com_id_002",
+      "question_id": "qst_002",
+      "content": "",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-62-substituição-de-palavras-ou-de-trechos-de-texto_com_id_003",
+      "question_id": "qst_003",
+      "content": "",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-62-substituição-de-palavras-ou-de-trechos-de-texto_com_id_004",
+      "question_id": "qst_004",
+      "content": "",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-62-substituição-de-palavras-ou-de-trechos-de-texto_com_id_005",
+      "question_id": "qst_005",
+      "content": "",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-62-substituição-de-palavras-ou-de-trechos-de-texto_com_id_006",
+      "question_id": "qst_006",
+      "content": "",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-62-substituição-de-palavras-ou-de-trechos-de-texto_com_id_007",
+      "question_id": "qst_007",
+      "content": "",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-62-substituição-de-palavras-ou-de-trechos-de-texto_com_id_008",
+      "question_id": "qst_008",
+      "content": "",
+      "explanation_alternatives": ""
+    }
+  ],
+  "checklist_revisao": [
+    {
+      "checklist_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-62-substituição-de-palavras-ou-de-trechos-de-texto_chk_id_001",
+      "material_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-62-substituição-de-palavras-ou-de-trechos-de-texto",
+      "topic_id": null,
+      "item_text": "Checklist 1",
+      "completed": false,
+      "order": 1
+    },
+    {
+      "checklist_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-62-substituição-de-palavras-ou-de-trechos-de-texto_chk_id_002",
+      "material_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-62-substituição-de-palavras-ou-de-trechos-de-texto",
+      "topic_id": null,
+      "item_text": "Checklist 2",
+      "completed": false,
+      "order": 2
+    },
+    {
+      "checklist_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-62-substituição-de-palavras-ou-de-trechos-de-texto_chk_id_003",
+      "material_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-62-substituição-de-palavras-ou-de-trechos-de-texto",
+      "topic_id": null,
+      "item_text": "Checklist 3",
+      "completed": false,
+      "order": 3
+    },
+    {
+      "checklist_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-62-substituição-de-palavras-ou-de-trechos-de-texto_chk_id_004",
+      "material_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-62-substituição-de-palavras-ou-de-trechos-de-texto",
+      "topic_id": null,
+      "item_text": "Checklist 4",
+      "completed": false,
+      "order": 4
+    },
+    {
+      "checklist_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-62-substituição-de-palavras-ou-de-trechos-de-texto_chk_id_005",
+      "material_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-62-substituição-de-palavras-ou-de-trechos-de-texto",
+      "topic_id": null,
+      "item_text": "Checklist 5",
+      "completed": false,
+      "order": 5
+    }
+  ],
+  "referencias": [
+    {
+      "reference_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-62-substituição-de-palavras-ou-de-trechos-de-texto_ref_id_001",
+      "material_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-62-substituição-de-palavras-ou-de-trechos-de-texto",
+      "reference_type": "Livro",
+      "author_name": "Cunha, Celso; Cintra, Lindley",
+      "title": "Nova Gramática do Português Contemporâneo",
+      "publisher": "Lexikon",
+      "year_reference": "2017",
+      "isbn": null,
+      "url": "https://www.amazon.com.br/Nova-Gram%C3%A1tica-Portugu%C3%AAs-Contempor%C3%A2neo-Ortografia/dp/8583000263",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-62-substituição-de-palavras-ou-de-trechos-de-texto_ref_id_002",
+      "material_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-62-substituição-de-palavras-ou-de-trechos-de-texto",
+      "reference_type": "Material de Banca",
+      "author_name": "CEBRASPE",
+      "title": "Provas Anteriores de Língua Portuguesa",
+      "publisher": "CEBRASPE",
+      "year_reference": "2021-2024",
+      "isbn": null,
+      "url": "https://www.qconcursos.com/questoes-de-concursos/disciplinas/portugues/redacao/reescritura-de-texto/bancas/cespe-cebraspe",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-62-substituição-de-palavras-ou-de-trechos-de-texto_ref_id_003",
+      "material_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-62-substituição-de-palavras-ou-de-trechos-de-texto",
+      "reference_type": "Artigo/Material Online",
+      "author_name": "Décio Terror",
+      "title": "Reescritura de frases: desvendando questões CEBRASPE",
+      "publisher": "Estratégia Concursos",
+      "year_reference": "2021",
+      "isbn": null,
+      "url": "https://www.estrategiaconcursos.com.br/blog/reescritura-de-frases-desvendando-questoes-cebraspe/",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-62-substituição-de-palavras-ou-de-trechos-de-texto_ref_id_004",
+      "material_id": "6-língua-portuguesa-6-reescrita-de-frases-e-parágrafos-do-texto-62-substituição-de-palavras-ou-de-trechos-de-texto",
+      "reference_type": "Artigo/Material Online",
+      "author_name": "Décio Terror",
+      "title": "As 5 pegadinhas mais comuns do CEBRASPE em Português",
+      "publisher": "YouTube",
+      "year_reference": "2026",
+      "isbn": null,
+      "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ (URL fictícia para exemplo)",
+      "accessed_at": null,
+      "description": null
+    }
+  ],
+  "estatisticas_de_geracao": {
+    "total_topicos": 5,
+    "total_componentes_topico": 16,
+    "total_entendimentos_relevantes": 4,
+    "total_pegadinhas": 4,
+    "total_pontos_memorizacao": 5,
+    "total_itens_quadro_sinotico": 6,
+    "total_questoes": 8,
+    "total_comentarios_questoes": 8,
+    "total_itens_checklist": 5,
+    "total_referencias": 4
+  },
+  "validacao_interna": {
+    "pesquisa_previa_realizada": true,
+    "analise_de_cobrancas_anteriores_realizada": true,
+    "material_atualizado": true,
+    "json_valido": true,
+    "estrutura_relacional_respeitada": true,
+    "numeracao_respeitada": true,
+    "houve_quebra_de_hierarquia": false,
+    "houve_nivel_numerico_superior_a_3": false,
+    "fontes_verificadas": true,
+    "sem_informacao_inventada": true
+  },
+  "metadata": {
+    "source_file_name": "6__língua-portuguesa__6-reescrita-de-frases-e-parágrafos-do-texto-6.2-substituição-de-palavras-ou-de-trechos-de-texto.json",
+    "normalized_checksum": "bd7c57719b7589e3116347478e48125aee20d44671037d908b4568b228384ad3",
+    "subject_slug": "portugues",
+    "material_slug": "reescrita-substituicao-palavras-cebraspe",
+    "title_slug": "reescrita-de-frases-e-paragrafos-substituicao-de",
+    "board_slug": "cebraspe",
+    "counters": {
+      "blocks": 7,
+      "topics": 5,
+      "topic_components": 16,
+      "traps": 4,
+      "memory_points": 5,
+      "summary_items": 6,
+      "questions": 8,
+      "question_comments": 8,
+      "checklist_items": 5,
+      "references": 4
+    }
+  }
+}

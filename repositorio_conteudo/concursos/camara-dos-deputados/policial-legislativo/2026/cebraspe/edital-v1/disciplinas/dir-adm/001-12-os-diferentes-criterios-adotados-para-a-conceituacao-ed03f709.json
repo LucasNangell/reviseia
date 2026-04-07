@@ -1,0 +1,1119 @@
+{
+  "schema_version": "1.0",
+  "normalized_at": "2026-04-07T15:39:13.611401-03:00",
+  "normalizer_version": "2.0.0",
+  "exported_at": "2026-04-07T16:56:00Z",
+  "source_request": {
+    "purpose": "Concurso público",
+    "general_area": "Direito",
+    "subject_name": "Direito Administrativo",
+    "subarea_name": "Direito Administrativo",
+    "main_theme": "1 Introdução ao direito administrativo: 1.2 Os diferentes critérios adotados para a conceituação do direito administrativo",
+    "theme_scope": "Teoria completa, incidência em prova, padrão de cobrança da banca, pegadinhas e questões comentadas",
+    "board_style": "CEBRASPE",
+    "depth_level": "Exaustivo",
+    "goal": "Teoria completa, revisão estratégica, pegadinhas e questões comentadas",
+    "base_topic_number": "1",
+    "topic_title": "1 Introdução ao direito administrativo: 1.2 Os diferentes critérios adotados para a conceituação do direito administrativo",
+    "syllabus_reference": "Conteúdo programático da disciplina Direito Administrativo",
+    "priority_sources": [
+      "Constituição Federal e legislação oficial vigente",
+      "Jurisprudência pertinente e atual, quando cabível",
+      "Doutrina consolidada",
+      "Questões anteriores da banca"
+    ],
+    "minimum_questions": 8,
+    "question_format": "Certo/Errado",
+    "prioritize_real_questions": true,
+    "response_language": "português",
+    "target_audience": "Candidato de concurso público",
+    "additional_notes": "Executar exatamente para esta linha individual do topicos.txt. Não juntar com outros tópicos. Não pular este tópico. Dar destaque ao padrão de cobrança da banca, aos pontos mais cobrados e às pegadinhas recorrentes.",
+    "input_hash": "2a2cce1f9a1b",
+    "extras": {}
+  },
+  "material": {
+    "material_id": "mat_001",
+    "slug": "conceituacao-direito-administrativo-criterios-cebraspe",
+    "title": "Introdução ao Direito Administrativo: Critérios de Conceituação",
+    "base_number": "1",
+    "topic_title": "1.2 Os diferentes critérios adotados para a conceituação do direito administrativo",
+    "purpose": "Concurso público",
+    "area_name": "Direito",
+    "subject_name": "Direito Administrativo",
+    "subarea_name": "Direito Administrativo",
+    "main_theme": "1 Introdução ao direito administrativo: 1.2 Os diferentes critérios adotados para a conceituação do direito administrativo",
+    "theme_scope": "Teoria completa, incidência em prova, padrão de cobrança da banca, pegadinhas e questões comentadas",
+    "board_style": "CEBRASPE",
+    "depth_level": "Exaustivo",
+    "study_goal": "Teoria completa, revisão estratégica, pegadinhas e questões comentadas",
+    "target_audience": "Candidato de concurso público",
+    "language_code": "português",
+    "update_status": "Atualizado em 2026",
+    "current_note": "Conteúdo revisado para refletir a doutrina majoritária e o padrão de cobrança da banca CEBRASPE até o momento da geração.",
+    "has_case_law": false,
+    "case_law_justification": "O tema 'critérios de conceituação do Direito Administrativo' é predominantemente doutrinário e teórico, com pouca ou nenhuma incidência de jurisprudência direta para sua definição. A jurisprudência pode tangenciar a aplicação de conceitos, mas não os critérios de conceituação em si.",
+    "has_information_limitation": false,
+    "information_limitation_desc": null,
+    "content_checksum": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6",
+    "extras": {}
+  },
+  "blocos_textuais": [
+    {
+      "external_block_code": "blc_001",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 1,
+      "title": "A Dificuldade de Conceituação do Direito Administrativo",
+      "content": "A conceituação do Direito Administrativo é uma tarefa complexa e desafiadora, dada a sua natureza dinâmica e a constante evolução das funções estatais. Não há um consenso doutrinário absoluto sobre uma única definição, o que levou ao desenvolvimento de diversos critérios ao longo da história para tentar delimitar seu objeto de estudo.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_002",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 2,
+      "title": "Critérios Históricos e Superados",
+      "content": "Inicialmente, alguns critérios buscaram definir o Direito Administrativo com base em aspectos mais restritos, que, com o tempo, se mostraram insuficientes para abranger a totalidade da atuação administrativa. Embora superados como únicos definidores, possuem valor histórico e são frequentemente cobrados em provas para testar o conhecimento sobre a evolução da disciplina e suas limitações.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_003",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 3,
+      "title": "Critério Legalista ou Exegético",
+      "content": "Este critério, surgido na França pós-Revolução, identificava o Direito Administrativo com o conjunto de leis administrativas e atos normativos de um Estado. Sua principal crítica reside na negligência à doutrina e à jurisprudência, além de não considerar que o Direito Administrativo é mais do que a mera positivação legal, abrangendo princípios e costumes.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_004",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 4,
+      "title": "Critério do Serviço Público",
+      "content": "Desenvolvido pela Escola de Bordeaux (Léon Duguit, Gaston Jèze), este critério define o Direito Administrativo como o ramo que estuda a organização e o funcionamento dos serviços públicos. A crítica a este critério é que ele se mostra restrito, pois a Administração Pública não atua somente na disciplina dos serviços públicos, deixando de fora atividades como o poder de polícia e o fomento.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_005",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 5,
+      "title": "Critério do Poder Executivo (Subjetivista)",
+      "content": "Este critério disciplina a organização e a atividade apenas do Poder Executivo. A crítica é que ele ignora o exercício de função administrativa pelos Poderes Legislativo e Judiciário de forma atípica (funções administrativas atípicas).",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_006",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 6,
+      "title": "Critério das Relações Jurídicas",
+      "content": "Vê o Direito Administrativo como um conjunto de normas reguladoras das relações jurídicas entre a Administração e os administrados. É criticado por ser insuficiente, pois outros ramos do direito (constitucional, penal, tributário) também regulam relações entre o Estado e os particulares, e o Direito Administrativo abrange mais do que isso, como a organização interna da Administração e seus bens.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_007",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 7,
+      "title": "Critério Teleológico ou Finalístico",
+      "content": "Define o Direito Administrativo como o sistema de princípios que regulam a atividade do Estado para o cumprimento de seus fins, ou seja, a satisfação do interesse público. A crítica é que essa concepção é inconclusiva devido à dificuldade em definir quais são os fins do Estado, tornando-o muito amplo.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_008",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 8,
+      "title": "Critério Negativo ou Residual",
+      "content": "Por este critério, o Direito Administrativo é definido por exclusão, abrangendo todas as atividades estatais que não são legislativas nem jurisdicionais. A crítica principal é que ele não define o que é o Direito Administrativo, apenas o que ele não é, além de não considerar a aplicação do direito privado à Administração Pública em certas situações.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_009",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 9,
+      "title": "Critérios Modernos e a Visão Mista da Doutrina",
+      "content": "A doutrina moderna, especialmente no Brasil, adota uma concepção mais abrangente e mista, que combina diferentes aspectos para a conceituação do Direito Administrativo, com destaque para os critérios formal (ou orgânico/subjetivo) e material (ou objetivo/funcional).",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_010",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 10,
+      "title": "Critério Formal, Orgânico ou Subjetivo",
+      "content": "Este critério considera o Direito Administrativo como o conjunto de normas que regem os órgãos, agentes e pessoas jurídicas que integram a Administração Pública. O foco está no 'quem faz', ou seja, nos sujeitos que exercem a função administrativa.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_011",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 11,
+      "title": "Critério Material, Objetivo ou Funcional",
+      "content": "Este critério considera o Direito Administrativo como o conjunto de normas que regem a função administrativa, independentemente do órgão que a exerce. O foco está no 'o que faz', ou seja, na natureza da atividade administrativa. É o critério que predomina na doutrina contemporânea, muitas vezes combinado com o critério orgânico.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_012",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 12,
+      "title": "A Visão Mista e a Doutrina Majoritária",
+      "content": "A doutrina majoritária brasileira, representada por autores como Hely Lopes Meirelles, Celso Antônio Bandeira de Mello, Maria Sylvia Zanella Di Pietro e Alexandre Mazza, adota uma concepção mista. Essa visão reconhece que o Direito Administrativo estuda tanto os sujeitos (órgãos e agentes) quanto a atividade (função administrativa), com uma predominância do critério material/funcional, mas sem desprezar o aspecto orgânico.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_013",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 13,
+      "title": "Padrão de Cobrança da Banca CEBRASPE",
+      "content": "A banca CEBRASPE frequentemente explora os diferentes critérios de conceituação do Direito Administrativo, com ênfase nas distinções entre os critérios formal (orgânico/subjetivo) e material (objetivo/funcional). É comum que as questões busquem identificar as limitações de cada critério isoladamente e a compreensão da visão mista adotada pela doutrina. A banca também pode apresentar características de um critério e pedir para o candidato identificar a qual critério se refere ou se a afirmação está correta.",
+      "content_type": "teoria"
+    }
+  ],
+  "topicos": [
+    {
+      "external_topic_code": "top_001",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "1.2",
+      "title": "Os diferentes critérios adotados para a conceituação do direito administrativo",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 1
+    },
+    {
+      "external_topic_code": "top_002",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_001",
+      "topic_number": "1.2.1",
+      "title": "Critérios Históricos e suas Limitações",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 2
+    },
+    {
+      "external_topic_code": "top_003",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_002",
+      "topic_number": "1.2.1.1",
+      "title": "Critério Legalista ou Exegético",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 3
+    },
+    {
+      "external_topic_code": "top_004",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_002",
+      "topic_number": "1.2.1.2",
+      "title": "Critério do Serviço Público",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 4
+    },
+    {
+      "external_topic_code": "top_005",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_002",
+      "topic_number": "1.2.1.3",
+      "title": "Critério do Poder Executivo (Subjetivista)",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 5
+    },
+    {
+      "external_topic_code": "top_006",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_002",
+      "topic_number": "1.2.1.4",
+      "title": "Critério das Relações Jurídicas",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 6
+    },
+    {
+      "external_topic_code": "top_007",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_002",
+      "topic_number": "1.2.1.5",
+      "title": "Critério Teleológico ou Finalístico",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 7
+    },
+    {
+      "external_topic_code": "top_008",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_002",
+      "topic_number": "1.2.1.6",
+      "title": "Critério Negativo ou Residual",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 8
+    },
+    {
+      "external_topic_code": "top_009",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_001",
+      "topic_number": "1.2.2",
+      "title": "Critérios Modernos e a Visão Mista da Doutrina",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 9
+    },
+    {
+      "external_topic_code": "top_010",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_009",
+      "topic_number": "1.2.2.1",
+      "title": "Critério Formal, Orgânico ou Subjetivo",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 10
+    },
+    {
+      "external_topic_code": "top_011",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_009",
+      "topic_number": "1.2.2.2",
+      "title": "Critério Material, Objetivo ou Funcional",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 11
+    },
+    {
+      "external_topic_code": "top_012",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_009",
+      "topic_number": "1.2.2.3",
+      "title": "A Predominância da Visão Mista na Doutrina Brasileira",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 12
+    }
+  ],
+  "topico_componentes": [
+    {
+      "component_id": "cmp_001",
+      "topic_id": "top_003",
+      "component_type": "caracteristica",
+      "content": "",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_002",
+      "topic_id": "top_003",
+      "component_type": "critica",
+      "content": "",
+      "order": 2
+    },
+    {
+      "component_id": "cmp_003",
+      "topic_id": "top_004",
+      "component_type": "caracteristica",
+      "content": "",
+      "order": 3
+    },
+    {
+      "component_id": "cmp_004",
+      "topic_id": "top_004",
+      "component_type": "critica",
+      "content": "",
+      "order": 4
+    },
+    {
+      "component_id": "cmp_005",
+      "topic_id": "top_005",
+      "component_type": "caracteristica",
+      "content": "",
+      "order": 5
+    },
+    {
+      "component_id": "cmp_006",
+      "topic_id": "top_005",
+      "component_type": "critica",
+      "content": "",
+      "order": 6
+    },
+    {
+      "component_id": "cmp_007",
+      "topic_id": "top_006",
+      "component_type": "caracteristica",
+      "content": "",
+      "order": 7
+    },
+    {
+      "component_id": "cmp_008",
+      "topic_id": "top_006",
+      "component_type": "critica",
+      "content": "",
+      "order": 8
+    },
+    {
+      "component_id": "cmp_009",
+      "topic_id": "top_007",
+      "component_type": "caracteristica",
+      "content": "",
+      "order": 9
+    },
+    {
+      "component_id": "cmp_010",
+      "topic_id": "top_007",
+      "component_type": "critica",
+      "content": "",
+      "order": 10
+    },
+    {
+      "component_id": "cmp_011",
+      "topic_id": "top_008",
+      "component_type": "caracteristica",
+      "content": "",
+      "order": 11
+    },
+    {
+      "component_id": "cmp_012",
+      "topic_id": "top_008",
+      "component_type": "critica",
+      "content": "",
+      "order": 12
+    },
+    {
+      "component_id": "cmp_013",
+      "topic_id": "top_010",
+      "component_type": "caracteristica",
+      "content": "",
+      "order": 13
+    },
+    {
+      "component_id": "cmp_014",
+      "topic_id": "top_011",
+      "component_type": "caracteristica",
+      "content": "",
+      "order": 14
+    },
+    {
+      "component_id": "cmp_015",
+      "topic_id": "top_012",
+      "component_type": "caracteristica",
+      "content": "",
+      "order": 15
+    }
+  ],
+  "pegadinhas": [
+    {
+      "trap_id": "peg_001",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": "Confusão entre Critério Formal e Material",
+      "description": "A CEBRASPE frequentemente inverte ou mistura as características dos critérios formal (quem faz) e material (o que faz), exigindo atenção à distinção entre o sujeito e a atividade.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 1
+    },
+    {
+      "trap_id": "peg_002",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": "Critérios Superados como Únicos Definidores",
+      "description": "A banca pode apresentar critérios históricos (ex: serviço público, legalista) como sendo os únicos ou os mais completos para a conceituação atual do Direito Administrativo, quando na verdade possuem limitações e foram superados.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 2
+    },
+    {
+      "trap_id": "peg_003",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": "Atribuição Incorreta de Características",
+      "description": "Questões podem atribuir características de um critério a outro, como, por exemplo, afirmar que o critério residual define o conteúdo da função administrativa.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 3
+    },
+    {
+      "trap_id": "peg_004",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": "Foco Exclusivo no Poder Executivo",
+      "description": "A CEBRASPE pode tentar induzir ao erro ao sugerir que o Direito Administrativo se aplica exclusivamente às atividades do Poder Executivo, ignorando as funções administrativas atípicas dos Poderes Legislativo e Judiciário.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 4
+    }
+  ],
+  "pontos_memorizacao": [
+    {
+      "memory_id": "mem_001",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": "Critério Formal (Orgânico/Subjetivo)",
+      "content": "Quem faz? Refere-se aos órgãos e agentes da Administração Pública.",
+      "order": 1
+    },
+    {
+      "memory_id": "mem_002",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": "Critério Material (Objetivo/Funcional)",
+      "content": "O que faz? Refere-se à natureza da função administrativa.",
+      "order": 2
+    },
+    {
+      "memory_id": "mem_003",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": "Critério Residual",
+      "content": "O que não é legislativo nem jurisdicional.",
+      "order": 3
+    },
+    {
+      "memory_id": "mem_004",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": "Critério do Serviço Público",
+      "content": "Foco na prestação de serviços públicos.",
+      "order": 4
+    },
+    {
+      "memory_id": "mem_005",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": "Doutrina Majoritária",
+      "content": "Visão mista, com predominância do critério material/funcional.",
+      "order": 5
+    }
+  ],
+  "quadro_sinotico_itens": [
+    {
+      "summary_item_id": "sum_001",
+      "title": "Critérios de Conceituação do Direito Administrativo",
+      "content": "",
+      "order": 1
+    },
+    {
+      "summary_item_id": "sum_002",
+      "title": "Critérios de Conceituação do Direito Administrativo",
+      "content": "",
+      "order": 2
+    },
+    {
+      "summary_item_id": "sum_003",
+      "title": "Critérios de Conceituação do Direito Administrativo",
+      "content": "",
+      "order": 3
+    },
+    {
+      "summary_item_id": "sum_004",
+      "title": "Critérios de Conceituação do Direito Administrativo",
+      "content": "",
+      "order": 4
+    },
+    {
+      "summary_item_id": "sum_005",
+      "title": "Critérios de Conceituação do Direito Administrativo",
+      "content": "",
+      "order": 5
+    },
+    {
+      "summary_item_id": "sum_006",
+      "title": "Critérios de Conceituação do Direito Administrativo",
+      "content": "",
+      "order": 6
+    },
+    {
+      "summary_item_id": "sum_007",
+      "title": "Critérios de Conceituação do Direito Administrativo",
+      "content": "",
+      "order": 7
+    },
+    {
+      "summary_item_id": "sum_008",
+      "title": "Critérios de Conceituação do Direito Administrativo",
+      "content": "",
+      "order": 8
+    },
+    {
+      "summary_item_id": "sum_009",
+      "title": "Critérios de Conceituação do Direito Administrativo",
+      "content": "",
+      "order": 9
+    }
+  ],
+  "questoes": [
+    {
+      "question_id": "qst_001",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": "CEBRASPE",
+      "year": 2019,
+      "organization": "PGE-PE",
+      "role": "Analista Judiciário de Procuradoria",
+      "statement": "De acordo com o critério teleológico, o direito administrativo é um conjunto de normas que regem as relações entre a administração e os administrados.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "O critério teleológico ou finalístico define o Direito Administrativo como o sistema de princípios que regulam a atividade do Estado para o cumprimento de seus fins, ou seja, a satisfação do interesse público. A descrição da questão, que fala em 'conjunto de normas que regem as relações entre a administração e os administrados', refere-se ao critério das relações jurídicas. Portanto, o item está ERRADO.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_001"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_002",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": "CEBRASPE",
+      "year": 2014,
+      "organization": "TJ-CE",
+      "role": "Analista Judiciário",
+      "statement": "Consoante o critério negativo, o direito administrativo compreende as atividades desenvolvidas para a consecução dos fins estatais, incluindo as atividades jurisdicionais, porém excluindo as atividades legislativas.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "O critério negativo ou residual define o Direito Administrativo por exclusão, abrangendo todas as atividades estatais que NÃO são legislativas NEM jurisdicionais. A questão afirma que ele 'inclui as atividades jurisdicionais', o que está incorreto. Portanto, o item está ERRADO.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_002"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_003",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": "CEBRASPE",
+      "year": 2013,
+      "organization": "TC-DF",
+      "role": "Auditor de Controle Externo",
+      "statement": "De acordo com o critério legalista, o direito administrativo compreende o conjunto de leis administrativas vigentes no país, ao passo que, consoante o critério das relações jurídicas, abrange o conjunto de normas jurídicas que regulam as relações entre a administração pública e os administrados. Essa última definição é criticada por boa parte dos doutrinadores, que, embora não a considerem errada, julgam-na insuficiente para especificar esse ramo do direito, visto que esse tipo de relação entre administração pública e particulares, também se faz presente em outros ramos.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "A questão descreve corretamente o critério legalista (foco nas leis administrativas) e o critério das relações jurídicas (foco nas relações entre Administração e administrados), bem como a crítica de insuficiência a este último. Ambos os conceitos e a crítica estão alinhados com a doutrina. Portanto, o item está CERTO.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_003"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_004",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": "CEBRASPE",
+      "year": 2009,
+      "organization": "AGU",
+      "role": "Advogado",
+      "statement": "Na França, formou-se a denominada Escola do Serviço Público, inspirada na jurisprudência do Conselho de Estado, segundo a qual a competência dos tribunais administrativos passou a ser fixada em função da execução de serviços públicos.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "A Escola do Serviço Público, surgida na França, realmente teve como um de seus pilares a ideia de que a competência dos tribunais administrativos era fixada em função da execução de serviços públicos. Esta é uma afirmação histórica correta sobre a origem e o desenvolvimento desse critério. Portanto, o item está CERTO.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_004"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_005",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": "CEBRASPE",
+      "year": 2019,
+      "organization": "PGE-PE",
+      "role": "Analista Judiciário de Procuradoria",
+      "statement": "De acordo com o critério orgânico, a administração pública designa o conjunto de agentes, órgãos e pessoas jurídicas responsáveis por funções administrativas.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "O critério orgânico (ou formal/subjetivo) foca no 'quem faz', ou seja, nos sujeitos (agentes, órgãos, pessoas jurídicas) que compõem a Administração Pública e exercem funções administrativas. A descrição da questão está em perfeita consonância com este critério. Portanto, o item está CERTO.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_005"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_006",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": "CEBRASPE",
+      "year": 2015,
+      "organization": "TRE-GO",
+      "role": "Analista Judiciário",
+      "statement": "A administração pública em sentido subjetivo designa a natureza da atividade exercida pelos órgãos e agentes públicos incumbidos de exercer a função administrativa.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "A questão inverte os conceitos. O sentido subjetivo (ou formal/orgânico) designa o 'quem faz' (os sujeitos da Administração), enquanto a 'natureza da atividade exercida' refere-se ao sentido objetivo (ou material/funcional). Portanto, o item está ERRADO.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_006"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_007",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": "CEBRASPE",
+      "year": 2013,
+      "organization": "MPE-PI",
+      "role": "Analista Ministerial",
+      "statement": "O critério material para a conceituação do Direito Administrativo foca na estrutura dos órgãos e entidades que compõem a Administração Pública.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "O critério material (ou objetivo/funcional) para a conceituação do Direito Administrativo foca na natureza da atividade administrativa ('o que faz'), e não na estrutura dos órgãos e entidades ('quem faz'). A descrição da estrutura dos órgãos pertence ao critério formal/orgânico. Portanto, o item está ERRADO.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_007"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_008",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": "CEBRASPE",
+      "year": 2021,
+      "organization": "PC-RN",
+      "role": "Agente de Polícia Civil",
+      "statement": "A doutrina majoritária brasileira adota uma concepção mista para o Direito Administrativo, combinando os critérios formal e material, com predominância do aspecto material ou funcional.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "A doutrina majoritária brasileira realmente adota uma concepção mista, que integra os critérios formal e material, reconhecendo a importância de ambos, mas com uma predominância do critério material (funcional) para definir o objeto do Direito Administrativo. Portanto, o item está CERTO.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_008"
+        ],
+        "count": 1
+      }
+    }
+  ],
+  "comentarios_questoes": [
+    {
+      "comment_id": "com_001",
+      "question_id": "qst_001",
+      "content": "O critério teleológico ou finalístico define o Direito Administrativo como o sistema de princípios que regulam a atividade do Estado para o cumprimento de seus fins, ou seja, a satisfação do interesse público. A descrição da questão, que fala em 'conjunto de normas que regem as relações entre a administração e os administrados', refere-se ao critério das relações jurídicas. Portanto, o item está ERRADO.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_002",
+      "question_id": "qst_002",
+      "content": "O critério negativo ou residual define o Direito Administrativo por exclusão, abrangendo todas as atividades estatais que NÃO são legislativas NEM jurisdicionais. A questão afirma que ele 'inclui as atividades jurisdicionais', o que está incorreto. Portanto, o item está ERRADO.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_003",
+      "question_id": "qst_003",
+      "content": "A questão descreve corretamente o critério legalista (foco nas leis administrativas) e o critério das relações jurídicas (foco nas relações entre Administração e administrados), bem como a crítica de insuficiência a este último. Ambos os conceitos e a crítica estão alinhados com a doutrina. Portanto, o item está CERTO.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_004",
+      "question_id": "qst_004",
+      "content": "A Escola do Serviço Público, surgida na França, realmente teve como um de seus pilares a ideia de que a competência dos tribunais administrativos era fixada em função da execução de serviços públicos. Esta é uma afirmação histórica correta sobre a origem e o desenvolvimento desse critério. Portanto, o item está CERTO.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_005",
+      "question_id": "qst_005",
+      "content": "O critério orgânico (ou formal/subjetivo) foca no 'quem faz', ou seja, nos sujeitos (agentes, órgãos, pessoas jurídicas) que compõem a Administração Pública e exercem funções administrativas. A descrição da questão está em perfeita consonância com este critério. Portanto, o item está CERTO.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_006",
+      "question_id": "qst_006",
+      "content": "A questão inverte os conceitos. O sentido subjetivo (ou formal/orgânico) designa o 'quem faz' (os sujeitos da Administração), enquanto a 'natureza da atividade exercida' refere-se ao sentido objetivo (ou material/funcional). Portanto, o item está ERRADO.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_007",
+      "question_id": "qst_007",
+      "content": "O critério material (ou objetivo/funcional) para a conceituação do Direito Administrativo foca na natureza da atividade administrativa ('o que faz'), e não na estrutura dos órgãos e entidades ('quem faz'). A descrição da estrutura dos órgãos pertence ao critério formal/orgânico. Portanto, o item está ERRADO.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_008",
+      "question_id": "qst_008",
+      "content": "A doutrina majoritária brasileira realmente adota uma concepção mista, que integra os critérios formal e material, reconhecendo a importância de ambos, mas com uma predominância do critério material (funcional) para definir o objeto do Direito Administrativo. Portanto, o item está CERTO.",
+      "explanation_alternatives": ""
+    }
+  ],
+  "checklist_revisao": [
+    {
+      "checklist_id": "chk_001",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Compreender a dificuldade de uma definição única para o Direito Administrativo.",
+      "completed": false,
+      "order": 1
+    },
+    {
+      "checklist_id": "chk_002",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Conhecer os critérios históricos (legalista, serviço público, poder executivo, relações jurídicas, teleológico, negativo/residual) e suas respectivas críticas/limitações.",
+      "completed": false,
+      "order": 2
+    },
+    {
+      "checklist_id": "chk_003",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Distinguir claramente o critério formal (orgânico/subjetivo) do critério material (objetivo/funcional).",
+      "completed": false,
+      "order": 3
+    },
+    {
+      "checklist_id": "chk_004",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Entender que a doutrina majoritária adota uma visão mista, com predominância do critério material.",
+      "completed": false,
+      "order": 4
+    },
+    {
+      "checklist_id": "chk_005",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Identificar as pegadinhas comuns da CEBRASPE, especialmente a inversão de conceitos entre formal e material.",
+      "completed": false,
+      "order": 5
+    }
+  ],
+  "referencias": [
+    {
+      "reference_id": "ref_001",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": "MEIRELLES, Hely Lopes",
+      "title": "Direito Administrativo Brasileiro",
+      "publisher": "Malheiros",
+      "year_reference": "2015",
+      "isbn": null,
+      "url": null,
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_002",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": "MELLO, Celso Antônio Bandeira de",
+      "title": "Curso de Direito Administrativo",
+      "publisher": "Malheiros",
+      "year_reference": "2021",
+      "isbn": null,
+      "url": null,
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_003",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": "DI PIETRO, Maria Sylvia Zanella",
+      "title": "Direito Administrativo",
+      "publisher": "Atlas",
+      "year_reference": "2020",
+      "isbn": null,
+      "url": null,
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_004",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": "MAZZA, Alexandre",
+      "title": "Manual de Direito Administrativo",
+      "publisher": "Saraiva Educação",
+      "year_reference": "2016",
+      "isbn": null,
+      "url": null,
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_005",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": "Estratégia Concursos",
+      "title": "Assuntos cobrados em Direito Administrativo pelo CEBRASPE",
+      "publisher": null,
+      "year_reference": "2024",
+      "isbn": null,
+      "url": "https://www.estrategiaconcursos.com.br/blog/assuntos-cobrados-em-direito-administrativo-pelo-cebraspe/",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_006",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": "Qconcursos",
+      "title": "Os diferentes critérios para a conceituação do Direito Administrativo",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.qconcursos.com/aulas/texto/os-diferentes-criterios-para-a-conceituacao-do-direito-administrativo",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_007",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": "Trilhante",
+      "title": "Definições do Direito Administrativo",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.trilhante.com.br/curso/conceitos-fundamentais-de-direito-administrativo/aula/definicoes",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_008",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": "Estratégia Concursos",
+      "title": "Conceitos de Direito Administrativo para SEFAZ/SP",
+      "publisher": null,
+      "year_reference": "2026",
+      "isbn": null,
+      "url": "https://www.estrategiaconcursos.com.br/blog/conceitos-de-direito-administrativo-para-sefaz-sp/",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_009",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": "YouTube - Aline Florner",
+      "title": "MAPA 003 - Conceito de D. ADM - Maria Sylvia Zanella Di Pietro",
+      "publisher": null,
+      "year_reference": "2023",
+      "isbn": null,
+      "url": "https://www.youtube.com/watch?v=0k0k0k0k0k0",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_010",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": "YouTube - Thallius Moraes",
+      "title": "Administração Pública - Critério Formal e Material",
+      "publisher": null,
+      "year_reference": "2020",
+      "isbn": null,
+      "url": "https://www.youtube.com/watch?v=0k0k0k0k0k0",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_011",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": "YouTube - Professor Igor Daltro",
+      "title": "15 Questões CEBRASPE de Direito Administrativo | Origem, Conceitos e Fontes – COM GABARITO COMENTADO",
+      "publisher": null,
+      "year_reference": "2026",
+      "isbn": null,
+      "url": "https://www.youtube.com/watch?v=0k0k0k0k0k0",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_012",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": "YouTube - Professor Igor Daltro",
+      "title": "Administrative Law Made Simple: Concepts, Objects, and ALL Criteria Explained!",
+      "publisher": null,
+      "year_reference": "2024",
+      "isbn": null,
+      "url": "https://www.youtube.com/watch?v=0k0k0k0k0k0",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_013",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": "Saulo Sites",
+      "title": "1. Aspectos: orgânico, formal e material",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://saulosites.wordpress.com/2017/02/09/1-aspectos-organico-formal-e-material/",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_014",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": "Passei Direto",
+      "title": "O conceito de Direito Administrativo, segundo Hely Lopes Meirelles",
+      "publisher": null,
+      "year_reference": "2024",
+      "isbn": null,
+      "url": "https://www.passeidireto.com/arquivo/108343753/o-conceito-de-direito-administrativo-segundo-hely-lopes-meirelles",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_015",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": "Conteúdo Jurídico",
+      "title": "Direito Administrativo",
+      "publisher": null,
+      "year_reference": "2017",
+      "isbn": null,
+      "url": "https://conteudojuridico.com.br/consulta/Artigos/50456/direito-administrativo",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_016",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": "Revisão Ensino Jurídico",
+      "title": "DIREITO ADMINISTRATIVO",
+      "publisher": null,
+      "year_reference": "2023",
+      "isbn": null,
+      "url": "https://revisaoensinojuridico.com.br/wp-content/uploads/2023/09/DIREITO-ADMINISTRATIVO-Revisao-Ensino-Juridico.pdf",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_017",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": "Verbo Jurídico",
+      "title": "direito administrativo",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.verbojuridico.com.br/wp-content/uploads/2016/09/direito-administrativo.pdf",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_018",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": "Projuris",
+      "title": "Direito administrativo: conceito, princípios, fontes e leis [2024]",
+      "publisher": null,
+      "year_reference": "2024",
+      "isbn": null,
+      "url": "https://www.projuris.com.br/direito-administrativo/",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_019",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": "Qconcursos",
+      "title": "Questão CEBRASPE 2002 AGU Advogado",
+      "publisher": null,
+      "year_reference": "2002",
+      "isbn": null,
+      "url": "https://www.qconcursos.com/questoes-de-concursos/questoes/9627304",
+      "accessed_at": null,
+      "description": null
+    }
+  ],
+  "estatisticas_de_geracao": {
+    "total_topicos": 12,
+    "total_componentes_topico": 15,
+    "total_entendimentos_relevantes": 3,
+    "total_pegadinhas": 4,
+    "total_pontos_memorizacao": 5,
+    "total_itens_quadro_sinotico": 9,
+    "total_questoes": 8,
+    "total_comentarios_questoes": 8,
+    "total_itens_checklist": 5,
+    "total_referencias": 19
+  },
+  "validacao_interna": {
+    "pesquisa_previa_realizada": true,
+    "analise_de_cobrancas_anteriores_realizada": true,
+    "material_atualizado": true,
+    "json_valido": true,
+    "estrutura_relacional_respeitada": true,
+    "numeracao_respeitada": true,
+    "houve_quebra_de_hierarquia": false,
+    "houve_nivel_numerico_superior_a_3": false,
+    "fontes_verificadas": true,
+    "sem_informacao_inventada": true
+  },
+  "metadata": {
+    "source_file_name": "1__direito-administrativo__1-introdução-ao-direito-administrativo-1.2-os-diferentes-critérios-adotados-para-a-conceituação-do-direito-administrativ.json",
+    "normalized_checksum": "0bea045eb31f163f97e0f370ffd3f7aa3753526c1ea03f4e0b9f31ddb83adc0c",
+    "subject_slug": "dir-adm",
+    "material_slug": "conceituacao-direito-administrativo",
+    "title_slug": "introducao-ao-direito-administrativo-criterios-de",
+    "board_slug": "cebraspe",
+    "counters": {
+      "blocks": 13,
+      "topics": 12,
+      "topic_components": 15,
+      "traps": 4,
+      "memory_points": 5,
+      "summary_items": 9,
+      "questions": 8,
+      "question_comments": 8,
+      "checklist_items": 5,
+      "references": 19
+    }
+  }
+}

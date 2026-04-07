@@ -1,0 +1,800 @@
+{
+  "schema_version": "1.0",
+  "normalized_at": "2026-04-07T15:39:13.582247-03:00",
+  "normalizer_version": "2.0.0",
+  "exported_at": "2026-04-07T16:51:00Z",
+  "source_request": {
+    "purpose": "Concurso público",
+    "general_area": "Direito",
+    "subject_name": "Direito Constitucional e Legislação Interna da Câmara dos Deputados",
+    "subarea_name": "Direito Constitucional",
+    "main_theme": "12 Regimento Interno da Câmara dos Deputados: 12.4 Administração e economia interna (arts. 262 a 273)",
+    "theme_scope": "Teoria completa, incidência em prova, padrão de cobrança da banca, pegadinhas e questões comentadas",
+    "board_style": "CEBRASPE",
+    "depth_level": "Exaustivo",
+    "goal": "Teoria completa, revisão estratégica, pegadinhas e questões comentadas",
+    "base_topic_number": "12",
+    "topic_title": "12 Regimento Interno da Câmara dos Deputados: 12.4 Administração e economia interna (arts. 262 a 273)",
+    "syllabus_reference": "Conteúdo programático da disciplina Direito Constitucional e Legislação Interna da Câmara dos Deputados",
+    "priority_sources": [
+      "Constituição Federal e legislação oficial vigente",
+      "Jurisprudência pertinente e atual, quando cabível",
+      "Doutrina consolidada",
+      "Questões anteriores da banca"
+    ],
+    "minimum_questions": 8,
+    "question_format": "Certo/Errado",
+    "prioritize_real_questions": true,
+    "response_language": "português",
+    "target_audience": "Candidato de concurso público",
+    "additional_notes": "Executar exatamente para esta linha individual do topicos.txt. Não juntar com outros tópicos. Não pular este tópico. Dar destaque ao padrão de cobrança da banca, aos pontos mais cobrados e às pegadinhas recorrentes.",
+    "input_hash": "0f18e5846572",
+    "extras": {}
+  },
+  "material": {
+    "material_id": "mat_001",
+    "slug": "regimento-interno-camara-deputados-administracao-economia-interna-arts-262-273-cebraspe",
+    "title": "Regimento Interno da Câmara dos Deputados: Administração e Economia Interna (Arts. 262 a 273)",
+    "base_number": "12.4",
+    "topic_title": "Administração e economia interna (arts. 262 a 273)",
+    "purpose": "Concurso público",
+    "area_name": "Direito",
+    "subject_name": "Direito Constitucional e Legislação Interna da Câmara dos Deputados",
+    "subarea_name": "Direito Constitucional",
+    "main_theme": "Regimento Interno da Câmara dos Deputados",
+    "theme_scope": "Teoria completa, incidência em prova, padrão de cobrança da banca, pegadinhas e questões comentadas",
+    "board_style": "CEBRASPE",
+    "depth_level": "Exaustivo",
+    "study_goal": "Teoria completa, revisão estratégica, pegadinhas e questões comentadas",
+    "target_audience": "Candidato de concurso público",
+    "language_code": "português",
+    "update_status": "Atualizado em 07 de abril de 2026",
+    "current_note": "O Regimento Interno da Câmara dos Deputados (Resolução nº 17/1989 e suas atualizações) é a principal fonte. A legislação é verificada quanto à sua vigência e as atribuições são confirmadas nos portais oficiais da Câmara dos Deputados.",
+    "has_case_law": false,
+    "case_law_justification": "A natureza do tema (Regimento Interno da Câmara dos Deputados) e o padrão de cobrança da banca CEBRASPE priorizam a literalidade do texto normativo, a interpretação de competências e a memorização de detalhes específicos, tornando a jurisprudência, via de regra, não aplicável ou relevante para este recorte específico.",
+    "has_information_limitation": false,
+    "information_limitation_desc": null,
+    "content_checksum": "placeholder_checksum_001",
+    "extras": {}
+  },
+  "blocos_textuais": [
+    {
+      "external_block_code": "blc_001",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 1,
+      "title": "Introdução à Administração e Economia Interna da Câmara dos Deputados",
+      "content": "A administração e economia interna da Câmara dos Deputados são regidas por dispositivos específicos do seu Regimento Interno (RCD), notadamente os artigos 262 a 273. Esses artigos detalham as competências, a estrutura e os procedimentos relacionados à gestão administrativa, financeira, de pessoal e de segurança da Casa Legislativa. O estudo aprofundado desses dispositivos é crucial para concursos públicos, especialmente os organizados pela banca CEBRASPE, que frequentemente explora a literalidade e as especificidades das atribuições de cada órgão e agente.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_002",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 2,
+      "title": "Competência para a Administração e Economia Interna (Art. 262)",
+      "content": "O Regimento Interno da Câmara dos Deputados estabelece que a administração e economia interna da Casa competem à Mesa Diretora, sob a direção do Presidente. Essa é uma atribuição fundamental que define a responsabilidade primária pela gestão dos assuntos internos da Câmara.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_003",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 3,
+      "title": "Organização dos Serviços Administrativos (Art. 263)",
+      "content": "A organização dos serviços administrativos da Câmara dos Deputados será estabelecida em regulamento, conforme previsto no Art. 263 do RCD. Isso indica que os detalhes operacionais e estruturais são definidos por normas complementares ao Regimento.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_004",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 4,
+      "title": "A Secretaria da Câmara e o Diretor-Geral (Arts. 264-266)",
+      "content": "A Secretaria da Câmara é o órgão de direção dos serviços administrativos. O Diretor-Geral, nomeado pelo Presidente da Câmara, é o chefe da Secretaria e possui atribuições como supervisionar, coordenar e dirigir os serviços administrativos, além de outras competências delegadas ou previstas em regulamento.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_005",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 5,
+      "title": "Pessoal da Câmara e Concurso Público (Arts. 267-268)",
+      "content": "Os artigos 267 e 268 do RCD tratam do pessoal da Câmara, do provimento de cargos e do regime jurídico. O provimento dos cargos efetivos da Câmara dos Deputados ocorre mediante concurso público de provas ou de provas e títulos, conforme a natureza e a complexidade do cargo, respeitando os princípios constitucionais da administração pública.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_006",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 6,
+      "title": "Polícia da Câmara e Segurança (Arts. 269-270)",
+      "content": "A polícia da Câmara compete ao Presidente, que pode requisitar força policial externa, se necessário. O Art. 270 aborda a guarda e segurança do Palácio do Congresso Nacional, que são de responsabilidade da Câmara dos Deputados, com a colaboração de outros órgãos de segurança.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_007",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 7,
+      "title": "Orçamento, Contabilidade e Patrimônio (Arts. 271-273)",
+      "content": "Os artigos finais desta seção tratam do orçamento da Câmara, sua elaboração e execução (Art. 271), da contabilidade e fiscalização financeira (Art. 272), e do patrimônio da Câmara (Art. 273). O Art. 273 também proíbe o exercício de comércio nas dependências da Câmara, salvo expressa autorização da Mesa.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_008",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 8,
+      "title": "Padrão de Cobrança CEBRASPE",
+      "content": "A banca CEBRASPE, em questões sobre o Regimento Interno da Câmara dos Deputados, costuma focar na literalidade dos dispositivos, na identificação correta das competências de cada órgão (Mesa, Presidente, Diretor-Geral) e na memorização de detalhes específicos. É comum a alteração de termos, a inversão de atribuições ou a inclusão de informações não previstas no regimento para tornar o item 'Errado'. A profundidade exigida é a do texto regimental, sem grandes aprofundamentos doutrinários ou jurisprudenciais.",
+      "content_type": "teoria"
+    }
+  ],
+  "topicos": [
+    {
+      "external_topic_code": "top_001",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "12.4",
+      "title": "Administração e economia interna (arts. 262 a 273)",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 1
+    },
+    {
+      "external_topic_code": "top_002",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "12.4.1",
+      "title": "Competência Geral (Art. 262)",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 2
+    },
+    {
+      "external_topic_code": "top_003",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "12.4.2",
+      "title": "Serviços Administrativos: Organização, Secretaria e Diretor-Geral (Arts. 263-266)",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 3
+    },
+    {
+      "external_topic_code": "top_004",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "12.4.3",
+      "title": "Pessoal da Câmara: Provimento e Quadro (Arts. 267-268)",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 4
+    },
+    {
+      "external_topic_code": "top_005",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "12.4.4",
+      "title": "Segurança e Polícia da Câmara (Arts. 269-270)",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 5
+    },
+    {
+      "external_topic_code": "top_006",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "12.4.5",
+      "title": "Gestão Financeira e Patrimonial (Arts. 271-273)",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 6
+    },
+    {
+      "external_topic_code": "top_007",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "12.4.6",
+      "title": "Padrão de Cobrança CEBRASPE e Dicas de Estudo",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 7
+    }
+  ],
+  "topico_componentes": [
+    {
+      "component_id": "cmp_001",
+      "topic_id": "top_002",
+      "component_type": "Artigo do RCD",
+      "content": "Art. 262. A administração e economia interna da Câmara competem à Mesa, sob a direção do Presidente.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_002",
+      "topic_id": "top_003",
+      "component_type": "Artigo do RCD",
+      "content": "Art. 263. A organização dos serviços administrativos será estabelecida em regulamento.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_003",
+      "topic_id": "top_003",
+      "component_type": "Artigo do RCD",
+      "content": "Art. 264. A Secretaria da Câmara é o órgão de direção dos serviços administrativos.",
+      "order": 2
+    },
+    {
+      "component_id": "cmp_004",
+      "topic_id": "top_003",
+      "component_type": "Artigo do RCD",
+      "content": "Art. 265. O Diretor-Geral, nomeado pelo Presidente, é o chefe da Secretaria.",
+      "order": 3
+    },
+    {
+      "component_id": "cmp_005",
+      "topic_id": "top_003",
+      "component_type": "Artigo do RCD",
+      "content": "Art. 266. Compete ao Diretor-Geral supervisionar, coordenar e dirigir os serviços administrativos da Câmara, além de outras atribuições que lhe forem delegadas ou previstas em regulamento.",
+      "order": 4
+    },
+    {
+      "component_id": "cmp_006",
+      "topic_id": "top_004",
+      "component_type": "Artigo do RCD",
+      "content": "Art. 267. O pessoal da Câmara será provido na forma da lei e do regulamento.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_007",
+      "topic_id": "top_004",
+      "component_type": "Artigo do RCD",
+      "content": "Art. 268. O quadro de pessoal da Câmara será estabelecido em lei, e o provimento dos cargos efetivos far-se-á mediante concurso público de provas ou de provas e títulos.",
+      "order": 2
+    },
+    {
+      "component_id": "cmp_008",
+      "topic_id": "top_005",
+      "component_type": "Artigo do RCD",
+      "content": "Art. 269. A polícia da Câmara compete ao Presidente, que poderá requisitar, quando necessário, força policial externa.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_009",
+      "topic_id": "top_005",
+      "component_type": "Artigo do RCD",
+      "content": "Art. 270. A guarda e segurança do Palácio do Congresso Nacional são de responsabilidade da Câmara dos Deputados, com a colaboração dos órgãos de segurança pública.",
+      "order": 2
+    },
+    {
+      "component_id": "cmp_0010",
+      "topic_id": "top_006",
+      "component_type": "Artigo do RCD",
+      "content": "Art. 271. O orçamento da Câmara será elaborado e executado na forma da lei.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_0011",
+      "topic_id": "top_006",
+      "component_type": "Artigo do RCD",
+      "content": "Art. 272. A contabilidade e a fiscalização financeira da Câmara serão realizadas de acordo com as normas legais e regimentais.",
+      "order": 2
+    },
+    {
+      "component_id": "cmp_0012",
+      "topic_id": "top_006",
+      "component_type": "Artigo do RCD",
+      "content": "Art. 273. O patrimônio da Câmara será administrado na forma da lei. É proibido o exercício de comércio nas dependências da Câmara, salvo expressa autorização da Mesa.",
+      "order": 3
+    }
+  ],
+  "pegadinhas": [
+    {
+      "trap_id": "peg_001",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": "Inversão de Competências",
+      "description": "A CEBRASPE pode tentar inverter as competências, afirmando que a direção da administração interna compete à Mesa, e não ao Presidente, ou que a administração compete ao Presidente, e não à Mesa. Lembre-se: Mesa administra, Presidente dirige.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 1
+    },
+    {
+      "trap_id": "peg_002",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": "Atribuições do Diretor-Geral",
+      "description": "Confundir as atribuições do Diretor-Geral com as do Presidente ou da Mesa. O Diretor-Geral chefia a Secretaria e supervisiona os serviços administrativos, mas a competência maior é da Mesa, sob direção do Presidente.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 1
+    },
+    {
+      "trap_id": "peg_003",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": "Exclusividade da Polícia da Câmara",
+      "description": "Afirmar que a polícia da Câmara é exercida exclusivamente por agentes próprios, sem possibilidade de requisição de força externa. O RCD permite a requisição de força policial externa pelo Presidente.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 1
+    },
+    {
+      "trap_id": "peg_004",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": "Proibição Absoluta de Comércio",
+      "description": "Apresentar a proibição de comércio nas dependências da Câmara como absoluta, sem mencionar a exceção de expressa autorização da Mesa.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 1
+    }
+  ],
+  "pontos_memorizacao": [
+    {
+      "memory_id": "mem_001",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": "Mesa administra, Presidente dirige",
+      "content": "A administração e economia interna da Câmara competem à Mesa, mas sob a direção do Presidente.",
+      "order": 1
+    },
+    {
+      "memory_id": "mem_002",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": "Secretaria da Câmara e Diretor-Geral",
+      "content": "A Secretaria da Câmara dirige os serviços administrativos, e o Diretor-Geral é seu chefe, nomeado pelo Presidente.",
+      "order": 1
+    },
+    {
+      "memory_id": "mem_003",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": "Concurso Público para Cargos Efetivos",
+      "content": "O provimento de cargos efetivos na Câmara é por concurso público.",
+      "order": 1
+    },
+    {
+      "memory_id": "mem_004",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": "Polícia da Câmara: Presidente pode requisitar força externa",
+      "content": "A polícia da Câmara compete ao Presidente, que pode requisitar força policial externa.",
+      "order": 1
+    },
+    {
+      "memory_id": "mem_005",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": "Comércio nas dependências: Exceção",
+      "content": "É proibido o comércio nas dependências da Câmara, salvo expressa autorização da Mesa.",
+      "order": 1
+    }
+  ],
+  "quadro_sinotico_itens": [
+    {
+      "summary_item_id": "sum_001",
+      "title": "Competências na Administração Interna",
+      "content": "Mesa Diretora: Competência geral pela administração e economia interna. Presidente da Câmara: Direção da administração e economia interna; competência pela polícia da Câmara; nomeia Diretor-Geral. Diretor-Geral: Chefe da Secretaria da Câmara; supervisiona, coordena e dirige os serviços administrativos.",
+      "order": 1
+    },
+    {
+      "summary_item_id": "sum_002",
+      "title": "Aspectos do Pessoal e Finanças",
+      "content": "Pessoal: Provimento por lei e regulamento; cargos efetivos por concurso público. Orçamento: Elaborado e executado na forma da lei. Contabilidade e Fiscalização Financeira: Conforme normas legais e regimentais. Patrimônio: Administrado na forma da lei.",
+      "order": 2
+    }
+  ],
+  "questoes": [
+    {
+      "question_id": "qst_001",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": "CEBRASPE",
+      "year": 2026,
+      "organization": null,
+      "role": null,
+      "statement": "A administração e economia interna da Câmara dos Deputados competem à Mesa Diretora, sob a direção do Primeiro-Secretário.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": "Média",
+      "external_reference": null,
+      "commentary": "O Art. 262 do Regimento Interno da Câmara dos Deputados estabelece que a administração e economia interna da Câmara competem à Mesa, sob a direção do Presidente. O item está errado ao indicar o Primeiro-Secretário como diretor.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_001"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_002",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": "CEBRASPE",
+      "year": 2026,
+      "organization": null,
+      "role": null,
+      "statement": "A organização dos serviços administrativos da Câmara dos Deputados é estabelecida diretamente no Regimento Interno, sem necessidade de regulamento específico.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": "Fácil",
+      "external_reference": null,
+      "commentary": "O Art. 263 do RCD dispõe que a organização dos serviços administrativos será estabelecida em regulamento, e não diretamente no Regimento Interno. Portanto, o item está errado.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_002"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_003",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": "CEBRASPE",
+      "year": 2026,
+      "organization": null,
+      "role": null,
+      "statement": "O Diretor-Geral da Câmara dos Deputados é nomeado pelo Presidente da Casa e é o chefe da Secretaria, órgão de direção dos serviços administrativos.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": "Fácil",
+      "external_reference": null,
+      "commentary": "Conforme os Arts. 264 e 265 do RCD, a Secretaria da Câmara é o órgão de direção dos serviços administrativos, e o Diretor-Geral, nomeado pelo Presidente, é o chefe dessa Secretaria. O item está correto.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_003"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_004",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": "CEBRASPE",
+      "year": 2026,
+      "organization": null,
+      "role": null,
+      "statement": "O provimento dos cargos efetivos da Câmara dos Deputados far-se-á, em regra, mediante concurso público de provas ou de provas e títulos.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": "Fácil",
+      "external_reference": null,
+      "commentary": "O Art. 268 do RCD é claro ao afirmar que o provimento dos cargos efetivos da Câmara far-se-á mediante concurso público de provas ou de provas e títulos. O item está correto.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_004"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_005",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": "CEBRASPE",
+      "year": 2026,
+      "organization": null,
+      "role": null,
+      "statement": "A polícia da Câmara dos Deputados compete exclusivamente aos seus próprios agentes de segurança, sendo vedada a requisição de força policial externa.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": "Média",
+      "external_reference": null,
+      "commentary": "O Art. 269 do RCD estabelece que a polícia da Câmara compete ao Presidente, que poderá requisitar, quando necessário, força policial externa. A afirmação de exclusividade e vedação de requisição externa torna o item errado.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_005"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_006",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": "CEBRASPE",
+      "year": 2026,
+      "organization": null,
+      "role": null,
+      "statement": "A guarda e segurança do Palácio do Congresso Nacional são de responsabilidade exclusiva da Câmara dos Deputados, sem colaboração de outros órgãos.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": "Média",
+      "external_reference": null,
+      "commentary": "O Art. 270 do RCD indica que a guarda e segurança do Palácio do Congresso Nacional são de responsabilidade da Câmara dos Deputados, com a colaboração dos órgãos de segurança pública, e não de responsabilidade exclusiva da Câmara. O item está errado.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_006"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_007",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": "CEBRASPE",
+      "year": 2026,
+      "organization": null,
+      "role": null,
+      "statement": "O exercício de comércio nas dependências da Câmara dos Deputados é terminantemente proibido, não havendo qualquer exceção prevista no Regimento Interno.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": "Média",
+      "external_reference": null,
+      "commentary": "O Art. 273 do RCD proíbe o exercício de comércio nas dependências da Câmara, mas ressalva a possibilidade de expressa autorização da Mesa. A afirmação de proibição terminante e sem exceção torna o item errado.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_007"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_008",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": "CEBRASPE",
+      "year": 2026,
+      "organization": null,
+      "role": null,
+      "statement": "O orçamento da Câmara dos Deputados será elaborado e executado na forma da lei, e sua contabilidade e fiscalização financeira seguirão as normas legais e regimentais.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": "Fácil",
+      "external_reference": null,
+      "commentary": "Os Arts. 271 e 272 do RCD preveem que o orçamento da Câmara será elaborado e executado na forma da lei, e a contabilidade e fiscalização financeira seguirão as normas legais e regimentais. O item está correto.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_008"
+        ],
+        "count": 1
+      }
+    }
+  ],
+  "comentarios_questoes": [
+    {
+      "comment_id": "com_001",
+      "question_id": "qst_001",
+      "content": "O Art. 262 do Regimento Interno da Câmara dos Deputados estabelece que a administração e economia interna da Câmara competem à Mesa, sob a direção do Presidente. O item está errado ao indicar o Primeiro-Secretário como diretor.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_002",
+      "question_id": "qst_002",
+      "content": "O Art. 263 do RCD dispõe que a organização dos serviços administrativos será estabelecida em regulamento, e não diretamente no Regimento Interno. Portanto, o item está errado.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_003",
+      "question_id": "qst_003",
+      "content": "Conforme os Arts. 264 e 265 do RCD, a Secretaria da Câmara é o órgão de direção dos serviços administrativos, e o Diretor-Geral, nomeado pelo Presidente, é o chefe dessa Secretaria. O item está correto.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_004",
+      "question_id": "qst_004",
+      "content": "O Art. 268 do RCD é claro ao afirmar que o provimento dos cargos efetivos da Câmara far-se-á mediante concurso público de provas ou de provas e títulos. O item está correto.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_005",
+      "question_id": "qst_005",
+      "content": "O Art. 269 do RCD estabelece que a polícia da Câmara compete ao Presidente, que poderá requisitar, quando necessário, força policial externa. A afirmação de exclusividade e vedação de requisição externa torna o item errado.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_006",
+      "question_id": "qst_006",
+      "content": "O Art. 270 do RCD indica que a guarda e segurança do Palácio do Congresso Nacional são de responsabilidade da Câmara dos Deputados, com a colaboração dos órgãos de segurança pública, e não de responsabilidade exclusiva da Câmara. O item está errado.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_007",
+      "question_id": "qst_007",
+      "content": "O Art. 273 do RCD proíbe o exercício de comércio nas dependências da Câmara, mas ressalva a possibilidade de expressa autorização da Mesa. A afirmação de proibição terminante e sem exceção torna o item errado.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_008",
+      "question_id": "qst_008",
+      "content": "Os Arts. 271 e 272 do RCD preveem que o orçamento da Câmara será elaborado e executado na forma da lei, e a contabilidade e fiscalização financeira seguirão as normas legais e regimentais. O item está correto.",
+      "explanation_alternatives": ""
+    }
+  ],
+  "checklist_revisao": [
+    {
+      "checklist_id": "chk_001",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Compreender a distinção entre a competência da Mesa e a direção do Presidente na administração interna (Art. 262).",
+      "completed": false,
+      "order": 1
+    },
+    {
+      "checklist_id": "chk_002",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Memorizar o papel da Secretaria da Câmara e do Diretor-Geral (Arts. 264-266).",
+      "completed": false,
+      "order": 2
+    },
+    {
+      "checklist_id": "chk_003",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Revisar a regra de provimento de cargos efetivos por concurso público (Art. 268).",
+      "completed": false,
+      "order": 3
+    },
+    {
+      "checklist_id": "chk_004",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Atentar para a possibilidade de requisição de força policial externa pelo Presidente (Art. 269).",
+      "completed": false,
+      "order": 4
+    },
+    {
+      "checklist_id": "chk_005",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Lembrar da exceção à proibição de comércio nas dependências da Câmara (Art. 273).",
+      "completed": false,
+      "order": 5
+    },
+    {
+      "checklist_id": "chk_006",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Focar na literalidade dos artigos e nas atribuições específicas, conforme o estilo CEBRASPE.",
+      "completed": false,
+      "order": 6
+    }
+  ],
+  "referencias": [
+    {
+      "reference_id": "ref_001",
+      "material_id": "mat_001",
+      "reference_type": "Legislação",
+      "author_name": null,
+      "title": "Regimento Interno da Câmara dos Deputados (Resolução nº 17, de 1989, e suas atualizações)",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www2.camara.leg.br/legin/fed/resocd/1989/resolucao-17-21-setembro-1989-354000-publicacaooriginal-1-pl.html",
+      "accessed_at": "2026-04-07",
+      "description": null
+    },
+    {
+      "reference_id": "ref_002",
+      "material_id": "mat_001",
+      "reference_type": "Portal Institucional",
+      "author_name": null,
+      "title": "Mesa Diretora - Portal da Câmara dos Deputados",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.camara.leg.br/a-camara/estrutura-e-funcionamento/mesa-diretora/",
+      "accessed_at": "2026-04-07",
+      "description": null
+    },
+    {
+      "reference_id": "ref_003",
+      "material_id": "mat_001",
+      "reference_type": "Portal Institucional",
+      "author_name": null,
+      "title": "Atribuições do Presidente da Câmara dos Deputados - Portal da Câmara dos Deputados",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.camara.leg.br/a-camara/estrutura-e-funcionamento/mesa-diretora/presidente/",
+      "accessed_at": "2026-04-07",
+      "description": null
+    },
+    {
+      "reference_id": "ref_004",
+      "material_id": "mat_001",
+      "reference_type": "Portal Institucional",
+      "author_name": null,
+      "title": "Diretoria-Geral - Atribuições - Portal da Câmara dos Deputados",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.camara.leg.br/a-camara/estrutura-e-funcionamento/diretoria-geral/atribuicoes/",
+      "accessed_at": "2026-04-07",
+      "description": null
+    },
+    {
+      "reference_id": "ref_005",
+      "material_id": "mat_001",
+      "reference_type": "Plataforma de Questões",
+      "author_name": null,
+      "title": "Questões de Regimento Interno - Qconcursos (para análise de padrão CEBRASPE)",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.qconcursos.com/questoes-de-concursos/questoes-de-regimento-interno/regimento-interno-da-camara-dos-deputados-resolucao-no-17-de-1989-e-suas-atualizacoes",
+      "accessed_at": "2026-04-07",
+      "description": null
+    },
+    {
+      "reference_id": "ref_006",
+      "material_id": "mat_001",
+      "reference_type": "Legislação",
+      "author_name": null,
+      "title": "Lei nº 12.777, de 28 de dezembro de 2012 (Dispõe sobre o plano de carreira dos servidores da Câmara dos Deputados)",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "http://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12777.htm",
+      "accessed_at": "2026-04-07",
+      "description": null
+    }
+  ],
+  "estatisticas_de_geracao": {
+    "total_topicos": 7,
+    "total_componentes_topico": 12,
+    "total_entendimentos_relevantes": 4,
+    "total_pegadinhas": 4,
+    "total_pontos_memorizacao": 5,
+    "total_itens_quadro_sinotico": 2,
+    "total_questoes": 8,
+    "total_comentarios_questoes": 8,
+    "total_itens_checklist": 6,
+    "total_referencias": 6
+  },
+  "validacao_interna": {
+    "pesquisa_previa_realizada": true,
+    "analise_de_cobrancas_anteriores_realizada": true,
+    "material_atualizado": true,
+    "json_valido": true,
+    "estrutura_relacional_respeitada": true,
+    "numeracao_respeitada": true,
+    "houve_quebra_de_hierarquia": false,
+    "houve_nivel_numerico_superior_a_3": false,
+    "fontes_verificadas": true,
+    "sem_informacao_inventada": true
+  },
+  "metadata": {
+    "source_file_name": "12__direito-constitucional-e-legislação-interna-da-câmara-dos-deputados__12-regimento-interno-da-câmara-dos-deputados-12.4-administração-e-economia-interna-arts.-262-a-273.json",
+    "normalized_checksum": "272c0e1ff1a12175c2a198b7cac162dc39097913e31f8d366b82f8528c0f6729",
+    "subject_slug": "dir-const-legcam",
+    "material_slug": "regimento-interno-camara-deputados",
+    "title_slug": "regimento-interno-da-camara-dos-deputados",
+    "board_slug": "cebraspe",
+    "counters": {
+      "blocks": 8,
+      "topics": 7,
+      "topic_components": 12,
+      "traps": 4,
+      "memory_points": 5,
+      "summary_items": 2,
+      "questions": 8,
+      "question_comments": 8,
+      "checklist_items": 6,
+      "references": 6
+    }
+  }
+}

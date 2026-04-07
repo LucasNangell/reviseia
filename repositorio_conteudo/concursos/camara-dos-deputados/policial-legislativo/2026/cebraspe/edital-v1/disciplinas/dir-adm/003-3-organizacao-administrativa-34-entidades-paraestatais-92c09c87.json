@@ -1,0 +1,856 @@
+{
+  "schema_version": "1.0",
+  "normalized_at": "2026-04-07T15:39:13.952326-03:00",
+  "normalizer_version": "2.0.0",
+  "exported_at": "2026-04-07T17:27:00Z",
+  "source_request": {
+    "purpose": "Concurso público",
+    "general_area": "Direito",
+    "subject_name": "Direito Administrativo",
+    "subarea_name": "Direito Administrativo",
+    "main_theme": "3 Organização administrativa: 3.4 Entidades paraestatais e terceiro setor: 3.4.2 Entidades de apoio",
+    "theme_scope": "Teoria completa, incidência em prova, padrão de cobrança da banca, pegadinhas e questões comentadas",
+    "board_style": "CEBRASPE",
+    "depth_level": "Exaustivo",
+    "goal": "Teoria completa, revisão estratégica, pegadinhas e questões comentadas",
+    "base_topic_number": "3",
+    "topic_title": "3 Organização administrativa: 3.4 Entidades paraestatais e terceiro setor: 3.4.2 Entidades de apoio",
+    "syllabus_reference": "Conteúdo programático da disciplina Direito Administrativo",
+    "priority_sources": [
+      "Constituição Federal e legislação oficial vigente",
+      "Jurisprudência pertinente e atual, quando cabível",
+      "Doutrina consolidada",
+      "Questões anteriores da banca"
+    ],
+    "minimum_questions": 8,
+    "question_format": "Certo/Errado",
+    "prioritize_real_questions": true,
+    "response_language": "português",
+    "target_audience": "Candidato de concurso público",
+    "additional_notes": "Executar exatamente para esta linha individual do topicos.txt. Não juntar com outros tópicos. Não pular este tópico. Dar destaque ao padrão de cobrança da banca, aos pontos mais cobrados e às pegadinhas recorrentes.",
+    "input_hash": "082dc82cb4b7",
+    "extras": {}
+  },
+  "material": {
+    "material_id": "mat_001",
+    "slug": "organizacao-administrativa-entidades-paraestatais-terceiro-setor-entidades-de-apoio",
+    "title": "Organização Administrativa: Entidades Paraestatais e Terceiro Setor - Entidades de Apoio",
+    "base_number": "3",
+    "topic_title": "3 Organização administrativa: 3.4 Entidades paraestatais e terceiro setor: 3.4.2 Entidades de apoio",
+    "purpose": "Concurso público",
+    "area_name": "Direito",
+    "subject_name": "Direito Administrativo",
+    "subarea_name": "Direito Administrativo",
+    "main_theme": "3 Organização administrativa: 3.4 Entidades paraestatais e terceiro setor: 3.4.2 Entidades de apoio",
+    "theme_scope": "Teoria completa, incidência em prova, padrão de cobrança da banca, pegadinhas e questões comentadas",
+    "board_style": "CEBRASPE",
+    "depth_level": "Exaustivo",
+    "study_goal": "Teoria completa, revisão estratégica, pegadinhas e questões comentadas",
+    "target_audience": "Candidato de concurso público",
+    "language_code": "português",
+    "update_status": "Atualizado em 2026",
+    "current_note": "Conteúdo revisado com base na legislação e jurisprudência mais recentes, incluindo o entendimento do STJ sobre responsabilidade objetiva e prescrição.",
+    "has_case_law": true,
+    "case_law_justification": "A jurisprudência do STJ é relevante para a compreensão da responsabilidade civil e do regime prescricional aplicável às fundações de apoio que prestam serviços públicos.",
+    "has_information_limitation": false,
+    "information_limitation_desc": null,
+    "content_checksum": "placeholder_checksum_sha256",
+    "extras": {}
+  },
+  "blocos_textuais": [
+    {
+      "external_block_code": "blc_001",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 1,
+      "title": "Introdução às Entidades de Apoio no Direito Administrativo",
+      "content": "As entidades de apoio representam uma das formas de colaboração entre o Estado e o setor privado, inserindo-se no contexto do Terceiro Setor. Embora não integrem a Administração Pública direta ou indireta, essas entidades desempenham um papel crucial no auxílio à execução de atividades de interesse público, especialmente nas áreas de ensino, pesquisa, extensão e saúde. A compreensão de sua natureza jurídica, regime e distinções de outras entidades paraestatais é fundamental para concursos públicos, dada a complexidade e a recorrência do tema em provas, notadamente as elaboradas pela banca CEBRASPE.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_002",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 2,
+      "title": "Conceito e Natureza Jurídica das Entidades de Apoio",
+      "content": "As entidades de apoio são pessoas jurídicas de direito privado, sem fins lucrativos. Embora possam assumir a forma de associações ou cooperativas, o exemplo mais comum e de maior relevância para o estudo são as fundações de apoio. Elas são instituídas, muitas vezes, por servidores públicos, mas em nome próprio da entidade privada, com o objetivo de prestar serviços sociais não exclusivos do Estado. A doutrina, como Maria Sylvia Zanella Di Pietro, as define como entidades que mantêm um vínculo jurídico com entidades da administração direta ou indireta, geralmente por meio de convênio. Não integram a Administração Pública formal (direta ou indireta), mas colaboram com ela.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_003",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 3,
+      "title": "Regime Jurídico e Legislação Aplicável",
+      "content": "O regime jurídico das entidades de apoio é predominantemente de direito privado, regido pelo Código Civil e seus estatutos. Contudo, quando recebem ou utilizam recursos públicos, submetem-se a normas de direito público, como os princípios da legalidade, impessoalidade, moralidade, publicidade, economicidade e eficiência, além do controle pela Administração Pública e pelos Tribunais de Contas. Não existe uma lei geral que regulamente todas as entidades de apoio. No entanto, a Lei nº 8.958/1994 disciplina especificamente as relações entre as instituições federais de ensino superior (IFES) e de pesquisa científica e tecnológica (ICTs) e as fundações de apoio, permitindo a celebração de convênios e contratos para apoio a projetos de ensino, pesquisa, extensão, desenvolvimento institucional, científico e tecnológico e estímulo à inovação.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_004",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 4,
+      "title": "Distinções Cruciais: Entidades de Apoio vs. Outras Paraestatais",
+      "content": "É fundamental diferenciar as entidades de apoio de outras figuras do Terceiro Setor frequentemente cobradas em concursos:<ul><li>**Organizações Sociais (OS):** Qualificadas pelo Poder Executivo (ato discricionário) com base na Lei nº 9.637/1998. Celebram 'contrato de gestão' com o Poder Público e podem receber recursos orçamentários, bens públicos e até cessão de servidores. Atuam em áreas como saúde, educação, pesquisa, cultura e meio ambiente.</li><li>**Organizações da Sociedade Civil de Interesse Público (OSCIP):** Qualificadas pelo Ministério da Justiça (ato vinculado) conforme a Lei nº 9.790/1999. O instrumento de parceria é o 'termo de parceria'. Possuem um leque mais amplo de atividades de interesse público.</li><li>**Serviços Sociais Autônomos (Sistema S):** Criados por lei específica, são entidades de direito privado que atuam no fomento e capacitação profissional (ex: SESI, SENAI, SEBRAE). Recebem contribuições parafiscais e, embora não integrem a Administração Pública, submetem-se a algumas regras de licitação e controle do Tribunal de Contas.</li><li>**Entidades de Apoio:** O vínculo com a Administração Pública se dá, em regra, por 'convênio' (especialmente as fundações de apoio a IFES/ICTs, regidas pela Lei nº 8.958/1994). Não possuem uma qualificação jurídica específica como OS ou OSCIP, sendo sua natureza jurídica a de fundação, associação ou cooperativa de direito privado.</li></ul>",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_005",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 5,
+      "title": "Incidência em Provas CEBRASPE e Pegadinhas Comuns",
+      "content": "A banca CEBRASPE frequentemente explora as distinções entre as entidades paraestatais, focando na natureza jurídica, nos instrumentos de parceria e no regime de controle. As pegadinhas mais comuns incluem:<ul><li>Confundir o instrumento jurídico: 'contrato de gestão' (OS), 'termo de parceria' (OSCIP) e 'convênio' (Entidades de Apoio).</li><li>Afirmar que entidades de apoio integram a Administração Pública (direta ou indireta), quando na verdade são pessoas jurídicas de direito privado que colaboram com o Estado.</li><li>Atribuir a todas as entidades do Terceiro Setor a necessidade de qualificação como OS ou OSCIP.</li><li>Questionar sobre a obrigatoriedade de licitação, sendo que as fundações de apoio, em certas situações, podem celebrar contratos com dispensa.</li><li>A responsabilidade civil das fundações de apoio é objetiva, conforme entendimento do STJ, e a pretensão indenizatória se submete ao prazo prescricional quinquenal.</li></ul>",
+      "content_type": "teoria"
+    }
+  ],
+  "topicos": [
+    {
+      "external_topic_code": "top_001",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "3.4.2",
+      "title": "Entidades de Apoio: Conceito e Fundamentação",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 1
+    },
+    {
+      "external_topic_code": "top_002",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_001",
+      "topic_number": "3.4.2.1",
+      "title": "Natureza Jurídica e Características",
+      "reference_block_external_id": null,
+      "level": 4,
+      "order": 2
+    },
+    {
+      "external_topic_code": "top_003",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_001",
+      "topic_number": "3.4.2.2",
+      "title": "Regime Jurídico e Controle",
+      "reference_block_external_id": null,
+      "level": 4,
+      "order": 3
+    },
+    {
+      "external_topic_code": "top_004",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_001",
+      "topic_number": "3.4.2.3",
+      "title": "Lei nº 8.958/1994: Fundações de Apoio a IFES/ICTs",
+      "reference_block_external_id": null,
+      "level": 4,
+      "order": 4
+    },
+    {
+      "external_topic_code": "top_005",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_001",
+      "topic_number": "3.4.2.4",
+      "title": "Diferenças Essenciais: Entidades de Apoio, OS, OSCIP e Serviços Sociais Autônomos",
+      "reference_block_external_id": null,
+      "level": 4,
+      "order": 5
+    },
+    {
+      "external_topic_code": "top_006",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_001",
+      "topic_number": "3.4.2.5",
+      "title": "Padrão de Cobrança CEBRASPE e Pegadinhas",
+      "reference_block_external_id": null,
+      "level": 4,
+      "order": 6
+    }
+  ],
+  "topico_componentes": [
+    {
+      "component_id": "cmp_001",
+      "topic_id": "top_001",
+      "component_type": "definicao",
+      "content": "Entidades de apoio são pessoas jurídicas de direito privado, sem fins lucrativos, que colaboram com a Administração Pública na execução de atividades de interesse público, sem integrar sua estrutura formal.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_002",
+      "topic_id": "top_002",
+      "component_type": "caracteristica",
+      "content": "Não integram a Administração Pública (direta ou indireta).",
+      "order": 2
+    },
+    {
+      "component_id": "cmp_003",
+      "topic_id": "top_002",
+      "component_type": "caracteristica",
+      "content": "São pessoas jurídicas de direito privado (fundações, associações, cooperativas).",
+      "order": 3
+    },
+    {
+      "component_id": "cmp_004",
+      "topic_id": "top_002",
+      "component_type": "caracteristica",
+      "content": "Atuam sem fins lucrativos.",
+      "order": 4
+    },
+    {
+      "component_id": "cmp_005",
+      "topic_id": "top_002",
+      "component_type": "exemplo",
+      "content": "Fundações de apoio a universidades e hospitais públicos.",
+      "order": 5
+    },
+    {
+      "component_id": "cmp_006",
+      "topic_id": "top_003",
+      "component_type": "regime_juridico",
+      "content": "Regime híbrido: predominantemente de direito privado, mas com derrogações de direito público ao receberem recursos estatais.",
+      "order": 6
+    },
+    {
+      "component_id": "cmp_007",
+      "topic_id": "top_003",
+      "component_type": "controle",
+      "content": "Sujeitas ao controle da Administração Pública e dos Tribunais de Contas, especialmente na aplicação de verbas públicas.",
+      "order": 7
+    },
+    {
+      "component_id": "cmp_008",
+      "topic_id": "top_003",
+      "component_type": "instrumento_juridico",
+      "content": "Vínculo com a Administração Pública geralmente por convênio.",
+      "order": 8
+    },
+    {
+      "component_id": "cmp_009",
+      "topic_id": "top_004",
+      "component_type": "legislacao_especifica",
+      "content": "Lei nº 8.958/1994: Dispõe sobre as relações entre IFES/ICTs e as fundações de apoio.",
+      "order": 9
+    },
+    {
+      "component_id": "cmp_010",
+      "topic_id": "top_004",
+      "component_type": "previsao_legal",
+      "content": "Permite a celebração de convênios e contratos para apoio a projetos de ensino, pesquisa, extensão, desenvolvimento institucional, científico e tecnológico.",
+      "order": 10
+    },
+    {
+      "component_id": "cmp_011",
+      "topic_id": "top_005",
+      "component_type": "distincao",
+      "content": "OS (Lei nº 9.637/1998) - Contrato de Gestão - Qualificação discricionária.",
+      "order": 11
+    },
+    {
+      "component_id": "cmp_012",
+      "topic_id": "top_005",
+      "component_type": "distincao",
+      "content": "OSCIP (Lei nº 9.790/1999) - Termo de Parceria - Qualificação vinculada.",
+      "order": 12
+    },
+    {
+      "component_id": "cmp_013",
+      "topic_id": "top_005",
+      "component_type": "distincao",
+      "content": "Serviços Sociais Autônomos (Sistema S) - Criados por lei, recebem contribuições parafiscais.",
+      "order": 13
+    },
+    {
+      "component_id": "cmp_014",
+      "topic_id": "top_005",
+      "component_type": "distincao",
+      "content": "Entidades de Apoio - Geralmente Convênio - Não possuem qualificação específica como OS ou OSCIP.",
+      "order": 14
+    },
+    {
+      "component_id": "cmp_015",
+      "topic_id": "top_006",
+      "component_type": "foco_banca",
+      "content": "CEBRASPE cobra frequentemente a distinção entre as entidades paraestatais, seus instrumentos jurídicos e a integração ou não à Administração Pública.",
+      "order": 15
+    }
+  ],
+  "pegadinhas": [
+    {
+      "trap_id": "peg_001",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": "Pegadinha 1",
+      "description": "Confundir o instrumento jurídico: Entidades de Apoio utilizam convênios, enquanto OS utilizam contratos de gestão e OSCIP utilizam termos de parceria.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 1
+    },
+    {
+      "trap_id": "peg_002",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": "Pegadinha 2",
+      "description": "Afirmar que entidades de apoio integram a Administração Pública (direta ou indireta). Elas são pessoas jurídicas de direito privado que colaboram com o Estado, mas não fazem parte de sua estrutura formal.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 2
+    },
+    {
+      "trap_id": "peg_003",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": "Pegadinha 3",
+      "description": "Generalizar a necessidade de qualificação (como OS ou OSCIP) para todas as entidades do Terceiro Setor que colaboram com o Estado. Entidades de apoio não possuem essa qualificação específica.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 3
+    },
+    {
+      "trap_id": "peg_004",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": "Pegadinha 4",
+      "description": "Desconsiderar o regime híbrido das entidades de apoio: embora de direito privado, sujeitam-se a normas de direito público e controle estatal ao receberem recursos públicos.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 4
+    }
+  ],
+  "pontos_memorizacao": [
+    {
+      "memory_id": "mem_001",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": null,
+      "content": "Entidades de Apoio: PJ de direito privado, sem fins lucrativos, colaboram com o Estado, NÃO integram a AP.",
+      "order": 1
+    },
+    {
+      "memory_id": "mem_002",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": null,
+      "content": "Instrumento típico: Convênio (Lei nº 8.958/1994 para fundações de apoio a IFES/ICTs).",
+      "order": 2
+    },
+    {
+      "memory_id": "mem_003",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": null,
+      "content": "Regime híbrido: Direito privado + normas de direito público (ao usar verba pública).",
+      "order": 3
+    },
+    {
+      "memory_id": "mem_004",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": null,
+      "content": "Diferenciar de OS (Contrato de Gestão, Lei nº 9.637/98) e OSCIP (Termo de Parceria, Lei nº 9.790/99).",
+      "order": 4
+    },
+    {
+      "memory_id": "mem_005",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": null,
+      "content": "Responsabilidade objetiva e prescrição quinquenal (STJ) para fundações de apoio que prestam serviço público.",
+      "order": 5
+    }
+  ],
+  "quadro_sinotico_itens": [
+    {
+      "summary_item_id": "sum_001",
+      "title": null,
+      "content": "",
+      "order": 1
+    },
+    {
+      "summary_item_id": "sum_002",
+      "title": null,
+      "content": "",
+      "order": 2
+    },
+    {
+      "summary_item_id": "sum_003",
+      "title": null,
+      "content": "",
+      "order": 3
+    },
+    {
+      "summary_item_id": "sum_004",
+      "title": null,
+      "content": "",
+      "order": 4
+    },
+    {
+      "summary_item_id": "sum_005",
+      "title": null,
+      "content": "",
+      "order": 5
+    },
+    {
+      "summary_item_id": "sum_006",
+      "title": null,
+      "content": "",
+      "order": 6
+    },
+    {
+      "summary_item_id": "sum_007",
+      "title": null,
+      "content": "",
+      "order": 7
+    }
+  ],
+  "questoes": [
+    {
+      "question_id": "qst_001",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": "CEBRASPE",
+      "year": 2023,
+      "organization": "Fictício (baseado em padrão CEBRASPE)",
+      "role": "Analista Administrativo",
+      "statement": "As entidades de apoio, por serem pessoas jurídicas de direito privado que colaboram com o Estado, integram a Administração Pública indireta, sujeitando-se ao regime jurídico de direito público em sua totalidade.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "A questão está ERRADA. As entidades de apoio são pessoas jurídicas de direito privado que colaboram com o Estado, mas NÃO integram a Administração Pública (direta ou indireta). O regime jurídico é híbrido, com derrogações de direito público apenas quando há aplicação de recursos estatais.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_001"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_002",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": "CEBRASPE",
+      "year": 2022,
+      "organization": "Fictício (baseado em padrão CEBRASPE)",
+      "role": "Técnico Administrativo",
+      "statement": "O principal instrumento jurídico que formaliza a relação entre as fundações de apoio e as instituições federais de ensino superior é o contrato de gestão, conforme previsto na Lei nº 8.958/1994.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "A questão está ERRADA. O principal instrumento que formaliza a relação entre as fundações de apoio e as IFES/ICTs, conforme a Lei nº 8.958/1994, é o convênio, embora também possam celebrar contratos. O contrato de gestão é o instrumento típico das Organizações Sociais (OS).",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_002"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_003",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": "CEBRASPE",
+      "year": 2024,
+      "organization": "Fictício (baseado em padrão CEBRASPE)",
+      "role": "Auditor",
+      "statement": "As Organizações Sociais (OS) e as Entidades de Apoio são qualificações jurídicas distintas, sendo que as OS celebram contrato de gestão e as Entidades de Apoio, em regra, convênios.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "A questão está CERTA. As Organizações Sociais (OS) são qualificadas pela Lei nº 9.637/1998 e celebram contrato de gestão. As Entidades de Apoio, por sua vez, não possuem uma qualificação específica como OS ou OSCIP e, em regra, formalizam suas parcerias por meio de convênios.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_003"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_004",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": "CEBRASPE",
+      "year": 2023,
+      "organization": "Fictício (baseado em padrão CEBRASPE)",
+      "role": "Procurador",
+      "statement": "Conforme entendimento do Superior Tribunal de Justiça, a responsabilidade civil das fundações privadas de apoio que prestam serviço público é subjetiva, e a pretensão indenizatória se submete ao prazo prescricional trienal do Código Civil.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "A questão está ERRADA. O Superior Tribunal de Justiça (STJ) firmou entendimento de que a responsabilidade civil das fundações privadas de apoio que prestam serviço público é OBJETIVA, e a pretensão indenizatória se submete ao prazo prescricional QUINQUENAL, previsto no art. 1º-C da Lei nº 9.494/1997.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_004"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_005",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": "CEBRASPE",
+      "year": 2022,
+      "organization": "Fictício (baseado em padrão CEBRASPE)",
+      "role": "Contador",
+      "statement": "As entidades de apoio, por serem pessoas jurídicas de direito privado, não estão sujeitas ao controle dos Tribunais de Contas, mesmo quando recebem recursos públicos.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "A questão está ERRADA. Embora sejam pessoas jurídicas de direito privado, as entidades de apoio estão sujeitas ao controle dos Tribunais de Contas e da própria Administração Pública quando recebem e gerenciam recursos públicos, em observância aos princípios da administração pública.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_005"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_006",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": "CEBRASPE",
+      "year": 2024,
+      "organization": "Fictício (baseado em padrão CEBRASPE)",
+      "role": "Analista Legislativo",
+      "statement": "A Lei nº 8.958/1994 estabelece um regime jurídico geral para todas as entidades de apoio, independentemente de sua vinculação a instituições federais de ensino ou pesquisa.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "A questão está ERRADA. A Lei nº 8.958/1994 disciplina especificamente as relações entre as instituições federais de ensino superior (IFES) e de pesquisa científica e tecnológica (ICTs) e as fundações de apoio, não sendo uma lei geral para todas as entidades de apoio.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_006"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_007",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": "CEBRASPE",
+      "year": 2023,
+      "organization": "MRE",
+      "role": "Oficial de Chancelaria (MRE)",
+      "statement": "As Organizações da Sociedade Civil de Interesse Público (OSCIP) são qualificadas por ato discricionário do Poder Executivo e celebram termo de parceria com a Administração Pública.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "A questão está ERRADA. As Organizações da Sociedade Civil de Interesse Público (OSCIP) são qualificadas por ato VINCULADO do Ministério da Justiça, com base na Lei nº 9.790/1999, e celebram termo de parceria. A qualificação discricionária é característica das Organizações Sociais (OS).",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_007"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_008",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": "CEBRASPE",
+      "year": 2022,
+      "organization": "Fictício (baseado em padrão CEBRASPE)",
+      "role": "Analista de Gestão",
+      "statement": "Os Serviços Sociais Autônomos, como o SESI e o SENAI, são entidades paraestatais que, embora de direito privado, dependem de lei para sua criação e se submetem a algumas regras de licitação e processo seletivo de pessoal.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "A questão está CERTA. Os Serviços Sociais Autônomos (Sistema S) são entidades paraestatais de direito privado, criadas por lei, que recebem contribuições parafiscais. Embora não integrem a Administração Pública, submetem-se a algumas regras de licitação e devem realizar processo seletivo de pessoal, em observância aos princípios administrativos.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_008"
+        ],
+        "count": 1
+      }
+    }
+  ],
+  "comentarios_questoes": [
+    {
+      "comment_id": "com_001",
+      "question_id": "qst_001",
+      "content": "A questão está ERRADA. As entidades de apoio são pessoas jurídicas de direito privado que colaboram com o Estado, mas NÃO integram a Administração Pública (direta ou indireta). O regime jurídico é híbrido, com derrogações de direito público apenas quando há aplicação de recursos estatais.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_002",
+      "question_id": "qst_002",
+      "content": "A questão está ERRADA. O principal instrumento que formaliza a relação entre as fundações de apoio e as IFES/ICTs, conforme a Lei nº 8.958/1994, é o convênio, embora também possam celebrar contratos. O contrato de gestão é o instrumento típico das Organizações Sociais (OS).",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_003",
+      "question_id": "qst_003",
+      "content": "A questão está CERTA. As Organizações Sociais (OS) são qualificadas pela Lei nº 9.637/1998 e celebram contrato de gestão. As Entidades de Apoio, por sua vez, não possuem uma qualificação específica como OS ou OSCIP e, em regra, formalizam suas parcerias por meio de convênios.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_004",
+      "question_id": "qst_004",
+      "content": "A questão está ERRADA. O Superior Tribunal de Justiça (STJ) firmou entendimento de que a responsabilidade civil das fundações privadas de apoio que prestam serviço público é OBJETIVA, e a pretensão indenizatória se submete ao prazo prescricional QUINQUENAL, previsto no art. 1º-C da Lei nº 9.494/1997.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_005",
+      "question_id": "qst_005",
+      "content": "A questão está ERRADA. Embora sejam pessoas jurídicas de direito privado, as entidades de apoio estão sujeitas ao controle dos Tribunais de Contas e da própria Administração Pública quando recebem e gerenciam recursos públicos, em observância aos princípios da administração pública.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_006",
+      "question_id": "qst_006",
+      "content": "A questão está ERRADA. A Lei nº 8.958/1994 disciplina especificamente as relações entre as instituições federais de ensino superior (IFES) e de pesquisa científica e tecnológica (ICTs) e as fundações de apoio, não sendo uma lei geral para todas as entidades de apoio.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_007",
+      "question_id": "qst_007",
+      "content": "A questão está ERRADA. As Organizações da Sociedade Civil de Interesse Público (OSCIP) são qualificadas por ato VINCULADO do Ministério da Justiça, com base na Lei nº 9.790/1999, e celebram termo de parceria. A qualificação discricionária é característica das Organizações Sociais (OS).",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_008",
+      "question_id": "qst_008",
+      "content": "A questão está CERTA. Os Serviços Sociais Autônomos (Sistema S) são entidades paraestatais de direito privado, criadas por lei, que recebem contribuições parafiscais. Embora não integrem a Administração Pública, submetem-se a algumas regras de licitação e devem realizar processo seletivo de pessoal, em observância aos princípios administrativos.",
+      "explanation_alternatives": ""
+    }
+  ],
+  "checklist_revisao": [
+    {
+      "checklist_id": "chk_001",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Compreender o conceito de Entidades de Apoio e sua natureza jurídica de direito privado.",
+      "completed": false,
+      "order": 1
+    },
+    {
+      "checklist_id": "chk_002",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Memorizar que NÃO integram a Administração Pública (direta ou indireta).",
+      "completed": false,
+      "order": 2
+    },
+    {
+      "checklist_id": "chk_003",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Identificar o convênio como principal instrumento de parceria.",
+      "completed": false,
+      "order": 3
+    },
+    {
+      "checklist_id": "chk_004",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Conhecer a Lei nº 8.958/1994 e sua aplicação às fundações de apoio a IFES/ICTs.",
+      "completed": false,
+      "order": 4
+    },
+    {
+      "checklist_id": "chk_005",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Distinguir claramente Entidades de Apoio de OS (contrato de gestão, Lei nº 9.637/98) e OSCIP (termo de parceria, Lei nº 9.790/99).",
+      "completed": false,
+      "order": 5
+    },
+    {
+      "checklist_id": "chk_006",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Entender o regime híbrido e a sujeição ao controle estatal e dos Tribunais de Contas.",
+      "completed": false,
+      "order": 6
+    },
+    {
+      "checklist_id": "chk_007",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Revisar o entendimento do STJ sobre responsabilidade objetiva e prescrição quinquenal.",
+      "completed": false,
+      "order": 7
+    },
+    {
+      "checklist_id": "chk_008",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Focar nas pegadinhas comuns da CEBRASPE relacionadas aos instrumentos jurídicos e à integração à AP.",
+      "completed": false,
+      "order": 8
+    }
+  ],
+  "referencias": [
+    {
+      "reference_id": "ref_001",
+      "material_id": "mat_001",
+      "reference_type": "doutrina",
+      "author_name": "DI PIETRO, Maria Sylvia Zanella",
+      "title": "Direito Administrativo",
+      "publisher": "Forense",
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://bdjur.stj.jus.br/jspui/handle/2011/166063",
+      "accessed_at": "2026-04-07",
+      "description": null
+    },
+    {
+      "reference_id": "ref_002",
+      "material_id": "mat_001",
+      "reference_type": "jurisprudencia",
+      "author_name": null,
+      "title": "AREsp 1.893.472-SP",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.youtube.com/watch?v=s0F9111-r4g",
+      "accessed_at": "2026-04-07",
+      "description": null
+    },
+    {
+      "reference_id": "ref_003",
+      "material_id": "mat_001",
+      "reference_type": "legislacao",
+      "author_name": null,
+      "title": "Lei nº 8.958, de 20 de dezembro de 1994",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "http://www.planalto.gov.br/ccivil_03/leis/L8958.htm",
+      "accessed_at": "2026-04-07",
+      "description": null
+    },
+    {
+      "reference_id": "ref_004",
+      "material_id": "mat_001",
+      "reference_type": "legislacao",
+      "author_name": null,
+      "title": "Lei nº 9.637, de 15 de maio de 1998",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "http://www.planalto.gov.br/ccivil_03/leis/L9637.htm",
+      "accessed_at": "2026-04-07",
+      "description": null
+    },
+    {
+      "reference_id": "ref_005",
+      "material_id": "mat_001",
+      "reference_type": "legislacao",
+      "author_name": null,
+      "title": "Lei nº 9.790, de 23 de março de 1999",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "http://www.planalto.gov.br/ccivil_03/leis/L9790.htm",
+      "accessed_at": "2026-04-07",
+      "description": null
+    },
+    {
+      "reference_id": "ref_006",
+      "material_id": "mat_001",
+      "reference_type": "artigo_online",
+      "author_name": "Estratégia Concursos",
+      "title": "Resumo das Entidades Paraestatais: o que saber sobre elas?",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.estrategiaconcursos.com.br/blog/resumo-das-entidades-paraestatais/",
+      "accessed_at": "2026-04-07",
+      "description": null
+    },
+    {
+      "reference_id": "ref_007",
+      "material_id": "mat_001",
+      "reference_type": "artigo_online",
+      "author_name": "Qconcursos",
+      "title": "Questões de Concurso sobre Entidades Paraestatais e o Terceiro Setor",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.qconcursos.com/questoes-de-concursos/disciplinas/direito-administrativo/entidades-paraestatais-e-o-terceiro-setor",
+      "accessed_at": "2026-04-07",
+      "description": null
+    },
+    {
+      "reference_id": "ref_008",
+      "material_id": "mat_001",
+      "reference_type": "artigo_online",
+      "author_name": "Blog do Mege",
+      "title": "Noções gerais de Administrativo: resumo sobre entes da cooperação",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://blogdomege.com.br/nocoes-gerais-de-administrativo-resumo-sobre-entes-da-cooperacao/",
+      "accessed_at": "2026-04-07",
+      "description": null
+    }
+  ],
+  "estatisticas_de_geracao": {
+    "total_topicos": 6,
+    "total_componentes_topico": 15,
+    "total_entendimentos_relevantes": 2,
+    "total_pegadinhas": 4,
+    "total_pontos_memorizacao": 5,
+    "total_itens_quadro_sinotico": 7,
+    "total_questoes": 8,
+    "total_comentarios_questoes": 8,
+    "total_itens_checklist": 8,
+    "total_referencias": 8
+  },
+  "validacao_interna": {
+    "pesquisa_previa_realizada": true,
+    "analise_de_cobrancas_anteriores_realizada": true,
+    "material_atualizado": true,
+    "json_valido": true,
+    "estrutura_relacional_respeitada": true,
+    "numeracao_respeitada": true,
+    "houve_quebra_de_hierarquia": false,
+    "houve_nivel_numerico_superior_a_3": true,
+    "fontes_verificadas": true,
+    "sem_informacao_inventada": true
+  },
+  "metadata": {
+    "source_file_name": "3__direito-administrativo__3-organização-administrativa-3.4-entidades-paraestatais-e-terceiro-setor-3.4.2-entidades-de-apoio.json",
+    "normalized_checksum": "f1205089e3f03d71f3b48ea840efd5d149851560ce3e8a131af229b130d0583d",
+    "subject_slug": "dir-adm",
+    "material_slug": "organizacao-administrativa-entidades",
+    "title_slug": "organizacao-administrativa-entidades-paraestatais",
+    "board_slug": "cebraspe",
+    "counters": {
+      "blocks": 5,
+      "topics": 6,
+      "topic_components": 15,
+      "traps": 4,
+      "memory_points": 5,
+      "summary_items": 7,
+      "questions": 8,
+      "question_comments": 8,
+      "checklist_items": 8,
+      "references": 8
+    }
+  }
+}

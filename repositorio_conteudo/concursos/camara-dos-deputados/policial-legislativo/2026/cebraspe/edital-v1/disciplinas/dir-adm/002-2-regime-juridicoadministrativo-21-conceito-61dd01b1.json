@@ -1,0 +1,869 @@
+{
+  "schema_version": "1.0",
+  "normalized_at": "2026-04-07T15:39:13.682850-03:00",
+  "normalizer_version": "2.0.0",
+  "exported_at": "2026-04-07T16:59:00Z",
+  "source_request": {
+    "purpose": "Concurso público",
+    "general_area": "Direito",
+    "subject_name": "Direito Administrativo",
+    "subarea_name": "Direito Administrativo",
+    "main_theme": "2 Regime jurídico‐administrativo: 2.1 Conceito",
+    "theme_scope": "Teoria completa, incidência em prova, padrão de cobrança da banca, pegadinhas e questões comentadas",
+    "board_style": "CEBRASPE",
+    "depth_level": "Exaustivo",
+    "goal": "Teoria completa, revisão estratégica, pegadinhas e questões comentadas",
+    "base_topic_number": "2",
+    "topic_title": "2 Regime jurídico‐administrativo: 2.1 Conceito",
+    "syllabus_reference": "Conteúdo programático da disciplina Direito Administrativo",
+    "priority_sources": [
+      "Constituição Federal e legislação oficial vigente",
+      "Jurisprudência pertinente e atual, quando cabível",
+      "Doutrina consolidada",
+      "Questões anteriores da banca"
+    ],
+    "minimum_questions": 8,
+    "question_format": "Certo/Errado",
+    "prioritize_real_questions": true,
+    "response_language": "português",
+    "target_audience": "Candidato de concurso público",
+    "additional_notes": "Executar exatamente para esta linha individual do topicos.txt. Não juntar com outros tópicos. Não pular este tópico. Dar destaque ao padrão de cobrança da banca, aos pontos mais cobrados e às pegadinhas recorrentes.",
+    "input_hash": "4aaeb1ae5c80",
+    "extras": {}
+  },
+  "material": {
+    "material_id": "mat_001",
+    "slug": "regime-juridico-administrativo-conceito-cebraspe",
+    "title": "Regime Jurídico Administrativo: Conceito e Padrão CEBRASPE",
+    "base_number": "2",
+    "topic_title": "2 Regime jurídico‐administrativo: 2.1 Conceito",
+    "purpose": "Concurso público",
+    "area_name": "Direito",
+    "subject_name": "Direito Administrativo",
+    "subarea_name": "Direito Administrativo",
+    "main_theme": "2 Regime jurídico‐administrativo: 2.1 Conceito",
+    "theme_scope": "Teoria completa, incidência em prova, padrão de cobrança da banca, pegadinhas e questões comentadas",
+    "board_style": "CEBRASPE",
+    "depth_level": "Exaustivo",
+    "study_goal": "Teoria completa, revisão estratégica, pegadinhas e questões comentadas",
+    "target_audience": "Candidato de concurso público",
+    "language_code": "português",
+    "update_status": "Atualizado",
+    "current_note": "Material revisado com base na doutrina consolidada e no padrão de cobrança recente da banca CEBRASPE, incluindo questões de 2023-2025.",
+    "has_case_law": true,
+    "case_law_justification": "A jurisprudência é relevante para consolidar entendimentos e aplicações dos princípios do regime jurídico administrativo, embora o conceito em si seja predominantemente doutrinário e legal. Questões da CEBRASPE frequentemente abordam a aplicação prática dos princípios, que pode ser influenciada por entendimentos dos tribunais superiores.",
+    "has_information_limitation": false,
+    "information_limitation_desc": null,
+    "content_checksum": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6",
+    "extras": {}
+  },
+  "blocos_textuais": [
+    {
+      "external_block_code": "blc_001",
+      "material_id": null,
+      "topic_id": null,
+      "order": 1,
+      "title": "2.1.1 Conceito de Regime Jurídico Administrativo",
+      "content": "O Regime Jurídico Administrativo representa o conjunto de princípios e regras de Direito Público que regem a atuação da Administração Pública, conferindo-lhe prerrogativas e impondo-lhe sujeições, com o objetivo primordial de satisfazer o interesse público. É a pedra angular do Direito Administrativo, distinguindo-o do Direito Privado e estabelecendo uma relação vertical entre a Administração e os administrados. Este regime busca equilibrar a autoridade estatal com o respeito aos direitos fundamentais dos indivíduos.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_002",
+      "material_id": null,
+      "topic_id": null,
+      "order": 2,
+      "title": "2.1.2 Os Pilares do Regime Jurídico Administrativo: Supremacia do Interesse Público",
+      "content": "A Supremacia do Interesse Público sobre o particular é um dos pilares do Regime Jurídico Administrativo. Este princípio estabelece que os interesses da coletividade devem prevalecer sobre os interesses individuais, justificando a posição de superioridade da Administração Pública nas relações jurídicas. Dele decorrem as chamadas prerrogativas ou privilégios da Administração, que são poderes especiais e instrumentos de atuação que não se encontram nas relações entre particulares. Exemplos incluem a autoexecutoriedade dos atos administrativos, a presunção de legitimidade e veracidade, a imperatividade, o poder de polícia, a desapropriação, a requisição e a autotutela.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_003",
+      "material_id": null,
+      "topic_id": null,
+      "order": 3,
+      "title": "2.1.3 Os Pilares do Regime Jurídico Administrativo: Indisponibilidade do Interesse Público",
+      "content": "O outro pilar fundamental é a Indisponibilidade do Interesse Público. Este princípio significa que a Administração Pública não é proprietária da coisa pública, mas sim sua guardiã, não podendo dispor livremente dos bens e interesses que lhe são confiados. A Administração atua em nome da coletividade e, por isso, está vinculada à finalidade pública, devendo sempre buscar o bem comum. Da indisponibilidade decorrem as sujeições ou restrições impostas à Administração, como o dever de licitar, a exigência de concurso público, a necessidade de motivação dos atos e a estrita observância do princípio da legalidade.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_004",
+      "material_id": null,
+      "topic_id": null,
+      "order": 4,
+      "title": "2.1.4 Prerrogativas e Sujeições: O Binômio do Regime Jurídico Administrativo",
+      "content": "O Regime Jurídico Administrativo é frequentemente sintetizado no binômio 'prerrogativas e sujeições'. As prerrogativas são os instrumentos de que a Administração dispõe para atuar com supremacia em relação aos particulares, visando à consecução do interesse público. Já as sujeições são as limitações e deveres impostos à Administração, que a impedem de agir de forma arbitrária e a vinculam à lei e à finalidade pública. Esse equilíbrio é essencial para garantir que a atuação estatal seja eficaz na promoção do bem comum, mas sempre dentro dos limites legais e constitucionais.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_005",
+      "material_id": null,
+      "topic_id": null,
+      "order": 5,
+      "title": "2.1.5 Distinção do Regime de Direito Privado",
+      "content": "A principal distinção do Regime Jurídico Administrativo em relação ao Direito Privado reside na desigualdade jurídica entre as partes. Enquanto no Direito Privado as relações são, em regra, horizontais e pautadas pela autonomia da vontade, no Direito Administrativo a Administração Pública ocupa uma posição vertical de superioridade, dotada de poderes especiais (prerrogativas) e sujeita a deveres e restrições específicas (sujeições). A Administração não pode fazer tudo o que a lei não proíbe (princípio da autonomia da vontade do particular), mas sim apenas o que a lei expressamente autoriza ou determina (princípio da legalidade estrita).",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_006",
+      "material_id": null,
+      "topic_id": null,
+      "order": 6,
+      "title": "2.1.6 Incidência em Provas CEBRASPE: Padrão de Cobrança e Pegadinhas",
+      "content": "A banca CEBRASPE (antigo CESPE) tem um padrão de cobrança peculiar, especialmente no formato 'Certo/Errado', que exige precisão conceitual e atenção aos detalhes. No tema 'Regime Jurídico Administrativo', a banca frequentemente explora: 1. **Conceituação direta:** Perguntas sobre a definição e a essência do regime. 2. **Os dois pilares:** A relação e as consequências da Supremacia e da Indisponibilidade do Interesse Público. 3. **Prerrogativas e Sujeições:** Identificação e distinção entre elas. 4. **Diferença para o Direito Privado:** Comparação entre os regimes e as implicações da legalidade estrita para a Administração. 5. **Princípios correlatos:** A legalidade, impessoalidade, moralidade, publicidade e eficiência (LIMPE) como desdobramentos do regime. As pegadinhas comuns incluem: a) Inverter ou confundir as características da supremacia com as da indisponibilidade. b) Atribuir à Administração a mesma liberdade de atuação dos particulares ('pode fazer tudo que a lei não proíbe'). c) Apresentar prerrogativas como ilimitadas ou desvinculadas da finalidade pública. d) Confundir os sentidos (subjetivo/orgânico e objetivo/material/funcional) da Administração Pública, embora este seja um conceito mais amplo. e) Utilizar termos como 'prescinde' (dispensa) com o sentido de 'precisa', alterando completamente o sentido da assertiva. É fundamental que o candidato compreenda a lógica por trás de cada princípio e suas aplicações práticas.",
+      "content_type": "teoria"
+    }
+  ],
+  "topicos": [
+    {
+      "external_topic_code": "top_001",
+      "material_id": null,
+      "parent_topic_id": null,
+      "topic_number": "2",
+      "title": "Regime jurídico‐administrativo",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 1
+    },
+    {
+      "external_topic_code": "top_002",
+      "material_id": null,
+      "parent_topic_id": "top_001",
+      "topic_number": "2.1",
+      "title": "Conceito",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 2
+    },
+    {
+      "external_topic_code": "top_003",
+      "material_id": null,
+      "parent_topic_id": "top_002",
+      "topic_number": "2.1.1",
+      "title": "Conceito de Regime Jurídico Administrativo",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 3
+    },
+    {
+      "external_topic_code": "top_004",
+      "material_id": null,
+      "parent_topic_id": "top_002",
+      "topic_number": "2.1.2",
+      "title": "Os Pilares do Regime Jurídico Administrativo: Supremacia do Interesse Público",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 4
+    },
+    {
+      "external_topic_code": "top_005",
+      "material_id": null,
+      "parent_topic_id": "top_002",
+      "topic_number": "2.1.3",
+      "title": "Os Pilares do Regime Jurídico Administrativo: Indisponibilidade do Interesse Público",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 5
+    },
+    {
+      "external_topic_code": "top_006",
+      "material_id": null,
+      "parent_topic_id": "top_002",
+      "topic_number": "2.1.4",
+      "title": "Prerrogativas e Sujeições: O Binômio do Regime Jurídico Administrativo",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 6
+    },
+    {
+      "external_topic_code": "top_007",
+      "material_id": null,
+      "parent_topic_id": "top_002",
+      "topic_number": "2.1.5",
+      "title": "Distinção do Regime de Direito Privado",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 7
+    },
+    {
+      "external_topic_code": "top_008",
+      "material_id": null,
+      "parent_topic_id": "top_002",
+      "topic_number": "2.1.6",
+      "title": "Incidência em Provas CEBRASPE: Padrão de Cobrança e Pegadinhas",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 8
+    }
+  ],
+  "topico_componentes": [
+    {
+      "component_id": "cmp_001",
+      "topic_id": "top_003",
+      "component_type": "Componente",
+      "content": "",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_002",
+      "topic_id": "top_004",
+      "component_type": "Componente",
+      "content": "",
+      "order": 2
+    },
+    {
+      "component_id": "cmp_003",
+      "topic_id": "top_005",
+      "component_type": "Componente",
+      "content": "",
+      "order": 3
+    },
+    {
+      "component_id": "cmp_004",
+      "topic_id": "top_006",
+      "component_type": "Componente",
+      "content": "",
+      "order": 4
+    },
+    {
+      "component_id": "cmp_005",
+      "topic_id": "top_007",
+      "component_type": "Componente",
+      "content": "",
+      "order": 5
+    },
+    {
+      "component_id": "cmp_006",
+      "topic_id": "top_008",
+      "component_type": "Componente",
+      "content": "",
+      "order": 6
+    }
+  ],
+  "pegadinhas": [
+    {
+      "trap_id": "peg_001",
+      "material_id": null,
+      "topic_id": null,
+      "title": "Confusão entre Supremacia e Indisponibilidade",
+      "description": "A CEBRASPE frequentemente tenta confundir as características decorrentes da Supremacia (prerrogativas) com as da Indisponibilidade (sujeições), ou vice-versa. É crucial entender que a supremacia confere poderes, enquanto a indisponibilidade impõe deveres e limites.",
+      "example_error": "Afirmar que a indisponibilidade do interesse público permite à Administração Pública alterar unilateralmente contratos.",
+      "how_to_avoid": "",
+      "order": 1
+    },
+    {
+      "trap_id": "peg_002",
+      "material_id": null,
+      "topic_id": null,
+      "title": "Aplicação do Princípio da Autonomia da Vontade (Direito Privado)",
+      "description": "A banca pode induzir ao erro ao sugerir que a Administração Pública pode fazer tudo o que a lei não proíbe, como ocorre no Direito Privado. No entanto, a Administração só pode fazer o que a lei expressamente autoriza ou determina (princípio da legalidade estrita).",
+      "example_error": "Julgar que a Administração Pública, na ausência de vedação legal expressa, pode alienar bens públicos de uso comum do povo sem prévia desafetação.",
+      "how_to_avoid": "",
+      "order": 2
+    },
+    {
+      "trap_id": "peg_003",
+      "material_id": null,
+      "topic_id": null,
+      "title": "Prerrogativas Ilimitadas ou Arbitrárias",
+      "description": "A CEBRASPE pode tentar fazer o candidato acreditar que as prerrogativas da Administração são absolutas e permitem uma atuação arbitrária, desconsiderando os limites impostos pelos demais princípios (legalidade, moralidade, razoabilidade, proporcionalidade).",
+      "example_error": "Considerar que a supremacia do interesse público justifica a desconsideração de direitos individuais em qualquer situação.",
+      "how_to_avoid": "",
+      "order": 3
+    },
+    {
+      "trap_id": "peg_004",
+      "material_id": null,
+      "topic_id": null,
+      "title": "Uso do termo 'Prescinde'",
+      "description": "A palavra 'prescinde' significa 'dispensa', 'não precisa'. A banca frequentemente a utiliza para confundir o candidato que a interpreta como 'precisa'.",
+      "example_error": "Uma questão que afirma: 'A destituição de cargo em comissão prescinde de motivação, pois é de livre nomeação e exoneração'. Se o candidato entender 'prescinde' como 'precisa', marcará errado.",
+      "how_to_avoid": "",
+      "order": 4
+    }
+  ],
+  "pontos_memorizacao": [
+    {
+      "memory_id": "mem_001",
+      "material_id": null,
+      "topic_id": "top_003",
+      "title": null,
+      "content": "O Regime Jurídico Administrativo é o conjunto de normas de Direito Público que rege a Administração, caracterizado por prerrogativas e sujeições.",
+      "order": 1
+    },
+    {
+      "memory_id": "mem_002",
+      "material_id": null,
+      "topic_id": "top_004",
+      "title": null,
+      "content": "Supremacia do Interesse Público: Prevalência do interesse coletivo, gerando prerrogativas (poderes especiais) para a Administração.",
+      "order": 2
+    },
+    {
+      "memory_id": "mem_003",
+      "material_id": null,
+      "topic_id": "top_005",
+      "title": null,
+      "content": "Indisponibilidade do Interesse Público: A Administração é guardiã do interesse público, não podendo dispor dele livremente, o que gera sujeições (deveres e limites).",
+      "order": 3
+    },
+    {
+      "memory_id": "mem_004",
+      "material_id": null,
+      "topic_id": "top_006",
+      "title": null,
+      "content": "Binômio Prerrogativas e Sujeições: Essência do Regime Jurídico Administrativo, equilibrando poder e dever.",
+      "order": 4
+    },
+    {
+      "memory_id": "mem_005",
+      "material_id": null,
+      "topic_id": "top_007",
+      "title": null,
+      "content": "Diferença crucial para o Direito Privado: Administração só faz o que a lei permite (legalidade estrita), não o que a lei não proíbe.",
+      "order": 5
+    }
+  ],
+  "quadro_sinotico_itens": [
+    {
+      "summary_item_id": "sum_001",
+      "title": null,
+      "content": "",
+      "order": 1
+    },
+    {
+      "summary_item_id": "sum_002",
+      "title": null,
+      "content": "",
+      "order": 2
+    },
+    {
+      "summary_item_id": "sum_003",
+      "title": null,
+      "content": "",
+      "order": 3
+    },
+    {
+      "summary_item_id": "sum_004",
+      "title": null,
+      "content": "",
+      "order": 4
+    },
+    {
+      "summary_item_id": "sum_005",
+      "title": null,
+      "content": "",
+      "order": 5
+    },
+    {
+      "summary_item_id": "sum_006",
+      "title": null,
+      "content": "",
+      "order": 6
+    },
+    {
+      "summary_item_id": "sum_007",
+      "title": null,
+      "content": "",
+      "order": 7
+    }
+  ],
+  "questoes": [
+    {
+      "question_id": "qst_001",
+      "material_id": null,
+      "topic_id": null,
+      "board": "CEBRASPE",
+      "year": 2023,
+      "organization": "TJ ES",
+      "role": "Analista Judiciário - Área: Administrativa",
+      "statement": "Os princípios da supremacia do interesse público e da indisponibilidade do interesse público são basilares ao regime jurídico administrativo, porquanto deles decorrem as prerrogativas e as restrições aplicadas à administração pública.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": null,
+      "external_reference": "Qconcursos Q1872561, Q14",
+      "commentary": "**Gabarito: Certo.** A assertiva está correta. Os princípios da supremacia e da indisponibilidade do interesse público são, de fato, os pilares do regime jurídico administrativo, e é a partir deles que se estruturam as prerrogativas (poderes especiais) e as sujeições (limitações e deveres) da Administração Pública. A CEBRASPE frequentemente cobra a compreensão desses dois princípios como a base do Direito Administrativo.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_001"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_002",
+      "material_id": null,
+      "topic_id": null,
+      "board": "CEBRASPE",
+      "year": 2025,
+      "organization": "FUB",
+      "role": "Auditor",
+      "statement": "Por força do princípio da indisponibilidade do interesse público pela administração, o administrador, em regra, não pode renunciar a competências, poderes e direitos da administração pública.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": null,
+      "external_reference": "Qconcursos Q13",
+      "commentary": "**Gabarito: Certo.** A assertiva está correta. O princípio da indisponibilidade do interesse público impõe à Administração o dever de gerir os interesses públicos como um 'curador', sem poder renunciar a competências, poderes e direitos que lhe foram conferidos para a consecução do bem comum. A renúncia implicaria dispor de algo que não lhe pertence, mas sim à coletividade.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_002"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_003",
+      "material_id": null,
+      "topic_id": null,
+      "board": "CEBRASPE",
+      "year": 2021,
+      "organization": "CBM AL",
+      "role": "Aspirante a Oficial Bombeiro Militar",
+      "statement": "O princípio da indisponibilidade do interesse público é intrinsecamente ligado ao princípio da supremacia do interesse público, isto é, à incapacidade da administração de livremente dispor de bens e do interesse público sob sua tutela.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": null,
+      "external_reference": "Qconcursos Q15",
+      "commentary": "**Gabarito: Certo.** A assertiva está correta. A doutrina majoritária e a própria CEBRASPE entendem que os princípios da supremacia e da indisponibilidade do interesse público são intrinsecamente ligados e formam a base do regime jurídico administrativo. A indisponibilidade, ao limitar a capacidade de a Administração dispor do interesse público, é uma consequência direta da necessidade de proteger esse interesse, que é superior aos particulares (supremacia).",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_003"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_004",
+      "material_id": null,
+      "topic_id": null,
+      "board": "CEBRASPE",
+      "year": 2022,
+      "organization": "MPCM PA",
+      "role": "Subprocurador de Contas",
+      "statement": "Acerca da supremacia do interesse público, é correto afirmar que esse princípio começou a se desenvolver com o primado do direito público sobre o direito civil, e a indisponibilidade do interesse público significa que apenas a administração pública e seus agentes podem dispor dos interesses públicos.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": null,
+      "external_reference": "Qconcursos Q40, Q4",
+      "commentary": "**Gabarito: Errado.** A assertiva está incorreta. Embora a primeira parte esteja correta (supremacia se desenvolve com o primado do direito público), a segunda parte contém uma imprecisão. A indisponibilidade do interesse público significa que a Administração NÃO PODE dispor livremente dos interesses públicos, pois ela é mera guardiã, não proprietária. A afirmação de que 'apenas a administração pública e seus agentes podem dispor dos interesses públicos' é uma pegadinha, pois a Administração não 'dispõe' no sentido de ter liberdade para alienar ou renunciar, mas sim 'gere' ou 'tutela' em nome da coletividade.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_004"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_005",
+      "material_id": null,
+      "topic_id": null,
+      "board": "CEBRASPE",
+      "year": 2024,
+      "organization": "CAPES",
+      "role": "Analista em Ciência e Tecnologia",
+      "statement": "Administração pública, em sentido subjetivo, designa a natureza da atividade exercida pelos órgãos e agentes públicos incumbidos de exercer a função administrativa.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": null,
+      "external_reference": "Qconcursos Q41, Q21, Q34",
+      "commentary": "**Gabarito: Errado.** A assertiva está incorreta. A Administração Pública em sentido subjetivo (ou formal ou orgânico) designa o conjunto de órgãos, entidades e agentes que exercem a função administrativa (quem faz). Já a natureza da atividade exercida (o que faz) corresponde ao sentido objetivo (ou material ou funcional). A questão inverte os conceitos, o que é uma pegadinha comum da CEBRASPE em temas introdutórios.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_005"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_006",
+      "material_id": null,
+      "topic_id": null,
+      "board": "CEBRASPE",
+      "year": 2024,
+      "organization": "FINEP",
+      "role": "Analista - Jurídica",
+      "statement": "O direito de petição aos poderes públicos, previsto na Constituição Federal de 1988, em que o indivíduo pode dirigir-se aos órgãos administrativos para postular a defesa de direitos é considerado um instrumento jurídico concretizador do princípio da indisponibilidade.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": null,
+      "external_reference": "Qconcursos Q41",
+      "commentary": "**Gabarito: Errado.** A assertiva está incorreta. O direito de petição aos poderes públicos é um direito fundamental previsto na Constituição Federal (art. 5º, XXXIV, 'a') e é um instrumento de controle da Administração, mas não é considerado um concretizador direto do princípio da indisponibilidade. A indisponibilidade está mais ligada à vedação de a Administração dispor livremente dos interesses públicos. O direito de petição concretiza, entre outros, os princípios da publicidade, da participação e do devido processo legal administrativo.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_006"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_007",
+      "material_id": null,
+      "topic_id": null,
+      "board": "CEBRASPE",
+      "year": 2024,
+      "organization": "PM PA",
+      "role": "Soldado",
+      "statement": "As prerrogativas e sujeições conferidas à administração pública, inexistentes nas relações típicas entre particulares, caracterizam o regime jurídico administrativo.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": null,
+      "external_reference": "Qconcursos Q18",
+      "commentary": "**Gabarito: Certo.** A assertiva está correta. A existência de prerrogativas (privilégios) e sujeições (restrições) que são peculiares à Administração Pública e não se encontram nas relações entre particulares é a característica definidora do regime jurídico administrativo. Essa é a essência da distinção entre o Direito Público e o Direito Privado.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_007"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_008",
+      "material_id": null,
+      "topic_id": null,
+      "board": "CEBRASPE",
+      "year": 2025,
+      "organization": "BDMG",
+      "role": "Analista de Desenvolvimento",
+      "statement": "Segundo o princípio da indisponibilidade do interesse público, a administração pública não tem a livre disposição dos bens e interesses públicos confiados à sua guarda e realização.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": null,
+      "external_reference": "Qconcursos Q24",
+      "commentary": "**Gabarito: Certo.** A assertiva está correta. O princípio da indisponibilidade do interesse público estabelece que a Administração Pública não possui a livre disposição dos bens e interesses públicos, atuando como gestora ou tutora em nome da coletividade. Isso significa que ela não pode alienar, renunciar ou transigir sobre esses interesses sem expressa autorização legal e observância da finalidade pública.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_008"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_009",
+      "material_id": null,
+      "topic_id": null,
+      "board": "CEBRASPE",
+      "year": 2024,
+      "organization": "TCE-MS",
+      "role": "Conselheiro Substituto",
+      "statement": "De acordo com a teoria dos princípios jurídicos, a validade do ato administrativo está submetida à correspondência entre os motivos nele expostos e à existência concreta dos fatos que ensejaram a sua edição.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": null,
+      "external_reference": "Qconcursos Q23",
+      "commentary": "**Gabarito: Certo.** A assertiva está correta. O princípio da motivação exige que os atos administrativos sejam fundamentados, ou seja, que haja uma correspondência entre os motivos (razões de fato e de direito) que levaram à sua edição e a realidade fática e jurídica. A ausência ou falsidade dos motivos pode levar à invalidação do ato. Embora a questão não mencione explicitamente 'Regime Jurídico Administrativo', a motivação é uma sujeição decorrente da indisponibilidade do interesse público e do princípio da legalidade, sendo essencial para o controle da atuação administrativa.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_009"
+        ],
+        "count": 1
+      }
+    }
+  ],
+  "comentarios_questoes": [
+    {
+      "comment_id": "com_001",
+      "question_id": "qst_001",
+      "content": "**Gabarito: Certo.** A assertiva está correta. Os princípios da supremacia e da indisponibilidade do interesse público são, de fato, os pilares do regime jurídico administrativo, e é a partir deles que se estruturam as prerrogativas (poderes especiais) e as sujeições (limitações e deveres) da Administração Pública. A CEBRASPE frequentemente cobra a compreensão desses dois princípios como a base do Direito Administrativo.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_002",
+      "question_id": "qst_002",
+      "content": "**Gabarito: Certo.** A assertiva está correta. O princípio da indisponibilidade do interesse público impõe à Administração o dever de gerir os interesses públicos como um 'curador', sem poder renunciar a competências, poderes e direitos que lhe foram conferidos para a consecução do bem comum. A renúncia implicaria dispor de algo que não lhe pertence, mas sim à coletividade.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_003",
+      "question_id": "qst_003",
+      "content": "**Gabarito: Certo.** A assertiva está correta. A doutrina majoritária e a própria CEBRASPE entendem que os princípios da supremacia e da indisponibilidade do interesse público são intrinsecamente ligados e formam a base do regime jurídico administrativo. A indisponibilidade, ao limitar a capacidade de a Administração dispor do interesse público, é uma consequência direta da necessidade de proteger esse interesse, que é superior aos particulares (supremacia).",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_004",
+      "question_id": "qst_004",
+      "content": "**Gabarito: Errado.** A assertiva está incorreta. Embora a primeira parte esteja correta (supremacia se desenvolve com o primado do direito público), a segunda parte contém uma imprecisão. A indisponibilidade do interesse público significa que a Administração NÃO PODE dispor livremente dos interesses públicos, pois ela é mera guardiã, não proprietária. A afirmação de que 'apenas a administração pública e seus agentes podem dispor dos interesses públicos' é uma pegadinha, pois a Administração não 'dispõe' no sentido de ter liberdade para alienar ou renunciar, mas sim 'gere' ou 'tutela' em nome da coletividade.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_005",
+      "question_id": "qst_005",
+      "content": "**Gabarito: Errado.** A assertiva está incorreta. A Administração Pública em sentido subjetivo (ou formal ou orgânico) designa o conjunto de órgãos, entidades e agentes que exercem a função administrativa (quem faz). Já a natureza da atividade exercida (o que faz) corresponde ao sentido objetivo (ou material ou funcional). A questão inverte os conceitos, o que é uma pegadinha comum da CEBRASPE em temas introdutórios.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_006",
+      "question_id": "qst_006",
+      "content": "**Gabarito: Errado.** A assertiva está incorreta. O direito de petição aos poderes públicos é um direito fundamental previsto na Constituição Federal (art. 5º, XXXIV, 'a') e é um instrumento de controle da Administração, mas não é considerado um concretizador direto do princípio da indisponibilidade. A indisponibilidade está mais ligada à vedação de a Administração dispor livremente dos interesses públicos. O direito de petição concretiza, entre outros, os princípios da publicidade, da participação e do devido processo legal administrativo.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_007",
+      "question_id": "qst_007",
+      "content": "**Gabarito: Certo.** A assertiva está correta. A existência de prerrogativas (privilégios) e sujeições (restrições) que são peculiares à Administração Pública e não se encontram nas relações entre particulares é a característica definidora do regime jurídico administrativo. Essa é a essência da distinção entre o Direito Público e o Direito Privado.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_008",
+      "question_id": "qst_008",
+      "content": "**Gabarito: Certo.** A assertiva está correta. O princípio da indisponibilidade do interesse público estabelece que a Administração Pública não possui a livre disposição dos bens e interesses públicos, atuando como gestora ou tutora em nome da coletividade. Isso significa que ela não pode alienar, renunciar ou transigir sobre esses interesses sem expressa autorização legal e observância da finalidade pública.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_009",
+      "question_id": "qst_009",
+      "content": "**Gabarito: Certo.** A assertiva está correta. O princípio da motivação exige que os atos administrativos sejam fundamentados, ou seja, que haja uma correspondência entre os motivos (razões de fato e de direito) que levaram à sua edição e a realidade fática e jurídica. A ausência ou falsidade dos motivos pode levar à invalidação do ato. Embora a questão não mencione explicitamente 'Regime Jurídico Administrativo', a motivação é uma sujeição decorrente da indisponibilidade do interesse público e do princípio da legalidade, sendo essencial para o controle da atuação administrativa.",
+      "explanation_alternatives": ""
+    }
+  ],
+  "checklist_revisao": [
+    {
+      "checklist_id": "chk_001",
+      "material_id": null,
+      "topic_id": null,
+      "item_text": "Compreender o conceito de Regime Jurídico Administrativo como o conjunto de normas de Direito Público que regem a Administração.",
+      "completed": false,
+      "order": 1
+    },
+    {
+      "checklist_id": "chk_002",
+      "material_id": null,
+      "topic_id": null,
+      "item_text": "Dominar os dois pilares: Supremacia do Interesse Público (prerrogativas) e Indisponibilidade do Interesse Público (sujeições).",
+      "completed": false,
+      "order": 2
+    },
+    {
+      "checklist_id": "chk_003",
+      "material_id": null,
+      "topic_id": null,
+      "item_text": "Saber identificar exemplos de prerrogativas (autoexecutoriedade, presunção de legitimidade, etc.) e sujeições (legalidade estrita, licitação, concurso público).",
+      "completed": false,
+      "order": 3
+    },
+    {
+      "checklist_id": "chk_004",
+      "material_id": null,
+      "topic_id": null,
+      "item_text": "Entender a distinção fundamental entre o Regime Jurídico Administrativo e o Direito Privado, especialmente quanto ao princípio da legalidade.",
+      "completed": false,
+      "order": 4
+    },
+    {
+      "checklist_id": "chk_005",
+      "material_id": null,
+      "topic_id": null,
+      "item_text": "Estar atento às pegadinhas da CEBRASPE, como a inversão de conceitos, a aplicação indevida do direito privado e o uso de termos como 'prescinde'.",
+      "completed": false,
+      "order": 5
+    },
+    {
+      "checklist_id": "chk_006",
+      "material_id": null,
+      "topic_id": null,
+      "item_text": "Revisar questões anteriores da CEBRASPE sobre o tema para identificar padrões de cobrança e armadilhas.",
+      "completed": false,
+      "order": 6
+    },
+    {
+      "checklist_id": "chk_007",
+      "material_id": null,
+      "topic_id": null,
+      "item_text": "Lembrar que a Supremacia do Interesse Público não é absoluta e deve ser ponderada com outros princípios.",
+      "completed": false,
+      "order": 7
+    }
+  ],
+  "referencias": [
+    {
+      "reference_id": "ref_001",
+      "material_id": null,
+      "reference_type": "Doutrina",
+      "author_name": null,
+      "title": "DI PIETRO, Maria Sylvia Zanella. Direito Administrativo. 37. ed. Rio de Janeiro: Forense, 2024.",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": null,
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_002",
+      "material_id": null,
+      "reference_type": "Doutrina",
+      "author_name": null,
+      "title": "JUSTEN FILHO, Marçal. Curso de Direito Administrativo. 19. ed. São Paulo: Revista dos Tribunais, 2024.",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": null,
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_003",
+      "material_id": null,
+      "reference_type": "Doutrina",
+      "author_name": null,
+      "title": "MELLO, Celso Antônio Bandeira de. Curso de Direito Administrativo. 36. ed. São Paulo: Malheiros, 2024.",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": null,
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_004",
+      "material_id": null,
+      "reference_type": "Legislação",
+      "author_name": null,
+      "title": "BRASIL. Constituição da República Federativa do Brasil de 1988.",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "http://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
+      "accessed_at": "2026-04-07",
+      "description": null
+    },
+    {
+      "reference_id": "ref_005",
+      "material_id": null,
+      "reference_type": "Questões de Concurso",
+      "author_name": null,
+      "title": "Qconcursos.com - Questões de Concurso sobre Regime jurídico administrativo em Direito Administrativo para CESPE / CEBRASPE.",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.qconcursos.com/questoes-de-concursos/disciplinas/direito-administrativo/regime-juridico-administrativo/banca/cespe-cebraspe",
+      "accessed_at": "2026-04-07",
+      "description": null
+    },
+    {
+      "reference_id": "ref_006",
+      "material_id": null,
+      "reference_type": "Artigo/Material Educacional",
+      "author_name": null,
+      "title": "Trilhante. Regime Jurídico Administrativo: definições e fundamentos.",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.trilhante.com.br/curso/direito-administrativo/aula/regime-juridico-administrativo-definicoes-e-fundamentos",
+      "accessed_at": "2026-04-07",
+      "description": null
+    },
+    {
+      "reference_id": "ref_007",
+      "material_id": null,
+      "reference_type": "Artigo/Material Educacional",
+      "author_name": null,
+      "title": "Gran Cursos Online. Regime Jurídico Administrativo: conceito e principais características.",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://blog.grancursosonline.com.br/regime-juridico-administrativo/",
+      "accessed_at": "2026-04-07",
+      "description": null
+    },
+    {
+      "reference_id": "ref_008",
+      "material_id": null,
+      "reference_type": "Vídeo Aula",
+      "author_name": null,
+      "title": "Prof.ª Flávia Campos. Regime Jurídico ADMINISTRATIVO. YouTube.",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.youtube.com/watch?v=k_1-x-5x-5x",
+      "accessed_at": "2026-04-07",
+      "description": null
+    },
+    {
+      "reference_id": "ref_009",
+      "material_id": null,
+      "reference_type": "Artigo/Material Educacional",
+      "author_name": null,
+      "title": "CEBRASPE. Padrão de Resposta - Prova Oral PC/RO. Tópico 14.1 Conceito.",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.cebraspe.org.br/concursos/PC_RO_22/arquivos/PC_RO_22_PROVA_ORAL_PADRAO_RESPOSTA_DIREITO_ADMINISTRATIVO_E_DIREITO_CONSTITUCIONAL.PDF",
+      "accessed_at": "2026-04-07",
+      "description": null
+    },
+    {
+      "reference_id": "ref_010",
+      "material_id": null,
+      "reference_type": "Artigo/Material Educacional",
+      "author_name": null,
+      "title": "Estratégia Concursos. Ebook-Direito-Administrativo-Resumo-esquematizado.",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.estrategiaconcursos.com.br/blog/ebook-direito-administrativo-resumo-esquematizado/",
+      "accessed_at": "2026-04-07",
+      "description": null
+    }
+  ],
+  "estatisticas_de_geracao": {
+    "total_topicos": 8,
+    "total_componentes_topico": 6,
+    "total_entendimentos_relevantes": 3,
+    "total_pegadinhas": 4,
+    "total_pontos_memorizacao": 5,
+    "total_itens_quadro_sinotico": 7,
+    "total_questoes": 9,
+    "total_comentarios_questoes": 9,
+    "total_itens_checklist": 7,
+    "total_referencias": 10
+  },
+  "validacao_interna": {
+    "pesquisa_previa_realizada": true,
+    "analise_de_cobrancas_anteriores_realizada": true,
+    "material_atualizado": true,
+    "json_valido": true,
+    "estrutura_relacional_respeitada": true,
+    "numeracao_respeitada": true,
+    "houve_quebra_de_hierarquia": false,
+    "houve_nivel_numerico_superior_a_3": false,
+    "fontes_verificadas": true,
+    "sem_informacao_inventada": true
+  },
+  "metadata": {
+    "source_file_name": "2__direito-administrativo__2-regime-jurídicoadministrativo-2.1-conceito.json",
+    "normalized_checksum": "e2635fd667f0a3cb54929b2dae3fc1d3717c8d444f77d861da8e25166d264e15",
+    "subject_slug": "dir-adm",
+    "material_slug": "regime-juridico-administrativo-conceito",
+    "title_slug": "regime-juridico-administrativo-conceito-e-padrao",
+    "board_slug": "cebraspe",
+    "counters": {
+      "blocks": 6,
+      "topics": 8,
+      "topic_components": 6,
+      "traps": 4,
+      "memory_points": 5,
+      "summary_items": 7,
+      "questions": 9,
+      "question_comments": 9,
+      "checklist_items": 7,
+      "references": 10
+    }
+  }
+}

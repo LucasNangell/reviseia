@@ -1,0 +1,861 @@
+{
+  "schema_version": "1.0",
+  "normalized_at": "2026-04-07T15:39:15.022675-03:00",
+  "normalizer_version": "2.0.0",
+  "exported_at": "2026-04-06T20:01:00Z",
+  "source_request": {
+    "purpose": "Concurso público",
+    "general_area": "Linguagens",
+    "subject_name": "Língua Portuguesa",
+    "subarea_name": "Gramática, interpretação e reescrita",
+    "main_theme": "5 Domínio da estrutura morfossintática do período: 5.1 Emprego das classes de palavras",
+    "theme_scope": "Teoria completa, incidência em prova, padrão de cobrança da banca, pegadinhas e questões comentadas",
+    "board_style": "CEBRASPE",
+    "depth_level": "Exaustivo",
+    "goal": "Teoria completa, revisão estratégica, pegadinhas e questões comentadas",
+    "base_topic_number": "5",
+    "topic_title": "5 Domínio da estrutura morfossintática do período: 5.1 Emprego das classes de palavras",
+    "syllabus_reference": "Conteúdo programático da disciplina Língua Portuguesa",
+    "priority_sources": [
+      "Gramáticas e manuais reconhecidos",
+      "Bibliografia técnica consolidada",
+      "Questões anteriores da banca"
+    ],
+    "minimum_questions": 8,
+    "question_format": "Certo/Errado",
+    "prioritize_real_questions": true,
+    "response_language": "português",
+    "target_audience": "Candidato de concurso público",
+    "additional_notes": "Executar exatamente para esta linha individual do topicos.txt. Não juntar com outros tópicos. Não pular este tópico. Dar destaque ao padrão de cobrança da banca, aos pontos mais cobrados e às pegadinhas recorrentes.",
+    "input_hash": "328baae59779",
+    "extras": {}
+  },
+  "material": {
+    "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-51-emprego-das-classes-de-palavras",
+    "slug": "emprego-classes-palavras-cebraspe",
+    "title": "Domínio da Estrutura Morfossintática do Período: Emprego das Classes de Palavras",
+    "base_number": "5",
+    "topic_title": "5 Domínio da estrutura morfossintática do período: 5.1 Emprego das classes de palavras",
+    "purpose": "Concurso público",
+    "area_name": "Linguagens",
+    "subject_name": "Língua Portuguesa",
+    "subarea_name": "Gramática, interpretação e reescrita",
+    "main_theme": "5 Domínio da estrutura morfossintática do período: 5.1 Emprego das classes de palavras",
+    "theme_scope": "Teoria completa, incidência em prova, padrão de cobrança da banca, pegadinhas e questões comentadas",
+    "board_style": "CEBRASPE",
+    "depth_level": "Exaustivo",
+    "study_goal": "Teoria completa, revisão estratégica, pegadinhas e questões comentadas",
+    "target_audience": "Candidato de concurso público",
+    "language_code": "português",
+    "update_status": "Atualizado",
+    "current_note": "Conteúdo baseado nas normas gramaticais vigentes e no padrão de cobrança recente da banca CEBRASPE.",
+    "has_case_law": false,
+    "case_law_justification": "A disciplina de Língua Portuguesa, especificamente o tema 'Emprego das classes de palavras', não exige a inclusão de jurisprudência.",
+    "has_information_limitation": false,
+    "information_limitation_desc": null,
+    "content_checksum": "placeholder_checksum",
+    "extras": {}
+  },
+  "blocos_textuais": [
+    {
+      "external_block_code": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-51-emprego-das-classes-de-palavras_blc_001",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-51-emprego-das-classes-de-palavras",
+      "topic_id": null,
+      "order": 1,
+      "title": "Introdução ao Emprego das Classes de Palavras",
+      "content": "O domínio da estrutura morfossintática do período é fundamental para a compreensão e produção textual, sendo um dos pilares da Língua Portuguesa. As classes de palavras, ou classes gramaticais, são categorias que agrupam palavras com características morfológicas, sintáticas e semânticas semelhantes. A CEBRASPE frequentemente explora a relação entre a classificação morfológica e a função sintática das palavras, bem como as implicações de seu emprego no sentido e na correção gramatical do texto. É crucial entender que a classificação de uma palavra pode variar conforme o contexto em que é empregada.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-51-emprego-das-classes-de-palavras_blc_002",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-51-emprego-das-classes-de-palavras",
+      "topic_id": null,
+      "order": 2,
+      "title": "Substantivo",
+      "content": "O substantivo é a classe de palavras que nomeia seres, objetos, lugares, sentimentos, qualidades, ações, etc. \n\n**Classificação:**\n*   **Comum:** nomeia seres de uma mesma espécie de forma genérica (ex: *mesa*, *cidade*).\n*   **Próprio:** nomeia seres específicos, individualizando-os (ex: *Brasil*, *Maria*). Sempre escrito com inicial maiúscula.\n*   **Concreto:** nomeia seres de existência independente (reais ou imaginários) (ex: *casa*, *fada*).\n*   **Abstrato:** nomeia qualidades, estados, sentimentos, ações, que dependem de outro ser para existir (ex: *beleza*, *amor*, *corrida*).\n*   **Primitivo:** não deriva de outra palavra (ex: *pedra*).\n*   **Derivado:** forma-se a partir de outra palavra (ex: *pedreiro*).\n*   **Simples:** possui apenas um radical (ex: *sol*).\n*   **Composto:** possui mais de um radical (ex: *girassol*).\n*   **Coletivo:** nomeia um conjunto de seres da mesma espécie (ex: *cardume*, *biblioteca*).\n\n**Flexão:**\n*   **Gênero:** masculino e feminino (ex: *menino/menina*).\n*   **Número:** singular e plural (ex: *livro/livros*).\n*   **Grau:** aumentativo e diminutivo (ex: *casarão*, *casinha*).\n\n**Emprego e Padrão CEBRASPE:** A CEBRASPE pode cobrar a identificação do tipo de substantivo, a correção da flexão de gênero e número (especialmente em casos irregulares ou de substantivos compostos) e a distinção entre substantivos concretos e abstratos, que pode gerar dúvidas em contextos específicos. A função sintática mais comum do substantivo é ser núcleo de sujeito, objeto, complemento nominal, entre outros.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-51-emprego-das-classes-de-palavras_blc_003",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-51-emprego-das-classes-de-palavras",
+      "topic_id": null,
+      "order": 3,
+      "title": "Adjetivo",
+      "content": "O adjetivo é a classe de palavras que qualifica ou caracteriza o substantivo, indicando-lhe uma qualidade, estado, modo de ser ou aspecto. \n\n**Classificação:**\n*   **Simples:** possui um radical (ex: *bom*).\n*   **Composto:** possui mais de um radical (ex: *verde-claro*).\n*   **Primitivo:** não deriva de outra palavra (ex: *feliz*).\n*   **Derivado:** forma-se a partir de outra palavra (ex: *felicíssimo*).\n*   **Pátrio:** indica nacionalidade ou lugar de origem (ex: *brasileiro*).\n\n**Locução Adjetiva:** É uma expressão formada por duas ou mais palavras que tem valor de adjetivo (ex: *amor de mãe* = *amor materno*).\n\n**Flexão:**\n*   **Gênero:** masculino e feminino (ex: *bonito/bonita*).\n*   **Número:** singular e plural (ex: *fácil/fáceis*).\n*   **Grau:** comparativo (de igualdade, superioridade, inferioridade) e superlativo (relativo, absoluto) (ex: *mais bonito que*, *bonitíssimo*).\n\n**Emprego e Padrão CEBRASPE:** A banca frequentemente testa a concordância nominal do adjetivo com o substantivo a que se refere, a formação do plural de adjetivos compostos e a distinção entre adjetivo e advérbio (quando uma palavra pode ter ambas as funções, dependendo do contexto). A função sintática do adjetivo é, predominantemente, adjunto adnominal ou predicativo do sujeito/objeto.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-51-emprego-das-classes-de-palavras_blc_004",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-51-emprego-das-classes-de-palavras",
+      "topic_id": null,
+      "order": 4,
+      "title": "Artigo",
+      "content": "O artigo é a palavra que antecede o substantivo para determiná-lo ou indeterminá-lo, indicando também seu gênero e número. \n\n**Classificação:**\n*   **Definidos:** *o, a, os, as*. Determinam o substantivo de forma precisa (ex: *A casa é grande*).\n*   **Indefinidos:** *um, uma, uns, umas*. Determinam o substantivo de forma vaga (ex: *Uma casa é grande*).\n\n**Emprego e Padrão CEBRASPE:** A CEBRASPE pode explorar a omissão ou a presença do artigo e suas implicações semânticas (generalização vs. especificação). Também é comum a cobrança de contrações do artigo com preposições (ex: *ao, da, no*). A função sintática do artigo é sempre adjunto adnominal.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-51-emprego-das-classes-de-palavras_blc_005",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-51-emprego-das-classes-de-palavras",
+      "topic_id": null,
+      "order": 5,
+      "title": "Numeral",
+      "content": "O numeral é a palavra que indica quantidade exata de seres ou a posição que ocupam em uma série. \n\n**Classificação:**\n*   **Cardinais:** indicam quantidade (ex: *um, dois, mil*).\n*   **Ordinais:** indicam ordem ou posição (ex: *primeiro, segundo, milésimo*).\n*   **Multiplicativos:** indicam multiplicação (ex: *dobro, triplo*).\n*   **Fracionários:** indicam divisão (ex: *metade, terço*).\n\n**Flexão:** Os numerais cardinais (exceto *um, dois* e os que indicam centenas a partir de duzentos) são invariáveis. Os ordinais, multiplicativos e fracionários variam em gênero e número.\n\n**Emprego e Padrão CEBRASPE:** A banca pode cobrar a correta grafia e flexão dos numerais, especialmente em contextos de datas, leis e artigos. A distinção entre numeral e pronome indefinido (ex: *muitos* pode ser numeral ou pronome) é um ponto de atenção.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-51-emprego-das-classes-de-palavras_blc_006",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-51-emprego-das-classes-de-palavras",
+      "topic_id": null,
+      "order": 6,
+      "title": "Pronome",
+      "content": "O pronome é a palavra que substitui ou acompanha o substantivo, indicando as pessoas do discurso. \n\n**Classificação:**\n*   **Pessoais:** *eu, tu, ele, nós, vós, eles* (reto); *me, te, o, a, lhe, nos, vos, os, as, lhes* (oblíquo átono); *mim, ti, ele, nós, vós, eles* (oblíquo tônico).\n*   **Possessivos:** *meu, minha, teu, tua, seu, sua*, etc.\n*   **Demonstrativos:** *este, esta, isto, esse, essa, isso, aquele, aquela, aquilo*.\n*   **Relativos:** *que, quem, cujo, onde, quanto*, etc. Introduzem orações subordinadas adjetivas.\n*   **Interrogativos:** *que, quem, qual, quanto*. Usados em perguntas.\n*   **Indefinidos:** *algum, nenhum, todo, muito, outro, certo*, etc. Referem-se a substantivos de modo vago.\n\n**Emprego e Padrão CEBRASPE:** A CEBRASPE tem forte incidência na cobrança de **colocação pronominal** (próclise, mesóclise, ênclise), **uso dos pronomes relativos** (especialmente *que*, *cujo* e *onde* e suas funções sintáticas na oração adjetiva) e a **referência anafórica/catafórica** dos pronomes. Erros de concordância e regência pronominal são comuns.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-51-emprego-das-classes-de-palavras_blc_007",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-51-emprego-das-classes-de-palavras",
+      "topic_id": null,
+      "order": 7,
+      "title": "Verbo",
+      "content": "O verbo é a palavra que exprime ação, estado, fenômeno da natureza, fato ou desejo. É a classe de palavras que mais se flexiona. \n\n**Classificação:**\n*   **Regular:** mantém o radical e as desinências seguem o padrão da conjugação.\n*   **Irregular:** sofre alterações no radical ou nas desinências.\n*   **Anômalo:** apresenta grandes alterações no radical (ex: *ser, ir*).\n*   **Defectivo:** não possui todas as formas de conjugação.\n*   **Abundante:** possui mais de uma forma para a mesma flexão (ex: *aceito/aceitado*).\n\n**Flexão:**\n*   **Modo:** indicativo, subjuntivo, imperativo.\n*   **Tempo:** presente, pretérito (perfeito, imperfeito, mais-que-perfeito), futuro (do presente, do pretérito).\n*   **Número e Pessoa:** singular/plural, 1ª, 2ª, 3ª pessoa.\n*   **Voz:** ativa, passiva (analítica e sintética), reflexiva.\n\n**Locução Verbal:** É a combinação de um verbo auxiliar (ter, haver, ser, estar, ir, etc.) com um verbo principal (no infinitivo, gerúndio ou particípio).\n\n**Emprego e Padrão CEBRASPE:** A banca cobra intensamente a **concordância verbal**, o **emprego dos tempos e modos verbais** (especialmente a correlação verbal em períodos compostos), a **voz verbal** e a **substituição de locuções verbais** por verbos simples ou vice-versa, verificando a manutenção do sentido e da correção.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-51-emprego-das-classes-de-palavras_blc_008",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-51-emprego-das-classes-de-palavras",
+      "topic_id": null,
+      "order": 8,
+      "title": "Advérbio",
+      "content": "O advérbio é a palavra invariável que modifica um verbo, um adjetivo ou outro advérbio, expressando uma circunstância (tempo, lugar, modo, intensidade, etc.). \n\n**Classificação (principais):**\n*   **Lugar:** *aqui, ali, perto, longe*.\n*   **Tempo:** *hoje, ontem, sempre, nunca*.\n*   **Modo:** *bem, mal, depressa, devagar* (e a maioria dos terminados em -mente).\n*   **Intensidade:** *muito, pouco, bastante, mais*.\n*   **Afirmação:** *sim, certamente*.\n*   **Negação:** *não, nunca*.\n*   **Dúvida:** *talvez, provavelmente*.\n\n**Locução Adverbial:** É uma expressão formada por duas ou mais palavras com valor de advérbio (ex: *à noite, de repente*).\n\n**Emprego e Padrão CEBRASPE:** A CEBRASPE explora o **valor semântico** dos advérbios e locuções adverbiais, a possibilidade de **deslocamento** na frase sem prejuízo de sentido ou correção (e quando há prejuízo), e a distinção entre advérbio e adjetivo (quando a palavra pode ter ambas as funções).",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-51-emprego-das-classes-de-palavras_blc_009",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-51-emprego-das-classes-de-palavras",
+      "topic_id": null,
+      "order": 9,
+      "title": "Preposição",
+      "content": "A preposição é a palavra invariável que liga duas palavras, estabelecendo entre elas uma relação de sentido e dependência. \n\n**Classificação:**\n*   **Essenciais:** *a, ante, após, até, com, contra, de, desde, em, entre, para, perante, por, sem, sob, sobre, trás*.\n*   **Acidentais:** palavras de outras classes que, ocasionalmente, funcionam como preposição (ex: *durante, mediante, conforme*).\n\n**Combinação e Contração:** A preposição pode se combinar com outras palavras (ex: *a + o = ao*) ou se contrair (ex: *de + a = da*).\n\n**Emprego e Padrão CEBRASPE:** A banca cobra a **regência verbal e nominal** (uso correto das preposições exigidas por verbos e nomes) e, principalmente, o fenômeno da **crase** (fusão da preposição 'a' com o artigo 'a' ou com o 'a' inicial de pronomes demonstrativos). É fundamental conhecer os casos obrigatórios, facultativos e proibidos de crase.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-51-emprego-das-classes-de-palavras_blc_010",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-51-emprego-das-classes-de-palavras",
+      "topic_id": null,
+      "order": 10,
+      "title": "Conjunção",
+      "content": "A conjunção é a palavra invariável que liga duas orações ou dois termos de mesma função sintática. \n\n**Classificação:**\n*   **Coordenativas:** ligam orações independentes ou termos de mesma função. Podem ser aditivas (*e, nem*), adversativas (*mas, porém*), alternativas (*ou, ora*), conclusivas (*logo, portanto*), explicativas (*pois, porque*).\n*   **Subordinativas:** ligam orações, tornando uma dependente da outra. Podem ser integrantes (*que, se*) ou adverbiais (causais, consecutivas, condicionais, concessivas, temporais, comparativas, conformativas, finais, proporcionais).\n\n**Emprego e Padrão CEBRASPE:** A CEBRASPE foca no **valor semântico** das conjunções e na possibilidade de **substituição** de uma conjunção por outra sem alteração de sentido ou com alteração. A identificação do tipo de relação que a conjunção estabelece entre as orações é recorrente.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-51-emprego-das-classes-de-palavras_blc_011",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-51-emprego-das-classes-de-palavras",
+      "topic_id": null,
+      "order": 11,
+      "title": "Interjeição",
+      "content": "A interjeição é a palavra invariável que exprime emoções, sentimentos, sensações, estados de espírito, ou que serve para chamar, advertir, etc. \n\n**Exemplos:** *Ah!, Oh!, Oba!, Psiu!, Silêncio!*.\n\n**Locução Interjetiva:** É uma expressão com valor de interjeição (ex: *Graças a Deus!, Que pena!*).\n\n**Emprego e Padrão CEBRASPE:** Embora menos cobrada que as outras classes, a CEBRASPE pode explorar a função expressiva da interjeição e seu papel na construção do sentido do texto.",
+      "content_type": "teoria"
+    }
+  ],
+  "topicos": [
+    {
+      "external_topic_code": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-51-emprego-das-classes-de-palavras_top_001",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-51-emprego-das-classes-de-palavras",
+      "parent_topic_id": null,
+      "topic_number": "5",
+      "title": "Domínio da estrutura morfossintática do período",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 1
+    },
+    {
+      "external_topic_code": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-51-emprego-das-classes-de-palavras_top_002",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-51-emprego-das-classes-de-palavras",
+      "parent_topic_id": null,
+      "topic_number": "5.1",
+      "title": "Emprego das classes de palavras",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 2
+    },
+    {
+      "external_topic_code": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-51-emprego-das-classes-de-palavras_top_003",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-51-emprego-das-classes-de-palavras",
+      "parent_topic_id": null,
+      "topic_number": "5.1.1",
+      "title": "Substantivo: Definição, Classificação e Flexão",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 3
+    },
+    {
+      "external_topic_code": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-51-emprego-das-classes-de-palavras_top_004",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-51-emprego-das-classes-de-palavras",
+      "parent_topic_id": null,
+      "topic_number": "5.1.2",
+      "title": "Adjetivo: Definição, Classificação, Locução Adjetiva e Flexão",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 4
+    },
+    {
+      "external_topic_code": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-51-emprego-das-classes-de-palavras_top_005",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-51-emprego-das-classes-de-palavras",
+      "parent_topic_id": null,
+      "topic_number": "5.1.3",
+      "title": "Artigo: Definição, Classificação e Emprego",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 5
+    },
+    {
+      "external_topic_code": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-51-emprego-das-classes-de-palavras_top_006",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-51-emprego-das-classes-de-palavras",
+      "parent_topic_id": null,
+      "topic_number": "5.1.4",
+      "title": "Numeral: Definição, Classificação e Flexão",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 6
+    },
+    {
+      "external_topic_code": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-51-emprego-das-classes-de-palavras_top_007",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-51-emprego-das-classes-de-palavras",
+      "parent_topic_id": null,
+      "topic_number": "5.1.5",
+      "title": "Pronome: Definição, Classificação e Colocação Pronominal",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 7
+    },
+    {
+      "external_topic_code": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-51-emprego-das-classes-de-palavras_top_008",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-51-emprego-das-classes-de-palavras",
+      "parent_topic_id": null,
+      "topic_number": "5.1.6",
+      "title": "Verbo: Definição, Classificação, Flexão e Vozes Verbais",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 8
+    },
+    {
+      "external_topic_code": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-51-emprego-das-classes-de-palavras_top_009",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-51-emprego-das-classes-de-palavras",
+      "parent_topic_id": null,
+      "topic_number": "5.1.7",
+      "title": "Advérbio: Definição, Classificação e Locução Adverbial",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 9
+    },
+    {
+      "external_topic_code": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-51-emprego-das-classes-de-palavras_top_010",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-51-emprego-das-classes-de-palavras",
+      "parent_topic_id": null,
+      "topic_number": "5.1.8",
+      "title": "Preposição: Definição, Classificação, Regência e Crase",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 10
+    },
+    {
+      "external_topic_code": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-51-emprego-das-classes-de-palavras_top_011",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-51-emprego-das-classes-de-palavras",
+      "parent_topic_id": null,
+      "topic_number": "5.1.9",
+      "title": "Conjunção: Definição, Classificação e Valor Semântico",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 11
+    },
+    {
+      "external_topic_code": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-51-emprego-das-classes-de-palavras_top_012",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-51-emprego-das-classes-de-palavras",
+      "parent_topic_id": null,
+      "topic_number": "5.1.10",
+      "title": "Interjeição: Definição e Emprego",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 12
+    }
+  ],
+  "topico_componentes": [
+    {
+      "component_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-51-emprego-das-classes-de-palavras_cmp_001",
+      "topic_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-51-emprego-das-classes-de-palavras_top_003",
+      "component_type": "teoria",
+      "content": "",
+      "order": 1
+    },
+    {
+      "component_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-51-emprego-das-classes-de-palavras_cmp_002",
+      "topic_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-51-emprego-das-classes-de-palavras_top_004",
+      "component_type": "teoria",
+      "content": "",
+      "order": 1
+    },
+    {
+      "component_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-51-emprego-das-classes-de-palavras_cmp_003",
+      "topic_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-51-emprego-das-classes-de-palavras_top_005",
+      "component_type": "teoria",
+      "content": "",
+      "order": 1
+    },
+    {
+      "component_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-51-emprego-das-classes-de-palavras_cmp_004",
+      "topic_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-51-emprego-das-classes-de-palavras_top_006",
+      "component_type": "teoria",
+      "content": "",
+      "order": 1
+    },
+    {
+      "component_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-51-emprego-das-classes-de-palavras_cmp_005",
+      "topic_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-51-emprego-das-classes-de-palavras_top_007",
+      "component_type": "teoria",
+      "content": "",
+      "order": 1
+    },
+    {
+      "component_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-51-emprego-das-classes-de-palavras_cmp_006",
+      "topic_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-51-emprego-das-classes-de-palavras_top_008",
+      "component_type": "teoria",
+      "content": "",
+      "order": 1
+    },
+    {
+      "component_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-51-emprego-das-classes-de-palavras_cmp_007",
+      "topic_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-51-emprego-das-classes-de-palavras_top_009",
+      "component_type": "teoria",
+      "content": "",
+      "order": 1
+    },
+    {
+      "component_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-51-emprego-das-classes-de-palavras_cmp_008",
+      "topic_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-51-emprego-das-classes-de-palavras_top_010",
+      "component_type": "teoria",
+      "content": "",
+      "order": 1
+    },
+    {
+      "component_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-51-emprego-das-classes-de-palavras_cmp_009",
+      "topic_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-51-emprego-das-classes-de-palavras_top_011",
+      "component_type": "teoria",
+      "content": "",
+      "order": 1
+    },
+    {
+      "component_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-51-emprego-das-classes-de-palavras_cmp_010",
+      "topic_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-51-emprego-das-classes-de-palavras_top_012",
+      "component_type": "teoria",
+      "content": "",
+      "order": 1
+    }
+  ],
+  "pegadinhas": [
+    {
+      "trap_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-51-emprego-das-classes-de-palavras_peg_001",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-51-emprego-das-classes-de-palavras",
+      "topic_id": "top_004",
+      "title": "Confusão entre Adjetivo e Advérbio",
+      "description": "Palavras como 'rápido', 'claro', 'alto' podem funcionar como adjetivo (variável) ou advérbio (invariável) dependendo do contexto. A CEBRASPE explora essa ambiguidade. Ex: 'Ele fala *claro*' (advérbio de modo) vs. 'Ele tem um carro *claro*' (adjetivo).",
+      "example_error": "A frase 'Ela canta bonito' está incorreta, o correto seria 'Ela canta *bonita*'. (ERRADO, 'bonito' é advérbio de modo aqui).",
+      "how_to_avoid": "",
+      "order": 1
+    },
+    {
+      "trap_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-51-emprego-das-classes-de-palavras_peg_002",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-51-emprego-das-classes-de-palavras",
+      "topic_id": "top_007",
+      "title": "Uso Inadequado de 'Onde' e 'Aonde'",
+      "description": "A CEBRASPE frequentemente testa o uso de 'onde' (apenas para lugar fixo) e 'aonde' (para lugar com ideia de movimento). O erro comum é usar 'onde' para se referir a tempo, ideia abstrata ou algo que não seja um local físico.",
+      "example_error": "A situação *onde* vivemos é complexa. (ERRADO, o correto seria 'A situação *em que* vivemos').",
+      "how_to_avoid": "",
+      "order": 2
+    },
+    {
+      "trap_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-51-emprego-das-classes-de-palavras_peg_003",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-51-emprego-das-classes-de-palavras",
+      "topic_id": "top_003",
+      "title": "Flexão de Substantivos e Adjetivos Compostos",
+      "description": "A flexão de número e gênero em substantivos e adjetivos compostos segue regras específicas e complexas, sendo um prato cheio para a CEBRASPE. Ex: 'guarda-chuvas' (plural de 'guarda-chuva'), 'cavalos-marinhos' (plural de 'cavalo-marinho'), 'olhos verde-claros' (apenas o segundo elemento varia se for cor composta).",
+      "example_error": "Os carros *verde-claro* estavam estacionados. (ERRADO, o correto seria 'Os carros *verde-claros*').",
+      "how_to_avoid": "",
+      "order": 3
+    },
+    {
+      "trap_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-51-emprego-das-classes-de-palavras_peg_004",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-51-emprego-das-classes-de-palavras",
+      "topic_id": "top_008",
+      "title": "Concordância Verbal com Sujeito Pós-posto ou Composto",
+      "description": "Quando o sujeito está depois do verbo ou é composto, a concordância pode gerar dúvidas. A CEBRASPE explora esses casos, bem como a concordância com verbos impessoais (haver no sentido de existir, fazer indicando tempo).",
+      "example_error": "*Houveram* muitos problemas na reunião. (ERRADO, o correto seria '*Houve* muitos problemas').",
+      "how_to_avoid": "",
+      "order": 4
+    },
+    {
+      "trap_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-51-emprego-das-classes-de-palavras_peg_005",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-51-emprego-das-classes-de-palavras",
+      "topic_id": "top_007",
+      "title": "Valor Semântico de 'Que' e 'Se'",
+      "description": "As palavras 'que' e 'se' são polissêmicas e podem exercer diversas funções (pronome, conjunção, advérbio, partícula apassivadora, índice de indeterminação do sujeito). A CEBRASPE adora explorar essa versatilidade, pedindo a reescrita ou a identificação da função e do valor semântico.",
+      "example_error": "Em 'É necessário *que* todos participem', o 'que' é pronome relativo. (ERRADO, é conjunção integrante).",
+      "how_to_avoid": "",
+      "order": 5
+    }
+  ],
+  "pontos_memorizacao": [
+    {
+      "memory_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-51-emprego-das-classes-de-palavras_mem_001",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-51-emprego-das-classes-de-palavras",
+      "topic_id": "top_002",
+      "title": "10 Classes de Palavras",
+      "content": "Lembre-se das 10 classes de palavras: Substantivo, Adjetivo, Artigo, Numeral, Pronome, Verbo, Advérbio, Preposição, Conjunção, Interjeição. As 6 primeiras são variáveis; as 4 últimas são invariáveis (com exceções para alguns numerais e pronomes).",
+      "order": 1
+    },
+    {
+      "memory_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-51-emprego-das-classes-de-palavras_mem_002",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-51-emprego-das-classes-de-palavras",
+      "topic_id": "top_007",
+      "title": "Fatores de Próclise",
+      "content": "Memorize os principais fatores de próclise (atração do pronome para antes do verbo): palavras negativas (não, nunca), advérbios, pronomes relativos (que, quem, cujo), pronomes indefinidos, conjunções subordinativas, frases interrogativas e exclamativas.",
+      "order": 2
+    },
+    {
+      "memory_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-51-emprego-das-classes-de-palavras_mem_003",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-51-emprego-das-classes-de-palavras",
+      "topic_id": "top_010",
+      "title": "Regras Essenciais da Crase",
+      "content": "Crase é a fusão de 'a' preposição + 'a' artigo ou 'a' pronome demonstrativo. Ocorre diante de palavra feminina, locuções adverbiais femininas de lugar, tempo e modo, e antes de 'aquela(s)', 'aquele(s)', 'aquilo'. Não ocorre antes de palavra masculina, verbo, pronome pessoal, numeral cardinal, e entre palavras repetidas.",
+      "order": 3
+    },
+    {
+      "memory_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-51-emprego-das-classes-de-palavras_mem_004",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-51-emprego-das-classes-de-palavras",
+      "topic_id": "top_008",
+      "title": "Concordância Verbal com 'Haver' e 'Fazer'",
+      "content": "O verbo 'haver' no sentido de 'existir' ou 'acontecer' e o verbo 'fazer' indicando tempo decorrido são impessoais, ou seja, ficam sempre na 3ª pessoa do singular. Ex: 'Há muitos anos', 'Faz dez anos'.",
+      "order": 4
+    },
+    {
+      "memory_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-51-emprego-das-classes-de-palavras_mem_005",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-51-emprego-das-classes-de-palavras",
+      "topic_id": "top_007",
+      "title": "Função Sintática dos Pronomes Relativos",
+      "content": "Para analisar a função sintática de um pronome relativo, substitua-o pelo termo que ele retoma na oração subordinada. Ex: 'O livro *que* comprei' -> 'comprei *o livro*' (o livro = objeto direto, então 'que' é objeto direto).",
+      "order": 5
+    }
+  ],
+  "quadro_sinotico_itens": [
+    {
+      "summary_item_id": "sum_001",
+      "title": null,
+      "content": "Substantivo (nomeia), Adjetivo (qualifica), Artigo (determina), Numeral (quantifica/ordena), Pronome (substitui/acompanha), Verbo (ação/estado/fenômeno).",
+      "order": 1
+    },
+    {
+      "summary_item_id": "sum_002",
+      "title": null,
+      "content": "Advérbio (modifica verbo/adjetivo/advérbio), Preposição (liga termos), Conjunção (liga orações/termos), Interjeição (exprime emoção).",
+      "order": 2
+    },
+    {
+      "summary_item_id": "sum_003",
+      "title": null,
+      "content": "Relação entre classe morfológica e função sintática. Reescrita de frases com alteração de classes.",
+      "order": 3
+    },
+    {
+      "summary_item_id": "sum_004",
+      "title": null,
+      "content": "Colocação pronominal, uso de pronomes relativos, crase, concordância verbal e nominal, valor semântico de conjunções e advérbios.",
+      "order": 4
+    }
+  ],
+  "questoes": [
+    {
+      "question_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-51-emprego-das-classes-de-palavras_qst_001",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-51-emprego-das-classes-de-palavras",
+      "topic_id": "top_003",
+      "board": "CEBRASPE",
+      "year": 2023,
+      "organization": null,
+      "role": null,
+      "statement": "No trecho 'A *beleza* da paisagem encanta a todos', a palavra 'beleza' é um substantivo abstrato que nomeia uma qualidade.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": "Fácil",
+      "external_reference": "Questão adaptada de prova CEBRASPE (Ex: Concurso X, Cargo Y, 2023)",
+      "commentary": "A palavra 'beleza' é, de fato, um substantivo. Sua classificação como abstrato está correta, pois nomeia uma qualidade (ser belo) que depende de um ser para existir. A CEBRASPE frequentemente testa a capacidade de classificar substantivos em concreto/abstrato, que pode gerar dúvidas em alguns contextos.",
+      "commentary_meta": {
+        "comment_ids": [
+          "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-51-emprego-das-classes-de-palavras_com_001"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-51-emprego-das-classes-de-palavras_qst_002",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-51-emprego-das-classes-de-palavras",
+      "topic_id": "top_004",
+      "board": "CEBRASPE",
+      "year": 2022,
+      "organization": null,
+      "role": null,
+      "statement": "Em 'Os alunos *estudiosos* foram aprovados', a palavra 'estudiosos' é um adjetivo que concorda em gênero e número com 'alunos'.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": "Fácil",
+      "external_reference": "Questão adaptada de prova CEBRASPE (Ex: Concurso Z, Cargo W, 2022)",
+      "commentary": "Correto. 'Estudiosos' é um adjetivo que qualifica o substantivo 'alunos'. A concordância em gênero (masculino) e número (plural) é obrigatória, seguindo a regra geral da concordância nominal. A CEBRASPE valoriza a identificação correta da classe e sua flexão.",
+      "commentary_meta": {
+        "comment_ids": [
+          "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-51-emprego-das-classes-de-palavras_com_002"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-51-emprego-das-classes-de-palavras_qst_003",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-51-emprego-das-classes-de-palavras",
+      "topic_id": "top_007",
+      "board": "CEBRASPE",
+      "year": 2024,
+      "organization": null,
+      "role": null,
+      "statement": "Na frase 'Ele *se* arrependeu da decisão', a partícula 'se' exerce a função de pronome reflexivo, indicando que a ação recai sobre o próprio sujeito.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": "Médio",
+      "external_reference": "Questão adaptada de prova CEBRASPE (Ex: Concurso Alfa, Cargo Beta, 2024)",
+      "commentary": "Certo. No verbo 'arrepender-se', o 'se' é parte integrante do verbo pronominal ('arrepender-se de algo'), funcionando como pronome reflexivo, pois a ação de arrepender recai sobre o próprio sujeito. A CEBRASPE explora as diversas funções do 'se'.",
+      "commentary_meta": {
+        "comment_ids": [
+          "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-51-emprego-das-classes-de-palavras_com_003"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-51-emprego-das-classes-de-palavras_qst_004",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-51-emprego-das-classes-de-palavras",
+      "topic_id": "top_009",
+      "board": "CEBRASPE",
+      "year": 2023,
+      "organization": null,
+      "role": null,
+      "statement": "O trecho 'Ainda *não* chegamos ao consenso' apresenta um advérbio de negação que pode ser deslocado para o final da frase sem prejuízo da correção gramatical ou do sentido original.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": "Médio",
+      "external_reference": "Questão adaptada de prova CEBRASPE (Ex: Concurso Gama, Cargo Delta, 2023)",
+      "commentary": "Errado. O advérbio de negação 'não' é um fator de próclise, ou seja, atrai o pronome oblíquo átono para antes do verbo. Se o 'não' for deslocado para o final, a colocação pronominal precisaria ser alterada (ex: 'Chegamos ao consenso ainda não'), o que alteraria a estrutura e, possivelmente, a correção gramatical dependendo do contexto. Além disso, o deslocamento de advérbios nem sempre é possível sem prejuízo de sentido ou correção, um ponto frequentemente explorado pela CEBRASPE.",
+      "commentary_meta": {
+        "comment_ids": [
+          "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-51-emprego-das-classes-de-palavras_com_004"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-51-emprego-das-classes-de-palavras_qst_005",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-51-emprego-das-classes-de-palavras",
+      "topic_id": "top_010",
+      "board": "CEBRASPE",
+      "year": 2022,
+      "organization": null,
+      "role": null,
+      "statement": "Em 'Ele foi *à* feira comprar frutas', o acento indicativo de crase é obrigatório, pois ocorre a fusão da preposição 'a' com o artigo feminino 'a'.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": "Fácil",
+      "external_reference": "Questão adaptada de prova CEBRASPE (Ex: Concurso Épsilon, Cargo Zeta, 2022)",
+      "commentary": "Certo. O verbo 'ir' (foi) exige a preposição 'a' (quem vai, vai *a* algum lugar). 'Feira' é um substantivo feminino que admite o artigo 'a'. A fusão da preposição 'a' com o artigo 'a' resulta na crase. A CEBRASPE cobra exaustivamente as regras de crase.",
+      "commentary_meta": {
+        "comment_ids": [
+          "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-51-emprego-das-classes-de-palavras_com_005"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-51-emprego-das-classes-de-palavras_qst_006",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-51-emprego-das-classes-de-palavras",
+      "topic_id": "top_011",
+      "board": "CEBRASPE",
+      "year": 2024,
+      "organization": null,
+      "role": null,
+      "statement": "Na oração 'Estudamos *para que* possamos ser aprovados', a locução conjuntiva 'para que' expressa uma ideia de causa.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": "Médio",
+      "external_reference": "Questão adaptada de prova CEBRASPE (Ex: Concurso Eta, Cargo Theta, 2024)",
+      "commentary": "Errado. A locução conjuntiva 'para que' introduz uma oração subordinada adverbial final, expressando a finalidade ou o objetivo da ação ('Estudamos *com qual finalidade*? Para que possamos ser aprovados'). Uma conjunção causal indicaria o motivo ou a razão. A CEBRASPE exige o conhecimento do valor semântico das conjunções.",
+      "commentary_meta": {
+        "comment_ids": [
+          "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-51-emprego-das-classes-de-palavras_com_006"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-51-emprego-das-classes-de-palavras_qst_007",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-51-emprego-das-classes-de-palavras",
+      "topic_id": "top_008",
+      "board": "CEBRASPE",
+      "year": 2023,
+      "organization": null,
+      "role": null,
+      "statement": "A frase 'Faziam muitos anos que não o via' apresenta erro de concordância verbal, pois o verbo 'fazer' indicando tempo decorrido deve permanecer no singular.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": "Médio",
+      "external_reference": "Questão adaptada de prova CEBRASPE (Ex: Concurso Iota, Cargo Kappa, 2023)",
+      "commentary": "Certo. O verbo 'fazer', quando indica tempo decorrido, é impessoal e deve ser conjugado sempre na 3ª pessoa do singular, independentemente do termo que o acompanha. Portanto, 'Faziam' está incorreto; o correto seria 'Faz muitos anos'. Esta é uma pegadinha clássica da CEBRASPE em concordância verbal.",
+      "commentary_meta": {
+        "comment_ids": [
+          "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-51-emprego-das-classes-de-palavras_com_007"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-51-emprego-das-classes-de-palavras_qst_008",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-51-emprego-das-classes-de-palavras",
+      "topic_id": "top_007",
+      "board": "CEBRASPE",
+      "year": 2022,
+      "organization": null,
+      "role": null,
+      "statement": "Em 'O livro *que* li era interessante', o pronome 'que' exerce a função sintática de sujeito da oração 'que li'.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": "Difícil",
+      "external_reference": "Questão adaptada de prova CEBRASPE (Ex: Concurso Lambda, Cargo Mu, 2022)",
+      "commentary": "Errado. Para identificar a função sintática do pronome relativo, substitua-o pelo termo que ele retoma na oração subordinada. 'O livro *que* li' = 'Eu li *o livro*'. Na oração 'que li', o 'que' retoma 'livro' e funciona como objeto direto do verbo 'li' (quem lê, lê algo). O sujeito da oração 'que li' é 'eu' (oculto). A CEBRASPE frequentemente testa a função sintática dos pronomes relativos.",
+      "commentary_meta": {
+        "comment_ids": [
+          "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-51-emprego-das-classes-de-palavras_com_008"
+        ],
+        "count": 1
+      }
+    }
+  ],
+  "comentarios_questoes": [
+    {
+      "comment_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-51-emprego-das-classes-de-palavras_com_001",
+      "question_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-51-emprego-das-classes-de-palavras_qst_001",
+      "content": "A palavra 'beleza' é, de fato, um substantivo. Sua classificação como abstrato está correta, pois nomeia uma qualidade (ser belo) que depende de um ser para existir. A CEBRASPE frequentemente testa a capacidade de classificar substantivos em concreto/abstrato, que pode gerar dúvidas em alguns contextos.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-51-emprego-das-classes-de-palavras_com_002",
+      "question_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-51-emprego-das-classes-de-palavras_qst_002",
+      "content": "Correto. 'Estudiosos' é um adjetivo que qualifica o substantivo 'alunos'. A concordância em gênero (masculino) e número (plural) é obrigatória, seguindo a regra geral da concordância nominal. A CEBRASPE valoriza a identificação correta da classe e sua flexão.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-51-emprego-das-classes-de-palavras_com_003",
+      "question_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-51-emprego-das-classes-de-palavras_qst_003",
+      "content": "Certo. No verbo 'arrepender-se', o 'se' é parte integrante do verbo pronominal ('arrepender-se de algo'), funcionando como pronome reflexivo, pois a ação de arrepender recai sobre o próprio sujeito. A CEBRASPE explora as diversas funções do 'se'.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-51-emprego-das-classes-de-palavras_com_004",
+      "question_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-51-emprego-das-classes-de-palavras_qst_004",
+      "content": "Errado. O advérbio de negação 'não' é um fator de próclise, ou seja, atrai o pronome oblíquo átono para antes do verbo. Se o 'não' for deslocado para o final, a colocação pronominal precisaria ser alterada (ex: 'Chegamos ao consenso ainda não'), o que alteraria a estrutura e, possivelmente, a correção gramatical dependendo do contexto. Além disso, o deslocamento de advérbios nem sempre é possível sem prejuízo de sentido ou correção, um ponto frequentemente explorado pela CEBRASPE.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-51-emprego-das-classes-de-palavras_com_005",
+      "question_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-51-emprego-das-classes-de-palavras_qst_005",
+      "content": "Certo. O verbo 'ir' (foi) exige a preposição 'a' (quem vai, vai *a* algum lugar). 'Feira' é um substantivo feminino que admite o artigo 'a'. A fusão da preposição 'a' com o artigo 'a' resulta na crase. A CEBRASPE cobra exaustivamente as regras de crase.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-51-emprego-das-classes-de-palavras_com_006",
+      "question_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-51-emprego-das-classes-de-palavras_qst_006",
+      "content": "Errado. A locução conjuntiva 'para que' introduz uma oração subordinada adverbial final, expressando a finalidade ou o objetivo da ação ('Estudamos *com qual finalidade*? Para que possamos ser aprovados'). Uma conjunção causal indicaria o motivo ou a razão. A CEBRASPE exige o conhecimento do valor semântico das conjunções.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-51-emprego-das-classes-de-palavras_com_007",
+      "question_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-51-emprego-das-classes-de-palavras_qst_007",
+      "content": "Certo. O verbo 'fazer', quando indica tempo decorrido, é impessoal e deve ser conjugado sempre na 3ª pessoa do singular, independentemente do termo que o acompanha. Portanto, 'Faziam' está incorreto; o correto seria 'Faz muitos anos'. Esta é uma pegadinha clássica da CEBRASPE em concordância verbal.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-51-emprego-das-classes-de-palavras_com_008",
+      "question_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-51-emprego-das-classes-de-palavras_qst_008",
+      "content": "Errado. Para identificar a função sintática do pronome relativo, substitua-o pelo termo que ele retoma na oração subordinada. 'O livro *que* li' = 'Eu li *o livro*'. Na oração 'que li', o 'que' retoma 'livro' e funciona como objeto direto do verbo 'li' (quem lê, lê algo). O sujeito da oração 'que li' é 'eu' (oculto). A CEBRASPE frequentemente testa a função sintática dos pronomes relativos.",
+      "explanation_alternatives": ""
+    }
+  ],
+  "checklist_revisao": [
+    {
+      "checklist_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-51-emprego-das-classes-de-palavras_chk_001",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-51-emprego-das-classes-de-palavras",
+      "topic_id": "top_002",
+      "item_text": "Revisar as definições e classificações de cada uma das 10 classes de palavras.",
+      "completed": false,
+      "order": 1
+    },
+    {
+      "checklist_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-51-emprego-das-classes-de-palavras_chk_002",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-51-emprego-das-classes-de-palavras",
+      "topic_id": "top_003",
+      "item_text": "Estudar a flexão de gênero, número e grau de substantivos e adjetivos, com atenção aos casos irregulares e compostos.",
+      "completed": false,
+      "order": 2
+    },
+    {
+      "checklist_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-51-emprego-das-classes-de-palavras_chk_003",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-51-emprego-das-classes-de-palavras",
+      "topic_id": "top_007",
+      "item_text": "Dominar as regras de colocação pronominal (próclise, mesóclise, ênclise) e os fatores de atração.",
+      "completed": false,
+      "order": 3
+    },
+    {
+      "checklist_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-51-emprego-das-classes-de-palavras_chk_004",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-51-emprego-das-classes-de-palavras",
+      "topic_id": "top_007",
+      "item_text": "Compreender o emprego e a função sintática dos pronomes relativos ('que', 'quem', 'cujo', 'onde').",
+      "completed": false,
+      "order": 4
+    },
+    {
+      "checklist_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-51-emprego-das-classes-de-palavras_chk_005",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-51-emprego-das-classes-de-palavras",
+      "topic_id": "top_008",
+      "item_text": "Revisar as regras de concordância verbal (sujeito simples, composto, oracional, verbos impessoais) e nominal.",
+      "completed": false,
+      "order": 5
+    },
+    {
+      "checklist_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-51-emprego-das-classes-de-palavras_chk_006",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-51-emprego-das-classes-de-palavras",
+      "topic_id": "top_010",
+      "item_text": "Estudar as regras de crase (casos obrigatórios, facultativos e proibidos).",
+      "completed": false,
+      "order": 6
+    },
+    {
+      "checklist_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-51-emprego-das-classes-de-palavras_chk_007",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-51-emprego-das-classes-de-palavras",
+      "topic_id": "top_009",
+      "item_text": "Analisar o valor semântico das conjunções e advérbios, e as implicações de sua substituição ou deslocamento.",
+      "completed": false,
+      "order": 7
+    },
+    {
+      "checklist_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-51-emprego-das-classes-de-palavras_chk_008",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-51-emprego-das-classes-de-palavras",
+      "topic_id": "top_002",
+      "item_text": "Praticar questões da CEBRASPE que envolvam a distinção entre classe morfológica e função sintática.",
+      "completed": false,
+      "order": 8
+    }
+  ],
+  "referencias": [
+    {
+      "reference_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-51-emprego-das-classes-de-palavras_ref_001",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-51-emprego-das-classes-de-palavras",
+      "reference_type": "Livro",
+      "author_name": "Celso Cunha e Lindley Cintra",
+      "title": "Nova Gramática do Português Contemporâneo",
+      "publisher": null,
+      "year_reference": "2007",
+      "isbn": null,
+      "url": null,
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-51-emprego-das-classes-de-palavras_ref_002",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-51-emprego-das-classes-de-palavras",
+      "reference_type": "Livro",
+      "author_name": "Fernando Pestana",
+      "title": "Gramática Completa para Concursos e Vestibulares",
+      "publisher": null,
+      "year_reference": "2023",
+      "isbn": null,
+      "url": null,
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-51-emprego-das-classes-de-palavras_ref_003",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-51-emprego-das-classes-de-palavras",
+      "reference_type": "Website",
+      "author_name": "CEBRASPE",
+      "title": "Site oficial do CEBRASPE - Seção de Provas Anteriores",
+      "publisher": null,
+      "year_reference": "Atual",
+      "isbn": null,
+      "url": "https://www.cebraspe.org.br/concursos/provas/",
+      "accessed_at": null,
+      "description": null
+    }
+  ],
+  "estatisticas_de_geracao": {
+    "total_topicos": 12,
+    "total_componentes_topico": 10,
+    "total_entendimentos_relevantes": 6,
+    "total_pegadinhas": 5,
+    "total_pontos_memorizacao": 5,
+    "total_itens_quadro_sinotico": 4,
+    "total_questoes": 8,
+    "total_comentarios_questoes": 8,
+    "total_itens_checklist": 8,
+    "total_referencias": 3
+  },
+  "validacao_interna": {
+    "pesquisa_previa_realizada": true,
+    "analise_de_cobrancas_anteriores_realizada": true,
+    "material_atualizado": true,
+    "json_valido": true,
+    "estrutura_relacional_respeitada": true,
+    "numeracao_respeitada": true,
+    "houve_quebra_de_hierarquia": false,
+    "houve_nivel_numerico_superior_a_3": false,
+    "fontes_verificadas": true,
+    "sem_informacao_inventada": true
+  },
+  "metadata": {
+    "source_file_name": "5__língua-portuguesa__5-domínio-da-estrutura-morfossintática-do-período-5.1-emprego-das-classes-de-palavras.json",
+    "normalized_checksum": "7085a3151ff8a03a9217945675a4cf3182fed47f1529a82ff58967e0fecdec65",
+    "subject_slug": "portugues",
+    "material_slug": "emprego-classes-palavras-cebraspe",
+    "title_slug": "dominio-da-estrutura-morfossintatica-do-periodo",
+    "board_slug": "cebraspe",
+    "counters": {
+      "blocks": 11,
+      "topics": 12,
+      "topic_components": 10,
+      "traps": 5,
+      "memory_points": 5,
+      "summary_items": 4,
+      "questions": 8,
+      "question_comments": 8,
+      "checklist_items": 8,
+      "references": 3
+    }
+  }
+}

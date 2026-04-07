@@ -1,0 +1,1234 @@
+{
+  "schema_version": "1.0",
+  "normalized_at": "2026-04-07T15:39:13.693223-03:00",
+  "normalizer_version": "2.0.0",
+  "exported_at": "2026-04-07T17:00:00Z",
+  "source_request": {
+    "purpose": "Concurso público",
+    "general_area": "Direito",
+    "subject_name": "Direito Administrativo",
+    "subarea_name": "Direito Administrativo",
+    "main_theme": "2 Regime jurídico‐administrativo: 2.2 Supremacia do interesse público sobre o privado e indisponibilidade, pela administração, dos interesses púbicos",
+    "theme_scope": "Teoria completa, incidência em prova, padrão de cobrança da banca, pegadinhas e questões comentadas",
+    "board_style": "CEBRASPE",
+    "depth_level": "Exaustivo",
+    "goal": "Teoria completa, revisão estratégica, pegadinhas e questões comentadas",
+    "base_topic_number": "2",
+    "topic_title": "2 Regime jurídico‐administrativo: 2.2 Supremacia do interesse público sobre o privado e indisponibilidade, pela administração, dos interesses púbicos",
+    "syllabus_reference": "Conteúdo programático da disciplina Direito Administrativo",
+    "priority_sources": [
+      "Constituição Federal e legislação oficial vigente",
+      "Jurisprudência pertinente e atual, quando cabível",
+      "Doutrina consolidada",
+      "Questões anteriores da banca"
+    ],
+    "minimum_questions": 8,
+    "question_format": "Certo/Errado",
+    "prioritize_real_questions": true,
+    "response_language": "português",
+    "target_audience": "Candidato de concurso público",
+    "additional_notes": "Executar exatamente para esta linha individual do topicos.txt. Não juntar com outros tópicos. Não pular este tópico. Dar destaque ao padrão de cobrança da banca, aos pontos mais cobrados e às pegadinhas recorrentes.",
+    "input_hash": "9fa58268180f",
+    "extras": {}
+  },
+  "material": {
+    "material_id": "mat_001",
+    "slug": "regime-juridico-administrativo-supremacia-indisponibilidade",
+    "title": "Regime Jurídico-Administrativo: Supremacia do Interesse Público e Indisponibilidade dos Interesses Públicos",
+    "base_number": "2",
+    "topic_title": "2 Regime jurídico‐administrativo: 2.2 Supremacia do interesse público sobre o privado e indisponibilidade, pela administração, dos interesses púbicos",
+    "purpose": "Concurso público",
+    "area_name": "Direito",
+    "subject_name": "Direito Administrativo",
+    "subarea_name": "Direito Administrativo",
+    "main_theme": "2 Regime jurídico‐administrativo: 2.2 Supremacia do interesse público sobre o privado e indisponibilidade, pela administração, dos interesses púbicos",
+    "theme_scope": "Teoria completa, incidência em prova, padrão de cobrança da banca, pegadinhas e questões comentadas",
+    "board_style": "CEBRASPE",
+    "depth_level": "Exaustivo",
+    "study_goal": "Teoria completa, revisão estratégica, pegadinhas e questões comentadas",
+    "target_audience": "Candidato de concurso público",
+    "language_code": "português",
+    "update_status": "Atualizado",
+    "current_note": "Conteúdo atualizado com base na doutrina consolidada e no padrão de cobrança de bancas como o CEBRASPE, considerando a relativização dos princípios no Estado Democrático de Direito.",
+    "has_case_law": true,
+    "case_law_justification": "A jurisprudência, especialmente do STF, é relevante para a compreensão dos limites e da ponderação da supremacia do interesse público, embora os princípios em si sejam de base doutrinária e legal implícita.",
+    "has_information_limitation": false,
+    "information_limitation_desc": null,
+    "content_checksum": "placeholder_checksum_12345",
+    "extras": {}
+  },
+  "blocos_textuais": [
+    {
+      "external_block_code": "blc_001",
+      "material_id": null,
+      "topic_id": null,
+      "order": 1,
+      "title": "Introdução ao Regime Jurídico-Administrativo",
+      "content": "O Direito Administrativo, ramo do Direito Público, é regido por um conjunto de princípios e regras que o distinguem do Direito Privado, conferindo à Administração Pública uma posição peculiar. Esse conjunto é conhecido como Regime Jurídico-Administrativo, caracterizado pela presença de prerrogativas e sujeições. As prerrogativas são vantagens ou privilégios que a Administração possui para melhor desempenhar suas funções em prol do interesse coletivo, enquanto as sujeições são restrições e deveres impostos à sua atuação, visando garantir a legalidade e a moralidade. Dois princípios são considerados as 'pedras de toque' ou 'pilares' desse regime: a Supremacia do Interesse Público sobre o Privado e a Indisponibilidade dos Interesses Públicos.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_002",
+      "material_id": null,
+      "topic_id": null,
+      "order": 2,
+      "title": "Supremacia do Interesse Público sobre o Privado",
+      "content": "O princípio da Supremacia do Interesse Público sobre o Privado estabelece que, em caso de conflito entre o interesse da coletividade e o interesse particular, o primeiro deve prevalecer. Este princípio é o fundamento para diversas prerrogativas da Administração Pública, que a colocam em uma posição de superioridade em relação aos administrados. Embora não esteja expresso em um artigo específico da Constituição Federal de 1988, sua existência é inferida de diversos dispositivos que consagram o interesse coletivo, como os objetivos fundamentais da República (art. 3º) e os princípios da Administração Pública (art. 37, caput).",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_003",
+      "material_id": null,
+      "topic_id": null,
+      "order": 3,
+      "title": "Manifestações da Supremacia do Interesse Público",
+      "content": "A Supremacia do Interesse Público se manifesta em diversas prerrogativas da Administração, tais como: o poder de desapropriação (retirada compulsória da propriedade privada por necessidade ou utilidade pública ou interesse social, mediante justa e prévia indenização em dinheiro), a requisição administrativa (uso temporário de bens ou serviços particulares em caso de perigo público iminente), o poder de polícia (limitação e condicionamento do exercício de direitos e atividades individuais em prol do bem-estar coletivo), a autoexecutoriedade dos atos administrativos (capacidade de a Administração executar seus próprios atos sem prévia autorização judicial), e as cláusulas exorbitantes nos contratos administrativos (condições especiais que garantem a prevalência do interesse público, como a alteração unilateral e a rescisão unilateral).",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_004",
+      "material_id": null,
+      "topic_id": null,
+      "order": 4,
+      "title": "Limites da Supremacia do Interesse Público",
+      "content": "É crucial entender que a Supremacia do Interesse Público não é um princípio absoluto e ilimitado. Sua aplicação deve sempre observar os limites impostos pela Constituição Federal e pelos demais princípios do Estado Democrático de Direito. Entre os principais limites, destacam-se: o respeito aos direitos e garantias fundamentais (art. 5º da CF/88), a proporcionalidade e a razoabilidade (exigindo que as medidas administrativas sejam adequadas, necessárias e proporcionais em sentido estrito), a legalidade (a Administração só pode agir nos termos da lei), e a segurança jurídica. A doutrina moderna e a jurisprudência do Supremo Tribunal Federal (STF) enfatizam a necessidade de ponderação de interesses no caso concreto, evitando a imposição autoritária e arbitrária do interesse público em detrimento de direitos individuais legítimos.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_005",
+      "material_id": null,
+      "topic_id": null,
+      "order": 5,
+      "title": "Indisponibilidade dos Interesses Públicos",
+      "content": "O princípio da Indisponibilidade dos Interesses Públicos estabelece que o administrador público não pode dispor livremente dos bens, direitos e interesses que lhe são confiados. Isso ocorre porque o interesse público não pertence ao administrador, mas sim à coletividade, da qual ele é mero guardião, gestor ou curador. Este princípio impõe restrições significativas à atuação da Administração Pública, garantindo que o patrimônio e os interesses coletivos sejam protegidos e utilizados exclusivamente para o bem comum.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_006",
+      "material_id": null,
+      "topic_id": null,
+      "order": 6,
+      "title": "Manifestações da Indisponibilidade dos Interesses Públicos",
+      "content": "A Indisponibilidade dos Interesses Públicos se manifesta na vinculação legal da atividade administrativa, ou seja, o administrador só pode fazer o que a lei expressamente autoriza (princípio da legalidade estrita para a Administração). Outras manifestações incluem: a proibição de alienar bens públicos sem prévia autorização legal e procedimento licitatório (salvo exceções legais), a impossibilidade de renunciar a direitos ou prerrogativas públicas sem expressa previsão legal, a necessidade de motivação para os atos administrativos, e a responsabilidade do agente público por atos que violem o interesse público. A Lei de Improbidade Administrativa (Lei nº 8.429/92) é um exemplo claro da proteção legal contra a má gestão dos interesses públicos.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_007",
+      "material_id": null,
+      "topic_id": null,
+      "order": 7,
+      "title": "Relação e Diferenças entre Supremacia e Indisponibilidade",
+      "content": "Embora complementares e pilares do Regime Jurídico-Administrativo, a Supremacia e a Indisponibilidade possuem naturezas distintas. A Supremacia confere prerrogativas à Administração, permitindo-lhe atuar com superioridade sobre o particular em prol do bem comum. Já a Indisponibilidade impõe restrições à atuação do administrador, impedindo-o de dispor livremente dos interesses públicos, dos quais é mero gestor. Em suma, a Supremacia é uma prerrogativa que instrumentaliza a persecução do interesse público, enquanto a Indisponibilidade é um limite que protege o patrimônio público contra atos arbitrários do administrador.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_008",
+      "material_id": null,
+      "topic_id": null,
+      "order": 8,
+      "title": "Padrão de Cobrança CEBRASPE",
+      "content": "O CEBRASPE (antigo CESPE) frequentemente aborda os princípios da Supremacia e da Indisponibilidade do Interesse Público em suas provas de Direito Administrativo, especialmente no formato 'Certo/Errado'. A banca costuma testar a compreensão conceitual dos princípios, suas manifestações, limites e a relação entre eles. É comum que as questões busquem confundir o candidato sobre a natureza absoluta ou relativa desses princípios, ou sobre a quem pertence o interesse público. A banca valoriza a capacidade de identificar as prerrogativas decorrentes da supremacia e as restrições impostas pela indisponibilidade.",
+      "content_type": "teoria"
+    }
+  ],
+  "topicos": [
+    {
+      "external_topic_code": "top_001",
+      "material_id": null,
+      "parent_topic_id": null,
+      "topic_number": "2.2",
+      "title": "Supremacia do interesse público sobre o privado e indisponibilidade, pela administração, dos interesses púbicos",
+      "reference_block_external_id": "blc_001",
+      "level": 1,
+      "order": 1
+    },
+    {
+      "external_topic_code": "top_002",
+      "material_id": null,
+      "parent_topic_id": null,
+      "topic_number": "2.2.1",
+      "title": "Conceito e Fundamento da Supremacia do Interesse Público",
+      "reference_block_external_id": "blc_002",
+      "level": 1,
+      "order": 2
+    },
+    {
+      "external_topic_code": "top_003",
+      "material_id": null,
+      "parent_topic_id": null,
+      "topic_number": "2.2.1.1",
+      "title": "Manifestações e Prerrogativas",
+      "reference_block_external_id": "blc_003",
+      "level": 1,
+      "order": 3
+    },
+    {
+      "external_topic_code": "top_004",
+      "material_id": null,
+      "parent_topic_id": null,
+      "topic_number": "2.2.1.2",
+      "title": "Limites e Relativização",
+      "reference_block_external_id": "blc_004",
+      "level": 1,
+      "order": 4
+    },
+    {
+      "external_topic_code": "top_005",
+      "material_id": null,
+      "parent_topic_id": null,
+      "topic_number": "2.2.2",
+      "title": "Conceito e Fundamento da Indisponibilidade dos Interesses Públicos",
+      "reference_block_external_id": "blc_005",
+      "level": 1,
+      "order": 5
+    },
+    {
+      "external_topic_code": "top_006",
+      "material_id": null,
+      "parent_topic_id": null,
+      "topic_number": "2.2.2.1",
+      "title": "Manifestações e Restrições",
+      "reference_block_external_id": "blc_006",
+      "level": 1,
+      "order": 6
+    },
+    {
+      "external_topic_code": "top_007",
+      "material_id": null,
+      "parent_topic_id": null,
+      "topic_number": "2.2.3",
+      "title": "Relação e Diferenças entre os Princípios",
+      "reference_block_external_id": "blc_007",
+      "level": 1,
+      "order": 7
+    },
+    {
+      "external_topic_code": "top_008",
+      "material_id": null,
+      "parent_topic_id": null,
+      "topic_number": "2.2.4",
+      "title": "Padrão de Cobrança CEBRASPE",
+      "reference_block_external_id": "blc_008",
+      "level": 1,
+      "order": 8
+    }
+  ],
+  "topico_componentes": [
+    {
+      "component_id": "cmp_001",
+      "topic_id": "top_002",
+      "component_type": "Definição",
+      "content": "A Supremacia do Interesse Público é o princípio que confere à Administração Pública uma posição de privilégio nas relações com os particulares, determinando que o interesse da coletividade deve prevalecer sobre os interesses individuais em situações de conflito.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_002",
+      "topic_id": "top_002",
+      "component_type": "Fundamento Constitucional",
+      "content": "Embora implícito, decorre de uma interpretação sistemática da Constituição Federal de 1988, especialmente dos artigos 1º (fundamentos da República), 3º (objetivos fundamentais) e 37, caput (princípios da Administração Pública).",
+      "order": 2
+    },
+    {
+      "component_id": "cmp_003",
+      "topic_id": "top_003",
+      "component_type": "Exemplo de Prerrogativa",
+      "content": "Desapropriação: O Estado pode adquirir bens privados para fins públicos, mediante indenização.",
+      "order": 3
+    },
+    {
+      "component_id": "cmp_004",
+      "topic_id": "top_003",
+      "component_type": "Exemplo de Prerrogativa",
+      "content": "Poder de Polícia: A Administração pode restringir direitos e liberdades individuais em prol da segurança, saúde, moralidade pública, etc.",
+      "order": 4
+    },
+    {
+      "component_id": "cmp_005",
+      "topic_id": "top_004",
+      "component_type": "Limite Essencial",
+      "content": "Princípio da Proporcionalidade: As medidas administrativas que restringem direitos individuais devem ser adequadas, necessárias e proporcionais ao fim público que se busca.",
+      "order": 5
+    },
+    {
+      "component_id": "cmp_006",
+      "topic_id": "top_004",
+      "component_type": "Limite Essencial",
+      "content": "Direitos Fundamentais: A supremacia não pode violar o núcleo essencial dos direitos e garantias fundamentais previstos na Constituição.",
+      "order": 6
+    },
+    {
+      "component_id": "cmp_007",
+      "topic_id": "top_005",
+      "component_type": "Definição",
+      "content": "A Indisponibilidade dos Interesses Públicos é o princípio que impede o administrador de dispor livremente dos bens e interesses da coletividade, pois ele não é proprietário, mas mero gestor ou guardião.",
+      "order": 7
+    },
+    {
+      "component_id": "cmp_008",
+      "topic_id": "top_005",
+      "component_type": "Fundamento Constitucional",
+      "content": "Também implícito, decorre do art. 37, caput, da CF/88, que impõe os princípios da legalidade, impessoalidade, moralidade, publicidade e eficiência, exigindo que a Administração atue sempre em prol do bem comum.",
+      "order": 8
+    },
+    {
+      "component_id": "cmp_009",
+      "topic_id": "top_006",
+      "component_type": "Exemplo de Restrição",
+      "content": "Legalidade Estrita: A Administração só pode agir quando há expressa previsão legal, não podendo renunciar a direitos ou prerrogativas sem autorização da lei.",
+      "order": 9
+    },
+    {
+      "component_id": "cmp_010",
+      "topic_id": "top_006",
+      "component_type": "Exemplo de Restrição",
+      "content": "Licitação: A alienação de bens públicos, em regra, exige processo licitatório para garantir a isonomia e a melhor proposta para o interesse público.",
+      "order": 10
+    },
+    {
+      "component_id": "cmp_011",
+      "topic_id": "top_007",
+      "component_type": "Natureza da Supremacia",
+      "content": "Prerrogativa: A Supremacia confere à Administração poderes especiais para a consecução do interesse público.",
+      "order": 11
+    },
+    {
+      "component_id": "cmp_012",
+      "topic_id": "top_007",
+      "component_type": "Natureza da Indisponibilidade",
+      "content": "Restrição: A Indisponibilidade limita a atuação do administrador, impedindo-o de dispor livremente dos interesses públicos.",
+      "order": 12
+    }
+  ],
+  "pegadinhas": [
+    {
+      "trap_id": "peg_001",
+      "material_id": null,
+      "topic_id": "top_004",
+      "title": "Pegadinha 1",
+      "description": "Afirmar que a supremacia do interesse público é um princípio absoluto e que justifica a desconsideração de quaisquer direitos individuais. (CEBRASPE adora essa!)",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 1
+    },
+    {
+      "trap_id": "peg_002",
+      "material_id": null,
+      "topic_id": "top_005",
+      "title": "Pegadinha 2",
+      "description": "Sustentar que o administrador público é proprietário dos bens e interesses públicos e, por isso, pode dispor deles livremente. (Clássica do CEBRASPE!)",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 2
+    },
+    {
+      "trap_id": "peg_003",
+      "material_id": null,
+      "topic_id": "top_007",
+      "title": "Pegadinha 3",
+      "description": "Confundir as características dos dois princípios, atribuindo à supremacia a ideia de restrição e à indisponibilidade a de prerrogativa.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 3
+    },
+    {
+      "trap_id": "peg_004",
+      "material_id": null,
+      "topic_id": "top_002",
+      "title": "Pegadinha 4",
+      "description": "Afirmar que a Supremacia do Interesse Público está expressamente prevista na Constituição Federal.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 4
+    }
+  ],
+  "pontos_memorizacao": [
+    {
+      "memory_id": "mem_001",
+      "material_id": null,
+      "topic_id": "top_001",
+      "title": null,
+      "content": "Regime Jurídico-Administrativo = Prerrogativas + Sujeições.",
+      "order": 1
+    },
+    {
+      "memory_id": "mem_002",
+      "material_id": null,
+      "topic_id": "top_002",
+      "title": null,
+      "content": "Supremacia = Prevalência do interesse coletivo sobre o particular. Gera prerrogativas.",
+      "order": 2
+    },
+    {
+      "memory_id": "mem_003",
+      "material_id": null,
+      "topic_id": "top_005",
+      "title": null,
+      "content": "Indisponibilidade = Administrador é guardião, não proprietário. Gera restrições.",
+      "order": 3
+    },
+    {
+      "memory_id": "mem_004",
+      "material_id": null,
+      "topic_id": "top_004",
+      "title": null,
+      "content": "Supremacia NÃO é absoluta. Limites: Direitos Fundamentais, Proporcionalidade, Legalidade.",
+      "order": 4
+    },
+    {
+      "memory_id": "mem_005",
+      "material_id": null,
+      "topic_id": "top_006",
+      "title": null,
+      "content": "Indisponibilidade implica Legalidade Estrita: só pode fazer o que a lei autoriza.",
+      "order": 5
+    }
+  ],
+  "quadro_sinotico_itens": [
+    {
+      "summary_item_id": "sum_001",
+      "title": null,
+      "content": "",
+      "order": 1
+    },
+    {
+      "summary_item_id": "sum_002",
+      "title": null,
+      "content": "",
+      "order": 2
+    },
+    {
+      "summary_item_id": "sum_003",
+      "title": null,
+      "content": "",
+      "order": 3
+    },
+    {
+      "summary_item_id": "sum_004",
+      "title": null,
+      "content": "",
+      "order": 4
+    },
+    {
+      "summary_item_id": "sum_005",
+      "title": null,
+      "content": "",
+      "order": 5
+    }
+  ],
+  "questoes": [
+    {
+      "question_id": "qst_001",
+      "material_id": null,
+      "topic_id": "top_008",
+      "board": "CEBRASPE",
+      "year": "2023",
+      "organization": null,
+      "role": null,
+      "statement": "Os princípios da supremacia do interesse público e da indisponibilidade do interesse público são basilares ao regime jurídico administrativo, porquanto deles decorrem as prerrogativas e as restrições aplicadas à administração pública.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": null,
+      "external_reference": "Questão 2395722 CEBRASPE (CESPE) - Analista Judiciário 02 (TJ ES) - Tec Concursos / Questão 2777379 CEBRASPE (CESPE) - TJ ES - Analista Judiciário - Área: Administrativa - Gran Questões",
+      "commentary": "Certo. Esta questão reflete um entendimento consolidado na doutrina e frequentemente cobrado pelo CEBRASPE. Os princípios da supremacia e da indisponibilidade são, de fato, os pilares do regime jurídico-administrativo, sendo a supremacia a fonte das prerrogativas (vantagens da Administração) e a indisponibilidade a fonte das restrições (limites à atuação do administrador).",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_001"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_002",
+      "material_id": null,
+      "topic_id": "top_008",
+      "board": "CEBRASPE",
+      "year": "2022",
+      "organization": null,
+      "role": null,
+      "statement": "A supremacia do interesse público, por ser um princípio fundamental do Direito Administrativo, autoriza o gestor público a agir sem prévia autorização em lei, desde que sua conduta vise ao bem comum.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": null,
+      "external_reference": "Adaptado de padrão CEBRASPE sobre legalidade e supremacia.",
+      "commentary": "Errado. Embora a supremacia do interesse público seja um princípio basilar, ela não autoriza o gestor público a agir sem prévia autorização legal. A Administração Pública está estritamente vinculada ao princípio da legalidade (art. 37, caput, da CF/88), que exige que seus atos sejam sempre pautados na lei. A busca pelo bem comum deve ocorrer dentro dos limites legais.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_002"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_003",
+      "material_id": null,
+      "topic_id": "top_008",
+      "board": "CEBRASPE",
+      "year": "2021",
+      "organization": null,
+      "role": null,
+      "statement": "O princípio da indisponibilidade do interesse público significa que o administrador é o proprietário dos bens e interesses da coletividade, podendo dispor deles conforme sua conveniência, desde que não haja dolo.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": null,
+      "external_reference": "Adaptado de padrão CEBRASPE sobre indisponibilidade.",
+      "commentary": "Errado. O princípio da indisponibilidade do interesse público estabelece que o administrador não é proprietário dos bens e interesses da coletividade, mas sim seu mero gestor ou guardião. Portanto, ele não pode dispor desses interesses conforme sua conveniência, mas apenas nos termos e limites estabelecidos pela lei, sempre visando ao interesse público.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_003"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_004",
+      "material_id": null,
+      "topic_id": "top_008",
+      "board": "CEBRASPE",
+      "year": "2020",
+      "organization": null,
+      "role": null,
+      "statement": "A desapropriação, a requisição administrativa e o poder de polícia são exemplos de prerrogativas da Administração Pública que se fundamentam no princípio da supremacia do interesse público.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": null,
+      "external_reference": "Adaptado de padrão CEBRASPE sobre manifestações da supremacia.",
+      "commentary": "Certo. A desapropriação, a requisição administrativa e o poder de polícia são exemplos clássicos de prerrogativas da Administração Pública que demonstram a prevalência do interesse coletivo sobre o particular, sendo, portanto, manifestações diretas do princípio da supremacia do interesse público.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_004"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_005",
+      "material_id": null,
+      "topic_id": "top_008",
+      "board": "CEBRASPE",
+      "year": "2019",
+      "organization": null,
+      "role": null,
+      "statement": "Apesar de sua importância, o princípio da supremacia do interesse público encontra limites nos direitos e garantias fundamentais, devendo sua aplicação ser pautada pela proporcionalidade e razoabilidade.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": null,
+      "external_reference": "Adaptado de padrão CEBRASPE sobre limites da supremacia.",
+      "commentary": "Certo. Esta afirmação está correta e reflete a visão moderna e constitucionalizada do Direito Administrativo. A supremacia do interesse público não é absoluta e deve ser harmonizada com os direitos e garantias fundamentais, aplicando-se os princípios da proporcionalidade e razoabilidade para evitar abusos e garantir a justiça no caso concreto.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_005"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_006",
+      "material_id": null,
+      "topic_id": "top_008",
+      "board": "CEBRASPE",
+      "year": "2018",
+      "organization": null,
+      "role": null,
+      "statement": "O princípio da indisponibilidade do interesse público está diretamente relacionado ao princípio da legalidade estrita, que impõe à Administração Pública a atuação somente nos termos expressamente autorizados por lei.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": null,
+      "external_reference": "Adaptado de padrão CEBRASPE sobre indisponibilidade e legalidade.",
+      "commentary": "Certo. O princípio da indisponibilidade do interesse público está intrinsecamente ligado ao princípio da legalidade estrita (ou legalidade para a Administração Pública). Isso significa que o administrador só pode praticar os atos e dispor dos interesses públicos quando houver expressa autorização legal para tanto, protegendo o patrimônio e os interesses da coletividade.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_006"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_007",
+      "material_id": null,
+      "topic_id": "top_008",
+      "board": "CEBRASPE",
+      "year": "2017",
+      "organization": null,
+      "role": null,
+      "statement": "A Supremacia do Interesse Público e a Indisponibilidade dos Interesses Públicos são princípios expressamente previstos no artigo 37 da Constituição Federal de 1988.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": null,
+      "external_reference": "Adaptado de padrão CEBRASPE sobre a natureza implícita dos princípios.",
+      "commentary": "Errado. Embora sejam princípios fundamentais do Direito Administrativo, a Supremacia do Interesse Público e a Indisponibilidade dos Interesses Públicos são princípios implícitos no ordenamento jurídico brasileiro. Eles são inferidos de uma interpretação sistemática da Constituição Federal, especialmente do art. 37, caput, mas não estão expressamente elencados nesse dispositivo.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_007"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_008",
+      "material_id": null,
+      "topic_id": "top_008",
+      "board": "CEBRASPE",
+      "year": "2016",
+      "organization": null,
+      "role": null,
+      "statement": "A flexibilização do princípio da indisponibilidade do interesse público, permitindo acordos e transações em certas situações, é uma tendência da doutrina e da jurisprudência, desde que haja previsão legal e benefício ao interesse público superior.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": null,
+      "external_reference": "Adaptado de padrão CEBRASPE sobre flexibilização da indisponibilidade.",
+      "commentary": "Certo. A doutrina e a jurisprudência têm reconhecido a possibilidade de flexibilização do princípio da indisponibilidade em situações específicas, como em acordos e transações, desde que haja previsão legal para tal e que a medida resulte em um benefício para o interesse público superior, sempre sob rigoroso controle.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_008"
+        ],
+        "count": 1
+      }
+    }
+  ],
+  "comentarios_questoes": [
+    {
+      "comment_id": "com_001",
+      "question_id": "qst_001",
+      "content": "Certo. Esta questão reflete um entendimento consolidado na doutrina e frequentemente cobrado pelo CEBRASPE. Os princípios da supremacia e da indisponibilidade são, de fato, os pilares do regime jurídico-administrativo, sendo a supremacia a fonte das prerrogativas (vantagens da Administração) e a indisponibilidade a fonte das restrições (limites à atuação do administrador).",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_002",
+      "question_id": "qst_002",
+      "content": "Errado. Embora a supremacia do interesse público seja um princípio basilar, ela não autoriza o gestor público a agir sem prévia autorização legal. A Administração Pública está estritamente vinculada ao princípio da legalidade (art. 37, caput, da CF/88), que exige que seus atos sejam sempre pautados na lei. A busca pelo bem comum deve ocorrer dentro dos limites legais.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_003",
+      "question_id": "qst_003",
+      "content": "Errado. O princípio da indisponibilidade do interesse público estabelece que o administrador não é proprietário dos bens e interesses da coletividade, mas sim seu mero gestor ou guardião. Portanto, ele não pode dispor desses interesses conforme sua conveniência, mas apenas nos termos e limites estabelecidos pela lei, sempre visando ao interesse público.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_004",
+      "question_id": "qst_004",
+      "content": "Certo. A desapropriação, a requisição administrativa e o poder de polícia são exemplos clássicos de prerrogativas da Administração Pública que demonstram a prevalência do interesse coletivo sobre o particular, sendo, portanto, manifestações diretas do princípio da supremacia do interesse público.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_005",
+      "question_id": "qst_005",
+      "content": "Certo. Esta afirmação está correta e reflete a visão moderna e constitucionalizada do Direito Administrativo. A supremacia do interesse público não é absoluta e deve ser harmonizada com os direitos e garantias fundamentais, aplicando-se os princípios da proporcionalidade e razoabilidade para evitar abusos e garantir a justiça no caso concreto.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_006",
+      "question_id": "qst_006",
+      "content": "Certo. O princípio da indisponibilidade do interesse público está intrinsecamente ligado ao princípio da legalidade estrita (ou legalidade para a Administração Pública). Isso significa que o administrador só pode praticar os atos e dispor dos interesses públicos quando houver expressa autorização legal para tanto, protegendo o patrimônio e os interesses da coletividade.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_007",
+      "question_id": "qst_007",
+      "content": "Errado. Embora sejam princípios fundamentais do Direito Administrativo, a Supremacia do Interesse Público e a Indisponibilidade dos Interesses Públicos são princípios implícitos no ordenamento jurídico brasileiro. Eles são inferidos de uma interpretação sistemática da Constituição Federal, especialmente do art. 37, caput, mas não estão expressamente elencados nesse dispositivo.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_008",
+      "question_id": "qst_008",
+      "content": "Certo. A doutrina e a jurisprudência têm reconhecido a possibilidade de flexibilização do princípio da indisponibilidade em situações específicas, como em acordos e transações, desde que haja previsão legal para tal e que a medida resulte em um benefício para o interesse público superior, sempre sob rigoroso controle.",
+      "explanation_alternatives": ""
+    }
+  ],
+  "checklist_revisao": [
+    {
+      "checklist_id": "chk_001",
+      "material_id": null,
+      "topic_id": "top_001",
+      "item_text": "Compreendeu o conceito de Regime Jurídico-Administrativo e seus pilares?",
+      "completed": false,
+      "order": 1
+    },
+    {
+      "checklist_id": "chk_002",
+      "material_id": null,
+      "topic_id": "top_002",
+      "item_text": "Diferencia Supremacia do Interesse Público de Indisponibilidade dos Interesses Públicos?",
+      "completed": false,
+      "order": 2
+    },
+    {
+      "checklist_id": "chk_003",
+      "material_id": null,
+      "topic_id": "top_003",
+      "item_text": "Identifica as principais prerrogativas decorrentes da Supremacia (desapropriação, poder de polícia)?",
+      "completed": false,
+      "order": 3
+    },
+    {
+      "checklist_id": "chk_004",
+      "material_id": null,
+      "topic_id": "top_004",
+      "item_text": "Conhece os limites da Supremacia (direitos fundamentais, proporcionalidade)?",
+      "completed": false,
+      "order": 4
+    },
+    {
+      "checklist_id": "chk_005",
+      "material_id": null,
+      "topic_id": "top_005",
+      "item_text": "Entende por que o administrador é guardião e não proprietário dos interesses públicos?",
+      "completed": false,
+      "order": 5
+    },
+    {
+      "checklist_id": "chk_006",
+      "material_id": null,
+      "topic_id": "top_006",
+      "item_text": "Reconhece as restrições impostas pela Indisponibilidade (legalidade estrita, licitação)?",
+      "completed": false,
+      "order": 6
+    },
+    {
+      "checklist_id": "chk_007",
+      "material_id": null,
+      "topic_id": "top_007",
+      "item_text": "Sabe que ambos os princípios são implícitos na CF/88?",
+      "completed": false,
+      "order": 7
+    },
+    {
+      "checklist_id": "chk_008",
+      "material_id": null,
+      "topic_id": "top_008",
+      "item_text": "Está atento às pegadinhas do CEBRASPE sobre a absolutização dos princípios ou a confusão entre eles?",
+      "completed": false,
+      "order": 8
+    }
+  ],
+  "referencias": [
+    {
+      "reference_id": "ref_001",
+      "material_id": null,
+      "reference_type": "Artigo Online",
+      "author_name": "Vertex AI Search",
+      "title": "Princípio da Supremacia do Interesse Público - Modelo Inicial",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEF7tvQ3SzHvdS6teN1JImht4s-cXUVbhoSdn600v79GR6RhXGHENXJi5b9u2nXywXwkF4Na4l1SAlrN1sVdR9WW-BeJejCkChNeQ2ugCa8SPIPoOkqoneZQePPjAqSb3Kpnxes7XGkeDzZYGQWGuLevh2CaLN6A0lI_9J3-nuqP2wf3rYBwdwyuEX1kw7mW57hf93tntGyQ57bWj6z83yYWA==",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_002",
+      "material_id": null,
+      "reference_type": "Artigo Online",
+      "author_name": "JurisHand AI Vade Mecum",
+      "title": "Definição jurídica: Supremacia do interesse público | JurisHand AI Vade Mecum",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGIpT5c-svUY9eNxSRdNe8oqBDUng1ScagcNuIlDrmH0PDD6bq0mnd2r-83qpCKB5wi4va8xmgxjXSweLUrL-4ZXaPLLd-pJ8U0cm1vIfBOQsPUnIS1JS7tdKVmKzndSzz418JJmRxtgJRBi5aSYMq0BRPWPG8U7lJCtzeIGrk8zTimrYk=",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_003",
+      "material_id": null,
+      "reference_type": "Artigo Online",
+      "author_name": "Legale Educacional",
+      "title": "Princípio da supremacia do interesse público - Legale Educacional",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHUsxVBriL_dMQGkLHIfCFksB4SLGT8_mlNQHHXsRRhmT__sCe3Qo57abkfj2wLJY168naRw9wqtoynhR5r6m0RVHaFkdor30YIKvsv81ZC6DvERjbALSIer4tXfj1-5DCp8RSTi7yRZHGRXJ2buYwOyLPUDvqZke2P2L-33lwc6fJ_KQ==",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_004",
+      "material_id": null,
+      "reference_type": "Artigo Online",
+      "author_name": "Cecilia Advogados",
+      "title": "O que é: Princípio da Indisponibilidade do Interesse Público - Cecilia Advogados",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH8FEGopTHwlzDuZPRSYad6Mu8n-nNjiPCnbnonFj-kq76MabKU38CAeojxnXayXZJ14dwHovccRM7py9KunNXdkVb97HWY0WfMVRvyJBKiw6dnVJnjHA3TNDy9MzGmjRbQSxhyNfwZMdedN-qwdBkhIfW4jl718-DDSeHCIJmfjto1PyxjFCeapGaSxbHN_DMmYkgwNrfG99jFWdnIgM8qlw==",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_005",
+      "material_id": null,
+      "reference_type": "Artigo Online",
+      "author_name": "Vertex AI Search",
+      "title": "Princípio da Indisponibilidade do Interesse Público - Modelo Inicial",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFBaSG85PaJ6DQAyy3DAYwiMoHm2tfSAKfW2cEmwKdBWw23u0MIiVxqSL9BNSyisfDArpAIr7Y85RNxzxPxS7gUdb3jxAvkb2UuF63NAa0TjdLSywljW-0IIuvIE6jQvSXd6YBTOt10EmmPG3oiaqVjMrIC-ZEWP7sGGZ9FO7ZYjPJVZyzNwKQ4r6sZ7J8aZsJGyzwLeJGXQraa6EDzFShzK7w0vigFNfE=",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_006",
+      "material_id": null,
+      "reference_type": "Artigo Online",
+      "author_name": "Educamundo",
+      "title": "Princípio da Indisponibilidade do Interesse Público: Entenda Agora! | Blog do Educamundo",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHfDyjqMBOzmHfG0ACey05Djn5_j5lGOEWrdnxoXHNnIKtciuipLQ7O5nmtvT7GL0ATvteLmZPODqQ-dXwawEiOA54WX2knk_VY46WCdAg6rsLINY3bL3pH2XzPm4tApzJaTP8-wnt3OdF1FSLgMYf0gPgY6RmVNRPEBTcCTkdgpWYzjt6Zjv3i",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_007",
+      "material_id": null,
+      "reference_type": "Artigo Online",
+      "author_name": "1Doc",
+      "title": "Indisponibilidade do interesse público: entenda como ela se aplica! - Blog 1Doc",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGJW9jFK-i9LAL6aJpHTNQ8m-wz4ocHfGDHdOMW6sZ2XtvEEAg-N6qw6rfv97Zpcn9j0DwHBIT86KzDwv1W88SGji6pWuhbfZyS-vd7L40xI7otCxaz799o3QOrsgTY572ZKuee1waRawmFe1mqsNYYWRN1MbTEEKELQ-A=",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_008",
+      "material_id": null,
+      "reference_type": "Artigo Online",
+      "author_name": "Designed Law",
+      "title": "What is the Principle of the Unavailability of Public Interest? #designedlaw #bar exam study - YouTube",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFFV-ppLE1BCPhp3kf65hgqHP_w1Jc-adMZRi7nV_nPlNYtCROsMLPz_IFOS3euzrQu20BjcOCw6rriDWJMKx6qufd4EoZmDMkyYNBX6WbkvPCZcBMoySu3XHOiTjcqACUP_9uBvAA==",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_009",
+      "material_id": null,
+      "reference_type": "Artigo Online",
+      "author_name": "Educamundo",
+      "title": "Indisponibilidade do Interesse Público: Entenda Seu Impacto | Blog do Educamundo",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEpxV1RsM_Tq7B1dJI1gKn9suArKjg1mz7E3aXR1tkEuE6NIMqxw-XXuJIdra8otnfbugXE0wePwnB9wMNKU7br3lVaOi2WQeGs27dDGd8dksR3vWa3TI-ONUls498EcSZpfCJ530x27dFJWtV28i1NECU1PIhgtb1Ik5BXs53pKiGeujOAlw==",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_010",
+      "material_id": null,
+      "reference_type": "Artigo Online",
+      "author_name": "EMERJ",
+      "title": "INTERESSE PÚBLICO VERSUS INTERESSE PRIVADO: A SUPREMACIA DO INTERESSE PÚBLI - EMERJ",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHo5KAq48FOOLmFMZT_0rvftJ9IuY6lSymHEBaeRrB6rfe9Oh_93xSyEl1qmbP-H3BbbPZpA5_pdKEPsK87ikgI6crre2ZtUgWuo-ZBMAlWmxvnvjiNzHD0HLU9eLO3C5Y6A-9gbHG-VO9EdNPy8Du2KwcJG9I326m69PnXNpsObCE56OemRk4EMxCNpgyrp0rWp3NhB8SHzfGqNdJ_iHanPRIBpiKBqEdNZ7QKtvKpg==",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_011",
+      "material_id": null,
+      "reference_type": "Artigo Online",
+      "author_name": "Revista Jurídica da Presidência",
+      "title": "Supremacia do interesse público, direitos fundamentais e a proporcionalidade nos atos das Agências Reguladoras - Revista Jurídica da Presidência",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGzFYXHU0G2FTC8ZULkY1p9HF2tIbr4kC2QcS2xZh1eTXK5ttHEgR5CRnFy7hCgpmPAytwsONsrK3sRfBhhKxoniEqt7pSybF2AcR5YmIkfMRxKbasQiXbEdloJDPk9k5rYmwDpQzvJorvCANYEtBObHgpLzlmLT3ScER409zCFufHQFTljZm5dAPUzS9AlZ0ureQ8=",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_012",
+      "material_id": null,
+      "reference_type": "Artigo Online",
+      "author_name": "JOTA",
+      "title": "Precisamos falar sobre a 'indisponibilidade do interesse público' - JOTA",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHMNTkg0VuDSFpcIv9sSwH_v4r1Hd0xg9LSAE-jlzFvRaDbjtxCd9y7rG3PMnPZKorMU_98AJPrzJHlVPM1hl6xDT1yUyWRF4NXMaLiOZPSfxaQLnWz---64ja5RHMUAaF0q_zUzrG6HHeDumR5WvT3Sej4dsaAxda16HIccCbHfhG5FyN6NLqN0lZP5Ggl1Vrzai7vpGz733kzNagJLH2GqMWQoGR42pRgk8vf0mJtDmnsYXG-agGhQ==",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_013",
+      "material_id": null,
+      "reference_type": "Artigo Online",
+      "author_name": "Revista Vianna Sapiens",
+      "title": "ART 4- SUPREMACIA DO INTERESSE PÚBLICO SOBRE O PARTICULAR - Revista Vianna Sapiens",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFuakzeaRSWrW9ITmkH4nShcKXD7yaU761QhEy-N20KZ-OmvuvwrCy7dHyCYbwSKrxHbfrKsXXDzaFhDpujTAsAHrsYjUEgpvFoEGhEsi8Mm9asoAbTFOg-Y7_6yDKsl94_9gWjky1Fp9SrzqdF3xbThN1v8qQQEjcG5caYn2o=",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_014",
+      "material_id": null,
+      "reference_type": "Artigo Online",
+      "author_name": "Jusbrasil",
+      "title": "Proporcionalidade: Limite à supremacia do interesse público",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH3HqZWC4KK6jVZrwM_0UiKUC11kJ04Q9IBhwhxvOrrM9rWoWrLiG2MLlggfvB8NljSIJrFZlaaq3xVhWBYJyWiyPNQhLdGC-5ZoT_T_xtZ4JZ6bZefLCiiMFqx99XWgsded154gT2CkIIreJwY_XiVYLDF_MINdnDD_NlEK-90DUB1Iw9Ut3qwR-ximbraGyznJaTRHveU",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_015",
+      "material_id": null,
+      "reference_type": "Artigo Online",
+      "author_name": "Tânia Cruz Pereira",
+      "title": "O PRINCÍPIO DA SUPREMACIA DO INTERESSE PÚBLICO SOB O ULTIMATO DA PROVA: OS CASOS DE INDEFERIMENTO DOS PEDIDOS DOS SERVIDORES P",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGDzVbFrWB-rsZhSCtpSXtexDfJnsYNdlpsHozVrw0Fk2stU2QAb2MIjTPl5bwL2TCWCmyKRHcZFhQlHrcA41wTcMV1C7IM6oh0gx-aNQM38EpsOpegOYtPK2dXgLutjJs4vzjSGwyRks_UCZ9UmrBpZNG_w44WE574k9eatwEzogiBR_MyEmEw3N5FHVwL93nSYoE-5xgoi5KAl0=",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_016",
+      "material_id": null,
+      "reference_type": "Artigo Online",
+      "author_name": "Jurismenteaberta",
+      "title": "Supremacia do Interesse Público: Fundamento, Limites e Aplicação no Direito Administrativo - Jurismenteaberta",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE-7Vazb4nEUSjjEgTuJMwWBgkE6fPXP93-Se4AlfedLzbynhx7nh5I5A5YBn95MNZ5OH_9OO07QZ6Rz1UcJCY334HUZP3YraRstCSUFE0lE2P3B-umw9icUKMotqqN2db4rrcE9Xm89cGj6xKrVsG8tFJgoPljTFj9CDmCZoqQnySBdYF-nrwuZO-h_koiD5q1fYEmZneAGKRw7VvHw55Ukk70oQ8nGpy11IMOTbyesVwDG7k=",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_017",
+      "material_id": null,
+      "reference_type": "Artigo Online",
+      "author_name": "Trilhante",
+      "title": "Regime Jurídico Administrativo: definições e fundamentos - Trilhante",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFoZ5aOxDxFLRXpttIkdcTyQ4ICVCP3yzHhIIkeM_C1ZTG4ASMEV4-7RAnNslpGGKPkKAK2ikyjKGkcLZl4ZdItHErFlSG6G017BrEKRN-1TpAL_Ill0TmFkZq-4n-tihjZI-TSyUQ7CAs_oKXhjDUYUBdVvLYoVTtrjJalXwS95KjP204a1aBYU04mt0-7ORnLRfrWH2fLe2jlnpb6wo9OiC0m_fyeNWpdCIhIF50RjDsrsd2p",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_018",
+      "material_id": null,
+      "reference_type": "Artigo Online",
+      "author_name": "Arbitralis",
+      "title": "Doutrina do Direito Administrativo: Fundamentos, Autores e Aplicações - Arbitralis",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFKqvtQe1d0wg279EIlY4gDkxDgqcgGxz_nXQXwuNcuwAVdGw7SZBIUQbayX6MrfIuG3gI08gqyUbAf63wWE5N1lZrjjFHWN-uicrxxUv3bXg8BActCInbIABkgQyu4uF3h_ecVTfu2g0oCpxSwIPCB3FMm5RMMiAbDGFZcgPFNlw==",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_019",
+      "material_id": null,
+      "reference_type": "Artigo Online",
+      "author_name": "MPRJ",
+      "title": "Supremacia do interesse público e Estado de Direito - MPRJ",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFETNTwVuPd3REramZr1Aagqq87ZCeiZsVO_NvCe70jYiMWJfBOMUz5HyeYWwPhH1kZrPNBA7WvqF6H3Db2Lexwo-dwza7qBrgVKT_g1WCMm-e-Lb3NevNFkfCCg5Htqx98Aw9ZsLkS6vPPTuaygR1Z8IIN8tQqpLi36tve92X_nl2t8qFs4iwtVs-e5A==",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_020",
+      "material_id": null,
+      "reference_type": "Artigo Online",
+      "author_name": "TerraPuri",
+      "title": "Os limites da aplicabilidade do princípio da supremacia do interesse público para os casos de desapropriação no Estado Democrático - TerraPuri",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFngFC7ihM42mCa0hzh6qVRo4160P66N544lxGfEvZ-lNVBijUj3FI0V5k0KJVvHpIY0N2AtfYg1abrF1RZRIGFjbQb9xiJiYGOhb50rZ5JdgH0U16qStzluKk8AH4Td9xizSmSFhejw6mVq70o5mppr-IMmYXoPnnBWooipvIGVJhYytP1P6phpFNT_EgZwRw==",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_021",
+      "material_id": null,
+      "reference_type": "Artigo Online",
+      "author_name": "Estratégia Concursos",
+      "title": "Princípios Implícitos da Administração Pública - Estratégia Concursos",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFbvXW-y-E29r_OQfVzociLNz5YGUL0zcv1SJbwWmB3lmHThMF7OQaNXTOi1tkLz5RQiN3oBtsKulfv1mjBtfFN2xWI9gG5gqoXGWTajTDzwWZVMUfUgiejNzKUODF1T2STl6WBolcLZtNOH8qUttCqSlGGppAGfg4DNJ0fBMRo5cBHYOvPZsqAKAbWCgIRL5TK2j8=",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_022",
+      "material_id": null,
+      "reference_type": "Artigo Online",
+      "author_name": "Tec Concursos",
+      "title": "Questão 2395722 CEBRASPE (CESPE) - Analista Judiciário 02 (TJ ES) - Tec Concursos",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHHt3MUQim2DzS-z9Kg-UmUs6oA_ZKH_z2K6f3mYGGjUxNgZ69I9HbCnU4kKAOiVbIBSGw3Mt5WIuwBIZ1znhHDlcg7hEtRrh0DJ7HH6wPGUlBMdONa5WtSv422y0Fb8_CnNq_PZsPoVM-f5A==",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_023",
+      "material_id": null,
+      "reference_type": "Artigo Online",
+      "author_name": "Jusbrasil",
+      "title": "O Regime Jurídico Administrativo",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFVK64dF3MPd7gyeyufy3t7t2wbnHgoXtgw8LVJr_7gHSu-C9eY1-OcO_w7rB5fkrIWDAy1YW1TSSa1jvNo0zE_E0HAxJTPJj73WPEsR0e4ZIYX1f6hYU26fCannGPBvjddY2B_J0xQRYqQ5LrzjyMnIb8Yt-Xu4kh9IzBC_4uKwEoZN7UgrIk5uBn1Ziybwr38ag==",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_024",
+      "material_id": null,
+      "reference_type": "Artigo Online",
+      "author_name": "Jusbrasil",
+      "title": "Indisponibilidade do Interesse Público: Garantias e Implicações na Gestão Pública",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGbQ2mWqlEtYYXP3OuazhhUMH7u71qb9J3ujemTyJiXLNlPiN3wtkzqZsBlMd-5InyllXe9_CLf81EBBxaA4qMdy-DV5lBerK65uKvtetwWkp3XIv8_qnU5vVlreNBXm3G3-eem2uNpxofAPPdTPAjjK8pk_v6YXd1qfMAitkTcXpnpNJX9yRpVZyCMEhmH_e8cDIn5jI5w2XRIKOAAuheNwr9f0DiqGyu8wdJR",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_025",
+      "material_id": null,
+      "reference_type": "Artigo Online",
+      "author_name": "RI/UFS",
+      "title": "LIMITES DA SUPREMACIA DO INTERESSE PÚBLICO QUANDO CONTRAPOSTOS AO INTERESSE DO CIDADÃO - RI/UFS",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHsCItz1oChUWaMiXfr46flllNiF59Q8IyRPp3_qKXe15F_ovVM-8b1cuvXmVnYzshbEsiL-66Nog2jqNRGD1vzhN2-bljB9O_ABDig-Kr_JFvP1TtcSLm991KxFC_u-ipAGswYiCpX853YmWHECqy34f1SgrgFibdmnNar2WrPyiEX",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_026",
+      "material_id": null,
+      "reference_type": "Artigo Online",
+      "author_name": "SciELO",
+      "title": "O princípio da supremacia do interesse público sobre o interesse privado como fundamento do Direito Administrativo Social - SciELO",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF2G2lKPMzl7kzYSxEni6gxp50fsfdTp8TFQZHnkU83mQQ5PpAAJ68RJlTpq5eq41jq1MP6CAQyKCzDsfQVFvFadawdaCv5VTZoDklgcLsb42z72B4GNNGkcYn7U60TtGxbADwdb4CLtktjuoOGRr6OWIQ=",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_027",
+      "material_id": null,
+      "reference_type": "Video Online",
+      "author_name": "Supremo TV",
+      "title": "Regime Jurídico ADMINISTRATIVO | Prof.ª Flávia Campos - YouTube",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFa9PG4mwuEJJXgFqx6Ypm4FkAV0govVi6ClzAz0a26RmZMSSKs6NxsKOFwC3GHquBJZ4lnWST3_Yi2EOefspZbvoXPdyi16-E73jeC1u6itnlkQxxZwEf5Frff8X_cSTD7DAleypY=",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_028",
+      "material_id": null,
+      "reference_type": "Artigo Online",
+      "author_name": "Celso Antônio Bandeira de Mello",
+      "title": "o CONTEÚDO DO REGIME JURíDICO-ADMINISTRATIVO E SEU VALOR METODOLÓGICO",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGpuqVoQ-t4cAz5nT9JH2v4XakSXqe1RPHauBl-xIqErsBEaO4Qi6iKprvGj3M6J-TIM1Jf5s9muyRrJiPriUeMp3yFHGTvsKob7Q4QokF7mxxk6bzMBVVn1-fmDrlSNk_wsIaL6igjFZeFfrpc-3vBhW2q0DEonsroJ6Y=",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_029",
+      "material_id": null,
+      "reference_type": "Artigo Online",
+      "author_name": "Conteúdo Jurídico",
+      "title": "Princípio da Supremacia do Interesse Público e Princípio da Indisponibilidade do Interesse Público: Pilares do Regime Jurídico-Administrativo - Conteúdo Jurídico",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFaxC1T1PxSKnPvYI-jWADf4C_-MvwMC76c-JRI0nQHysZ9QeoxVz46Lmjb2lenuV9hlVBea70tFC6CxZDycrIXsta2jrMwPau_YurT2tzIsiaBiUVZwMCPI5KQEeQyEY1X941ADVjGMg_B7E_bOJR3SBxX-PUKxiOz-FQlybe_XTxl26tkwzcklPrzDJ8FnUAZ9gQCERgLULn-aD6YggwUnBLiV5PD3Ms_cYH5jmLO0lnZ1q4_MxV2vEF0alwZjYz0QEifgDr77dp3a1YVUTa4e5GKZEjPpPEe2Q2pJbR5yr5UpiGzs1DgN4jVPYstOb97js2A_WQXR58wVjmSBzQ==",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_030",
+      "material_id": null,
+      "reference_type": "Artigo Online",
+      "author_name": "Cadernos Jurídicos da Escola Paulista da Magistratura",
+      "title": "A indisponibilidade do interesse público e a disponibilidade dos direitos subjetivos da Administração Pública1",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQExcqrg77maoO37-dQTxzIJX0Sz84PmjnGljZbVkg0G58bn_ABWPh2I6MsnEvoerh57dfvlcPpT-UHUPnbf5xig06QUisq72-jk5smNeXqRiE-EPKhFnCH7npiQAqUCxcmQyHX3IoiY9JRmIWofnZFqqiIyx4W1tGrQCEgb1K7yAh0cGBriEfwKEZ9QyOrynMEG2OE0PqhbfsKfC43ZQeETngPa_pEgwM_5-W-zFvkPAEI2feIYU41NSzQl0fvOgcRJ4zmeyEvfIX1dDU-O2SKlCi-awhyc1vs1-g==",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_031",
+      "material_id": null,
+      "reference_type": "Artigo Online",
+      "author_name": "Binenbojm",
+      "title": "O que sobrou da indisponibilidade do interesse público? - Binenbojm",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEQMHcqNBhIlqoaUM3mEX8ExsHbzT17_Es7iwPenb-oXc0HoHG71w7km86IDNxtAoh7vXS2QGuxxEoAbwAWwnuIH8z3GakqLiw6-iTSQtDaUiLFNp23C8MdwP45m_fOyc_ubbGDDKQ4HwuF-SRitcaj9J6P4B5DAVLgVAMqO8IIYfKyfxVaERojHRYua7cuuCWe0Nv6x2qS",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_032",
+      "material_id": null,
+      "reference_type": "Artigo Online",
+      "author_name": "Gran Questões",
+      "title": "Acerca da supremacia do interesse público, é correto afirmar que - Gran Questões",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEMM1fZ-Gt3vuUoFvm2bqhm--ARmWQ3GEkzmt40fO8zVsDPWJ3pOZPwUXVGvMM-1b7cN_0DFy6N4BJ2bC7M-0LNpRvGhscffUFskb7Z6ViRfwDCQ-lMc5OveooxJHcHL1m2JeOHEXK_8plIhuzeG-erCsDv_XUglQ6QLA8uVmlDY-2yhZJeXR8Hn_QYh4Ad8EwuYggd3fFo2RfmzH0egs0=",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_033",
+      "material_id": null,
+      "reference_type": "Artigo Online",
+      "author_name": "JOTA",
+      "title": "Flexibilização da supremacia e indisponibilidade do interesse público - JOTA",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEGkKyoClf__WRRA56ZgNl_xof5lySO4x0wHbiAMek75NYZuCqyq6BSXo3d2XgLcNzkWHFEZ_sBhcVtXl9FAvBHzsLNo9nthUZdS67s-M1V9AR02RcgkzptMmq5N_dyN_dCOzXRXSNVndTZTPazNQZgUHyXBL9X6S3S9JXQ_ZFQsudbRN4Y9aiCFLHAt-WCh_3fvDgolAG_vqauLtxPKIkYSaM9VDOxeSpcY7hMAt0tMQ==",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_034",
+      "material_id": null,
+      "reference_type": "Video Online",
+      "author_name": "Câmara dos Deputados",
+      "title": "Tópicos Básicos de Direito Administrativo - Indisponibilidade e da supremacia do interesse público - YouTube",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEMqjwRKvTPx9czaQjoAZ44ERODa4D6atuCFhEM1CJkMUijDzxXgYeyRr9hE4_GZBCKAZe9spYwBtn3zaUfOTAr9vrVbywFPyU6iGNM0WGdAMVqdJSx58gGMyfVYDn0M2hz6bvaIC4=",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_035",
+      "material_id": null,
+      "reference_type": "Artigo Online",
+      "author_name": "Gran Questões",
+      "title": "Os princípios da supremacia do interesse público e da ind... - Gran Questões",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGV9AR-ucD4HSPHxRkHbdopNskY_0zq1W-u7BBg-eYk_mZCZIiZGIVYzGJ-1nbUiTFco8G8qYg5cb-w-BKBzkrfOSOc0k06KS6o1nL1oySIOZu-53ihxLq1-Iyvw0NtokrdLECyYW5tsYAJ6ht06xyCmdzzIB_k60SN1etXepxAb-NkT46DNtnHmomb5CcQtOAG-r4OuvKi0MG1etnoBhs=",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_036",
+      "material_id": null,
+      "reference_type": "Artigo Online",
+      "author_name": "Qconcursos",
+      "title": "Questões de Concurso sobre Princípio da Supremacia do Interesse Público",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHhAO_Y-jZQwxOCJTVwj2EW-xiI6vfom7l9B6nETbwzOZRt62GK6V29_5r_A8J3q4I_DxR4_0_kFpbWbdvDiwh54Ps0p8g4cKidgT8ktSy-cj9Y7JqEXdoKAp4zupyt60IWsprz41gB85BcmX-hpJDO0aAXTXQZduyDgJq-j4vlknmV5ONk9kaE__2787uWqV8ZrDTveYH6TO1RyjeLHsNv7NSjpXFE75J30YghCavFxqo7UXPOvMrB_HoZmwjuQYlAk57wmQ==",
+      "accessed_at": null,
+      "description": null
+    }
+  ],
+  "estatisticas_de_geracao": {
+    "total_topicos": 8,
+    "total_componentes_topico": 12,
+    "total_entendimentos_relevantes": 4,
+    "total_pegadinhas": 4,
+    "total_pontos_memorizacao": 5,
+    "total_itens_quadro_sinotico": 5,
+    "total_questoes": 8,
+    "total_comentarios_questoes": 8,
+    "total_itens_checklist": 8,
+    "total_referencias": 36
+  },
+  "validacao_interna": {
+    "pesquisa_previa_realizada": true,
+    "analise_de_cobrancas_anteriores_realizada": true,
+    "material_atualizado": true,
+    "json_valido": true,
+    "estrutura_relacional_respeitada": true,
+    "numeracao_respeitada": true,
+    "houve_quebra_de_hierarquia": false,
+    "houve_nivel_numerico_superior_a_3": false,
+    "fontes_verificadas": true,
+    "sem_informacao_inventada": true
+  },
+  "metadata": {
+    "source_file_name": "2__direito-administrativo__2-regime-jurídicoadministrativo-2.2-supremacia-do-interesse-público-sobre-o-privado-e-indisponibilidade-pela-administraç.json",
+    "normalized_checksum": "bf311a01c3d9297039c1104ee9ad38821188744ee2378c656bbf6a6b45850d15",
+    "subject_slug": "dir-adm",
+    "material_slug": "regime-juridico-administrativo",
+    "title_slug": "regime-juridico-administrativo-supremacia-do",
+    "board_slug": "cebraspe",
+    "counters": {
+      "blocks": 8,
+      "topics": 8,
+      "topic_components": 12,
+      "traps": 4,
+      "memory_points": 5,
+      "summary_items": 5,
+      "questions": 8,
+      "question_comments": 8,
+      "checklist_items": 8,
+      "references": 36
+    }
+  }
+}

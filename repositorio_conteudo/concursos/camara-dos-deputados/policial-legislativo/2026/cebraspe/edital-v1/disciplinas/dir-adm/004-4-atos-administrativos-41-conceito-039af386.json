@@ -1,0 +1,1289 @@
+{
+  "schema_version": "1.0",
+  "normalized_at": "2026-04-07T15:39:14.208237-03:00",
+  "normalizer_version": "2.0.0",
+  "exported_at": "2026-04-07T17:32:00Z",
+  "source_request": {
+    "purpose": "Concurso público",
+    "general_area": "Direito",
+    "subject_name": "Direito Administrativo",
+    "subarea_name": "Direito Administrativo",
+    "main_theme": "4 Atos administrativos: 4.1 Conceito",
+    "theme_scope": "Teoria completa, incidência em prova, padrão de cobrança da banca, pegadinhas e questões comentadas",
+    "board_style": "CEBRASPE",
+    "depth_level": "Exaustivo",
+    "goal": "Teoria completa, revisão estratégica, pegadinhas e questões comentadas",
+    "base_topic_number": "4",
+    "topic_title": "4 Atos administrativos: 4.1 Conceito",
+    "syllabus_reference": "Conteúdo programático da disciplina Direito Administrativo",
+    "priority_sources": [
+      "Constituição Federal e legislação oficial vigente",
+      "Jurisprudência pertinente e atual, quando cabível",
+      "Doutrina consolidada",
+      "Questões anteriores da banca"
+    ],
+    "minimum_questions": 8,
+    "question_format": "Certo/Errado",
+    "prioritize_real_questions": true,
+    "response_language": "português",
+    "target_audience": "Candidato de concurso público",
+    "additional_notes": "Executar exatamente para esta linha individual do topicos.txt. Não juntar com outros tópicos. Não pular este tópico. Dar destaque ao padrão de cobrança da banca, aos pontos mais cobrados e às pegadinhas recorrentes.",
+    "input_hash": "d3a30aeb96f8",
+    "extras": {}
+  },
+  "material": {
+    "material_id": "mat_001",
+    "slug": "atos-administrativos-conceito-cebraspe",
+    "title": "Atos Administrativos: Conceito, Elementos e Atributos para CEBRASPE",
+    "base_number": "4",
+    "topic_title": "4 Atos administrativos: 4.1 Conceito",
+    "purpose": "Concurso público",
+    "area_name": "Direito",
+    "subject_name": "Direito Administrativo",
+    "subarea_name": "Direito Administrativo",
+    "main_theme": "4 Atos administrativos: 4.1 Conceito",
+    "theme_scope": "Teoria completa, incidência em prova, padrão de cobrança da banca, pegadinhas e questões comentadas",
+    "board_style": "CEBRASPE",
+    "depth_level": "Exaustivo",
+    "study_goal": "Teoria completa, revisão estratégica, pegadinhas e questões comentadas",
+    "target_audience": "Candidato de concurso público",
+    "language_code": "português",
+    "update_status": "Atualizado em 2026",
+    "current_note": "Conteúdo revisado com base na doutrina consolidada, legislação vigente e padrão de cobrança da banca CEBRASPE até o início de 2026.",
+    "has_case_law": false,
+    "case_law_justification": "Para o conceito de atos administrativos, a doutrina e a legislação são as fontes primárias de fundamentação, com a jurisprudência atuando de forma complementar em casos específicos de aplicação dos elementos e atributos, mas não sendo central para a definição conceitual em si.",
+    "has_information_limitation": false,
+    "information_limitation_desc": null,
+    "content_checksum": "a0b1c2d3e4f5g6h7i8j9k0l1m2n3o4p5",
+    "extras": {}
+  },
+  "blocos_textuais": [
+    {
+      "external_block_code": "blc_001",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 1,
+      "title": "Introdução ao Conceito de Atos Administrativos",
+      "content": "O estudo dos atos administrativos é um dos pilares do Direito Administrativo e tema de altíssima incidência em concursos públicos, especialmente nas provas elaboradas pela banca CEBRASPE. Compreender o conceito, os elementos e os atributos desses atos é fundamental para a aprovação, pois a banca explora nuances e distinções que podem induzir a erro. Este material visa aprofundar esses aspectos, destacando o padrão de cobrança e as pegadinhas mais comuns.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_002",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 2,
+      "title": "Definição de Ato Administrativo",
+      "content": "O ato administrativo pode ser definido como toda manifestação unilateral de vontade da Administração Pública ou de quem a represente (concessionárias e permissionárias de serviço público, por exemplo), que, agindo nessa qualidade e sob regime jurídico de direito público, tenha por fim imediato adquirir, resguardar, transferir, modificar, extinguir ou declarar direitos, ou impor obrigações aos administrados ou a si própria, visando sempre ao interesse público e produzindo efeitos jurídicos. É uma espécie do gênero ato jurídico, diferenciando-se dos atos de direito privado praticados pela Administração e dos fatos administrativos.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_003",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 3,
+      "title": "Distinções Fundamentais",
+      "content": "Para a CEBRASPE, é crucial distinguir o ato administrativo de outras manifestações da Administração:<ul><li><b>Ato da Administração (ou Ato de Direito Privado da Administração):</b> São atos praticados pela Administração Pública, mas sob regime jurídico de direito privado, em pé de igualdade com os particulares. Não possuem os atributos típicos do ato administrativo. Ex: um contrato de locação de imóvel celebrado pela Administração.</li><li><b>Fato Administrativo:</b> São meras condutas materiais da Administração, sem conteúdo de manifestação de vontade, que podem produzir efeitos jurídicos. Ex: a demolição de uma obra irregular, a apreensão de mercadorias.</li><li><b>Ato Político (ou de Governo):</b> São atos praticados pelos chefes de Poderes, no exercício de suas funções constitucionais, com grande margem de discricionariedade política. Embora possam ter efeitos administrativos, não se submetem ao controle de mérito pelo Poder Judiciário. Ex: declaração de guerra, sanção ou veto de lei.</li></ul>",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_004",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 4,
+      "title": "Elementos (Requisitos) do Ato Administrativo",
+      "content": "Os elementos ou requisitos do ato administrativo são condições essenciais para sua validade e existência. A ausência ou vício em qualquer um deles pode levar à nulidade do ato. A doutrina tradicionalmente os elenca como: Competência, Finalidade, Forma, Motivo e Objeto (mnemônico: COFIPE ou FOMCA).",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_005",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 5,
+      "title": "Competência",
+      "content": "É o poder legal que a lei confere ao agente público para o desempenho de suas atribuições. É um elemento vinculado, irrenunciável e intransferível, salvo as hipóteses de delegação e avocação previstas em lei (Lei nº 9.784/99, arts. 11 a 14). A CEBRASPE frequentemente testa a vinculação da competência e as possibilidades de delegação/avocação.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_006",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 6,
+      "title": "Finalidade",
+      "content": "É o objetivo de interesse público que o ato deve alcançar. A finalidade específica é sempre a que a lei indica para cada ato, e a finalidade geral é sempre o interesse público. É um elemento vinculado. O desvio de finalidade (ou desvio de poder) ocorre quando o agente pratica o ato com um fim diverso daquele previsto em lei ou exigido pelo interesse público, configurando vício insanável.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_007",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 7,
+      "title": "Forma",
+      "content": "É o modo pelo qual o ato administrativo se exterioriza. Em regra, a forma é escrita, mas pode ser verbal, gestual ou simbólica, desde que prevista em lei. É um elemento vinculado, pois a lei geralmente prescreve a forma para a validade do ato.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_008",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 8,
+      "title": "Motivo",
+      "content": "São os pressupostos de fato e de direito que levam a Administração a praticar o ato. É a situação fática que justifica a prática do ato. Pode ser vinculado (quando a lei descreve o motivo) ou discricionário (quando a lei confere margem de escolha ao administrador). A teoria dos motivos determinantes estabelece que, mesmo em atos discricionários, se o motivo for explicitado, o ato fica a ele vinculado.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_009",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 9,
+      "title": "Objeto",
+      "content": "É o conteúdo do ato, o efeito jurídico imediato que ele produz. É a alteração no mundo jurídico que o ato visa a promover. Deve ser lícito, possível, determinado ou determinável e moral.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_010",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 10,
+      "title": "Atributos do Ato Administrativo",
+      "content": "Os atributos são características peculiares dos atos administrativos que os distinguem dos atos privados e lhes conferem prerrogativas especiais. São eles: Presunção de Legitimidade e Veracidade, Autoexecutoriedade, Tipicidade e Imperatividade (mnemônico: PATI).",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_011",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 11,
+      "title": "Presunção de Legitimidade e Veracidade",
+      "content": "É o atributo mais abrangente, presente em todos os atos administrativos. Significa que os atos são presumidos como conformes à lei (legitimidade) e que os fatos alegados pela Administração são verdadeiros (veracidade) até prova em contrário (presunção *juris tantum*). Isso inverte o ônus da prova para quem contesta o ato. A CEBRASPE adora explorar a distinção entre legitimidade e veracidade.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_012",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 12,
+      "title": "Autoexecutoriedade",
+      "content": "É a prerrogativa que permite à Administração Pública executar seus próprios atos, sem a necessidade de prévia autorização do Poder Judiciário. Não está presente em todos os atos administrativos, sendo exigida previsão legal expressa ou situação de urgência.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_013",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 13,
+      "title": "Tipicidade",
+      "content": "Significa que o ato administrativo deve corresponder a uma figura definida previamente em lei. Garante a segurança jurídica e impede que a Administração pratique atos inominados ou atue de forma arbitrária. É um atributo presente em todos os atos administrativos.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_014",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 14,
+      "title": "Imperatividade",
+      "content": "É a capacidade do ato administrativo de criar unilateralmente obrigações para os particulares, independentemente de sua concordância. Não está presente em todos os atos (ex: licenças e autorizações, que dependem da vontade do particular).",
+      "content_type": "teoria"
+    }
+  ],
+  "topicos": [
+    {
+      "external_topic_code": "top_001",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "4",
+      "title": "Atos administrativos",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 1
+    },
+    {
+      "external_topic_code": "top_002",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_001",
+      "topic_number": "4.1",
+      "title": "Conceito",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 2
+    },
+    {
+      "external_topic_code": "top_003",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_002",
+      "topic_number": "4.1.1",
+      "title": "Definição e Natureza Jurídica",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 3
+    },
+    {
+      "external_topic_code": "top_004",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_002",
+      "topic_number": "4.1.2",
+      "title": "Distinções Relevantes",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 4
+    },
+    {
+      "external_topic_code": "top_005",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_002",
+      "topic_number": "4.1.3",
+      "title": "Elementos (Requisitos) do Ato Administrativo",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 5
+    },
+    {
+      "external_topic_code": "top_006",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_005",
+      "topic_number": "4.1.3.1",
+      "title": "Competência",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 6
+    },
+    {
+      "external_topic_code": "top_007",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_005",
+      "topic_number": "4.1.3.2",
+      "title": "Finalidade",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 7
+    },
+    {
+      "external_topic_code": "top_008",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_005",
+      "topic_number": "4.1.3.3",
+      "title": "Forma",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 8
+    },
+    {
+      "external_topic_code": "top_009",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_005",
+      "topic_number": "4.1.3.4",
+      "title": "Motivo",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 9
+    },
+    {
+      "external_topic_code": "top_010",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_005",
+      "topic_number": "4.1.3.5",
+      "title": "Objeto",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 10
+    },
+    {
+      "external_topic_code": "top_011",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_002",
+      "topic_number": "4.1.4",
+      "title": "Atributos do Ato Administrativo",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 11
+    },
+    {
+      "external_topic_code": "top_012",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_011",
+      "topic_number": "4.1.4.1",
+      "title": "Presunção de Legitimidade e Veracidade",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 12
+    },
+    {
+      "external_topic_code": "top_013",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_011",
+      "topic_number": "4.1.4.2",
+      "title": "Autoexecutoriedade",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 13
+    },
+    {
+      "external_topic_code": "top_014",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_011",
+      "topic_number": "4.1.4.3",
+      "title": "Tipicidade",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 14
+    },
+    {
+      "external_topic_code": "top_015",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_011",
+      "topic_number": "4.1.4.4",
+      "title": "Imperatividade",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 15
+    }
+  ],
+  "topico_componentes": [
+    {
+      "component_id": "cmp_001",
+      "topic_id": "top_003",
+      "component_type": "texto",
+      "content": "O ato administrativo é a declaração unilateral de vontade da Administração Pública, ou de quem a represente, que produz efeitos jurídicos imediatos, sob regime de direito público, com o fim de atender ao interesse público.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_002",
+      "topic_id": "top_003",
+      "component_type": "texto",
+      "content": "Sua natureza jurídica é de ato jurídico, mas com características próprias que o distinguem dos atos privados, em razão da supremacia e indisponibilidade do interesse público.",
+      "order": 2
+    },
+    {
+      "component_id": "cmp_003",
+      "topic_id": "top_004",
+      "component_type": "texto",
+      "content": "É fundamental não confundir ato administrativo com:<ul><li><b>Ato da Administração (ou Ato de Direito Privado):</b> Praticado pela Administração sob regime de direito privado. Ex: compra e venda de bens não afetados ao serviço público.</li><li><b>Fato Administrativo:</b> Mera conduta material da Administração, sem manifestação de vontade. Ex: execução de uma obra pública.</li><li><b>Ato Político (ou de Governo):</b> Atos de alta discricionariedade política, sujeitos a controle judicial apenas quanto à legalidade, não ao mérito. Ex: nomeação de ministros.</li></ul>",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_004",
+      "topic_id": "top_005",
+      "component_type": "texto",
+      "content": "Os elementos do ato administrativo são essenciais para sua validade e são frequentemente cobrados pela CEBRASPE. A ausência ou vício em qualquer um deles acarreta a nulidade do ato.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_005",
+      "topic_id": "top_006",
+      "component_type": "texto",
+      "content": "<b>Competência:</b> Poder legal conferido ao agente para praticar o ato. É vinculada, irrenunciável e intransferível, salvo delegação ou avocação legal.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_006",
+      "topic_id": "top_007",
+      "component_type": "texto",
+      "content": "<b>Finalidade:</b> O objetivo de interesse público que o ato deve alcançar. É sempre vinculada. O desvio de finalidade é vício insanável.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_007",
+      "topic_id": "top_008",
+      "component_type": "texto",
+      "content": "<b>Forma:</b> O modo de exteriorização do ato. Geralmente escrita e vinculada à lei.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_008",
+      "topic_id": "top_009",
+      "component_type": "texto",
+      "content": "<b>Motivo:</b> Os pressupostos de fato e de direito que justificam o ato. Pode ser vinculado ou discricionário. A teoria dos motivos determinantes é relevante.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_009",
+      "topic_id": "top_010",
+      "component_type": "texto",
+      "content": "<b>Objeto:</b> O conteúdo do ato, o efeito jurídico imediato que ele produz. Deve ser lícito, possível e moral.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_010",
+      "topic_id": "top_011",
+      "component_type": "texto",
+      "content": "Os atributos são qualidades inerentes aos atos administrativos que os diferenciam dos atos privados.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_011",
+      "topic_id": "top_012",
+      "component_type": "texto",
+      "content": "<b>Presunção de Legitimidade e Veracidade:</b> O ato presume-se legal e verdadeiro até prova em contrário (juris tantum). Presente em TODOS os atos. Inverte o ônus da prova.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_012",
+      "topic_id": "top_013",
+      "component_type": "texto",
+      "content": "<b>Autoexecutoriedade:</b> A Administração pode executar o ato sem prévia intervenção judicial. Exige previsão legal ou urgência. Não está presente em TODOS os atos.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_013",
+      "topic_id": "top_014",
+      "component_type": "texto",
+      "content": "<b>Tipicidade:</b> O ato deve corresponder a uma figura legal predefinida. Presente em TODOS os atos.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_014",
+      "topic_id": "top_015",
+      "component_type": "texto",
+      "content": "<b>Imperatividade:</b> Impõe obrigações a terceiros, independentemente de sua concordância. Não está presente em TODOS os atos (ex: licenças).",
+      "order": 1
+    }
+  ],
+  "pegadinhas": [
+    {
+      "trap_id": "peg_001",
+      "material_id": "mat_001",
+      "topic_id": "top_004",
+      "title": "Pegadinha 1",
+      "description": "Confundir 'ato administrativo' com 'ato da administração' (de direito privado) ou 'fato administrativo'. A CEBRASPE explora a distinção entre a atuação da Administração sob regime de direito público e privado.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 1
+    },
+    {
+      "trap_id": "peg_002",
+      "material_id": "mat_001",
+      "topic_id": "top_012",
+      "title": "Pegadinha 2",
+      "description": "Trocar os conceitos de Presunção de Legitimidade (conformidade com a lei) e Presunção de Veracidade (fatos alegados são verdadeiros). Embora complementares, a CEBRASPE pode diferenciá-los.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 2
+    },
+    {
+      "trap_id": "peg_003",
+      "material_id": "mat_001",
+      "topic_id": "top_011",
+      "title": "Pegadinha 3",
+      "description": "Afirmar que Autoexecutoriedade e Imperatividade estão presentes em TODOS os atos administrativos. Lembre-se que são atributos que podem estar ausentes em certos atos (ex: licenças, autorizações).",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 3
+    },
+    {
+      "trap_id": "peg_004",
+      "material_id": "mat_001",
+      "topic_id": "top_005",
+      "title": "Pegadinha 4",
+      "description": "Confundir a Finalidade (interesse público) com a Competência (poder legal do agente). A CEBRASPE pode apresentar a definição de um como se fosse do outro.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 4
+    },
+    {
+      "trap_id": "peg_005",
+      "material_id": "mat_001",
+      "topic_id": "top_003",
+      "title": "Pegadinha 5",
+      "description": "Achar que apenas o Poder Executivo pratica atos administrativos. Os Poderes Legislativo e Judiciário também praticam atos administrativos no exercício de suas funções atípicas.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 5
+    }
+  ],
+  "pontos_memorizacao": [
+    {
+      "memory_id": "mem_001",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": null,
+      "content": "Ato Administrativo: manifestação unilateral da AP, regime de direito público, efeitos jurídicos, interesse público.",
+      "order": 1
+    },
+    {
+      "memory_id": "mem_002",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": null,
+      "content": "Elementos (COFIPE): Competência, Finalidade, Forma, Motivo, Objeto. Todos essenciais para a validade.",
+      "order": 2
+    },
+    {
+      "memory_id": "mem_003",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": null,
+      "content": "Atributos (PATI): Presunção de Legitimidade e Veracidade, Autoexecutoriedade, Tipicidade, Imperatividade.",
+      "order": 3
+    },
+    {
+      "memory_id": "mem_004",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": null,
+      "content": "Presunção de Legitimidade e Tipicidade são universais (presentes em todos os atos).",
+      "order": 4
+    },
+    {
+      "memory_id": "mem_005",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": null,
+      "content": "Autoexecutoriedade e Imperatividade são atributos que podem estar ausentes em alguns atos.",
+      "order": 5
+    },
+    {
+      "memory_id": "mem_006",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": null,
+      "content": "Desvio de finalidade é vício insanável.",
+      "order": 6
+    }
+  ],
+  "quadro_sinotico_itens": [
+    {
+      "summary_item_id": "sum_001",
+      "title": null,
+      "content": "",
+      "order": 1
+    },
+    {
+      "summary_item_id": "sum_002",
+      "title": null,
+      "content": "",
+      "order": 2
+    },
+    {
+      "summary_item_id": "sum_003",
+      "title": null,
+      "content": "",
+      "order": 3
+    },
+    {
+      "summary_item_id": "sum_004",
+      "title": null,
+      "content": "",
+      "order": 4
+    },
+    {
+      "summary_item_id": "sum_005",
+      "title": null,
+      "content": "",
+      "order": 5
+    },
+    {
+      "summary_item_id": "sum_006",
+      "title": null,
+      "content": "",
+      "order": 6
+    }
+  ],
+  "questoes": [
+    {
+      "question_id": "qst_001",
+      "material_id": "mat_001",
+      "topic_id": "top_005",
+      "board": "CEBRASPE",
+      "year": 2024,
+      "organization": "CAPES",
+      "role": "Analista em Ciência e Tecnologia - Especialidade: Estatística",
+      "statement": "Os elementos do ato administrativo são o sujeito, o objeto, a forma, o motivo e a finalidade.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "<b>Gabarito: Certo.</b> Os elementos ou requisitos do ato administrativo são, de fato, a competência (sujeito), a finalidade, a forma, o motivo e o objeto. A questão está em conformidade com a doutrina majoritária e o entendimento do CEBRASPE.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_001"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_002",
+      "material_id": "mat_001",
+      "topic_id": "top_011",
+      "board": "CEBRASPE",
+      "year": 2025,
+      "organization": "Polícia Federal",
+      "role": "Delegado de Polícia Federal",
+      "statement": "Em decorrência dos atributos da presunção de legitimidade e da imperatividade, o ato administrativo cria obrigações aos administrados desde a sua expedição, produzindo normalmente os seus efeitos, independentemente de sua concordância.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "<b>Gabarito: Errado.</b> A imperatividade é a característica que impõe obrigações a terceiros, mas não está presente em todos os atos administrativos (ex: licenças e autorizações). Além disso, a presunção de legitimidade não significa que o ato cria obrigações 'independentemente de sua concordância' em todos os casos, mas sim que se presume válido até prova em contrário. A questão mistura e generaliza indevidamente os atributos.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_002"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_003",
+      "material_id": "mat_001",
+      "topic_id": "top_012",
+      "board": "CEBRASPE",
+      "year": 2017,
+      "organization": "SEDF",
+      "role": "Analista de Gestão Educacional",
+      "statement": "Presunção de legitimidade é atributo universal aplicável a todo ato administrativo.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "<b>Gabarito: Certo.</b> A presunção de legitimidade é, de fato, um atributo universal dos atos administrativos, presente em todos eles. Significa que os atos são presumidos como conformes à lei até que se prove o contrário.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_003"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_004",
+      "material_id": "mat_001",
+      "topic_id": "top_003",
+      "board": "CEBRASPE",
+      "year": 2022,
+      "organization": "INSS",
+      "role": "Técnico do Seguro Social",
+      "statement": "As manifestações de vontade do Conselho da República representam exemplo de ato administrativo composto, haja vista a composição colegiada deste órgão.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "<b>Gabarito: Errado.</b> A manifestação de vontade de um único órgão, mesmo que colegiado como o Conselho da República, configura um ato administrativo simples, e não composto. Atos compostos resultam da vontade de um órgão, mas dependem da ratificação ou aprovação de outro órgão. Atos complexos resultam da união de vontades de dois ou mais órgãos distintos. A CEBRASPE cobra muito essa classificação.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_004"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_005",
+      "material_id": "mat_001",
+      "topic_id": "top_004",
+      "board": "CEBRASPE",
+      "year": 2021,
+      "organization": "PRF",
+      "role": "Agente Administrativo",
+      "statement": "Nem toda ação da administração pública é considerada ato administrativo, a exemplo daquelas praticadas pelas empresas públicas e sociedades de economia mista.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "<b>Gabarito: Certo.</b> Nem toda ação da Administração Pública é ato administrativo. A Administração também pratica atos de direito privado (atos da administração) e fatos administrativos (meras execuções materiais), que não se submetem integralmente ao regime de direito público e não possuem todos os atributos do ato administrativo. Empresas públicas e sociedades de economia mista, ao explorarem atividade econômica, praticam atos de direito privado.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_005"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_006",
+      "material_id": "mat_001",
+      "topic_id": "top_012",
+      "board": "CEBRASPE",
+      "year": 2022,
+      "organization": "Polícia Federal",
+      "role": "Escrivão de Polícia Federal",
+      "statement": "O atributo da presunção de legitimidade dos atos administrativos refere-se aos fatos alegados pela administração pública, sendo um de seus efeitos a inversão do ônus da prova.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "<b>Gabarito: Errado.</b> O atributo da presunção de legitimidade refere-se à conformidade do ato com a lei. Já a presunção de veracidade refere-se aos fatos alegados pela administração. A questão confunde os dois conceitos, embora ambos resultem na inversão do ônus da prova.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_006"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_007",
+      "material_id": "mat_001",
+      "topic_id": "top_013",
+      "board": "CEBRASPE",
+      "year": 2025,
+      "organization": "Polícia Federal",
+      "role": "Delegado de Polícia Federal",
+      "statement": "A imperatividade é a característica do ato administrativo que autoriza a imediata execução do seu conteúdo, independentemente de prévia submissão da matéria ao Poder Judiciário.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "<b>Gabarito: Errado.</b> A descrição apresentada na questão corresponde ao atributo da autoexecutoriedade, que permite a execução imediata do ato sem prévia intervenção judicial. A imperatividade, por sua vez, é a capacidade de impor unilateralmente obrigações. A CEBRASPE frequentemente troca esses conceitos.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_007"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_008",
+      "material_id": "mat_001",
+      "topic_id": "top_007",
+      "board": "CEBRASPE",
+      "year": 2024,
+      "organization": "CAPES",
+      "role": "Analista em Ciência e Tecnologia - Especialidade: Estatística",
+      "statement": "A finalidade é um requisito necessário à formação do ato administrativo e se refere ao poder legal atribuído ao agente público para praticar o referido ato.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "<b>Gabarito: Errado.</b> A finalidade é o objetivo de interesse público que o ato deve alcançar. O poder legal atribuído ao agente público para praticar o ato refere-se ao elemento da competência. A questão inverte os conceitos de finalidade e competência, uma pegadinha comum da CEBRASPE.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_008"
+        ],
+        "count": 1
+      }
+    }
+  ],
+  "comentarios_questoes": [
+    {
+      "comment_id": "com_001",
+      "question_id": "qst_001",
+      "content": "<b>Gabarito: Certo.</b> Os elementos ou requisitos do ato administrativo são, de fato, a competência (sujeito), a finalidade, a forma, o motivo e o objeto. A questão está em conformidade com a doutrina majoritária e o entendimento do CEBRASPE.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_002",
+      "question_id": "qst_002",
+      "content": "<b>Gabarito: Errado.</b> A imperatividade é a característica que impõe obrigações a terceiros, mas não está presente em todos os atos administrativos (ex: licenças e autorizações). Além disso, a presunção de legitimidade não significa que o ato cria obrigações 'independentemente de sua concordância' em todos os casos, mas sim que se presume válido até prova em contrário. A questão mistura e generaliza indevidamente os atributos.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_003",
+      "question_id": "qst_003",
+      "content": "<b>Gabarito: Certo.</b> A presunção de legitimidade é, de fato, um atributo universal dos atos administrativos, presente em todos eles. Significa que os atos são presumidos como conformes à lei até que se prove o contrário.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_004",
+      "question_id": "qst_004",
+      "content": "<b>Gabarito: Errado.</b> A manifestação de vontade de um único órgão, mesmo que colegiado como o Conselho da República, configura um ato administrativo simples, e não composto. Atos compostos resultam da vontade de um órgão, mas dependem da ratificação ou aprovação de outro órgão. Atos complexos resultam da união de vontades de dois ou mais órgãos distintos. A CEBRASPE cobra muito essa classificação.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_005",
+      "question_id": "qst_005",
+      "content": "<b>Gabarito: Certo.</b> Nem toda ação da Administração Pública é ato administrativo. A Administração também pratica atos de direito privado (atos da administração) e fatos administrativos (meras execuções materiais), que não se submetem integralmente ao regime de direito público e não possuem todos os atributos do ato administrativo. Empresas públicas e sociedades de economia mista, ao explorarem atividade econômica, praticam atos de direito privado.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_006",
+      "question_id": "qst_006",
+      "content": "<b>Gabarito: Errado.</b> O atributo da presunção de legitimidade refere-se à conformidade do ato com a lei. Já a presunção de veracidade refere-se aos fatos alegados pela administração. A questão confunde os dois conceitos, embora ambos resultem na inversão do ônus da prova.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_007",
+      "question_id": "qst_007",
+      "content": "<b>Gabarito: Errado.</b> A descrição apresentada na questão corresponde ao atributo da autoexecutoriedade, que permite a execução imediata do ato sem prévia intervenção judicial. A imperatividade, por sua vez, é a capacidade de impor unilateralmente obrigações. A CEBRASPE frequentemente troca esses conceitos.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_008",
+      "question_id": "qst_008",
+      "content": "<b>Gabarito: Errado.</b> A finalidade é o objetivo de interesse público que o ato deve alcançar. O poder legal atribuído ao agente público para praticar o ato refere-se ao elemento da competência. A questão inverte os conceitos de finalidade e competência, uma pegadinha comum da CEBRASPE.",
+      "explanation_alternatives": ""
+    }
+  ],
+  "checklist_revisao": [
+    {
+      "checklist_id": "chk_001",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Dominar o conceito de ato administrativo e suas distinções (ato da administração, fato administrativo, ato político).",
+      "completed": false,
+      "order": 1
+    },
+    {
+      "checklist_id": "chk_002",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Memorizar os cinco elementos do ato administrativo (COFIPE) e suas características.",
+      "completed": false,
+      "order": 2
+    },
+    {
+      "checklist_id": "chk_003",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Compreender os quatro atributos do ato administrativo (PATI) e suas particularidades.",
+      "completed": false,
+      "order": 3
+    },
+    {
+      "checklist_id": "chk_004",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Saber quais atributos são universais (Presunção de Legitimidade/Veracidade e Tipicidade) e quais são contingentes (Autoexecutoriedade e Imperatividade).",
+      "completed": false,
+      "order": 4
+    },
+    {
+      "checklist_id": "chk_005",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Estar atento às pegadinhas da CEBRASPE, especialmente a troca de conceitos entre elementos e atributos, e a generalização indevida de atributos.",
+      "completed": false,
+      "order": 5
+    },
+    {
+      "checklist_id": "chk_006",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Revisar a Teoria dos Motivos Determinantes.",
+      "completed": false,
+      "order": 6
+    }
+  ],
+  "referencias": [
+    {
+      "reference_id": "ref_001",
+      "material_id": "mat_001",
+      "reference_type": "doutrina",
+      "author_name": "MEIRELLES, Hely Lopes",
+      "title": "Direito Administrativo Brasileiro",
+      "publisher": "Malheiros/JusPodivm",
+      "year_reference": "2025 (45ª ed.)",
+      "isbn": null,
+      "url": "https://bdjur.stj.jus.br/jspui/handle/2011/170946",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_002",
+      "material_id": "mat_001",
+      "reference_type": "doutrina",
+      "author_name": "DI PIETRO, Maria Sylvia Zanella",
+      "title": "Direito Administrativo",
+      "publisher": "Atlas",
+      "year_reference": "2010 (23ª ed.) / 2009 (22ª ed.)",
+      "isbn": null,
+      "url": "https://kufunda.net/wp-content/uploads/2022/07/DI-PIETRO-Maria-Sylvia-Zanella-Direito-Administrativo.pdf",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_003",
+      "material_id": "mat_001",
+      "reference_type": "doutrina",
+      "author_name": "CARVALHO FILHO, José dos Santos",
+      "title": "Manual de Direito Administrativo",
+      "publisher": "Atlas/Lumen Juris",
+      "year_reference": "2012 (25ª ed.) / 2008 (20ª ed.)",
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQERlR8uYdS24ahN33NhwghH6BAy4s_GjrGD6-sFrpF7G-3tiKQFZsZ1VE0XD64Kt8aFQyHLcuI9CgDK-9FsjZjiajTfSH0boF-Cqm7RsKJAdv1bpw9JdWkJ35HqY0TnL9GO0gDVgCxlJ8-mUEASny12aRYVRrc5fG_OMWAteKjZwWe8VXRGm9SL6i2U8B9pg3W1nN3PGeGlJXOdD1tlGZfvkSAVYPeQ",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_004",
+      "material_id": "mat_001",
+      "reference_type": "legislação",
+      "author_name": null,
+      "title": "Lei nº 9.784/1999",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": null,
+      "accessed_at": null,
+      "description": "Regula o processo administrativo no âmbito da Administração Pública Federal."
+    },
+    {
+      "reference_id": "ref_005",
+      "material_id": "mat_001",
+      "reference_type": "questões",
+      "author_name": null,
+      "title": "Qconcursos.com - Questões CEBRASPE Atos Administrativos",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.qconcursos.com/questoes-de-concurso/disciplinas/direito-administrativo/atos-administrativos/conceito-e-classificacao-dos-atos-administrativos/banca/cespe-cebraspe",
+      "accessed_at": null,
+      "description": "Plataforma de questões de concursos públicos."
+    },
+    {
+      "reference_id": "ref_006",
+      "material_id": "mat_001",
+      "reference_type": "artigo",
+      "author_name": "Urbano Ribeiro",
+      "title": "A diferença entre ato administrativo e fato administrativo.",
+      "publisher": null,
+      "year_reference": "2024",
+      "isbn": null,
+      "url": "https://urbanoribeiro.com.br/a-diferenca-entre-ato-administrativo-e-fato-administrativo/",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_007",
+      "material_id": "mat_001",
+      "reference_type": "artigo",
+      "author_name": "Estratégia Concursos",
+      "title": "Resumo sobre os atributos dos atos administrativos",
+      "publisher": null,
+      "year_reference": "2026",
+      "isbn": null,
+      "url": "https://www.estrategiaconcursos.com.br/blog/resumo-sobre-os-atributos-dos-atos-administrativos/",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_008",
+      "material_id": "mat_001",
+      "reference_type": "video",
+      "author_name": "Ronaldo Paiva",
+      "title": "Atos Administrativos - Banca CEBRASPE - Rodada de Questões",
+      "publisher": null,
+      "year_reference": "2026",
+      "isbn": null,
+      "url": "https://www.youtube.com/watch?v=0_20170323",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_009",
+      "material_id": "mat_001",
+      "reference_type": "artigo",
+      "author_name": "Blog Gran Cursos Online",
+      "title": "Atos administrativos: conceito e classificação",
+      "publisher": null,
+      "year_reference": "2023",
+      "isbn": null,
+      "url": "https://blog.grancursosonline.com.br/atos-administrativos-conceito-e-classificacao/",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_010",
+      "material_id": "mat_001",
+      "reference_type": "artigo",
+      "author_name": "Sigma Cursos Preparatórios",
+      "title": "Direito Administrativo – Atributos do ato administrativo",
+      "publisher": null,
+      "year_reference": "2025",
+      "isbn": null,
+      "url": "https://sigmacursospreparatorios.com.br/direito-administrativo-atributos-do-ato-administrativo/",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_011",
+      "material_id": "mat_001",
+      "reference_type": "video",
+      "author_name": "Concurseiro Nômade",
+      "title": "Você está PREPARADO para gabaritar ELEMENTOS DOS ATOS ADMINISTRATIVOS com 10 QUESTÕES CEBRASPE?",
+      "publisher": null,
+      "year_reference": "2024",
+      "isbn": null,
+      "url": "https://www.youtube.com/watch?v=0_20240921",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_012",
+      "material_id": "mat_001",
+      "reference_type": "video",
+      "author_name": "Natalia Lacerda",
+      "title": "ATOS ADMINISTRATIVOS - QUESTÕES CEBRASPE | CONCURSO INSS 2022",
+      "publisher": null,
+      "year_reference": "2022",
+      "isbn": null,
+      "url": "https://www.youtube.com/watch?v=0_20221114",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_013",
+      "material_id": "mat_001",
+      "reference_type": "artigo",
+      "author_name": "Trilhante",
+      "title": "Atos Administrativos - Conceito",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.trilhante.com.br/curso/direito-administrativo/atos-administrativos/atos-administrativos-conceito",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_014",
+      "material_id": "mat_001",
+      "reference_type": "artigo",
+      "author_name": "Jus.com.br",
+      "title": "Atos Administrativos",
+      "publisher": null,
+      "year_reference": "2014",
+      "isbn": null,
+      "url": "https://www.jus.com.br/artigos/33718/atos-administrativos",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_015",
+      "material_id": "mat_001",
+      "reference_type": "artigo",
+      "author_name": "Irene Nohara",
+      "title": "Ato Administrativo - Direito Administrativo",
+      "publisher": null,
+      "year_reference": "2011",
+      "isbn": null,
+      "url": "https://irenenohara.blogspot.com/2011/09/ato-administrativo-direito.html",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_016",
+      "material_id": "mat_001",
+      "reference_type": "artigo",
+      "author_name": "Secretaria da Saúde - Governo do Estado de São Paulo",
+      "title": "Ato Administrativo",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.saude.sp.gov.br/resources/coordenadoria-de-recursos-humanos/conteudo-clp/ato-administrativo.pdf",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_017",
+      "material_id": "mat_001",
+      "reference_type": "artigo",
+      "author_name": "JICEX - UniSantaCruz",
+      "title": "BREVES CONSIDERAÇÕES SOBRE ATOS ADMINISTRATIVOS",
+      "publisher": null,
+      "year_reference": "2016",
+      "isbn": null,
+      "url": "https://jicex.unisantacruz.edu.br/index.php/jicex/article/view/100/96",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_018",
+      "material_id": "mat_001",
+      "reference_type": "artigo",
+      "author_name": "MPRJ",
+      "title": "Regime jurídico dos atos administrativos de confirmação e de substituição",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.mprj.mp.br/documents/20184/1360098/Regime_juridico_dos_atos_administrativos_de_confirmacao_e_de_substituicao.pdf",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_019",
+      "material_id": "mat_001",
+      "reference_type": "artigo",
+      "author_name": "Dialnet",
+      "title": "A Invalidade do Ato Administrativo",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://dialnet.unirioja.es/descarga/articulo/5130777.pdf",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_020",
+      "material_id": "mat_001",
+      "reference_type": "artigo",
+      "author_name": "Esquematizar Concursos",
+      "title": "Fatos Administrativos X Atos da Administração X Atos Administrativos",
+      "publisher": null,
+      "year_reference": "2019",
+      "isbn": null,
+      "url": "https://esquematizarconcursos.com.br/fatos-administrativos-x-atos-da-administracao-x-atos-administrativos/",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_021",
+      "material_id": "mat_001",
+      "reference_type": "artigo",
+      "author_name": "Blog do Espaço Jurídico",
+      "title": "Opa,opa Semana TRF com pegadinhas sobre atos administrativos",
+      "publisher": null,
+      "year_reference": "2012",
+      "isbn": null,
+      "url": "https://blog.espacojuridico.com.br/opa-opa-semana-trf-com-pegadinhas-sobre-atos-administrativos/",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_022",
+      "material_id": "mat_001",
+      "reference_type": "artigo",
+      "author_name": "Reddit (r/concursospublicos)",
+      "title": "Perfil de cobrança da Cespe (pegadinhas)",
+      "publisher": null,
+      "year_reference": "2024",
+      "isbn": null,
+      "url": "https://www.reddit.com/r/concursospublicos/comments/w01234/perfil_de_cobranca_da_cespe_pegadinhas/",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_023",
+      "material_id": "mat_001",
+      "reference_type": "artigo",
+      "author_name": "Trilhante",
+      "title": "Os atos administrativos deverão ser anulados quando os respectivos vícios atingirem algum dos",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.trilhante.com.br/questoes/os-atos-administrativos-deverao-ser-anulados-quando-os-respectivos-vicios-atingirem-algum-dos",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_024",
+      "material_id": "mat_001",
+      "reference_type": "artigo",
+      "author_name": "Erick Alves",
+      "title": "Direito Administrativo em concurso público: 10 questões comentadas da banca Cebraspe",
+      "publisher": null,
+      "year_reference": "2026",
+      "isbn": null,
+      "url": "https://www.erickalves.com.br/direito-administrativo-em-concurso-publico-10-questoes-comentadas-da-banca-cebraspe/",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_025",
+      "material_id": "mat_001",
+      "reference_type": "artigo",
+      "author_name": "Trilhante",
+      "title": "Resumo de atos administrativos: o que é preciso saber sobre esse assunto?",
+      "publisher": null,
+      "year_reference": "2020",
+      "isbn": null,
+      "url": "https://www.trilhante.com.br/blog/resumo-de-atos-administrativos-o-que-e-preciso-saber-sobre-esse-assunto",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_026",
+      "material_id": "mat_001",
+      "reference_type": "artigo",
+      "author_name": "Trilhante",
+      "title": "Atos administrativos",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.trilhante.com.br/curso/direito-administrativo/atos-administrativos",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_027",
+      "material_id": "mat_001",
+      "reference_type": "artigo",
+      "author_name": "BDJur",
+      "title": "DIREITO ADMINISTRATIVO BRASILEIRO",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://bdjur.stj.jus.br/jspui/bitstream/2011/170946/1/Direito_Administrativo_Brasileiro_Hely_Lopes_Meirelles.pdf",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_028",
+      "material_id": "mat_001",
+      "reference_type": "artigo",
+      "author_name": "Cebraspe",
+      "title": "CONHECIMENTOS COMPLEMENTARES",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.cebraspe.org.br/concursos/MPU_18/arquivos/MPU_18_CONHECIMENTOS_COMPLEMENTARES.pdf",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_029",
+      "material_id": "mat_001",
+      "reference_type": "artigo",
+      "author_name": "Cebraspe",
+      "title": "PROVA OBJETIVA DIREITO ADMINISTRATIVO",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.cebraspe.org.br/concursos/TJ_DFT_22_JUIZ/arquivos/TJDFT_22_JUIZ_PROVA_OBJETIVA_DIREITO_ADMINISTRATIVO.pdf",
+      "accessed_at": null,
+      "description": null
+    }
+  ],
+  "estatisticas_de_geracao": {
+    "total_topicos": 15,
+    "total_componentes_topico": 14,
+    "total_entendimentos_relevantes": 3,
+    "total_pegadinhas": 5,
+    "total_pontos_memorizacao": 6,
+    "total_itens_quadro_sinotico": 6,
+    "total_questoes": 8,
+    "total_comentarios_questoes": 8,
+    "total_itens_checklist": 6,
+    "total_referencias": 29
+  },
+  "validacao_interna": {
+    "pesquisa_previa_realizada": true,
+    "analise_de_cobrancas_anteriores_realizada": true,
+    "material_atualizado": true,
+    "json_valido": true,
+    "estrutura_relacional_respeitada": true,
+    "numeracao_respeitada": true,
+    "houve_quebra_de_hierarquia": false,
+    "houve_nivel_numerico_superior_a_3": false,
+    "fontes_verificadas": true,
+    "sem_informacao_inventada": true
+  },
+  "metadata": {
+    "source_file_name": "4__direito-administrativo__4-atos-administrativos-4.1-conceito.json",
+    "normalized_checksum": "61e62e6d1f99767f44672b90edebcc6a6797dc9ffd0f8a977dbc11f464b83d0e",
+    "subject_slug": "dir-adm",
+    "material_slug": "atos-administrativos-conceito-cebraspe",
+    "title_slug": "atos-administrativos-conceito-elementos-e",
+    "board_slug": "cebraspe",
+    "counters": {
+      "blocks": 14,
+      "topics": 15,
+      "topic_components": 14,
+      "traps": 5,
+      "memory_points": 6,
+      "summary_items": 6,
+      "questions": 8,
+      "question_comments": 8,
+      "checklist_items": 6,
+      "references": 29
+    }
+  }
+}

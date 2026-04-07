@@ -1,0 +1,876 @@
+{
+  "schema_version": "1.0",
+  "normalized_at": "2026-04-07T15:39:14.430240-03:00",
+  "normalizer_version": "2.0.0",
+  "exported_at": "2026-04-07T16:13:00Z",
+  "source_request": {
+    "purpose": "Concurso público",
+    "general_area": "Tecnologia da Informação",
+    "subject_name": "Informática e Dados",
+    "subarea_name": "Informática, redes, segurança e dados",
+    "main_theme": "5 Noções de redes de computadores: 5.1 Tipos: locais (LAN), metropolitanas (MAN) e de longa distância (WAN)",
+    "theme_scope": "Teoria completa, incidência em prova, padrão de cobrança da banca, pegadinhas e questões comentadas",
+    "board_style": "CEBRASPE",
+    "depth_level": "Exaustivo",
+    "goal": "Teoria completa, revisão estratégica, pegadinhas e questões comentadas",
+    "base_topic_number": "5",
+    "topic_title": "5 Noções de redes de computadores: 5.1 Tipos: locais (LAN), metropolitanas (MAN) e de longa distância (WAN)",
+    "syllabus_reference": "Conteúdo programático da disciplina Informática e Dados",
+    "priority_sources": [
+      "Documentação oficial e referências técnicas confiáveis",
+      "Bibliografia técnica consolidada",
+      "Questões anteriores da banca"
+    ],
+    "minimum_questions": 8,
+    "question_format": "Certo/Errado",
+    "prioritize_real_questions": true,
+    "response_language": "português",
+    "target_audience": "Candidato de concurso público",
+    "additional_notes": "Executar exatamente para esta linha individual do topicos.txt. Não juntar com outros tópicos. Não pular este tópico. Dar destaque ao padrão de cobrança da banca, aos pontos mais cobrados e às pegadinhas recorrentes.",
+    "input_hash": "e4f354991607",
+    "extras": {}
+  },
+  "material": {
+    "material_id": "mat_001",
+    "slug": "redes-computadores-lan-man-wan-cebraspe",
+    "title": "Noções de Redes de Computadores: LAN, MAN e WAN para CEBRASPE",
+    "base_number": "5",
+    "topic_title": "5 Noções de redes de computadores: 5.1 Tipos: locais (LAN), metropolitanas (MAN) e de longa distância (WAN)",
+    "purpose": "Concurso público",
+    "area_name": "Tecnologia da Informação",
+    "subject_name": "Informática e Dados",
+    "subarea_name": "Informática, redes, segurança e dados",
+    "main_theme": "5 Noções de redes de computadores: 5.1 Tipos: locais (LAN), metropolitanas (MAN) e de longa distância (WAN)",
+    "theme_scope": "Teoria completa, incidência em prova, padrão de cobrança da banca, pegadinhas e questões comentadas",
+    "board_style": "CEBRASPE",
+    "depth_level": "Exaustivo",
+    "study_goal": "Teoria completa, revisão estratégica, pegadinhas e questões comentadas",
+    "target_audience": "Candidato de concurso público",
+    "language_code": "português",
+    "update_status": "Atualizado",
+    "current_note": "As definições e características de LAN, MAN e WAN são conceitos fundamentais e estáveis em redes de computadores. A análise do padrão CEBRASPE foi baseada em questões recentes e tendências de cobrança, garantindo a atualidade do foco da banca.",
+    "has_case_law": false,
+    "case_law_justification": "A matéria de Redes de Computadores, especialmente a classificação de redes (LAN, MAN, WAN), é de natureza técnica e conceitual, não havendo aplicação de jurisprudência. O foco é em definições, características, tecnologias e padrões técnicos.",
+    "has_information_limitation": false,
+    "information_limitation_desc": null,
+    "content_checksum": "placeholder_checksum_12345",
+    "extras": {}
+  },
+  "blocos_textuais": [
+    {
+      "external_block_code": "blc_001",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 1,
+      "title": "Introdução aos Tipos de Redes de Computadores",
+      "content": "As redes de computadores são classificadas de diversas formas, sendo uma das mais comuns e cobradas em concursos públicos a classificação por abrangência geográfica. Essa categorização permite entender a escala e o propósito de diferentes infraestruturas de comunicação. As principais categorias são: Redes Locais (LAN), Redes Metropolitanas (MAN) e Redes de Longa Distância (WAN). O CEBRASPE frequentemente explora as características distintivas de cada tipo, suas aplicações e as tecnologias associadas.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_002",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 2,
+      "title": "Rede Local (LAN - Local Area Network)",
+      "content": "Uma Rede Local (LAN) interconecta dispositivos em uma área geográfica limitada, como uma residência, escritório, prédio ou campus universitário. É a rede mais comum no dia a dia e geralmente é de propriedade privada. As LANs são caracterizadas por altas velocidades de transmissão de dados (tipicamente entre 100 Mbps e 10 Gbps) e baixa latência, permitindo a troca rápida de informações e o compartilhamento de recursos como impressoras e arquivos. As tecnologias predominantes em LANs incluem Ethernet (cabeada) e Wi-Fi (sem fio, padrão IEEE 802.11). O custo de implementação e manutenção de uma LAN é geralmente baixo.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_003",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 3,
+      "title": "Rede Metropolitana (MAN - Metropolitan Area Network)",
+      "content": "Uma Rede Metropolitana (MAN) abrange uma área geográfica maior que uma LAN, tipicamente uma cidade ou uma grande região metropolitana, conectando múltiplas LANs dentro dessa área. Sua abrangência pode variar de alguns quilômetros a dezenas de quilômetros (até aproximadamente 100 km). As MANs possuem velocidades de transmissão de dados intermediárias entre LANs e WANs, geralmente altas (10 Mbps a 10 Gbps), e latência moderada. Podem ser de propriedade de uma organização ou de um provedor de serviços. As tecnologias frequentemente utilizadas em MANs incluem fibra óptica e tecnologias Ethernet de longa distância (Metro Ethernet), além de WiMAX. Exemplos de aplicação incluem a interconexão de filiais de uma empresa em diferentes bairros de uma cidade ou a rede de fibra óptica de uma prefeitura.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_004",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 4,
+      "title": "Rede de Longa Distância (WAN - Wide Area Network)",
+      "content": "Uma Rede de Longa Distância (WAN) interconecta redes em vastas áreas geográficas, como estados, países ou até continentes. A Internet é o exemplo mais proeminente de uma WAN. As WANs são caracterizadas por velocidades de transmissão de dados que, historicamente, eram menores que as LANs, mas que hoje podem ser altas, e por uma latência geralmente mais elevada devido às grandes distâncias. Elas frequentemente utilizam infraestruturas de telecomunicações públicas, como linhas dedicadas, satélites ou fibra óptica de operadoras. Tecnologias como MPLS, Frame Relay, ATM (mais antigas), SD-WAN e VPNs sobre a internet são empregadas em WANs. O custo de implementação e manutenção de uma WAN é tipicamente alto. Um dos desafios na operação de WANs é garantir a qualidade de serviço (QoS) para aplicações sensíveis à latência e taxa de transmissão.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_005",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 5,
+      "title": "Comparativo e Padrão de Cobrança CEBRASPE",
+      "content": "O CEBRASPE frequentemente cobra a distinção entre LAN, MAN e WAN, focando em suas características de abrangência geográfica, velocidade, latência, propriedade e tecnologias associadas. As questões são predominantemente no formato Certo/Errado e exigem a compreensão conceitual e a aplicação básica desses tipos de rede. É comum que a banca apresente afirmações que misturam características de diferentes tipos de rede ou atribuam tecnologias incorretamente. A profundidade exigida é conceitual, sem aprofundamento excessivo em detalhes de implementação de protocolos, mas com foco nas tecnologias predominantes e suas aplicações.",
+      "content_type": "teoria"
+    }
+  ],
+  "topicos": [
+    {
+      "external_topic_code": "top_001",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "5",
+      "title": "Noções de redes de computadores",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 1
+    },
+    {
+      "external_topic_code": "top_002",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_001",
+      "topic_number": "5.1",
+      "title": "Tipos de redes: locais (LAN), metropolitanas (MAN) e de longa distância (WAN)",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 2
+    }
+  ],
+  "topico_componentes": [
+    {
+      "component_id": "cmp_001",
+      "topic_id": "top_002",
+      "component_type": "definicao",
+      "content": "Rede de computadores que interconecta dispositivos em uma área geográfica limitada (casa, escritório, prédio, campus).",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_002",
+      "topic_id": "top_002",
+      "component_type": "caracteristica",
+      "content": "Alcance restrito (poucos metros a alguns quilômetros); Altas velocidades (100 Mbps a 10 Gbps); Baixa latência; Geralmente de propriedade privada; Baixo custo.",
+      "order": 2
+    },
+    {
+      "component_id": "cmp_003",
+      "topic_id": "top_002",
+      "component_type": "tecnologia",
+      "content": "Ethernet (cabeada); Wi-Fi (IEEE 802.11).",
+      "order": 3
+    },
+    {
+      "component_id": "cmp_004",
+      "topic_id": "top_002",
+      "component_type": "definicao",
+      "content": "Rede que interconecta múltiplas LANs em uma área geográfica maior que uma LAN, tipicamente uma cidade ou região metropolitana.",
+      "order": 4
+    },
+    {
+      "component_id": "cmp_005",
+      "topic_id": "top_002",
+      "component_type": "caracteristica",
+      "content": "Cobertura urbana ou regional (5 a 100 km); Velocidades intermediárias a altas (10 Mbps a 10 Gbps); Latência moderada; Pode ser pública ou privada; Custo médio.",
+      "order": 5
+    },
+    {
+      "component_id": "cmp_006",
+      "topic_id": "top_002",
+      "component_type": "tecnologia",
+      "content": "Fibra óptica; Metro Ethernet; WiMAX.",
+      "order": 6
+    },
+    {
+      "component_id": "cmp_007",
+      "topic_id": "top_002",
+      "component_type": "definicao",
+      "content": "Rede de computadores que abrange uma grande área geográfica, como estados, países ou continentes.",
+      "order": 7
+    },
+    {
+      "component_id": "cmp_008",
+      "topic_id": "top_002",
+      "component_type": "caracteristica",
+      "content": "Alcance global; Velocidades variáveis (historicamente menores que LANs, mas hoje podem ser altas); Alta latência; Geralmente utiliza infraestrutura de telecomunicações públicas; Alto custo.",
+      "order": 8
+    },
+    {
+      "component_id": "cmp_009",
+      "topic_id": "top_002",
+      "component_type": "tecnologia",
+      "content": "Internet; MPLS; Frame Relay (mais antiga); ATM (mais antiga); SD-WAN; VPNs.",
+      "order": 9
+    },
+    {
+      "component_id": "cmp_010",
+      "topic_id": "top_002",
+      "component_type": "comparativo",
+      "content": "LAN: Pequena (metros a poucos km); MAN: Média (cidade, região metropolitana, 5 a 100 km); WAN: Grande (países, continentes, global).",
+      "order": 10
+    },
+    {
+      "component_id": "cmp_011",
+      "topic_id": "top_002",
+      "component_type": "comparativo",
+      "content": "LAN: Muito alta velocidade, muito baixa latência; MAN: Alta velocidade, baixa latência; WAN: Variável (pode ser alta), alta latência.",
+      "order": 11
+    }
+  ],
+  "pegadinhas": [
+    {
+      "trap_id": "peg_001",
+      "material_id": "mat_001",
+      "topic_id": "top_002",
+      "title": "Pegadinha 1",
+      "description": "Confundir a abrangência geográfica: O CEBRASPE pode afirmar que uma LAN abrange uma cidade ou que uma MAN abrange um país. Lembre-se da hierarquia de tamanho: LAN < MAN < WAN.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 1
+    },
+    {
+      "trap_id": "peg_002",
+      "material_id": "mat_001",
+      "topic_id": "top_002",
+      "title": "Pegadinha 2",
+      "description": "Inverter características de velocidade e latência: Afirmar que WANs têm maior velocidade e menor latência que LANs, ou vice-versa, sem considerar o contexto histórico e as tecnologias atuais. Embora WANs modernas tenham altas velocidades, a latência tende a ser maior devido à distância.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 2
+    },
+    {
+      "trap_id": "peg_003",
+      "material_id": "mat_001",
+      "topic_id": "top_002",
+      "title": "Pegadinha 3",
+      "description": "Atribuir tecnologias incorretamente: Associar tecnologias específicas de um tipo de rede a outro (ex: Ethernet como tecnologia primária de WAN, ou MPLS como tecnologia comum de LAN).",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 3
+    },
+    {
+      "trap_id": "peg_004",
+      "material_id": "mat_001",
+      "topic_id": "top_002",
+      "title": "Pegadinha 4",
+      "description": "Misturar conceitos de tipos de rede com topologias ou protocolos: Questões podem tentar confundir a classificação por abrangência com topologias de rede (estrela, anel, barramento) ou protocolos (TCP/IP, HTTP).",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 4
+    }
+  ],
+  "pontos_memorizacao": [
+    {
+      "memory_id": "mem_001",
+      "material_id": "mat_001",
+      "topic_id": "top_002",
+      "title": null,
+      "content": "LAN: Local, pequena área, alta velocidade, baixa latência, Ethernet/Wi-Fi.",
+      "order": 1
+    },
+    {
+      "memory_id": "mem_002",
+      "material_id": "mat_001",
+      "topic_id": "top_002",
+      "title": null,
+      "content": "MAN: Metropolitana, cidade/região, velocidades intermediárias, fibra óptica/Metro Ethernet.",
+      "order": 2
+    },
+    {
+      "memory_id": "mem_003",
+      "material_id": "mat_001",
+      "topic_id": "top_002",
+      "title": null,
+      "content": "WAN: Longa distância, global, Internet, MPLS/VPN, alta latência.",
+      "order": 3
+    },
+    {
+      "memory_id": "mem_004",
+      "material_id": "mat_001",
+      "topic_id": "top_002",
+      "title": null,
+      "content": "A Internet é o maior exemplo de WAN.",
+      "order": 4
+    }
+  ],
+  "quadro_sinotico_itens": [],
+  "questoes": [
+    {
+      "question_id": "qst_001",
+      "material_id": "mat_001",
+      "topic_id": "top_002",
+      "board": "CEBRASPE",
+      "year": 2011,
+      "organization": "TRE ES",
+      "role": "Técnico Judiciário",
+      "statement": "Cada uma das classes de rede denominadas LAN, MAN e WAN tem suas próprias características, tecnologias, velocidades de transmissão típicas e nichos de mercado, sendo as LANs e MANs redes comutadas e as WANs, não comutadas.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": null,
+      "external_reference": "Questão 65703 Tec Concursos",
+      "commentary": "A afirmação está CORRETA. As redes LAN, MAN e WAN possuem características distintas em termos de abrangência, velocidade e tecnologias. A distinção entre redes comutadas e não comutadas, embora mais técnica, é válida para a época da questão. LANs e MANs são tipicamente redes comutadas (utilizam switches), enquanto WANs podem envolver tecnologias de comutação de pacotes ou circuitos, mas a afirmação geral sobre suas características e nichos de mercado é precisa.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_001"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_002",
+      "material_id": "mat_001",
+      "topic_id": "top_002",
+      "board": "CEBRASPE",
+      "year": 2024,
+      "organization": "CAU BR",
+      "role": "Assistente",
+      "statement": "MAN é uma rede de computadores com abrangência em um país, continente e até mesmo em dois continentes.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": null,
+      "external_reference": "Questão 2783908 Tec Concursos",
+      "commentary": "A afirmação está ERRADA. Uma MAN (Metropolitan Area Network) abrange uma área geográfica de uma cidade ou região metropolitana. A descrição de abrangência em um país, continente ou dois continentes refere-se a uma WAN (Wide Area Network).",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_002"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_003",
+      "material_id": "mat_001",
+      "topic_id": "top_002",
+      "board": "CEBRASPE",
+      "year": 2026,
+      "organization": "TCE MG",
+      "role": "Analista de Controle Externo",
+      "statement": "Redes do tipo LAN costumam ser empregadas em ambientes restritos, como empresas ou residências, permitindo altas taxas de transmissão e menor latência quando comparadas a redes de maior abrangência.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": null,
+      "external_reference": "Questões de Concurso sobre Redes de Computadores - Qconcursos",
+      "commentary": "A afirmação está CORRETA. Redes LAN (Local Area Network) são, de fato, empregadas em ambientes restritos como empresas e residências, e são conhecidas por suas altas taxas de transmissão e baixa latência em comparação com redes de maior abrangência (MAN e WAN).",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_003"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_004",
+      "material_id": "mat_001",
+      "topic_id": "top_002",
+      "board": "CEBRASPE",
+      "year": 2026,
+      "organization": "TCE MG",
+      "role": "Analista de Controle Externo",
+      "statement": "Uma rede MAN caracteriza-se, em geral, por interligar redes locais distribuídas em uma área metropolitana, podendo utilizar infraestruturas públicas ou privadas de comunicação.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": null,
+      "external_reference": "Questões de Concurso sobre Redes de Computadores - Qconcursos",
+      "commentary": "A afirmação está CORRETA. Uma rede MAN (Metropolitan Area Network) tem como principal característica interligar redes locais (LANs) dentro de uma área metropolitana, podendo utilizar tanto infraestruturas de comunicação públicas quanto privadas.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_004"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_005",
+      "material_id": "mat_001",
+      "topic_id": "top_002",
+      "board": "CEBRASPE",
+      "year": 2026,
+      "organization": "TCE MG",
+      "role": "Analista de Controle Externo",
+      "statement": "Redes WAN são utilizadas para cobrir grandes distâncias geográficas e, em muitos casos, dependem de tecnologias de telecomunicações fornecidas por operadoras especializadas.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": null,
+      "external_reference": "Questões de Concurso sobre Redes de Computadores - Qconcursos",
+      "commentary": "A afirmação está CORRETA. Redes WAN (Wide Area Network) são projetadas para cobrir grandes distâncias geográficas e, devido à sua escala, frequentemente dependem de serviços e tecnologias de telecomunicações fornecidas por operadoras especializadas.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_005"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_006",
+      "material_id": "mat_001",
+      "topic_id": "top_002",
+      "board": "CEBRASPE",
+      "year": 2025,
+      "organization": "TRF 6",
+      "role": "Analista Judiciário",
+      "statement": "Para que uma empresa tenha um ou mais computadores conectados à internet, é necessária uma rede do tipo LAN.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": null,
+      "external_reference": "Questões de Concurso sobre Redes Locais PAN, LAN, MAN e WAN - Qconcursos",
+      "commentary": "A afirmação está CORRETA. Para que computadores de uma empresa se conectem à internet, eles precisam estar em uma rede local (LAN) que, por sua vez, estará conectada a uma rede de maior abrangência (WAN, como a própria internet) por meio de um roteador. A LAN é o ponto de partida para a conectividade interna e externa.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_006"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_007",
+      "material_id": "mat_001",
+      "topic_id": "top_002",
+      "board": "CEBRASPE",
+      "year": 2024,
+      "organization": "ANATEL",
+      "role": "Especialista em Regulação",
+      "statement": "Um dos grandes desafios na operação de redes WAN (wide area network) é a garantia da manutenção dos requisitos de qualidade de serviço para aplicações que necessitam de taxa de transmissão garantida e baixa latência, como transmissão de vídeo de alta definição em tempo real.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": null,
+      "external_reference": "Acerca das características de redes PAN, LAN, MAN e WAN, jul... - Qconcursos",
+      "commentary": "A afirmação está CORRETA. A garantia de Qualidade de Serviço (QoS) em redes WAN é um desafio significativo, especialmente para aplicações que exigem alta taxa de transmissão e baixa latência, como vídeo de alta definição em tempo real, devido às maiores distâncias e à complexidade da infraestrutura.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_007"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_008",
+      "material_id": "mat_001",
+      "topic_id": "top_002",
+      "board": "CEBRASPE",
+      "year": 2019,
+      "organization": "SLUDF",
+      "role": "Diversos",
+      "statement": "Por operar na camada 3 do modelo OSI, o roteador é responsável por fazer o roteamento de pacotes IP e, por isso, não realiza comunicação com redes WAN, sendo limitado à LAN.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": null,
+      "external_reference": "Informatica para a Cebraspe - Segurança da Informação e Redes de Computadores - YouTube",
+      "commentary": "A afirmação está ERRADA. O roteador, por operar na camada 3 (rede) do modelo OSI, é responsável pelo roteamento de pacotes IP entre diferentes redes, incluindo a comunicação entre LANs e WANs. Ele não é limitado à LAN; pelo contrário, sua função principal é interconectar redes distintas, inclusive as de longa distância.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_008"
+        ],
+        "count": 1
+      }
+    }
+  ],
+  "comentarios_questoes": [
+    {
+      "comment_id": "com_001",
+      "question_id": "qst_001",
+      "content": "A afirmação está CORRETA. As redes LAN, MAN e WAN possuem características distintas em termos de abrangência, velocidade e tecnologias. A distinção entre redes comutadas e não comutadas, embora mais técnica, é válida para a época da questão. LANs e MANs são tipicamente redes comutadas (utilizam switches), enquanto WANs podem envolver tecnologias de comutação de pacotes ou circuitos, mas a afirmação geral sobre suas características e nichos de mercado é precisa.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_002",
+      "question_id": "qst_002",
+      "content": "A afirmação está ERRADA. Uma MAN (Metropolitan Area Network) abrange uma área geográfica de uma cidade ou região metropolitana. A descrição de abrangência em um país, continente ou dois continentes refere-se a uma WAN (Wide Area Network).",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_003",
+      "question_id": "qst_003",
+      "content": "A afirmação está CORRETA. Redes LAN (Local Area Network) são, de fato, empregadas em ambientes restritos como empresas e residências, e são conhecidas por suas altas taxas de transmissão e baixa latência em comparação com redes de maior abrangência (MAN e WAN).",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_004",
+      "question_id": "qst_004",
+      "content": "A afirmação está CORRETA. Uma rede MAN (Metropolitan Area Network) tem como principal característica interligar redes locais (LANs) dentro de uma área metropolitana, podendo utilizar tanto infraestruturas de comunicação públicas quanto privadas.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_005",
+      "question_id": "qst_005",
+      "content": "A afirmação está CORRETA. Redes WAN (Wide Area Network) são projetadas para cobrir grandes distâncias geográficas e, devido à sua escala, frequentemente dependem de serviços e tecnologias de telecomunicações fornecidas por operadoras especializadas.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_006",
+      "question_id": "qst_006",
+      "content": "A afirmação está CORRETA. Para que computadores de uma empresa se conectem à internet, eles precisam estar em uma rede local (LAN) que, por sua vez, estará conectada a uma rede de maior abrangência (WAN, como a própria internet) por meio de um roteador. A LAN é o ponto de partida para a conectividade interna e externa.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_007",
+      "question_id": "qst_007",
+      "content": "A afirmação está CORRETA. A garantia de Qualidade de Serviço (QoS) em redes WAN é um desafio significativo, especialmente para aplicações que exigem alta taxa de transmissão e baixa latência, como vídeo de alta definição em tempo real, devido às maiores distâncias e à complexidade da infraestrutura.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_008",
+      "question_id": "qst_008",
+      "content": "A afirmação está ERRADA. O roteador, por operar na camada 3 (rede) do modelo OSI, é responsável pelo roteamento de pacotes IP entre diferentes redes, incluindo a comunicação entre LANs e WANs. Ele não é limitado à LAN; pelo contrário, sua função principal é interconectar redes distintas, inclusive as de longa distância.",
+      "explanation_alternatives": ""
+    }
+  ],
+  "checklist_revisao": [
+    {
+      "checklist_id": "chk_001",
+      "material_id": "mat_001",
+      "topic_id": "top_002",
+      "item_text": "Compreender as definições e características de LAN, MAN e WAN.",
+      "completed": false,
+      "order": 1
+    },
+    {
+      "checklist_id": "chk_002",
+      "material_id": "mat_001",
+      "topic_id": "top_002",
+      "item_text": "Saber diferenciar as redes pela abrangência geográfica (tamanho).",
+      "completed": false,
+      "order": 2
+    },
+    {
+      "checklist_id": "chk_003",
+      "material_id": "mat_001",
+      "topic_id": "top_002",
+      "item_text": "Identificar as tecnologias típicas associadas a cada tipo de rede.",
+      "completed": false,
+      "order": 3
+    },
+    {
+      "checklist_id": "chk_004",
+      "material_id": "mat_001",
+      "topic_id": "top_002",
+      "item_text": "Entender as diferenças de velocidade e latência entre os tipos de rede.",
+      "completed": false,
+      "order": 4
+    },
+    {
+      "checklist_id": "chk_005",
+      "material_id": "mat_001",
+      "topic_id": "top_002",
+      "item_text": "Reconhecer a Internet como um exemplo de WAN.",
+      "completed": false,
+      "order": 5
+    },
+    {
+      "checklist_id": "chk_006",
+      "material_id": "mat_001",
+      "topic_id": "top_002",
+      "item_text": "Estar atento às pegadinhas do CEBRASPE que misturam características ou abrangências.",
+      "completed": false,
+      "order": 6
+    }
+  ],
+  "referencias": [
+    {
+      "reference_id": "ref_001",
+      "material_id": "mat_001",
+      "reference_type": "Livro",
+      "author_name": "Andrew S. Tanenbaum e David Wetherall",
+      "title": "Redes de Computadores",
+      "publisher": "Pearson Education",
+      "year_reference": "2010 (5ª edição)",
+      "isbn": null,
+      "url": null,
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_002",
+      "material_id": "mat_001",
+      "reference_type": "Livro",
+      "author_name": "Behrouz A. Forouzan",
+      "title": "Comunicação de Dados e Redes de Computadores",
+      "publisher": "McGraw-Hill",
+      "year_reference": null,
+      "isbn": null,
+      "url": null,
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_003",
+      "material_id": "mat_001",
+      "reference_type": "Livro",
+      "author_name": "James F. Kurose e Keith W. Ross",
+      "title": "Redes de Computadores e a Internet: uma abordagem top-down",
+      "publisher": "Addison Wesley",
+      "year_reference": "2009 (5ª edição)",
+      "isbn": null,
+      "url": null,
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_004",
+      "material_id": "mat_001",
+      "reference_type": "Artigo Online",
+      "author_name": "G1",
+      "title": "LAN x MAN x WAN: entenda as diferenças entre os tipos de rede",
+      "publisher": null,
+      "year_reference": "2025",
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF1LkRWKN8OmkGmg2atW2mKklN1-Tr9hJSc06Yz0tvti7MLM1cAHjKT3FLGvPBhTh1shqSEMQfhUWaP8muiU5cg_JHFEl3-_UaBvh4Oin0_Se1W3R_P9t0uy6fNPFtsdfpHUJqkzvQcG_n0rcaY2BV8bB9aJh_SbgxJHCTza-e_qWyp1nz9AmgTu7u9V9ovI0GYLql2Ye_y4bBcwqZw-4Kis1SAtl1uV7x-nCvH2G4cyF9a39glZFh75Rn4vuEg695CyHuI22lA9fXk0d8Ct6MI_g54RRqK8fN2-mZ8CRsz6ie0kIVrIbAyZT-doyuLtr8-EpjjgjVnZNcE",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_005",
+      "material_id": "mat_001",
+      "reference_type": "Artigo Online",
+      "author_name": "Estratégia Concursos",
+      "title": "Tipos de Redes: Compreendendo LAN, MAN e WAN",
+      "publisher": null,
+      "year_reference": "2025",
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF7yitI1wjc-nm3WcLnqmyq82FwKiu5YxaHUG14uvbDWDSHM2h-jLsw2yuElOGTS7eSBMCuZipwl3UHOooNmbWYuNtZBsfvDs7D2E8esGKRU4otSAiaYU_-84YRlcsorJjoGkgT-pm7fn-zFyICkMvdioDCtuM4iaf4ZSplifcf",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_006",
+      "material_id": "mat_001",
+      "reference_type": "Artigo Online",
+      "author_name": "QSFPTEK",
+      "title": "LAN vs. MAN vs. WAN: Compreendendo as diferenças nos tipos de rede",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEY96hq1JMI201zq1OB4q7_LVaLbpqDJ_RhJ6xc4ojdEzaVGo8LwW5Il8qmXRmmBJ3KmcRsG_MkbUDLOwwrilQ4WaoNgUTsVIMJa-E_HzOYcZHD3_yWcPTgt1FXUa-RVUiy_ouc7FMUIXgCma_e4dLOw7X2yEX1tJCy8VSdh9e40TtmiXd28Ps8eyyNdM9jXev6wM0Yu4Rv8c8bqy051RPy__uM",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_007",
+      "material_id": "mat_001",
+      "reference_type": "Artigo Online",
+      "author_name": null,
+      "title": "O que são redes de computadores? Veja tipos e exemplos de computer networks",
+      "publisher": null,
+      "year_reference": "2026",
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEKqLvzZvJIPEu3OePPCvC655xEy8TK3XxwINBO3AXfYmB_8wGkA4SlrODA364-RRlb-C8Chv6oIrM7eV4b2E2hvJzqGKGiZyWPIG-aF0CXQkajU2M2Ein3tLwr3TIaTzs4KYzDqAXE7S7PzWQO18EGsPqqNx8N2hUE4yXnM0sQgKR-fPjqN7IydRX0SnN_gGEnAuVmNOHxyyi5toeSDKVxKYC2KUY=",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_008",
+      "material_id": "mat_001",
+      "reference_type": "Artigo Online",
+      "author_name": "Tokio School",
+      "title": "LAN, WAN, MAN: Tipos de Redes e as Suas Aplicações",
+      "publisher": null,
+      "year_reference": "2025",
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGsc1wQVGf-yaJzG1re_P10BZCf0wp5ZiMmqtgog6cOIU1EC_YjmI5pXB-PKFqme4vvtZcS7kDL0M3rFEpheZyxysD4AoO9GuRY2DefY_8gBNHt9iVJEyC3XG6tRGHt2xBENSbsrELqLVb0Nhgq3R5ch2LE9ExC-bYjTJo7I0ld5L8Ac6HunMoJQk88",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_009",
+      "material_id": "mat_001",
+      "reference_type": "Artigo Online",
+      "author_name": "ReBtech",
+      "title": "Diferenças entre redes LAN, WAN, MAN e PAN explicadas",
+      "publisher": null,
+      "year_reference": "2025",
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE8nWBy04D0p1zUQjTcZIxz3GmtqYzNMMNaY5_spo4F8O_1HT-UvvxbjwJuf-wzz672ehS8evwJqVhPI3SmoIjKGAMYTCaS-6X7EXrVZo0-lvpRlCTZpdCTsPckwtSNvnGdn2VrigRR9RyyPzYAFv71huu56CGoZ2pHncO_p0hmVuy69Gkzt6waDd4=",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_010",
+      "material_id": "mat_001",
+      "reference_type": "Artigo Online",
+      "author_name": "Canaltech",
+      "title": "LAN, WLAN, MAN, WAN, PAN | Significado dos principais tipos de redes",
+      "publisher": null,
+      "year_reference": "2022",
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG77LtRCBaAZAyG7gy7-iuqN3arCY5OWV1Lz5e-HK5mJeOMz9tpl9xDQTwop3zeTMtPEMfgq6lyjPWrZ5Sy67PZI9MWZFxaVWaaW9YQ1O9wykdd5plIbUSCc8VXSzpznFPy4ZWYE-E_tL1WQocuZFIGCRvZyuzRpWZYlMSNg8Ueq8P6VqC_dQbEhJiWOVyfg4B3-pMO",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_011",
+      "material_id": "mat_001",
+      "reference_type": "Artigo Online",
+      "author_name": "Gabarite Questões",
+      "title": "LAN, MAN, WAN - Divisão das Redes de Computadores",
+      "publisher": null,
+      "year_reference": "2025",
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH9sYwl_AtdCsLUiyP1Gm-7fA02f5X7RBScjL34aE0uqUXQqFebYpasKexaKAiLuaJ5W4rZuuCvCwJzPE4EnPpGIOQppU1qj_pANoL11Vi-mDKCLY-3fPzEvRDrJKA4Kczso_usypqqmXgmi-S0cx9pc6Di-9HCLvYFsE3CG5dULje06QjivvV1n2Dg5ki2PXkDYg==",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_012",
+      "material_id": "mat_001",
+      "reference_type": "Questão de Concurso",
+      "author_name": "Tec Concursos",
+      "title": "Questão 65703 CEBRASPE (CESPE) - Técnico Judiciário (TRE ES)",
+      "publisher": null,
+      "year_reference": "2014",
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEh0-HcUbaYRbd6VS-Axhg5ZXVLioAoLS8is1u0MY6ZTT-uxmqQ7LI275AKsUT4_21OYeMofgwIsM8ar5SQEDU7S7QdSx4hsi0LWBcG_6LnUEttzHFRgFBPlP8N6kYrom0ag8aD7ENnZgo=",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_013",
+      "material_id": "mat_001",
+      "reference_type": "Questão de Concurso",
+      "author_name": "Tec Concursos",
+      "title": "Questão 2783908 CEBRASPE (CESPE) - Assistente (CAU BR)",
+      "publisher": null,
+      "year_reference": "2024",
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGfcSzsPUEBmi9yU-moPe_FQrmlbQ9hrnw7yxPKf6znNmqzHI3oANWHBHwsIcS3k_0nxIqn3LG-cxNPLR8Xv23wZeHPrZ-8AQqcMui_lJCOYDaZndELsT5xqF2p9e5ydV0aIGcKpUTDfj74gA==",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_014",
+      "material_id": "mat_001",
+      "reference_type": "Questão de Concurso",
+      "author_name": "Qconcursos.com",
+      "title": "Questões de Concurso sobre Redes de Computadores para CESPE / CEBRASPE",
+      "publisher": null,
+      "year_reference": "2026",
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGG6Ju00N4dCocQ0ijiXw7yioZZ_m5FjLyiSnXagihle89SLXh6xykMHT8-wtrbkdeLS5hCNGGwG-OUW2YEvENIDouqpLfb5pzks4GltPVU-w2QE6zBvR90-w4f5YNFpq6G2LN7thN4rnOi5zfkXpkUJccGzYc5okHj4VS6m5_rgJ5J0f9dKxiBMGiziN_wPJTfDTE7Kb-9k1ivVZf8timYkuONnWR6t7JDJbxxIA==",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_015",
+      "material_id": "mat_001",
+      "reference_type": "Questão de Concurso",
+      "author_name": "Qconcursos.com",
+      "title": "Questões de Concurso sobre Redes Locais PAN, LAN, MAN e WAN",
+      "publisher": null,
+      "year_reference": "2025",
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFwNhQbZCNLc_xV_U86v8-8cHR59CLvtPstrKx4Og87wK7SidjWt8O6X5BWjm0up8cznV0V4r0xETECtOLK-ggId8sJjiKZKGEZHRGxh6BkH5d9PauWGE298BIWx13813vxYTIYJFydc2thWxA3TqtC-UNXGzrVc-mkNsROxow8dE2CCcac8x2iPAYfAbQSBnVHnqOTErgYF9ej9nvMtjg61PkjFP6XkQUFU9c-QXfj8N0DSQcVaMf4SzhttKlPkE2x_PEf2KyUTKhmhKc=",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_016",
+      "material_id": "mat_001",
+      "reference_type": "Questão de Concurso",
+      "author_name": "Qconcursos.com",
+      "title": "Acerca das características de redes PAN, LAN, MAN e WAN, jul...",
+      "publisher": null,
+      "year_reference": "2024",
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHS01ZYwfW8kS17QWaURJc-UBzXlLe3YbclgIpoHHnJcwpDfwx8zXtTAStvJaIlm6qcJictRBZO4p7oRX7c0yi5iQGQNXFLulE8d30GspqH5s2fQKYiP1_vg18k1peHaYKW0j4VKcztnyksHxPNgsq47eIGQ6gzkBXIUL5jXl23Ag==",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_017",
+      "material_id": "mat_001",
+      "reference_type": "Vídeo/Aula Online",
+      "author_name": "Focus Concursos (YouTube)",
+      "title": "Informatica para a Cebraspe - Segurança da Informação e Redes de Computadores",
+      "publisher": null,
+      "year_reference": "2023",
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEflomAxYW6lEWV1gotOX1semjBNWHgIMhlxAtebRSSw8KjtPp8JUEa_2ibnbRxtJtDuv_y5vzEDcpIjWDdglGWkwsmIz36fUAcuCTkQ7gZhuVyLmfb5kVJqCwdZEJEBBD-Y9WabTA=",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_018",
+      "material_id": "mat_001",
+      "reference_type": "Artigo Online",
+      "author_name": "Qconcursos.com",
+      "title": "Redes de Computadores: Conceitos e pontos-chave para concursos",
+      "publisher": null,
+      "year_reference": "2025",
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHtC873vz6ABKzBSEle2EBCf9mq-tI5deiXt3TYlKqDdMooeZXptNxahMVg-ObZ3h1LycjjYoOTNZyndc0I1Tz1bmIfwRqDgB2ExldToUAYM-QQU9Xumbnnju7UOGyIB96mXvQL3xkbAKCgJTPe9nhAbePf09TqnzIpHlJ7Y5vLYiK4A_cAOp8=",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_019",
+      "material_id": "mat_001",
+      "reference_type": "Guia de Estudo",
+      "author_name": null,
+      "title": "Guia de TI Redes de Computadores para Concurso Nacional Unificado - 2024",
+      "publisher": null,
+      "year_reference": "2024",
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFQsm9shlVKoydAmbmjxd2AKiDtrjYwiVhQliSsObo_0WEqINeFI5IvQN0_Q_r9HeCPl__xFLDTMyWTj6CMwezIC2h1UJt4vMOZt22NoRdljL0caSXidC6MMQAilDL-LUUOeV4ryM8NiFeFvJwQL0xZ0f8zHHHrwdaU6XDONydCKM4Y8wtw6r1lN3ButJJsKKVK15dkjhXqD3dDH6NtWb7aV9ADRYcJliWA6X1PFOfX-C4NZum890E9PCPkX2tNefJY4XXjVJhSVsdv64FZ5n0a5GqoKu9X6JKfjL8YThJG9tQ1Cs9Fg-lCE7NMHQDPR-Eb",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_020",
+      "material_id": "mat_001",
+      "reference_type": "Artigo Online",
+      "author_name": null,
+      "title": "Cobrança CESPE: análise completa da banca e estratégias de prova!",
+      "publisher": null,
+      "year_reference": "2020",
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFr16MNTa4aoj4ioFkY-f1jQKDzTp9f3XwBTTW7xWYLS8r-um0algmdXGkc3OD0CRpriHrBjPGbXyAHqMR3h8SdkK-dU2Y5_ML1kk9pwo-4xrWD2tdIdQmmD4Zq7Z6OBvUaPtn_WeZ7iMQpiXYLfPQRlyg1fvnhIZ2as0_FqRlEOXuMVl_m6bszbvknDGqjzyIa9l6k6GCG5APWBYRhBY9bzhi_lFFmlA==",
+      "accessed_at": null,
+      "description": null
+    }
+  ],
+  "estatisticas_de_geracao": {
+    "total_topicos": 2,
+    "total_componentes_topico": 11,
+    "total_entendimentos_relevantes": 3,
+    "total_pegadinhas": 4,
+    "total_pontos_memorizacao": 4,
+    "total_itens_quadro_sinotico": 0,
+    "total_questoes": 8,
+    "total_comentarios_questoes": 8,
+    "total_itens_checklist": 6,
+    "total_referencias": 20
+  },
+  "validacao_interna": {
+    "pesquisa_previa_realizada": true,
+    "analise_de_cobrancas_anteriores_realizada": true,
+    "material_atualizado": true,
+    "json_valido": true,
+    "estrutura_relacional_respeitada": true,
+    "numeracao_respeitada": true,
+    "houve_quebra_de_hierarquia": false,
+    "houve_nivel_numerico_superior_a_3": false,
+    "fontes_verificadas": true,
+    "sem_informacao_inventada": true
+  },
+  "metadata": {
+    "source_file_name": "5__informática-e-dados__5-noções-de-redes-de-computadores-5.1-tipos-locais-lan-metropolitanas-man-e-de-longa-distância-wan.json",
+    "normalized_checksum": "2f75aa4af41b8fbd10f7099206c93aeba3ae27460af0786c7bab9b97b2b7fba9",
+    "subject_slug": "informatica",
+    "material_slug": "redes-computadores-lan-man-wan-cebraspe",
+    "title_slug": "nocoes-de-redes-de-computadores-lan-man-e-wan-para",
+    "board_slug": "cebraspe",
+    "counters": {
+      "blocks": 5,
+      "topics": 2,
+      "topic_components": 11,
+      "traps": 4,
+      "memory_points": 4,
+      "summary_items": 0,
+      "questions": 8,
+      "question_comments": 8,
+      "checklist_items": 6,
+      "references": 20
+    }
+  }
+}

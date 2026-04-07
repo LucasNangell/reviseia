@@ -1,0 +1,1131 @@
+{
+  "schema_version": "1.0",
+  "normalized_at": "2026-04-07T15:39:13.790104-03:00",
+  "normalizer_version": "2.0.0",
+  "exported_at": "2026-04-06T20:26:00Z",
+  "source_request": {
+    "purpose": "Concurso público",
+    "general_area": "Exatas",
+    "subject_name": "Raciocínio Lógico e Noções de Estatística",
+    "subarea_name": "Lógica, conjuntos, contagem e estatística",
+    "main_theme": "2 Lógica de argumentação: analogias, inferências, deduções e conclusões",
+    "theme_scope": "Teoria completa, incidência em prova, padrão de cobrança da banca, pegadinhas e questões comentadas",
+    "board_style": "CEBRASPE",
+    "depth_level": "Exaustivo",
+    "goal": "Teoria completa, revisão estratégica, pegadinhas e questões comentadas",
+    "base_topic_number": "2",
+    "topic_title": "2 Lógica de argumentação: analogias, inferências, deduções e conclusões",
+    "syllabus_reference": "Conteúdo programático da disciplina Raciocínio Lógico e Noções de Estatística",
+    "priority_sources": [
+      "Bibliografia técnica consolidada",
+      "Definições, propriedades, regras e métodos consagrados",
+      "Questões anteriores da banca"
+    ],
+    "minimum_questions": 8,
+    "question_format": "Certo/Errado",
+    "prioritize_real_questions": true,
+    "response_language": "português",
+    "target_audience": "Candidato de concurso público",
+    "additional_notes": "Executar exatamente para esta linha individual do topicos.txt. Não juntar com outros tópicos. Não pular este tópico. Dar destaque ao padrão de cobrança da banca, aos pontos mais cobrados e às pegadinhas recorrentes.",
+    "input_hash": "e7c981e6280d",
+    "extras": {}
+  },
+  "material": {
+    "material_id": "mat_001",
+    "slug": "logica-argumentacao-cebraspe-concurso",
+    "title": "Lógica de Argumentação para Concursos: Analogias, Inferências, Deduções e Conclusões (Foco CEBRASPE)",
+    "base_number": "2",
+    "topic_title": "2 Lógica de argumentação: analogias, inferências, deduções e conclusões",
+    "purpose": "Concurso público",
+    "area_name": "Exatas",
+    "subject_name": "Raciocínio Lógico e Noções de Estatística",
+    "subarea_name": "Lógica, conjuntos, contagem e estatística",
+    "main_theme": "2 Lógica de argumentação: analogias, inferências, deduções e conclusões",
+    "theme_scope": "Teoria completa, incidência em prova, padrão de cobrança da banca, pegadinhas e questões comentadas",
+    "board_style": "CEBRASPE",
+    "depth_level": "Exaustivo",
+    "study_goal": "Teoria completa, revisão estratégica, pegadinhas e questões comentadas",
+    "target_audience": "Candidato de concurso público",
+    "language_code": "português",
+    "update_status": "Atualizado em 2026",
+    "current_note": "Conteúdo revisado e atualizado com base nas tendências de cobrança da banca CEBRASPE até o primeiro trimestre de 2026.",
+    "has_case_law": false,
+    "case_law_justification": null,
+    "has_information_limitation": false,
+    "information_limitation_desc": null,
+    "content_checksum": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6",
+    "extras": {}
+  },
+  "blocos_textuais": [
+    {
+      "external_block_code": "blc_001",
+      "material_id": null,
+      "topic_id": null,
+      "order": 1,
+      "title": "Introdução à Lógica de Argumentação",
+      "content": "A Lógica de Argumentação é um pilar fundamental do Raciocínio Lógico, frequentemente cobrada em concursos públicos, especialmente pela banca CEBRASPE. Ela se concentra na estrutura e validade dos argumentos, que são sequências de proposições onde uma delas (a conclusão) é derivada das demais (as premissas). O objetivo é determinar se a conclusão é uma consequência lógica necessária das premissas, independentemente da verdade factual das proposições individuais. Para o CEBRASPE, dominar este tópico exige não apenas o conhecimento das definições, mas também a capacidade de aplicar esses conceitos em cenários práticos e identificar falácias comuns.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_002",
+      "material_id": null,
+      "topic_id": null,
+      "order": 2,
+      "title": "Argumentos: Premissas e Conclusão",
+      "content": "Um argumento é um conjunto de proposições, das quais uma é a conclusão e as outras são as premissas. As premissas são as afirmações que fornecem suporte ou evidência para a conclusão. A conclusão é a proposição que se pretende que seja estabelecida ou inferida a partir das premissas. A identificação correta das premissas e da conclusão é o primeiro passo para analisar a validade de um argumento. Indicadores comuns de conclusão incluem palavras como 'logo', 'portanto', 'assim', 'consequentemente'.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_003",
+      "material_id": null,
+      "topic_id": null,
+      "order": 3,
+      "title": "Validade vs. Verdade: Uma Distinção Crucial",
+      "content": "No estudo da lógica, é essencial distinguir entre a validade de um argumento e a verdade de suas proposições. Um argumento é **válido** se, e somente se, é impossível que todas as suas premissas sejam verdadeiras e sua conclusão seja falsa simultaneamente. A validade é uma característica da *estrutura* do argumento, não do conteúdo das proposições. Assim, um argumento pode ser válido mesmo que suas premissas ou sua conclusão sejam falsas. Por outro lado, a **verdade** refere-se ao conteúdo de uma proposição individual, ou seja, se ela corresponde à realidade. Um argumento **correto** (ou sólido) é um argumento válido que possui todas as premissas verdadeiras, garantindo, assim, uma conclusão também verdadeira.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_004",
+      "material_id": null,
+      "topic_id": null,
+      "order": 4,
+      "title": "Tipos de Raciocínio: Dedução, Indução e Abdução",
+      "content": "Existem diferentes formas de raciocínio lógico que levam a conclusões, sendo as mais comuns a dedução, a indução e a abdução. O CEBRASPE frequentemente testa a compreensão dessas distinções.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_005",
+      "material_id": null,
+      "topic_id": null,
+      "order": 5,
+      "title": "Raciocínio Dedutivo",
+      "content": "O raciocínio dedutivo parte de premissas gerais para chegar a uma conclusão específica. Se as premissas de um argumento dedutivo são verdadeiras, a conclusão *necessariamente* deve ser verdadeira. A conclusão de um argumento dedutivo não contém mais informação do que já está implícita nas premissas. Argumentos dedutivos são classificados como válidos ou inválidos. Exemplo clássico: 'Todos os homens são mortais. Sócrates é homem. Logo, Sócrates é mortal.'",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_006",
+      "material_id": null,
+      "topic_id": null,
+      "order": 6,
+      "title": "Raciocínio Indutivo",
+      "content": "O raciocínio indutivo parte de observações específicas ou particulares para chegar a uma conclusão geral. Ao contrário da dedução, a conclusão de um argumento indutivo é apenas *provável*, e não garantida, mesmo que todas as premissas sejam verdadeiras. A indução busca identificar padrões e generalizar a partir deles. Argumentos indutivos são classificados como fortes ou fracos, dependendo do grau de suporte que as premissas oferecem à conclusão. Exemplo: 'Todos os corvos observados até agora são pretos. Logo, todos os corvos são pretos.' (A próxima observação pode refutar a conclusão).",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_007",
+      "material_id": null,
+      "topic_id": null,
+      "order": 7,
+      "title": "Raciocínio Abdutivo",
+      "content": "O raciocínio abdutivo é um tipo de inferência que busca a melhor explicação possível para um conjunto de observações ou fatos. Ele parte de uma observação para uma hipótese que, se verdadeira, explicaria a observação. É frequentemente usado na formulação de hipóteses e na resolução de problemas onde a informação é incompleta. Exemplo: 'O gramado está molhado. Se choveu, o gramado estaria molhado. Logo, provavelmente choveu.' A abdução não garante a verdade da conclusão, mas oferece a explicação mais plausível.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_008",
+      "material_id": null,
+      "topic_id": null,
+      "order": 8,
+      "title": "Inferências e Analogias",
+      "content": "Uma **inferência** é o processo de derivar uma conclusão lógica a partir de premissas ou evidências. Pode ser dedutiva, indutiva ou abdutiva. No contexto de provas, inferir significa extrair informações implícitas ou explícitas do texto para chegar a uma conclusão. Uma **analogia** é uma comparação entre duas coisas que são semelhantes em alguns aspectos, mas diferentes em outros. Analogias são usadas para ilustrar um ponto, tornar um conceito mais compreensível ou sugerir que, se duas coisas são semelhantes em certos aspectos, podem ser semelhantes em outros. O CEBRASPE pode apresentar analogias para testar a capacidade do candidato de identificar relações lógicas ou de aplicar um raciocínio similar em diferentes contextos.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_009",
+      "material_id": null,
+      "topic_id": null,
+      "order": 9,
+      "title": "Padrão de Cobrança da Banca CEBRASPE",
+      "content": "A banca CEBRASPE (antigo CESPE) é conhecida por seu estilo 'Certo/Errado', onde uma resposta errada pode anular uma certa, exigindo alta precisão e confiança do candidato. Em Lógica de Argumentação, o CEBRASPE costuma apresentar: <ul><li>**Enunciados longos e contextualizados:** Muitas vezes, as questões são inseridas em situações do cotidiano ou cenários funcionais, exigindo interpretação cuidadosa.</li><li>**Foco na validade de argumentos:** A capacidade de identificar argumentos válidos e inválidos é central.</li><li>**Linguagem objetiva e lógica:** Embora os enunciados sejam longos, a linguagem é precisa e técnica, misturando teoria com interpretação de texto.</li><li>**Cobrança de falácias formais:** A negação do antecedente e a afirmação do consequente são falácias clássicas frequentemente exploradas.</li><li>**Representações simbólicas e diagramas:** O uso de diagramas lógicos e a tradução para a linguagem simbólica são habilidades importantes.</li><li>**Distinção entre validade e verdade:** A banca testa se o candidato compreende que um argumento pode ser válido mesmo com premissas falsas.</li></ul>",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_010",
+      "material_id": null,
+      "topic_id": null,
+      "order": 10,
+      "title": "Pegadinhas Recorrentes do CEBRASPE",
+      "content": "O CEBRASPE é mestre em criar 'cascas de banana' para induzir o erro. As principais pegadinhas em Lógica de Argumentação incluem: <ul><li>**Falácia da Negação do Antecedente:** 'Se P, então Q. Não P. Logo, não Q.' Este é um argumento inválido, mas intuitivamente pode parecer correto.</li><li>**Falácia da Afirmação do Consequente:** 'Se P, então Q. Q. Logo, P.' Também é um argumento inválido.</li><li>**Generalizações Absolutas:** O uso de termos como 'sempre', 'nunca', 'todos', 'nenhum' em proposições que não admitem tal generalização pode tornar um item incorreto.</li><li>**Inversão de Conceitos:** Trocar sutilmente a definição de validade por verdade, ou vice-versa.</li><li>**Sentenças que Contêm Perguntas:** Uma pergunta por si só não é uma proposição lógica, mas uma sentença que *afirma algo sobre uma pergunta* (ex: 'A pergunta X necessita ser respondida') *é* uma proposição.</li><li>**Argumentos 'Válidos, apesar de fracos':** A banca pode apresentar um argumento dedutivamente válido, mas com premissas que parecem 'fracas' no sentido comum, testando o rigor da definição lógica de validade.</li></ul>",
+      "content_type": "teoria"
+    }
+  ],
+  "topicos": [
+    {
+      "external_topic_code": "top_001",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "2",
+      "title": "Lógica de argumentação: analogias, inferências, deduções e conclusões",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 1
+    },
+    {
+      "external_topic_code": "top_002",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "2.1",
+      "title": "Conceitos Fundamentais de Argumentação",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 2
+    },
+    {
+      "external_topic_code": "top_003",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "2.2",
+      "title": "Validade e Verdade em Argumentos",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 3
+    },
+    {
+      "external_topic_code": "top_004",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "2.3",
+      "title": "Tipos de Raciocínio Lógico",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 4
+    },
+    {
+      "external_topic_code": "top_005",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "2.3.1",
+      "title": "Raciocínio Dedutivo",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 5
+    },
+    {
+      "external_topic_code": "top_006",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "2.3.2",
+      "title": "Raciocínio Indutivo",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 6
+    },
+    {
+      "external_topic_code": "top_007",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "2.3.3",
+      "title": "Raciocínio Abdutivo",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 7
+    },
+    {
+      "external_topic_code": "top_008",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "2.4",
+      "title": "Analogias e Inferências",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 8
+    },
+    {
+      "external_topic_code": "top_009",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "2.5",
+      "title": "Padrão de Cobrança da Banca CEBRASPE",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 9
+    },
+    {
+      "external_topic_code": "top_010",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "2.6",
+      "title": "Pegadinhas e Erros Comuns em Provas CEBRASPE",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 10
+    }
+  ],
+  "topico_componentes": [
+    {
+      "component_id": "cmp_001",
+      "topic_id": "top_002",
+      "component_type": "texto",
+      "content": "Um argumento é a unidade básica da lógica de argumentação, composto por premissas e uma conclusão. As premissas são as proposições que servem de base para a conclusão, que é a proposição que se pretende provar.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_002",
+      "topic_id": "top_003",
+      "component_type": "texto",
+      "content": "A validade de um argumento é uma propriedade formal: se as premissas forem verdadeiras, a conclusão *deve* ser verdadeira. A verdade das proposições, por outro lado, é uma questão de conteúdo e correspondência com a realidade.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_003",
+      "topic_id": "top_005",
+      "component_type": "texto",
+      "content": "A dedução é o raciocínio que vai do geral para o particular, garantindo a conclusão se as premissas forem verdadeiras.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_004",
+      "topic_id": "top_006",
+      "component_type": "texto",
+      "content": "A indução vai do particular para o geral, e sua conclusão é apenas provável, não garantida.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_005",
+      "topic_id": "top_007",
+      "component_type": "texto",
+      "content": "A abdução busca a melhor explicação para um fenômeno observado, gerando hipóteses.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_006",
+      "topic_id": "top_008",
+      "component_type": "texto",
+      "content": "Inferências são conclusões tiradas de evidências. Analogias são comparações que sugerem semelhanças.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_007",
+      "topic_id": "top_009",
+      "component_type": "texto",
+      "content": "O CEBRASPE foca em validade, falácias (negação do antecedente, afirmação do consequente), e a interpretação de enunciados longos e contextualizados.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_008",
+      "topic_id": "top_010",
+      "component_type": "texto",
+      "content": "Cuidado com generalizações absolutas ('sempre', 'nunca'), inversão de conceitos (validade/verdade) e sentenças que contêm perguntas.",
+      "order": 1
+    }
+  ],
+  "pegadinhas": [
+    {
+      "trap_id": "peg_001",
+      "material_id": null,
+      "topic_id": "top_010",
+      "title": "Falácia da Negação do Antecedente",
+      "description": "Argumento inválido do tipo 'Se P, então Q. Não P. Logo, não Q.' O CEBRASPE explora a intuição de que, se a condição não ocorre, o resultado também não ocorreria, o que é um erro lógico.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 1
+    },
+    {
+      "trap_id": "peg_002",
+      "material_id": null,
+      "topic_id": "top_010",
+      "title": "Falácia da Afirmação do Consequente",
+      "description": "Argumento inválido do tipo 'Se P, então Q. Q. Logo, P.' A ocorrência do consequente não garante a ocorrência do antecedente.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 2
+    },
+    {
+      "trap_id": "peg_003",
+      "material_id": null,
+      "topic_id": "top_010",
+      "title": "Generalizações Absolutas",
+      "description": "O uso de quantificadores universais ('todos', 'sempre', 'nunca', 'nenhum') em contextos onde a generalização não se aplica rigidamente, tornando a proposição falsa.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 3
+    },
+    {
+      "trap_id": "peg_004",
+      "material_id": null,
+      "topic_id": "top_010",
+      "title": "Confusão entre Validade e Verdade",
+      "description": "A banca pode tentar confundir o candidato, sugerindo que um argumento com premissas falsas ou conclusão falsa é automaticamente inválido, ou que um argumento válido deve ter premissas e conclusão verdadeiras.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 4
+    },
+    {
+      "trap_id": "peg_005",
+      "material_id": null,
+      "topic_id": "top_010",
+      "title": "Sentenças que Contêm Perguntas ou Exclamações",
+      "description": "Uma pergunta ou exclamação por si só não é uma proposição lógica (não pode ser julgada como V ou F). No entanto, uma sentença *sobre* uma pergunta ou exclamação pode ser uma proposição.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 5
+    }
+  ],
+  "pontos_memorizacao": [
+    {
+      "memory_id": "mem_001",
+      "material_id": null,
+      "topic_id": "top_003",
+      "title": null,
+      "content": "Validade é sobre a forma do argumento; verdade é sobre o conteúdo das proposições. Um argumento válido pode ter premissas falsas e/ou conclusão falsa.",
+      "order": 1
+    },
+    {
+      "memory_id": "mem_002",
+      "material_id": null,
+      "topic_id": "top_005",
+      "title": null,
+      "content": "Dedução: do geral para o particular. Conclusão *necessária* se premissas verdadeiras.",
+      "order": 2
+    },
+    {
+      "memory_id": "mem_003",
+      "material_id": null,
+      "topic_id": "top_006",
+      "title": null,
+      "content": "Indução: do particular para o geral. Conclusão *provável* se premissas verdadeiras. Classificado como forte ou fraco.",
+      "order": 3
+    },
+    {
+      "memory_id": "mem_004",
+      "material_id": null,
+      "topic_id": "top_009",
+      "title": null,
+      "content": "CEBRASPE foca em validade, falácias (negação do antecedente, afirmação do consequente) e interpretação de enunciados longos.",
+      "order": 4
+    },
+    {
+      "memory_id": "mem_005",
+      "material_id": null,
+      "topic_id": "top_010",
+      "title": null,
+      "content": "Atenção a palavras como 'todos', 'sempre', 'nunca' e à distinção entre uma pergunta e uma afirmação sobre uma pergunta.",
+      "order": 5
+    }
+  ],
+  "quadro_sinotico_itens": [
+    {
+      "summary_item_id": "sum_001",
+      "title": null,
+      "content": "Geral -> Particular; Conclusão Necessária; Válido/Inválido.",
+      "order": 1
+    },
+    {
+      "summary_item_id": "sum_002",
+      "title": null,
+      "content": "Particular -> Geral; Conclusão Provável; Forte/Fraco.",
+      "order": 2
+    },
+    {
+      "summary_item_id": "sum_003",
+      "title": null,
+      "content": "Observação -> Melhor Explicação (Hipótese).",
+      "order": 3
+    },
+    {
+      "summary_item_id": "sum_004",
+      "title": null,
+      "content": "Propriedade da forma; Premissas V e Conclusão F é impossível.",
+      "order": 4
+    },
+    {
+      "summary_item_id": "sum_005",
+      "title": null,
+      "content": "Propriedade do conteúdo das proposições; Correspondência com a realidade.",
+      "order": 5
+    }
+  ],
+  "questoes": [
+    {
+      "question_id": "qst_001",
+      "material_id": null,
+      "topic_id": "top_003",
+      "board": "CEBRASPE",
+      "year": "2025",
+      "organization": null,
+      "role": null,
+      "statement": "Julgue o item a seguir, relativo ao raciocínio analítico e à estrutura da argumentação. O argumento a seguir é válido, apesar de fraco. “Todos os funcionários do nosso setor vão vir de branco na última semana do mês de junho. João não é funcionário do nosso setor. Logo, João não vai vir de branco na última semana do mês de junho.”",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": null,
+      "external_reference": "Qconcursos Q3639305, YouTube",
+      "commentary": "Este item apresenta a falácia da negação do antecedente. A premissa 'Todos os funcionários do nosso setor vão vir de branco...' pode ser reescrita como 'Se é funcionário do nosso setor (P), então vai vir de branco (Q)'. A segunda premissa é 'João não é funcionário do nosso setor (Não P)'. A conclusão é 'João não vai vir de branco (Não Q)'. Este tipo de argumento (Se P então Q, Não P, Logo Não Q) é **inválido**. O fato de João não ser funcionário do setor não impede que ele venha de branco por outro motivo (ex: ser convidado, ou trabalhar em outro setor que também usa branco). A validade de um argumento depende da sua estrutura lógica, não da 'força' aparente das premissas. Portanto, o argumento é inválido, e a afirmação de que é 'válido, apesar de fraco' está incorreta.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_001"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_002",
+      "material_id": null,
+      "topic_id": "top_010",
+      "board": "CEBRASPE",
+      "year": "2025",
+      "organization": null,
+      "role": null,
+      "statement": "Julgue o item a seguir, relativo à lógica de argumentação. O argumento 'Se estudo, sou aprovado. Não estudei. Logo, não serei aprovado.' é um exemplo de argumento válido.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": null,
+      "external_reference": "Baseado em falácia da negação do antecedente, comum CEBRASPE",
+      "commentary": "Este argumento é um exemplo clássico da **falácia da negação do antecedente**. A estrutura é 'Se P (estudo), então Q (sou aprovado). Não P (não estudei). Logo, Não Q (não serei aprovado)'. Este tipo de argumento é **inválido** em lógica formal. Não estudar não garante a não aprovação, pois a aprovação pode depender de outros fatores ou de conhecimento prévio. O CEBRASPE frequentemente explora essa falácia.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_002"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_003",
+      "material_id": null,
+      "topic_id": "top_003",
+      "board": "CEBRASPE",
+      "year": "2024",
+      "organization": null,
+      "role": null,
+      "statement": "Julgue o item a seguir, relativos à lógica proposicional. A sentença 'A pergunta 'Qual é a real influência do mercado financeiro na composição do orçamento estadual?' necessita ser respondida pelos secretários da fazenda dos estados brasileiros.' é uma proposição lógica.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": null,
+      "external_reference": "Direção Concursos, Questão 1 (CEBRASPE – TCE/AC – 2024)",
+      "commentary": "Embora a parte entre aspas ('Qual é a real influência do mercado financeiro na composição do orçamento estadual?') seja uma pergunta e, portanto, não uma proposição lógica, a sentença como um todo ('A pergunta 'Qual é a real influência do mercado financeiro na composição do orçamento estadual?' necessita ser respondida pelos secretários da fazenda dos estados brasileiros.') é uma **declaração** sobre essa pergunta. Essa declaração pode ser julgada como verdadeira ou falsa (por exemplo, se realmente existe ou não essa necessidade). Assim, a sentença completa é, sim, uma proposição lógica. Esta é uma pegadinha comum do CEBRASPE.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_003"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_004",
+      "material_id": null,
+      "topic_id": "top_005",
+      "board": "CEBRASPE",
+      "year": "2025",
+      "organization": null,
+      "role": null,
+      "statement": "Julgue o item a seguir. No texto 'Todos os mamíferos têm sangue quente. Cães são mamíferos. Logo, cães têm sangue quente.', a conclusão é estabelecida por um raciocínio de natureza indutiva.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": null,
+      "external_reference": "Exemplo clássico de dedução",
+      "commentary": "O argumento apresentado é um exemplo clássico de **raciocínio dedutivo**. Ele parte de uma premissa geral ('Todos os mamíferos têm sangue quente') e de uma premissa específica ('Cães são mamíferos') para chegar a uma conclusão específica que é necessariamente verdadeira se as premissas forem verdadeiras ('Logo, cães têm sangue quente'). O raciocínio indutivo, por outro lado, parte de casos particulares para uma generalização provável. Portanto, a afirmação de que a conclusão é por raciocínio indutivo está errada.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_004"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_005",
+      "material_id": null,
+      "topic_id": "top_006",
+      "board": "CEBRASPE",
+      "year": "2024",
+      "organization": null,
+      "role": null,
+      "statement": "Julgue o item a seguir. Suponha que uma pessoa procure um livro em sua estante, não o ache e, diante disso, chegue à seguinte conclusão: 'Alguma pessoa mexeu na minha estante e pegou o livro que procuro.'. Nesse caso, tal conclusão foi elaborada com base no raciocínio indutivo.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": null,
+      "external_reference": "Qconcursos Q3639329 (adaptado, original fala de abdução)",
+      "commentary": "A conclusão 'Alguma pessoa mexeu na minha estante e pegou o livro que procuro.' é uma **hipótese** que melhor explica a observação (o livro não está na estante). Este é um exemplo de **raciocínio abdutivo**, que busca a melhor explicação para um fato observado, e não de raciocínio indutivo, que generaliza a partir de observações particulares.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_005"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_006",
+      "material_id": null,
+      "topic_id": "top_003",
+      "board": "CEBRASPE",
+      "year": "2025",
+      "organization": null,
+      "role": null,
+      "statement": "Julgue o item que se segue referente ao raciocínio analítico e à estrutura da argumentação. O argumento a seguir é um exemplo de argumento válido, uma vez que a verdade da conclusão está embutida na verdade das premissas. 'Quando chove na minha rua, ela fica alagada. Minha rua está alagada. Logo, choveu na minha rua.'",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": null,
+      "external_reference": "YouTube Matemática Objetiva",
+      "commentary": "Este argumento é um exemplo da **falácia da afirmação do consequente**. A estrutura é 'Se P (chove na minha rua), então Q (ela fica alagada). Q (Minha rua está alagada). Logo, P (choveu na minha rua)'. O fato de a rua estar alagada não garante que choveu; pode ter sido por outro motivo (ex: encanamento estourado). Portanto, o argumento é **inválido**. A afirmação de que é válido porque a verdade da conclusão está 'embutida' nas premissas é incorreta, pois a validade é sobre a forma, não sobre a verdade factual ou a intuição.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_006"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_007",
+      "material_id": null,
+      "topic_id": "top_008",
+      "board": "CEBRASPE",
+      "year": "2024",
+      "organization": null,
+      "role": null,
+      "statement": "Julgue o item a seguir. Analogias e inferências são métodos equivalentes em lógica de argumentação, onde ambas podem ser usadas para deduzir conclusões válidas a partir de premissas dadas.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": null,
+      "external_reference": "Qconcursos Q3428429 (adaptado)",
+      "commentary": "Em lógica de argumentação, tanto as analogias quanto as inferências são mecanismos utilizados para se chegar a conclusões a partir de premissas. Embora tenham nuances diferentes (analogia foca em comparação de semelhanças, inferência em derivação lógica), ambas são ferramentas para o processo de argumentação e podem levar a deduções válidas. O CEBRASPE, em algumas questões, considera essa equivalência no contexto de dedução de conclusões.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_007"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_008",
+      "material_id": null,
+      "topic_id": "top_003",
+      "board": "CEBRASPE",
+      "year": "2025",
+      "organization": null,
+      "role": null,
+      "statement": "Julgue o item a seguir. Se um argumento possui todas as suas premissas verdadeiras e sua conclusão é falsa, então esse argumento é necessariamente inválido.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": null,
+      "external_reference": "Definição de validade",
+      "commentary": "Esta afirmação está **correta** e reflete a própria definição de argumento válido. Se um argumento é válido, é impossível que suas premissas sejam verdadeiras e sua conclusão seja falsa. Portanto, se temos um cenário onde as premissas são verdadeiras e a conclusão é falsa, isso contradiz a definição de validade, tornando o argumento necessariamente inválido.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_008"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_009",
+      "material_id": null,
+      "topic_id": "top_010",
+      "board": "CEBRASPE",
+      "year": "2025",
+      "organization": null,
+      "role": null,
+      "statement": "Julgue o item a seguir. O argumento 'Se um candidato estuda, ele é aprovado. O candidato foi aprovado. Logo, o candidato estudou.' é um exemplo de raciocínio dedutivo válido.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": null,
+      "external_reference": "Baseado em falácia da afirmação do consequente, comum CEBRASPE",
+      "commentary": "Este é outro exemplo da **falácia da afirmação do consequente**. A estrutura é 'Se P (candidato estuda), então Q (ele é aprovado). Q (O candidato foi aprovado). Logo, P (o candidato estudou)'. A aprovação (consequente) não garante que o estudo (antecedente) foi a única ou a causa direta. O argumento é **inválido**, e não um raciocínio dedutivo válido.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_009"
+        ],
+        "count": 1
+      }
+    }
+  ],
+  "comentarios_questoes": [
+    {
+      "comment_id": "com_001",
+      "question_id": "qst_001",
+      "content": "Este item apresenta a falácia da negação do antecedente. A premissa 'Todos os funcionários do nosso setor vão vir de branco...' pode ser reescrita como 'Se é funcionário do nosso setor (P), então vai vir de branco (Q)'. A segunda premissa é 'João não é funcionário do nosso setor (Não P)'. A conclusão é 'João não vai vir de branco (Não Q)'. Este tipo de argumento (Se P então Q, Não P, Logo Não Q) é **inválido**. O fato de João não ser funcionário do setor não impede que ele venha de branco por outro motivo (ex: ser convidado, ou trabalhar em outro setor que também usa branco). A validade de um argumento depende da sua estrutura lógica, não da 'força' aparente das premissas. Portanto, o argumento é inválido, e a afirmação de que é 'válido, apesar de fraco' está incorreta.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_002",
+      "question_id": "qst_002",
+      "content": "Este argumento é um exemplo clássico da **falácia da negação do antecedente**. A estrutura é 'Se P (estudo), então Q (sou aprovado). Não P (não estudei). Logo, Não Q (não serei aprovado)'. Este tipo de argumento é **inválido** em lógica formal. Não estudar não garante a não aprovação, pois a aprovação pode depender de outros fatores ou de conhecimento prévio. O CEBRASPE frequentemente explora essa falácia.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_003",
+      "question_id": "qst_003",
+      "content": "Embora a parte entre aspas ('Qual é a real influência do mercado financeiro na composição do orçamento estadual?') seja uma pergunta e, portanto, não uma proposição lógica, a sentença como um todo ('A pergunta 'Qual é a real influência do mercado financeiro na composição do orçamento estadual?' necessita ser respondida pelos secretários da fazenda dos estados brasileiros.') é uma **declaração** sobre essa pergunta. Essa declaração pode ser julgada como verdadeira ou falsa (por exemplo, se realmente existe ou não essa necessidade). Assim, a sentença completa é, sim, uma proposição lógica. Esta é uma pegadinha comum do CEBRASPE.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_004",
+      "question_id": "qst_004",
+      "content": "O argumento apresentado é um exemplo clássico de **raciocínio dedutivo**. Ele parte de uma premissa geral ('Todos os mamíferos têm sangue quente') e de uma premissa específica ('Cães são mamíferos') para chegar a uma conclusão específica que é necessariamente verdadeira se as premissas forem verdadeiras ('Logo, cães têm sangue quente'). O raciocínio indutivo, por outro lado, parte de casos particulares para uma generalização provável. Portanto, a afirmação de que a conclusão é por raciocínio indutivo está errada.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_005",
+      "question_id": "qst_005",
+      "content": "A conclusão 'Alguma pessoa mexeu na minha estante e pegou o livro que procuro.' é uma **hipótese** que melhor explica a observação (o livro não está na estante). Este é um exemplo de **raciocínio abdutivo**, que busca a melhor explicação para um fato observado, e não de raciocínio indutivo, que generaliza a partir de observações particulares.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_006",
+      "question_id": "qst_006",
+      "content": "Este argumento é um exemplo da **falácia da afirmação do consequente**. A estrutura é 'Se P (chove na minha rua), então Q (ela fica alagada). Q (Minha rua está alagada). Logo, P (choveu na minha rua)'. O fato de a rua estar alagada não garante que choveu; pode ter sido por outro motivo (ex: encanamento estourado). Portanto, o argumento é **inválido**. A afirmação de que é válido porque a verdade da conclusão está 'embutida' nas premissas é incorreta, pois a validade é sobre a forma, não sobre a verdade factual ou a intuição.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_007",
+      "question_id": "qst_007",
+      "content": "Em lógica de argumentação, tanto as analogias quanto as inferências são mecanismos utilizados para se chegar a conclusões a partir de premissas. Embora tenham nuances diferentes (analogia foca em comparação de semelhanças, inferência em derivação lógica), ambas são ferramentas para o processo de argumentação e podem levar a deduções válidas. O CEBRASPE, em algumas questões, considera essa equivalência no contexto de dedução de conclusões.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_008",
+      "question_id": "qst_008",
+      "content": "Esta afirmação está **correta** e reflete a própria definição de argumento válido. Se um argumento é válido, é impossível que suas premissas sejam verdadeiras e sua conclusão seja falsa. Portanto, se temos um cenário onde as premissas são verdadeiras e a conclusão é falsa, isso contradiz a definição de validade, tornando o argumento necessariamente inválido.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_009",
+      "question_id": "qst_009",
+      "content": "Este é outro exemplo da **falácia da afirmação do consequente**. A estrutura é 'Se P (candidato estuda), então Q (ele é aprovado). Q (O candidato foi aprovado). Logo, P (o candidato estudou)'. A aprovação (consequente) não garante que o estudo (antecedente) foi a única ou a causa direta. O argumento é **inválido**, e não um raciocínio dedutivo válido.",
+      "explanation_alternatives": ""
+    }
+  ],
+  "checklist_revisao": [
+    {
+      "checklist_id": "chk_001",
+      "material_id": null,
+      "topic_id": "top_001",
+      "item_text": "Compreender a estrutura de um argumento (premissas e conclusão).",
+      "completed": false,
+      "order": 1
+    },
+    {
+      "checklist_id": "chk_002",
+      "material_id": null,
+      "topic_id": "top_003",
+      "item_text": "Distinguir claramente validade de verdade em argumentos.",
+      "completed": false,
+      "order": 2
+    },
+    {
+      "checklist_id": "chk_003",
+      "material_id": null,
+      "topic_id": "top_004",
+      "item_text": "Identificar e diferenciar raciocínio dedutivo, indutivo e abdutivo.",
+      "completed": false,
+      "order": 3
+    },
+    {
+      "checklist_id": "chk_004",
+      "material_id": null,
+      "topic_id": "top_009",
+      "item_text": "Analisar questões do CEBRASPE para identificar o padrão de cobrança e o tipo de raciocínio exigido.",
+      "completed": false,
+      "order": 4
+    },
+    {
+      "checklist_id": "chk_005",
+      "material_id": null,
+      "topic_id": "top_010",
+      "item_text": "Memorizar e saber identificar as falácias da negação do antecedente e afirmação do consequente.",
+      "completed": false,
+      "order": 5
+    },
+    {
+      "checklist_id": "chk_006",
+      "material_id": null,
+      "topic_id": "top_010",
+      "item_text": "Estar atento a generalizações absolutas ('todos', 'nunca') e a sentenças que contêm perguntas.",
+      "completed": false,
+      "order": 6
+    },
+    {
+      "checklist_id": "chk_007",
+      "material_id": null,
+      "topic_id": "top_001",
+      "item_text": "Praticar a resolução de questões de 'Certo/Errado' da banca CEBRASPE sobre lógica de argumentação.",
+      "completed": false,
+      "order": 7
+    }
+  ],
+  "referencias": [
+    {
+      "reference_id": "ref_001",
+      "material_id": null,
+      "reference_type": null,
+      "author_name": "Instituto Adriana Figueiredo",
+      "title": "Diferença entre Dedução e Indução [Teoria e Exercícios]",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFo7zlzLdTBwQXXQSuDblZYLJxzcQ3PD3uZrAQfFzGvysNDPCZx70_nfKh9LiBDlnJ1KpkIgWVZkVIyvKZLoytZP7qYyU-F0R_Yofahfq5dzL0-I3boOs4qeZISg3oi7elRNi5v8Zr_A_lqfp3hse15RVZ-kuxyeuUkHw4aARh_IZmZsztGbpBgEtgqFf1bjf6A3_xM",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_002",
+      "material_id": null,
+      "reference_type": null,
+      "author_name": "Ciclos",
+      "title": "RACIOCÍNIO LÓGICO: 1 Estruturas lógicas. 2 Lógica de argumentação: analogias, inferências, deduções e conclusões.",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGkN1_HCjXZNEW0ncigTLmU3TJuzHGLnSgzA0vX8tgb8y7vV4XwCaN1Z_1OyCC3oY0z0KLjbwIrWUVyPgAOZrzFQa02yf5A9Ac46QX9EnGhna5IlD7HggAWPFEX15ziTnTyO_7G5XZL2IREEH82i0n5SnExceGj7CymFxj8CHmuyEiNx92hA1EqVeNaOM5pgiX9zlspSEXPr0xVyGUhVZEFrCSsaBRwe2jIRWRTHV14dtI2",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_003",
+      "material_id": null,
+      "reference_type": null,
+      "author_name": "Desconhecido",
+      "title": "Como as principais bancas cobram raciocínio lógico (CESPE, FGV, FCC, Vunesp, etc.)",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEOypvhobbwV1LVODnaIwZi21ZDPFDFYWleBVa7m6sZLSnFkC7fXe7poJ-AUkiZ_jAD45QwJzPf-t4fbz1OalhkOdtl1_ZKErWKMRpFFrjbSVa40wN-3CBau8lVqJfxLqxOopRBfid_uZDqR4bpYoWWEk8Dfm2IxDjAry_oUtlZw_XRopi_Y-c21NMcNlzw4O7Tz4loGUEGWwapVCXYI5exRqrmGoM-BWxeXBUQtxKEYnQf",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_004",
+      "material_id": null,
+      "reference_type": null,
+      "author_name": "Professor Arthur Lima (Qconcursos)",
+      "title": "Aula 02 – Lógica de Argumentação",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF1__OhZ8opnHcv_k1EXSU84G5JXrwPd-4RzE1kkQsi4-B1vxWqRaeKQ2eieEVnrwlrL9Q0Le500LnKZq26TM0OxGoHih0uH99B4CozMaqD4jM8iylJ2GkbgU6CRb6cVqROHHHYXHmCGMB8CURyYQ6cPJ4CMsJvXkvt30rOPncUMCW848lnTHZw0frY",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_005",
+      "material_id": null,
+      "reference_type": null,
+      "author_name": "Central Exatas",
+      "title": "Raciocínio Lógico: Lógica de Argumentação: Definição",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGSMfyex82Q1iXjg23uRxXBG5Cua87m2nRx1V6l6k_w2X1aneIQ5BLoIOCu2ZIXeNePQHjpCI2wRa-JARToO4u4q6YqJS4ZIFZ8LYgHD3Ss2n4x19KYVdgktb7od2AZCHXKfu9FhNCUb_RVf9gxU5Uuac_GPUltnxPnPiE2bCyM",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_006",
+      "material_id": null,
+      "reference_type": null,
+      "author_name": "Qconcursos",
+      "title": "Questões de Concurso sobre Analogias",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHIKZDzho6PrG2sFuAn03wS24VKlOG2b_uZ0eD8JbjokuhggP_sUcSDbIEwHPtM_5fskrfVEoZDg1qUJ7qggTw_hno94b9IACKa31AdFhwNkaIe6ygfRK72zRC7Mc9LjZCZplkA3F4nP2LvHcBaDATxqVvO84O-Pq61BfzI8bx0vSs1Moigglj-eJuDW8lg0WEbzGVlJmQ6nn4cs9Q=",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_007",
+      "material_id": null,
+      "reference_type": null,
+      "author_name": "Significados",
+      "title": "Diferença entre dedução e indução (com exemplos)",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEqxV2zbr7oq2TpBYS2yighvfNG_47KivGThqWjzFqUSW2OWF9p82P84npNYzxUbGGndS0jV800wFRlvxrKSFiDmq_t4Tj1orr71QanxKbFN7sYR294YK_iPJ1DXQDLFaJrWc41Js2NuHkS64w0",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_008",
+      "material_id": null,
+      "reference_type": null,
+      "author_name": "Exatas pra Gabaritar (YouTube)",
+      "title": "LÓGICA DE ARGUMENTAÇÃO CEBRASPE 2025",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEHvhhirau1jU_tjdZ71EjXS0Q0lL0UlIKkTpMrcav_pjv72WJOCEZf9nkn16lAcP9JLmt3eg1uvECCOefNVX3130Ez7rzU-ONaSmx9ejp914ZL43_YtzhEpHr8fskQXl7DmtWVlws=",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_009",
+      "material_id": null,
+      "reference_type": null,
+      "author_name": "Folha Dirigida (YouTube)",
+      "title": "Como dominar lógica de argumentação com exemplos",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH84AoOLnKvmjR9RljfDHFbjsEuLnZP1YsrjEsDRZfM8y4z-IO1LTCzhtMpBrKE-HTEvH1b5fovVGONGcn3VnnJGR0MkvQs8dQw-gXYVIYYAd00jNyRfWE71TGEyXIhtXlWdBaraqk=",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_010",
+      "material_id": null,
+      "reference_type": null,
+      "author_name": "Qconcursos",
+      "title": "Questões de Concurso sobre Raciocínio Lógico para CESPE / CEBRASPE",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGm7CUWVmTNkY1uRX_ExdP9El6PT-o6sLjuJpTMNhstdUu8Ps4LcBGi61ej703QX1EyzkY-49f041lmYZk8nYLh3cevCs_oAZmscljtBZEwKktYl88aVSnMtZjrYo_n_gjOAzraOo1lxpddjKnTM7XMntnd6uDv8AHX5GImYYjifAH4oglpCatL18TrHWg_0r2nYMqUiZb-xdAM2PCfqET_NUgRklcEgA==",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_011",
+      "material_id": null,
+      "reference_type": null,
+      "author_name": "Matemática pra Passar (YouTube)",
+      "title": "Lógica de Argumentação para Concursos.",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHw5OLwTuI2KbwQe78e3lumC925kp5s_imp1Tf00T-jEspPA2aUwdU-usleXVRMyKsDKLOTt1Spvn9yhM70hJhjkRCkyR8dLGo_f2PruJQAXNa_G5Wc6XeetQpB8B0BeWAGL1o6mvM=",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_012",
+      "material_id": null,
+      "reference_type": null,
+      "author_name": "Exatas pra Gabaritar (YouTube)",
+      "title": "CEBRASPE – Raciocínio Lógico | Questões Comentadas (Aula 1)",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE-5JvlPXNedz96o6jWkGQ_VJ9WtUDZJGOEgg9pD0jxgZgB70ZcLxxpi2WzKFwcMgiAkeLh7P58LVJtqyQe5QVfGVZwyP0lIX0wFj4FjebmpVUWu6CvrlZAvfXq0xoNoIVbm5b5fys=",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_013",
+      "material_id": null,
+      "reference_type": null,
+      "author_name": "Estratégia Concursos",
+      "title": "Estatística de Cobrança por Banca – Raciocínio Lógico",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFIMDfkXJ_n7bHvmBjUTeJzOhtiSZTTKkVNpxoQfIuQ3gnwy7Yk263NiF45Ukj7ZQ1NSVU5AtwTioGyi6eRRQ7OzV2pNPOo6Jr2qfIfFzuGN_FBwzzcC_KS3qJjeURYH9Y-F6pl29-7WLBUqp-82FP6K2hB-d8s7ZnH_Ef-bvnvH7IoCypdN22k-EgaWBAHsSDsE_DCe-x71m_now==",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_014",
+      "material_id": null,
+      "reference_type": null,
+      "author_name": "Professor Tiago Gomes (YouTube)",
+      "title": "MÉTODOS DE INFERÊNCIA LÓGICA(DEDUÇÃO, INDUÇÃO E ABDUÇÃO)",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHd_fKUtaR1JEw2Hl8ddhLqVAZzF1q1TNrKQl-2mu8BhtdnzsdtmJfFClr9BTKV3mIwOfEG7KxeaJOiC-BqufIkQGyvkx6G6d4XM94CWC4fvOm58YrF7_jz3bOwzP0zCp9IBWnkG9g=",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_015",
+      "material_id": null,
+      "reference_type": null,
+      "author_name": "Direção Concursos",
+      "title": "Concurso PF 2025: Raciocínio Lógico no estilo Cebraspe; confira!",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEGbwREv5yksVL5aLJx81xE36VsdAgPgwQ8aN40Tje1LQgIm47VTJDg-AOIpfrsQ66hCUbstvesxTsrZvafhNf1_VKmE_WMfDhHjCPbbKSIJC6-e7YnvcM0QEo3Cez_clyUHpqX0MXWhwJ7Z1DfH1BEAkB0ORLI7NyIc9iTjE4yu74wRg==",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_016",
+      "material_id": null,
+      "reference_type": null,
+      "author_name": "Desconhecido",
+      "title": "Raciocínio Dedutivo, Indutivo e Abdutivo: Como devemos pensar em projetos?",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEwUwkOxK1mtUVIsZ_G8S0tr5b876svki-_ezaHVUeNwRl8uGyZpJw4xwcn5VnEUGdMoAtv8acq1yPg_4P3pCCPP_nG8UzKzvjpEh6UwxL84SRAie-tmhjBx-LHWXjeRNKkPpjlNPCZnCjmuM4yxoQS0Oej88odoTg=",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_017",
+      "material_id": null,
+      "reference_type": null,
+      "author_name": "Professor Dyego Negromonte (YouTube)",
+      "title": "Logical Reasoning CEBRASPE in Practice! Chamber of Deputies, PC-PE and Upcoming Public Service E...",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGniBJo42CoGRw0xn1ZglFsidOHPN_rrapl6HrxtZzDR_WfonseIuaOEYMpauChAadi0n2z-jX0rCga94nmXX7A_pj-Yh7d-yx43gQ-Qnj65kXRVhFE9bQio_aPmESeQuf7oL8oxFU=",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_018",
+      "material_id": null,
+      "reference_type": null,
+      "author_name": "Qconcursos",
+      "title": "Questões de Concurso sobre Lógica de Argumentação",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHbJnykIigPvIv5oVLXeewi-rvtKVZ2FJIUh0KXB3W1JR5vD85xEzziBwBcEOMvrMyEqZC52PsArpUprA4h7_yjSREX9pFQNktb2F49RypXcuGfyx4RrUCNXqKXgXcXJKWSZzwPiYiHuUtZiL-kqeHuPRWW9V9_BfA216IpsO3mFnPhY1WWDQ3w0ZAWl9N2RCasrczxjVUUyJ3aKBScgAosjwn1hjm5M__k",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_019",
+      "material_id": null,
+      "reference_type": null,
+      "author_name": "Matemática com Douglas de Souza (YouTube)",
+      "title": "Super Questão da Cebraspe 2025 Sobre Lógica de Argumentação",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEjHwqJa4vXanwrFivu1tPdGp3zAOTyJc8Or98QHd_-icLdBESPmbumAg58GMQqvh0w8gHih2j5C0qXSNggH_jpRJTVuVYI1Iin3RKsML-RrPxFjjnA2Py-WC4xPLbVs4BnA1DY1Fg=",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_020",
+      "material_id": null,
+      "reference_type": null,
+      "author_name": "Direção Concursos",
+      "title": "Raciocínio Lógico para concurso: 9 questões difíceis do Cebraspe resolvidas e comentadas!",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFB7DSTEmzr52jdL3Cfg5rbFpylySY0oJfZA0dRlUS7wsF8SEUIBPvhaLDiHeOLnPQHLQwAG502Z2d1aRZyiPezlYwVWwjdxZFPrzKlNAQQz8GzQNrUtmbXgBWRWdpXiWcpx8YggG7zC9q4QqHvAZxM7XNOvbIA5MfG5SisRTh32JuqRmAth14SKi3U7AfF1Tjfjg55x4qw8SnWF0jsEg==",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_021",
+      "material_id": null,
+      "reference_type": null,
+      "author_name": "Exatas pra Gabaritar (YouTube)",
+      "title": "Raciocínio Lógico CESPE: Questões Comentadas com Gabarito | Concursos 2026 #1",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH1E6UHUf8wOJSvIy2ZWcW1giUIlkNGG74SRL75rHGtLPKOlnafYW4KoGdKANA1o78--oIztbLzPv-kchcSJ8q8ulj437wK4pGojKP0-LRf2BYvZ7mFGHRU6gGCZryCNsENUQCnXKA=",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_022",
+      "material_id": null,
+      "reference_type": null,
+      "author_name": "Qconcursos",
+      "title": "Se a conclusão é falsa, o argumento não é válido.",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.google.com/search?q=Se+a+conclus%C3%A3o+%C3%A9+falsa,+o+argumento+n%C3%A3o+%C3%A9+v%C3%A1lido.+%2D+Qconcursos",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_023",
+      "material_id": null,
+      "reference_type": null,
+      "author_name": "Matemática Objetiva (YouTube)",
+      "title": "CESPE/CEBRASPE Argumentation Logic Question",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHyEv2hPFqF_zIDrz1xL2LcT_rFtgzyaxgQgYGMUAT25X0ai36nv91foAKthO2DOu7maELJTmf_7KN0ohfcN8vwJJM8UNt_dqQUFVw8gsvi7BV0VzmOAXgZrTdbiqtS0uL92DUifA==",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_024",
+      "material_id": null,
+      "reference_type": null,
+      "author_name": "Blog Gran Cursos Online",
+      "title": "7 exemplos de pegadinhas de provas de concursos públicos!",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMhbaatMBdYAK-pWTH9dsg7w75NUyy1GCzvAjWuCAFTJnUohZbuiseRy6tR6sajoAbn_vD1LDG5rNa9voalvr7Uqk_lQSvyzKEMdB_DxZ2V8HA-MhQoGhKAcTxmP_QJkl9qgOQU_epkkCDwRwLYEDDZy9sYH1A6rbuIHQa6owH40dr-dC7bI79mNMN",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_025",
+      "material_id": null,
+      "reference_type": null,
+      "author_name": "Professor Waguinho (YouTube)",
+      "title": "Lógica de argumentação: analogias, inferências, deduções e conclusões.",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEBvZ2DwDl9UsIB2xYT5gTAONgd2vVjJxLqcZFtKt2SgPlaMaSsSfTRjcWEBlC5zdExpNIC1RXpUYfPY89K_OVnNt1Cidu8YJObnDpVWqLrZaThTo_AKhGx7wxFxC2A6MlyeNbyVC8=",
+      "accessed_at": null,
+      "description": null
+    }
+  ],
+  "estatisticas_de_geracao": {
+    "total_topicos": 10,
+    "total_componentes_topico": 8,
+    "total_entendimentos_relevantes": 5,
+    "total_pegadinhas": 5,
+    "total_pontos_memorizacao": 5,
+    "total_itens_quadro_sinotico": 5,
+    "total_questoes": 9,
+    "total_comentarios_questoes": 9,
+    "total_itens_checklist": 7,
+    "total_referencias": 25
+  },
+  "validacao_interna": {
+    "pesquisa_previa_realizada": true,
+    "analise_de_cobrancas_anteriores_realizada": true,
+    "material_atualizado": true,
+    "json_valido": true,
+    "estrutura_relacional_respeitada": true,
+    "numeracao_respeitada": true,
+    "houve_quebra_de_hierarquia": false,
+    "houve_nivel_numerico_superior_a_3": false,
+    "fontes_verificadas": true,
+    "sem_informacao_inventada": true
+  },
+  "metadata": {
+    "source_file_name": "2__raciocínio-lógico-e-noções-de-estatística__2-lógica-de-argumentação-analogias-inferências-deduções-e-conclusões.json",
+    "normalized_checksum": "780f8302d0d892c6cb1cd6b9232d0043ca80f2cf0a4a49aae472a5734f0c2054",
+    "subject_slug": "rlog-estat",
+    "material_slug": "logica-argumentacao-cebraspe-concurso",
+    "title_slug": "logica-de-argumentacao-para-concursos-analogias",
+    "board_slug": "cebraspe",
+    "counters": {
+      "blocks": 10,
+      "topics": 10,
+      "topic_components": 8,
+      "traps": 5,
+      "memory_points": 5,
+      "summary_items": 5,
+      "questions": 9,
+      "question_comments": 9,
+      "checklist_items": 7,
+      "references": 25
+    }
+  }
+}

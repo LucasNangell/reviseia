@@ -1,0 +1,892 @@
+{
+  "schema_version": "1.0",
+  "normalized_at": "2026-04-07T15:39:13.982410-03:00",
+  "normalizer_version": "2.0.0",
+  "exported_at": "2026-04-07T16:33:00Z",
+  "source_request": {
+    "purpose": "Concurso público",
+    "general_area": "Direito",
+    "subject_name": "Direito Constitucional e Legislação Interna da Câmara dos Deputados",
+    "subarea_name": "Direito Constitucional",
+    "main_theme": "3 Organização do Estado: organização político-administrativa, União, estados, municípios, Distrito Federal e territórios. Intervenção Federal",
+    "theme_scope": "Teoria completa, incidência em prova, padrão de cobrança da banca, pegadinhas e questões comentadas",
+    "board_style": "CEBRASPE",
+    "depth_level": "Exaustivo",
+    "goal": "Teoria completa, revisão estratégica, pegadinhas e questões comentadas",
+    "base_topic_number": "3",
+    "topic_title": "3 Organização do Estado: organização político-administrativa, União, estados, municípios, Distrito Federal e territórios. Intervenção Federal",
+    "syllabus_reference": "Conteúdo programático da disciplina Direito Constitucional e Legislação Interna da Câmara dos Deputados",
+    "priority_sources": [
+      "Constituição Federal e legislação oficial vigente",
+      "Jurisprudência pertinente e atual, quando cabível",
+      "Doutrina consolidada",
+      "Questões anteriores da banca"
+    ],
+    "minimum_questions": 8,
+    "question_format": "Certo/Errado",
+    "prioritize_real_questions": true,
+    "response_language": "português",
+    "target_audience": "Candidato de concurso público",
+    "additional_notes": "Executar exatamente para esta linha individual do topicos.txt. Não juntar com outros tópicos. Não pular este tópico. Dar destaque ao padrão de cobrança da banca, aos pontos mais cobrados e às pegadinhas recorrentes.",
+    "input_hash": "fc12bd4a2635",
+    "extras": {}
+  },
+  "material": {
+    "material_id": "mat_001",
+    "slug": "organizacao-estado-intervencao-federal-cebraspe",
+    "title": "Organização do Estado e Intervenção Federal para Concursos (CEBRASPE)",
+    "base_number": "3",
+    "topic_title": "3 Organização do Estado: organização político-administrativa, União, estados, municípios, Distrito Federal e territórios. Intervenção Federal",
+    "purpose": "Concurso público",
+    "area_name": "Direito",
+    "subject_name": "Direito Constitucional e Legislação Interna da Câmara dos Deputados",
+    "subarea_name": "Direito Constitucional",
+    "main_theme": "Organização do Estado: organização político-administrativa, União, estados, municípios, Distrito Federal e territórios. Intervenção Federal",
+    "theme_scope": "Teoria completa, incidência em prova, padrão de cobrança da banca, pegadinhas e questões comentadas",
+    "board_style": "CEBRASPE",
+    "depth_level": "Exaustivo",
+    "study_goal": "Teoria completa, revisão estratégica, pegadinhas e questões comentadas",
+    "target_audience": "Candidato de concurso público",
+    "language_code": "português",
+    "update_status": "Atualizado em 07/04/2026",
+    "current_note": "Conteúdo revisado com base na Constituição Federal, legislação vigente e jurisprudência consolidada do STF até a data de atualização. Análise do padrão de cobrança da banca CEBRASPE com base em questões recentes.",
+    "has_case_law": true,
+    "case_law_justification": "A intervenção federal é tema de intensa discussão e aplicação jurisprudencial, especialmente no Supremo Tribunal Federal (STF), sendo crucial para a compreensão do tema e sua cobrança em provas. A jurisprudência também é relevante para a delimitação de competências e a autonomia dos entes federativos.",
+    "has_information_limitation": false,
+    "information_limitation_desc": null,
+    "content_checksum": "placeholder_checksum_mat_001",
+    "extras": {}
+  },
+  "blocos_textuais": [
+    {
+      "external_block_code": "blc_001",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 1,
+      "title": "Introdução à Organização do Estado",
+      "content": "A Organização do Estado é um dos pilares do Direito Constitucional, definindo a estrutura e o funcionamento da República Federativa do Brasil. Compreende a forma de Estado, a repartição de competências entre os entes federativos (União, Estados, Distrito Federal e Municípios) e os mecanismos de controle, como a Intervenção Federal. Este tema é frequentemente cobrado em concursos públicos, especialmente pela banca CEBRASPE, que exige do candidato não apenas o conhecimento da literalidade da Constituição Federal, mas também a compreensão de sua aplicação e das nuances jurisprudenciais.",
+      "content_type": "teoria"
+    }
+  ],
+  "topicos": [
+    {
+      "external_topic_code": "top_001",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "3.1",
+      "title": "Organização Político-Administrativa da República Federativa do Brasil",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 1
+    },
+    {
+      "external_topic_code": "top_002",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "3.1.1",
+      "title": "Forma de Estado, Forma de Governo e Sistema de Governo",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 2
+    },
+    {
+      "external_topic_code": "top_003",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "3.1.2",
+      "title": "Os Entes Federativos e sua Autonomia",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 3
+    },
+    {
+      "external_topic_code": "top_004",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "3.2",
+      "title": "Repartição de Competências Constitucionais",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 4
+    },
+    {
+      "external_topic_code": "top_005",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "3.2.1",
+      "title": "Competências da União",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 5
+    },
+    {
+      "external_topic_code": "top_006",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "3.2.2",
+      "title": "Competências dos Estados",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 6
+    },
+    {
+      "external_topic_code": "top_007",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "3.2.3",
+      "title": "Competências dos Municípios",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 7
+    },
+    {
+      "external_topic_code": "top_008",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "3.2.4",
+      "title": "Competências do Distrito Federal e dos Territórios Federais",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 8
+    },
+    {
+      "external_topic_code": "top_009",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "3.3",
+      "title": "Intervenção Federal",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 9
+    },
+    {
+      "external_topic_code": "top_010",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "3.3.1",
+      "title": "Conceito, Natureza Jurídica e Princípios",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 10
+    },
+    {
+      "external_topic_code": "top_011",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "3.3.2",
+      "title": "Hipóteses de Intervenção Federal (Art. 34 da CF/88)",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 11
+    },
+    {
+      "external_topic_code": "top_012",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "3.3.3",
+      "title": "Princípios Constitucionais Sensíveis (Art. 34, VII, da CF/88)",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 12
+    },
+    {
+      "external_topic_code": "top_013",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "3.3.4",
+      "title": "Intervenção dos Estados nos Municípios (Art. 35 da CF/88)",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 13
+    },
+    {
+      "external_topic_code": "top_014",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "3.3.5",
+      "title": "Procedimento da Intervenção Federal",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 14
+    },
+    {
+      "external_topic_code": "top_015",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "3.4",
+      "title": "Padrão de Cobrança CEBRASPE: Organização do Estado e Intervenção Federal",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 15
+    }
+  ],
+  "topico_componentes": [
+    {
+      "component_id": "cmp_001",
+      "topic_id": "top_002",
+      "component_type": "texto",
+      "content": "A República Federativa do Brasil adota a forma de Estado Federal, a forma de Governo Republicana e o sistema de Governo Presidencialista. No federalismo, há uma descentralização político-administrativa, com entes autônomos (União, Estados, Distrito Federal e Municípios) que possuem capacidade de auto-organização, autogoverno, autolegislação e autoadministração. A forma republicana se caracteriza pela eletividade e temporariedade dos mandatos, além da responsabilidade dos governantes. O presidencialismo, por sua vez, concentra as funções de Chefe de Estado e Chefe de Governo na figura do Presidente da República.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_002",
+      "topic_id": "top_003",
+      "component_type": "texto",
+      "content": "A organização político-administrativa da República Federativa do Brasil compreende a União, os Estados, o Distrito Federal e os Municípios, todos autônomos, nos termos da Constituição Federal (Art. 18, caput). Essa autonomia se manifesta na capacidade de cada ente de se auto-organizar (Estados por Constituições Estaduais, Municípios por Leis Orgânicas), autogovernar (eleger seus próprios representantes), autolegislar (criar suas próprias leis dentro de suas competências) e autoadministrar (gerir seus próprios interesses).",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_003",
+      "topic_id": "top_003",
+      "component_type": "texto",
+      "content": "Os Territórios Federais, diferentemente dos demais entes, não possuem autonomia política, integrando a União. Sua criação, transformação em Estado ou reintegração ao Estado de origem serão reguladas em lei complementar. Brasília é a Capital Federal.",
+      "order": 2
+    },
+    {
+      "component_id": "cmp_004",
+      "topic_id": "top_005",
+      "component_type": "texto",
+      "content": "A Constituição Federal estabelece um sistema de repartição de competências entre os entes federativos. A União possui competências exclusivas (Art. 21 da CF/88), que são indelegáveis, e competências privativas (Art. 22 da CF/88), que podem ser delegadas aos Estados e ao Distrito Federal por lei complementar. Além disso, há competências comuns (Art. 23 da CF/88), exercidas simultaneamente por todos os entes, e competências concorrentes (Art. 24 da CF/88), nas quais a União estabelece normas gerais e os Estados e o Distrito Federal legislam suplementarmente.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_005",
+      "topic_id": "top_006",
+      "component_type": "texto",
+      "content": "Os Estados organizam-se e regem-se pelas Constituições e leis que adotarem, observados os princípios da Constituição Federal (Art. 25, caput). Possuem as chamadas competências remanescentes ou residuais, ou seja, aquelas que não lhes sejam vedadas pela Constituição Federal e que não sejam de competência exclusiva ou privativa da União, ou dos Municípios. Também exercem competência legislativa concorrente com a União, suplementando as normas gerais federais ou exercendo competência plena na ausência delas.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_006",
+      "topic_id": "top_007",
+      "component_type": "texto",
+      "content": "Aos Municípios compete legislar sobre assuntos de interesse local e suplementar a legislação federal e a estadual no que couber (Art. 30 da CF/88). Embora possuam autonomia política, não detêm Poder Judiciário próprio, sendo este organizado e mantido pelos Estados. A criação, incorporação, fusão e desmembramento de Municípios dependem de lei estadual, consulta prévia por plebiscito e observância de requisitos previstos em lei complementar federal.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_007",
+      "topic_id": "top_008",
+      "component_type": "texto",
+      "content": "O Distrito Federal possui natureza híbrida, acumulando competências legislativas reservadas aos Estados e aos Municípios (Art. 32 da CF/88). Sua organização judiciária, Ministério Público, polícias civil e militar e corpo de bombeiros militar são organizados e mantidos pela União. Os Territórios Federais, como já mencionado, integram a União e não possuem autonomia política.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_008",
+      "topic_id": "top_010",
+      "component_type": "texto",
+      "content": "A Intervenção Federal é um mecanismo excepcional e temporário de controle do pacto federativo, pelo qual a União suprime, parcial ou totalmente, a autonomia de um Estado ou do Distrito Federal. Sua natureza é político-administrativa, e não jurisdicional. Os princípios que a regem são a excepcionalidade, a subsidiariedade e a temporariedade, devendo ser utilizada como 'ultima ratio' para a manutenção da integridade nacional e da ordem constitucional.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_009",
+      "topic_id": "top_011",
+      "component_type": "texto",
+      "content": "O Art. 34 da CF/88 elenca taxativamente as hipóteses em que a União não intervirá nos Estados nem no Distrito Federal, exceto para:\nI - manter a integridade nacional;\nII - repelir invasão estrangeira ou de uma unidade da Federação em outra;\nIII - pôr termo a grave comprometimento da ordem pública;\nIV - garantir o livre exercício de qualquer dos Poderes nas unidades da Federação;\nV - reorganizar as finanças da unidade da Federação que:\n  a) suspender o pagamento da dívida fundada por mais de dois anos consecutivos, salvo motivo de força maior;\n  b) deixar de entregar aos Municípios receitas tributárias fixadas nesta Constituição, dentro dos prazos estabelecidos em lei;\nVI - prover a execução de lei federal, ordem ou decisão judicial;\nVII - assegurar a observância dos princípios constitucionais sensíveis.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_010",
+      "topic_id": "top_012",
+      "component_type": "texto",
+      "content": "Os princípios constitucionais sensíveis, cuja observância é assegurada pela intervenção federal (Art. 34, VII, da CF/88), são:\na) forma republicana, sistema representativo e regime democrático;\nb) direitos da pessoa humana;\nc) autonomia municipal;\nd) prestação de contas da administração pública, direta e indireta;\ne) aplicação do mínimo exigido da receita resultante de impostos estaduais, compreendida a proveniente de transferências, na manutenção e desenvolvimento do ensino e nas ações e serviços públicos de saúde.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_011",
+      "topic_id": "top_013",
+      "component_type": "texto",
+      "content": "Os Estados podem intervir em seus Municípios apenas nas hipóteses taxativamente previstas no Art. 35 da CF/88:\nI - deixar de ser paga, por dois anos consecutivos, a dívida fundada;\nII - não forem prestadas contas devidas, na forma da lei;\nIII - não for aplicado o mínimo exigido da receita municipal na manutenção e desenvolvimento do ensino e nas ações e serviços públicos de saúde;\nIV - o Tribunal de Justiça der provimento a representação para assegurar a observância de princípios indicados na Constituição Estadual, ou para prover a execução de lei, de ordem ou de decisão judicial.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_012",
+      "topic_id": "top_014",
+      "component_type": "texto",
+      "content": "A decretação da intervenção federal é de competência privativa do Presidente da República, por meio de decreto. O decreto interventivo deve especificar a amplitude, o prazo e as condições de execução da intervenção, e, se necessário, nomear um interventor. Nas hipóteses dos incisos IV e V do Art. 34, a intervenção dependerá de solicitação do Poder coagido ou do Tribunal de Contas, respectivamente. Na hipótese do inciso VI (execução de ordem ou decisão judicial), dependerá de requisição do Supremo Tribunal Federal (STF), do Superior Tribunal de Justiça (STJ) ou do Tribunal Superior Eleitoral (TSE), conforme a matéria. Nas demais hipóteses do Art. 34 (I, II, III e VII), a intervenção pode ser decretada de ofício pelo Presidente da República, após consulta aos Conselhos da República e de Defesa Nacional. O decreto de intervenção será submetido à apreciação do Congresso Nacional no prazo de 24 horas, que o aprovará, rejeitará ou sustará.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_013",
+      "topic_id": "top_015",
+      "component_type": "texto",
+      "content": "A banca CEBRASPE (CESPE) tem um padrão de cobrança rigoroso para o tema 'Organização do Estado e Intervenção Federal', exigindo conhecimento aprofundado da Constituição Federal, súmulas e jurisprudência do STF. As questões são predominantemente no formato 'Certo/Errado' e frequentemente abordam:\n- **Literalidade dos artigos:** É crucial conhecer a redação exata dos Arts. 18 a 36 da CF/88.\n- **Distinção de competências:** Confusão entre competências exclusivas, privativas, comuns e concorrentes da União, Estados e Municípios é uma pegadinha comum.\n- **Hipóteses de Intervenção:** As condições para a decretação da intervenção federal (Art. 34) e estadual (Art. 35) são muito exploradas, com foco nas exceções e nos princípios sensíveis.\n- **Procedimento da Intervenção:** Detalhes sobre quem decreta, quem requisita/solicita, e o papel do Congresso Nacional ou dos Tribunais Superiores são pontos de alta incidência.\n- **Autonomia dos entes:** A CEBRASPE testa a compreensão da autonomia dos Estados, DF e Municípios, e como a intervenção a afeta.\n- **Jurisprudência:** Entendimentos do STF sobre a natureza da intervenção (político-administrativa) e o cabimento de recursos são relevantes.\nAs pegadinhas frequentemente envolvem a troca de termos, a inversão de competências, a omissão de requisitos ou a atribuição de poderes a entes que não os possuem.",
+      "order": 1
+    }
+  ],
+  "pegadinhas": [
+    {
+      "trap_id": "peg_001",
+      "material_id": "mat_001",
+      "topic_id": "top_003",
+      "title": "Territórios Federais como Entes Federativos Autônomos",
+      "description": "A CEBRASPE frequentemente tenta induzir ao erro afirmando que os Territórios Federais são entes federativos autônomos, equiparando-os a Estados e Municípios. No entanto, os Territórios Federais integram a União e não possuem autonomia política.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 1
+    },
+    {
+      "trap_id": "peg_002",
+      "material_id": "mat_001",
+      "topic_id": "top_007",
+      "title": "Municípios com Poder Judiciário Próprio",
+      "description": "É comum a banca afirmar que os Municípios possuem Poder Judiciário próprio. Contudo, os Municípios não detêm Poder Judiciário, sendo este organizado e mantido pelos Estados.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 2
+    },
+    {
+      "trap_id": "peg_003",
+      "material_id": "mat_001",
+      "topic_id": "top_011",
+      "title": "Rol Taxativo das Hipóteses de Intervenção",
+      "description": "A CEBRASPE pode apresentar hipóteses de intervenção federal que não estão expressamente previstas no Art. 34 da CF/88, ou alterar as condições de sua decretação. É fundamental memorizar o rol taxativo.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 3
+    },
+    {
+      "trap_id": "peg_004",
+      "material_id": "mat_001",
+      "topic_id": "top_014",
+      "title": "Controle Político da Intervenção por Descumprimento Judicial",
+      "description": "Em caso de intervenção para prover a execução de ordem ou decisão judicial (Art. 34, VI), a banca pode sugerir que o controle político do Congresso Nacional é exercido da mesma forma que nas demais hipóteses. No entanto, neste caso, não se exerce controle político sobre o ato interventivo, conforme o § 3º do Art. 36 da CF/88.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 4
+    },
+    {
+      "trap_id": "peg_005",
+      "material_id": "mat_001",
+      "topic_id": "top_005",
+      "title": "Confusão entre Competências Exclusivas e Privativas da União",
+      "description": "A banca frequentemente troca as matérias de competência exclusiva (indelegável) e privativa (delegável por lei complementar) da União, exigindo a memorização dos incisos dos Arts. 21 e 22 da CF/88.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 5
+    }
+  ],
+  "pontos_memorizacao": [
+    {
+      "memory_id": "mem_001",
+      "material_id": "mat_001",
+      "topic_id": "top_002",
+      "title": null,
+      "content": "Brasil: Federação, República, Presidencialismo.",
+      "order": 1
+    },
+    {
+      "memory_id": "mem_002",
+      "material_id": "mat_001",
+      "topic_id": "top_003",
+      "title": null,
+      "content": "Entes Federativos Autônomos: União, Estados, Distrito Federal e Municípios (Art. 18, CF). Territórios Federais integram a União.",
+      "order": 2
+    },
+    {
+      "memory_id": "mem_003",
+      "material_id": "mat_001",
+      "topic_id": "top_005",
+      "title": null,
+      "content": "Competências da União: Art. 21 (Exclusivas - indelegáveis), Art. 22 (Privativas - delegáveis por LC), Art. 23 (Comuns), Art. 24 (Concorrentes - normas gerais).",
+      "order": 3
+    },
+    {
+      "memory_id": "mem_004",
+      "material_id": "mat_001",
+      "topic_id": "top_006",
+      "title": null,
+      "content": "Estados: Competências remanescentes (Art. 25, §1º, CF) e concorrentes (Art. 24, CF).",
+      "order": 4
+    },
+    {
+      "memory_id": "mem_005",
+      "material_id": "mat_001",
+      "topic_id": "top_007",
+      "title": null,
+      "content": "Municípios: Interesse local e suplementar legislação (Art. 30, CF). Não possuem Poder Judiciário.",
+      "order": 5
+    },
+    {
+      "memory_id": "mem_006",
+      "material_id": "mat_001",
+      "topic_id": "top_011",
+      "title": null,
+      "content": "Hipóteses de Intervenção Federal (Art. 34, CF): Rol taxativo de 7 incisos.",
+      "order": 6
+    },
+    {
+      "memory_id": "mem_007",
+      "material_id": "mat_001",
+      "topic_id": "top_012",
+      "title": null,
+      "content": "Princípios Constitucionais Sensíveis (Art. 34, VII, CF): 5 alíneas (forma republicana, direitos da pessoa humana, autonomia municipal, prestação de contas, aplicação mínima em saúde/educação).",
+      "order": 7
+    },
+    {
+      "memory_id": "mem_008",
+      "material_id": "mat_001",
+      "topic_id": "top_013",
+      "title": null,
+      "content": "Hipóteses de Intervenção Estadual em Municípios (Art. 35, CF): Rol taxativo de 4 incisos.",
+      "order": 8
+    },
+    {
+      "memory_id": "mem_009",
+      "material_id": "mat_001",
+      "topic_id": "top_014",
+      "title": null,
+      "content": "Decreto de Intervenção: Presidente da República. Apreciação do Congresso Nacional (24h).",
+      "order": 9
+    },
+    {
+      "memory_id": "mem_010",
+      "material_id": "mat_001",
+      "topic_id": "top_014",
+      "title": null,
+      "content": "Requisição judicial para intervenção (Art. 34, VI): STF, STJ ou TSE, conforme a matéria.",
+      "order": 10
+    }
+  ],
+  "quadro_sinotico_itens": [
+    {
+      "summary_item_id": "sum_001",
+      "title": "Quadro Comparativo de Competências Legislativas",
+      "content": "{'cabecalho': ['Tipo de Competência', 'União', 'Estados e DF', 'Municípios', 'Observações'], 'linhas': [['Exclusiva (Art. 21)', 'Sim (indelegável)', 'Não', 'Não', 'Matérias de interesse nacional, indelegáveis.'], ['Privativa (Art. 22)', 'Sim (delegável por LC)', 'Sim (se delegada por LC)', 'Não', 'Matérias de interesse nacional, delegáveis por lei complementar.'], ['Comum (Art. 23)', 'Sim (administrativa)', 'Sim (administrativa)', 'Sim (administrativa)', 'Exercida simultaneamente por todos os entes.'], ['Concorrente (Art. 24)', 'Normas gerais', 'Normas suplementares ou plenas (na ausência de normas gerais)', 'Não (apenas suplementar legislação federal/estadual no que couber - Art. 30, II)', 'União estabelece normas gerais; Estados e DF suplementam. Municípios suplementam legislação federal e estadual.']]}",
+      "order": 1
+    }
+  ],
+  "questoes": [
+    {
+      "question_id": "qst_001",
+      "material_id": "mat_001",
+      "topic_id": "top_003",
+      "board": "CEBRASPE",
+      "year": 2025,
+      "organization": "Câmara dos Deputados",
+      "role": "Analista Legislativo",
+      "statement": "A organização político-administrativa da República Federativa do Brasil compreende a União, os Estados, o Distrito Federal e os Territórios Federais, todos autônomos, nos termos da Constituição Federal.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "O item está ERRADO. Conforme o Art. 18 da Constituição Federal, a organização político-administrativa da República Federativa do Brasil compreende a União, os Estados, o Distrito Federal e os Municípios, todos autônomos. Os Territórios Federais, por sua vez, integram a União e não possuem autonomia política. Esta é uma pegadinha comum da CEBRASPE, que busca confundir a natureza jurídica dos Territórios com a dos entes federativos autônomos.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_001"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_002",
+      "material_id": "mat_001",
+      "topic_id": "top_005",
+      "board": "CEBRASPE",
+      "year": 2024,
+      "organization": "PGE",
+      "role": "Procurador",
+      "statement": "Compete privativamente à União legislar sobre direito do trabalho, mas essa competência pode ser delegada aos Estados por meio de lei complementar.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "O item está CERTO. O Art. 22, I, da Constituição Federal estabelece que compete privativamente à União legislar sobre direito do trabalho. O parágrafo único do mesmo artigo prevê que lei complementar poderá autorizar os Estados a legislar sobre questões específicas das matérias relacionadas no artigo. Portanto, a competência privativa da União é delegável.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_002"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_003",
+      "material_id": "mat_001",
+      "topic_id": "top_007",
+      "board": "CEBRASPE",
+      "year": 2023,
+      "organization": "TJ",
+      "role": "Juiz de Direito Substituto",
+      "statement": "Os Municípios, por possuírem autonomia política, podem criar seus próprios tribunais de justiça para julgar causas de interesse local.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "O item está ERRADO. Embora os Municípios possuam autonomia política (Art. 18 e 29 da CF/88), eles não detêm Poder Judiciário próprio. O Poder Judiciário é organizado e mantido pelos Estados, no âmbito estadual, e pela União, no âmbito federal. A vedação à criação de tribunais, conselhos ou órgãos de contas municipais é expressa no Art. 31, §4º, da CF/88.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_003"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_004",
+      "material_id": "mat_001",
+      "topic_id": "top_011",
+      "board": "CEBRASPE",
+      "year": 2025,
+      "organization": "PF",
+      "role": "Delegado de Polícia Federal",
+      "statement": "A União poderá intervir em um Estado para pôr termo a grave comprometimento da ordem pública, sendo essa uma das hipóteses de intervenção federal de ofício pelo Presidente da República.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "O item está CERTO. O Art. 34, III, da Constituição Federal prevê a intervenção federal para 'pôr termo a grave comprometimento da ordem pública'. Esta é uma das hipóteses em que o Presidente da República pode decretar a intervenção de ofício, ou seja, por iniciativa própria, após consulta aos Conselhos da República e de Defesa Nacional.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_004"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_005",
+      "material_id": "mat_001",
+      "topic_id": "top_012",
+      "board": "CEBRASPE",
+      "year": 2024,
+      "organization": "TCU",
+      "role": "Auditor Federal de Controle Externo",
+      "statement": "A autonomia municipal é considerada um princípio constitucional sensível, cuja inobservância por um Estado pode ensejar a intervenção federal.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "O item está CERTO. O Art. 34, VII, 'c', da Constituição Federal elenca a autonomia municipal como um dos princípios constitucionais sensíveis. A inobservância desses princípios por um Estado pode levar à intervenção federal, visando a restauração da ordem constitucional.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_005"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_006",
+      "material_id": "mat_001",
+      "topic_id": "top_013",
+      "board": "CEBRASPE",
+      "year": 2023,
+      "organization": "Prefeitura de Camaçari",
+      "role": "Procurador do Município",
+      "statement": "Um Estado poderá intervir em seus Municípios caso estes deixem de aplicar o mínimo exigido da receita municipal na manutenção e desenvolvimento do ensino, conforme previsto na Constituição Federal.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "O item está CERTO. O Art. 35, III, da Constituição Federal estabelece que o Estado não intervirá em seus Municípios, nem a União nos Municípios localizados em Território Federal, exceto quando 'não for aplicado o mínimo exigido da receita municipal na manutenção e desenvolvimento do ensino e nas ações e serviços públicos de saúde'. Esta é uma das hipóteses de intervenção estadual em Municípios.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_006"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_007",
+      "material_id": "mat_001",
+      "topic_id": "top_014",
+      "board": "CEBRASPE",
+      "year": 2025,
+      "organization": "TJ",
+      "role": "Analista Judiciário",
+      "statement": "O decreto de intervenção federal para prover a execução de ordem judicial será submetido à apreciação do Congresso Nacional, que poderá rejeitá-lo ou sustá-lo, exercendo o controle político sobre o ato interventivo.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "O item está ERRADO. Embora o decreto de intervenção federal seja, em regra, submetido à apreciação do Congresso Nacional (Art. 36, caput, da CF/88), o § 3º do mesmo artigo estabelece que, nos casos de intervenção para prover a execução de ordem ou decisão judicial (Art. 34, VI), não se exerce controle político sobre o ato interventivo. A requisição é feita pelo Poder Judiciário (STF, STJ ou TSE). Esta é uma exceção importante e uma pegadinha recorrente da CEBRASPE.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_007"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_008",
+      "material_id": "mat_001",
+      "topic_id": "top_008",
+      "board": "CEBRASPE",
+      "year": 2024,
+      "organization": "TRE",
+      "role": "Técnico Judiciário",
+      "statement": "O Distrito Federal, em razão de sua natureza híbrida, possui Poder Judiciário próprio, organizado e mantido por ele mesmo, à semelhança dos Estados.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "O item está ERRADO. O Distrito Federal, apesar de sua natureza híbrida e autonomia política, tem seu Poder Judiciário (bem como Ministério Público, Polícia Civil, Polícia Militar e Corpo de Bombeiros Militar) organizado e mantido pela União, e não por ele mesmo. Esta é uma particularidade do DF que a CEBRASPE costuma explorar.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_008"
+        ],
+        "count": 1
+      }
+    }
+  ],
+  "comentarios_questoes": [
+    {
+      "comment_id": "com_001",
+      "question_id": "qst_001",
+      "content": "O item está ERRADO. Conforme o Art. 18 da Constituição Federal, a organização político-administrativa da República Federativa do Brasil compreende a União, os Estados, o Distrito Federal e os Municípios, todos autônomos. Os Territórios Federais, por sua vez, integram a União e não possuem autonomia política. Esta é uma pegadinha comum da CEBRASPE, que busca confundir a natureza jurídica dos Territórios com a dos entes federativos autônomos.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_002",
+      "question_id": "qst_002",
+      "content": "O item está CERTO. O Art. 22, I, da Constituição Federal estabelece que compete privativamente à União legislar sobre direito do trabalho. O parágrafo único do mesmo artigo prevê que lei complementar poderá autorizar os Estados a legislar sobre questões específicas das matérias relacionadas no artigo. Portanto, a competência privativa da União é delegável.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_003",
+      "question_id": "qst_003",
+      "content": "O item está ERRADO. Embora os Municípios possuam autonomia política (Art. 18 e 29 da CF/88), eles não detêm Poder Judiciário próprio. O Poder Judiciário é organizado e mantido pelos Estados, no âmbito estadual, e pela União, no âmbito federal. A vedação à criação de tribunais, conselhos ou órgãos de contas municipais é expressa no Art. 31, §4º, da CF/88.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_004",
+      "question_id": "qst_004",
+      "content": "O item está CERTO. O Art. 34, III, da Constituição Federal prevê a intervenção federal para 'pôr termo a grave comprometimento da ordem pública'. Esta é uma das hipóteses em que o Presidente da República pode decretar a intervenção de ofício, ou seja, por iniciativa própria, após consulta aos Conselhos da República e de Defesa Nacional.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_005",
+      "question_id": "qst_005",
+      "content": "O item está CERTO. O Art. 34, VII, 'c', da Constituição Federal elenca a autonomia municipal como um dos princípios constitucionais sensíveis. A inobservância desses princípios por um Estado pode levar à intervenção federal, visando a restauração da ordem constitucional.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_006",
+      "question_id": "qst_006",
+      "content": "O item está CERTO. O Art. 35, III, da Constituição Federal estabelece que o Estado não intervirá em seus Municípios, nem a União nos Municípios localizados em Território Federal, exceto quando 'não for aplicado o mínimo exigido da receita municipal na manutenção e desenvolvimento do ensino e nas ações e serviços públicos de saúde'. Esta é uma das hipóteses de intervenção estadual em Municípios.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_007",
+      "question_id": "qst_007",
+      "content": "O item está ERRADO. Embora o decreto de intervenção federal seja, em regra, submetido à apreciação do Congresso Nacional (Art. 36, caput, da CF/88), o § 3º do mesmo artigo estabelece que, nos casos de intervenção para prover a execução de ordem ou decisão judicial (Art. 34, VI), não se exerce controle político sobre o ato interventivo. A requisição é feita pelo Poder Judiciário (STF, STJ ou TSE). Esta é uma exceção importante e uma pegadinha recorrente da CEBRASPE.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_008",
+      "question_id": "qst_008",
+      "content": "O item está ERRADO. O Distrito Federal, apesar de sua natureza híbrida e autonomia política, tem seu Poder Judiciário (bem como Ministério Público, Polícia Civil, Polícia Militar e Corpo de Bombeiros Militar) organizado e mantido pela União, e não por ele mesmo. Esta é uma particularidade do DF que a CEBRASPE costuma explorar.",
+      "explanation_alternatives": ""
+    }
+  ],
+  "checklist_revisao": [
+    {
+      "checklist_id": "chk_001",
+      "material_id": "mat_001",
+      "topic_id": "top_001",
+      "item_text": "Revisar os conceitos de Forma de Estado (Federal), Forma de Governo (Republicana) e Sistema de Governo (Presidencialista).",
+      "completed": false,
+      "order": 1
+    },
+    {
+      "checklist_id": "chk_002",
+      "material_id": "mat_001",
+      "topic_id": "top_003",
+      "item_text": "Memorizar os entes federativos autônomos (União, Estados, DF, Municípios) e a situação dos Territórios Federais.",
+      "completed": false,
+      "order": 2
+    },
+    {
+      "checklist_id": "chk_003",
+      "material_id": "mat_001",
+      "topic_id": "top_004",
+      "item_text": "Distinguir as competências exclusivas (Art. 21), privativas (Art. 22), comuns (Art. 23) e concorrentes (Art. 24) da União, Estados e Municípios.",
+      "completed": false,
+      "order": 3
+    },
+    {
+      "checklist_id": "chk_004",
+      "material_id": "mat_001",
+      "topic_id": "top_009",
+      "item_text": "Conhecer o conceito, natureza e princípios da Intervenção Federal (excepcionalidade, subsidiariedade, temporariedade).",
+      "completed": false,
+      "order": 4
+    },
+    {
+      "checklist_id": "chk_005",
+      "material_id": "mat_001",
+      "topic_id": "top_011",
+      "item_text": "Memorizar as 7 hipóteses de Intervenção Federal (Art. 34 da CF/88).",
+      "completed": false,
+      "order": 5
+    },
+    {
+      "checklist_id": "chk_006",
+      "material_id": "mat_001",
+      "topic_id": "top_012",
+      "item_text": "Identificar os 5 princípios constitucionais sensíveis (Art. 34, VII, da CF/88).",
+      "completed": false,
+      "order": 6
+    },
+    {
+      "checklist_id": "chk_007",
+      "material_id": "mat_001",
+      "topic_id": "top_013",
+      "item_text": "Memorizar as 4 hipóteses de Intervenção dos Estados nos Municípios (Art. 35 da CF/88).",
+      "completed": false,
+      "order": 7
+    },
+    {
+      "checklist_id": "chk_008",
+      "material_id": "mat_001",
+      "topic_id": "top_014",
+      "item_text": "Compreender o procedimento da intervenção: quem decreta, quem requisita/solicita e o papel do Congresso Nacional/Poder Judiciário.",
+      "completed": false,
+      "order": 8
+    },
+    {
+      "checklist_id": "chk_009",
+      "material_id": "mat_001",
+      "topic_id": "top_015",
+      "item_text": "Revisar as pegadinhas e os pontos mais cobrados pela CEBRASPE neste tema.",
+      "completed": false,
+      "order": 9
+    }
+  ],
+  "referencias": [
+    {
+      "reference_id": "ref_001",
+      "material_id": "mat_001",
+      "reference_type": "legislacao",
+      "author_name": null,
+      "title": "Constituição da República Federativa do Brasil de 1988",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "http://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_002",
+      "material_id": "mat_001",
+      "reference_type": "jurisprudencia",
+      "author_name": null,
+      "title": "Súmula 637 do Supremo Tribunal Federal",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://portal.stf.jus.br/jurisprudencia/sumulas.asp?s1=637&base=baseSumulas",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_003",
+      "material_id": "mat_001",
+      "reference_type": "jurisprudencia",
+      "author_name": null,
+      "title": "Súmula 518 do Supremo Tribunal Federal",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://portal.stf.jus.br/jurisprudencia/sumulas.asp?s1=518&base=baseSumulas",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_004",
+      "material_id": "mat_001",
+      "reference_type": "doutrina",
+      "author_name": "Alexandre de Moraes",
+      "title": "Curso de Direito Constitucional",
+      "publisher": "Atlas",
+      "year_reference": 2025,
+      "isbn": null,
+      "url": null,
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_005",
+      "material_id": "mat_001",
+      "reference_type": "banca",
+      "author_name": null,
+      "title": "Questões Anteriores CEBRASPE (diversos cargos)",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.qconcursos.com/questoes-de-concursos/bancas/cespe-cebraspe",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_006",
+      "material_id": "mat_001",
+      "reference_type": "jurisprudencia",
+      "author_name": "STF, Rel. Min. Marco Aurélio Mello",
+      "title": "Intervenção Federal (IF) 2.792 AgR/DF",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": null,
+      "accessed_at": null,
+      "description": null
+    }
+  ],
+  "estatisticas_de_geracao": {
+    "total_topicos": 15,
+    "total_componentes_topico": 13,
+    "total_entendimentos_relevantes": 3,
+    "total_pegadinhas": 5,
+    "total_pontos_memorizacao": 10,
+    "total_itens_quadro_sinotico": 1,
+    "total_questoes": 8,
+    "total_comentarios_questoes": 8,
+    "total_itens_checklist": 9,
+    "total_referencias": 6
+  },
+  "validacao_interna": {
+    "pesquisa_previa_realizada": true,
+    "analise_de_cobrancas_anteriores_realizada": true,
+    "material_atualizado": true,
+    "json_valido": true,
+    "estrutura_relacional_respeitada": true,
+    "numeracao_respeitada": true,
+    "houve_quebra_de_hierarquia": false,
+    "houve_nivel_numerico_superior_a_3": false,
+    "fontes_verificadas": true,
+    "sem_informacao_inventada": true
+  },
+  "metadata": {
+    "source_file_name": "3__direito-constitucional-e-legislação-interna-da-câmara-dos-deputados__3-organização-do-estado-organização-político-administrativa-união-estados-municípios-distrito-federal-e-territórios.-int.json",
+    "normalized_checksum": "e09f4e3b1b4ea6be39222f2ba1853f72d8491ebecc6858f1fbe22014cb13b531",
+    "subject_slug": "dir-const-legcam",
+    "material_slug": "organizacao-estado-intervencao-federal",
+    "title_slug": "organizacao-do-estado-e-intervencao-federal-para",
+    "board_slug": "cebraspe",
+    "counters": {
+      "blocks": 1,
+      "topics": 15,
+      "topic_components": 13,
+      "traps": 5,
+      "memory_points": 10,
+      "summary_items": 1,
+      "questions": 8,
+      "question_comments": 8,
+      "checklist_items": 9,
+      "references": 6
+    }
+  }
+}

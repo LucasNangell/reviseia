@@ -1,0 +1,848 @@
+{
+  "schema_version": "1.0",
+  "normalized_at": "2026-04-07T15:39:13.630737-03:00",
+  "normalizer_version": "2.0.0",
+  "exported_at": "2026-04-07T13:30:00-03:00",
+  "source_request": {
+    "purpose": "Concurso público",
+    "general_area": "Direito",
+    "subject_name": "Direito Constitucional e Legislação Interna da Câmara dos Deputados",
+    "subarea_name": "Direito Constitucional",
+    "main_theme": "1 Constituição Federal de 1988: conceito, contexto histórico, características, estrutura do texto",
+    "theme_scope": "Teoria completa, incidência em prova, padrão de cobrança da banca, pegadinhas e questões comentadas",
+    "board_style": "CEBRASPE",
+    "depth_level": "Exaustivo",
+    "goal": "Teoria completa, revisão estratégica, pegadinhas e questões comentadas",
+    "base_topic_number": "1",
+    "topic_title": "1 Constituição Federal de 1988: conceito, contexto histórico, características, estrutura do texto",
+    "syllabus_reference": "Conteúdo programático da disciplina Direito Constitucional e Legislação Interna da Câmara dos Deputados",
+    "priority_sources": [
+      "Constituição Federal e legislação oficial vigente",
+      "Jurisprudência pertinente e atual, quando cabível",
+      "Doutrina consolidada",
+      "Questões anteriores da banca"
+    ],
+    "minimum_questions": 8,
+    "question_format": "Certo/Errado",
+    "prioritize_real_questions": true,
+    "response_language": "português",
+    "target_audience": "Candidato de concurso público",
+    "additional_notes": "Executar exatamente para esta linha individual do topicos.txt. Não juntar com outros tópicos. Não pular este tópico. Dar destaque ao padrão de cobrança da banca, aos pontos mais cobrados e às pegadinhas recorrentes.",
+    "input_hash": "09b4704fe98a",
+    "extras": {}
+  },
+  "material": {
+    "material_id": "mat_001",
+    "slug": "constituicao-federal-1988-conceito-contexto-caracteristicas-estrutura-cebraspe",
+    "title": "Constituição Federal de 1988: Teoria, Padrão CEBRASPE e Questões Comentadas",
+    "base_number": "1",
+    "topic_title": "1 Constituição Federal de 1988: conceito, contexto histórico, características, estrutura do texto",
+    "purpose": "Concurso público",
+    "area_name": "Direito",
+    "subject_name": "Direito Constitucional e Legislação Interna da Câmara dos Deputados",
+    "subarea_name": "Direito Constitucional",
+    "main_theme": "1 Constituição Federal de 1988: conceito, contexto histórico, características, estrutura do texto",
+    "theme_scope": "Teoria completa, incidência em prova, padrão de cobrança da banca, pegadinhas e questões comentadas",
+    "board_style": "CEBRASPE",
+    "depth_level": "Exaustivo",
+    "study_goal": "Teoria completa, revisão estratégica, pegadinhas e questões comentadas",
+    "target_audience": "Candidato de concurso público",
+    "language_code": "português",
+    "update_status": "Atualizado",
+    "current_note": "Material atualizado com base na legislação e jurisprudência mais recentes, e análise do padrão de cobrança do CEBRASPE.",
+    "has_case_law": true,
+    "case_law_justification": "A jurisprudência do STF é fundamental para compreender a força normativa do Preâmbulo da Constituição Federal de 1988, um ponto frequentemente cobrado pelo CEBRASPE.",
+    "has_information_limitation": false,
+    "information_limitation_desc": null,
+    "content_checksum": "placeholder_checksum_mat_001",
+    "extras": {}
+  },
+  "blocos_textuais": [
+    {
+      "external_block_code": "blc_001",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 1,
+      "title": "Introdução à Constituição Federal de 1988",
+      "content": "A Constituição Federal de 1988 (CF/88) é o pilar do ordenamento jurídico brasileiro, sendo a sétima constituição do país e a sexta desde a Proclamação da República. Conhecida como 'Constituição Cidadã', ela representa um marco na redemocratização do Brasil, após um longo período de regime militar. Para o CEBRASPE, a compreensão de seu conceito, contexto histórico, características e estrutura é fundamental, sendo um tema recorrente e base para diversas outras abordagens do Direito Constitucional.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_002",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 2,
+      "title": "Conceito de Constituição",
+      "content": "O conceito de Constituição pode ser abordado sob diferentes perspectivas, mas para fins de concursos, especialmente o CEBRASPE, a visão jurídica e formal é a mais relevante. Juridicamente, a Constituição é a lei fundamental e suprema de um Estado, que organiza seus elementos constitutivos, estabelece a forma de governo, a estrutura de poder, e os direitos e deveres dos cidadãos. Ela se situa no topo da hierarquia das normas, garantindo a supremacia e a validade de todo o ordenamento jurídico.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_003",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 3,
+      "title": "Contexto Histórico da Constituição Federal de 1988",
+      "content": "A CF/88 surgiu em um período crucial da história brasileira: a transição da ditadura militar (1964-1985) para a redemocratização. A Assembleia Nacional Constituinte (ANC) foi convocada em 1987, com a missão de elaborar um novo texto constitucional que refletisse os anseios de uma sociedade que buscava liberdades civis, direitos sociais e a consolidação de um Estado Democrático de Direito. A promulgação ocorreu em 5 de outubro de 1988, marcando o fim de um ciclo autoritário e o início da 'Nova República'.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_004",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 4,
+      "title": "Características da Constituição Federal de 1988",
+      "content": "A CF/88 possui características marcantes que são frequentemente exploradas em provas do CEBRASPE. Ela é classificada como:\n\n*   **Promulgada (ou Democrática):** Resultou do trabalho de uma Assembleia Constituinte eleita pelo povo, refletindo a vontade popular.\n*   **Rígida:** Seu processo de alteração (Emendas Constitucionais) é mais solene e complexo do que o de leis ordinárias, garantindo sua estabilidade e supremacia.\n*   **Escrita/Codificada:** Seu conteúdo está expresso em um único documento formal.\n*   **Analítica/Prolixa:** É extensa e detalhada, abordando uma vasta gama de temas que vão além da organização básica do Estado.\n*   **Formal:** O que a define como Constituição é a forma solene de sua criação e alteração, independentemente do conteúdo.\n*   **Dogmática:** Reflete os dogmas e ideologias predominantes no momento de sua elaboração.\n*   **Social/Dirigente:** Contém diversas normas programáticas que visam à transformação social e à concretização de direitos sociais.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_005",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 5,
+      "title": "Estrutura do Texto da Constituição Federal de 1988",
+      "content": "A CF/88 é estruturada em três partes principais, cada uma com sua relevância e força normativa:\n\n*   **Preâmbulo:** É a parte introdutória que expressa os valores e propósitos do constituinte originário. Segundo o Supremo Tribunal Federal (STF), o Preâmbulo não possui força normativa, ou seja, não pode ser invocado como parâmetro para controle de constitucionalidade, mas serve como importante vetor interpretativo.\n*   **Parte Permanente:** Compreende os artigos 1º a 250, organizados em nove títulos. É o corpo principal da Constituição, contendo as normas que regem a organização do Estado, os direitos e garantias fundamentais, a organização dos poderes, a ordem econômica e social, entre outros.\n*   **Ato das Disposições Constitucionais Transitórias (ADCT):** Contém normas de caráter transitório, destinadas a regular a passagem do regime constitucional anterior para o novo. Diferentemente do Preâmbulo, o ADCT possui plena força normativa e pode ser objeto de controle de constitucionalidade.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_006",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 6,
+      "title": "Padrão de Cobrança CEBRASPE",
+      "content": "O CEBRASPE é conhecido por sua abordagem detalhista, contextualizada e exigente na interpretação doutrinária e jurisprudencial. Para este tópico, a banca costuma cobrar:\n\n*   **Conceitos e Classificações:** Exige a distinção clara entre os diferentes sentidos de Constituição (sociológico, político, jurídico) e as classificações (promulgada/outorgada, rígida/flexível, escrita/não escrita, analítica/sintética, formal/material).\n*   **Contexto Histórico:** Fatos marcantes da redemocratização e da Assembleia Constituinte.\n*   **Força Normativa do Preâmbulo e ADCT:** A diferença de tratamento jurídico entre o Preâmbulo (sem força normativa) e o ADCT (com força normativa) é uma 'pegadinha' clássica.\n*   **Poder Constituinte:** As características do Poder Constituinte Originário (inicial, ilimitado juridicamente, incondicionado, autônomo) e as limitações do Poder Constituinte Derivado (formal, material, circunstancial).\n*   **Literalidade e Interpretação:** Questões que exigem a literalidade do texto constitucional ou a interpretação de conceitos à luz da doutrina e da jurisprudência do STF.",
+      "content_type": "teoria"
+    }
+  ],
+  "topicos": [
+    {
+      "external_topic_code": "top_001",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "1",
+      "title": "Constituição Federal de 1988: conceito, contexto histórico, características, estrutura do texto",
+      "reference_block_external_id": "blc_001",
+      "level": 1,
+      "order": 1
+    },
+    {
+      "external_topic_code": "top_002",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "1.1",
+      "title": "Conceito de Constituição",
+      "reference_block_external_id": "blc_002",
+      "level": 2,
+      "order": 2
+    },
+    {
+      "external_topic_code": "top_003",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "1.2",
+      "title": "Contexto Histórico da Constituição Federal de 1988",
+      "reference_block_external_id": "blc_003",
+      "level": 2,
+      "order": 3
+    },
+    {
+      "external_topic_code": "top_004",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "1.3",
+      "title": "Características da Constituição Federal de 1988",
+      "reference_block_external_id": "blc_004",
+      "level": 2,
+      "order": 4
+    },
+    {
+      "external_topic_code": "top_005",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "1.4",
+      "title": "Estrutura do Texto da Constituição Federal de 1988",
+      "reference_block_external_id": "blc_005",
+      "level": 2,
+      "order": 5
+    },
+    {
+      "external_topic_code": "top_006",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "1.5",
+      "title": "Padrão de Cobrança CEBRASPE",
+      "reference_block_external_id": "blc_006",
+      "level": 2,
+      "order": 6
+    }
+  ],
+  "topico_componentes": [
+    {
+      "component_id": "cmp_001",
+      "topic_id": "top_002",
+      "component_type": "Definição",
+      "content": "A Constituição, em sentido jurídico-positivo, é a norma fundamental e suprema do Estado, que organiza o poder e garante direitos.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_002",
+      "topic_id": "top_002",
+      "component_type": "Doutrina",
+      "content": "Para Hans Kelsen, a Constituição é a norma hipotética fundamental que confere validade a todo o ordenamento jurídico, representando o ápice da pirâmide normativa.",
+      "order": 2
+    },
+    {
+      "component_id": "cmp_003",
+      "topic_id": "top_003",
+      "component_type": "Marco Histórico",
+      "content": "A CF/88 foi promulgada em 5 de outubro de 1988, após os trabalhos da Assembleia Nacional Constituinte, marcando a transição democrática do Brasil.",
+      "order": 3
+    },
+    {
+      "component_id": "cmp_004",
+      "topic_id": "top_004",
+      "component_type": "Característica",
+      "content": "A CF/88 é classificada como 'promulgada' por ter sido elaborada por uma Assembleia Constituinte eleita, e não imposta.",
+      "order": 4
+    },
+    {
+      "component_id": "cmp_005",
+      "topic_id": "top_004",
+      "component_type": "Característica",
+      "content": "A 'rigidez' da CF/88 significa que sua alteração exige um processo legislativo mais complexo e solene do que o das leis ordinárias.",
+      "order": 5
+    },
+    {
+      "component_id": "cmp_006",
+      "topic_id": "top_004",
+      "component_type": "Característica",
+      "content": "A CF/88 é 'analítica' ou 'prolixa' devido à sua extensão e ao detalhamento de diversos temas, não se limitando aos aspectos essenciais da organização estatal.",
+      "order": 6
+    },
+    {
+      "component_id": "cmp_007",
+      "topic_id": "top_005",
+      "component_type": "Componente Estrutural",
+      "content": "O Preâmbulo da CF/88 é uma declaração de princípios e propósitos, sem força normativa, mas com função interpretativa, conforme entendimento do STF.",
+      "order": 7
+    },
+    {
+      "component_id": "cmp_008",
+      "topic_id": "top_005",
+      "component_type": "Componente Estrutural",
+      "content": "A Parte Permanente da CF/88 (Art. 1º a 250) contém as normas de caráter duradouro que organizam o Estado e os direitos fundamentais.",
+      "order": 8
+    },
+    {
+      "component_id": "cmp_009",
+      "topic_id": "top_005",
+      "component_type": "Componente Estrutural",
+      "content": "O Ato das Disposições Constitucionais Transitórias (ADCT) possui força normativa e regula a transição para a nova ordem constitucional.",
+      "order": 9
+    },
+    {
+      "component_id": "cmp_010",
+      "topic_id": "top_006",
+      "component_type": "Foco da Banca",
+      "content": "O CEBRASPE frequentemente cobra a distinção entre Poder Constituinte Originário (PCO) e Poder Constituinte Derivado (PCD), bem como as limitações impostas ao PCD.",
+      "order": 10
+    }
+  ],
+  "pegadinhas": [
+    {
+      "trap_id": "peg_001",
+      "material_id": "mat_001",
+      "topic_id": "top_005",
+      "title": "Força Normativa do Preâmbulo",
+      "description": "O CEBRASPE frequentemente tenta induzir o erro ao afirmar que o Preâmbulo da CF/88 possui força normativa ou que serve como parâmetro para controle de constitucionalidade. Lembre-se: o STF entende que não.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 1
+    },
+    {
+      "trap_id": "peg_002",
+      "material_id": "mat_001",
+      "topic_id": "top_004",
+      "title": "Confusão entre Constituição Promulgada e Outorgada",
+      "description": "É comum a banca trocar a característica de 'promulgada' (democrática, fruto de Assembleia Constituinte) por 'outorgada' (imposta, sem participação popular) ao se referir à CF/88. A CF/88 é promulgada.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 2
+    },
+    {
+      "trap_id": "peg_003",
+      "material_id": "mat_001",
+      "topic_id": "top_002",
+      "title": "Limites do Poder Constituinte Originário",
+      "description": "O CEBRASPE pode afirmar que o Poder Constituinte Originário possui limites jurídicos ou que se submete à Constituição anterior. O PCO é, por natureza, ilimitado juridicamente e incondicionado.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 3
+    },
+    {
+      "trap_id": "peg_004",
+      "material_id": "mat_001",
+      "topic_id": "top_005",
+      "title": "Força Normativa do ADCT",
+      "description": "A banca pode tentar equiparar o ADCT ao Preâmbulo em termos de força normativa. O ADCT, ao contrário do Preâmbulo, possui plena força normativa e é parte integrante da Constituição.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 4
+    }
+  ],
+  "pontos_memorizacao": [
+    {
+      "memory_id": "mem_001",
+      "material_id": "mat_001",
+      "topic_id": "top_003",
+      "title": null,
+      "content": "A CF/88 é a 'Constituição Cidadã', promulgada em 05/10/1988, marcando a redemocratização do Brasil.",
+      "order": 1
+    },
+    {
+      "memory_id": "mem_002",
+      "material_id": "mat_001",
+      "topic_id": "top_004",
+      "title": null,
+      "content": "Características essenciais da CF/88: Promulgada, Rígida, Escrita, Analítica, Formal, Dogmática e Social/Dirigente.",
+      "order": 2
+    },
+    {
+      "memory_id": "mem_003",
+      "material_id": "mat_001",
+      "topic_id": "top_005",
+      "title": null,
+      "content": "Estrutura da CF/88: Preâmbulo (sem força normativa), Parte Permanente (Art. 1º-250) e ADCT (com força normativa).",
+      "order": 3
+    },
+    {
+      "memory_id": "mem_004",
+      "material_id": "mat_001",
+      "topic_id": "top_002",
+      "title": null,
+      "content": "Poder Constituinte Originário é inicial, ilimitado juridicamente e incondicionado. Poder Constituinte Derivado é limitado e condicionado.",
+      "order": 4
+    }
+  ],
+  "quadro_sinotico_itens": [
+    {
+      "summary_item_id": "sum_001",
+      "title": "CF/88: Visão Geral",
+      "content": "",
+      "order": 1
+    }
+  ],
+  "questoes": [
+    {
+      "question_id": "qst_001",
+      "material_id": "mat_001",
+      "topic_id": "top_004",
+      "board": null,
+      "year": null,
+      "organization": null,
+      "role": null,
+      "statement": "A Constituição Federal de 1988, por ter sido elaborada por uma Assembleia Nacional Constituinte eleita, é classificada como outorgada, refletindo a imposição do poder constituinte à sociedade.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": null,
+      "external_reference": "Adaptada de questões CEBRASPE sobre classificação das Constituições.",
+      "commentary": "A Constituição Federal de 1988 é classificada como **promulgada** (ou democrática), e não outorgada. Isso significa que ela foi elaborada e aprovada por uma Assembleia Nacional Constituinte eleita pelo povo, refletindo a vontade popular e o processo de redemocratização do país. Constituições outorgadas são aquelas impostas por um governante, sem a participação popular.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_001"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_002",
+      "material_id": "mat_001",
+      "topic_id": "top_005",
+      "board": null,
+      "year": null,
+      "organization": null,
+      "role": null,
+      "statement": "O Preâmbulo da Constituição Federal de 1988, embora não possua força normativa, serve como um importante vetor interpretativo para as demais normas constitucionais, conforme entendimento do Supremo Tribunal Federal.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": null,
+      "external_reference": "Questão CEBRASPE similar à ADI 2.076.",
+      "commentary": "Correto. O Supremo Tribunal Federal (STF) possui entendimento consolidado de que o Preâmbulo da CF/88 não tem força normativa, ou seja, não cria direitos nem obrigações e não serve como parâmetro para controle de constitucionalidade. No entanto, ele possui uma função interpretativa, auxiliando na compreensão dos valores e princípios que nortearam a elaboração da Constituição.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_002"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_003",
+      "material_id": "mat_001",
+      "topic_id": "top_002",
+      "board": null,
+      "year": null,
+      "organization": null,
+      "role": null,
+      "statement": "O Poder Constituinte Originário, responsável pela criação de uma nova ordem jurídica, é ilimitado juridicamente e incondicionado, não se submetendo a qualquer forma preexistente de manifestação.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": null,
+      "external_reference": "Questão CEBRASPE sobre Poder Constituinte.",
+      "commentary": "Correto. O Poder Constituinte Originário (PCO) é a força que cria uma nova Constituição, inaugurando uma nova ordem jurídica. Suas características são: **inicial** (inaugura uma nova ordem), **ilimitado juridicamente** (não se submete ao direito anterior), **incondicionado** (não segue formas preestabelecidas) e **autônomo** (define a nova estrutura constitucional).",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_003"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_004",
+      "material_id": "mat_001",
+      "topic_id": "top_004",
+      "board": null,
+      "year": null,
+      "organization": null,
+      "role": null,
+      "statement": "A Constituição Federal de 1988 é considerada uma constituição sintética, pois se limita a estabelecer os princípios e as diretrizes fundamentais da organização do Estado, sem detalhar exaustivamente os direitos e deveres.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": null,
+      "external_reference": "Adaptada de questões CEBRASPE sobre características da CF/88.",
+      "commentary": "Errado. A Constituição Federal de 1988 é classificada como **analítica** (ou prolixa), e não sintética. Isso significa que ela é extensa e detalhada, abordando uma vasta gama de temas que vão além da organização básica do Estado, como direitos sociais, ordem econômica, meio ambiente, entre outros. Constituições sintéticas são mais concisas e se limitam aos aspectos essenciais.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_004"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_005",
+      "material_id": "mat_001",
+      "topic_id": "top_005",
+      "board": null,
+      "year": null,
+      "organization": null,
+      "role": null,
+      "statement": "O Ato das Disposições Constitucionais Transitórias (ADCT) possui plena força normativa e pode ser objeto de controle de constitucionalidade, ao contrário do Preâmbulo da Constituição.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": null,
+      "external_reference": "Questão CEBRASPE sobre estrutura da CF/88.",
+      "commentary": "Correto. O Ato das Disposições Constitucionais Transitórias (ADCT) é parte integrante da Constituição e possui plena força normativa. Suas normas são de caráter transitório, destinadas a regular a passagem do regime constitucional anterior para o novo, mas têm a mesma hierarquia das normas da Parte Permanente e podem ser objeto de controle de constitucionalidade.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_005"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_006",
+      "material_id": "mat_001",
+      "topic_id": "top_003",
+      "board": null,
+      "year": null,
+      "organization": null,
+      "role": null,
+      "statement": "O contexto histórico da promulgação da Constituição Federal de 1988 foi marcado pelo fim do regime militar e pelo processo de redemocratização do país.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": null,
+      "external_reference": "Questão CEBRASPE sobre contexto histórico.",
+      "commentary": "Correto. A CF/88 foi promulgada em um período de grande efervescência política no Brasil, marcando o fim de 21 anos de ditadura militar e o início do processo de redemocratização, com a busca pela garantia de direitos e liberdades fundamentais.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_006"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_007",
+      "material_id": "mat_001",
+      "topic_id": "top_004",
+      "board": null,
+      "year": null,
+      "organization": null,
+      "role": null,
+      "statement": "A rigidez da Constituição Federal de 1988 impede qualquer tipo de alteração em seu texto, garantindo sua imutabilidade ao longo do tempo.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": null,
+      "external_reference": "Adaptada de questões CEBRASPE sobre rigidez constitucional.",
+      "commentary": "Errado. A rigidez da Constituição Federal de 1988 significa que seu processo de alteração é mais complexo e solene do que o das leis ordinárias, exigindo quóruns qualificados para a aprovação de Emendas Constitucionais (Art. 60, § 2º, da CF/88). No entanto, essa rigidez não implica imutabilidade, pois a Constituição pode ser alterada por meio do Poder Constituinte Derivado Reformador, respeitando-se as cláusulas pétreas.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_007"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_008",
+      "material_id": "mat_001",
+      "topic_id": "top_002",
+      "board": null,
+      "year": null,
+      "organization": null,
+      "role": null,
+      "statement": "O Poder Constituinte Derivado, por ser um poder constituído, está sujeito a limites materiais, formais e circunstanciais estabelecidos pelo Poder Constituinte Originário.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": null,
+      "external_reference": "Questão CEBRASPE sobre Poder Constituinte.",
+      "commentary": "Correto. O Poder Constituinte Derivado (PCD) é um poder constituído, ou seja, ele deriva e encontra seu fundamento de validade no Poder Constituinte Originário. Por isso, está sujeito a limites estabelecidos pela própria Constituição, que podem ser materiais (cláusulas pétreas), formais (procedimento de emenda) e circunstanciais (proibições de emenda em estado de defesa, sítio ou intervenção federal).",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_008"
+        ],
+        "count": 1
+      }
+    }
+  ],
+  "comentarios_questoes": [
+    {
+      "comment_id": "com_001",
+      "question_id": "qst_001",
+      "content": "A Constituição Federal de 1988 é classificada como **promulgada** (ou democrática), e não outorgada. Isso significa que ela foi elaborada e aprovada por uma Assembleia Nacional Constituinte eleita pelo povo, refletindo a vontade popular e o processo de redemocratização do país. Constituições outorgadas são aquelas impostas por um governante, sem a participação popular.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_002",
+      "question_id": "qst_002",
+      "content": "Correto. O Supremo Tribunal Federal (STF) possui entendimento consolidado de que o Preâmbulo da CF/88 não tem força normativa, ou seja, não cria direitos nem obrigações e não serve como parâmetro para controle de constitucionalidade. No entanto, ele possui uma função interpretativa, auxiliando na compreensão dos valores e princípios que nortearam a elaboração da Constituição.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_003",
+      "question_id": "qst_003",
+      "content": "Correto. O Poder Constituinte Originário (PCO) é a força que cria uma nova Constituição, inaugurando uma nova ordem jurídica. Suas características são: **inicial** (inaugura uma nova ordem), **ilimitado juridicamente** (não se submete ao direito anterior), **incondicionado** (não segue formas preestabelecidas) e **autônomo** (define a nova estrutura constitucional).",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_004",
+      "question_id": "qst_004",
+      "content": "Errado. A Constituição Federal de 1988 é classificada como **analítica** (ou prolixa), e não sintética. Isso significa que ela é extensa e detalhada, abordando uma vasta gama de temas que vão além da organização básica do Estado, como direitos sociais, ordem econômica, meio ambiente, entre outros. Constituições sintéticas são mais concisas e se limitam aos aspectos essenciais.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_005",
+      "question_id": "qst_005",
+      "content": "Correto. O Ato das Disposições Constitucionais Transitórias (ADCT) é parte integrante da Constituição e possui plena força normativa. Suas normas são de caráter transitório, destinadas a regular a passagem do regime constitucional anterior para o novo, mas têm a mesma hierarquia das normas da Parte Permanente e podem ser objeto de controle de constitucionalidade.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_006",
+      "question_id": "qst_006",
+      "content": "Correto. A CF/88 foi promulgada em um período de grande efervescência política no Brasil, marcando o fim de 21 anos de ditadura militar e o início do processo de redemocratização, com a busca pela garantia de direitos e liberdades fundamentais.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_007",
+      "question_id": "qst_007",
+      "content": "Errado. A rigidez da Constituição Federal de 1988 significa que seu processo de alteração é mais complexo e solene do que o das leis ordinárias, exigindo quóruns qualificados para a aprovação de Emendas Constitucionais (Art. 60, § 2º, da CF/88). No entanto, essa rigidez não implica imutabilidade, pois a Constituição pode ser alterada por meio do Poder Constituinte Derivado Reformador, respeitando-se as cláusulas pétreas.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_008",
+      "question_id": "qst_008",
+      "content": "Correto. O Poder Constituinte Derivado (PCD) é um poder constituído, ou seja, ele deriva e encontra seu fundamento de validade no Poder Constituinte Originário. Por isso, está sujeito a limites estabelecidos pela própria Constituição, que podem ser materiais (cláusulas pétreas), formais (procedimento de emenda) e circunstanciais (proibições de emenda em estado de defesa, sítio ou intervenção federal).",
+      "explanation_alternatives": ""
+    }
+  ],
+  "checklist_revisao": [
+    {
+      "checklist_id": "chk_001",
+      "material_id": "mat_001",
+      "topic_id": "top_002",
+      "item_text": "Revisar os diferentes conceitos de Constituição (sociológico, político, jurídico).",
+      "completed": false,
+      "order": 1
+    },
+    {
+      "checklist_id": "chk_002",
+      "material_id": "mat_001",
+      "topic_id": "top_003",
+      "item_text": "Memorizar o contexto histórico da CF/88 e a data de sua promulgação.",
+      "completed": false,
+      "order": 2
+    },
+    {
+      "checklist_id": "chk_003",
+      "material_id": "mat_001",
+      "topic_id": "top_004",
+      "item_text": "Dominar as características da CF/88: Promulgada, Rígida, Escrita, Analítica, Formal, Dogmática, Social/Dirigente.",
+      "completed": false,
+      "order": 3
+    },
+    {
+      "checklist_id": "chk_004",
+      "material_id": "mat_001",
+      "topic_id": "top_005",
+      "item_text": "Compreender a estrutura da CF/88: Preâmbulo (sem força normativa), Parte Permanente e ADCT (com força normativa).",
+      "completed": false,
+      "order": 4
+    },
+    {
+      "checklist_id": "chk_005",
+      "material_id": "mat_001",
+      "topic_id": "top_002",
+      "item_text": "Diferenciar Poder Constituinte Originário e Derivado, e suas respectivas características e limites.",
+      "completed": false,
+      "order": 5
+    },
+    {
+      "checklist_id": "chk_006",
+      "material_id": "mat_001",
+      "topic_id": "top_006",
+      "item_text": "Prestar atenção às 'pegadinhas' do CEBRASPE sobre a força normativa do Preâmbulo e as classificações da Constituição.",
+      "completed": false,
+      "order": 6
+    }
+  ],
+  "referencias": [
+    {
+      "reference_id": "ref_001",
+      "material_id": "mat_001",
+      "reference_type": "Legislação",
+      "author_name": null,
+      "title": "Constituição da República Federativa do Brasil de 1988.",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "http://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
+      "accessed_at": null,
+      "description": "Constituição da República Federativa do Brasil de 1988."
+    },
+    {
+      "reference_id": "ref_002",
+      "material_id": "mat_001",
+      "reference_type": "Jurisprudência",
+      "author_name": null,
+      "title": "Supremo Tribunal Federal. ADI 2.076, Rel. Min. Carlos Velloso, julgado em 15/08/2002, DJ de 08/08/2003.",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "http://www.stf.jus.br/portal/jurisprudencia/listarJurisprudencia.asp?s1=ADI.ADJ.2076&base=baseAcordaos",
+      "accessed_at": null,
+      "description": "Supremo Tribunal Federal. ADI 2.076, Rel. Min. Carlos Velloso, julgado em 15/08/2002, DJ de 08/08/2003."
+    },
+    {
+      "reference_id": "ref_003",
+      "material_id": "mat_001",
+      "reference_type": "Doutrina",
+      "author_name": null,
+      "title": "LENZA, Pedro. Direito Constitucional Esquematizado. 27. ed. São Paulo: Saraiva Educação, 2023.",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": null,
+      "accessed_at": null,
+      "description": "LENZA, Pedro. Direito Constitucional Esquematizado. 27. ed. São Paulo: Saraiva Educação, 2023."
+    },
+    {
+      "reference_id": "ref_004",
+      "material_id": "mat_001",
+      "reference_type": "Doutrina",
+      "author_name": null,
+      "title": "MORAES, Alexandre de. Direito Constitucional. 39. ed. São Paulo: Atlas, 2023.",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": null,
+      "accessed_at": null,
+      "description": "MORAES, Alexandre de. Direito Constitucional. 39. ed. São Paulo: Atlas, 2023."
+    },
+    {
+      "reference_id": "ref_005",
+      "material_id": "mat_001",
+      "reference_type": "Artigo/Blog",
+      "author_name": null,
+      "title": "Constituição Federal: confira os principais pontos! Blog Gran Cursos Online. Publicado em 05/10/2023. Atualizado em 25/08/2025.",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://blog.grancursosonline.com.br/constituicao-federal-principais-pontos/",
+      "accessed_at": null,
+      "description": "Constituição Federal: confira os principais pontos! Blog Gran Cursos Online. Publicado em 05/10/2023. Atualizado em 25/08/2025."
+    },
+    {
+      "reference_id": "ref_006",
+      "material_id": "mat_001",
+      "reference_type": "Artigo/Blog",
+      "author_name": null,
+      "title": "Constituição de 1988: história, características - Brasil Escola.",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://brasilescola.uol.com.br/historia/constituicao-1988.htm",
+      "accessed_at": null,
+      "description": "Constituição de 1988: história, características - Brasil Escola."
+    },
+    {
+      "reference_id": "ref_007",
+      "material_id": "mat_001",
+      "reference_type": "Artigo/Blog",
+      "author_name": null,
+      "title": "Conceito de Constituição - Estratégia Carreira Jurídica. Publicado em 06/08/2024.",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.estrategiaconcursos.com.br/blog/conceito-de-constituicao/",
+      "accessed_at": null,
+      "description": "Conceito de Constituição - Estratégia Carreira Jurídica. Publicado em 06/08/2024."
+    },
+    {
+      "reference_id": "ref_008",
+      "material_id": "mat_001",
+      "reference_type": "Artigo/Blog",
+      "author_name": null,
+      "title": "Estrutura da CF/88 - Trilhante.",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.trilhante.com.br/curso/introducao-a-constituicao-federal-de-1988/estrutura-da-cf-88",
+      "accessed_at": null,
+      "description": "Estrutura da CF/88 - Trilhante."
+    },
+    {
+      "reference_id": "ref_009",
+      "material_id": "mat_001",
+      "reference_type": "Vídeo/Aula",
+      "author_name": null,
+      "title": "Overdose de Questões Cebraspe: Direito Constitucional para Concursos | Prof. Adriane Fauth - YouTube. Publicado em 02/05/2024.",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.youtube.com/watch?v=1g0w0z8_2_U",
+      "accessed_at": null,
+      "description": "Overdose de Questões Cebraspe: Direito Constitucional para Concursos | Prof. Adriane Fauth - YouTube. Publicado em 02/05/2024."
+    },
+    {
+      "reference_id": "ref_010",
+      "material_id": "mat_001",
+      "reference_type": "Vídeo/Aula",
+      "author_name": null,
+      "title": "20 FGV and Cebraspe pranks - YouTube. Publicado em 27/09/2025.",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.youtube.com/watch?v=b-o_v_0-w_g",
+      "accessed_at": null,
+      "description": "20 FGV and Cebraspe pranks - YouTube. Publicado em 27/09/2025."
+    },
+    {
+      "reference_id": "ref_011",
+      "material_id": "mat_001",
+      "reference_type": "Vídeo/Aula",
+      "author_name": null,
+      "title": "Direito Constitucional CEBRASPE | Questões Resolvidas AO VIVO com Prof. Fernando C. Branco - YouTube. Publicado em 04/07/2025.",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.youtube.com/watch?v=Q_2r_X_0_3Q",
+      "accessed_at": null,
+      "description": "Direito Constitucional CEBRASPE | Questões Resolvidas AO VIVO com Prof. Fernando C. Branco - YouTube. Publicado em 04/07/2025."
+    },
+    {
+      "reference_id": "ref_012",
+      "material_id": "mat_001",
+      "reference_type": "Questões de Concurso",
+      "author_name": null,
+      "title": "Qconcursos.com - Questões de Concurso sobre Classificação das Constituições em Direito Constitucional para CESPE / CEBRASPE.",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.qconcursos.com/questoes-de-concursos/disciplinas/direito-constitucional/classificacao-das-constituicoes",
+      "accessed_at": null,
+      "description": "Qconcursos.com - Questões de Concurso sobre Classificação das Constituições em Direito Constitucional para CESPE / CEBRASPE."
+    },
+    {
+      "reference_id": "ref_013",
+      "material_id": "mat_001",
+      "reference_type": "Questões de Concurso",
+      "author_name": null,
+      "title": "Qconcursos.com - Questões de Concurso sobre Poder Constituinte Originário.",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.qconcursos.com/questoes-de-concursos/disciplinas/direito-constitucional/poder-constituinte-originario",
+      "accessed_at": null,
+      "description": "Qconcursos.com - Questões de Concurso sobre Poder Constituinte Originário."
+    },
+    {
+      "reference_id": "ref_014",
+      "material_id": "mat_001",
+      "reference_type": "Questões de Concurso",
+      "author_name": null,
+      "title": "TEC Concursos - Questões CEBRASPE (CESPE) sobre Constituição: Conceito, Estrutura, Supremacia e Classificação.",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.tecconcursos.com.br/questoes/banca/cebraspe-cespe/materia/direito-constitucional/assunto/constituicao-conceito-estrutura-supremacia-e-classificacao",
+      "accessed_at": null,
+      "description": "TEC Concursos - Questões CEBRASPE (CESPE) sobre Constituição: Conceito, Estrutura, Supremacia e Classificação."
+    }
+  ],
+  "estatisticas_de_geracao": {
+    "total_topicos": 6,
+    "total_componentes_topico": 10,
+    "total_entendimentos_relevantes": 3,
+    "total_pegadinhas": 4,
+    "total_pontos_memorizacao": 4,
+    "total_itens_quadro_sinotico": 1,
+    "total_questoes": 8,
+    "total_comentarios_questoes": 8,
+    "total_itens_checklist": 6,
+    "total_referencias": 14
+  },
+  "validacao_interna": {
+    "pesquisa_previa_realizada": true,
+    "analise_de_cobrancas_anteriores_realizada": true,
+    "material_atualizado": true,
+    "json_valido": true,
+    "estrutura_relacional_respeitada": true,
+    "numeracao_respeitada": true,
+    "houve_quebra_de_hierarquia": false,
+    "houve_nivel_numerico_superior_a_3": false,
+    "fontes_verificadas": true,
+    "sem_informacao_inventada": true
+  },
+  "metadata": {
+    "source_file_name": "1__direito-constitucional-e-legislação-interna-da-câmara-dos-deputados__1-constituição-federal-de-1988-conceito-contexto-histórico-características-estrutura-do-texto.json",
+    "normalized_checksum": "094781d2927250bd244f92515cd45d86b9d8a28760b2ba19e8cbd7c1532b4985",
+    "subject_slug": "dir-const-legcam",
+    "material_slug": "constituicao-federal-1988-conceito",
+    "title_slug": "constituicao-federal-de-1988-teoria-padrao",
+    "board_slug": "cebraspe",
+    "counters": {
+      "blocks": 6,
+      "topics": 6,
+      "topic_components": 10,
+      "traps": 4,
+      "memory_points": 4,
+      "summary_items": 1,
+      "questions": 8,
+      "question_comments": 8,
+      "checklist_items": 6,
+      "references": 14
+    }
+  }
+}

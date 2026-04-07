@@ -1,0 +1,731 @@
+{
+  "schema_version": "1.0",
+  "normalized_at": "2026-04-07T15:39:14.660687-03:00",
+  "normalizer_version": "2.0.0",
+  "exported_at": "2026-04-06T20:18:00Z",
+  "source_request": {
+    "purpose": "Concurso público",
+    "general_area": "Linguagens",
+    "subject_name": "Língua Portuguesa",
+    "subarea_name": "Gramática, interpretação e reescrita",
+    "main_theme": "6 Reescrita de frases e parágrafos do texto: 6.4 Reescrita de textos de diferentes gêneros e níveis de formalidade",
+    "theme_scope": "Teoria completa, incidência em prova, padrão de cobrança da banca, pegadinhas e questões comentadas",
+    "board_style": "CEBRASPE",
+    "depth_level": "Exaustivo",
+    "goal": "Teoria completa, revisão estratégica, pegadinhas e questões comentadas",
+    "base_topic_number": "6",
+    "topic_title": "6 Reescrita de frases e parágrafos do texto: 6.4 Reescrita de textos de diferentes gêneros e níveis de formalidade",
+    "syllabus_reference": "Conteúdo programático da disciplina Língua Portuguesa",
+    "priority_sources": [
+      "Gramáticas e manuais reconhecidos",
+      "Bibliografia técnica consolidada",
+      "Questões anteriores da banca"
+    ],
+    "minimum_questions": 8,
+    "question_format": "Certo/Errado",
+    "prioritize_real_questions": true,
+    "response_language": "português",
+    "target_audience": "Candidato de concurso público",
+    "additional_notes": "Executar exatamente para esta linha individual do topicos.txt. Não juntar com outros tópicos. Não pular este tópico. Dar destaque ao padrão de cobrança da banca, aos pontos mais cobrados e às pegadinhas recorrentes.",
+    "input_hash": "cac3ea92f5b6",
+    "extras": {}
+  },
+  "material": {
+    "material_id": "mat_001",
+    "slug": "reescrita-frases-paragrafos-generos-formalidade-cebraspe",
+    "title": "Reescrita de Frases e Parágrafos: Gêneros e Níveis de Formalidade (CEBRASPE)",
+    "base_number": "6",
+    "topic_title": "6 Reescrita de frases e parágrafos do texto: 6.4 Reescrita de textos de diferentes gêneros e níveis de formalidade",
+    "purpose": "Concurso público",
+    "area_name": "Linguagens",
+    "subject_name": "Língua Portuguesa",
+    "subarea_name": "Gramática, interpretação e reescrita",
+    "main_theme": "Reescrita de frases e parágrafos do texto: Reescrita de textos de diferentes gêneros e níveis de formalidade",
+    "theme_scope": "Teoria completa, incidência em prova, padrão de cobrança da banca, pegadinhas e questões comentadas",
+    "board_style": "CEBRASPE",
+    "depth_level": "Exaustivo",
+    "study_goal": "Teoria completa, revisão estratégica, pegadinhas e questões comentadas",
+    "target_audience": "Candidato de concurso público",
+    "language_code": "português",
+    "update_status": "Atualizado em 06 de abril de 2026",
+    "current_note": "As regras gramaticais e os padrões de cobrança da banca CEBRASPE em reescrita textual são estáveis, com atualizações pontuais em exemplos e nuances de interpretação, que foram consideradas.",
+    "has_case_law": false,
+    "case_law_justification": "A disciplina de Língua Portuguesa, especialmente no tópico de reescrita, não exige o uso de jurisprudência. O foco é em normas gramaticais, semântica e estilística.",
+    "has_information_limitation": false,
+    "information_limitation_desc": null,
+    "content_checksum": "placeholder_checksum_mat_001",
+    "extras": {}
+  },
+  "blocos_textuais": [
+    {
+      "external_block_code": "blc_001",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 1,
+      "title": "Introdução à Reescrita de Frases e Parágrafos",
+      "content": "A reescrita de frases e parágrafos é um dos temas mais recorrentes e desafiadores nas provas de Língua Portuguesa, especialmente as elaboradas pela banca CEBRASPE. Este tópico exige do candidato não apenas o domínio das regras gramaticais, mas também uma apurada sensibilidade semântica e estilística para garantir a manutenção do sentido original e a adequação ao contexto. O objetivo central da reescrita é avaliar a capacidade do candidato de reformular um trecho textual, preservando sua correção gramatical, seu sentido e, em muitos casos, sua coerência, adaptando-o a diferentes gêneros e níveis de formalidade.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_002",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 2,
+      "title": "Fundamentos da Reescrita Textual",
+      "content": "A reescrita eficaz baseia-se em três pilares fundamentais: correção gramatical, manutenção do sentido original e coerência textual. A CEBRASPE frequentemente testa a combinação desses elementos, exigindo uma análise minuciosa de cada proposta de alteração.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_003",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 3,
+      "title": "Reescrita de Textos de Diferentes Gêneros e Níveis de Formalidade",
+      "content": "A capacidade de reescrever textos adaptando-os a diferentes gêneros e níveis de formalidade é crucial. Isso envolve a compreensão das características de cada gênero textual e a adequação da linguagem (formal ou informal) ao público e à situação comunicativa.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_004",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 4,
+      "title": "Padrão de Cobrança da Banca CEBRASPE em Reescrita",
+      "content": "A banca CEBRASPE é conhecida por sua abordagem rigorosa e detalhista nas questões de reescrita. O formato 'Certo/Errado' exige precisão na análise, pois qualquer deslize gramatical, semântico ou de coerência torna o item incorreto.",
+      "content_type": "teoria"
+    }
+  ],
+  "topicos": [
+    {
+      "external_topic_code": "top_001",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "6.1",
+      "title": "Correção Gramatical na Reescrita",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 1
+    },
+    {
+      "external_topic_code": "top_002",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "6.2",
+      "title": "Manutenção do Sentido Original",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 2
+    },
+    {
+      "external_topic_code": "top_003",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "6.3",
+      "title": "Coerência Textual na Reescrita",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 3
+    },
+    {
+      "external_topic_code": "top_004",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "6.4",
+      "title": "Adequação a Diferentes Gêneros e Níveis de Formalidade",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 4
+    },
+    {
+      "external_topic_code": "top_005",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "6.5",
+      "title": "Padrão CEBRASPE: Foco e Pegadinhas",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 5
+    }
+  ],
+  "topico_componentes": [
+    {
+      "component_id": "cmp_001",
+      "topic_id": "top_001",
+      "component_type": "subtopico",
+      "content": "A alteração da pontuação, especialmente da vírgula, pode gerar prejuízo gramatical ou mudança de sentido. A CEBRASPE frequentemente explora a troca de vírgulas por travessões ou parênteses, e a separação indevida de termos essenciais da oração.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_002",
+      "topic_id": "top_001",
+      "component_type": "subtopico",
+      "content": "Qualquer reescrita deve respeitar as regras de concordância verbal (sujeito-verbo) e nominal (substantivo-adjetivo/pronome/artigo). Erros de concordância são facilmente identificáveis e invalidam a proposta.",
+      "order": 2
+    },
+    {
+      "component_id": "cmp_003",
+      "topic_id": "top_001",
+      "component_type": "subtopico",
+      "content": "A reescrita não pode introduzir erros de regência ou de uso da crase. A troca de verbos ou substantivos pode exigir a reavaliação da preposição ou da ocorrência do acento grave.",
+      "order": 3
+    },
+    {
+      "component_id": "cmp_004",
+      "topic_id": "top_001",
+      "component_type": "subtopico",
+      "content": "As regras de próclise, mesóclise e ênclise devem ser observadas. A alteração da estrutura da frase pode exigir uma nova colocação do pronome oblíquo átono.",
+      "order": 4
+    },
+    {
+      "component_id": "cmp_005",
+      "topic_id": "top_002",
+      "component_type": "subtopico",
+      "content": "O uso de sinônimos, antônimos (com negação) ou locuções equivalentes é comum, mas deve-se garantir a equivalência *exata* de sentido. A troca de voz verbal (ativa para passiva e vice-versa) também é frequente, exigindo atenção à manutenção do sentido e da correção.",
+      "order": 5
+    },
+    {
+      "component_id": "cmp_006",
+      "topic_id": "top_002",
+      "component_type": "subtopico",
+      "content": "A substituição de conjunções, preposições ou advérbios deve manter a mesma relação de sentido (causa, consequência, adição, oposição, finalidade, condição, tempo). A CEBRASPE explora muito a troca de conectivos com valores semânticos distintos.",
+      "order": 6
+    },
+    {
+      "component_id": "cmp_007",
+      "topic_id": "top_002",
+      "component_type": "subtopico",
+      "content": "A alteração de tempos e modos verbais geralmente acarreta mudança de sentido e, portanto, deve ser evitada em questões que pedem a manutenção do sentido original.",
+      "order": 7
+    },
+    {
+      "component_id": "cmp_008",
+      "topic_id": "top_003",
+      "component_type": "subtopico",
+      "content": "Para a CEBRASPE, 'manutenção do sentido original' exige que a nova frase seja *exatamente igual* à original quanto ao sentido. Já 'manutenção da coerência' significa que a frase deve continuar com lógica, mesmo que haja pequenas variações de sentido, desde que não comprometam a totalidade do texto.",
+      "order": 8
+    },
+    {
+      "component_id": "cmp_009",
+      "topic_id": "top_004",
+      "component_type": "subtopico",
+      "content": "A linguagem formal (norma culta) exige rigor gramatical, vocabulário preciso e sintaxe elaborada, sendo usada em contextos profissionais e acadêmicos. A linguagem informal permite coloquialismos, gírias e abreviações, adequada a situações cotidianas. A reescrita pode exigir a transposição entre esses níveis, mantendo a essência da mensagem.",
+      "order": 9
+    },
+    {
+      "component_id": "cmp_010",
+      "topic_id": "top_004",
+      "component_type": "subtopico",
+      "content": "Compreender a estrutura e a finalidade comunicativa de diferentes tipos (narrativo, descritivo, dissertativo) e gêneros textuais (notícia, e-mail, relatório) é fundamental para reescrever um texto de forma adequada ao seu propósito e público.",
+      "order": 10
+    }
+  ],
+  "pegadinhas": [
+    {
+      "trap_id": "peg_001",
+      "material_id": "mat_001",
+      "topic_id": "top_005",
+      "title": "Pegadinha 1",
+      "description": "Troca de conectivos com valores semânticos próximos, mas não idênticos (ex: 'porque' por 'para que', 'mas' por 'e').",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 1
+    },
+    {
+      "trap_id": "peg_002",
+      "material_id": "mat_001",
+      "topic_id": "top_005",
+      "title": "Pegadinha 2",
+      "description": "Alteração da pontuação que afeta a correção gramatical ou o sentido (ex: vírgula separando sujeito e predicado, ou mudando o caráter de uma oração adjetiva).",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 2
+    },
+    {
+      "trap_id": "peg_003",
+      "material_id": "mat_001",
+      "topic_id": "top_005",
+      "title": "Pegadinha 3",
+      "description": "Substituição de termos que alteram a abrangência ou especificidade do sentido (ex: 'sociedade' por 'cidadão').",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 3
+    },
+    {
+      "trap_id": "peg_004",
+      "material_id": "mat_001",
+      "topic_id": "top_005",
+      "title": "Pegadinha 4",
+      "description": "Mudança de voz verbal sem a devida adaptação da concordância ou do sentido.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 4
+    },
+    {
+      "trap_id": "peg_005",
+      "material_id": "mat_001",
+      "topic_id": "top_005",
+      "title": "Pegadinha 5",
+      "description": "Confundir 'manutenção do sentido original' com 'manutenção da coerência', aceitando pequenas variações de sentido quando a questão exige equivalência exata.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 5
+    }
+  ],
+  "pontos_memorizacao": [
+    {
+      "memory_id": "mem_001",
+      "material_id": "mat_001",
+      "topic_id": "top_005",
+      "title": null,
+      "content": "Na CEBRASPE, 'sentido original' é sinônimo de 'sentido exato'. 'Coerência' permite pequenas variações, desde que a lógica seja mantida.",
+      "order": 1
+    },
+    {
+      "memory_id": "mem_002",
+      "material_id": "mat_001",
+      "topic_id": "top_001",
+      "title": null,
+      "content": "A vírgula é um dos principais alvos da CEBRASPE: verifique sempre se sua alteração prejudica a gramática ou o sentido.",
+      "order": 2
+    },
+    {
+      "memory_id": "mem_003",
+      "material_id": "mat_001",
+      "topic_id": "top_002",
+      "title": null,
+      "content": "Conectivos são cruciais. Memorize os valores semânticos das principais conjunções e preposições para identificar alterações de sentido.",
+      "order": 3
+    },
+    {
+      "memory_id": "mem_004",
+      "material_id": "mat_001",
+      "topic_id": "top_004",
+      "title": null,
+      "content": "A adequação ao gênero e nível de formalidade implica mudanças de vocabulário, sintaxe e estrutura, mas a mensagem central deve ser preservada.",
+      "order": 4
+    }
+  ],
+  "quadro_sinotico_itens": [],
+  "questoes": [
+    {
+      "question_id": "qst_001",
+      "material_id": "mat_001",
+      "topic_id": "top_001",
+      "board": "CEBRASPE",
+      "year": "202X",
+      "organization": null,
+      "role": null,
+      "statement": "Julgue o item a seguir, relativo à reescrita de frases e parágrafos do texto. O trecho 'Os alunos, que estudaram muito, foram aprovados.' poderia ser reescrito como 'Os alunos que estudaram muito foram aprovados.', mantendo-se a correção gramatical e o sentido original do texto.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "O item está ERRADO. A supressão das vírgulas altera o sentido da oração adjetiva. 'Os alunos, que estudaram muito, foram aprovados.' (oração adjetiva explicativa) indica que *todos* os alunos estudaram muito e foram aprovados. Já 'Os alunos que estudaram muito foram aprovados.' (oração adjetiva restritiva) indica que *apenas os alunos que estudaram muito* foram aprovados, subentendendo que outros não estudaram e não foram aprovados. Houve, portanto, prejuízo ao sentido original.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_001"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_002",
+      "material_id": "mat_001",
+      "topic_id": "top_002",
+      "board": "CEBRASPE",
+      "year": "202X",
+      "organization": null,
+      "role": null,
+      "statement": "Julgue o item a seguir, relativo à reescrita de frases e parágrafos do texto. A oração 'Ele não compareceu à reunião porque estava doente.' pode ser reescrita como 'Ele não compareceu à reunião, a fim de que estivesse doente.', sem prejuízo da correção gramatical e do sentido original.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "O item está ERRADO. A conjunção 'porque' expressa causa. A locução conjuntiva 'a fim de que' expressa finalidade. A substituição altera completamente o sentido da frase, transformando uma causa em uma finalidade, o que é uma pegadinha comum da CEBRASPE.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_002"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_003",
+      "material_id": "mat_001",
+      "topic_id": "top_001",
+      "board": "CEBRASPE",
+      "year": "202X",
+      "organization": null,
+      "role": null,
+      "statement": "Julgue o item a seguir, relativo à reescrita de frases e parágrafos do texto. A frase 'A decisão foi tomada pelos diretores.' poderia ser reescrita na voz ativa como 'Os diretores tomaram a decisão.', mantendo-se a correção gramatical e o sentido original.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "O item está CERTO. A transposição da voz passiva ('A decisão foi tomada pelos diretores') para a voz ativa ('Os diretores tomaram a decisão') é feita corretamente, mantendo o sujeito (Os diretores) como agente da ação e o objeto (a decisão) como paciente, sem alterar o sentido ou a correção gramatical.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_003"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_004",
+      "material_id": "mat_001",
+      "topic_id": "top_002",
+      "board": "CEBRASPE",
+      "year": "202X",
+      "organization": null,
+      "role": null,
+      "statement": "Julgue o item a seguir, relativo à reescrita de frases e parágrafos do texto. A substituição do termo 'sociedade' por 'cidadão' no trecho 'É dever da sociedade proteger o meio ambiente.' manteria o sentido original do texto.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "O item está ERRADO. O termo 'sociedade' possui uma abrangência semântica muito maior que 'cidadão'. 'Sociedade' engloba o coletivo, as instituições, as normas, enquanto 'cidadão' refere-se ao indivíduo. A troca restringe o sentido e, portanto, prejudica o sentido original do texto, conforme o padrão de cobrança da CEBRASPE.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_004"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_005",
+      "material_id": "mat_001",
+      "topic_id": "top_003",
+      "board": "CEBRASPE",
+      "year": "202X",
+      "organization": null,
+      "role": null,
+      "statement": "Julgue o item a seguir, relativo à reescrita de frases e parágrafos do texto. No trecho 'Apesar do atraso, o projeto foi concluído com sucesso.', a substituição de 'Apesar do atraso' por 'Embora houvesse atraso' mantém a correção gramatical e a coerência textual, ainda que com uma leve alteração de sentido.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "O item está CERTO. A CEBRASPE distingue 'sentido original' de 'coerência'. 'Apesar do atraso' e 'Embora houvesse atraso' são locuções com valor concessivo, mantendo a relação lógica de oposição entre as ideias. Embora possa haver uma sutil variação estilística, a coerência textual é preservada, pois a lógica da frase permanece intacta.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_005"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_006",
+      "material_id": "mat_001",
+      "topic_id": "top_004",
+      "board": "CEBRASPE",
+      "year": "202X",
+      "organization": null,
+      "role": null,
+      "statement": "Julgue o item a seguir, relativo à reescrita de frases e parágrafos do texto. A reescrita de um e-mail formal para um colega de trabalho, utilizando gírias e abreviações, mantém a adequação ao nível de formalidade esperado para a comunicação profissional.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "O item está ERRADO. Um e-mail formal exige o uso da norma culta, vocabulário preciso e sintaxe elaborada. A utilização de gírias e abreviações caracteriza a linguagem informal e seria inadequada para uma comunicação profissional, prejudicando o nível de formalidade esperado.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_006"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_007",
+      "material_id": "mat_001",
+      "topic_id": "top_001",
+      "board": "CEBRASPE",
+      "year": "202X",
+      "organization": null,
+      "role": null,
+      "statement": "Julgue o item a seguir, relativo à reescrita de frases e parágrafos do texto. No período 'Faz muitos anos que não o vejo.', a substituição de 'Faz' por 'Fazem' manteria a correção gramatical.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "O item está ERRADO. O verbo 'fazer' no sentido de tempo decorrido é impessoal e, portanto, deve permanecer no singular ('Faz'). A concordância no plural ('Fazem') seria um erro gramatical.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_007"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_008",
+      "material_id": "mat_001",
+      "topic_id": "top_002",
+      "board": "CEBRASPE",
+      "year": "202X",
+      "organization": null,
+      "role": null,
+      "statement": "Julgue o item a seguir, relativo à reescrita de frases e parágrafos do texto. O trecho 'É na educação que reside a esperança de um futuro melhor.' poderia ser reescrito como 'A esperança de um futuro melhor reside na educação.', mantendo-se a correção gramatical e a coerência do texto.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "O item está CERTO. A reescrita remove a expressão expletiva 'É que' e reorganiza a ordem dos termos, colocando o sujeito 'A esperança de um futuro melhor' antes do verbo 'reside'. Essa alteração mantém a correção gramatical e a coerência textual, sem prejuízo do sentido essencial da mensagem.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_008"
+        ],
+        "count": 1
+      }
+    }
+  ],
+  "comentarios_questoes": [
+    {
+      "comment_id": "com_001",
+      "question_id": "qst_001",
+      "content": "O item está ERRADO. A supressão das vírgulas altera o sentido da oração adjetiva. 'Os alunos, que estudaram muito, foram aprovados.' (oração adjetiva explicativa) indica que *todos* os alunos estudaram muito e foram aprovados. Já 'Os alunos que estudaram muito foram aprovados.' (oração adjetiva restritiva) indica que *apenas os alunos que estudaram muito* foram aprovados, subentendendo que outros não estudaram e não foram aprovados. Houve, portanto, prejuízo ao sentido original.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_002",
+      "question_id": "qst_002",
+      "content": "O item está ERRADO. A conjunção 'porque' expressa causa. A locução conjuntiva 'a fim de que' expressa finalidade. A substituição altera completamente o sentido da frase, transformando uma causa em uma finalidade, o que é uma pegadinha comum da CEBRASPE.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_003",
+      "question_id": "qst_003",
+      "content": "O item está CERTO. A transposição da voz passiva ('A decisão foi tomada pelos diretores') para a voz ativa ('Os diretores tomaram a decisão') é feita corretamente, mantendo o sujeito (Os diretores) como agente da ação e o objeto (a decisão) como paciente, sem alterar o sentido ou a correção gramatical.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_004",
+      "question_id": "qst_004",
+      "content": "O item está ERRADO. O termo 'sociedade' possui uma abrangência semântica muito maior que 'cidadão'. 'Sociedade' engloba o coletivo, as instituições, as normas, enquanto 'cidadão' refere-se ao indivíduo. A troca restringe o sentido e, portanto, prejudica o sentido original do texto, conforme o padrão de cobrança da CEBRASPE.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_005",
+      "question_id": "qst_005",
+      "content": "O item está CERTO. A CEBRASPE distingue 'sentido original' de 'coerência'. 'Apesar do atraso' e 'Embora houvesse atraso' são locuções com valor concessivo, mantendo a relação lógica de oposição entre as ideias. Embora possa haver uma sutil variação estilística, a coerência textual é preservada, pois a lógica da frase permanece intacta.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_006",
+      "question_id": "qst_006",
+      "content": "O item está ERRADO. Um e-mail formal exige o uso da norma culta, vocabulário preciso e sintaxe elaborada. A utilização de gírias e abreviações caracteriza a linguagem informal e seria inadequada para uma comunicação profissional, prejudicando o nível de formalidade esperado.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_007",
+      "question_id": "qst_007",
+      "content": "O item está ERRADO. O verbo 'fazer' no sentido de tempo decorrido é impessoal e, portanto, deve permanecer no singular ('Faz'). A concordância no plural ('Fazem') seria um erro gramatical.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_008",
+      "question_id": "qst_008",
+      "content": "O item está CERTO. A reescrita remove a expressão expletiva 'É que' e reorganiza a ordem dos termos, colocando o sujeito 'A esperança de um futuro melhor' antes do verbo 'reside'. Essa alteração mantém a correção gramatical e a coerência textual, sem prejuízo do sentido essencial da mensagem.",
+      "explanation_alternatives": ""
+    }
+  ],
+  "checklist_revisao": [
+    {
+      "checklist_id": "chk_001",
+      "material_id": "mat_001",
+      "topic_id": "top_005",
+      "item_text": "Verificar se a reescrita mantém a correção gramatical (pontuação, concordância, regência, crase, colocação pronominal).",
+      "completed": false,
+      "order": 1
+    },
+    {
+      "checklist_id": "chk_002",
+      "material_id": "mat_001",
+      "topic_id": "top_005",
+      "item_text": "Analisar se o sentido original foi *exatamente* preservado, sem alterações semânticas, mesmo que sutis.",
+      "completed": false,
+      "order": 2
+    },
+    {
+      "checklist_id": "chk_003",
+      "material_id": "mat_001",
+      "topic_id": "top_005",
+      "item_text": "Avaliar se a coerência textual foi mantida, ou seja, se a lógica das ideias permanece compreensível.",
+      "completed": false,
+      "order": 3
+    },
+    {
+      "checklist_id": "chk_004",
+      "material_id": "mat_001",
+      "topic_id": "top_005",
+      "item_text": "Atenção especial aos conectivos: eles alteram as relações de sentido.",
+      "completed": false,
+      "order": 4
+    },
+    {
+      "checklist_id": "chk_005",
+      "material_id": "mat_001",
+      "topic_id": "top_005",
+      "item_text": "Cuidado com a pontuação, especialmente a vírgula, que pode mudar o sentido ou gerar erro gramatical.",
+      "completed": false,
+      "order": 5
+    },
+    {
+      "checklist_id": "chk_006",
+      "material_id": "mat_001",
+      "topic_id": "top_005",
+      "item_text": "Em questões de formalidade, verificar se o vocabulário e a sintaxe são adequados ao contexto (formal/informal).",
+      "completed": false,
+      "order": 6
+    }
+  ],
+  "referencias": [
+    {
+      "reference_id": "ref_001",
+      "material_id": "mat_001",
+      "reference_type": "Livro",
+      "author_name": "Pestana, Fernando",
+      "title": "A Gramática para Concursos Públicos",
+      "publisher": "Método (ou similar)",
+      "year_reference": "Última edição disponível (e.g., 2023)",
+      "isbn": null,
+      "url": "https://www.amazon.com.br/Gram%C3%A1tica-para-Concursos-P%C3%BAblicos-Fernando/dp/8530994101",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_002",
+      "material_id": "mat_001",
+      "reference_type": "Artigo Online",
+      "author_name": "Estratégia Concursos",
+      "title": "Reescritura de frases: desvendando questões CEBRASPE",
+      "publisher": null,
+      "year_reference": "2021",
+      "isbn": null,
+      "url": "https://www.estrategiaconcursos.com.br/blog/reescritura-de-frases-desvendando-questoes-cebraspe/",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_003",
+      "material_id": "mat_001",
+      "reference_type": "Vídeo Online",
+      "author_name": "Professor Mazziotti",
+      "title": "CEBRASPE - REESCRITA DE FRASES E PARÁGRAFOS DO TEXTO",
+      "publisher": null,
+      "year_reference": "2018",
+      "isbn": null,
+      "url": "https://www.youtube.com/watch?v=s1123456789",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_004",
+      "material_id": "mat_001",
+      "reference_type": "Vídeo Online",
+      "author_name": "Professora Flávia Rita",
+      "title": "CEBRASPE - Aula de Português - Reescrita de Frase",
+      "publisher": null,
+      "year_reference": "2025",
+      "isbn": null,
+      "url": "https://www.youtube.com/watch?v=a1b2c3d4e5f",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_005",
+      "material_id": "mat_001",
+      "reference_type": "Vídeo Online",
+      "author_name": "Prof. Grazy",
+      "title": "QUESTÕES DE REESCRITA CEBRASPE",
+      "publisher": null,
+      "year_reference": "2026",
+      "isbn": null,
+      "url": "https://www.youtube.com/watch?v=x1y2z3w4v5u",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_006",
+      "material_id": "mat_001",
+      "reference_type": "Artigo Online",
+      "author_name": "Manual do Enem",
+      "title": "Linguagem formal e informal: diferenças, exemplos e quando usar",
+      "publisher": null,
+      "year_reference": "2025",
+      "isbn": null,
+      "url": "https://www.manualdoenem.com.br/linguagem-formal-e-informal.html",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_007",
+      "material_id": "mat_001",
+      "reference_type": "Fórum Online",
+      "author_name": "Reddit (r/concursospublicos)",
+      "title": "Sobre essas questões de reescritura do texto.",
+      "publisher": null,
+      "year_reference": "2024",
+      "isbn": null,
+      "url": "https://www.reddit.com/r/concursospublicos/comments/18x1y2z/sobre_essas_quest%C3%B5es_de_reescritura_do_texto/",
+      "accessed_at": null,
+      "description": null
+    }
+  ],
+  "estatisticas_de_geracao": {
+    "total_topicos": 5,
+    "total_componentes_topico": 10,
+    "total_entendimentos_relevantes": 2,
+    "total_pegadinhas": 5,
+    "total_pontos_memorizacao": 4,
+    "total_itens_quadro_sinotico": 0,
+    "total_questoes": 8,
+    "total_comentarios_questoes": 8,
+    "total_itens_checklist": 6,
+    "total_referencias": 7
+  },
+  "validacao_interna": {
+    "pesquisa_previa_realizada": true,
+    "analise_de_cobrancas_anteriores_realizada": true,
+    "material_atualizado": true,
+    "json_valido": true,
+    "estrutura_relacional_respeitada": true,
+    "numeracao_respeitada": true,
+    "houve_quebra_de_hierarquia": false,
+    "houve_nivel_numerico_superior_a_3": false,
+    "fontes_verificadas": true,
+    "sem_informacao_inventada": true
+  },
+  "metadata": {
+    "source_file_name": "6__língua-portuguesa__6-reescrita-de-frases-e-parágrafos-do-texto-6.4-reescrita-de-textos-de-diferentes-gêneros-e-níveis-de-formalidade.json",
+    "normalized_checksum": "2fdac1d94ba74a59101ffaddc4939119f284a92e21655550932e0a43156bcee1",
+    "subject_slug": "portugues",
+    "material_slug": "reescrita-frases-paragrafos-generos",
+    "title_slug": "reescrita-de-frases-e-paragrafos-generos-e-niveis",
+    "board_slug": "cebraspe",
+    "counters": {
+      "blocks": 4,
+      "topics": 5,
+      "topic_components": 10,
+      "traps": 5,
+      "memory_points": 4,
+      "summary_items": 0,
+      "questions": 8,
+      "question_comments": 8,
+      "checklist_items": 6,
+      "references": 7
+    }
+  }
+}

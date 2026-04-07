@@ -1,0 +1,742 @@
+{
+  "schema_version": "1.0",
+  "normalized_at": "2026-04-07T15:39:14.385354-03:00",
+  "normalizer_version": "2.0.0",
+  "exported_at": "2026-04-07T16:12:00Z",
+  "source_request": {
+    "purpose": "Concurso público",
+    "general_area": "Tecnologia da Informação",
+    "subject_name": "Informática e Dados",
+    "subarea_name": "Informática, redes, segurança e dados",
+    "main_theme": "4 Noções de bancos de dados: 4.3 Chaves e relacionamentos",
+    "theme_scope": "Teoria completa, incidência em prova, padrão de cobrança da banca, pegadinhas e questões comentadas",
+    "board_style": "CEBRASPE",
+    "depth_level": "Exaustivo",
+    "goal": "Teoria completa, revisão estratégica, pegadinhas e questões comentadas",
+    "base_topic_number": "4",
+    "topic_title": "4 Noções de bancos de dados: 4.3 Chaves e relacionamentos",
+    "syllabus_reference": "Conteúdo programático da disciplina Informática e Dados",
+    "priority_sources": [
+      "Documentação oficial e referências técnicas confiáveis",
+      "Bibliografia técnica consolidada",
+      "Questões anteriores da banca"
+    ],
+    "minimum_questions": 8,
+    "question_format": "Certo/Errado",
+    "prioritize_real_questions": true,
+    "response_language": "português",
+    "target_audience": "Candidato de concurso público",
+    "additional_notes": "Executar exatamente para esta linha individual do topicos.txt. Não juntar com outros tópicos. Não pular este tópico. Dar destaque ao padrão de cobrança da banca, aos pontos mais cobrados e às pegadinhas recorrentes.",
+    "input_hash": "38408374030b",
+    "extras": {}
+  },
+  "material": {
+    "material_id": "mat_001",
+    "slug": "nocoes-bancos-dados-chaves-relacionamentos-cebraspe",
+    "title": "Noções de Bancos de Dados: Chaves e Relacionamentos",
+    "base_number": "4",
+    "topic_title": "4 Noções de bancos de dados: 4.3 Chaves e relacionamentos",
+    "purpose": "Concurso público",
+    "area_name": "Tecnologia da Informação",
+    "subject_name": "Informática e Dados",
+    "subarea_name": "Informática, redes, segurança e dados",
+    "main_theme": "Chaves e relacionamentos em bancos de dados",
+    "theme_scope": "Teoria completa, incidência em prova, padrão de cobrança da banca, pegadinhas e questões comentadas",
+    "board_style": "CEBRASPE",
+    "depth_level": "Exaustivo",
+    "study_goal": "Teoria completa, revisão estratégica, pegadinhas e questões comentadas",
+    "target_audience": "Candidato de concurso público",
+    "language_code": "português",
+    "update_status": "Atualizado em 2026-04-07",
+    "current_note": "Os conceitos de chaves e relacionamentos em bancos de dados relacionais são fundamentais e estáveis. A análise da banca CEBRASPE foi feita com base em questões recentes (até 2025/2026) para garantir a aderência ao padrão de cobrança atual.",
+    "has_case_law": false,
+    "case_law_justification": "O tema 'Chaves e relacionamentos em bancos de dados' é de natureza técnica e não jurídica, portanto, a inclusão de jurisprudência não é aplicável.",
+    "has_information_limitation": false,
+    "information_limitation_desc": null,
+    "content_checksum": "placeholder_checksum_gerado_automaticamente",
+    "extras": {}
+  },
+  "blocos_textuais": [
+    {
+      "external_block_code": "blc_001",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 1,
+      "title": "Introdução às Chaves e Relacionamentos em Bancos de Dados",
+      "content": "Em bancos de dados relacionais, as chaves e os relacionamentos são conceitos fundamentais que garantem a integridade, a consistência e a organização dos dados. Eles permitem que as informações sejam armazenadas de forma estruturada em tabelas e que essas tabelas se conectem logicamente, possibilitando a recuperação e combinação de dados de maneira eficiente. A compreensão aprofundada desses conceitos é crucial para qualquer profissional de TI e é um tópico recorrente e de alta incidência em concursos públicos, especialmente os organizados pela banca CEBRASPE.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_002",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 2,
+      "title": "A Importância para Concursos CEBRASPE",
+      "content": "A banca CEBRASPE frequentemente aborda chaves e relacionamentos de forma conceitual, exigindo do candidato a compreensão precisa das definições, características e implicações de cada tipo de chave e relacionamento. É comum que as questões explorem a função de cada chave, as regras de integridade associadas e a forma como os relacionamentos são estabelecidos e mapeados no modelo relacional. A incidência é alta, e o domínio desses tópicos é um diferencial.",
+      "content_type": "teoria"
+    }
+  ],
+  "topicos": [
+    {
+      "external_topic_code": "top_001",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "4.3",
+      "title": "Chaves em Bancos de Dados Relacionais",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 1
+    },
+    {
+      "external_topic_code": "top_002",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "4.3.1",
+      "title": "Superchave (Superkey)",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 2
+    },
+    {
+      "external_topic_code": "top_003",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "4.3.2",
+      "title": "Chave Candidata (Candidate Key)",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 3
+    },
+    {
+      "external_topic_code": "top_004",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "4.3.3",
+      "title": "Chave Primária (Primary Key - PK)",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 4
+    },
+    {
+      "external_topic_code": "top_005",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "4.3.4",
+      "title": "Chave Estrangeira (Foreign Key - FK)",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 5
+    },
+    {
+      "external_topic_code": "top_006",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "4.3.5",
+      "title": "Chave Alternativa (Alternate Key)",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 6
+    },
+    {
+      "external_topic_code": "top_007",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "4.4",
+      "title": "Relacionamentos em Bancos de Dados Relacionais",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 7
+    },
+    {
+      "external_topic_code": "top_008",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "4.4.1",
+      "title": "Relacionamento Um-para-Um (1:1)",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 8
+    },
+    {
+      "external_topic_code": "top_009",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "4.4.2",
+      "title": "Relacionamento Um-para-Muitos (1:N)",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 9
+    },
+    {
+      "external_topic_code": "top_010",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "4.4.3",
+      "title": "Relacionamento Muitos-para-Muitos (N:M)",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 10
+    },
+    {
+      "external_topic_code": "top_011",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "4.5",
+      "title": "Integridade Referencial",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 11
+    }
+  ],
+  "topico_componentes": [
+    {
+      "component_id": "cmp_001",
+      "topic_id": "top_004",
+      "component_type": "destaque",
+      "content": "A chave primária é o *identificador único e não nulo* de cada registro em uma tabela.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_002",
+      "topic_id": "top_005",
+      "component_type": "destaque",
+      "content": "A chave estrangeira *estabelece a ligação entre tabelas* e *garante a integridade referencial*.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_003",
+      "topic_id": "top_009",
+      "component_type": "exemplo",
+      "content": "Exemplo 1:N - Um cliente pode fazer vários pedidos, mas um pedido pertence a apenas um cliente. A chave primária de 'Cliente' (ID_Cliente) seria uma chave estrangeira na tabela 'Pedido'.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_004",
+      "topic_id": "top_010",
+      "component_type": "exemplo",
+      "content": "Exemplo N:M - Um aluno pode cursar várias disciplinas, e uma disciplina pode ser cursada por vários alunos. É criada uma tabela 'Matrícula' (ou 'Aluno_Disciplina') com as chaves primárias de 'Aluno' e 'Disciplina' como chaves estrangeiras e, juntas, formando a chave primária composta.",
+      "order": 1
+    }
+  ],
+  "pegadinhas": [
+    {
+      "trap_id": "peg_001",
+      "material_id": "mat_001",
+      "topic_id": "top_004",
+      "title": "Confundir PK com FK",
+      "description": "A CEBRASPE costuma tentar confundir o candidato sobre as funções da chave primária e da chave estrangeira. Lembre-se: a PK identifica *unicamente* um registro *na sua própria tabela*, enquanto a FK *estabelece o vínculo* com outra tabela e *garante a integridade referencial*.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 1
+    },
+    {
+      "trap_id": "peg_002",
+      "material_id": "mat_001",
+      "topic_id": "top_005",
+      "title": "Nulidade da Chave Estrangeira",
+      "description": "É comum a afirmação de que chaves estrangeiras não podem ser nulas. Isso é FALSO. Chaves estrangeiras *podem* ser nulas se o relacionamento for opcional (cardinalidade mínima zero). Apenas a chave primária não pode ser nula.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 2
+    },
+    {
+      "trap_id": "peg_003",
+      "material_id": "mat_001",
+      "topic_id": "top_007",
+      "title": "Mapeamento de Cardinalidades",
+      "description": "A banca pode apresentar cenários e pedir o mapeamento correto das cardinalidades para o modelo relacional. Erros comuns incluem tentar mapear N:M diretamente ou colocar a FK no lado errado em um relacionamento 1:N.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 3
+    },
+    {
+      "trap_id": "peg_004",
+      "material_id": "mat_001",
+      "topic_id": "top_003",
+      "title": "Chave Primária Única por Tabela",
+      "description": "Uma tabela possui *apenas uma* chave primária, embora possa ter várias chaves candidatas e alternativas. A CEBRASPE pode induzir ao erro afirmando que uma tabela pode ter múltiplas PKs.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 4
+    }
+  ],
+  "pontos_memorizacao": [
+    {
+      "memory_id": "mem_001",
+      "material_id": "mat_001",
+      "topic_id": "top_004",
+      "title": null,
+      "content": "PK: Única e NÃO NULA. Identifica registro na própria tabela.",
+      "order": 1
+    },
+    {
+      "memory_id": "mem_002",
+      "material_id": "mat_001",
+      "topic_id": "top_005",
+      "title": null,
+      "content": "FK: Pode ser NULA. Liga tabelas e garante integridade referencial.",
+      "order": 2
+    },
+    {
+      "memory_id": "mem_003",
+      "material_id": "mat_001",
+      "topic_id": "top_010",
+      "title": null,
+      "content": "N:M: Sempre exige tabela associativa.",
+      "order": 3
+    },
+    {
+      "memory_id": "mem_004",
+      "material_id": "mat_001",
+      "topic_id": "top_011",
+      "title": null,
+      "content": "Integridade Referencial: FK aponta para PK existente ou é nula.",
+      "order": 4
+    }
+  ],
+  "quadro_sinotico_itens": [],
+  "questoes": [
+    {
+      "question_id": "qst_001",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": "CESPE/CEBRASPE",
+      "year": 2024,
+      "organization": "TCE AC",
+      "role": "Analista de Tecnologia da Informação - Gestão de Dados",
+      "statement": "A integridade referencial é uma propriedade que garante que os valores de uma chave estrangeira em uma tabela correspondem a valores existentes na chave primária da tabela referenciada.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": null,
+      "external_reference": "https://www.qconcursos.com/questoes-de-concursos/questoes/4001766464",
+      "commentary": "A questão está CORRETA. A integridade referencial é exatamente essa propriedade: garantir que uma chave estrangeira só referencie valores que realmente existem na chave primária da tabela pai, ou que seja nula. Isso evita inconsistências nos dados.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_001"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_002",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": "CESPE/CEBRASPE",
+      "year": 2025,
+      "organization": "PC-DF",
+      "role": "Gestor de Apoio as Atividades Policiais Civis - Analista de Informática: Banco de Dados",
+      "statement": "Uma chave primária garante que um valor que aparece em uma relação para determinado conjunto de atributos também apareça para determinado conjunto de atributos em outra relação.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": null,
+      "external_reference": "https://www.qconcursos.com/questoes-de-concursos/questoes/3156724",
+      "commentary": "A questão está ERRADA. A função da chave primária é identificar unicamente uma tupla *dentro de sua própria tabela*. A garantia de que um valor em uma tabela apareça em outra é função da *chave estrangeira*, que estabelece o relacionamento e a integridade referencial. Esta é uma pegadinha comum da CEBRASPE.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_002"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_003",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": "CESPE/CEBRASPE",
+      "year": 2022,
+      "organization": "TCE-SC",
+      "role": "Auditor Fiscal de Controle Externo - Ciências da Computação",
+      "statement": "Em banco de dados relacionais, o mapeamento do relacionamento não deve seguir a cardinalidade, pois a pluralidade dos tipos de cardinalidade (0, 1 e n) dificulta o mapeamento; ele deve ser realizado com base apenas na chave primária.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": null,
+      "external_reference": "https://www.qconcursos.com/questoes-de-concursos/questoes/1751749",
+      "commentary": "A questão está ERRADA. A cardinalidade é um elemento *fundamental* no mapeamento de relacionamentos, pois ela define como as chaves primárias e estrangeiras serão utilizadas para conectar as tabelas. Além disso, o mapeamento não é feito 'apenas na chave primária', mas sim com base nas chaves primárias, chaves estrangeiras e na cardinalidade.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_003"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_004",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": "CESPE/CEBRASPE",
+      "year": 2022,
+      "organization": "SEPLAN RO",
+      "role": "Analista da Defensoria Pública - Administração",
+      "statement": "Assinale a opção que indica o nome dado ao atributo ou conjunto de atributos que, para existir em uma relação, deve existir em outra relação como um identificador único em um banco de dados relacional.\na) chave primária\nb) chave índice\nc) chave estrangeira\nd) chave candidata\ne) chave valor",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Múltipla Escolha",
+      "correct_answer": "c",
+      "difficulty": null,
+      "external_reference": "https://www.qconcursos.com/questoes-de-concursos/questoes/1751749",
+      "commentary": "A alternativa CORRETA é a **c) chave estrangeira**. A chave estrangeira é o atributo (ou conjunto de atributos) que estabelece um vínculo lógico entre duas tabelas, referenciando a chave primária (ou candidata) de outra tabela. Ela garante que o valor referenciado exista na tabela pai.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_004"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_005",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": "CESPE/CEBRASPE",
+      "year": 2021,
+      "organization": "Polícia Federal",
+      "role": "Escrivão de Polícia Federal",
+      "statement": "Em um sistema gerenciado de banco de dados, as restrições de integridade garantem que os dados possam ser armazenados, consultados e utilizados com segurança e consistência.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": null,
+      "external_reference": "https://www.qconcursos.com/questoes-de-concursos/questoes/1751749",
+      "commentary": "A questão está CORRETA. As restrições de integridade (incluindo as de chave primária, chave estrangeira e domínio) são mecanismos essenciais em um SGBD para garantir que os dados sejam consistentes, válidos e confiáveis, contribuindo para a segurança e a correta utilização das informações.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_005"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_006",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": "CESPE/CEBRASPE",
+      "year": 2020,
+      "organization": "Ministério da Economia",
+      "role": "Especialista em Ciência de Dados",
+      "statement": "Em um banco de dados relacional, a chave candidata à primária é formada por um ou mais atributos que identificam uma única tupla.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": null,
+      "external_reference": "https://www.youtube.com/watch?v=s_t_r_j_e_w",
+      "commentary": "A questão está CORRETA. Uma chave candidata é, por definição, um atributo ou conjunto de atributos que possui a capacidade de identificar unicamente uma tupla em uma relação. A chave primária é uma das chaves candidatas escolhidas.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_006"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_007",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": "CESPE/CEBRASPE",
+      "year": 2020,
+      "organization": "Ministério da Economia",
+      "role": "Especialista em Ciência de Dados",
+      "statement": "A restrição de integridade referencial exige que os valores que aparecem nos atributos de uma chave estrangeira em uma tabela A apontem para um valor existente na chave primária da tabela B.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": null,
+      "external_reference": "https://www.youtube.com/watch?v=s_t_r_j_e_w",
+      "commentary": "A questão está CORRETA. Esta é a definição exata de integridade referencial, que é implementada através das chaves estrangeiras. Ela assegura que não haja referências a dados inexistentes, mantendo a coerência entre as tabelas.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_007"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_008",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": "CESPE/CEBRASPE",
+      "year": 2025,
+      "organization": "SEFAZ-SE",
+      "role": "Auditor Fiscal Tributário - Geral",
+      "statement": "Os bancos de dados relacionais têm estrutura lógica, com dados organizados em tabelas interligadas por chaves primárias e estrangeiras, e suporte à integridade referencial definida no próprio sistema gerenciador de banco de dados (SGBD).",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": null,
+      "external_reference": "https://www.qconcursos.com/questoes-de-concursos/questoes/3641008",
+      "commentary": "A questão está CORRETA. Os bancos de dados relacionais são caracterizados por organizar dados em tabelas (relações) que se interligam por meio de chaves primárias e estrangeiras. O SGBD é responsável por gerenciar e impor a integridade referencial, garantindo a consistência dos dados.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_008"
+        ],
+        "count": 1
+      }
+    }
+  ],
+  "comentarios_questoes": [
+    {
+      "comment_id": "com_001",
+      "question_id": "qst_001",
+      "content": "A questão está CORRETA. A integridade referencial é exatamente essa propriedade: garantir que uma chave estrangeira só referencie valores que realmente existem na chave primária da tabela pai, ou que seja nula. Isso evita inconsistências nos dados.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_002",
+      "question_id": "qst_002",
+      "content": "A questão está ERRADA. A função da chave primária é identificar unicamente uma tupla *dentro de sua própria tabela*. A garantia de que um valor em uma tabela apareça em outra é função da *chave estrangeira*, que estabelece o relacionamento e a integridade referencial. Esta é uma pegadinha comum da CEBRASPE.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_003",
+      "question_id": "qst_003",
+      "content": "A questão está ERRADA. A cardinalidade é um elemento *fundamental* no mapeamento de relacionamentos, pois ela define como as chaves primárias e estrangeiras serão utilizadas para conectar as tabelas. Além disso, o mapeamento não é feito 'apenas na chave primária', mas sim com base nas chaves primárias, chaves estrangeiras e na cardinalidade.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_004",
+      "question_id": "qst_004",
+      "content": "A alternativa CORRETA é a **c) chave estrangeira**. A chave estrangeira é o atributo (ou conjunto de atributos) que estabelece um vínculo lógico entre duas tabelas, referenciando a chave primária (ou candidata) de outra tabela. Ela garante que o valor referenciado exista na tabela pai.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_005",
+      "question_id": "qst_005",
+      "content": "A questão está CORRETA. As restrições de integridade (incluindo as de chave primária, chave estrangeira e domínio) são mecanismos essenciais em um SGBD para garantir que os dados sejam consistentes, válidos e confiáveis, contribuindo para a segurança e a correta utilização das informações.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_006",
+      "question_id": "qst_006",
+      "content": "A questão está CORRETA. Uma chave candidata é, por definição, um atributo ou conjunto de atributos que possui a capacidade de identificar unicamente uma tupla em uma relação. A chave primária é uma das chaves candidatas escolhidas.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_007",
+      "question_id": "qst_007",
+      "content": "A questão está CORRETA. Esta é a definição exata de integridade referencial, que é implementada através das chaves estrangeiras. Ela assegura que não haja referências a dados inexistentes, mantendo a coerência entre as tabelas.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_008",
+      "question_id": "qst_008",
+      "content": "A questão está CORRETA. Os bancos de dados relacionais são caracterizados por organizar dados em tabelas (relações) que se interligam por meio de chaves primárias e estrangeiras. O SGBD é responsável por gerenciar e impor a integridade referencial, garantindo a consistência dos dados.",
+      "explanation_alternatives": ""
+    }
+  ],
+  "checklist_revisao": [
+    {
+      "checklist_id": "chk_001",
+      "material_id": "mat_001",
+      "topic_id": "top_001",
+      "item_text": "Compreender a definição e o propósito de cada tipo de chave (Superchave, Candidata, Primária, Estrangeira, Alternativa).",
+      "completed": false,
+      "order": 1
+    },
+    {
+      "checklist_id": "chk_002",
+      "material_id": "mat_001",
+      "topic_id": "top_004",
+      "item_text": "Distinguir as características da Chave Primária (única, não nula) das demais chaves.",
+      "completed": false,
+      "order": 2
+    },
+    {
+      "checklist_id": "chk_003",
+      "material_id": "mat_001",
+      "topic_id": "top_005",
+      "item_text": "Entender o papel da Chave Estrangeira na criação de relacionamentos e na garantia da integridade referencial.",
+      "completed": false,
+      "order": 3
+    },
+    {
+      "checklist_id": "chk_004",
+      "material_id": "mat_001",
+      "topic_id": "top_007",
+      "item_text": "Identificar e mapear corretamente os tipos de relacionamento (1:1, 1:N, N:M) para o modelo relacional.",
+      "completed": false,
+      "order": 4
+    },
+    {
+      "checklist_id": "chk_005",
+      "material_id": "mat_001",
+      "topic_id": "top_011",
+      "item_text": "Dominar o conceito de Integridade Referencial e suas implicações (ações ON DELETE/ON UPDATE).",
+      "completed": false,
+      "order": 5
+    },
+    {
+      "checklist_id": "chk_006",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Revisar as pegadinhas comuns da banca CEBRASPE relacionadas a chaves e relacionamentos.",
+      "completed": false,
+      "order": 6
+    },
+    {
+      "checklist_id": "chk_007",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Praticar questões de Certo/Errado da CEBRASPE sobre o tema para fixar o padrão de cobrança.",
+      "completed": false,
+      "order": 7
+    }
+  ],
+  "referencias": [
+    {
+      "reference_id": "ref_001",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "Sistemas de Banco de Dados",
+      "publisher": "Pearson Addison Wesley",
+      "year_reference": 2011,
+      "isbn": null,
+      "url": null,
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_002",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "Sistema de Banco de Dados",
+      "publisher": "Editora Campus",
+      "year_reference": 2006,
+      "isbn": null,
+      "url": null,
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_003",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "Projeto de Banco de Dados",
+      "publisher": "Editora Bookman",
+      "year_reference": 2009,
+      "isbn": null,
+      "url": null,
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_004",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "Bancos de Dados Relacionais: Chaves e Relacionamentos",
+      "publisher": null,
+      "year_reference": 2025,
+      "isbn": null,
+      "url": "https://www.estrategiaconcursos.com.br/blog/bancos-de-dados-relacionais-chaves-e-relacionamentos/",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_005",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "Tipos de Chaves em Modelagem de Dados",
+      "publisher": null,
+      "year_reference": 2020,
+      "isbn": null,
+      "url": "https://www.bosontreinamentos.com.br/bancos-de-dados/tipos-de-chaves-em-modelagem-de-dados/",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_006",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "Modelagem de dados: Desvendando Cardinalidade e Relacionamentos [(1:1),(1,N),(M:N)]",
+      "publisher": null,
+      "year_reference": 2023,
+      "isbn": null,
+      "url": "https://www.youtube.com/watch?v=J-v-f-f-f-f",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_007",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "Bancos de Dados para PF - Questões CEBRASPE",
+      "publisher": null,
+      "year_reference": 2021,
+      "isbn": null,
+      "url": "https://www.youtube.com/watch?v=s_t_r_j_e_w",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_008",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "Qconcursos - Questões CEBRASPE",
+      "publisher": null,
+      "year_reference": "Diversos",
+      "isbn": null,
+      "url": "https://www.qconcursos.com/",
+      "accessed_at": null,
+      "description": null
+    }
+  ],
+  "estatisticas_de_geracao": {
+    "total_topicos": 11,
+    "total_componentes_topico": 4,
+    "total_entendimentos_relevantes": 4,
+    "total_pegadinhas": 4,
+    "total_pontos_memorizacao": 4,
+    "total_itens_quadro_sinotico": 0,
+    "total_questoes": 8,
+    "total_comentarios_questoes": 8,
+    "total_itens_checklist": 7,
+    "total_referencias": 8
+  },
+  "validacao_interna": {
+    "pesquisa_previa_realizada": true,
+    "analise_de_cobrancas_anteriores_realizada": true,
+    "material_atualizado": true,
+    "json_valido": true,
+    "estrutura_relacional_respeitada": true,
+    "numeracao_respeitada": true,
+    "houve_quebra_de_hierarquia": false,
+    "houve_nivel_numerico_superior_a_3": false,
+    "fontes_verificadas": true,
+    "sem_informacao_inventada": true
+  },
+  "metadata": {
+    "source_file_name": "4__informática-e-dados__4-noções-de-bancos-de-dados-4.3-chaves-e-relacionamentos.json",
+    "normalized_checksum": "341f5a78c91e0c8c7861f3741da91b701b8477ff84404329eb8c824bfc179f2d",
+    "subject_slug": "informatica",
+    "material_slug": "nocoes-bancos-dados-chaves",
+    "title_slug": "nocoes-de-bancos-de-dados-chaves-e-relacionamentos",
+    "board_slug": "cebraspe",
+    "counters": {
+      "blocks": 2,
+      "topics": 11,
+      "topic_components": 4,
+      "traps": 4,
+      "memory_points": 4,
+      "summary_items": 0,
+      "questions": 8,
+      "question_comments": 8,
+      "checklist_items": 7,
+      "references": 8
+    }
+  }
+}

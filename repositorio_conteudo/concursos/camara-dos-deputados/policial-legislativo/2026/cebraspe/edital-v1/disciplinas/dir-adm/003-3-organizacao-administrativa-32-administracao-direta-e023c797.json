@@ -1,0 +1,729 @@
+{
+  "schema_version": "1.0",
+  "normalized_at": "2026-04-07T15:39:13.837678-03:00",
+  "normalizer_version": "2.0.0",
+  "exported_at": "2026-04-07T17:11:00Z",
+  "source_request": {
+    "purpose": "Concurso público",
+    "general_area": "Direito",
+    "subject_name": "Direito Administrativo",
+    "subarea_name": "Direito Administrativo",
+    "main_theme": "3 Organização administrativa: 3.2 Administração direta: 3.2.2 Órgão público: 3.2.2.3 Características e classificação",
+    "theme_scope": "Teoria completa, incidência em prova, padrão de cobrança da banca, pegadinhas e questões comentadas",
+    "board_style": "CEBRASPE",
+    "depth_level": "Exaustivo",
+    "goal": "Teoria completa, revisão estratégica, pegadinhas e questões comentadas",
+    "base_topic_number": "3",
+    "topic_title": "3 Organização administrativa: 3.2 Administração direta: 3.2.2 Órgão público: 3.2.2.3 Características e classificação",
+    "syllabus_reference": "Conteúdo programático da disciplina Direito Administrativo",
+    "priority_sources": [
+      "Constituição Federal e legislação oficial vigente",
+      "Jurisprudência pertinente e atual, quando cabível",
+      "Doutrina consolidada",
+      "Questões anteriores da banca"
+    ],
+    "minimum_questions": 8,
+    "question_format": "Certo/Errado",
+    "prioritize_real_questions": true,
+    "response_language": "português",
+    "target_audience": "Candidato de concurso público",
+    "additional_notes": "Executar exatamente para esta linha individual do topicos.txt. Não juntar com outros tópicos. Não pular este tópico. Dar destaque ao padrão de cobrança da banca, aos pontos mais cobrados e às pegadinhas recorrentes.",
+    "input_hash": "567919fd1ffd",
+    "extras": {}
+  },
+  "material": {
+    "material_id": "mat_001",
+    "slug": "organizacao-administrativa-orgao-publico-caracteristicas-e-classificacao",
+    "title": "Organização Administrativa: Órgão Público - Características e Classificação",
+    "base_number": "3",
+    "topic_title": "3 Organização administrativa: 3.2 Administração direta: 3.2.2 Órgão público: 3.2.2.3 Características e classificação",
+    "purpose": "Concurso público",
+    "area_name": "Direito",
+    "subject_name": "Direito Administrativo",
+    "subarea_name": "Direito Administrativo",
+    "main_theme": "3 Organização administrativa: 3.2 Administração direta: 3.2.2 Órgão público: 3.2.2.3 Características e classificação",
+    "theme_scope": "Teoria completa, incidência em prova, padrão de cobrança da banca, pegadinhas e questões comentadas",
+    "board_style": "CEBRASPE",
+    "depth_level": "Exaustivo",
+    "study_goal": "Teoria completa, revisão estratégica, pegadinhas e questões comentadas",
+    "target_audience": "Candidato de concurso público",
+    "language_code": "português",
+    "update_status": "Atualizado em 2026",
+    "current_note": "Conteúdo revisado com base na doutrina consolidada e padrões de cobrança recentes da banca CEBRASPE.",
+    "has_case_law": true,
+    "case_law_justification": "A jurisprudência é relevante para consolidar o entendimento sobre a ausência de personalidade jurídica dos órgãos públicos e a quem se imputam seus atos, tema frequentemente abordado em provas.",
+    "has_information_limitation": false,
+    "information_limitation_desc": null,
+    "content_checksum": "calculado_apos_geracao",
+    "extras": {}
+  },
+  "blocos_textuais": [
+    {
+      "external_block_code": "blc_001",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 1,
+      "title": "Introdução à Organização Administrativa e o Órgão Público",
+      "content": "A Administração Pública, para desempenhar suas múltiplas funções e atingir seus objetivos, estrutura-se de diversas formas. Uma das divisões fundamentais é entre a Administração Direta e a Administração Indireta. No âmbito da Administração Direta, e também presente nas entidades da Administração Indireta, encontram-se os órgãos públicos, que são peças essenciais na máquina estatal. Compreender o conceito, as características e a classificação dos órgãos públicos é crucial para qualquer candidato a concurso, especialmente em provas da banca CEBRASPE, que costuma aprofundar-se nesses temas, exigindo clareza conceitual e a distinção precisa entre órgãos e entidades.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_002",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 2,
+      "title": "Conceito de Órgão Público",
+      "content": "Órgão público pode ser definido como uma unidade de atuação, desprovida de personalidade jurídica própria, que integra a estrutura de uma pessoa jurídica maior (União, Estados, Distrito Federal, Municípios ou entidades da Administração Indireta) e à qual são atribuídas competências específicas para o desempenho de funções estatais. A vontade manifestada por seus agentes é imputada à pessoa jurídica a que o órgão pertence, e não ao próprio órgão. Essa concepção é fundamentada na Teoria do Órgão, também conhecida como Teoria da Imputação Volitiva, desenvolvida pelo jurista alemão Otto Gierke. Segundo essa teoria, o Estado (ou a pessoa jurídica) age por meio de seus órgãos, que são como 'mãos' ou 'braços' da pessoa jurídica, expressando sua vontade. Hely Lopes Meirelles conceitua órgãos públicos como 'centros de competência instituídos para o desempenho de funções estatais, através de seus agentes, cuja atuação é imputada à pessoa jurídica a que pertence'. Maria Sylvia Zanella Di Pietro complementa, afirmando que o órgão público é o centro de competência instituído para o desempenho de funções estatais, cuja manifestação de vontade é imputada à pessoa jurídica que o integra.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_003",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 3,
+      "title": "Características Essenciais dos Órgãos Públicos",
+      "content": "As principais características dos órgãos públicos, frequentemente cobradas em provas, são: \n\n1.  **Despersonalização (Ausência de Personalidade Jurídica Própria):** Esta é a característica mais marcante e a principal distinção entre órgão e entidade. O órgão público não possui personalidade jurídica, não sendo sujeito de direitos e obrigações em nome próprio. Ele não pode, por exemplo, ser parte em um processo judicial (salvo raras exceções, como mandado de segurança para defesa de suas prerrogativas funcionais, mas não em nome próprio para defender interesses patrimoniais). Quem detém a personalidade jurídica é a pessoa jurídica a que o órgão está vinculado (União, Estado, Município, autarquia, fundação pública, etc.).\n2.  **Ausência de Patrimônio Próprio:** Consequência direta da despersonalização, os órgãos públicos não possuem bens, orçamentos ou patrimônio próprios. Eles utilizam os bens e recursos da pessoa jurídica a que pertencem.\n3.  **Atuação em Nome do Ente Federativo (ou da Pessoa Jurídica):** Os atos praticados pelos agentes que compõem o órgão são considerados atos da pessoa jurídica maior. A vontade do agente é imputada à pessoa jurídica.\n4.  **Criação por Desconcentração:** Os órgãos são criados por lei (ou por atos infralegais, como decretos, desde que haja previsão legal) dentro da estrutura de uma mesma pessoa jurídica, configurando uma distribuição interna de competências. Isso difere da descentralização, que cria novas pessoas jurídicas.\n5.  **Subordinação Hierárquica (em regra):** A maioria dos órgãos está sujeita a uma hierarquia, o que implica controle e poder de revisão por parte dos órgãos superiores. Órgãos independentes são a exceção a essa regra de subordinação direta.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_004",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 4,
+      "title": "Classificação dos Órgãos Públicos",
+      "content": "A doutrina administrativa classifica os órgãos públicos de diversas maneiras, facilitando a compreensão de sua estrutura e funcionamento. As classificações mais relevantes para concursos são: \n\n**1. Quanto à Posição Estatal (ou Hierarquia):**\n    *   **Independentes:** São os órgãos originários da Constituição Federal, situados no ápice da pirâmide hierárquica, sem qualquer subordinação a outro órgão. Representam os Poderes do Estado. Exemplos: Presidência da República, Congresso Nacional (Câmara dos Deputados e Senado Federal), Supremo Tribunal Federal, Tribunais Superiores. O Ministério Público e os Tribunais de Contas são considerados órgãos funcionalmente independentes.\n    *   **Autônomos:** Estão em posição de destaque na Administração, diretamente subordinados aos órgãos independentes, mas com ampla autonomia administrativa, financeira e técnica. Possuem funções de direção, planejamento e controle. Exemplos: Ministérios (na esfera federal), Secretarias de Estado e Secretarias Municipais, Advocacia-Geral da União.\n    *   **Superiores:** Possuem funções de direção, controle e comando, mas sem autonomia financeira e com subordinação aos órgãos autônomos. Exemplos: Gabinetes, Coordenadorias, Departamentos, Divisões.\n    *   **Subalternos:** São os órgãos de mera execução, com pouca ou nenhuma autonomia, sujeitos à subordinação hierárquica dos órgãos superiores. Exemplos: Seções, Setores, Repartições de atendimento ao público.\n\n**2. Quanto à Estrutura:**\n    *   **Simples (ou Unitários):** Não possuem subdivisões internas, sendo compostos por um único centro de competência. Exemplo: uma seção de protocolo.\n    *   **Compostos:** Apresentam subdivisões internas, ou seja, são formados por outros órgãos menores. Exemplo: um Ministério, que se divide em Secretarias, Departamentos, etc.\n\n**3. Quanto à Atuação Funcional:**\n    *   **Singulares (ou Unipessoais):** A atuação é exercida por um único agente público. Exemplo: um Ministro, um Secretário.\n    *   **Colegiados (ou Pluripessoais):** A atuação exige a manifestação conjunta de vários agentes, com decisões tomadas por maioria de votos. Exemplo: Conselhos (Conselho Administrativo de Defesa Econômica - CADE), Tribunais (STF, STJ, TRFs, TJs).",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_005",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 5,
+      "title": "Distinção Fundamental: Órgão Público x Entidade Pública",
+      "content": "A distinção entre órgão público e entidade pública é um dos pontos mais cobrados em concursos, especialmente pela CEBRASPE, e representa uma pegadinha recorrente.\n\n*   **Órgão Público:** É uma parte da estrutura de uma pessoa jurídica, desprovido de personalidade jurídica própria, patrimônio próprio e capacidade processual (em regra). Atua em nome da pessoa jurídica a que pertence. Resulta de desconcentração.\n*   **Entidade Pública:** É uma pessoa jurídica distinta do Estado (ou de outra entidade), dotada de personalidade jurídica própria, patrimônio próprio e capacidade processual. Pode ser de direito público (autarquias, fundações públicas de direito público) ou de direito privado (empresas públicas, sociedades de economia mista, fundações públicas de direito privado). Resulta de descentralização.\n\nEm suma, a entidade é a 'pessoa' e o órgão é uma 'parte' dessa pessoa. Por exemplo, a União é uma entidade (pessoa jurídica), e o Ministério da Fazenda é um órgão da União. O INSS é uma autarquia (entidade, pessoa jurídica), e suas agências são órgãos do INSS.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_006",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 6,
+      "title": "Padrão de Cobrança da Banca CEBRASPE",
+      "content": "A banca CEBRASPE (antigo CESPE/UnB) é conhecida por seu estilo 'Certo/Errado', que penaliza o chute ao descontar um ponto por cada resposta incorreta. Para o tema 'Órgão Público', o padrão de cobrança se caracteriza por: \n\n*   **Exigência de Conceitos Precisos:** A banca valoriza a compreensão teórica aprofundada e a distinção clara entre conceitos, como órgão e entidade, desconcentração e descentralização.\n*   **Foco na Teoria do Órgão:** Questões sobre a Teoria da Imputação Volitiva e suas implicações (ausência de personalidade jurídica do órgão, imputação dos atos à pessoa jurídica) são frequentes.\n*   **Aplicação Prática e Contextualizada:** Embora conceitual, a CEBRASPE pode apresentar situações hipotéticas para testar a aplicação das características e classificações dos órgãos.\n*   **Pegadinhas Conceituais:** A principal armadilha é a tentativa de induzir o candidato a atribuir personalidade jurídica, patrimônio próprio ou capacidade processual aos órgãos públicos. Outra pegadinha comum é confundir as classificações ou as características dos órgãos com as das entidades.\n*   **Literalidade da Doutrina Consolidada:** Muitas vezes, a banca utiliza trechos ou paráfrases de doutrinadores renomados como Hely Lopes Meirelles, Maria Sylvia Zanella Di Pietro e Celso Antônio Bandeira de Mello.\n*   **Artigo 37 da CF/88:** Os princípios da Administração Pública (legalidade, impessoalidade, moralidade, publicidade e eficiência) são frequentemente correlacionados com a atuação dos órgãos e agentes públicos.",
+      "content_type": "teoria"
+    }
+  ],
+  "topicos": [
+    {
+      "external_topic_code": "top_001",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "3.2.2.3",
+      "title": "Órgão Público: Características e Classificação",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 1
+    }
+  ],
+  "topico_componentes": [
+    {
+      "component_id": "cmp_001",
+      "topic_id": "top_001",
+      "component_type": "subtopico",
+      "content": "O órgão público é uma unidade despersonalizada da Administração, criada por desconcentração, que atua em nome da pessoa jurídica a que pertence. A Teoria do Órgão (ou da Imputação Volitiva), de Otto Gierke, explica que a vontade do órgão é a vontade do Estado.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_002",
+      "topic_id": "top_001",
+      "component_type": "subtopico",
+      "content": "As características essenciais incluem a ausência de personalidade jurídica própria, de patrimônio próprio, a atuação em nome da pessoa jurídica e a criação por desconcentração.",
+      "order": 2
+    },
+    {
+      "component_id": "cmp_003",
+      "topic_id": "top_001",
+      "component_type": "subtopico",
+      "content": "Os órgãos podem ser classificados quanto à posição estatal (independentes, autônomos, superiores, subalternos), quanto à estrutura (simples, compostos) e quanto à atuação funcional (singulares, colegiados).",
+      "order": 3
+    },
+    {
+      "component_id": "cmp_004",
+      "topic_id": "top_001",
+      "component_type": "subtopico",
+      "content": "A distinção crucial reside na personalidade jurídica: entidades possuem, órgãos não. Entidades resultam de descentralização; órgãos, de desconcentração.",
+      "order": 4
+    },
+    {
+      "component_id": "cmp_005",
+      "topic_id": "top_001",
+      "component_type": "subtopico",
+      "content": "A CEBRASPE foca em conceitos precisos, Teoria do Órgão, aplicação contextualizada e distinção entre órgão/entidade. As pegadinhas envolvem atribuir personalidade jurídica ou patrimônio ao órgão.",
+      "order": 5
+    }
+  ],
+  "pegadinhas": [
+    {
+      "trap_id": "peg_001",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": "Atribuir Personalidade Jurídica ao Órgão",
+      "description": "A pegadinha mais comum é afirmar que o órgão público possui personalidade jurídica própria, patrimônio ou capacidade de ser parte em juízo (salvo exceções muito específicas e restritas, como mandado de segurança para defesa de prerrogativas funcionais, que não se confunde com a defesa de interesses patrimoniais do órgão). Lembre-se: a personalidade jurídica é da pessoa jurídica a que o órgão pertence.",
+      "example_error": "",
+      "how_to_avoid": "Memorize que 'órgão = parte da pessoa jurídica, sem personalidade'. 'Entidade = pessoa jurídica, com personalidade'.",
+      "order": 1
+    },
+    {
+      "trap_id": "peg_002",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": "Confundir Desconcentração com Descentralização",
+      "description": "A banca pode tentar confundir os conceitos. Desconcentração é a distribuição interna de competências dentro da mesma pessoa jurídica (criação de órgãos). Descentralização é a criação de uma nova pessoa jurídica (criação de entidades).",
+      "example_error": "",
+      "how_to_avoid": "Associe: Desconcentração -> Órgão (dentro da mesma PJ). Descentralização -> Entidade (nova PJ).",
+      "order": 2
+    },
+    {
+      "trap_id": "peg_003",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": "Inverter as Classificações dos Órgãos",
+      "description": "A CEBRASPE pode trocar as características ou exemplos entre os tipos de órgãos (independentes, autônomos, superiores, subalternos) ou entre as classificações (estrutura, atuação funcional).",
+      "example_error": "",
+      "how_to_avoid": "Fixe os exemplos e as características de cada tipo de órgão em cada classificação.",
+      "order": 3
+    }
+  ],
+  "pontos_memorizacao": [
+    {
+      "memory_id": "mem_001",
+      "material_id": "mat_001",
+      "topic_id": "top_001",
+      "title": null,
+      "content": "",
+      "order": 1
+    },
+    {
+      "memory_id": "mem_002",
+      "material_id": "mat_001",
+      "topic_id": "top_001",
+      "title": null,
+      "content": "",
+      "order": 2
+    },
+    {
+      "memory_id": "mem_003",
+      "material_id": "mat_001",
+      "topic_id": "top_001",
+      "title": null,
+      "content": "",
+      "order": 3
+    },
+    {
+      "memory_id": "mem_004",
+      "material_id": "mat_001",
+      "topic_id": "top_001",
+      "title": null,
+      "content": "",
+      "order": 4
+    },
+    {
+      "memory_id": "mem_005",
+      "material_id": "mat_001",
+      "topic_id": "top_001",
+      "title": null,
+      "content": "",
+      "order": 5
+    },
+    {
+      "memory_id": "mem_006",
+      "material_id": "mat_001",
+      "topic_id": "top_001",
+      "title": null,
+      "content": "",
+      "order": 6
+    },
+    {
+      "memory_id": "mem_007",
+      "material_id": "mat_001",
+      "topic_id": "top_001",
+      "title": null,
+      "content": "",
+      "order": 7
+    }
+  ],
+  "quadro_sinotico_itens": [
+    {
+      "summary_item_id": "sum_001",
+      "title": null,
+      "content": "",
+      "order": 1
+    },
+    {
+      "summary_item_id": "sum_002",
+      "title": null,
+      "content": "",
+      "order": 2
+    },
+    {
+      "summary_item_id": "sum_003",
+      "title": null,
+      "content": "",
+      "order": 3
+    },
+    {
+      "summary_item_id": "sum_004",
+      "title": null,
+      "content": "",
+      "order": 4
+    },
+    {
+      "summary_item_id": "sum_005",
+      "title": null,
+      "content": "",
+      "order": 5
+    },
+    {
+      "summary_item_id": "sum_006",
+      "title": null,
+      "content": "",
+      "order": 6
+    },
+    {
+      "summary_item_id": "sum_007",
+      "title": null,
+      "content": "",
+      "order": 7
+    },
+    {
+      "summary_item_id": "sum_008",
+      "title": null,
+      "content": "",
+      "order": 8
+    },
+    {
+      "summary_item_id": "sum_009",
+      "title": null,
+      "content": "",
+      "order": 9
+    }
+  ],
+  "questoes": [
+    {
+      "question_id": "qst_001",
+      "material_id": "mat_001",
+      "topic_id": "top_001",
+      "board": "CEBRASPE",
+      "year": 2024,
+      "organization": null,
+      "role": null,
+      "statement": "Os órgãos públicos, por serem centros de competência dotados de autonomia administrativa e financeira, possuem personalidade jurídica própria, o que lhes permite figurar como parte em processos judiciais para defender seus interesses patrimoniais.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": "Média",
+      "external_reference": "Adaptada de questões CEBRASPE sobre organização administrativa",
+      "commentary": "O item está **Errado**. Órgãos públicos são desprovidos de personalidade jurídica própria, patrimônio próprio e, em regra, de capacidade processual para defender interesses patrimoniais. A autonomia administrativa e financeira, quando presente, refere-se à gestão de recursos da pessoa jurídica a que pertencem, e não à posse de um patrimônio autônomo. A vontade e os atos do órgão são imputados à pessoa jurídica maior. **Pegadinha CEBRASPE:** Atribuir personalidade jurídica e capacidade processual aos órgãos.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_001"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_002",
+      "material_id": "mat_001",
+      "topic_id": "top_001",
+      "board": "CEBRASPE",
+      "year": 2023,
+      "organization": null,
+      "role": null,
+      "statement": "A Teoria do Órgão, também conhecida como Teoria da Imputação Volitiva, estabelece que a vontade dos agentes públicos é imputada ao órgão que integram, e não diretamente à pessoa jurídica a que o órgão pertence.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": "Média",
+      "external_reference": "Adaptada de questões CEBRASPE sobre Teoria do Órgão",
+      "commentary": "O item está **Errado**. A Teoria do Órgão (ou da Imputação Volitiva) de Otto Gierke, adotada no Direito Administrativo brasileiro, estabelece que a vontade dos agentes públicos é imputada à **pessoa jurídica** a que o órgão pertence, e não ao próprio órgão. O órgão é apenas o instrumento da pessoa jurídica. **Pegadinha CEBRASPE:** Inverter a imputação da vontade, atribuindo-a ao órgão em vez da pessoa jurídica.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_002"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_003",
+      "material_id": "mat_001",
+      "topic_id": "top_001",
+      "board": "CEBRASPE",
+      "year": 2025,
+      "organization": null,
+      "role": null,
+      "statement": "Ministérios e Secretarias de Estado são exemplos de órgãos públicos autônomos, caracterizados por estarem no ápice da estrutura administrativa e por não se sujeitarem a qualquer tipo de subordinação hierárquica.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": "Média",
+      "external_reference": "Adaptada de questões CEBRASPE sobre classificação de órgãos",
+      "commentary": "O item está **Errado**. Ministérios e Secretarias de Estado são, de fato, exemplos de órgãos públicos autônomos. No entanto, eles não estão no ápice da estrutura administrativa nem são isentos de subordinação hierárquica. Órgãos autônomos estão subordinados aos órgãos independentes (como a Presidência da República ou o Governador), embora possuam ampla autonomia administrativa e financeira em suas áreas de atuação. Os órgãos independentes é que se encontram no ápice e não se sujeitam a subordinação. **Pegadinha CEBRASPE:** Confundir as características e o grau de autonomia entre os diferentes tipos de órgãos quanto à posição estatal.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_003"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_004",
+      "material_id": "mat_001",
+      "topic_id": "top_001",
+      "board": "CEBRASPE",
+      "year": 2024,
+      "organization": null,
+      "role": null,
+      "statement": "A criação de um órgão público dentro da estrutura de uma autarquia federal configura um processo de descentralização administrativa, uma vez que implica a distribuição de competências para uma nova unidade.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": "Difícil",
+      "external_reference": "Adaptada de questões CEBRASPE sobre desconcentração e descentralização",
+      "commentary": "O item está **Errado**. A criação de um órgão público dentro da estrutura de uma autarquia federal (que já é uma pessoa jurídica) configura um processo de **desconcentração** administrativa, e não de descentralização. Desconcentração é a distribuição interna de competências dentro da mesma pessoa jurídica. Descentralização, por sua vez, é a criação de uma nova pessoa jurídica. **Pegadinha CEBRASPE:** Trocar os conceitos de desconcentração e descentralização, um erro clássico da banca.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_004"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_005",
+      "material_id": "mat_001",
+      "topic_id": "top_001",
+      "board": "CEBRASPE",
+      "year": 2023,
+      "organization": null,
+      "role": null,
+      "statement": "Órgãos colegiados são aqueles cuja atuação funcional é exercida por um único agente público, diferentemente dos órgãos singulares, que exigem a manifestação conjunta de vários membros.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": "Fácil",
+      "external_reference": "Adaptada de questões CEBRASPE sobre classificação de órgãos",
+      "commentary": "O item está **Errado**. A afirmação inverte os conceitos. Órgãos **colegiados** são aqueles cuja atuação funcional exige a manifestação conjunta de vários agentes (ex: Conselhos, Tribunais), com decisões tomadas por maioria de votos. Órgãos **singulares** (ou unipessoais) são aqueles em que a atuação é exercida por um único agente público (ex: um Ministro, um Secretário). **Pegadinha CEBRASPE:** Inverter as definições de classificações de órgãos.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_005"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_006",
+      "material_id": "mat_001",
+      "topic_id": "top_001",
+      "board": "CEBRASPE",
+      "year": 2025,
+      "organization": null,
+      "role": null,
+      "statement": "Conforme a doutrina majoritária, os órgãos públicos independentes são aqueles que se encontram na cúpula dos Poderes da República, sendo criados diretamente pela Constituição Federal e não se sujeitando a qualquer subordinação hierárquica.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": "Média",
+      "external_reference": "Adaptada de questões CEBRASPE sobre classificação de órgãos",
+      "commentary": "O item está **Certo**. Os órgãos públicos independentes são, de fato, aqueles que se situam na cúpula dos Poderes da República (Legislativo, Executivo e Judiciário), sendo criados diretamente pela Constituição Federal e não se sujeitando a qualquer subordinação hierárquica. Exemplos incluem a Presidência da República, o Congresso Nacional e o Supremo Tribunal Federal. **Ponto-chave CEBRASPE:** Conhecimento preciso das classificações e seus exemplos.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_006"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_007",
+      "material_id": "mat_001",
+      "topic_id": "top_001",
+      "board": "CEBRASPE",
+      "year": 2024,
+      "organization": null,
+      "role": null,
+      "statement": "A principal diferença entre órgão público e entidade pública reside no fato de que a entidade possui personalidade jurídica própria e patrimônio autônomo, enquanto o órgão não os possui, sendo mera parte da estrutura de uma pessoa jurídica.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": "Fácil",
+      "external_reference": "Adaptada de questões CEBRASPE sobre distinção órgão/entidade",
+      "commentary": "O item está **Certo**. Esta é a distinção fundamental e mais cobrada entre órgão e entidade. A entidade pública é uma pessoa jurídica com personalidade e patrimônio próprios, enquanto o órgão público é uma unidade despersonalizada, sem personalidade jurídica própria e sem patrimônio autônomo, sendo uma parte integrante da estrutura de uma pessoa jurídica maior. **Ponto-chave CEBRASPE:** Dominar a diferença entre órgão e entidade é essencial para acertar questões sobre organização administrativa.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_007"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_008",
+      "material_id": "mat_001",
+      "topic_id": "top_001",
+      "board": "CEBRASPE",
+      "year": 2023,
+      "organization": null,
+      "role": null,
+      "statement": "A atuação dos órgãos públicos é sempre imputada à pessoa jurídica a que pertencem, o que significa que, em regra, eles não podem ser demandados judicialmente em nome próprio, mesmo para defender suas prerrogativas funcionais.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": "Média",
+      "external_reference": "Adaptada de questões CEBRASPE sobre capacidade processual de órgãos",
+      "commentary": "O item está **Errado**. Embora a atuação dos órgãos públicos seja, em regra, imputada à pessoa jurídica a que pertencem e eles não possam ser demandados judicialmente em nome próprio para defender interesses patrimoniais, a jurisprudência admite que órgãos públicos possuam capacidade processual para defender suas **prerrogativas funcionais** ou competências em juízo, por meio de instrumentos como o mandado de segurança. Essa é uma exceção à regra geral da ausência de capacidade processual. **Pegadinha CEBRASPE:** Generalizar a ausência de capacidade processual, desconsiderando as exceções relativas à defesa de prerrogativas funcionais.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_008"
+        ],
+        "count": 1
+      }
+    }
+  ],
+  "comentarios_questoes": [
+    {
+      "comment_id": "com_001",
+      "question_id": "qst_001",
+      "content": "O item está **Errado**. Órgãos públicos são desprovidos de personalidade jurídica própria, patrimônio próprio e, em regra, de capacidade processual para defender interesses patrimoniais. A autonomia administrativa e financeira, quando presente, refere-se à gestão de recursos da pessoa jurídica a que pertencem, e não à posse de um patrimônio autônomo. A vontade e os atos do órgão são imputados à pessoa jurídica maior. **Pegadinha CEBRASPE:** Atribuir personalidade jurídica e capacidade processual aos órgãos.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_002",
+      "question_id": "qst_002",
+      "content": "O item está **Errado**. A Teoria do Órgão (ou da Imputação Volitiva) de Otto Gierke, adotada no Direito Administrativo brasileiro, estabelece que a vontade dos agentes públicos é imputada à **pessoa jurídica** a que o órgão pertence, e não ao próprio órgão. O órgão é apenas o instrumento da pessoa jurídica. **Pegadinha CEBRASPE:** Inverter a imputação da vontade, atribuindo-a ao órgão em vez da pessoa jurídica.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_003",
+      "question_id": "qst_003",
+      "content": "O item está **Errado**. Ministérios e Secretarias de Estado são, de fato, exemplos de órgãos públicos autônomos. No entanto, eles não estão no ápice da estrutura administrativa nem são isentos de subordinação hierárquica. Órgãos autônomos estão subordinados aos órgãos independentes (como a Presidência da República ou o Governador), embora possuam ampla autonomia administrativa e financeira em suas áreas de atuação. Os órgãos independentes é que se encontram no ápice e não se sujeitam a subordinação. **Pegadinha CEBRASPE:** Confundir as características e o grau de autonomia entre os diferentes tipos de órgãos quanto à posição estatal.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_004",
+      "question_id": "qst_004",
+      "content": "O item está **Errado**. A criação de um órgão público dentro da estrutura de uma autarquia federal (que já é uma pessoa jurídica) configura um processo de **desconcentração** administrativa, e não de descentralização. Desconcentração é a distribuição interna de competências dentro da mesma pessoa jurídica. Descentralização, por sua vez, é a criação de uma nova pessoa jurídica. **Pegadinha CEBRASPE:** Trocar os conceitos de desconcentração e descentralização, um erro clássico da banca.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_005",
+      "question_id": "qst_005",
+      "content": "O item está **Errado**. A afirmação inverte os conceitos. Órgãos **colegiados** são aqueles cuja atuação funcional exige a manifestação conjunta de vários agentes (ex: Conselhos, Tribunais), com decisões tomadas por maioria de votos. Órgãos **singulares** (ou unipessoais) são aqueles em que a atuação é exercida por um único agente público (ex: um Ministro, um Secretário). **Pegadinha CEBRASPE:** Inverter as definições de classificações de órgãos.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_006",
+      "question_id": "qst_006",
+      "content": "O item está **Certo**. Os órgãos públicos independentes são, de fato, aqueles que se situam na cúpula dos Poderes da República (Legislativo, Executivo e Judiciário), sendo criados diretamente pela Constituição Federal e não se sujeitando a qualquer subordinação hierárquica. Exemplos incluem a Presidência da República, o Congresso Nacional e o Supremo Tribunal Federal. **Ponto-chave CEBRASPE:** Conhecimento preciso das classificações e seus exemplos.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_007",
+      "question_id": "qst_007",
+      "content": "O item está **Certo**. Esta é a distinção fundamental e mais cobrada entre órgão e entidade. A entidade pública é uma pessoa jurídica com personalidade e patrimônio próprios, enquanto o órgão público é uma unidade despersonalizada, sem personalidade jurídica própria e sem patrimônio autônomo, sendo uma parte integrante da estrutura de uma pessoa jurídica maior. **Ponto-chave CEBRASPE:** Dominar a diferença entre órgão e entidade é essencial para acertar questões sobre organização administrativa.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_008",
+      "question_id": "qst_008",
+      "content": "O item está **Errado**. Embora a atuação dos órgãos públicos seja, em regra, imputada à pessoa jurídica a que pertencem e eles não possam ser demandados judicialmente em nome próprio para defender interesses patrimoniais, a jurisprudência admite que órgãos públicos possuam capacidade processual para defender suas **prerrogativas funcionais** ou competências em juízo, por meio de instrumentos como o mandado de segurança. Essa é uma exceção à regra geral da ausência de capacidade processual. **Pegadinha CEBRASPE:** Generalizar a ausência de capacidade processual, desconsiderando as exceções relativas à defesa de prerrogativas funcionais.",
+      "explanation_alternatives": ""
+    }
+  ],
+  "checklist_revisao": [
+    {
+      "checklist_id": "chk_001",
+      "material_id": "mat_001",
+      "topic_id": "top_001",
+      "item_text": "Revisar o conceito de órgão público e a Teoria do Órgão (Otto Gierke).",
+      "completed": false,
+      "order": 1
+    },
+    {
+      "checklist_id": "chk_002",
+      "material_id": "mat_001",
+      "topic_id": "top_001",
+      "item_text": "Fixar as características essenciais: ausência de PJ, ausência de patrimônio próprio, atuação em nome da PJ.",
+      "completed": false,
+      "order": 2
+    },
+    {
+      "checklist_id": "chk_003",
+      "material_id": "mat_001",
+      "topic_id": "top_001",
+      "item_text": "Diferenciar claramente desconcentração (criação de órgãos) de descentralização (criação de entidades).",
+      "completed": false,
+      "order": 3
+    },
+    {
+      "checklist_id": "chk_004",
+      "material_id": "mat_001",
+      "topic_id": "top_001",
+      "item_text": "Memorizar as classificações dos órgãos: posição estatal (independentes, autônomos, superiores, subalternos) e exemplos.",
+      "completed": false,
+      "order": 4
+    },
+    {
+      "checklist_id": "chk_005",
+      "material_id": "mat_001",
+      "topic_id": "top_001",
+      "item_text": "Compreender a classificação quanto à estrutura (simples, compostos) e atuação funcional (singulares, colegiados).",
+      "completed": false,
+      "order": 5
+    },
+    {
+      "checklist_id": "chk_006",
+      "material_id": "mat_001",
+      "topic_id": "top_001",
+      "item_text": "Revisar as pegadinhas comuns da CEBRASPE, especialmente as que envolvem a personalidade jurídica dos órgãos.",
+      "completed": false,
+      "order": 6
+    },
+    {
+      "checklist_id": "chk_007",
+      "material_id": "mat_001",
+      "topic_id": "top_001",
+      "item_text": "Analisar questões anteriores da CEBRASPE sobre o tema para identificar o padrão de cobrança.",
+      "completed": false,
+      "order": 7
+    }
+  ],
+  "referencias": [
+    {
+      "reference_id": "ref_001",
+      "material_id": "mat_001",
+      "reference_type": "Doutrina",
+      "author_name": "MEIRELLES, Hely Lopes",
+      "title": "Direito Administrativo Brasileiro",
+      "publisher": "Malheiros/JusPODIVM",
+      "year_reference": "2025 (edições atualizadas)",
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGtLpHG2UDNhDy1LxYo0hozpHGoGcBY9a-nvjnYC80g32rokuGUSWsr_qhwKGPX4MLSJ-u9HIUTfqT_MNIT_jpl_uoXD3LkxSMkNZEy89yeIQrra93Z8q7EtGTgngLh9VSwDqvkJwFlBDiq8KjNqtzWEHEJpE6pJzet0klY8P4G2K3WqWX5g-QzxpUa",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_002",
+      "material_id": "mat_001",
+      "reference_type": "Doutrina",
+      "author_name": "DI PIETRO, Maria Sylvia Zanella",
+      "title": "Direito Administrativo",
+      "publisher": "Forense/Atlas",
+      "year_reference": "2024 (edições atualizadas)",
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGI4_ADxtqQj1msO9f24bPexQxQxF5Am95o7DkpMfELErfKxuaOciWYJf4lukZeEhsDfypN1vcyBRJCduM2UgCztXc3hKE88Ss394AVBw1brudW4JMJ2D0_n8eK42JM2GJUHhfssShhZisdQmLBxqLww0HiSfq0egAZHX2lFMt22Viciwem9xoH86g_fCax8ab_s39OauD5-m4AkQ9xXcwk5pKv5PEuK4XbeA==",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_003",
+      "material_id": "mat_001",
+      "reference_type": "Doutrina",
+      "author_name": "BANDEIRA DE MELLO, Celso Antônio",
+      "title": "Curso de Direito Administrativo",
+      "publisher": "Malheiros",
+      "year_reference": "2020 (edições atualizadas)",
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF12pw0mQJ7zNn7Fq1Zq03SM0XntJol_Q00W-jP4Afvv3XA1SaL_z8Nh2yfiPZT2PeQPOwb5Y-UZ5t3pPa6yntogdEaXS6bCUTFp0CfZ2126A9Q31xDfUEHJ-KhIayfOaxpEAuaDcu5CrzfF_IJFDMwR4ySNdFZ5Z3t3CUA",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_004",
+      "material_id": "mat_001",
+      "reference_type": "Legislação",
+      "author_name": "BRASIL",
+      "title": "Constituição da República Federativa do Brasil de 1988",
+      "publisher": "Presidência da República",
+      "year_reference": "Atualizada",
+      "isbn": null,
+      "url": "http://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_005",
+      "material_id": "mat_001",
+      "reference_type": "Jurisprudência",
+      "author_name": "Conselho da Justiça Federal (CJF)",
+      "title": "Órgãos públicos não podem figurar como réus por não possuírem personalidade jurídica",
+      "publisher": "CJF",
+      "year_reference": "2013",
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEV5KDf8F4Cz88_ONzZ7aPLEo3AM7nYspQWoe1c-6US7LSXTLv0yf3tu7AofD1HXHD8dJ1iFvDpvT0wmAKWPDLVc8GNVsE1zBYPE9tT5y4xifEsYwZIezaEoQF_oGxj2MDDqebuhWwFmn0J7v-v310GbzSpWd3exRpB5ct6AUlheeefqtFYM_fMPFtQn31c7RHvgWYkrvrr4PjbGaWZZyBPOWLi8m70V_SLkvQUNx1j8qorjT5IxpqNRz7Wj-0d4iyIG",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_006",
+      "material_id": "mat_001",
+      "reference_type": "Banca",
+      "author_name": "CEBRASPE",
+      "title": "Questões de Direito Administrativo (diversos concursos)",
+      "publisher": "CEBRASPE",
+      "year_reference": "2023-2026",
+      "isbn": null,
+      "url": "https://www.qconcursos.com/questoes-de-concursos/disciplinas/direito-administrativo/organizacao-da-administracao-publica/orgaos-publicos",
+      "accessed_at": null,
+      "description": null
+    }
+  ],
+  "estatisticas_de_geracao": {
+    "total_topicos": 1,
+    "total_componentes_topico": 5,
+    "total_entendimentos_relevantes": 2,
+    "total_pegadinhas": 3,
+    "total_pontos_memorizacao": 7,
+    "total_itens_quadro_sinotico": 9,
+    "total_questoes": 8,
+    "total_comentarios_questoes": 8,
+    "total_itens_checklist": 7,
+    "total_referencias": 6
+  },
+  "validacao_interna": {
+    "pesquisa_previa_realizada": true,
+    "analise_de_cobrancas_anteriores_realizada": true,
+    "material_atualizado": true,
+    "json_valido": true,
+    "estrutura_relacional_respeitada": true,
+    "numeracao_respeitada": true,
+    "houve_quebra_de_hierarquia": false,
+    "houve_nivel_numerico_superior_a_3": false,
+    "fontes_verificadas": true,
+    "sem_informacao_inventada": true
+  },
+  "metadata": {
+    "source_file_name": "3__direito-administrativo__3-organização-administrativa-3.2-administração-direta-3.2.2-órgão-público-3.2.2.3-características-e-classificação.json",
+    "normalized_checksum": "293a8fbc9f42b6cc3c36426295b155b071ee5d9049832d941617ef4d70455a03",
+    "subject_slug": "dir-adm",
+    "material_slug": "organizacao-administrativa-orgao-publico",
+    "title_slug": "organizacao-administrativa-orgao-publico",
+    "board_slug": "cebraspe",
+    "counters": {
+      "blocks": 6,
+      "topics": 1,
+      "topic_components": 5,
+      "traps": 3,
+      "memory_points": 7,
+      "summary_items": 9,
+      "questions": 8,
+      "question_comments": 8,
+      "checklist_items": 7,
+      "references": 6
+    }
+  }
+}

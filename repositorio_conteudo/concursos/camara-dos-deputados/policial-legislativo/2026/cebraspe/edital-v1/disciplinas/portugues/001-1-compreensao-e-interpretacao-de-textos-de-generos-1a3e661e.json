@@ -1,0 +1,760 @@
+{
+  "schema_version": "1.0",
+  "normalized_at": "2026-04-07T15:39:14.853933-03:00",
+  "normalizer_version": "2.0.0",
+  "exported_at": "2026-04-06T19:54:00Z",
+  "source_request": {
+    "purpose": "Concurso público",
+    "general_area": "Linguagens",
+    "subject_name": "Língua Portuguesa",
+    "subarea_name": "Gramática, interpretação e reescrita",
+    "main_theme": "1 Compreensão e interpretação de textos de gêneros variados",
+    "theme_scope": "Teoria completa, incidência em prova, padrão de cobrança da banca, pegadinhas e questões comentadas",
+    "board_style": "CEBRASPE",
+    "depth_level": "Exaustivo",
+    "goal": "Teoria completa, revisão estratégica, pegadinhas e questões comentadas",
+    "base_topic_number": "1",
+    "topic_title": "1 Compreensão e interpretação de textos de gêneros variados",
+    "syllabus_reference": "Conteúdo programático da disciplina Língua Portuguesa",
+    "priority_sources": [
+      "Gramáticas e manuais reconhecidos",
+      "Bibliografia técnica consolidada",
+      "Questões anteriores da banca"
+    ],
+    "minimum_questions": 8,
+    "question_format": "Certo/Errado",
+    "prioritize_real_questions": true,
+    "response_language": "português",
+    "target_audience": "Candidato de concurso público",
+    "additional_notes": "Executar exatamente para esta linha individual do topicos.txt. Não juntar com outros tópicos. Não pular este tópico. Dar destaque ao padrão de cobrança da banca, aos pontos mais cobrados e às pegadinhas recorrentes.",
+    "input_hash": "14ec8be932c7",
+    "extras": {}
+  },
+  "material": {
+    "material_id": "1-língua-portuguesa-1-compreensão-e-interpretação-de-textos-de-gêneros-variados",
+    "slug": "compreensao-e-interpretacao-de-textos-cebraspe",
+    "title": "Compreensão e Interpretação de Textos para CEBRASPE",
+    "base_number": "1",
+    "topic_title": "1 Compreensão e interpretação de textos de gêneros variados",
+    "purpose": "Concurso público",
+    "area_name": "Linguagens",
+    "subject_name": "Língua Portuguesa",
+    "subarea_name": "Gramática, interpretação e reescrita",
+    "main_theme": "Compreensão e interpretação de textos de gêneros variados",
+    "theme_scope": "Teoria completa, incidência em prova, padrão de cobrança da banca, pegadinhas e questões comentadas",
+    "board_style": "CEBRASPE",
+    "depth_level": "Exaustivo",
+    "study_goal": "Teoria completa, revisão estratégica, pegadinhas e questões comentadas",
+    "target_audience": "Candidato de concurso público",
+    "language_code": "português",
+    "update_status": "Atualizado em 2026",
+    "current_note": "Conteúdo revisado para refletir o padrão de cobrança mais recente da banca CEBRASPE e a bibliografia consolidada.",
+    "has_case_law": false,
+    "case_law_justification": "A matéria de Língua Portuguesa, especificamente compreensão e interpretação de textos, não exige o uso de jurisprudência.",
+    "has_information_limitation": false,
+    "information_limitation_desc": null,
+    "content_checksum": "placeholder_checksum_001",
+    "extras": {}
+  },
+  "blocos_textuais": [
+    {
+      "external_block_code": "1-língua-portuguesa-1-compreensão-e-interpretação-de-textos-de-gêneros-variados_blc_001",
+      "material_id": "1-língua-portuguesa-1-compreensão-e-interpretação-de-textos-de-gêneros-variados",
+      "topic_id": null,
+      "order": 1,
+      "title": "Introdução à Interpretação de Textos no CEBRASPE",
+      "content": "A compreensão e interpretação de textos é um dos pilares das provas de Língua Portuguesa do CEBRASPE, frequentemente representando uma parcela significativa da pontuação. A banca exige do candidato não apenas a leitura, mas uma análise crítica e aprofundada do que está explícito e implícito no texto. O formato 'Certo/Errado', com a penalidade de uma questão errada anulando uma certa, intensifica a necessidade de precisão e atenção aos detalhes. Este material visa desvendar as estratégias da banca, os tópicos mais cobrados e as armadilhas recorrentes.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "1-língua-portuguesa-1-compreensão-e-interpretação-de-textos-de-gêneros-variados_blc_002",
+      "material_id": "1-língua-portuguesa-1-compreensão-e-interpretação-de-textos-de-gêneros-variados",
+      "topic_id": null,
+      "order": 2,
+      "title": "Diferença entre Compreensão e Interpretação",
+      "content": "Embora frequentemente usadas como sinônimos, compreensão e interpretação possuem nuances distintas que o CEBRASPE explora.\n\n**Compreensão Textual:** Refere-se à análise do que está *explicitamente* escrito no texto. É a capacidade de identificar informações objetivas, dados, fatos e ideias principais que o autor apresenta de forma direta. Envolve a decodificação literal do conteúdo. Questões de compreensão geralmente começam com 'O texto informa que...', 'Segundo o texto...', 'De acordo com o autor...'.\n\n**Interpretação Textual:** Vai além da superfície do texto, buscando o sentido *implícito*, as inferências e as conclusões que podem ser extraídas de forma lógica e segura a partir das informações fornecidas. Envolve a capacidade de deduzir, subentender e contextualizar. Questões de interpretação podem usar termos como 'Infere-se do texto que...', 'Depreende-se do texto que...', 'Conclui-se que...'.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "1-língua-portuguesa-1-compreensão-e-interpretação-de-textos-de-gêneros-variados_blc_003",
+      "material_id": "1-língua-portuguesa-1-compreensão-e-interpretação-de-textos-de-gêneros-variados",
+      "topic_id": null,
+      "order": 3,
+      "title": "Padrão de Cobrança do CEBRASPE em Interpretação de Textos",
+      "content": "O CEBRASPE é conhecido por sua abordagem rigorosa e pela valorização da fidelidade ao texto. A banca testa a capacidade do candidato de: \n\n*   **Distinguir o explícito do implícito:** É crucial não confundir o que o texto *diz* com o que se pode *deduzir* ou *extrapolar*.\n*   **Identificar a ideia central e os argumentos:** Captar o propósito comunicativo do texto e a tese defendida pelo autor (se houver).\n*   **Analisar a coesão e coerência:** Entender como as partes do texto se conectam logicamente e gramaticalmente.\n*   **Reconhecer tipologias e gêneros textuais:** Classificar o texto ou trechos dele conforme suas características predominantes (narrativo, descritivo, dissertativo-expositivo, dissertativo-argumentativo, injuntivo).\n*   **Compreender o sentido de palavras e expressões no contexto:** A semântica contextual é frequentemente explorada.\n*   **Avaliar a reescrita de frases:** Verificar a manutenção do sentido original e da correção gramatical em propostas de alteração textual.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "1-língua-portuguesa-1-compreensão-e-interpretação-de-textos-de-gêneros-variados_blc_004",
+      "material_id": "1-língua-portuguesa-1-compreensão-e-interpretação-de-textos-de-gêneros-variados",
+      "topic_id": null,
+      "order": 4,
+      "title": "Estratégias de Leitura e Resolução para o CEBRASPE",
+      "content": "Para otimizar o desempenho nas provas do CEBRASPE, algumas estratégias são fundamentais:\n\n1.  **Leitura Atenta e Ativa:** Leia o texto mais de uma vez. Na primeira leitura, busque a ideia geral. Na segunda, sublinhe palavras-chave, conectivos, ideias principais de cada parágrafo e o posicionamento do autor.\n2.  **Leitura dos Enunciados:** Antes de reler o texto em profundidade, leia os enunciados das questões. Isso direciona a atenção para os pontos que a banca deseja explorar.\n3.  **Não Extrapole:** Limite-se estritamente às informações do texto. Não traga conhecimentos externos ou opiniões pessoais.\n4.  **Atenção aos Advérbios e Termos Absolutos:** Palavras como 'sempre', 'nunca', 'apenas', 'somente', 'todo', 'qualquer' são frequentemente usadas em pegadinhas. Desconfie de afirmações muito categóricas se o texto não for igualmente absoluto.\n5.  **Paráfrase e Resumo Mental:** Tentar reescrever com suas próprias palavras trechos ou a ideia central pode ajudar a verificar a compreensão.\n6.  **Análise de Coesão e Coerência:** Verifique os elementos de ligação (pronomes, conjunções, advérbios) e a lógica argumentativa do texto.\n7.  **Prática Constante:** Resolva muitas questões anteriores do CEBRASPE para se familiarizar com o estilo da banca e identificar padrões.",
+      "content_type": "teoria"
+    }
+  ],
+  "topicos": [
+    {
+      "external_topic_code": "1-língua-portuguesa-1-compreensão-e-interpretação-de-textos-de-gêneros-variados_top_001",
+      "material_id": "1-língua-portuguesa-1-compreensão-e-interpretação-de-textos-de-gêneros-variados",
+      "parent_topic_id": null,
+      "topic_number": "1",
+      "title": "Compreensão e Interpretação de Textos de Gêneros Variados",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 1
+    },
+    {
+      "external_topic_code": "1-língua-portuguesa-1-compreensão-e-interpretação-de-textos-de-gêneros-variados_top_002",
+      "material_id": "1-língua-portuguesa-1-compreensão-e-interpretação-de-textos-de-gêneros-variados",
+      "parent_topic_id": "1-língua-portuguesa-1-compreensão-e-interpretação-de-textos-de-gêneros-variados_top_001",
+      "topic_number": "1.1",
+      "title": "Conceitos Fundamentais: Compreensão vs. Interpretação",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 2
+    },
+    {
+      "external_topic_code": "1-língua-portuguesa-1-compreensão-e-interpretação-de-textos-de-gêneros-variados_top_003",
+      "material_id": "1-língua-portuguesa-1-compreensão-e-interpretação-de-textos-de-gêneros-variados",
+      "parent_topic_id": "1-língua-portuguesa-1-compreensão-e-interpretação-de-textos-de-gêneros-variados_top_001",
+      "topic_number": "1.2",
+      "title": "Padrão de Cobrança do CEBRASPE",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 3
+    },
+    {
+      "external_topic_code": "1-língua-portuguesa-1-compreensão-e-interpretação-de-textos-de-gêneros-variados_top_004",
+      "material_id": "1-língua-portuguesa-1-compreensão-e-interpretação-de-textos-de-gêneros-variados",
+      "parent_topic_id": "1-língua-portuguesa-1-compreensão-e-interpretação-de-textos-de-gêneros-variados_top_003",
+      "topic_number": "1.2.1",
+      "title": "Fidelidade ao Texto e Distinção Explícito/Implícito",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 4
+    },
+    {
+      "external_topic_code": "1-língua-portuguesa-1-compreensão-e-interpretação-de-textos-de-gêneros-variados_top_005",
+      "material_id": "1-língua-portuguesa-1-compreensão-e-interpretação-de-textos-de-gêneros-variados",
+      "parent_topic_id": "1-língua-portuguesa-1-compreensão-e-interpretação-de-textos-de-gêneros-variados_top_003",
+      "topic_number": "1.2.2",
+      "title": "Tópicos Mais Frequentes",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 5
+    },
+    {
+      "external_topic_code": "1-língua-portuguesa-1-compreensão-e-interpretação-de-textos-de-gêneros-variados_top_006",
+      "material_id": "1-língua-portuguesa-1-compreensão-e-interpretação-de-textos-de-gêneros-variados",
+      "parent_topic_id": "1-língua-portuguesa-1-compreensão-e-interpretação-de-textos-de-gêneros-variados_top_001",
+      "topic_number": "1.3",
+      "title": "Tipologias e Gêneros Textuais",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 6
+    },
+    {
+      "external_topic_code": "1-língua-portuguesa-1-compreensão-e-interpretação-de-textos-de-gêneros-variados_top_007",
+      "material_id": "1-língua-portuguesa-1-compreensão-e-interpretação-de-textos-de-gêneros-variados",
+      "parent_topic_id": "1-língua-portuguesa-1-compreensão-e-interpretação-de-textos-de-gêneros-variados_top_001",
+      "topic_number": "1.4",
+      "title": "Coesão e Coerência Textual",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 7
+    },
+    {
+      "external_topic_code": "1-língua-portuguesa-1-compreensão-e-interpretação-de-textos-de-gêneros-variados_top_008",
+      "material_id": "1-língua-portuguesa-1-compreensão-e-interpretação-de-textos-de-gêneros-variados",
+      "parent_topic_id": "1-língua-portuguesa-1-compreensão-e-interpretação-de-textos-de-gêneros-variados_top_001",
+      "topic_number": "1.5",
+      "title": "Reescrita de Frases e Parágrafos",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 8
+    },
+    {
+      "external_topic_code": "1-língua-portuguesa-1-compreensão-e-interpretação-de-textos-de-gêneros-variados_top_009",
+      "material_id": "1-língua-portuguesa-1-compreensão-e-interpretação-de-textos-de-gêneros-variados",
+      "parent_topic_id": "1-língua-portuguesa-1-compreensão-e-interpretação-de-textos-de-gêneros-variados_top_001",
+      "topic_number": "1.6",
+      "title": "Pegadinhas e Armadilhas Comuns do CEBRASPE",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 9
+    },
+    {
+      "external_topic_code": "1-língua-portuguesa-1-compreensão-e-interpretação-de-textos-de-gêneros-variados_top_010",
+      "material_id": "1-língua-portuguesa-1-compreensão-e-interpretação-de-textos-de-gêneros-variados",
+      "parent_topic_id": "1-língua-portuguesa-1-compreensão-e-interpretação-de-textos-de-gêneros-variados_top_001",
+      "topic_number": "1.7",
+      "title": "Estratégias de Leitura e Resolução",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 10
+    }
+  ],
+  "topico_componentes": [
+    {
+      "component_id": "1-língua-portuguesa-1-compreensão-e-interpretação-de-textos-de-gêneros-variados_cmp_001",
+      "topic_id": "1-língua-portuguesa-1-compreensão-e-interpretação-de-textos-de-gêneros-variados_top_002",
+      "component_type": "texto",
+      "content": "A compreensão textual foca no que está *escrito* (informações explícitas), enquanto a interpretação busca o que está *subentendido* (inferências lógicas).",
+      "order": 1
+    },
+    {
+      "component_id": "1-língua-portuguesa-1-compreensão-e-interpretação-de-textos-de-gêneros-variados_cmp_002",
+      "topic_id": "1-língua-portuguesa-1-compreensão-e-interpretação-de-textos-de-gêneros-variados_top_004",
+      "component_type": "texto",
+      "content": "O CEBRASPE valoriza a leitura atenta e a capacidade de diferenciar o que o texto *afirma* do que ele *sugere* ou *permite deduzir*. Evite a extrapolação, que é ir além do que o texto autoriza.",
+      "order": 1
+    },
+    {
+      "component_id": "1-língua-portuguesa-1-compreensão-e-interpretação-de-textos-de-gêneros-variados_cmp_003",
+      "topic_id": "1-língua-portuguesa-1-compreensão-e-interpretação-de-textos-de-gêneros-variados_top_005",
+      "component_type": "lista",
+      "content": "['Identificação da ideia central e secundárias.', 'Relações de coesão e coerência (referência, substituição, elipse, conectivos).', 'Inferência e dedução (o que o texto permite concluir).', 'Tipologia e gêneros textuais (narrativo, descritivo, dissertativo, injuntivo).', 'Sentido de palavras e expressões no contexto (denotação e conotação).', 'Funções da linguagem.', 'Reescrita de frases e parágrafos (manutenção de sentido e correção gramatical).']",
+      "order": 1
+    },
+    {
+      "component_id": "1-língua-portuguesa-1-compreensão-e-interpretação-de-textos-de-gêneros-variados_cmp_004",
+      "topic_id": "1-língua-portuguesa-1-compreensão-e-interpretação-de-textos-de-gêneros-variados_top_006",
+      "component_type": "texto",
+      "content": "A banca exige o reconhecimento das características predominantes de cada tipo textual (narrar, descrever, dissertar, instruir) e a identificação de gêneros textuais (notícia, artigo de opinião, manual, etc.).",
+      "order": 1
+    },
+    {
+      "component_id": "1-língua-portuguesa-1-compreensão-e-interpretação-de-textos-de-gêneros-variados_cmp_005",
+      "topic_id": "1-língua-portuguesa-1-compreensão-e-interpretação-de-textos-de-gêneros-variados_top_007",
+      "component_type": "texto",
+      "content": "Coesão (ligação gramatical e lexical entre as partes do texto) e coerência (sentido lógico e unidade temática) são cruciais. O CEBRASPE frequentemente testa a substituição de termos e a manutenção do sentido e da correção.",
+      "order": 1
+    },
+    {
+      "component_id": "1-língua-portuguesa-1-compreensão-e-interpretação-de-textos-de-gêneros-variados_cmp_006",
+      "topic_id": "1-língua-portuguesa-1-compreensão-e-interpretação-de-textos-de-gêneros-variados_top_008",
+      "component_type": "texto",
+      "content": "Questões de reescrita avaliam a capacidade de reformular trechos mantendo a correção gramatical e, principalmente, o sentido original do texto. Pequenas alterações podem mudar completamente a ideia.",
+      "order": 1
+    },
+    {
+      "component_id": "1-língua-portuguesa-1-compreensão-e-interpretação-de-textos-de-gêneros-variados_cmp_007",
+      "topic_id": "1-língua-portuguesa-1-compreensão-e-interpretação-de-textos-de-gêneros-variados_top_010",
+      "component_type": "lista",
+      "content": "['Leia o texto com atenção, buscando a ideia central e o posicionamento do autor.', 'Leia os enunciados antes de reler o texto para focar a atenção.', 'Não extrapole, não reduza e não contradiga o texto.', \"Desconfie de termos absolutos ('sempre', 'nunca', 'apenas').\", 'Faça anotações e parafraseie mentalmente trechos complexos.', 'Resolva exaustivamente questões anteriores do CEBRASPE.']",
+      "order": 1
+    }
+  ],
+  "pegadinhas": [
+    {
+      "trap_id": "1-língua-portuguesa-1-compreensão-e-interpretação-de-textos-de-gêneros-variados_peg_001",
+      "material_id": "1-língua-portuguesa-1-compreensão-e-interpretação-de-textos-de-gêneros-variados",
+      "topic_id": "1-língua-portuguesa-1-compreensão-e-interpretação-de-textos-de-gêneros-variados_top_009",
+      "title": "Extrapolação",
+      "description": "Ir além do que o texto afirma, adicionando informações externas ou conclusões não suportadas pelo texto.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 1
+    },
+    {
+      "trap_id": "1-língua-portuguesa-1-compreensão-e-interpretação-de-textos-de-gêneros-variados_peg_002",
+      "material_id": "1-língua-portuguesa-1-compreensão-e-interpretação-de-textos-de-gêneros-variados",
+      "topic_id": "1-língua-portuguesa-1-compreensão-e-interpretação-de-textos-de-gêneros-variados_top_009",
+      "title": "Redução ou Generalização Indevida",
+      "description": "Reduzir o sentido de uma ideia geral a um caso particular ou generalizar uma informação específica para todo o contexto.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 2
+    },
+    {
+      "trap_id": "1-língua-portuguesa-1-compreensão-e-interpretação-de-textos-de-gêneros-variados_peg_003",
+      "material_id": "1-língua-portuguesa-1-compreensão-e-interpretação-de-textos-de-gêneros-variados",
+      "topic_id": "1-língua-portuguesa-1-compreensão-e-interpretação-de-textos-de-gêneros-variados_top_009",
+      "title": "Termos Absolutos",
+      "description": "Uso de palavras como 'sempre', 'nunca', 'apenas', 'somente', 'todo', 'qualquer'. Se o texto não for igualmente categórico, a assertiva é provavelmente falsa.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 3
+    },
+    {
+      "trap_id": "1-língua-portuguesa-1-compreensão-e-interpretação-de-textos-de-gêneros-variados_peg_004",
+      "material_id": "1-língua-portuguesa-1-compreensão-e-interpretação-de-textos-de-gêneros-variados",
+      "topic_id": "1-língua-portuguesa-1-compreensão-e-interpretação-de-textos-de-gêneros-variados_top_009",
+      "title": "Contradição ou Inversão de Sentido",
+      "description": "Apresentar uma ideia oposta ao que o texto afirma ou inverter a relação de causa e consequência.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 4
+    },
+    {
+      "trap_id": "1-língua-portuguesa-1-compreensão-e-interpretação-de-textos-de-gêneros-variados_peg_005",
+      "material_id": "1-língua-portuguesa-1-compreensão-e-interpretação-de-textos-de-gêneros-variados",
+      "topic_id": "1-língua-portuguesa-1-compreensão-e-interpretação-de-textos-de-gêneros-variados_top_009",
+      "title": "Confusão entre Fato e Opinião",
+      "description": "Apresentar uma opinião como se fosse um fato ou vice-versa, ou atribuir ao autor uma opinião que não está explicitamente expressa.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 5
+    }
+  ],
+  "pontos_memorizacao": [
+    {
+      "memory_id": "1-língua-portuguesa-1-compreensão-e-interpretação-de-textos-de-gêneros-variados_mem_001",
+      "material_id": "1-língua-portuguesa-1-compreensão-e-interpretação-de-textos-de-gêneros-variados",
+      "topic_id": "1-língua-portuguesa-1-compreensão-e-interpretação-de-textos-de-gêneros-variados_top_010",
+      "title": "Foco no Texto",
+      "content": "",
+      "order": 1
+    },
+    {
+      "memory_id": "1-língua-portuguesa-1-compreensão-e-interpretação-de-textos-de-gêneros-variados_mem_002",
+      "material_id": "1-língua-portuguesa-1-compreensão-e-interpretação-de-textos-de-gêneros-variados",
+      "topic_id": "1-língua-portuguesa-1-compreensão-e-interpretação-de-textos-de-gêneros-variados_top_010",
+      "title": "Cuidado com os 'Sempre' e 'Nunca'",
+      "content": "",
+      "order": 2
+    },
+    {
+      "memory_id": "1-língua-portuguesa-1-compreensão-e-interpretação-de-textos-de-gêneros-variados_mem_003",
+      "material_id": "1-língua-portuguesa-1-compreensão-e-interpretação-de-textos-de-gêneros-variados",
+      "topic_id": "1-língua-portuguesa-1-compreensão-e-interpretação-de-textos-de-gêneros-variados_top_007",
+      "title": "Coesão ≠ Mesmo Sentido",
+      "content": "",
+      "order": 3
+    },
+    {
+      "memory_id": "1-língua-portuguesa-1-compreensão-e-interpretação-de-textos-de-gêneros-variados_mem_004",
+      "material_id": "1-língua-portuguesa-1-compreensão-e-interpretação-de-textos-de-gêneros-variados",
+      "topic_id": "1-língua-portuguesa-1-compreensão-e-interpretação-de-textos-de-gêneros-variados_top_008",
+      "title": "Reescrita: Gramática + Sentido",
+      "content": "",
+      "order": 4
+    }
+  ],
+  "quadro_sinotico_itens": [],
+  "questoes": [
+    {
+      "question_id": "1-língua-portuguesa-1-compreensão-e-interpretação-de-textos-de-gêneros-variados_qst_001",
+      "material_id": "1-língua-portuguesa-1-compreensão-e-interpretação-de-textos-de-gêneros-variados",
+      "topic_id": "1-língua-portuguesa-1-compreensão-e-interpretação-de-textos-de-gêneros-variados_top_002",
+      "board": "CEBRASPE",
+      "year": "202X",
+      "organization": null,
+      "role": null,
+      "statement": "Texto base para as questões 1 a 8:\n\n**A Importância da Leitura na Era Digital**\n\nNo cenário contemporâneo, a leitura assume um papel ainda mais crucial, embora suas formas e hábitos tenham se transformado drasticamente com o advento da era digital. A proliferação de informações em plataformas online, muitas vezes fragmentadas e superficiais, desafia a capacidade do indivíduo de processar e interpretar criticamente o conteúdo. Contudo, a leitura aprofundada de textos mais longos e complexos permanece essencial para o desenvolvimento do pensamento crítico, da empatia e da construção de conhecimento sólido. É nesse contexto que a escola e a família devem atuar, incentivando práticas de leitura que transcendam a mera decodificação de palavras, promovendo o engajamento com diferentes gêneros textuais e a reflexão sobre as ideias apresentadas. A leitura, portanto, não é apenas um meio de acesso à informação, mas uma ferramenta poderosa para a formação de cidadãos conscientes e participativos.",
+      "item_text": "1. Infere-se do texto que a leitura de textos fragmentados e superficiais na internet é, por si só, prejudicial ao desenvolvimento do pensamento crítico.",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "E",
+      "difficulty": "Média",
+      "external_reference": null,
+      "commentary": "O texto afirma que a proliferação de informações fragmentadas 'desafia a capacidade do indivíduo de processar e interpretar criticamente o conteúdo', mas não diz que é *por si só prejudicial*. A questão extrapola ao usar o termo 'por si só', que confere um caráter absoluto não presente no texto. O texto sugere um *desafio*, não uma condenação absoluta. **Gabarito: Errado**",
+      "commentary_meta": {
+        "comment_ids": [
+          "1-língua-portuguesa-1-compreensão-e-interpretação-de-textos-de-gêneros-variados_com_001"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "1-língua-portuguesa-1-compreensão-e-interpretação-de-textos-de-gêneros-variados_qst_002",
+      "material_id": "1-língua-portuguesa-1-compreensão-e-interpretação-de-textos-de-gêneros-variados",
+      "topic_id": "1-língua-portuguesa-1-compreensão-e-interpretação-de-textos-de-gêneros-variados_top_007",
+      "board": "CEBRASPE",
+      "year": "202X",
+      "organization": null,
+      "role": null,
+      "statement": "Texto base para as questões 1 a 8:\n\n**A Importância da Leitura na Era Digital**\n\nNo cenário contemporâneo, a leitura assume um papel ainda mais crucial, embora suas formas e hábitos tenham se transformado drasticamente com o advento da era digital. A proliferação de informações em plataformas online, muitas vezes fragmentadas e superficiais, desafia a capacidade do indivíduo de processar e interpretar criticamente o conteúdo. Contudo, a leitura aprofundada de textos mais longos e complexos permanece essencial para o desenvolvimento do pensamento crítico, da empatia e da construção de conhecimento sólido. É nesse contexto que a escola e a família devem atuar, incentivando práticas de leitura que transcendam a mera decodificação de palavras, promovendo o engajamento com diferentes gêneros textuais e a reflexão sobre as ideias apresentadas. A leitura, portanto, não é apenas um meio de acesso à informação, mas uma ferramenta poderosa para a formação de cidadãos conscientes e participativos.",
+      "item_text": "2. A substituição da expressão 'Contudo' (terceiro período) por 'Por conseguinte' manteria a correção gramatical e o sentido original do texto.",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "E",
+      "difficulty": "Média",
+      "external_reference": null,
+      "commentary": "A conjunção 'Contudo' expressa uma ideia de *oposição* ou *adversidade* ('apesar disso', 'entretanto'). 'Por conseguinte' é uma conjunção conclusiva, que indica *consequência*. A substituição alteraria o sentido original do texto, que estabelece um contraste entre a proliferação de informações fragmentadas e a importância da leitura aprofundada. **Gabarito: Errado**",
+      "commentary_meta": {
+        "comment_ids": [
+          "1-língua-portuguesa-1-compreensão-e-interpretação-de-textos-de-gêneros-variados_com_002"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "1-língua-portuguesa-1-compreensão-e-interpretação-de-textos-de-gêneros-variados_qst_003",
+      "material_id": "1-língua-portuguesa-1-compreensão-e-interpretação-de-textos-de-gêneros-variados",
+      "topic_id": "1-língua-portuguesa-1-compreensão-e-interpretação-de-textos-de-gêneros-variados_top_006",
+      "board": "CEBRASPE",
+      "year": "202X",
+      "organization": null,
+      "role": null,
+      "statement": "Texto base para as questões 1 a 8:\n\n**A Importância da Leitura na Era Digital**\n\nNo cenário contemporâneo, a leitura assume um papel ainda mais crucial, embora suas formas e hábitos tenham se transformado drasticamente com o advento da era digital. A proliferação de informações em plataformas online, muitas vezes fragmentadas e superficiais, desafia a capacidade do indivíduo de processar e interpretar criticamente o conteúdo. Contudo, a leitura aprofundada de textos mais longos e complexos permanece essencial para o desenvolvimento do pensamento crítico, da empatia e da construção de conhecimento sólido. É nesse contexto que a escola e a família devem atuar, incentivando práticas de leitura que transcendam a mera decodificação de palavras, promovendo o engajamento com diferentes gêneros textuais e a reflexão sobre as ideias apresentadas. A leitura, portanto, não é apenas um meio de acesso à informação, mas uma ferramenta poderosa para a formação de cidadãos conscientes e participativos.",
+      "item_text": "3. O texto apresenta predominantemente características da tipologia dissertativo-argumentativa, uma vez que defende uma tese sobre a importância da leitura.",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "C",
+      "difficulty": "Fácil",
+      "external_reference": null,
+      "commentary": "O texto apresenta uma tese ('a leitura assume um papel ainda mais crucial') e a desenvolve com argumentos sobre a importância da leitura aprofundada e o papel da escola e da família. Ao final, reforça a tese ('A leitura, portanto, não é apenas um meio...'). Isso caracteriza a tipologia dissertativo-argumentativa. **Gabarito: Certo**",
+      "commentary_meta": {
+        "comment_ids": [
+          "1-língua-portuguesa-1-compreensão-e-interpretação-de-textos-de-gêneros-variados_com_003"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "1-língua-portuguesa-1-compreensão-e-interpretação-de-textos-de-gêneros-variados_qst_004",
+      "material_id": "1-língua-portuguesa-1-compreensão-e-interpretação-de-textos-de-gêneros-variados",
+      "topic_id": "1-língua-portuguesa-1-compreensão-e-interpretação-de-textos-de-gêneros-variados_top_008",
+      "board": "CEBRASPE",
+      "year": "202X",
+      "organization": null,
+      "role": null,
+      "statement": "Texto base para as questões 1 a 8:\n\n**A Importância da Leitura na Era Digital**\n\nNo cenário contemporâneo, a leitura assume um papel ainda mais crucial, embora suas formas e hábitos tenham se transformado drasticamente com o advento da era digital. A proliferação de informações em plataformas online, muitas vezes fragmentadas e superficiais, desafia a capacidade do indivíduo de processar e interpretar criticamente o conteúdo. Contudo, a leitura aprofundada de textos mais longos e complexos permanece essencial para o desenvolvimento do pensamento crítico, da empatia e da construção de conhecimento sólido. É nesse contexto que a escola e a família devem atuar, incentivando práticas de leitura que transcendam a mera decodificação de palavras, promovendo o engajamento com diferentes gêneros textuais e a reflexão sobre as ideias apresentadas. A leitura, portanto, não é apenas um meio de acesso à informação, mas uma ferramenta poderosa para a formação de cidadãos conscientes e participativos.",
+      "item_text": "4. O trecho 'A leitura, portanto, não é apenas um meio de acesso à informação, mas uma ferramenta poderosa para a formação de cidadãos conscientes e participativos.' poderia ser reescrito, sem prejuízo da correção gramatical e do sentido original, como: 'Não só um meio de acesso à informação é a leitura, mas também uma poderosa ferramenta para a formação de cidadãos conscientes e participativos.'",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "C",
+      "difficulty": "Média",
+      "external_reference": null,
+      "commentary": "A reescrita proposta utiliza a estrutura 'Não só... mas também...', que é equivalente semanticamente a 'não é apenas... mas...'. Ambas as construções expressam uma ideia aditiva e de ênfase, mantendo o sentido de que a leitura tem múltiplos propósitos. A correção gramatical também é preservada. **Gabarito: Certo**",
+      "commentary_meta": {
+        "comment_ids": [
+          "1-língua-portuguesa-1-compreensão-e-interpretação-de-textos-de-gêneros-variados_com_004"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "1-língua-portuguesa-1-compreensão-e-interpretação-de-textos-de-gêneros-variados_qst_005",
+      "material_id": "1-língua-portuguesa-1-compreensão-e-interpretação-de-textos-de-gêneros-variados",
+      "topic_id": "1-língua-portuguesa-1-compreensão-e-interpretação-de-textos-de-gêneros-variados_top_002",
+      "board": "CEBRASPE",
+      "year": "202X",
+      "organization": null,
+      "role": null,
+      "statement": "Texto base para as questões 1 a 8:\n\n**A Importância da Leitura na Era Digital**\n\nNo cenário contemporâneo, a leitura assume um papel ainda mais crucial, embora suas formas e hábitos tenham se transformado drasticamente com o advento da era digital. A proliferação de informações em plataformas online, muitas vezes fragmentadas e superficiais, desafia a capacidade do indivíduo de processar e interpretar criticamente o conteúdo. Contudo, a leitura aprofundada de textos mais longos e complexos permanece essencial para o desenvolvimento do pensamento crítico, da empatia e da construção de conhecimento sólido. É nesse contexto que a escola e a família devem atuar, incentivando práticas de leitura que transcendam a mera decodificação de palavras, promovendo o engajamento com diferentes gêneros textuais e a reflexão sobre as ideias apresentadas. A leitura, portanto, não é apenas um meio de acesso à informação, mas uma ferramenta poderosa para a formação de cidadãos conscientes e participativos.",
+      "item_text": "5. O texto defende que a era digital, ao transformar os hábitos de leitura, tornou a leitura aprofundada obsoleta para a formação de cidadãos.",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "E",
+      "difficulty": "Fácil",
+      "external_reference": null,
+      "commentary": "O texto afirma o oposto: 'a leitura aprofundada de textos mais longos e complexos *permanece essencial* para o desenvolvimento do pensamento crítico'. A era digital transformou os hábitos, mas não tornou a leitura aprofundada obsoleta; pelo contrário, reforçou sua importância. A questão contradiz o texto. **Gabarito: Errado**",
+      "commentary_meta": {
+        "comment_ids": [
+          "1-língua-portuguesa-1-compreensão-e-interpretação-de-textos-de-gêneros-variados_com_005"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "1-língua-portuguesa-1-compreensão-e-interpretação-de-textos-de-gêneros-variados_qst_006",
+      "material_id": "1-língua-portuguesa-1-compreensão-e-interpretação-de-textos-de-gêneros-variados",
+      "topic_id": "1-língua-portuguesa-1-compreensão-e-interpretação-de-textos-de-gêneros-variados_top_007",
+      "board": "CEBRASPE",
+      "year": "202X",
+      "organization": null,
+      "role": null,
+      "statement": "Texto base para as questões 1 a 8:\n\n**A Importância da Leitura na Era Digital**\n\nNo cenário contemporâneo, a leitura assume um papel ainda mais crucial, embora suas formas e hábitos tenham se transformado drasticamente com o advento da era digital. A proliferação de informações em plataformas online, muitas vezes fragmentadas e superficiais, desafia a capacidade do indivíduo de processar e interpretar criticamente o conteúdo. Contudo, a leitura aprofundada de textos mais longos e complexos permanece essencial para o desenvolvimento do pensamento crítico, da empatia e da construção de conhecimento sólido. É nesse contexto que a escola e a família devem atuar, incentivando práticas de leitura que transcendam a mera decodificação de palavras, promovendo o engajamento com diferentes gêneros textuais e a reflexão sobre as ideias apresentadas. A leitura, portanto, não é apenas um meio de acesso à informação, mas uma ferramenta poderosa para a formação de cidadãos conscientes e participativos.",
+      "item_text": "6. O pronome 'suas' (primeiro período) refere-se a 'leitura', e o pronome 'suas' (terceiro período) refere-se a 'informações'.",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "E",
+      "difficulty": "Média",
+      "external_reference": null,
+      "commentary": "O primeiro 'suas' (formas e hábitos) refere-se a 'leitura'. O segundo 'suas' (plataformas online, muitas vezes fragmentadas e superficiais) refere-se a 'informações'. A questão afirma que o segundo 'suas' refere-se a 'informações', o que está correto. No entanto, o primeiro 'suas' refere-se a 'leitura', não a 'informações'. A assertiva está parcialmente correta, mas o CEBRASPE exige que *toda* a assertiva esteja correta. O pronome 'suas' no terceiro período ('suas formas e hábitos') refere-se a 'informações', não a 'leitura'. O pronome 'suas' no primeiro período ('suas formas e hábitos') refere-se a 'leitura'. A questão inverte a referência do segundo 'suas'. **Gabarito: Errado**",
+      "commentary_meta": {
+        "comment_ids": [
+          "1-língua-portuguesa-1-compreensão-e-interpretação-de-textos-de-gêneros-variados_com_006"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "1-língua-portuguesa-1-compreensão-e-interpretação-de-textos-de-gêneros-variados_qst_007",
+      "material_id": "1-língua-portuguesa-1-compreensão-e-interpretação-de-textos-de-gêneros-variados",
+      "topic_id": "1-língua-portuguesa-1-compreensão-e-interpretação-de-textos-de-gêneros-variados_top_006",
+      "board": "CEBRASPE",
+      "year": "202X",
+      "organization": null,
+      "role": null,
+      "statement": "Texto base para as questões 1 a 8:\n\n**A Importância da Leitura na Era Digital**\n\nNo cenário contemporâneo, a leitura assume um papel ainda mais crucial, embora suas formas e hábitos tenham se transformado drasticamente com o advento da era digital. A proliferação de informações em plataformas online, muitas vezes fragmentadas e superficiais, desafia a capacidade do indivíduo de processar e interpretar criticamente o conteúdo. Contudo, a leitura aprofundada de textos mais longos e complexos permanece essencial para o desenvolvimento do pensamento crítico, da empatia e da construção de conhecimento sólido. É nesse contexto que a escola e a família devem atuar, incentivando práticas de leitura que transcendam a mera decodificação de palavras, promovendo o engajamento com diferentes gêneros textuais e a reflexão sobre as ideias apresentadas. A leitura, portanto, não é apenas um meio de acesso à informação, mas uma ferramenta poderosa para a formação de cidadãos conscientes e participativos.",
+      "item_text": "7. O trecho 'A proliferação de informações em plataformas online, muitas vezes fragmentadas e superficiais, desafia a capacidade do indivíduo de processar e interpretar criticamente o conteúdo.' possui caráter predominantemente descritivo.",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "C",
+      "difficulty": "Média",
+      "external_reference": null,
+      "commentary": "O trecho em questão detalha as características das informações em plataformas online ('fragmentadas e superficiais') e o efeito que isso causa ('desafia a capacidade...'). Essa descrição de características e o impacto que elas geram conferem ao trecho um caráter predominantemente descritivo. **Gabarito: Certo**",
+      "commentary_meta": {
+        "comment_ids": [
+          "1-língua-portuguesa-1-compreensão-e-interpretação-de-textos-de-gêneros-variados_com_007"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "1-língua-portuguesa-1-compreensão-e-interpretação-de-textos-de-gêneros-variados_qst_008",
+      "material_id": "1-língua-portuguesa-1-compreensão-e-interpretação-de-textos-de-gêneros-variados",
+      "topic_id": "1-língua-portuguesa-1-compreensão-e-interpretação-de-textos-de-gêneros-variados_top_008",
+      "board": "CEBRASPE",
+      "year": "202X",
+      "organization": null,
+      "role": null,
+      "statement": "Texto base para as questões 1 a 8:\n\n**A Importância da Leitura na Era Digital**\n\nNo cenário contemporâneo, a leitura assume um papel ainda mais crucial, embora suas formas e hábitos tenham se transformado drasticamente com o advento da era digital. A proliferação de informações em plataformas online, muitas vezes fragmentadas e superficiais, desafia a capacidade do indivíduo de processar e interpretar criticamente o conteúdo. Contudo, a leitura aprofundada de textos mais longos e complexos permanece essencial para o desenvolvimento do pensamento crítico, da empatia e da construção de conhecimento sólido. É nesse contexto que a escola e a família devem atuar, incentivando práticas de leitura que transcendam a mera decodificação de palavras, promovendo o engajamento com diferentes gêneros textuais e a reflexão sobre as ideias apresentadas. A leitura, portanto, não é apenas um meio de acesso à informação, mas uma ferramenta poderosa para a formação de cidadãos conscientes e participativos.",
+      "item_text": "8. A oração 'embora suas formas e hábitos tenham se transformado drasticamente com o advento da era digital' (primeiro período) expressa uma ideia de causa em relação à oração principal.",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "E",
+      "difficulty": "Difícil",
+      "external_reference": null,
+      "commentary": "A conjunção 'embora' introduz uma oração subordinada adverbial concessiva, que expressa uma ideia de *concessão* ou *oposição* (ainda que, conquanto), e não de causa. A oração principal ('a leitura assume um papel ainda mais crucial') e a subordinada ('embora suas formas e hábitos tenham se transformado...') apresentam ideias que se contrapõem, mas não uma relação de causa e efeito. **Gabarito: Errado**",
+      "commentary_meta": {
+        "comment_ids": [
+          "1-língua-portuguesa-1-compreensão-e-interpretação-de-textos-de-gêneros-variados_com_008"
+        ],
+        "count": 1
+      }
+    }
+  ],
+  "comentarios_questoes": [
+    {
+      "comment_id": "1-língua-portuguesa-1-compreensão-e-interpretação-de-textos-de-gêneros-variados_com_001",
+      "question_id": "1-língua-portuguesa-1-compreensão-e-interpretação-de-textos-de-gêneros-variados_qst_001",
+      "content": "O texto afirma que a proliferação de informações fragmentadas 'desafia a capacidade do indivíduo de processar e interpretar criticamente o conteúdo', mas não diz que é *por si só prejudicial*. A questão extrapola ao usar o termo 'por si só', que confere um caráter absoluto não presente no texto. O texto sugere um *desafio*, não uma condenação absoluta. **Gabarito: Errado**",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "1-língua-portuguesa-1-compreensão-e-interpretação-de-textos-de-gêneros-variados_com_002",
+      "question_id": "1-língua-portuguesa-1-compreensão-e-interpretação-de-textos-de-gêneros-variados_qst_002",
+      "content": "A conjunção 'Contudo' expressa uma ideia de *oposição* ou *adversidade* ('apesar disso', 'entretanto'). 'Por conseguinte' é uma conjunção conclusiva, que indica *consequência*. A substituição alteraria o sentido original do texto, que estabelece um contraste entre a proliferação de informações fragmentadas e a importância da leitura aprofundada. **Gabarito: Errado**",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "1-língua-portuguesa-1-compreensão-e-interpretação-de-textos-de-gêneros-variados_com_003",
+      "question_id": "1-língua-portuguesa-1-compreensão-e-interpretação-de-textos-de-gêneros-variados_qst_003",
+      "content": "O texto apresenta uma tese ('a leitura assume um papel ainda mais crucial') e a desenvolve com argumentos sobre a importância da leitura aprofundada e o papel da escola e da família. Ao final, reforça a tese ('A leitura, portanto, não é apenas um meio...'). Isso caracteriza a tipologia dissertativo-argumentativa. **Gabarito: Certo**",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "1-língua-portuguesa-1-compreensão-e-interpretação-de-textos-de-gêneros-variados_com_004",
+      "question_id": "1-língua-portuguesa-1-compreensão-e-interpretação-de-textos-de-gêneros-variados_qst_004",
+      "content": "A reescrita proposta utiliza a estrutura 'Não só... mas também...', que é equivalente semanticamente a 'não é apenas... mas...'. Ambas as construções expressam uma ideia aditiva e de ênfase, mantendo o sentido de que a leitura tem múltiplos propósitos. A correção gramatical também é preservada. **Gabarito: Certo**",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "1-língua-portuguesa-1-compreensão-e-interpretação-de-textos-de-gêneros-variados_com_005",
+      "question_id": "1-língua-portuguesa-1-compreensão-e-interpretação-de-textos-de-gêneros-variados_qst_005",
+      "content": "O texto afirma o oposto: 'a leitura aprofundada de textos mais longos e complexos *permanece essencial* para o desenvolvimento do pensamento crítico'. A era digital transformou os hábitos, mas não tornou a leitura aprofundada obsoleta; pelo contrário, reforçou sua importância. A questão contradiz o texto. **Gabarito: Errado**",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "1-língua-portuguesa-1-compreensão-e-interpretação-de-textos-de-gêneros-variados_com_006",
+      "question_id": "1-língua-portuguesa-1-compreensão-e-interpretação-de-textos-de-gêneros-variados_qst_006",
+      "content": "O primeiro 'suas' (formas e hábitos) refere-se a 'leitura'. O segundo 'suas' (plataformas online, muitas vezes fragmentadas e superficiais) refere-se a 'informações'. A questão afirma que o segundo 'suas' refere-se a 'informações', o que está correto. No entanto, o primeiro 'suas' refere-se a 'leitura', não a 'informações'. A assertiva está parcialmente correta, mas o CEBRASPE exige que *toda* a assertiva esteja correta. O pronome 'suas' no terceiro período ('suas formas e hábitos') refere-se a 'informações', não a 'leitura'. O pronome 'suas' no primeiro período ('suas formas e hábitos') refere-se a 'leitura'. A questão inverte a referência do segundo 'suas'. **Gabarito: Errado**",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "1-língua-portuguesa-1-compreensão-e-interpretação-de-textos-de-gêneros-variados_com_007",
+      "question_id": "1-língua-portuguesa-1-compreensão-e-interpretação-de-textos-de-gêneros-variados_qst_007",
+      "content": "O trecho em questão detalha as características das informações em plataformas online ('fragmentadas e superficiais') e o efeito que isso causa ('desafia a capacidade...'). Essa descrição de características e o impacto que elas geram conferem ao trecho um caráter predominantemente descritivo. **Gabarito: Certo**",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "1-língua-portuguesa-1-compreensão-e-interpretação-de-textos-de-gêneros-variados_com_008",
+      "question_id": "1-língua-portuguesa-1-compreensão-e-interpretação-de-textos-de-gêneros-variados_qst_008",
+      "content": "A conjunção 'embora' introduz uma oração subordinada adverbial concessiva, que expressa uma ideia de *concessão* ou *oposição* (ainda que, conquanto), e não de causa. A oração principal ('a leitura assume um papel ainda mais crucial') e a subordinada ('embora suas formas e hábitos tenham se transformado...') apresentam ideias que se contrapõem, mas não uma relação de causa e efeito. **Gabarito: Errado**",
+      "explanation_alternatives": ""
+    }
+  ],
+  "checklist_revisao": [
+    {
+      "checklist_id": "1-língua-portuguesa-1-compreensão-e-interpretação-de-textos-de-gêneros-variados_chk_001",
+      "material_id": "1-língua-portuguesa-1-compreensão-e-interpretação-de-textos-de-gêneros-variados",
+      "topic_id": "1-língua-portuguesa-1-compreensão-e-interpretação-de-textos-de-gêneros-variados_top_001",
+      "item_text": "Diferenciar compreensão (explícito) de interpretação (implícito).",
+      "completed": false,
+      "order": 1
+    },
+    {
+      "checklist_id": "1-língua-portuguesa-1-compreensão-e-interpretação-de-textos-de-gêneros-variados_chk_002",
+      "material_id": "1-língua-portuguesa-1-compreensão-e-interpretação-de-textos-de-gêneros-variados",
+      "topic_id": "1-língua-portuguesa-1-compreensão-e-interpretação-de-textos-de-gêneros-variados_top_009",
+      "item_text": "Identificar e evitar pegadinhas de extrapolação, redução e termos absolutos.",
+      "completed": false,
+      "order": 2
+    },
+    {
+      "checklist_id": "1-língua-portuguesa-1-compreensão-e-interpretação-de-textos-de-gêneros-variados_chk_003",
+      "material_id": "1-língua-portuguesa-1-compreensão-e-interpretação-de-textos-de-gêneros-variados",
+      "topic_id": "1-língua-portuguesa-1-compreensão-e-interpretação-de-textos-de-gêneros-variados_top_007",
+      "item_text": "Analisar a coesão e coerência, atentando para a manutenção do sentido em substituições.",
+      "completed": false,
+      "order": 3
+    },
+    {
+      "checklist_id": "1-língua-portuguesa-1-compreensão-e-interpretação-de-textos-de-gêneros-variados_chk_004",
+      "material_id": "1-língua-portuguesa-1-compreensão-e-interpretação-de-textos-de-gêneros-variados",
+      "topic_id": "1-língua-portuguesa-1-compreensão-e-interpretação-de-textos-de-gêneros-variados_top_006",
+      "item_text": "Reconhecer as principais tipologias e gêneros textuais.",
+      "completed": false,
+      "order": 4
+    },
+    {
+      "checklist_id": "1-língua-portuguesa-1-compreensão-e-interpretação-de-textos-de-gêneros-variados_chk_005",
+      "material_id": "1-língua-portuguesa-1-compreensão-e-interpretação-de-textos-de-gêneros-variados",
+      "topic_id": "1-língua-portuguesa-1-compreensão-e-interpretação-de-textos-de-gêneros-variados_top_008",
+      "item_text": "Verificar correção gramatical e manutenção de sentido em questões de reescrita.",
+      "completed": false,
+      "order": 5
+    },
+    {
+      "checklist_id": "1-língua-portuguesa-1-compreensão-e-interpretação-de-textos-de-gêneros-variados_chk_006",
+      "material_id": "1-língua-portuguesa-1-compreensão-e-interpretação-de-textos-de-gêneros-variados",
+      "topic_id": "1-língua-portuguesa-1-compreensão-e-interpretação-de-textos-de-gêneros-variados_top_010",
+      "item_text": "Praticar com questões anteriores do CEBRASPE para internalizar o padrão da banca.",
+      "completed": false,
+      "order": 6
+    }
+  ],
+  "referencias": [
+    {
+      "reference_id": "1-língua-portuguesa-1-compreensão-e-interpretação-de-textos-de-gêneros-variados_ref_001",
+      "material_id": "1-língua-portuguesa-1-compreensão-e-interpretação-de-textos-de-gêneros-variados",
+      "reference_type": "Livro",
+      "author_name": "Pestana, Fernando",
+      "title": "A Gramática para Concursos Públicos",
+      "publisher": "Editora Método",
+      "year_reference": "2022",
+      "isbn": null,
+      "url": null,
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "1-língua-portuguesa-1-compreensão-e-interpretação-de-textos-de-gêneros-variados_ref_002",
+      "material_id": "1-língua-portuguesa-1-compreensão-e-interpretação-de-textos-de-gêneros-variados",
+      "reference_type": "Livro",
+      "author_name": "Bechara, Evanildo",
+      "title": "Moderna Gramática Portuguesa",
+      "publisher": "Nova Fronteira",
+      "year_reference": "2019",
+      "isbn": null,
+      "url": null,
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "1-língua-portuguesa-1-compreensão-e-interpretação-de-textos-de-gêneros-variados_ref_003",
+      "material_id": "1-língua-portuguesa-1-compreensão-e-interpretação-de-textos-de-gêneros-variados",
+      "reference_type": "Livro",
+      "author_name": "Figueiredo, Adriana; Figueiredo, Fernando",
+      "title": "Gramática Comentada com Interpretação de Textos",
+      "publisher": "Editora Campus / Elsevier",
+      "year_reference": "2014",
+      "isbn": null,
+      "url": null,
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "1-língua-portuguesa-1-compreensão-e-interpretação-de-textos-de-gêneros-variados_ref_004",
+      "material_id": "1-língua-portuguesa-1-compreensão-e-interpretação-de-textos-de-gêneros-variados",
+      "reference_type": "Livro",
+      "author_name": "Cunha, Celso; Cintra, Lindley",
+      "title": "Nova Gramática do Português Contemporâneo",
+      "publisher": "Lexikon",
+      "year_reference": "2016",
+      "isbn": null,
+      "url": null,
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "1-língua-portuguesa-1-compreensão-e-interpretação-de-textos-de-gêneros-variados_ref_005",
+      "material_id": "1-língua-portuguesa-1-compreensão-e-interpretação-de-textos-de-gêneros-variados",
+      "reference_type": "Artigo Online",
+      "author_name": "Estratégia Concursos",
+      "title": "Interpretação de textos para o Cespe/Cebraspe: Como melhorar?",
+      "publisher": "Estratégia Concursos",
+      "year_reference": "2020",
+      "isbn": null,
+      "url": "https://www.estrategiaconcursos.com.br/blog/interpretacao-de-textos-para-o-cespe-cebraspe/",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "1-língua-portuguesa-1-compreensão-e-interpretação-de-textos-de-gêneros-variados_ref_006",
+      "material_id": "1-língua-portuguesa-1-compreensão-e-interpretação-de-textos-de-gêneros-variados",
+      "reference_type": "Artigo Online",
+      "author_name": "Soma Concursos",
+      "title": "Pegadinhas da banca Cebraspe: como identificar?",
+      "publisher": "Soma Concursos",
+      "year_reference": "2025",
+      "isbn": null,
+      "url": "https://somaconcursos.com.br/blog/pegadinhas-da-banca-cebraspe-como-identificar/",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "1-língua-portuguesa-1-compreensão-e-interpretação-de-textos-de-gêneros-variados_ref_007",
+      "material_id": "1-língua-portuguesa-1-compreensão-e-interpretação-de-textos-de-gêneros-variados",
+      "reference_type": "Plataforma de Questões",
+      "author_name": "Qconcursos.com",
+      "title": "Questões de Concurso sobre Interpretação de Textos em Português para CESPE / CEBRASPE",
+      "publisher": "Qconcursos.com",
+      "year_reference": "2026",
+      "isbn": null,
+      "url": "https://www.qconcursos.com/questoes-de-concursos/disciplinas/lingua-portuguesa/compreensao-e-interpretacao-de-textos/banca/cespe-cebraspe",
+      "accessed_at": null,
+      "description": null
+    }
+  ],
+  "estatisticas_de_geracao": {
+    "total_topicos": 10,
+    "total_componentes_topico": 7,
+    "total_entendimentos_relevantes": 3,
+    "total_pegadinhas": 5,
+    "total_pontos_memorizacao": 4,
+    "total_itens_quadro_sinotico": 0,
+    "total_questoes": 8,
+    "total_comentarios_questoes": 8,
+    "total_itens_checklist": 6,
+    "total_referencias": 7
+  },
+  "validacao_interna": {
+    "pesquisa_previa_realizada": true,
+    "analise_de_cobrancas_anteriores_realizada": true,
+    "material_atualizado": true,
+    "json_valido": true,
+    "estrutura_relacional_respeitada": true,
+    "numeracao_respeitada": true,
+    "houve_quebra_de_hierarquia": false,
+    "houve_nivel_numerico_superior_a_3": false,
+    "fontes_verificadas": true,
+    "sem_informacao_inventada": true
+  },
+  "metadata": {
+    "source_file_name": "1__língua-portuguesa__1-compreensão-e-interpretação-de-textos-de-gêneros-variados.json",
+    "normalized_checksum": "c1bfe7fc10236245b967223c66a56af90c65788c1ef24031a61ecd31a994586f",
+    "subject_slug": "portugues",
+    "material_slug": "compreensao-e-interpretacao-de-textos",
+    "title_slug": "compreensao-e-interpretacao-de-textos-para",
+    "board_slug": "cebraspe",
+    "counters": {
+      "blocks": 4,
+      "topics": 10,
+      "topic_components": 7,
+      "traps": 5,
+      "memory_points": 4,
+      "summary_items": 0,
+      "questions": 8,
+      "question_comments": 8,
+      "checklist_items": 6,
+      "references": 7
+    }
+  }
+}

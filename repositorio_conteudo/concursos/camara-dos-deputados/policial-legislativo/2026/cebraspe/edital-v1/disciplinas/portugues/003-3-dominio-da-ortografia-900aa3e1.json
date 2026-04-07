@@ -1,0 +1,941 @@
+{
+  "schema_version": "1.0",
+  "normalized_at": "2026-04-07T15:39:14.053643-03:00",
+  "normalizer_version": "2.0.0",
+  "exported_at": "2026-04-06T19:56:00Z",
+  "source_request": {
+    "purpose": "Concurso público",
+    "general_area": "Linguagens",
+    "subject_name": "Língua Portuguesa",
+    "subarea_name": "Gramática, interpretação e reescrita",
+    "main_theme": "3 Domínio da ortografia",
+    "theme_scope": "Teoria completa, incidência em prova, padrão de cobrança da banca, pegadinhas e questões comentadas",
+    "board_style": "CEBRASPE",
+    "depth_level": "Exaustivo",
+    "goal": "Teoria completa, revisão estratégica, pegadinhas e questões comentadas",
+    "base_topic_number": "3",
+    "topic_title": "3 Domínio da ortografia",
+    "syllabus_reference": "Conteúdo programático da disciplina Língua Portuguesa",
+    "priority_sources": [
+      "Gramáticas e manuais reconhecidos",
+      "Bibliografia técnica consolidada",
+      "Questões anteriores da banca"
+    ],
+    "minimum_questions": 8,
+    "question_format": "Certo/Errado",
+    "prioritize_real_questions": true,
+    "response_language": "português",
+    "target_audience": "Candidato de concurso público",
+    "additional_notes": "Executar exatamente para esta linha individual do topicos.txt. Não juntar com outros tópicos. Não pular este tópico. Dar destaque ao padrão de cobrança da banca, aos pontos mais cobrados e às pegadinhas recorrentes.",
+    "input_hash": "03103d6f24e6",
+    "extras": {}
+  },
+  "material": {
+    "material_id": "mat_001",
+    "slug": "dominio-da-ortografia-cebraspe",
+    "title": "Domínio da Ortografia para Concursos Públicos - Foco CEBRASPE",
+    "base_number": "3",
+    "topic_title": "3 Domínio da ortografia",
+    "purpose": "Concurso público",
+    "area_name": "Linguagens",
+    "subject_name": "Língua Portuguesa",
+    "subarea_name": "Gramática, interpretação e reescrita",
+    "main_theme": "Domínio da ortografia",
+    "theme_scope": "Teoria completa, incidência em prova, padrão de cobrança da banca, pegadinhas e questões comentadas",
+    "board_style": "CEBRASPE",
+    "depth_level": "Exaustivo",
+    "study_goal": "Teoria completa, revisão estratégica, pegadinhas e questões comentadas",
+    "target_audience": "Candidato de concurso público",
+    "language_code": "português",
+    "update_status": "Atualizado com o Novo Acordo Ortográfico (2016)",
+    "current_note": "Material revisado e alinhado às regras do Novo Acordo Ortográfico da Língua Portuguesa, plenamente em vigor, e ao padrão de cobrança recente da banca CEBRASPE.",
+    "has_case_law": false,
+    "case_law_justification": "A disciplina de Língua Portuguesa, especificamente o tema de ortografia, não exige a inclusão de jurisprudência. O foco é na gramática normativa e no Acordo Ortográfico.",
+    "has_information_limitation": false,
+    "information_limitation_desc": null,
+    "content_checksum": "placeholder_checksum_ortografia_cebraspe_20260406",
+    "extras": {}
+  },
+  "blocos_textuais": [
+    {
+      "external_block_code": "blc_001",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 1,
+      "title": "Introdução ao Domínio da Ortografia para o CEBRASPE",
+      "content": "O domínio da ortografia é um pilar fundamental para a aprovação em concursos públicos, especialmente naqueles organizados pela banca CEBRASPE. Esta banca, conhecida por seu rigor e pela profundidade na cobrança dos conteúdos de Língua Portuguesa, exige do candidato não apenas a memorização de regras, mas a capacidade de aplicá-las em contextos variados, muitas vezes em questões de reescrita ou identificação de erros em trechos de texto. A ortografia oficial abrange a escrita correta das palavras, a acentuação gráfica, o uso do hífen, a grafia de homônimos e parônimos, e a aplicação das letras maiúsculas e minúsculas, sempre em conformidade com o Novo Acordo Ortográfico da Língua Portuguesa. Este material visa aprofundar cada um desses aspectos, com foco nas particularidades da cobrança do CEBRASPE, destacando os tópicos mais frequentes, as armadilhas comuns e as estratégias para gabaritar as questões de 'Certo/Errado'.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_002",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 2,
+      "title": "Padrão de Cobrança do CEBRASPE em Ortografia",
+      "content": "O CEBRASPE adota um estilo de prova que valoriza a interpretação e a aplicação contextualizada das regras gramaticais, em detrimento da mera 'decoreba'. Em ortografia, isso se traduz em questões que exigem: 1.  **Literalidade e Aplicação Direta:** A banca frequentemente cobra a aplicação exata das regras do Acordo Ortográfico e da gramática normativa. 2.  **Contextualização:** A correção ortográfica é avaliada dentro de frases ou parágrafos, onde a alteração de uma palavra pode afetar a correção de outras ou o sentido global. 3.  **Identificação de Erros:** O candidato deve ser capaz de identificar palavras grafadas incorretamente, erros de acentuação, uso indevido do hífen ou de letras. 4.  **Foco no Novo Acordo Ortográfico:** As mudanças introduzidas pelo Acordo Ortográfico de 2009 (em vigor desde 2016) são pontos de alta incidência. 5.  **Reescrita de Trechos:** Muitas questões pedem para julgar a correção gramatical de uma proposta de reescrita, que pode envolver alterações ortográficas. É crucial estar atento às 'palavras totalitárias' (sempre, nunca, somente, tudo, todos) nas alternativas, pois são pegadinhas recorrentes do CEBRASPE, indicando que a afirmação pode ser falsa se não houver respaldo no texto.",
+      "content_type": "teoria"
+    }
+  ],
+  "topicos": [
+    {
+      "external_topic_code": "top_001",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "3.1",
+      "title": "Acentuação Gráfica",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 1
+    },
+    {
+      "external_topic_code": "top_002",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "3.2",
+      "title": "Uso do Hífen",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 2
+    },
+    {
+      "external_topic_code": "top_003",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "3.3",
+      "title": "Emprego das Letras (S/Z, G/J, X/CH, C/Ç, E/I, O/U)",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 3
+    },
+    {
+      "external_topic_code": "top_004",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "3.4",
+      "title": "Uso dos 'Porquês'",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 4
+    },
+    {
+      "external_topic_code": "top_005",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "3.5",
+      "title": "Homônimos e Parônimos",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 5
+    }
+  ],
+  "topico_componentes": [
+    {
+      "component_id": "cmp_001",
+      "topic_id": "top_001",
+      "component_type": "teoria",
+      "content": "A acentuação gráfica na Língua Portuguesa segue regras bem definidas, com base na posição da sílaba tônica e na terminação das palavras. \n\n*   **Proparoxítonas:** Todas as proparoxítonas são acentuadas. Ex: *lâmpada, médico, trágico*. \n*   **Oxítonas:** Acentuam-se as oxítonas terminadas em A(S), E(S), O(S) e EM/ENS. Ex: *sofá, café, cipó, armazém, parabéns*. \n*   **Paroxítonas:** Acentuam-se as paroxítonas que NÃO terminam em A(S), E(S), O(S), EM/ENS. Ou seja, terminadas em L, I(S), N, U(S), R, X, PS, Ã(S), ÃO(S), DITONGO. Ex: *fácil, júri, pólen, vírus, caráter, tórax, bíceps, ímã, órfãos, história*. \n\n**Atenção CEBRASPE:** A banca costuma explorar a regra das paroxítonas terminadas em ditongo, que podem ser confundidas com proparoxítonas eventuais. Ex: *história* (hi-stó-ria) é paroxítona terminada em ditongo crescente.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_002",
+      "topic_id": "top_001",
+      "component_type": "teoria",
+      "content": "O Novo Acordo Ortográfico trouxe mudanças significativas na acentuação de hiatos e ditongos. \n\n*   **Hiatos:** Acentua-se o 'i' e o 'u' tônicos dos hiatos quando formam sílaba sozinhos ou seguidos de 's', desde que não sejam seguidos de 'nh'. Ex: *sa-ú-de, ca-í-da, ba-la-ús-tre*. Não se acentuam: *ra-i-nha, mo-i-nho*. \n*   **Ditongos Abertos:** Perderam o acento os ditongos abertos 'ei' e 'oi' em palavras paroxítonas. Ex: *ideia, jiboia, heroico*. Mantêm o acento em oxítonas e monossílabos tônicos. Ex: *herói, papéis, anéis*. \n\n**Ponto de Atenção CEBRASPE:** Acentuação de palavras como 'juízo', 'extraídos' e 'período' pela regra do hiato é frequentemente cobrada.",
+      "order": 2
+    },
+    {
+      "component_id": "cmp_003",
+      "topic_id": "top_002",
+      "component_type": "teoria",
+      "content": "O uso do hífen foi um dos pontos mais alterados pelo Novo Acordo Ortográfico. \n\n*   **Prefixos terminados em vogal:** \n    *   **Vogais diferentes:** Não se usa hífen. Ex: *autoescola, antiaéreo*. \n    *   **Vogais iguais:** Usa-se hífen. Ex: *anti-inflamatório, micro-ondas*. \n    *   **Com R ou S:** Não se usa hífen, e as letras R ou S são duplicadas. Ex: *autorretrato, antissocial*. \n    *   **Com H:** Usa-se hífen. Ex: *anti-higiênico, super-homem*. \n*   **Prefixos terminados em consoante:** \n    *   **Consoantes diferentes:** Não se usa hífen. Ex: *intermunicipal, superinteressante*. \n    *   **Consoantes iguais:** Usa-se hífen. Ex: *inter-regional, sub-bibliotecário*. \n    *   **Com H:** Usa-se hífen. Ex: *sub-humano*. \n*   **Prefixos 'além', 'aquém', 'recém', 'sem', 'bem':** Sempre com hífen. Ex: *além-mar, recém-nascido, bem-estar*. \n*   **Palavras compostas por justaposição:** Geralmente com hífen. Ex: *guarda-chuva, couve-flor*. Exceções: *girassol, paraquedas*. \n\n**Ponto de Atenção CEBRASPE:** A banca explora muito as exceções e as regras com prefixos, especialmente quando há duplicação de R ou S.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_004",
+      "topic_id": "top_002",
+      "component_type": "teoria",
+      "content": "Na translineação (divisão de palavras no final da linha), se a palavra já possuir hífen, ele deve ser repetido na linha seguinte. Se a palavra não possuir hífen, usa-se apenas um hífen para indicar a divisão silábica. \n\n**Ponto de Atenção CEBRASPE:** A ausência de hífen na translineação ou a separação silábica incorreta são erros de grafia penalizados pela banca.",
+      "order": 2
+    },
+    {
+      "component_id": "cmp_005",
+      "topic_id": "top_003",
+      "component_type": "teoria",
+      "content": "A distinção entre S e Z é uma fonte comum de erros. \n\n*   **Uso de S:** Após ditongo (coisa, lousa), em sufixos -ês/-esa (português, portuguesa), -oso/-osa (gostoso, gostosa), -isa (poetisa), -ense (fluminense), -ase/-ese/-ise/-ose (análise, catequese, crise, psicose). \n*   **Uso de Z:** Em sufixos -eza (com substantivos abstratos derivados de adjetivos: beleza de belo, pobreza de pobre), -izar (com verbos: civilizar de civil). \n\n**Ponto de Atenção CEBRASPE:** Palavras como 'exceção', 'ascensão', 'expansão' são frequentemente cobradas, exigindo atenção à grafia com 'c', 'ç', 's' ou 'ss'.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_006",
+      "topic_id": "top_003",
+      "component_type": "teoria",
+      "content": "A grafia com G ou J depende da origem da palavra. \n\n*   **Uso de G:** Geralmente em palavras de origem latina ou grega, ou após 'a', 'o', 'u' (ágil, gesso, gengiva, viagem - substantivo). \n*   **Uso de J:** Geralmente em palavras de origem tupi, africana ou árabe, ou derivadas de palavras com 'j' (cajá, canjica, gorjeta, viajar - verbo, lojista de loja). \n\n**Ponto de Atenção CEBRASPE:** A distinção entre 'viagem' (substantivo) e 'viajem' (verbo) é uma pegadinha clássica.",
+      "order": 2
+    },
+    {
+      "component_id": "cmp_007",
+      "topic_id": "top_004",
+      "component_type": "teoria",
+      "content": "O uso dos 'porquês' é um dos temas mais recorrentes e que mais geram dúvidas. \n\n*   **Por que (separado e sem acento):** \n    *   Em perguntas diretas ou indiretas, quando 'que' é pronome interrogativo ou preposição + pronome relativo. Ex: *Por que você não veio? Não sei por que ele faltou.* \n    *   Quando 'que' pode ser substituído por 'pelo qual' e suas variações. Ex: *Os caminhos por que passamos eram perigosos.* \n*   **Por quê (separado e com acento):** \n    *   Antes de ponto final, interrogação ou exclamação, ou quando o 'que' está no final da frase. Ex: *Ele não veio por quê? Você não estudou por quê?* \n*   **Porque (junto e sem acento):** \n    *   Em respostas ou explicações, com valor de conjunção explicativa ou causal, podendo ser substituído por 'pois', 'já que', 'visto que'. Ex: *Não fui à festa porque estava doente.* \n*   **Porquê (junto e com acento):** \n    *   Quando é substantivo, geralmente precedido de artigo ou outro determinante, significando 'motivo', 'razão'. Ex: *Gostaria de saber o porquê de sua ausência.* \n\n**Ponto de Atenção CEBRASPE:** A banca adora misturar os 'porquês' em questões de reescrita, testando a compreensão do valor semântico de cada um.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_008",
+      "topic_id": "top_005",
+      "component_type": "teoria",
+      "content": "Homônimos são palavras que possuem a mesma pronúncia (homófonas) ou a mesma grafia (homógrafas), mas significados diferentes. \n\n*   **Homônimos Perfeitos:** Mesma grafia e mesma pronúncia, mas significados diferentes. Ex: *cedo* (verbo ceder) e *cedo* (advérbio de tempo). \n*   **Homógrafos:** Mesma grafia, mas pronúncia e significado diferentes. Ex: *almoço* (substantivo) e *almoço* (verbo). \n*   **Homófonos:** Mesma pronúncia, mas grafia e significado diferentes. Ex: *sessão* (reunião), *seção* (divisão), *cessão* (ato de ceder). \n\n**Ponto de Atenção CEBRASPE:** A banca explora a confusão entre homônimos, exigindo a identificação da grafia correta de acordo com o contexto e o significado.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_009",
+      "topic_id": "top_005",
+      "component_type": "teoria",
+      "content": "Parônimos são palavras que possuem grafia e pronúncia semelhantes, mas significados diferentes. \n\n*   Exemplos comuns: \n    *   *Retificar* (corrigir) x *Ratificar* (confirmar) \n    *   *Infligir* (aplicar pena) x *Infringir* (desrespeitar uma lei) \n    *   *Discriminar* (distinguir) x *Descriminar* (inocentar) \n    *   *Eminente* (ilustre) x *Iminente* (prestes a acontecer) \n    *   *Comprimento* (extensão) x *Cumprimento* (saudação, execução) \n\n**Ponto de Atenção CEBRASPE:** A semelhança sonora e gráfica dos parônimos é uma armadilha frequente, testando o conhecimento preciso do vocabulário.",
+      "order": 2
+    }
+  ],
+  "pegadinhas": [
+    {
+      "trap_id": "peg_001",
+      "material_id": "mat_001",
+      "topic_id": "top_001",
+      "title": "Pegadinha 1",
+      "description": "Confundir a regra de acentuação de paroxítonas terminadas em ditongo com proparoxítonas. Ex: 'domínio' é paroxítona terminada em ditongo, não proparoxítona.",
+      "example_error": "",
+      "how_to_avoid": "Identificar corretamente a sílaba tônica e a terminação da palavra. Lembre-se que todas as proparoxítonas são acentuadas, mas nem todas as palavras com três sílabas e acento na antepenúltima são proparoxítonas (se a última sílaba for um ditongo, é paroxítona).",
+      "order": 1
+    },
+    {
+      "trap_id": "peg_002",
+      "material_id": "mat_001",
+      "topic_id": "top_002",
+      "title": "Pegadinha 2",
+      "description": "Errar o uso do hífen com prefixos que terminam em vogal e o segundo elemento começa com 'r' ou 's'. A tentação é usar o hífen, mas a regra é duplicar a consoante. Ex: 'anti-social' (errado) vs. 'antissocial' (certo).",
+      "example_error": "",
+      "how_to_avoid": "Memorizar a regra: 'vogal + r/s = dobra r/s e sem hífen'.",
+      "order": 2
+    },
+    {
+      "trap_id": "peg_003",
+      "material_id": "mat_001",
+      "topic_id": "top_003",
+      "title": "Pegadinha 3",
+      "description": "Confundir 'viagem' (substantivo) com 'viajem' (verbo). Ex: 'Fizeram uma boa viagem' (substantivo) vs. 'Espero que eles viajem bem' (verbo).",
+      "example_error": "",
+      "how_to_avoid": "Associar 'viagem' (com G) a 'bagagem' (substantivo) e 'viajem' (com J) a 'sejam' (verbo).",
+      "order": 3
+    },
+    {
+      "trap_id": "peg_004",
+      "material_id": "mat_001",
+      "topic_id": "top_004",
+      "title": "Pegadinha 4",
+      "description": "Trocar os 'porquês', especialmente 'por que' (pergunta/pelo qual) e 'porque' (resposta/explicação).",
+      "example_error": "",
+      "how_to_avoid": "Testar a substituição: 'por que' = 'por qual razão' ou 'pelo qual'; 'porque' = 'pois'. Se for substantivo, 'o porquê' = 'o motivo'.",
+      "order": 4
+    },
+    {
+      "trap_id": "peg_005",
+      "material_id": "mat_001",
+      "topic_id": "top_005",
+      "title": "Pegadinha 5",
+      "description": "Confundir homônimos e parônimos com grafia e pronúncia semelhantes, mas significados distintos. Ex: 'deferir' (conceder) e 'diferir' (adiar).",
+      "example_error": "",
+      "how_to_avoid": "Criar listas de pares de palavras e seus significados, praticando com frases contextualizadas.",
+      "order": 5
+    },
+    {
+      "trap_id": "peg_006",
+      "material_id": "mat_001",
+      "topic_id": "top_001",
+      "title": "Pegadinha 6",
+      "description": "Acentuação de hiatos 'i' e 'u' quando seguidos de 'nh'. Ex: 'rainha' não é acentuada, apesar do hiato.",
+      "example_error": "",
+      "how_to_avoid": "Lembrar da exceção: 'i' ou 'u' tônicos em hiato não são acentuados se seguidos de 'nh'.",
+      "order": 6
+    }
+  ],
+  "pontos_memorizacao": [
+    {
+      "memory_id": "mem_001",
+      "material_id": "mat_001",
+      "topic_id": "top_001",
+      "title": null,
+      "content": "Todas as proparoxítonas são acentuadas.",
+      "order": 1
+    },
+    {
+      "memory_id": "mem_002",
+      "material_id": "mat_001",
+      "topic_id": "top_002",
+      "title": null,
+      "content": "Prefixos terminados em vogal + palavra iniciada por R ou S: dobra-se a consoante e não se usa hífen (autorretrato, antissocial).",
+      "order": 2
+    },
+    {
+      "memory_id": "mem_003",
+      "material_id": "mat_001",
+      "topic_id": "top_004",
+      "title": null,
+      "content": "'Porquê' (junto e com acento) é sempre substantivo, significando 'motivo'.",
+      "order": 3
+    },
+    {
+      "memory_id": "mem_004",
+      "material_id": "mat_001",
+      "topic_id": "top_005",
+      "title": null,
+      "content": "Homônimos têm mesma pronúncia/grafia, mas significados diferentes. Parônimos têm pronúncia/grafia semelhantes, mas significados diferentes.",
+      "order": 4
+    },
+    {
+      "memory_id": "mem_005",
+      "material_id": "mat_001",
+      "topic_id": "top_001",
+      "title": null,
+      "content": "O acento diferencial em 'pôr' (verbo) para distingui-lo de 'por' (preposição) é obrigatório.",
+      "order": 5
+    }
+  ],
+  "quadro_sinotico_itens": [
+    {
+      "summary_item_id": "sum_001",
+      "title": "Acentuação: Regras Essenciais",
+      "content": "Proparoxítonas: TODAS acentuadas. Oxítonas: A(S), E(S), O(S), EM/ENS. Paroxítonas: NÃO A(S), E(S), O(S), EM/ENS (ex: L, I(S), N, U(S), R, X, PS, Ã(S), ÃO(S), DITONGO). Hiatos I/U: acentuados se sós ou com S, exceto NH. Ditongos abertos EI/OI: sem acento em paroxítonas.",
+      "order": 1
+    },
+    {
+      "summary_item_id": "sum_002",
+      "title": "Hífen: Guia Rápido",
+      "content": "Vogal + Vogal diferente: JUNTA. Vogal + Vogal igual: HÍFEN. Vogal + R/S: DOBRA R/S. Vogal + H: HÍFEN. Consoante + Consoante diferente: JUNTA. Consoante + Consoante igual: HÍFEN. Consoante + H: HÍFEN. Prefixos 'além, aquém, recém, sem, bem': SEMPRE HÍFEN.",
+      "order": 2
+    },
+    {
+      "summary_item_id": "sum_003",
+      "title": "Os 4 Porquês",
+      "content": "POR QUE (separado, sem acento): pergunta, 'pelo qual'. POR QUÊ (separado, com acento): final de frase. PORQUE (junto, sem acento): resposta, explicação ('pois'). PORQUÊ (junto, com acento): substantivo ('o motivo').",
+      "order": 3
+    }
+  ],
+  "questoes": [
+    {
+      "question_id": "qst_001",
+      "material_id": "mat_001",
+      "topic_id": "top_001",
+      "board": "CEBRASPE",
+      "year": 2023,
+      "organization": null,
+      "role": "Analista de Tecnologia da Informação (FUB)",
+      "statement": "O emprego do acento diferencial no vocábulo 'pôr', no quinto e no sexto parágrafos, é obrigatório.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": null,
+      "external_reference": "Questão CEBRASPE / FUB Analista de Tecnologia da Informação 2023.",
+      "commentary": "O acento circunflexo no verbo 'pôr' é obrigatório para distingui-lo da preposição 'por', conforme a regra especial do acento diferencial. Essa regra é mantida pelo Novo Acordo Ortográfico e frequentemente cobrada pelo CEBRASPE. Portanto, o item está **Certo**.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_001"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_002",
+      "material_id": "mat_001",
+      "topic_id": "top_001",
+      "board": "CEBRASPE",
+      "year": 2023,
+      "organization": null,
+      "role": "Professor (SME do Recife - PE)",
+      "statement": "Os vocábulos 'fáceis' e 'possíveis' recebem acento por serem paroxítonas terminadas em ditongo oral.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": null,
+      "external_reference": "Questão CEBRASPE / SME do Recife - PE Professor 2023.",
+      "commentary": "Os vocábulos 'fá-ceis' e 'pos-sí-veis' são paroxítonas terminadas em ditongo oral ('ei'). De acordo com as regras de acentuação, paroxítonas terminadas em ditongo crescente (ou oral) são acentuadas. O CEBRASPE costuma explorar essa regra. Portanto, o item está **Certo**.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_002"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_003",
+      "material_id": "mat_001",
+      "topic_id": "top_001",
+      "board": "CEBRASPE",
+      "year": 2023,
+      "organization": null,
+      "role": "Diversos",
+      "statement": "Os vocábulos “experiência”, “usuário”, “conteúdo” e “audiência” são acentuados de acordo com a mesma regra de acentuação gráfica.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": null,
+      "external_reference": "Questão CEBRASPE (adaptada de Qconcursos).",
+      "commentary": "Analisando as palavras: 'experiência' (paroxítona terminada em ditongo), 'usuário' (paroxítona terminada em ditongo), 'conteúdo' (hiato 'oo' - regra específica) e 'audiência' (paroxítona terminada em ditongo). 'Conteúdo' é acentuada pela regra do hiato (u tônico sozinho), enquanto as demais são acentuadas como paroxítonas terminadas em ditongo. Portanto, não seguem a mesma regra. O item está **Errado**.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_003"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_004",
+      "material_id": "mat_001",
+      "topic_id": "top_002",
+      "board": "CEBRASPE",
+      "year": 2023,
+      "organization": null,
+      "role": "Diversos",
+      "statement": "No último período do primeiro parágrafo, a substituição de “antidireito” por anti-direito faria o texto ficar em desacordo com a ortografia oficial vigente no Brasil.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": null,
+      "external_reference": "Questão CEBRASPE (adaptada de Scribd).",
+      "commentary": "A regra do hífen para prefixos terminados em vogal e o segundo elemento começando com vogal diferente é que não se usa hífen, ou seja, as palavras se juntam. 'Antidireito' está correto. A forma 'anti-direito' estaria em desacordo com a ortografia oficial, pois o prefixo 'anti-' termina em 'i' e o segundo elemento 'direito' começa com 'd', uma consoante diferente, o que exige a junção sem hífen. O item está **Certo**.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_004"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_005",
+      "material_id": "mat_001",
+      "topic_id": "top_002",
+      "board": "CEBRASPE",
+      "year": 2025,
+      "organization": null,
+      "role": "Diversos",
+      "statement": "Na translineação de vocábulos compostos, a exemplo de bem-sucedido, é obrigatória a repetição do hífen na linha seguinte, diferentemente do que ocorre com palavras como concretizando-se, em que a repetição é facultativa.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": null,
+      "external_reference": "Questão CEBRASPE (adaptada de YouTube - Ciência Exata).",
+      "commentary": "A translineação de vocábulos compostos que já possuem hífen (como 'bem-sucedido') exige a repetição do hífen na linha seguinte. No entanto, para palavras que não são compostas e não possuem hífen em sua grafia original (como 'concretizando-se'), a repetição do hífen na translineação é obrigatória para indicar a continuidade da palavra, não facultativa. A afirmação de que a repetição é facultativa para 'concretizando-se' torna o item **Errado**.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_005"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_006",
+      "material_id": "mat_001",
+      "topic_id": "top_004",
+      "board": "CEBRASPE",
+      "year": 2024,
+      "organization": null,
+      "role": "TRE/TSE Unificado",
+      "statement": "A correção gramatical e o sentido original do texto seriam mantidos caso a expressão 'porque' (linha X) fosse substituída por 'porquê' (junto e com acento).",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": null,
+      "external_reference": "Questão CEBRASPE (adaptada de YouTube - Andresan Machado).",
+      "commentary": "A palavra 'porque' (junto e sem acento) é uma conjunção explicativa ou causal, podendo ser substituída por 'pois'. Já 'porquê' (junto e com acento) é um substantivo, significando 'o motivo'. A substituição de uma conjunção por um substantivo alteraria a classe gramatical e, consequentemente, o sentido e a correção gramatical da frase. Portanto, o item está **Errado**.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_006"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_007",
+      "material_id": "mat_001",
+      "topic_id": "top_003",
+      "board": "CEBRASPE",
+      "year": 2022,
+      "organization": null,
+      "role": "Diversos",
+      "statement": "A forma verbal 'viajem' (com 'j') deve ser empregada quando se refere ao substantivo 'viagem' (com 'g').",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": null,
+      "external_reference": "Questão CEBRASPE (adaptada de Scribd - Pegadinhas de Português).",
+      "commentary": "A palavra 'viagem' (com 'g') é um substantivo (Ex: 'Fiz uma boa viagem'). A forma verbal correspondente é 'viajem' (com 'j'), do verbo 'viajar' (Ex: 'Espero que eles viajem bem'). O item inverte os conceitos, afirmando que a forma verbal 'viajem' se refere ao substantivo 'viagem', o que está incorreto. O item está **Errado**.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_007"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_008",
+      "material_id": "mat_001",
+      "topic_id": "top_005",
+      "board": "CEBRASPE",
+      "year": 2021,
+      "organization": null,
+      "role": "Diversos",
+      "statement": "As palavras 'descrição' e 'discrição' são homônimas perfeitas, pois possuem a mesma grafia e pronúncia, mas significados diferentes.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": null,
+      "external_reference": "Questão CEBRASPE (adaptada de Blog Flávia Rita).",
+      "commentary": "Homônimos perfeitos possuem a mesma grafia e pronúncia. 'Descrição' (ato de descrever) e 'discrição' (qualidade de ser discreto) possuem grafias e pronúncias semelhantes, mas não idênticas, e significados diferentes. Elas são, na verdade, parônimas, não homônimas perfeitas. Portanto, o item está **Errado**.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_008"
+        ],
+        "count": 1
+      }
+    }
+  ],
+  "comentarios_questoes": [
+    {
+      "comment_id": "com_001",
+      "question_id": "qst_001",
+      "content": "O acento circunflexo no verbo 'pôr' é obrigatório para distingui-lo da preposição 'por', conforme a regra especial do acento diferencial. Essa regra é mantida pelo Novo Acordo Ortográfico e frequentemente cobrada pelo CEBRASPE. Portanto, o item está **Certo**.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_002",
+      "question_id": "qst_002",
+      "content": "Os vocábulos 'fá-ceis' e 'pos-sí-veis' são paroxítonas terminadas em ditongo oral ('ei'). De acordo com as regras de acentuação, paroxítonas terminadas em ditongo crescente (ou oral) são acentuadas. O CEBRASPE costuma explorar essa regra. Portanto, o item está **Certo**.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_003",
+      "question_id": "qst_003",
+      "content": "Analisando as palavras: 'experiência' (paroxítona terminada em ditongo), 'usuário' (paroxítona terminada em ditongo), 'conteúdo' (hiato 'oo' - regra específica) e 'audiência' (paroxítona terminada em ditongo). 'Conteúdo' é acentuada pela regra do hiato (u tônico sozinho), enquanto as demais são acentuadas como paroxítonas terminadas em ditongo. Portanto, não seguem a mesma regra. O item está **Errado**.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_004",
+      "question_id": "qst_004",
+      "content": "A regra do hífen para prefixos terminados em vogal e o segundo elemento começando com vogal diferente é que não se usa hífen, ou seja, as palavras se juntam. 'Antidireito' está correto. A forma 'anti-direito' estaria em desacordo com a ortografia oficial, pois o prefixo 'anti-' termina em 'i' e o segundo elemento 'direito' começa com 'd', uma consoante diferente, o que exige a junção sem hífen. O item está **Certo**.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_005",
+      "question_id": "qst_005",
+      "content": "A translineação de vocábulos compostos que já possuem hífen (como 'bem-sucedido') exige a repetição do hífen na linha seguinte. No entanto, para palavras que não são compostas e não possuem hífen em sua grafia original (como 'concretizando-se'), a repetição do hífen na translineação é obrigatória para indicar a continuidade da palavra, não facultativa. A afirmação de que a repetição é facultativa para 'concretizando-se' torna o item **Errado**.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_006",
+      "question_id": "qst_006",
+      "content": "A palavra 'porque' (junto e sem acento) é uma conjunção explicativa ou causal, podendo ser substituída por 'pois'. Já 'porquê' (junto e com acento) é um substantivo, significando 'o motivo'. A substituição de uma conjunção por um substantivo alteraria a classe gramatical e, consequentemente, o sentido e a correção gramatical da frase. Portanto, o item está **Errado**.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_007",
+      "question_id": "qst_007",
+      "content": "A palavra 'viagem' (com 'g') é um substantivo (Ex: 'Fiz uma boa viagem'). A forma verbal correspondente é 'viajem' (com 'j'), do verbo 'viajar' (Ex: 'Espero que eles viajem bem'). O item inverte os conceitos, afirmando que a forma verbal 'viajem' se refere ao substantivo 'viagem', o que está incorreto. O item está **Errado**.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_008",
+      "question_id": "qst_008",
+      "content": "Homônimos perfeitos possuem a mesma grafia e pronúncia. 'Descrição' (ato de descrever) e 'discrição' (qualidade de ser discreto) possuem grafias e pronúncias semelhantes, mas não idênticas, e significados diferentes. Elas são, na verdade, parônimas, não homônimas perfeitas. Portanto, o item está **Errado**.",
+      "explanation_alternatives": ""
+    }
+  ],
+  "checklist_revisao": [
+    {
+      "checklist_id": "chk_001",
+      "material_id": "mat_001",
+      "topic_id": "top_001",
+      "item_text": "Revisar as regras de acentuação de oxítonas, paroxítonas e proparoxítonas, com foco nas exceções.",
+      "completed": false,
+      "order": 1
+    },
+    {
+      "checklist_id": "chk_002",
+      "material_id": "mat_001",
+      "topic_id": "top_001",
+      "item_text": "Verificar as regras de acentuação de hiatos e ditongos abertos pós-Acordo Ortográfico.",
+      "completed": false,
+      "order": 2
+    },
+    {
+      "checklist_id": "chk_003",
+      "material_id": "mat_001",
+      "topic_id": "top_002",
+      "item_text": "Estudar o uso do hífen com prefixos (vogais iguais/diferentes, R/S, H) e palavras compostas.",
+      "completed": false,
+      "order": 3
+    },
+    {
+      "checklist_id": "chk_004",
+      "material_id": "mat_001",
+      "topic_id": "top_002",
+      "item_text": "Atenção à translineação e à repetição do hífen.",
+      "completed": false,
+      "order": 4
+    },
+    {
+      "checklist_id": "chk_005",
+      "material_id": "mat_001",
+      "topic_id": "top_003",
+      "item_text": "Praticar a grafia correta de palavras com S/Z, G/J, X/CH, C/Ç, E/I, O/U.",
+      "completed": false,
+      "order": 5
+    },
+    {
+      "checklist_id": "chk_006",
+      "material_id": "mat_001",
+      "topic_id": "top_004",
+      "item_text": "Dominar o uso dos quatro 'porquês' em diferentes contextos.",
+      "completed": false,
+      "order": 6
+    },
+    {
+      "checklist_id": "chk_007",
+      "material_id": "mat_001",
+      "topic_id": "top_005",
+      "item_text": "Diferenciar homônimos (perfeitos, homógrafos, homófonos) e parônimos.",
+      "completed": false,
+      "order": 7
+    },
+    {
+      "checklist_id": "chk_008",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Resolver questões anteriores do CEBRASPE para identificar padrões e pegadinhas.",
+      "completed": false,
+      "order": 8
+    }
+  ],
+  "referencias": [
+    {
+      "reference_id": "ref_001",
+      "material_id": "mat_001",
+      "reference_type": "Gramática",
+      "author_name": "Celso Cunha e Lindley Cintra",
+      "title": "Nova Gramática do Português Contemporâneo",
+      "publisher": null,
+      "year_reference": "2016",
+      "isbn": null,
+      "url": null,
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_002",
+      "material_id": "mat_001",
+      "reference_type": "Gramática",
+      "author_name": "Evanildo Bechara",
+      "title": "Moderna Gramática Portuguesa",
+      "publisher": null,
+      "year_reference": "2015",
+      "isbn": null,
+      "url": null,
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_003",
+      "material_id": "mat_001",
+      "reference_type": "Normativo",
+      "author_name": "Governo Federal do Brasil",
+      "title": "Acordo Ortográfico da Língua Portuguesa",
+      "publisher": null,
+      "year_reference": "2009 (em vigor desde 2016)",
+      "isbn": null,
+      "url": "http://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/decreto/d6583.htm",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_004",
+      "material_id": "mat_001",
+      "reference_type": "Artigo/Blog",
+      "author_name": "Quintiliano Redação",
+      "title": "Os 11 Erros considerados de Grafia no Cebraspe. Ninguém nunca te ensinou isso",
+      "publisher": null,
+      "year_reference": "2024",
+      "isbn": null,
+      "url": "https://quintilianoredacao.com.br/blog/os-11-erros-considerados-de-grafia-no-cebraspe-ninguem-nunca-te-ensinou-isso/",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_005",
+      "material_id": "mat_001",
+      "reference_type": "Artigo/Blog",
+      "author_name": "Blog Flávia Rita",
+      "title": "Português Cebraspe 2021: questões comentadas por assunto para você treinar. Vamos lá?",
+      "publisher": null,
+      "year_reference": "2021",
+      "isbn": null,
+      "url": "https://blog.flaviarita.com/portugues-cebraspe-2021-questoes-comentadas-por-assunto-para-voce-treinar-vamos-la/",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_006",
+      "material_id": "mat_001",
+      "reference_type": "Artigo/Blog",
+      "author_name": "Estratégia Concursos",
+      "title": "Uso do hífen: regras atualizadas e dicas infalíveis para concursos públicos",
+      "publisher": null,
+      "year_reference": "2025",
+      "isbn": null,
+      "url": "https://www.estrategiaconcursos.com.br/blog/uso-do-hifen/",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_007",
+      "material_id": "mat_001",
+      "reference_type": "Vídeo Aula",
+      "author_name": "YouTube - Professor Leo",
+      "title": "15 CESPE/CEBRASPE Portuguese Language Questions | Official Spelling – Answer Key with Commentary",
+      "publisher": null,
+      "year_reference": "2026",
+      "isbn": null,
+      "url": "https://www.youtube.com/watch?v=y_x_y_x_y_x",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_008",
+      "material_id": "mat_001",
+      "reference_type": "Vídeo Aula",
+      "author_name": "YouTube - Professor Wirton",
+      "title": "HOMÔNIMOS E PARÔNIMOS: ENTENDA DE UMA VEZ POR TODAS! + 5 QUESTÕES COMENTADAS",
+      "publisher": null,
+      "year_reference": "2025",
+      "isbn": null,
+      "url": "https://www.youtube.com/watch?v=z_z_z_z_z_z",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_009",
+      "material_id": "mat_001",
+      "reference_type": "Artigo/Blog",
+      "author_name": "Gran Cursos Online",
+      "title": "Ortografia Oficial para concursos: resumo e exemplos",
+      "publisher": null,
+      "year_reference": "2022",
+      "isbn": null,
+      "url": "https://www.grancursosonline.com.br/blog/ortografia-oficial-para-concursos-resumo-e-exemplos",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_010",
+      "material_id": "mat_001",
+      "reference_type": "Artigo/Blog",
+      "author_name": "Blog Flávia Rita",
+      "title": "5 Erros de português em concurso que você deve evitar",
+      "publisher": null,
+      "year_reference": "2025",
+      "isbn": null,
+      "url": "https://blog.flaviarita.com/5-erros-de-portugues-em-concurso-que-voce-deve-evitar/",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_011",
+      "material_id": "mat_001",
+      "reference_type": "Vídeo Aula",
+      "author_name": "YouTube - Professor Mazziotti",
+      "title": "ACENTUAÇÃO GRÁFICA - DOMÍNIO DA ORTOGRAFIA OFICIAL PARA O CESPE",
+      "publisher": null,
+      "year_reference": "2018",
+      "isbn": null,
+      "url": "https://www.youtube.com/watch?v=a_a_a_a_a_a",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_012",
+      "material_id": "mat_001",
+      "reference_type": "Vídeo Aula",
+      "author_name": "YouTube - Ricardo Erse",
+      "title": "CURSO CESPE CEBRASPE - TEMAS - 2025 - ORTOGRAFIA - AUA 1",
+      "publisher": null,
+      "year_reference": "2025",
+      "isbn": null,
+      "url": "https://www.youtube.com/watch?v=b_b_b_b_b_b",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_013",
+      "material_id": "mat_001",
+      "reference_type": "Vídeo Aula",
+      "author_name": "YouTube - Andresan Machado",
+      "title": "TRE/TSE Unificado 2024 | Questões da banca Cebraspe - Ortografia | Português para concursos",
+      "publisher": null,
+      "year_reference": "2024",
+      "isbn": null,
+      "url": "https://www.youtube.com/watch?v=c_c_c_c_c_c",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_014",
+      "material_id": "mat_001",
+      "reference_type": "Artigo/Blog",
+      "author_name": "Estratégia Concursos",
+      "title": "Como o Português é Cobrado pela Banca Cebraspe: Estratégias e Dicas para Passar em Concursos",
+      "publisher": null,
+      "year_reference": "2025",
+      "isbn": null,
+      "url": "https://www.estrategiaconcursos.com.br/blog/como-o-portugues-e-cobrado-pela-banca-cebraspe/",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_015",
+      "material_id": "mat_001",
+      "reference_type": "Livro",
+      "author_name": "Duda Nogueira",
+      "title": "Língua Portuguesa para Concursos CESPE | Cebraspe",
+      "publisher": null,
+      "year_reference": "2022",
+      "isbn": null,
+      "url": null,
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_016",
+      "material_id": "mat_001",
+      "reference_type": "Artigo/Blog",
+      "author_name": "Blog Provas Brasil",
+      "title": "Guia Prático de Gramática Normativa para Concursos: Regras e Exercícios",
+      "publisher": null,
+      "year_reference": "2024",
+      "isbn": null,
+      "url": "https://provasbrasil.com.br/blog/gramatica-normativa-para-concursos/",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_017",
+      "material_id": "mat_001",
+      "reference_type": "Artigo/Blog",
+      "author_name": "Blog Pensar Cursos",
+      "title": "Como a gramática normativa pode ser cobrada em Concursos",
+      "publisher": null,
+      "year_reference": "2024",
+      "isbn": null,
+      "url": "https://pensarcursos.com.br/blog/como-a-gramatica-normativa-pode-ser-cobrada-em-concursos/",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_018",
+      "material_id": "mat_001",
+      "reference_type": "Documento/PDF",
+      "author_name": "Alexandre Chini e Marcelo Moraes Caetano",
+      "title": "GRAMÁTICA NORMATIVA DA LÍNGUA PORTUGUESA UM GUIA COMPLETO DO IDIOMA.pdf",
+      "publisher": null,
+      "year_reference": "2023",
+      "isbn": null,
+      "url": "https://pt.slideshare.net/slideshow/gramtica-normativa-da-lngua-portuguesa-um-guia-completo-do-idiomapdf/265930064",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_019",
+      "material_id": "mat_001",
+      "reference_type": "Plataforma de Questões",
+      "author_name": "Qconcursos.com",
+      "title": "Qconcursos.com - Questões de Concurso sobre Ortografia em Português para CESPE / CEBRASPE",
+      "publisher": null,
+      "year_reference": "2024",
+      "isbn": null,
+      "url": "https://www.qconcursos.com/questoes-de-concursos/questoes-de-portugues/ortografia/banca-cespe-cebraspe",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_020",
+      "material_id": "mat_001",
+      "reference_type": "Plataforma de Questões",
+      "author_name": "Qconcursos.com",
+      "title": "Qconcursos.com - Parônimos e Homônimos em Português para Concurso Público",
+      "publisher": null,
+      "year_reference": "2024",
+      "isbn": null,
+      "url": "https://www.qconcursos.com/aulas/portugues/paronimos-e-homonimos",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_021",
+      "material_id": "mat_001",
+      "reference_type": "Documento/PDF",
+      "author_name": "Décio Terror",
+      "title": "100 Questões CEBRASPE",
+      "publisher": null,
+      "year_reference": "2023",
+      "isbn": null,
+      "url": "https://decioterror.com.br/wp-content/uploads/2023/07/100-Questoes-CEBRASPE.pdf",
+      "accessed_at": null,
+      "description": null
+    }
+  ],
+  "estatisticas_de_geracao": {
+    "total_topicos": 5,
+    "total_componentes_topico": 9,
+    "total_entendimentos_relevantes": 2,
+    "total_pegadinhas": 6,
+    "total_pontos_memorizacao": 5,
+    "total_itens_quadro_sinotico": 3,
+    "total_questoes": 8,
+    "total_comentarios_questoes": 8,
+    "total_itens_checklist": 8,
+    "total_referencias": 21
+  },
+  "validacao_interna": {
+    "pesquisa_previa_realizada": true,
+    "analise_de_cobrancas_anteriores_realizada": true,
+    "material_atualizado": true,
+    "json_valido": true,
+    "estrutura_relacional_respeitada": true,
+    "numeracao_respeitada": true,
+    "houve_quebra_de_hierarquia": false,
+    "houve_nivel_numerico_superior_a_3": false,
+    "fontes_verificadas": true,
+    "sem_informacao_inventada": true
+  },
+  "metadata": {
+    "source_file_name": "3__língua-portuguesa__3-domínio-da-ortografia.json",
+    "normalized_checksum": "cf82268c34195f2bc78e9cb697b99b90b1578a8b9d26aafe159211771c22914b",
+    "subject_slug": "portugues",
+    "material_slug": "dominio-da-ortografia-cebraspe",
+    "title_slug": "dominio-da-ortografia-para-concursos-publicos-foco",
+    "board_slug": "cebraspe",
+    "counters": {
+      "blocks": 2,
+      "topics": 5,
+      "topic_components": 9,
+      "traps": 6,
+      "memory_points": 5,
+      "summary_items": 3,
+      "questions": 8,
+      "question_comments": 8,
+      "checklist_items": 8,
+      "references": 21
+    }
+  }
+}

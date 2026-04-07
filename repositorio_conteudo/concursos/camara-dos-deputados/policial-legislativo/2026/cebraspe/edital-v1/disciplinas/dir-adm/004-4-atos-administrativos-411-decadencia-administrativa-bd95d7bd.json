@@ -1,0 +1,870 @@
+{
+  "schema_version": "1.0",
+  "normalized_at": "2026-04-07T15:39:14.235117-03:00",
+  "normalizer_version": "2.0.0",
+  "exported_at": "2026-04-07T17:48:00Z",
+  "source_request": {
+    "purpose": "Concurso público",
+    "general_area": "Direito",
+    "subject_name": "Direito Administrativo",
+    "subarea_name": "Direito Administrativo",
+    "main_theme": "4 Atos administrativos: 4.11 Decadência administrativa",
+    "theme_scope": "Teoria completa, incidência em prova, padrão de cobrança da banca, pegadinhas e questões comentadas",
+    "board_style": "CEBRASPE",
+    "depth_level": "Exaustivo",
+    "goal": "Teoria completa, revisão estratégica, pegadinhas e questões comentadas",
+    "base_topic_number": "4",
+    "topic_title": "4 Atos administrativos: 4.11 Decadência administrativa",
+    "syllabus_reference": "Conteúdo programático da disciplina Direito Administrativo",
+    "priority_sources": [
+      "Constituição Federal e legislação oficial vigente",
+      "Jurisprudência pertinente e atual, quando cabível",
+      "Doutrina consolidada",
+      "Questões anteriores da banca"
+    ],
+    "minimum_questions": 8,
+    "question_format": "Certo/Errado",
+    "prioritize_real_questions": true,
+    "response_language": "português",
+    "target_audience": "Candidato de concurso público",
+    "additional_notes": "Executar exatamente para esta linha individual do topicos.txt. Não juntar com outros tópicos. Não pular este tópico. Dar destaque ao padrão de cobrança da banca, aos pontos mais cobrados e às pegadinhas recorrentes.",
+    "input_hash": "988ed65e81ef",
+    "extras": {}
+  },
+  "material": {
+    "material_id": "mat_001",
+    "slug": "decadencia-administrativa",
+    "title": "Decadência Administrativa",
+    "base_number": "4",
+    "topic_title": "4 Atos administrativos: 4.11 Decadência administrativa",
+    "purpose": "Concurso público",
+    "area_name": "Direito",
+    "subject_name": "Direito Administrativo",
+    "subarea_name": "Direito Administrativo",
+    "main_theme": "4 Atos administrativos: 4.11 Decadência administrativa",
+    "theme_scope": "Teoria completa, incidência em prova, padrão de cobrança da banca, pegadinhas e questões comentadas",
+    "board_style": "CEBRASPE",
+    "depth_level": "Exaustivo",
+    "study_goal": "Teoria completa, revisão estratégica, pegadinhas e questões comentadas",
+    "target_audience": "Candidato de concurso público",
+    "language_code": "português",
+    "update_status": "Atualizado em 07/04/2026",
+    "current_note": "O material foi elaborado com base na Lei nº 9.784/99, súmulas e teses jurisprudenciais consolidadas do STF e STJ, e análise do padrão de cobrança recente da banca CEBRASPE, garantindo a máxima atualidade e confiabilidade.",
+    "has_case_law": true,
+    "case_law_justification": "A jurisprudência é fundamental para a compreensão da decadência administrativa, especialmente no que tange à aplicação do Art. 54 da Lei nº 9.784/99, à distinção entre boa-fé e má-fé, e à relativização do prazo em casos de atos inconstitucionais, temas frequentemente abordados em provas.",
+    "has_information_limitation": false,
+    "information_limitation_desc": null,
+    "content_checksum": "placeholder_checksum",
+    "extras": {}
+  },
+  "blocos_textuais": [
+    {
+      "external_block_code": "blc_001",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 1,
+      "title": "4.11.1 Conceito e Fundamento Legal da Decadência Administrativa",
+      "content": "A decadência administrativa refere-se à perda do direito da Administração Pública de anular seus próprios atos, quando eivados de ilegalidade, em razão do decurso de um prazo legalmente estabelecido. Diferentemente da prescrição, que atinge a pretensão de exigir um direito, a decadência extingue o próprio direito material. No âmbito federal, o principal fundamento legal da decadência administrativa é o Art. 54 da Lei nº 9.784/1999, que estabelece normas básicas sobre o processo administrativo. Este artigo visa a garantir a segurança jurídica e a estabilidade das relações entre a Administração e os administrados, protegendo a boa-fé.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_002",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 2,
+      "title": "4.11.2 Distinção entre Decadência e Prescrição no Direito Administrativo",
+      "content": "Embora ambos os institutos estejam relacionados ao decurso do tempo, a distinção entre decadência e prescrição é crucial no Direito Administrativo. A **prescrição** extingue a pretensão (o direito de ação) de exigir um direito, mas não o direito material em si, podendo ser interrompida ou suspensa, e renunciada após sua consumação. Já a **decadência** extingue o próprio direito material por não ter sido exercido no prazo legal, sendo, em regra, irrenunciável e insuscetível de interrupção ou suspensão, salvo expressa previsão legal. No contexto administrativo, a decadência incide, por exemplo, quando a Administração perde o prazo para anular um ato ilegal que beneficiou um particular.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_003",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 3,
+      "title": "4.11.3 Prazo Decadencial e sua Contagem",
+      "content": "O Art. 54 da Lei nº 9.784/1999 estabelece que o direito da Administração de anular atos administrativos que gerem efeitos favoráveis para os destinatários decai em **cinco anos**, contados da data em que foram praticados. Para os casos de **efeitos patrimoniais contínuos**, o prazo de decadência é contado da percepção do primeiro pagamento. Este prazo se aplica tanto a atos nulos quanto a atos anuláveis, desde que deles decorram efeitos favoráveis aos administrados. A Súmula 633 do STJ consolida o entendimento de que é possível a aplicação, por analogia, do prazo decadencial de 5 anos previsto na Lei do Processo Administrativo Federal para Estados e Municípios que não tiverem leis próprias sobre o tema, por força do princípio da isonomia.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_004",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 4,
+      "title": "4.11.4 Exceções e Relativização da Decadência",
+      "content": "A principal exceção à regra geral da decadência administrativa é a **comprovada má-fé** do beneficiário do ato. Nesses casos, o prazo decadencial de cinco anos não se aplica, e a Administração pode anular o ato a qualquer tempo. A má-fé deve ser devidamente comprovada em procedimento administrativo, com respeito ao contraditório e à ampla defesa. Outra situação relevante é a relativização do prazo decadencial em face de **atos flagrantemente inconstitucionais**. O Supremo Tribunal Federal (STF), no julgamento do RE 817.338 (Tema 839 da repercussão geral), firmou a tese de que, no exercício do poder de autotutela, a Administração Pública poderá rever atos de concessão de anistia quando comprovada a ausência de ato com motivação exclusivamente política, mesmo após o prazo decadencial, assegurando-se o devido processo legal e a não devolução das verbas já recebidas de boa-fé. Este entendimento ressalta que situações flagrantemente inconstitucionais não podem ser consolidadas pelo decurso do tempo, ponderando a segurança jurídica com a supremacia da Constituição.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_005",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 5,
+      "title": "4.11.5 Decadência e os Princípios Administrativos",
+      "content": "A decadência administrativa é um instituto que busca harmonizar o **princípio da autotutela** da Administração Pública com o **princípio da segurança jurídica** e da **proteção da boa-fé** do administrado. O poder de autotutela, consagrado nas Súmulas 346 e 473 do STF, permite à Administração anular seus atos ilegais e revogar os inconvenientes ou inoportunos. Contudo, a segurança jurídica impõe limites temporais a esse poder, especialmente quando atos ilegais geram efeitos favoráveis e consolidam situações de boa-fé. A boa-fé do administrado é um elemento crucial, pois, em regra, valores recebidos de boa-fé em decorrência de erro administrativo não precisam ser devolvidos, mesmo que o ato seja posteriormente anulado. O princípio da isonomia também é relevante, justificando a aplicação do prazo federal de 5 anos a todos os entes federativos, na ausência de legislação específica.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_006",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 6,
+      "title": "4.11.6 Padrão de Cobrança CEBRASPE em Decadência Administrativa",
+      "content": "A banca CEBRASPE (CESPE) frequentemente aborda a decadência administrativa em suas provas de Direito Administrativo, com questões no formato 'Certo/Errado'. O foco principal recai sobre a literalidade do Art. 54 da Lei nº 9.784/1999, incluindo seus parágrafos. É comum a cobrança da distinção entre decadência e prescrição, bem como a aplicação do prazo de 5 anos e a exceção da má-fé. A banca também explora a contagem do prazo para atos com efeitos patrimoniais contínuos (primeiro pagamento). Questões sobre a relativização da decadência em casos de inconstitucionalidade flagrante, conforme o entendimento do STF (Tema 839), são cada vez mais presentes. As 'pegadinhas' típicas envolvem a confusão entre os institutos da prescrição e decadência, a inversão dos prazos ou a desconsideração da má-fé como fator impeditivo da decadência. A CEBRASPE valoriza a compreensão dos princípios da segurança jurídica e da autotutela, e como a decadência os equilibra.",
+      "content_type": "teoria"
+    }
+  ],
+  "topicos": [
+    {
+      "external_topic_code": "top_001",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "4.11.1",
+      "title": "Conceito e Fundamento Legal da Decadência Administrativa",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 1
+    },
+    {
+      "external_topic_code": "top_002",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "4.11.2",
+      "title": "Distinção entre Decadência e Prescrição no Direito Administrativo",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 2
+    },
+    {
+      "external_topic_code": "top_003",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "4.11.3",
+      "title": "Prazo Decadencial e sua Contagem",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 3
+    },
+    {
+      "external_topic_code": "top_004",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "4.11.4",
+      "title": "Exceções e Relativização da Decadência",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 4
+    },
+    {
+      "external_topic_code": "top_005",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "4.11.5",
+      "title": "Decadência e os Princípios Administrativos",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 5
+    },
+    {
+      "external_topic_code": "top_006",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "4.11.6",
+      "title": "Padrão de Cobrança CEBRASPE em Decadência Administrativa",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 6
+    }
+  ],
+  "topico_componentes": [
+    {
+      "component_id": "cmp_001",
+      "topic_id": "top_001",
+      "component_type": "Componente",
+      "content": "Perda do direito da Administração de anular atos ilegais pelo decurso do tempo.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_002",
+      "topic_id": "top_001",
+      "component_type": "Componente",
+      "content": "Art. 54 da Lei nº 9.784/1999 (Lei do Processo Administrativo Federal).",
+      "order": 2
+    },
+    {
+      "component_id": "cmp_003",
+      "topic_id": "top_002",
+      "component_type": "Componente",
+      "content": "Extingue o próprio direito material; em regra, irrenunciável e não se interrompe/suspende.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_004",
+      "topic_id": "top_002",
+      "component_type": "Componente",
+      "content": "Extingue a pretensão (direito de ação); pode ser interrompida/suspensa e renunciada.",
+      "order": 2
+    },
+    {
+      "component_id": "cmp_005",
+      "topic_id": "top_003",
+      "component_type": "Componente",
+      "content": "5 (cinco) anos, contados da data da prática do ato.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_006",
+      "topic_id": "top_003",
+      "component_type": "Componente",
+      "content": "Contagem do prazo a partir da percepção do primeiro pagamento.",
+      "order": 2
+    },
+    {
+      "component_id": "cmp_007",
+      "topic_id": "top_003",
+      "component_type": "Componente",
+      "content": "Súmula 633 do STJ: aplicação analógica do prazo federal de 5 anos na ausência de lei local.",
+      "order": 3
+    },
+    {
+      "component_id": "cmp_008",
+      "topic_id": "top_004",
+      "component_type": "Componente",
+      "content": "Comprovada má-fé afasta a decadência; a Administração pode anular o ato a qualquer tempo.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_009",
+      "topic_id": "top_004",
+      "component_type": "Componente",
+      "content": "Relativização do prazo decadencial para atos flagrantemente inconstitucionais (STF, RE 817.338 - Tema 839).",
+      "order": 2
+    },
+    {
+      "component_id": "cmp_010",
+      "topic_id": "top_005",
+      "component_type": "Componente",
+      "content": "Poder-dever da Administração de anular atos ilegais (Súmulas 346 e 473 STF).",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_011",
+      "topic_id": "top_005",
+      "component_type": "Componente",
+      "content": "A decadência protege a estabilidade das relações jurídicas e a legítima expectativa do administrado de boa-fé.",
+      "order": 2
+    },
+    {
+      "component_id": "cmp_012",
+      "topic_id": "top_006",
+      "component_type": "Componente",
+      "content": "Literalidade do Art. 54 da Lei nº 9.784/99, distinção de prescrição, má-fé, contagem de prazo e jurisprudência do STF (Tema 839).",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_013",
+      "topic_id": "top_006",
+      "component_type": "Componente",
+      "content": "Confusão entre decadência e prescrição, prazos incorretos, desconsideração da má-fé, aplicação a atos inconstitucionais.",
+      "order": 2
+    }
+  ],
+  "pegadinhas": [
+    {
+      "trap_id": "peg_001",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": "Confusão entre Decadência e Prescrição",
+      "description": "A CEBRASPE frequentemente tenta confundir os conceitos, prazos e efeitos da decadência e da prescrição. Lembre-se que a decadência extingue o direito, enquanto a prescrição extingue a pretensão.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 1
+    },
+    {
+      "trap_id": "peg_002",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": "Prazo para Atos de Má-fé",
+      "description": "A banca pode afirmar que o prazo decadencial de 5 anos se aplica mesmo em caso de má-fé. **ERRADO!** A comprovada má-fé afasta a decadência, permitindo a anulação a qualquer tempo.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 2
+    },
+    {
+      "trap_id": "peg_003",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": "Contagem do Prazo em Efeitos Contínuos",
+      "description": "Cuidado com a contagem do prazo para atos com efeitos patrimoniais contínuos. O prazo decai da percepção do **primeiro pagamento**, e não da data do ato original ou de cada pagamento subsequente.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 3
+    },
+    {
+      "trap_id": "peg_004",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": "Decadência e Atos Inconstitucionais",
+      "description": "A CEBRASPE pode tentar induzir ao erro afirmando que a decadência sempre consolida atos inconstitucionais. Lembre-se da relativização do prazo em casos de inconstitucionalidade flagrante, conforme o Tema 839 do STF.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 4
+    },
+    {
+      "trap_id": "peg_005",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": "Aplicação da Lei Federal a Outros Entes",
+      "description": "A banca pode questionar a aplicação do Art. 54 da Lei nº 9.784/99 a Estados e Municípios. Lembre-se da Súmula 633 do STJ, que permite a aplicação analógica na ausência de lei local.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 5
+    }
+  ],
+  "pontos_memorizacao": [
+    {
+      "memory_id": "mem_001",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": null,
+      "content": "Prazo geral de decadência: 5 anos (Art. 54, Lei nº 9.784/99).",
+      "order": 1
+    },
+    {
+      "memory_id": "mem_002",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": null,
+      "content": "Exceção ao prazo: Comprovada má-fé do beneficiário (não decai).",
+      "order": 2
+    },
+    {
+      "memory_id": "mem_003",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": null,
+      "content": "Efeitos patrimoniais contínuos: Prazo contado do primeiro pagamento.",
+      "order": 3
+    },
+    {
+      "memory_id": "mem_004",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": null,
+      "content": "Decadência extingue o direito; Prescrição extingue a pretensão.",
+      "order": 4
+    },
+    {
+      "memory_id": "mem_005",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": null,
+      "content": "Autotutela da Administração: Poder-dever de anular atos ilegais (Súmulas 346 e 473 STF).",
+      "order": 5
+    },
+    {
+      "memory_id": "mem_006",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": null,
+      "content": "Atos inconstitucionais: Prazo decadencial pode ser relativizado (STF, Tema 839).",
+      "order": 6
+    },
+    {
+      "memory_id": "mem_007",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": null,
+      "content": "Aplicação da Lei Federal a Estados/Municípios: Súmula 633 STJ (analogia).",
+      "order": 7
+    }
+  ],
+  "quadro_sinotico_itens": [
+    {
+      "summary_item_id": "sum_001",
+      "title": null,
+      "content": "Decadência: Extingue o direito material. Prescrição: Extingue a pretensão (direito de ação).",
+      "order": 1
+    },
+    {
+      "summary_item_id": "sum_002",
+      "title": null,
+      "content": "Decadência: Em regra, não admite. Prescrição: Admite.",
+      "order": 2
+    },
+    {
+      "summary_item_id": "sum_003",
+      "title": null,
+      "content": "Decadência: Irrenunciável. Prescrição: Renunciável após consumada.",
+      "order": 3
+    },
+    {
+      "summary_item_id": "sum_004",
+      "title": null,
+      "content": "5 anos (Art. 54, Lei nº 9.784/99).",
+      "order": 4
+    },
+    {
+      "summary_item_id": "sum_005",
+      "title": null,
+      "content": "Data da prática do ato.",
+      "order": 5
+    },
+    {
+      "summary_item_id": "sum_006",
+      "title": null,
+      "content": "Percepção do primeiro pagamento.",
+      "order": 6
+    },
+    {
+      "summary_item_id": "sum_007",
+      "title": null,
+      "content": "Comprovada má-fé do beneficiário (não decai).",
+      "order": 7
+    },
+    {
+      "summary_item_id": "sum_008",
+      "title": null,
+      "content": "Prazo pode ser relativizado (STF, Tema 839).",
+      "order": 8
+    }
+  ],
+  "questoes": [
+    {
+      "question_id": "qst_001",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": null,
+      "year": null,
+      "organization": null,
+      "role": null,
+      "statement": "O direito da Administração Pública de anular atos administrativos de que decorram efeitos favoráveis para os destinatários decai em cinco anos, contados da data em que foram praticados, salvo comprovada má-fé.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "Correto. O enunciado reproduz fielmente o caput do Art. 54 da Lei nº 9.784/1999, que é a base legal da decadência administrativa no âmbito federal.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_001"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_002",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": null,
+      "year": null,
+      "organization": null,
+      "role": null,
+      "statement": "No caso de atos administrativos que gerem efeitos patrimoniais contínuos, o prazo de decadência para a Administração anular tais atos contar-se-á da data da prática do ato original, e não da percepção do primeiro pagamento.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "Errado. Conforme o § 1º do Art. 54 da Lei nº 9.784/1999, no caso de efeitos patrimoniais contínuos, o prazo de decadência contar-se-á da percepção do primeiro pagamento, e não da data da prática do ato original.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_002"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_003",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": null,
+      "year": null,
+      "organization": null,
+      "role": null,
+      "statement": "A decadência administrativa, diferentemente da prescrição, extingue a pretensão de exigir um direito, mantendo o direito material intacto.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "Errado. A decadência extingue o próprio direito material, enquanto a prescrição extingue a pretensão (o direito de ação). A afirmação inverte os conceitos.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_003"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_004",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": null,
+      "year": null,
+      "organization": null,
+      "role": null,
+      "statement": "Mesmo na ausência de lei estadual ou municipal específica, o prazo decadencial de 5 anos previsto na Lei nº 9.784/99 pode ser aplicado por analogia a Estados e Municípios, em observância ao princípio da isonomia.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "Correto. Este é o entendimento consolidado na Súmula 633 do STJ, que permite a aplicação analógica do prazo federal de 5 anos a outros entes federativos na ausência de legislação própria.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_004"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_005",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": null,
+      "year": null,
+      "organization": null,
+      "role": null,
+      "statement": "A comprovada má-fé do administrado beneficiário de um ato administrativo ilegal não impede a consumação do prazo decadencial de cinco anos para a Administração anular o referido ato.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "Errado. A ressalva final do Art. 54 da Lei nº 9.784/1999 é clara: 'salvo comprovada má-fé'. A má-fé afasta a incidência do prazo decadencial, permitindo a anulação a qualquer tempo.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_005"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_006",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": null,
+      "year": null,
+      "organization": null,
+      "role": null,
+      "statement": "O Supremo Tribunal Federal entende que, em situações de inconstitucionalidade flagrante, a Administração Pública pode rever atos administrativos mesmo após o decurso do prazo decadencial, desde que assegurado o devido processo legal.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "Correto. O STF, no julgamento do RE 817.338 (Tema 839), relativizou o prazo decadencial para atos flagrantemente inconstitucionais, desde que observados o devido processo legal e a não devolução de valores recebidos de boa-fé.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_006"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_007",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": null,
+      "year": null,
+      "organization": null,
+      "role": null,
+      "statement": "O princípio da autotutela da Administração Pública, que lhe confere o poder de anular seus próprios atos ilegais, é absoluto e não sofre qualquer limitação temporal, mesmo diante da boa-fé do administrado.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "Errado. O princípio da autotutela não é absoluto. Ele é limitado pelo princípio da segurança jurídica e pela proteção da boa-fé do administrado, sendo a decadência um dos instrumentos que impõem essa limitação temporal.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_007"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_008",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": null,
+      "year": null,
+      "organization": null,
+      "role": null,
+      "statement": "A decadência administrativa, por ser um instituto de ordem pública, não pode ser renunciada pelo administrado, e o juiz deve conhecê-la de ofício, quando estabelecida por lei.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "Correto. A decadência legal é irrenunciável e deve ser conhecida de ofício pelo juiz, conforme o Art. 210 do Código Civil, aplicável subsidiariamente ao Direito Administrativo.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_008"
+        ],
+        "count": 1
+      }
+    }
+  ],
+  "comentarios_questoes": [
+    {
+      "comment_id": "com_001",
+      "question_id": "qst_001",
+      "content": "Correto. O enunciado reproduz fielmente o caput do Art. 54 da Lei nº 9.784/1999, que é a base legal da decadência administrativa no âmbito federal.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_002",
+      "question_id": "qst_002",
+      "content": "Errado. Conforme o § 1º do Art. 54 da Lei nº 9.784/1999, no caso de efeitos patrimoniais contínuos, o prazo de decadência contar-se-á da percepção do primeiro pagamento, e não da data da prática do ato original.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_003",
+      "question_id": "qst_003",
+      "content": "Errado. A decadência extingue o próprio direito material, enquanto a prescrição extingue a pretensão (o direito de ação). A afirmação inverte os conceitos.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_004",
+      "question_id": "qst_004",
+      "content": "Correto. Este é o entendimento consolidado na Súmula 633 do STJ, que permite a aplicação analógica do prazo federal de 5 anos a outros entes federativos na ausência de legislação própria.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_005",
+      "question_id": "qst_005",
+      "content": "Errado. A ressalva final do Art. 54 da Lei nº 9.784/1999 é clara: 'salvo comprovada má-fé'. A má-fé afasta a incidência do prazo decadencial, permitindo a anulação a qualquer tempo.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_006",
+      "question_id": "qst_006",
+      "content": "Correto. O STF, no julgamento do RE 817.338 (Tema 839), relativizou o prazo decadencial para atos flagrantemente inconstitucionais, desde que observados o devido processo legal e a não devolução de valores recebidos de boa-fé.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_007",
+      "question_id": "qst_007",
+      "content": "Errado. O princípio da autotutela não é absoluto. Ele é limitado pelo princípio da segurança jurídica e pela proteção da boa-fé do administrado, sendo a decadência um dos instrumentos que impõem essa limitação temporal.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_008",
+      "question_id": "qst_008",
+      "content": "Correto. A decadência legal é irrenunciável e deve ser conhecida de ofício pelo juiz, conforme o Art. 210 do Código Civil, aplicável subsidiariamente ao Direito Administrativo.",
+      "explanation_alternatives": ""
+    }
+  ],
+  "checklist_revisao": [
+    {
+      "checklist_id": "chk_001",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Compreender o Art. 54 da Lei nº 9.784/99 e seus parágrafos.",
+      "completed": false,
+      "order": 1
+    },
+    {
+      "checklist_id": "chk_002",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Diferenciar claramente decadência de prescrição (objeto, interrupção/suspensão, renunciabilidade).",
+      "completed": false,
+      "order": 2
+    },
+    {
+      "checklist_id": "chk_003",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Memorizar o prazo geral de 5 anos e a contagem para efeitos patrimoniais contínuos.",
+      "completed": false,
+      "order": 3
+    },
+    {
+      "checklist_id": "chk_004",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Entender a exceção da má-fé e sua implicação na contagem do prazo.",
+      "completed": false,
+      "order": 4
+    },
+    {
+      "checklist_id": "chk_005",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Conhecer a Súmula 633 do STJ sobre a aplicação do prazo federal a outros entes.",
+      "completed": false,
+      "order": 5
+    },
+    {
+      "checklist_id": "chk_006",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Analisar a relativização da decadência em atos inconstitucionais (STF, Tema 839).",
+      "completed": false,
+      "order": 6
+    },
+    {
+      "checklist_id": "chk_007",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Revisar os princípios da autotutela, segurança jurídica e boa-fé em relação à decadência.",
+      "completed": false,
+      "order": 7
+    },
+    {
+      "checklist_id": "chk_008",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Praticar questões CEBRASPE sobre o tema, focando nas pegadinhas comuns.",
+      "completed": false,
+      "order": 8
+    }
+  ],
+  "referencias": [
+    {
+      "reference_id": "ref_001",
+      "material_id": "mat_001",
+      "reference_type": "Legislação",
+      "author_name": null,
+      "title": "Lei nº 9.784, de 29 de janeiro de 1999",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "http://www.planalto.gov.br/ccivil_03/leis/L9784.htm",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_002",
+      "material_id": "mat_001",
+      "reference_type": "Jurisprudência",
+      "author_name": null,
+      "title": "Súmula 346 do Supremo Tribunal Federal",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.stf.jus.br/portal/jurisprudencia/menuSumario.asp?sumula=346",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_003",
+      "material_id": "mat_001",
+      "reference_type": "Jurisprudência",
+      "author_name": null,
+      "title": "Súmula 473 do Supremo Tribunal Federal",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.stf.jus.br/portal/jurisprudencia/menuSumario.asp?sumula=473",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_004",
+      "material_id": "mat_001",
+      "reference_type": "Jurisprudência",
+      "author_name": null,
+      "title": "Súmula 633 do Superior Tribunal de Justiça",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.stj.jus.br/docs_internet/docs/bibliotecaDigital/sumulas/Sumula_633.pdf",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_005",
+      "material_id": "mat_001",
+      "reference_type": "Jurisprudência",
+      "author_name": null,
+      "title": "Recurso Extraordinário (RE) 817.338 (Tema 839 de Repercussão Geral)",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=4560707",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_006",
+      "material_id": "mat_001",
+      "reference_type": "Doutrina",
+      "author_name": null,
+      "title": "Doutrina Consolidada de Direito Administrativo",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": null,
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_007",
+      "material_id": "mat_001",
+      "reference_type": "Banca Examinadora",
+      "author_name": null,
+      "title": "Questões Anteriores CEBRASPE (CESPE)",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": null,
+      "accessed_at": null,
+      "description": null
+    }
+  ],
+  "estatisticas_de_geracao": {
+    "total_topicos": 6,
+    "total_componentes_topico": 13,
+    "total_entendimentos_relevantes": 6,
+    "total_pegadinhas": 5,
+    "total_pontos_memorizacao": 7,
+    "total_itens_quadro_sinotico": 8,
+    "total_questoes": 8,
+    "total_comentarios_questoes": 8,
+    "total_itens_checklist": 8,
+    "total_referencias": 7
+  },
+  "validacao_interna": {
+    "pesquisa_previa_realizada": true,
+    "analise_de_cobrancas_anteriores_realizada": true,
+    "material_atualizado": true,
+    "json_valido": true,
+    "estrutura_relacional_respeitada": true,
+    "numeracao_respeitada": true,
+    "houve_quebra_de_hierarquia": false,
+    "houve_nivel_numerico_superior_a_3": false,
+    "fontes_verificadas": true,
+    "sem_informacao_inventada": true
+  },
+  "metadata": {
+    "source_file_name": "4__direito-administrativo__4-atos-administrativos-4.11-decadência-administrativa.json",
+    "normalized_checksum": "28f02e30c7817bc5a66abefe29940009e4f5c8f2e1825ba3997798471494835a",
+    "subject_slug": "dir-adm",
+    "material_slug": "decadencia-administrativa",
+    "title_slug": "decadencia-administrativa",
+    "board_slug": "cebraspe",
+    "counters": {
+      "blocks": 6,
+      "topics": 6,
+      "topic_components": 13,
+      "traps": 5,
+      "memory_points": 7,
+      "summary_items": 8,
+      "questions": 8,
+      "question_comments": 8,
+      "checklist_items": 8,
+      "references": 7
+    }
+  }
+}

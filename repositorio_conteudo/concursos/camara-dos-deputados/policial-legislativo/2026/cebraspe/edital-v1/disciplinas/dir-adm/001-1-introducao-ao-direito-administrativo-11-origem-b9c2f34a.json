@@ -1,0 +1,1282 @@
+{
+  "schema_version": "1.0",
+  "normalized_at": "2026-04-07T15:39:13.600664-03:00",
+  "normalizer_version": "2.0.0",
+  "exported_at": "2026-04-07T16:54:00Z",
+  "source_request": {
+    "purpose": "Concurso público",
+    "general_area": "Direito",
+    "subject_name": "Direito Administrativo",
+    "subarea_name": "Direito Administrativo",
+    "main_theme": "1 Introdução ao direito administrativo: 1.1 Origem, natureza jurídica e objeto do direito administrativo",
+    "theme_scope": "Teoria completa, incidência em prova, padrão de cobrança da banca, pegadinhas e questões comentadas",
+    "board_style": "CEBRASPE",
+    "depth_level": "Exaustivo",
+    "goal": "Teoria completa, revisão estratégica, pegadinhas e questões comentadas",
+    "base_topic_number": "1",
+    "topic_title": "1 Introdução ao direito administrativo: 1.1 Origem, natureza jurídica e objeto do direito administrativo",
+    "syllabus_reference": "Conteúdo programático da disciplina Direito Administrativo",
+    "priority_sources": [
+      "Constituição Federal e legislação oficial vigente",
+      "Jurisprudência pertinente e atual, quando cabível",
+      "Doutrina consolidada",
+      "Questões anteriores da banca"
+    ],
+    "minimum_questions": 8,
+    "question_format": "Certo/Errado",
+    "prioritize_real_questions": true,
+    "response_language": "português",
+    "target_audience": "Candidato de concurso público",
+    "additional_notes": "Executar exatamente para esta linha individual do topicos.txt. Não juntar com outros tópicos. Não pular este tópico. Dar destaque ao padrão de cobrança da banca, aos pontos mais cobrados e às pegadinhas recorrentes.",
+    "input_hash": "4c8e50fa472b",
+    "extras": {}
+  },
+  "material": {
+    "material_id": "mat_001",
+    "slug": "introducao-direito-administrativo-origem-natureza-objeto",
+    "title": "Introdução ao Direito Administrativo: Origem, Natureza Jurídica e Objeto",
+    "base_number": "1",
+    "topic_title": "1 Introdução ao direito administrativo: 1.1 Origem, natureza jurídica e objeto do direito administrativo",
+    "purpose": "Concurso público",
+    "area_name": "Direito",
+    "subject_name": "Direito Administrativo",
+    "subarea_name": "Direito Administrativo",
+    "main_theme": "1 Introdução ao direito administrativo: 1.1 Origem, natureza jurídica e objeto do direito administrativo",
+    "theme_scope": "Teoria completa, incidência em prova, padrão de cobrança da banca, pegadinhas e questões comentadas",
+    "board_style": "CEBRASPE",
+    "depth_level": "Exaustivo",
+    "study_goal": "Teoria completa, revisão estratégica, pegadinhas e questões comentadas",
+    "target_audience": "Candidato de concurso público",
+    "language_code": "português",
+    "update_status": "Atualizado",
+    "current_note": "Material atualizado com base na doutrina consolidada, legislação vigente e padrão de cobrança da banca CEBRASPE até a data de geração.",
+    "has_case_law": true,
+    "case_law_justification": "A jurisprudência é abordada como fonte do Direito Administrativo e sua relevância no sistema jurídico brasileiro, conforme o padrão de cobrança da banca.",
+    "has_information_limitation": false,
+    "information_limitation_desc": null,
+    "content_checksum": "placeholder_checksum",
+    "extras": {}
+  },
+  "blocos_textuais": [
+    {
+      "external_block_code": "blc_001",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 1,
+      "title": "1.1.1 Origem Histórica do Direito Administrativo",
+      "content": "O Direito Administrativo, como ramo autônomo do Direito Público, tem sua origem historicamente ligada ao surgimento do Estado de Direito e à Revolução Francesa (final do século XVIII e início do século XIX). Antes desse período, predominava o Estado Absolutista, no qual o monarca detinha poderes ilimitados, e não havia submissão do governante à lei. A Revolução Francesa, ao consagrar os princípios da legalidade, da separação de poderes e da declaração dos direitos do homem e do cidadão, impôs limites à atuação estatal, criando a necessidade de um conjunto de normas específicas para regular a Administração Pública. Um marco fundamental foi a instituição do Conselho de Estado Francês, que, a partir de 1872, passou a proferir decisões soberanas sobre questões administrativas, não passíveis de revisão pelo Poder Judiciário, consolidando o sistema do contencioso administrativo. Outro evento relevante foi o 'Arrêt Blanco' (Caso Blanco), de 1873, que estabeleceu a responsabilidade do Estado por atos de gestão de serviços públicos, aplicando um regime jurídico especial, distinto do direito privado.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_002",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 2,
+      "title": "1.1.2 Sistemas Administrativos: Francês (Contencioso Administrativo) e Inglês (Jurisdição Única)",
+      "content": "A origem do Direito Administrativo está intrinsecamente ligada à distinção entre dois grandes sistemas administrativos: o sistema francês (ou de contencioso administrativo) e o sistema inglês (ou de jurisdição única).\n\n**Sistema Francês (Contencioso Administrativo ou Dualidade de Jurisdição):**\nCaracteriza-se pela existência de duas esferas jurisdicionais distintas: o Poder Judiciário (para litígios entre particulares) e uma jurisdição administrativa (com tribunais próprios para julgar conflitos envolvendo a Administração Pública). As decisões da jurisdição administrativa têm força de coisa julgada e, em regra, não podem ser revistas pelo Poder Judiciário comum. Este sistema foi fundamental para o desenvolvimento do Direito Administrativo como ramo autônomo.\n\n**Sistema Inglês (Jurisdição Única ou Judicial):**\nNeste sistema, o Poder Judiciário detém o monopólio da jurisdição, ou seja, todos os conflitos, sejam entre particulares ou envolvendo a Administração Pública, são resolvidos pela justiça comum. As decisões proferidas pela própria Administração Pública não possuem força de coisa julgada material e podem ser revistas pelo Poder Judiciário. O Brasil adota o sistema de jurisdição única, também conhecido como sistema inglês, conforme o princípio da inafastabilidade do controle jurisdicional (art. 5º, XXXV, da CF/88).",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_003",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 3,
+      "title": "1.1.3 Natureza Jurídica do Direito Administrativo",
+      "content": "O Direito Administrativo possui natureza jurídica de ramo do Direito Público. Ele se distingue do Direito Privado por regular as relações em que a Administração Pública atua com supremacia (verticalidade) em relação aos particulares, visando ao interesse público, e não à igualdade entre as partes. É um direito não codificado, ou seja, suas normas não estão reunidas em um único código, mas dispersas em diversas leis, decretos, regulamentos, além de ser fortemente influenciado pela doutrina e jurisprudência. Caracteriza-se pela mutabilidade e dinamismo, adaptando-se constantemente às novas demandas sociais e às transformações do Estado.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_004",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 4,
+      "title": "1.1.4 Objeto do Direito Administrativo",
+      "content": "O objeto central do Direito Administrativo é o estudo da **função administrativa**. Em sentido amplo, a função administrativa abrange as atividades exercidas pelo Estado (e seus delegatários) para a consecução dos fins públicos, distinguindo-se das funções legislativa e jurisdicional. Mais especificamente, o Direito Administrativo disciplina:\n\n*   **Organização Administrativa:** Estrutura dos órgãos, entidades e agentes que compõem a Administração Pública (direta e indireta).\n*   **Atividade Administrativa:** As formas de atuação da Administração, como o poder de polícia, o fomento, a prestação de serviços públicos e a intervenção.\n*   **Bens Públicos:** O regime jurídico dos bens pertencentes à Administração Pública.\n*   **Intervenção do Estado:** Na propriedade e na economia, sempre visando ao interesse coletivo.\n*   **Controle da Administração Pública:** Mecanismos de fiscalização e revisão dos atos administrativos.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_005",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 5,
+      "title": "1.1.5 Critérios de Definição do Direito Administrativo (Padrão CEBRASPE)",
+      "content": "A doutrina buscou diversos critérios para conceituar o Direito Administrativo, sendo importante conhecer as principais abordagens e suas críticas, frequentemente cobradas pela CEBRASPE.\n\n*   **Critério Legalista ou Exegético:** Define o Direito Administrativo como o conjunto de leis administrativas vigentes. Crítica: muito abrangente, pois outros ramos do direito também estudam leis.\n*   **Critério do Poder Executivo:** Considera o Direito Administrativo como o ramo que trata das atividades do Poder Executivo. Crítica: ignora que os Poderes Legislativo e Judiciário também exercem função administrativa de forma atípica.\n*   **Critério do Serviço Público (Escola do Serviço Público):** Para essa escola (francesa, com Duguit e Bonnard), o objeto do Direito Administrativo são os serviços públicos prestados pelo Estado. Crítica: restrito, pois a Administração Pública não atua somente na disciplina dos serviços públicos.\n*   **Critério das Relações Jurídicas:** Vê o Direito Administrativo como o conjunto de normas que regem as relações entre a Administração e os administrados. Crítica: insuficiente, pois outros ramos do direito público também regulam essas relações, e o Direito Administrativo abrange mais do que isso (organização interna, bens).\n*   **Critério Teleológico ou Finalístico:** Define o Direito Administrativo como o sistema de princípios jurídicos que regulam a atividade do Estado para o cumprimento de seus fins (interesse público). Crítica: embora importante, é considerado muito amplo e não delimita o objeto de forma precisa.\n*   **Critério Negativista ou Residual:** Conceitua o Direito Administrativo por exclusão, abrangendo todas as atividades estatais que não sejam legislativas ou jurisdicionais. Crítica: não considera a aplicação do direito privado à Administração Pública em certas situações.\n*   **Critério da Administração Pública (ou Subjetivo/Orgânico e Objetivo/Material/Funcional):** É o critério mais aceito pela doutrina majoritária.\n    *   **Sentido Subjetivo, Formal ou Orgânico:** Refere-se ao conjunto de órgãos, entidades e agentes que exercem a função administrativa.\n    *   **Sentido Objetivo, Material ou Funcional:** Refere-se à própria função ou atividade administrativa desempenhada, independentemente do órgão que a executa.\n    A CEBRASPE frequentemente explora a confusão entre esses dois sentidos.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_006",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 6,
+      "title": "1.1.6 Fontes do Direito Administrativo (Padrão CEBRASPE)",
+      "content": "As fontes do Direito Administrativo são os meios pelos quais as normas e princípios administrativos se manifestam. A CEBRASPE costuma cobrar a hierarquia e a natureza dessas fontes.\n\n*   **Lei (Fonte Primária/Direta):** É a principal fonte do Direito Administrativo no Brasil, que adota o sistema da *civil law* (tradição romano-germânica). Inclui a Constituição Federal, leis em sentido amplo (ordinárias, complementares, delegadas, decretos legislativos, resoluções, tratados internacionais), decretos e regulamentos.\n*   **Jurisprudência (Fonte Secundária/Indireta):** Consiste nas decisões reiteradas dos tribunais sobre determinado tema. Embora seja fonte secundária, súmulas vinculantes e decisões em controle concentrado de constitucionalidade têm força vinculante e se aproximam das fontes primárias.\n*   **Doutrina (Fonte Secundária/Indireta):** São as opiniões e estudos dos especialistas sobre os institutos e normas do Direito.\n*   **Costumes (Fonte Secundária/Indireta):** Práticas reiteradas que geram a convicção de obrigatoriedade. No Brasil, são fontes secundárias e não principais.",
+      "content_type": "teoria"
+    }
+  ],
+  "topicos": [
+    {
+      "external_topic_code": "top_001",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "1",
+      "title": "Introdução ao Direito Administrativo",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 1
+    },
+    {
+      "external_topic_code": "top_002",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_001",
+      "topic_number": "1.1",
+      "title": "Origem, Natureza Jurídica e Objeto do Direito Administrativo",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 2
+    },
+    {
+      "external_topic_code": "top_003",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_002",
+      "topic_number": "1.1.1",
+      "title": "Origem Histórica",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 3
+    },
+    {
+      "external_topic_code": "top_004",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_002",
+      "topic_number": "1.1.2",
+      "title": "Sistemas Administrativos (Francês e Inglês)",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 4
+    },
+    {
+      "external_topic_code": "top_005",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_002",
+      "topic_number": "1.1.3",
+      "title": "Natureza Jurídica",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 5
+    },
+    {
+      "external_topic_code": "top_006",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_002",
+      "topic_number": "1.1.4",
+      "title": "Objeto",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 6
+    },
+    {
+      "external_topic_code": "top_007",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_002",
+      "topic_number": "1.1.5",
+      "title": "Critérios de Definição",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 7
+    },
+    {
+      "external_topic_code": "top_008",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_002",
+      "topic_number": "1.1.6",
+      "title": "Fontes do Direito Administrativo",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 8
+    }
+  ],
+  "topico_componentes": [
+    {
+      "component_id": "cmp_001",
+      "topic_id": "top_003",
+      "component_type": "Componente",
+      "content": "A Revolução Francesa é o marco do surgimento do Direito Administrativo, com a consagração dos princípios da legalidade e separação de poderes.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_002",
+      "topic_id": "top_003",
+      "component_type": "Componente",
+      "content": "A instituição do Conselho de Estado Francês e o 'Arrêt Blanco' (1873) são considerados marcos na autonomia do Direito Administrativo, estabelecendo um regime jurídico especial para a Administração.",
+      "order": 2
+    },
+    {
+      "component_id": "cmp_003",
+      "topic_id": "top_004",
+      "component_type": "Componente",
+      "content": "Caracterizado pela dualidade de jurisdição (Poder Judiciário e jurisdição administrativa), onde as decisões administrativas não são, em regra, revistas pelo Judiciário comum.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_004",
+      "topic_id": "top_004",
+      "component_type": "Componente",
+      "content": "Caracterizado pelo monopólio do Poder Judiciário na resolução de todos os conflitos, inclusive os administrativos. O Brasil adota este sistema.",
+      "order": 2
+    },
+    {
+      "component_id": "cmp_005",
+      "topic_id": "top_005",
+      "component_type": "Componente",
+      "content": "O Direito Administrativo é um ramo do Direito Público, regulando as relações em que a Administração Pública atua com supremacia, visando ao interesse coletivo.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_006",
+      "topic_id": "top_005",
+      "component_type": "Componente",
+      "content": "Não possui um código único, sendo suas normas dispersas e em constante evolução para se adaptar às necessidades sociais.",
+      "order": 2
+    },
+    {
+      "component_id": "cmp_007",
+      "topic_id": "top_006",
+      "component_type": "Componente",
+      "content": "O objeto principal do Direito Administrativo é a função administrativa, que abrange a organização, atividade, bens e controle da Administração Pública.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_008",
+      "topic_id": "top_007",
+      "component_type": "Componente",
+      "content": "Conhecer os critérios Legalista, do Poder Executivo, do Serviço Público, das Relações Jurídicas, Teleológico, Negativista e, principalmente, o da Administração Pública (sentido subjetivo e objetivo) é fundamental para a CEBRASPE.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_009",
+      "topic_id": "top_008",
+      "component_type": "Componente",
+      "content": "No Brasil (sistema *civil law*), a lei (em sentido amplo) é a principal fonte do Direito Administrativo.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_010",
+      "topic_id": "top_008",
+      "component_type": "Componente",
+      "content": "Jurisprudência, doutrina e costumes são fontes secundárias, mas a jurisprudência, especialmente súmulas vinculantes, pode ter grande relevância prática.",
+      "order": 2
+    }
+  ],
+  "pegadinhas": [
+    {
+      "trap_id": "peg_001",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": "Confusão entre Sistema Francês e Inglês no Brasil",
+      "description": "A CEBRASPE frequentemente tenta confundir o candidato afirmando que o Brasil adota o sistema francês (contencioso administrativo) ou que há dualidade de jurisdição. O Brasil adota o sistema inglês (jurisdição única).",
+      "example_error": "No direito administrativo, adota-se o modelo francês de jurisdição como forma de controle da administração. (ERRADO)",
+      "how_to_avoid": "",
+      "order": 1
+    },
+    {
+      "trap_id": "peg_002",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": "Confusão entre Sentido Objetivo e Subjetivo da Administração Pública",
+      "description": "A banca inverte ou mistura os conceitos de Administração Pública em sentido objetivo (função/atividade) e subjetivo (órgãos/entes/agentes).",
+      "example_error": "A administração pública em sentido objetivo, material ou funcional pode ser definida como o conjunto de órgãos e de pessoas jurídicas aos quais a lei atribui o exercício da função administrativa do Estado. (ERRADO - isso é o sentido subjetivo)",
+      "how_to_avoid": "",
+      "order": 2
+    },
+    {
+      "trap_id": "peg_003",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": "Lei como Única Fonte do Direito Administrativo",
+      "description": "Embora a lei seja a principal fonte, a CEBRASPE pode afirmar que é a *única*, desconsiderando a jurisprudência, doutrina e costumes.",
+      "example_error": "Devido à aplicação do princípio da legalidade, a única fonte do direito administrativo é a lei, razão pela qual não se pode aplicar a doutrina ou a jurisprudência como fontes. (ERRADO)",
+      "how_to_avoid": "",
+      "order": 3
+    },
+    {
+      "trap_id": "peg_004",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": "Direito Administrativo como Ramo do Direito Privado",
+      "description": "A banca pode tentar induzir ao erro afirmando que o Direito Administrativo é ramo do Direito Privado. É, na verdade, ramo do Direito Público.",
+      "example_error": "Direito administrativo é o ramo do direito privado composto por regras e princípios que disciplinam as relações entre a administração pública e os particulares. (ERRADO)",
+      "how_to_avoid": "",
+      "order": 4
+    },
+    {
+      "trap_id": "peg_005",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": "Critérios de Definição Invertidos ou Atribuídos Incorretamente",
+      "description": "A CEBRASPE frequentemente descreve um critério de definição e o atribui a outro, ou inverte suas características. Exemplo: descrever o critério das relações jurídicas e atribuí-lo ao teleológico.",
+      "example_error": "De acordo com o critério teleológico, o direito administrativo é um conjunto de normas que regem as relações entre a administração e os administrados. (ERRADO - isso é o critério das relações jurídicas)",
+      "how_to_avoid": "",
+      "order": 5
+    }
+  ],
+  "pontos_memorizacao": [
+    {
+      "memory_id": "mem_001",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": null,
+      "content": "Origem: Revolução Francesa e Estado de Direito. Marcos: Conselho de Estado Francês e 'Arrêt Blanco'.",
+      "order": 1
+    },
+    {
+      "memory_id": "mem_002",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": null,
+      "content": "Brasil adota o Sistema Inglês (Jurisdição Única), com controle judicial pleno dos atos administrativos. NÃO adota o sistema francês (Contencioso Administrativo).",
+      "order": 2
+    },
+    {
+      "memory_id": "mem_003",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": null,
+      "content": "Natureza Jurídica: Ramo do Direito PÚBLICO.",
+      "order": 3
+    },
+    {
+      "memory_id": "mem_004",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": null,
+      "content": "Objeto: Estudo da FUNÇÃO ADMINISTRATIVA.",
+      "order": 4
+    },
+    {
+      "memory_id": "mem_005",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": null,
+      "content": "Critério mais aceito: da Administração Pública (Subjetivo/Orgânico e Objetivo/Material/Funcional).",
+      "order": 5
+    },
+    {
+      "memory_id": "mem_006",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": null,
+      "content": "Fontes: Lei (principal), Jurisprudência, Doutrina e Costumes (secundárias). Súmulas vinculantes e decisões em controle concentrado têm força de lei.",
+      "order": 6
+    },
+    {
+      "memory_id": "mem_007",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": null,
+      "content": "Administração Pública em sentido SUBJETIVO/ORGÂNICO: quem (órgãos, entes, agentes).",
+      "order": 7
+    },
+    {
+      "memory_id": "mem_008",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": null,
+      "content": "Administração Pública em sentido OBJETIVO/MATERIAL/FUNCIONAL: o que (atividade administrativa).",
+      "order": 8
+    }
+  ],
+  "quadro_sinotico_itens": [
+    {
+      "summary_item_id": "sum_001",
+      "title": null,
+      "content": "",
+      "order": 1
+    },
+    {
+      "summary_item_id": "sum_002",
+      "title": null,
+      "content": "",
+      "order": 2
+    },
+    {
+      "summary_item_id": "sum_003",
+      "title": null,
+      "content": "",
+      "order": 3
+    },
+    {
+      "summary_item_id": "sum_004",
+      "title": null,
+      "content": "",
+      "order": 4
+    },
+    {
+      "summary_item_id": "sum_005",
+      "title": null,
+      "content": "",
+      "order": 5
+    },
+    {
+      "summary_item_id": "sum_006",
+      "title": null,
+      "content": "",
+      "order": 6
+    },
+    {
+      "summary_item_id": "sum_007",
+      "title": null,
+      "content": "",
+      "order": 7
+    },
+    {
+      "summary_item_id": "sum_008",
+      "title": null,
+      "content": "",
+      "order": 8
+    },
+    {
+      "summary_item_id": "sum_009",
+      "title": null,
+      "content": "",
+      "order": 9
+    },
+    {
+      "summary_item_id": "sum_010",
+      "title": null,
+      "content": "",
+      "order": 10
+    }
+  ],
+  "questoes": [
+    {
+      "question_id": "qst_001",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": "CEBRASPE",
+      "year": 2021,
+      "organization": "PGE-PB (Adaptada)",
+      "role": "Procurador do Estado",
+      "statement": "O Direito Administrativo, como ramo autônomo do Direito Público, teve sua origem consolidada no Brasil com a adoção do sistema de contencioso administrativo, inspirado no modelo francês.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "E",
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "ERRADO. O Brasil adota o sistema inglês, ou de jurisdição única, no qual o Poder Judiciário é o único a proferir decisões definitivas, com força de coisa julgada material, sobre litígios que envolvam a Administração Pública. O sistema de contencioso administrativo, de origem francesa, não é adotado no país.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_001"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_002",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": "CEBRASPE",
+      "year": 2021,
+      "organization": "PGE-PB (Adaptada)",
+      "role": "Procurador do Estado",
+      "statement": "A administração pública em sentido objetivo, material ou funcional pode ser definida como o conjunto de órgãos e de pessoas jurídicas aos quais a lei atribui o exercício da função administrativa do Estado.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "E",
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "ERRADO. O enunciado descreve a Administração Pública em sentido subjetivo (ou orgânico/formal), que se refere ao conjunto de órgãos, entidades e agentes. A Administração Pública em sentido objetivo (ou material/funcional) refere-se à própria atividade administrativa desempenhada.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_002"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_003",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": "CEBRASPE",
+      "year": 2023,
+      "organization": "Diversos (Adaptada)",
+      "role": "Analista/Técnico",
+      "statement": "De acordo com o critério orgânico, a administração pública designa o conjunto de agentes, órgãos e pessoas jurídicas responsáveis por funções administrativas.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "C",
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "CERTO. O critério orgânico (ou subjetivo/formal) de conceituação da Administração Pública foca nos sujeitos (órgãos, agentes, pessoas jurídicas) que exercem a função administrativa.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_003"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_004",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": "CEBRASPE",
+      "year": 2026,
+      "organization": "Diversos (Adaptada)",
+      "role": "Analista/Técnico",
+      "statement": "Embora a administração pública seja regida pelo princípio constitucional da legalidade, decisões judiciais podem servir como fonte para o direito administrativo, inclusive com força vinculante.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "C",
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "CERTO. Embora a lei seja a principal fonte do Direito Administrativo, a jurisprudência, especialmente as súmulas vinculantes e as decisões em controle concentrado de constitucionalidade, possui força vinculante e serve como fonte para o Direito Administrativo, complementando e interpretando a legislação.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_004"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_005",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": "CEBRASPE",
+      "year": 2019,
+      "organization": "PGE-PE",
+      "role": "Procurador do Estado",
+      "statement": "No Brasil, assim como no sistema de *common law*, o costume é uma das fontes principais do direito administrativo.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "E",
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "ERRADO. O Brasil adota o sistema da *civil law* (tradição romano-germânica), onde a lei é a principal fonte do Direito Administrativo. O costume é considerado uma fonte secundária, e não principal, diferentemente do sistema de *common law*.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_005"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_006",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": "CEBRASPE",
+      "year": 2017,
+      "organization": "TCE/PE",
+      "role": "Analista de Controle Externo",
+      "statement": "O objeto do direito administrativo é o estudo da função administrativa.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "C",
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "CERTO. A doutrina majoritária entende que o objeto do Direito Administrativo é o estudo da função administrativa, que engloba a organização, a atividade, os bens e o controle da Administração Pública.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_006"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_007",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": "CEBRASPE",
+      "year": 2019,
+      "organization": "PGE-PE",
+      "role": "Analista Judiciário de Procuradoria",
+      "statement": "De acordo com o critério teleológico, o direito administrativo é um conjunto de normas que regem as relações entre a administração e os administrados.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "E",
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "ERRADO. O critério teleológico (ou finalístico) define o Direito Administrativo como o sistema de princípios que regulam a atividade do Estado para o cumprimento de seus fins (interesse público). A descrição do enunciado corresponde ao critério das relações jurídicas.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_007"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_008",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": "CEBRASPE",
+      "year": 2025,
+      "organization": "Diversos (Adaptada)",
+      "role": "Analista/Técnico",
+      "statement": "O Direito Administrativo possui natureza jurídica de ramo do Direito Privado, composto por regras e princípios que disciplinam as relações entre a administração pública e os particulares.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "E",
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "ERRADO. O Direito Administrativo é um ramo do Direito PÚBLICO, e não do Direito Privado. Ele se caracteriza pela verticalidade nas relações entre a Administração e os particulares, visando ao interesse público.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_008"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_009",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": "ISAE (similar CEBRASPE)",
+      "year": 2011,
+      "organization": "ALE/AM",
+      "role": "Procurador",
+      "statement": "A instituição do Conselho de Estado Francês é considerada um dos marcos do surgimento do Direito Administrativo.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "C",
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "CERTO. A instituição do Conselho de Estado Francês, com sua competência para julgar litígios administrativos e a consequente formação de um corpo de normas específicas, é amplamente reconhecida como um marco fundamental para a autonomia e o desenvolvimento do Direito Administrativo.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_009"
+        ],
+        "count": 1
+      }
+    }
+  ],
+  "comentarios_questoes": [
+    {
+      "comment_id": "com_001",
+      "question_id": "qst_001",
+      "content": "ERRADO. O Brasil adota o sistema inglês, ou de jurisdição única, no qual o Poder Judiciário é o único a proferir decisões definitivas, com força de coisa julgada material, sobre litígios que envolvam a Administração Pública. O sistema de contencioso administrativo, de origem francesa, não é adotado no país.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_002",
+      "question_id": "qst_002",
+      "content": "ERRADO. O enunciado descreve a Administração Pública em sentido subjetivo (ou orgânico/formal), que se refere ao conjunto de órgãos, entidades e agentes. A Administração Pública em sentido objetivo (ou material/funcional) refere-se à própria atividade administrativa desempenhada.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_003",
+      "question_id": "qst_003",
+      "content": "CERTO. O critério orgânico (ou subjetivo/formal) de conceituação da Administração Pública foca nos sujeitos (órgãos, agentes, pessoas jurídicas) que exercem a função administrativa.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_004",
+      "question_id": "qst_004",
+      "content": "CERTO. Embora a lei seja a principal fonte do Direito Administrativo, a jurisprudência, especialmente as súmulas vinculantes e as decisões em controle concentrado de constitucionalidade, possui força vinculante e serve como fonte para o Direito Administrativo, complementando e interpretando a legislação.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_005",
+      "question_id": "qst_005",
+      "content": "ERRADO. O Brasil adota o sistema da *civil law* (tradição romano-germânica), onde a lei é a principal fonte do Direito Administrativo. O costume é considerado uma fonte secundária, e não principal, diferentemente do sistema de *common law*.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_006",
+      "question_id": "qst_006",
+      "content": "CERTO. A doutrina majoritária entende que o objeto do Direito Administrativo é o estudo da função administrativa, que engloba a organização, a atividade, os bens e o controle da Administração Pública.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_007",
+      "question_id": "qst_007",
+      "content": "ERRADO. O critério teleológico (ou finalístico) define o Direito Administrativo como o sistema de princípios que regulam a atividade do Estado para o cumprimento de seus fins (interesse público). A descrição do enunciado corresponde ao critério das relações jurídicas.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_008",
+      "question_id": "qst_008",
+      "content": "ERRADO. O Direito Administrativo é um ramo do Direito PÚBLICO, e não do Direito Privado. Ele se caracteriza pela verticalidade nas relações entre a Administração e os particulares, visando ao interesse público.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_009",
+      "question_id": "qst_009",
+      "content": "CERTO. A instituição do Conselho de Estado Francês, com sua competência para julgar litígios administrativos e a consequente formação de um corpo de normas específicas, é amplamente reconhecida como um marco fundamental para a autonomia e o desenvolvimento do Direito Administrativo.",
+      "explanation_alternatives": ""
+    }
+  ],
+  "checklist_revisao": [
+    {
+      "checklist_id": "chk_001",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Compreendeu a origem do Direito Administrativo (Revolução Francesa, Estado de Direito, Conselho de Estado Francês, Arrêt Blanco)?",
+      "completed": false,
+      "order": 1
+    },
+    {
+      "checklist_id": "chk_002",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Distinguiu os sistemas administrativos francês (contencioso) e inglês (jurisdição única) e sabe qual o adotado no Brasil?",
+      "completed": false,
+      "order": 2
+    },
+    {
+      "checklist_id": "chk_003",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Identificou a natureza jurídica do Direito Administrativo como ramo do Direito Público?",
+      "completed": false,
+      "order": 3
+    },
+    {
+      "checklist_id": "chk_004",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Conhece o objeto do Direito Administrativo (estudo da função administrativa, organização, atividade, bens, controle)?",
+      "completed": false,
+      "order": 4
+    },
+    {
+      "checklist_id": "chk_005",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Dominou os principais critérios de definição (Legalista, Poder Executivo, Serviço Público, Relações Jurídicas, Teleológico, Negativista, Administração Pública) e suas críticas?",
+      "completed": false,
+      "order": 5
+    },
+    {
+      "checklist_id": "chk_006",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Diferenciou Administração Pública em sentido subjetivo/orgânico e objetivo/material/funcional?",
+      "completed": false,
+      "order": 6
+    },
+    {
+      "checklist_id": "chk_007",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Listou as fontes do Direito Administrativo (Lei, Jurisprudência, Doutrina, Costumes) e sua hierarquia no Brasil?",
+      "completed": false,
+      "order": 7
+    },
+    {
+      "checklist_id": "chk_008",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Reconhece as pegadinhas da CEBRASPE sobre os temas de introdução ao Direito Administrativo?",
+      "completed": false,
+      "order": 8
+    }
+  ],
+  "referencias": [
+    {
+      "reference_id": "ref_001",
+      "material_id": "mat_001",
+      "reference_type": "Artigo Online",
+      "author_name": "ppconcursos.com.br",
+      "title": "Direito Administrativo",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEoIsz1GMW-y3sBwjYBGmBWkWR5xIGHELUTLRH3IzSm-JF8LiQCarpwYsYBf8fiTQc6VVBHodMfrfsHu3jcLR3ULIiZ9lwYD4b5EdBZW-WFvWy8gggYtJ93xxuO9iTtnQ8CNq-5foW9XRVOfd3hE5z1y0WnL2ME6n8LlmNYFu7432_AsJUJElxltLpW08ErdBaEaKufJHywumG=",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_002",
+      "material_id": "mat_001",
+      "reference_type": "Artigo Online",
+      "author_name": "Blog de Direito Administrativo - Subturma 17 (2023/2024)",
+      "title": "Evolução Histórica: Sistema Francês vs Sistema Inglês - Direito Administrativo - S/15 2ºB",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHbNaSxmH9OjV01u5WcYE5WMy1i-zpov0JEtIc_SRPFO4iwa7ybhGRMw6qwd9Ow_b0m1SmXyQxI-TNGCIO3bK--fUeXiL7p6n6MUYECqWAS6zsjZEjqjMrAGaKOcF0bAYVPRwMYRrzZzoOeufjJ3LXF3ZtOdZKyDncw_I3uQ2d0IcF5D4M_rdA3p5bRAfx1GgcWCzAmvPzH85xhGQ==",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_003",
+      "material_id": "mat_001",
+      "reference_type": "Artigo Online",
+      "author_name": "Blog de Direito Administrativo - Subturma 17 (2023/2024)",
+      "title": "Sistema Administrativo francês e britânico, as suas diferenças e o seu comum",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFLO0oWk1hDKFPE4UbIu2KmeC_GTgKmkdbS2HtCWhFCMfZ2DmRgvpMg7lMaTdZo3r4OWcbukHVDm6u9Nk-6z6sVjor2bE1TJgsdTq2gF3Uqubd6IK45S5_Q5KkfWnxEBDpYjs117GtB2KiiycjBwooBFPYL70ugjiWQGtkrYGe17_7Ur7juHjXVbojnSEFJcFg==",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_004",
+      "material_id": "mat_001",
+      "reference_type": "Vídeo Online",
+      "author_name": "Gustavo Oliveira",
+      "title": "ADMINISTRATIVE SYSTEMS (English and French) Public Service Examinations.",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEws9hS3VVYl-7lKwoTKwKLJzVEm2XGKgAl_umEwzV3r8QDvoht2bEaeNVya33zcn9yLqMqD2KO_X4NyfU5xw0RMWgvAdf4T5YA2kh7BuDrwRTriUVZoHDmJAZiidimnupitCPFZQ==",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_005",
+      "material_id": "mat_001",
+      "reference_type": "Artigo Online",
+      "author_name": "Anki do Delta",
+      "title": "Sistemas Administrativos - Anki do Delta",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFlW6-aWv367-_6AvtxXfueGFpQXTbsIBHNTFUB6gXtHz2psgcJT552vo-k8ir6rCtt1WAJSa1PgFTxNxB9e0elUS-A3GrCu6XDA33eji5KX4P2t3IzxYwy2NfmNMIVrFaIPH8XfgMl5b9sUQ==",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_006",
+      "material_id": "mat_001",
+      "reference_type": "Livro Eletrônico",
+      "author_name": "Jefrei Almeida Rocha",
+      "title": "Introdução ao Direito Administrativo",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEAwS_zsyqTnRQV7LNU35mfqpIYxdexXnW4AcMHV1EGqK0dN3D2u5kB4M3OMR8Kcw8lEJrArZtP_KekjNrTEu_uryeDLOy8IZsFPOTjjEPVAporBmnZXKHGly_S0zFHTeN5m8nmMcJvtiYvgsxl95InN5pVNfIklZ_eJ63_NPiWYJk30BzLa9p96OJsBYi8PbaDk3SMSK87ebK33vt_CQck6w08m3nJACT2vUnjfNA==",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_007",
+      "material_id": "mat_001",
+      "reference_type": "Artigo Online",
+      "author_name": "Âmbito Jurídico",
+      "title": "Primeiras noções de Direito Administrativo",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHJyUXzXI3Iqp03CBZlm3oOyfgn-lssUpfrjsEWC8Bly0Pni9X1bkniy4niKD6aQ36T_gJUgSUL3-EQDcHXR6BC2sryNc-O6fCJZUopPp4YjcS5lmfgtnz7Q6eu0FH69B_LjzrjYeIhXRea-4HI5cZITvryZZ2mHFGee8M4i2EbWibmoA==",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_008",
+      "material_id": "mat_001",
+      "reference_type": "Artigo Online",
+      "author_name": "Blog de Direito Administrativo - Subturma 17 (2023/2024)",
+      "title": "SISTEMAS ADMINISTRATIVOS INGLÊS E FRANCÊS – DIREITO COMPARADO",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH_4KO6GuKHhiPcXhFFG18YS_Og_ZbEYAaFFSDHEnMNzL2gLBnoV2uop7r6F-Jbsn0v0KbplGwuhhvHktiKSpsulIAi0ScVDElEBoZs281WUfKqtTmUzVFN8zKY7DMWEUAn7thOX1tOLq2FzQkoUiIK-aD5VBwEp02A6XaBbL98CnYvj3-W-NNOVGg==",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_009",
+      "material_id": "mat_001",
+      "reference_type": "Artigo Online",
+      "author_name": "Revisão Ensino Jurídico",
+      "title": "DIREITO ADMINISTRATIVO - Revisão Ensino Juridico",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFuszVeDp25_pFYc8zKxxTV8sQofBxnxE8mnh6g-xmnpydNPCVYvk7vybZ2xjxFIn9kMjw1_zRwi3N0HfqbXa83kkOdyHBFz3YfyFFyio6o4nwyUSzUpgavZ5-Xj12KNJT-kLWrT5Jcx5R-f85xTkLyJFeQtQdjK-6Wg1UCqB-hcbkKJCZczo5zuTb5-o-3ak4r6-skDTPmGV3Wsz_1iVK1kUKAJyElUQNI-7oKHF9ncVAICyOvT5zaK1B4lWq_z0cwGWbwcXk==",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_010",
+      "material_id": "mat_001",
+      "reference_type": "Vídeo Online",
+      "author_name": "Professor Ronaldo Paiva",
+      "title": "15 Questões CEBRASPE de Direito Administrativo | Origem, Conceitos e Fontes – COM GABARITO COMENTADO",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG1iVNE3b6kzQSDu2dcjH2CgJ5p6o5_mkUjn25hwAksn33p9xakOf5UpI-VFbeS3rP6zJLRgGG9eg5ebilv5xMlQL9mtlTB6-9-Y1gUy3oyy3XHIr-Gvj0SCmhlaR7_geMn91ufiw==",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_011",
+      "material_id": "mat_001",
+      "reference_type": "Artigo Online",
+      "author_name": "Projuris",
+      "title": "Direito administrativo: conceito, princípios, fontes e leis [2024]",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGNSDNYRCZEmthEKPtKS6ooafrmfgZsG0YHMo3bYU2dRgEZEZ6mAGmuy1FW8151Xs0RrPZR1gURxQ-5yKEtoaWwlOz-MTVCUT9smMKQ4EiY9TxXsbYAtIezPBhAHRMdHfW4J14WkLoY-Gm1nKIMofD0H7lmGSGYOwiEMQ==",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_012",
+      "material_id": "mat_001",
+      "reference_type": "Vídeo Online",
+      "author_name": "Professor Ronaldo Paiva",
+      "title": "15 CESPE/CEBRASPE Questions on Administrative Law | Administrative Acts – Answer Key with Commentary",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEtLSl5RIA4k_Oc-2ybvEdGBB7xExAdkMd7PcL6ve6KabeGWpBnefg3TkuXGdgRobi2U8LoluJIHXUmdOqNAbIWRQkooG9eABu011l2tF9HrXXNqzYKwNmriCtkn-4p0zSB6Ux_Gg==",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_013",
+      "material_id": "mat_001",
+      "reference_type": "Vídeo Online",
+      "author_name": "Professor Ronaldo Paiva",
+      "title": "Administrative Law CESPE/CEBRASPE – Part 2 | Origin, Concepts and Sources",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHni16c_jFSQ5R4G1Eh8MRInNAVOb4fccIk2V0pBl2zmHyqlsSk4NLgcmXOZwgrb2pwzWALm0LzOZ2RkmC6S3iLCfK0GZPcZ-90vy6omgNc0VDnF9n7JpalgA8KpOHHwaASP7NG7A==",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_014",
+      "material_id": "mat_001",
+      "reference_type": "Questão de Concurso",
+      "author_name": "Qconcursos",
+      "title": "Questão Quanto aos critérios para conceituar o direito administrativo, às fontes deste, aos órgãos e funções da admin...",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGwUviLFiQZsUwDjqAkOQy2lBc71Am79wsVQJUWF3ThAUMEENZA0a6WT5e2EhGHrxPXE5Gu9Vjecmlb3hAkZxxjgnua-b2XFnNYCn87Y5-Uj_C6KVYo_dh9-PyleaXev6bDII8Rqa3onjr5VC9lyGj6PHSDlhkHyMx9IiR8rBMTJHPg1ow==",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_015",
+      "material_id": "mat_001",
+      "reference_type": "Ebook/Material de Estudo",
+      "author_name": "Estratégia Concursos",
+      "title": "Ebook-Direito-Administrativo-Resumo-esquematizado-2.pdf",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEyntOwyeJ0r--GUeMdGsoIJirG1SDEaqs88pZZXXX_wQ7DwstYVTkvexs9Ys0vLszDip49bIsgn7eniJfz0maYXS79FkUVHkOumRx2KiUmSIubRjytdxUdEa68WJdV3eHk8QEVrQUjZtrOAdkCedLW46OlrulEdPPR-zzckMGX5k-_6ue-0PE9W6K71NehR8OHwcRQc117yjx9zWnDJIEhIKkQtBvzjQQnYStg70Jf-wUvKJSGpw==",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_016",
+      "material_id": "mat_001",
+      "reference_type": "Material de Concurso",
+      "author_name": "Cebraspe",
+      "title": "CONHECIMENTOS ESPECIALIZADOS DIREITO ADMINISTRATIVO",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG8mqyGRPtZQLnC0BZdxyZleByTjv2n9-jcRTv8q9eejYP2CSwOb4e9UgG_6thuqfzTdhp39yAxP9hj352QGSAqMwaYq82drWZ9krGSqXYQYge6Ibsq5jy2kx1QhrS3K0blJRYTiZSvY5wNWZv09A347yba8zxQdC_UChsF8UdcsJYuUzNOjr9e3Vm17xrHRg==",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_017",
+      "material_id": "mat_001",
+      "reference_type": "Artigo Online",
+      "author_name": "Escola Paulista da Magistratura",
+      "title": "Breve conceituação de função administrativa",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHeWGzEKcCosyH53HLjE7Qo_sIOsyQaTV_Koedru3iqMRBzCItmddSmbPZcljyTesGhVk6Lte9b6A2NonhmGmHYfsPOzvHdpi1O6ZMGnROHlcIFObINtHnxk35ChKPDHby5gQ6vF6re_4FA8MJI8FNGKIUHRCgB4xN6UeZkHB5ex9NQvjQ8f_A5Mr_OXEdcTpEIVLwxjTv2q-xa",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_018",
+      "material_id": "mat_001",
+      "reference_type": "Artigo Online",
+      "author_name": "Estratégia Concursos",
+      "title": "Jurisprudências de Direito Administrativo - Estratégia Concursos",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEOblF4krCZp4BoPpK2Z4XZg8D12mhBEWHeBc6_euJW-2M0lrAxrBW4XODRcWEtBm74KjmFIezG5Xxv_avRrnHsLOcsRyT0oZ2PNrfHyf1QCFo3xZEg3W-PEOW4ZJXLCstZmweQm9OwgsrPCXvKrP8vUXPRBNc9HmpE7faCOlz_fjpCuxJkaTwLPfak-A==",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_019",
+      "material_id": "mat_001",
+      "reference_type": "Artigo Online",
+      "author_name": "Gran Cursos Online",
+      "title": "Direito Administrativo em concurso público: 10 questões comentadas da banca Cebraspe",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGvSSZDFebrn2pIl6cfkAERzHnHev-TXEyLVGHQ_9aahpOiXR7Kr8r3YFcyz6cDwnb4pkJzPZJwv_WF9VkUSFtAx6f48_CR3wULtHX7xsnZ48f8kjQRGsJZxtPGFTZSgYAmMYlPwVsU1YMPqW7JK-HDDWOdSWs2yGmTjUs4JPy1YeE2wf-IBuwMkVMtZ29kK3-XBlly",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_020",
+      "material_id": "mat_001",
+      "reference_type": "Artigo Online",
+      "author_name": "Qconcursos",
+      "title": "Questões de Concurso sobre Direito Administrativo para CESPE / CEBRASPE nível Superior | Qconcursos.com",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG4l2BHk1EcYcDhIwJ10368foQdQNkA_96Wfkp2a_VdrFQvDY9CBtmf9UEoLlkrpUUGrY11dvRGguo-VGkei86z5eUxlAFrovaIBtsi2YPEFbWyfUCTHPdyQBccMNFh1aNPuRYCR80R_izNSdiGmGBseGIoIlYFrsI9O5hlGtBFq8JL19qIeEgLnVB0YFTLaLj4LyoO6C6Ws5H9n8XPxYNq48u7dDuBvoHtJmEnRDlFG6nJkmI6-KYdGAw89PjH",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_021",
+      "material_id": "mat_001",
+      "reference_type": "Material de Estudo",
+      "author_name": "ProEdu",
+      "title": "Introdução ao Direito Administrativo",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEDB3HD6_vUkjKkEgseaolLb-TRA5Efb0AdYabyz0IkweoxuMVuUAvdcocQ_ypiK3n8pWXOQSOKyd6b6SmKcNsAYY1JrtunUINn-FPY3bLLYlBZaiT--fEDZlG7Qo7GhjXQZ9arXGroj_NiW1M4X6WtGLrBEIvJJJcgckm3JmuYmJE57Yy3mk7xuvLhiIoRVbo1IfBndNKY93y3XjWsHSuvxMYOqL2PNvMsHyKJ2bEWCRBEK6dy",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_022",
+      "material_id": "mat_001",
+      "reference_type": "Artigo Online",
+      "author_name": "Gran Cursos Online",
+      "title": "Direito Administrativo: conceito, princípios e fontes",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGqO0EwxWxKNYQGKOgcOWYxLdm4XhAhpUY4RLpcBZfSanV9a_qeVoztdhHq0wBEEZGknvBxiQEMJe_8FpBcqkTxd6Fb2ZH4d4PZsNc0qbDXQT7WZcILqOKBuA2x_6_plf-bjj-k1aPX_VD564v4Hi4jxqJ8025_",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_023",
+      "material_id": "mat_001",
+      "reference_type": "Material de Concurso",
+      "author_name": "Cebraspe",
+      "title": "PROVA ORAL DIREITO ADMINISTRATIVO E DIREITO CONSTITUCIONAL QUESTÃO 1",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEVeIKApphwhz2QCVigzt8f1-HzuCPAX9tw-syvGLmNcKe58c1V51K_LFQZAiB18W7nYzhspGq-bkUZf2Y9TNbUsbDCQWnYPGOo5h8UzMcUW6Ah07muJ3g41xujvtQYIzlJ33k4U-yqHXbnZz0usaUNqBpycxyMO32irdCbCN4fnHc7MVjRSr6hFhPmUJQ4Gk_4Z_oVvTO7Hc01kXk=",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_024",
+      "material_id": "mat_001",
+      "reference_type": "Material de Concurso",
+      "author_name": "CESPE | CEBRASPE – TCE/PE – Aplicação: 2017",
+      "title": "CONHECIMENTOS ESPECÍFICOS",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH7MYZKlF4yCW_uKxm2l5gOuzcCkJZKTyVGrEvd8520ts4kA-qUv5ifbLwJMSlM8vXmL1_aPpJoX1qNq9HunyNBhL0W-AOOdx59qNXHpyT9XjPbHh65jz9zqPy1ssIAu9AOTRopa8l15M02KIa3oWEbcPQu8yFHp3fG6n4ajM_ZlUxQelEqVVM=",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_025",
+      "material_id": "mat_001",
+      "reference_type": "Vídeo Online",
+      "author_name": "Professor André Sócrates",
+      "title": "20 FGV and Cebraspe pranks",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGYK6bCtZs8ofvYr9OprGHRRPW2H0d2Iah69kCTRMrjg-aVSi4RcIbj2yNvGzqVSgiGATP9hSGe1eE5gVpqg5I5qWRhT-FKLP5vb4yDVJltWb9TV9joXkpz381gO5C4_Lxps90ixw==",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_026",
+      "material_id": "mat_001",
+      "reference_type": "Vídeo Online",
+      "author_name": "Professor Ronaldo Paiva",
+      "title": "Atos Administrativos - Banca CEBRASPE - Rodada de Questões com Ronaldo Paiva",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGoe_862kNRmxXRdGX2s3m5bZBqQ90mtZSxKS47Vyamn5F_XRPGq8XBsM6Bj5HiCRbYcFpg6To3ejdkwUivP2BfkUqzhb9fACvw_VT6qMjODBA2YzdeCvFVrzrxETWdx9bpGar5dQ==",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_027",
+      "material_id": "mat_001",
+      "reference_type": "Artigo Online",
+      "author_name": "Qconcursos",
+      "title": "Sobre os conceitos de Direito Administrativo, de função adm...",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGWd5doqp4cfqxf7qbJ59w-zeXOY_KNFD3uj05Vp3Xf7jabl09jGqacaI7Lc5p8eZIo6dpm6Gf6tAVQzyNqoLUK53-YpOYbxMhkjBjc491ORxDdz-zET8B1dvI8fp_W3HsDSxUhM4JnXYWcit1Y4mpES6Xa0f5t2nbVD2iEg9vx",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_028",
+      "material_id": "mat_001",
+      "reference_type": "Artigo Online",
+      "author_name": "Qconcursos",
+      "title": "Sobre a origem do Direito Administrativo, é correto afirmar ...",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGlVwcUXq7YMKssDCWXr7Pk65FKqZP_dA_n0eBBslVe-ysBuBAcgYfaI_AIfM7mwmRwKBvPVl2xB3E9yTrdj9mk3GBDU7WEsI_QcTbwrWIZ-x83kICR_CGayReHte1ubwO1cHu01YkmuH34F4cX9CrvbdZ_eO6NqB0I_AO6J328",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_029",
+      "material_id": "mat_001",
+      "reference_type": "Artigo Online",
+      "author_name": "Estratégia Concursos",
+      "title": "Assuntos cobrados em Direito Administrativo pelo CEBRASPE - Estratégia Concursos",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGJgd1xdhlvobUOAw9_8ycc7BE8H09HuXRJyTkF72JSpg_u7CQLBTbyoUkAGwMGaOK99yk4gnPd_ne4DXzbN89bz4Ie2DF6w_MzMTxwC7Aeq8krjSHCur9yGQxWifI0OX1gjbAiW4aqimSuJzXO1lq2CRMHKsde7cBJplhAFQ1A0BjYW1n8QN_dMhvyZTVQUfUv3Q==",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_030",
+      "material_id": "mat_001",
+      "reference_type": "Artigo Online",
+      "author_name": "Qconcursos",
+      "title": "O Direito Administrativo possui natureza jurídica de ramo d...",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF5YKeUAasMqlxoOoMflJYtJY7FmVO2qSqgLCCUX7sXkWLgjLXiuUjXHh_rdgBcyWPMvTmO4YAX2C43KxxJr37wOKeU6yQaDTtR9qWwxzPT7Ou7LvCZOcwa5Dc1Pge4j6xwTaPIRDGaO8IaC-uNtlsTNGwQNtrW8t1dqyHNwsJn",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_031",
+      "material_id": "mat_001",
+      "reference_type": "Vídeo Online",
+      "author_name": "Natalia Lacerda",
+      "title": "QUESTÃO DE CONCURSO – PEGADINHA | NÃO CAIA NESTA PEGADINHA | DIREITO ADMINISTRATIVO",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEfo-EDeiROzNIIuhyCKobjmXPy-VGt2s1DkOhERy_qQgzrfYXzzR6pkrAq66tgLrpGnr08M10vtbvih73IHFiIAhrx4iqwzN3opPo7pw-eKEE4uEXhafqRQrMa7u2yaGzT52XyyA==",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_032",
+      "material_id": "mat_001",
+      "reference_type": "Material de Estudo",
+      "author_name": "cespe.unb.br",
+      "title": "PROVA OBJETIVA DIREITO ADMINISTRATIVO",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFJih3AlWQw4IK3kTPIfUqgsOQYlCiWwtATfdB1MadI3n6eaOnNJOE-dp44pa0H44DFBQM_SHP7wkmIa2FZyrcH2Xn__f4gqjnsMl5rTosFG3QCiq7HkGr76z0UhvLId0WlbIg4XBSwIvhnF-o3T2CWXT12Ct1nFMit9m0y6eKnWo0VzIbzYNPyvwuCiWP",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_033",
+      "material_id": "mat_001",
+      "reference_type": "Artigo Online",
+      "author_name": "M.F. Laferriere",
+      "title": "a doutrina e a jurisprudência na elaboração do direito administrativo",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGSUsaYKXDU5bfOrsRrmLi9mvUb32XC9zzqk-3Kd25mqV7zcEpRryl0W1b3la_dX71eQtsNikZWp51Me5RRz9X_iAwwSCI6DJLWDZ4WHeMVHlxieJRIAvJnrgCEL_LbRBahtqW0GFc4c2Tsne4Y0bPEDMhHPk6ObMldSA==",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_034",
+      "material_id": "mat_001",
+      "reference_type": "Material de Estudo",
+      "author_name": "Faculdade de Direito de Franca",
+      "title": "Resumo-de-Direito-Administrativo-2017-01.docx",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHCvyWbggdUHsG2yYsGpAzeqBN8s1yNK3qDX3fdNvS9KExSkz3yVvj_u5rzIWt2gsV5u9P5jQGBeAfjZmL5Sc59FDFsQSU-4q5gHEbHR3E4KAJeDpKpMBvN-pewCElBdYFsYr5wE-VvSReIT-LyKUOARA8HDuCLHpmidyCsuVy4f4qMRPKnIVIdCbyEsgrBcHHsvvr0==",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_035",
+      "material_id": "mat_001",
+      "reference_type": "Material de Estudo",
+      "author_name": "Beezu",
+      "title": "Amostra Direito Administrativo",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGxsMtH5SL8hoXtoqGs6XMp21VR9CM5cIGGXl3A3GZ4sFyt9mTHi7NlW69kyRxc7c9J3S1YEZ-JCUfUapBxXczjQziicbuTu-PqR536Jv8oc5aTDXFuyK_gf4x6if_U57d5w-NRR48XcsCjHY7TKvnoq4j0EfbYWgx3NMihHnWZQlxwBBzbwc7XpdRaUUiRNMpK2YqSOp6OjQ3-0XTEKb6xlKMcmTXVbGBrf86-4MFrQxQXlQFIxnLzdGgoqLlS0i_fYeSIu9UCASW6XdAoFBxA1wJT",
+      "accessed_at": null,
+      "description": null
+    }
+  ],
+  "estatisticas_de_geracao": {
+    "total_topicos": 8,
+    "total_componentes_topico": 10,
+    "total_entendimentos_relevantes": 3,
+    "total_pegadinhas": 5,
+    "total_pontos_memorizacao": 8,
+    "total_itens_quadro_sinotico": 10,
+    "total_questoes": 9,
+    "total_comentarios_questoes": 9,
+    "total_itens_checklist": 8,
+    "total_referencias": 35
+  },
+  "validacao_interna": {
+    "pesquisa_previa_realizada": true,
+    "analise_de_cobrancas_anteriores_realizada": true,
+    "material_atualizado": true,
+    "json_valido": true,
+    "estrutura_relacional_respeitada": true,
+    "numeracao_respeitada": true,
+    "houve_quebra_de_hierarquia": false,
+    "houve_nivel_numerico_superior_a_3": false,
+    "fontes_verificadas": true,
+    "sem_informacao_inventada": true
+  },
+  "metadata": {
+    "source_file_name": "1__direito-administrativo__1-introdução-ao-direito-administrativo-1.1-origem-natureza-jurídica-e-objeto-do-direito-administrativo.json",
+    "normalized_checksum": "b63bc8e6ea88a76c8ea1c52dab3eaab0414b715121cbd11ecf31c93a3e36963c",
+    "subject_slug": "dir-adm",
+    "material_slug": "introducao-direito-administrativo-origem",
+    "title_slug": "introducao-ao-direito-administrativo-origem",
+    "board_slug": "cebraspe",
+    "counters": {
+      "blocks": 6,
+      "topics": 8,
+      "topic_components": 10,
+      "traps": 5,
+      "memory_points": 8,
+      "summary_items": 10,
+      "questions": 9,
+      "question_comments": 9,
+      "checklist_items": 8,
+      "references": 35
+    }
+  }
+}

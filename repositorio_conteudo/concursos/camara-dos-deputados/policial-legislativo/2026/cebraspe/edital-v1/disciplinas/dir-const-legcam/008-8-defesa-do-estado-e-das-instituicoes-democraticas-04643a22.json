@@ -1,0 +1,953 @@
+{
+  "schema_version": "1.0",
+  "normalized_at": "2026-04-07T15:39:14.740832-03:00",
+  "normalizer_version": "2.0.0",
+  "exported_at": "2026-04-07T16:41:00Z",
+  "source_request": {
+    "purpose": "Concurso público",
+    "general_area": "Direito",
+    "subject_name": "Direito Constitucional e Legislação Interna da Câmara dos Deputados",
+    "subarea_name": "Direito Constitucional",
+    "main_theme": "8 Defesa do Estado e das instituições democráticas",
+    "theme_scope": "Teoria completa, incidência em prova, padrão de cobrança da banca, pegadinhas e questões comentadas",
+    "board_style": "CEBRASPE",
+    "depth_level": "Exaustivo",
+    "goal": "Teoria completa, revisão estratégica, pegadinhas e questões comentadas",
+    "base_topic_number": "8",
+    "topic_title": "8 Defesa do Estado e das instituições democráticas",
+    "syllabus_reference": "Conteúdo programático da disciplina Direito Constitucional e Legislação Interna da Câmara dos Deputados",
+    "priority_sources": [
+      "Constituição Federal e legislação oficial vigente",
+      "Jurisprudência pertinente e atual, quando cabível",
+      "Doutrina consolidada",
+      "Questões anteriores da banca"
+    ],
+    "minimum_questions": 8,
+    "question_format": "Certo/Errado",
+    "prioritize_real_questions": true,
+    "response_language": "português",
+    "target_audience": "Candidato de concurso público",
+    "additional_notes": "Executar exatamente para esta linha individual do topicos.txt. Não juntar com outros tópicos. Não pular este tópico. Dar destaque ao padrão de cobrança da banca, aos pontos mais cobrados e às pegadinhas recorrentes.",
+    "input_hash": "646a22e8bba0",
+    "extras": {}
+  },
+  "material": {
+    "material_id": "mat_001",
+    "slug": "defesa-do-estado-e-instituicoes-democraticas-cebraspe",
+    "title": "Defesa do Estado e das Instituições Democráticas",
+    "base_number": "8",
+    "topic_title": "8 Defesa do Estado e das instituições democráticas",
+    "purpose": "Concurso público",
+    "area_name": "Direito",
+    "subject_name": "Direito Constitucional e Legislação Interna da Câmara dos Deputados",
+    "subarea_name": "Direito Constitucional",
+    "main_theme": "8 Defesa do Estado e das instituições democráticas",
+    "theme_scope": "Teoria completa, incidência em prova, padrão de cobrança da banca, pegadinhas e questões comentadas",
+    "board_style": "CEBRASPE",
+    "depth_level": "Exaustivo",
+    "study_goal": "Teoria completa, revisão estratégica, pegadinhas e questões comentadas",
+    "target_audience": "Candidato de concurso público",
+    "language_code": "português",
+    "update_status": "Atualizado",
+    "current_note": "A Lei de Segurança Nacional (Lei nº 7.170/83) foi revogada pela Lei nº 14.197/2021, que inseriu os crimes contra o Estado Democrático de Direito no Código Penal. Esta atualização é crucial e foi incorporada.",
+    "has_case_law": true,
+    "case_law_justification": "A jurisprudência do STF é relevante para a compreensão dos limites do Estado de Defesa e Estado de Sítio, bem como para a atuação das Forças Armadas e a classificação das Guardas Municipais como órgãos de segurança pública.",
+    "has_information_limitation": false,
+    "information_limitation_desc": null,
+    "content_checksum": "placeholder_checksum_v1",
+    "extras": {}
+  },
+  "blocos_textuais": [
+    {
+      "external_block_code": "blc_001",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 1,
+      "title": "Introdução à Defesa do Estado e das Instituições Democráticas",
+      "content": "O Título V da Constituição Federal de 1988 (CF/88), compreendendo os artigos 136 a 144, estabelece o arcabouço jurídico para a Defesa do Estado e das Instituições Democráticas. Este tema é fundamental para a preservação da ordem constitucional e da soberania nacional, sendo frequentemente cobrado em concursos públicos, especialmente pela banca CEBRASPE. A matéria abrange o Sistema Constitucional de Crises (Estado de Defesa e Estado de Sítio), as Forças Armadas e a Segurança Pública.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_002",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 2,
+      "title": "Sistema Constitucional de Crises: Princípios Fundamentais",
+      "content": "O Sistema Constitucional de Crises, que engloba o Estado de Defesa e o Estado de Sítio, é regido por princípios basilares que visam a estabilização e defesa da Constituição contra perturbações da ordem. São eles: Princípio da Necessidade (a decretação só se justifica por fatos que a exijam e nas situações taxativamente previstas na CF), Princípio da Temporariedade (as medidas são temporárias, com prazos definidos e possibilidade de prorrogação limitada) e Princípio da Proporcionalidade (as medidas devem ser proporcionais aos fatos que as justificaram).",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_003",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 3,
+      "title": "Estado de Defesa (Art. 136 da CF/88)",
+      "content": "O Estado de Defesa pode ser decretado pelo Presidente da República, após ouvir o Conselho da República e o Conselho de Defesa Nacional, para preservar ou restabelecer a ordem pública ou a paz social em locais restritos e determinados. As hipóteses são: grave e iminente instabilidade institucional ou calamidades de grandes proporções na natureza. Sua duração não pode ser superior a trinta dias, prorrogável uma única vez por igual período. O decreto deve especificar a duração, as áreas abrangidas e as medidas coercitivas, que podem incluir restrições aos direitos de reunião (mesmo em associações), sigilo de correspondência e sigilo de comunicações telegráficas e telefônicas. A prisão por crime contra o Estado, determinada pelo executor da medida, deve ser comunicada imediatamente ao juiz competente, que a relaxará se não for legal. O Congresso Nacional apreciará o decreto em até dez dias do recebimento, por maioria absoluta.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_004",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 4,
+      "title": "Estado de Sítio (Art. 137 a 139 da CF/88)",
+      "content": "O Estado de Sítio, medida mais gravosa, exige autorização prévia do Congresso Nacional, solicitada pelo Presidente da República após ouvir os Conselhos da República e de Defesa Nacional. As hipóteses são: I) comoção grave de repercussão nacional ou ocorrência de fatos que comprovem a ineficácia de medida tomada durante o Estado de Defesa; II) declaração de estado de guerra ou resposta a agressão armada estrangeira. Na primeira hipótese (inciso I), o prazo máximo é de trinta dias, prorrogável por igual período, mas admite-se *múltiplas prorrogações* por até trinta dias cada, desde que persistam os motivos. Na segunda hipótese (inciso II), pode ser decretado por todo o tempo que durar a guerra ou a agressão armada estrangeira. O decreto indicará a duração, as normas de execução e as garantias constitucionais suspensas, podendo abranger a obrigação de permanência em localidade determinada, busca e apreensão domiciliar, intervenção nas empresas de serviços públicos e restrições à liberdade de reunião, sigilo de correspondência e comunicações.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_005",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 5,
+      "title": "Forças Armadas (Art. 142 e 143 da CF/88)",
+      "content": "As Forças Armadas, constituídas pela Marinha, Exército e Aeronáutica, são instituições nacionais permanentes e regulares, organizadas com base na hierarquia e disciplina, sob a autoridade suprema do Presidente da República. Destinam-se à defesa da Pátria, à garantia dos poderes constitucionais e, por iniciativa de qualquer destes, da lei e da ordem. Sua atuação é primariamente voltada para a defesa externa, sendo a garantia da lei e da ordem (GLO) uma função subsidiária e excepcional, mediante requisição. Não cabe *habeas corpus* em relação a punições disciplinares militares. O serviço militar é obrigatório nos termos da lei.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_006",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 6,
+      "title": "Segurança Pública (Art. 144 da CF/88)",
+      "content": "A segurança pública é dever do Estado, direito e responsabilidade de todos, exercida para a preservação da ordem pública e da incolumidade das pessoas e do patrimônio. Os órgãos de segurança pública são: Polícia Federal, Polícia Rodoviária Federal, Polícia Ferroviária Federal, Polícias Civis, Polícias Militares, Corpos de Bombeiros Militares e Polícias Penais (federal, estaduais e distrital). As Polícias Militares e os Corpos de Bombeiros Militares são forças auxiliares e reserva do Exército, subordinando-se aos Governadores dos Estados e do Distrito Federal. O Supremo Tribunal Federal (STF) entende que as Guardas Municipais, embora não listadas expressamente no rol do art. 144, são órgãos de segurança pública e podem atuar no patrulhamento ostensivo.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_007",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 7,
+      "title": "Crimes contra o Estado Democrático de Direito (Lei nº 14.197/2021)",
+      "content": "A Lei nº 14.197/2021 revogou a antiga Lei de Segurança Nacional (Lei nº 7.170/83) e inseriu no Código Penal (Título XII da Parte Especial) os crimes contra o Estado Democrático de Direito. Esta nova legislação tipifica condutas como atentado à soberania, atentado à integridade nacional, espionagem, abolição violenta do Estado Democrático de Direito, golpe de Estado, interrupção de processo eleitoral, violência política e sabotagem. É importante ressaltar que a manifestação crítica aos poderes constitucionais, a atividade jornalística ou a reivindicação de direitos e garantias constitucionais por meio de passeatas, reuniões, greves, aglomerações ou qualquer outra forma de manifestação política com propósitos sociais *não constituem crime* previsto neste Título.",
+      "content_type": "teoria"
+    }
+  ],
+  "topicos": [
+    {
+      "external_topic_code": "top_001",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "8.1",
+      "title": "Sistema Constitucional de Crises",
+      "reference_block_external_id": "blc_002",
+      "level": 1,
+      "order": 1
+    },
+    {
+      "external_topic_code": "top_002",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "8.1.1",
+      "title": "Estado de Defesa",
+      "reference_block_external_id": "blc_003",
+      "level": 1,
+      "order": 2
+    },
+    {
+      "external_topic_code": "top_003",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "8.1.2",
+      "title": "Estado de Sítio",
+      "reference_block_external_id": "blc_004",
+      "level": 1,
+      "order": 3
+    },
+    {
+      "external_topic_code": "top_004",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "8.2",
+      "title": "Forças Armadas",
+      "reference_block_external_id": "blc_005",
+      "level": 1,
+      "order": 4
+    },
+    {
+      "external_topic_code": "top_005",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "8.3",
+      "title": "Segurança Pública",
+      "reference_block_external_id": "blc_006",
+      "level": 1,
+      "order": 5
+    },
+    {
+      "external_topic_code": "top_006",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "8.4",
+      "title": "Crimes contra o Estado Democrático de Direito",
+      "reference_block_external_id": "blc_007",
+      "level": 1,
+      "order": 6
+    }
+  ],
+  "topico_componentes": [
+    {
+      "component_id": "cmp_001",
+      "topic_id": "top_002",
+      "component_type": "subtopico",
+      "content": "Grave e iminente instabilidade institucional ou calamidades de grandes proporções na natureza.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_002",
+      "topic_id": "top_002",
+      "component_type": "subtopico",
+      "content": "Decreto presidencial, ouvidos o Conselho da República e o Conselho de Defesa Nacional. Apreciação posterior do Congresso Nacional em 10 dias.",
+      "order": 2
+    },
+    {
+      "component_id": "cmp_003",
+      "topic_id": "top_002",
+      "component_type": "subtopico",
+      "content": "Não superior a 30 dias, prorrogável uma única vez por igual período.",
+      "order": 3
+    },
+    {
+      "component_id": "cmp_004",
+      "topic_id": "top_002",
+      "component_type": "subtopico",
+      "content": "Reunião (mesmo em associações), sigilo de correspondência e de comunicações telegráficas e telefônicas.",
+      "order": 4
+    },
+    {
+      "component_id": "cmp_005",
+      "topic_id": "top_003",
+      "component_type": "subtopico",
+      "content": "I) Comoção grave de repercussão nacional ou ineficácia do Estado de Defesa; II) Declaração de guerra ou agressão armada estrangeira.",
+      "order": 5
+    },
+    {
+      "component_id": "cmp_006",
+      "topic_id": "top_003",
+      "component_type": "subtopico",
+      "content": "Solicitação do Presidente da República ao Congresso Nacional (após ouvir os Conselhos), que autoriza por maioria absoluta.",
+      "order": 6
+    },
+    {
+      "component_id": "cmp_007",
+      "topic_id": "top_003",
+      "component_type": "subtopico",
+      "content": "Hipótese I: Não superior a 30 dias, admitindo múltiplas prorrogações por até 30 dias cada. Hipótese II: Por todo o tempo que durar a guerra ou agressão.",
+      "order": 7
+    },
+    {
+      "component_id": "cmp_008",
+      "topic_id": "top_003",
+      "component_type": "subtopico",
+      "content": "Obrigação de permanência em localidade determinada, busca e apreensão domiciliar, intervenção em empresas de serviços públicos, restrições à liberdade de reunião, sigilo de correspondência e comunicações.",
+      "order": 8
+    },
+    {
+      "component_id": "cmp_009",
+      "topic_id": "top_004",
+      "component_type": "subtopico",
+      "content": "Defesa da Pátria, garantia dos poderes constitucionais e, por iniciativa de qualquer destes, da lei e da ordem.",
+      "order": 9
+    },
+    {
+      "component_id": "cmp_0010",
+      "topic_id": "top_004",
+      "component_type": "subtopico",
+      "content": "Não cabe habeas corpus em relação a punições disciplinares militares.",
+      "order": 10
+    },
+    {
+      "component_id": "cmp_0011",
+      "topic_id": "top_005",
+      "component_type": "subtopico",
+      "content": "Polícia Federal, Polícia Rodoviária Federal, Polícia Ferroviária Federal, Polícias Civis, Polícias Militares, Corpos de Bombeiros Militares e Polícias Penais (federal, estaduais e distrital).",
+      "order": 11
+    },
+    {
+      "component_id": "cmp_0012",
+      "topic_id": "top_005",
+      "component_type": "subtopico",
+      "content": "Polícias Militares e Corpos de Bombeiros Militares são forças auxiliares e reserva do Exército.",
+      "order": 12
+    },
+    {
+      "component_id": "cmp_0013",
+      "topic_id": "top_005",
+      "component_type": "subtopico",
+      "content": "As Guardas Municipais são consideradas órgãos de segurança pública pelo STF, podendo atuar no patrulhamento ostensivo.",
+      "order": 13
+    },
+    {
+      "component_id": "cmp_0014",
+      "topic_id": "top_006",
+      "component_type": "subtopico",
+      "content": "A Lei nº 7.170/83 (Lei de Segurança Nacional) foi revogada pela Lei nº 14.197/2021.",
+      "order": 14
+    },
+    {
+      "component_id": "cmp_0015",
+      "topic_id": "top_006",
+      "component_type": "subtopico",
+      "content": "Inseridos no Título XII da Parte Especial do Código Penal pela Lei nº 14.197/2021. Incluem atentado à soberania, golpe de Estado, violência política, entre outros.",
+      "order": 15
+    },
+    {
+      "component_id": "cmp_0016",
+      "topic_id": "top_006",
+      "component_type": "subtopico",
+      "content": "Não constitui crime a manifestação crítica aos poderes constitucionais, atividade jornalística ou reivindicação de direitos e garantias constitucionais com propósitos sociais.",
+      "order": 16
+    }
+  ],
+  "pegadinhas": [
+    {
+      "trap_id": "peg_001",
+      "material_id": "mat_001",
+      "topic_id": "top_002",
+      "title": "Pegadinha 1",
+      "description": "Confundir a necessidade de autorização prévia do Congresso Nacional para o Estado de Defesa. No Estado de Defesa, o Presidente DECRETA e, em 24 horas, submete ao Congresso para APRECIAÇÃO posterior.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 1
+    },
+    {
+      "trap_id": "peg_002",
+      "material_id": "mat_001",
+      "topic_id": "top_003",
+      "title": "Pegadinha 2",
+      "description": "Confundir a duração e prorrogação do Estado de Sítio na hipótese de comoção grave (Art. 137, I). Admite-se múltiplas prorrogações por até 30 dias cada, e não apenas uma única vez como no Estado de Defesa.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 2
+    },
+    {
+      "trap_id": "peg_003",
+      "material_id": "mat_001",
+      "topic_id": "top_004",
+      "title": "Pegadinha 3",
+      "description": "Afirmar que Polícias Militares e Corpos de Bombeiros Militares são forças auxiliares das Forças Armadas. Eles são forças auxiliares e reserva do EXÉRCITO.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 3
+    },
+    {
+      "trap_id": "peg_004",
+      "material_id": "mat_001",
+      "topic_id": "top_005",
+      "title": "Pegadinha 4",
+      "description": "Considerar o rol do art. 144 da CF/88 como exaustivo para todos os fins, desconsiderando o entendimento do STF sobre as Guardas Municipais.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 4
+    },
+    {
+      "trap_id": "peg_005",
+      "material_id": "mat_001",
+      "topic_id": "top_006",
+      "title": "Pegadinha 5",
+      "description": "Aplicar a antiga Lei de Segurança Nacional (Lei nº 7.170/83) em questões atuais, ignorando sua revogação pela Lei nº 14.197/2021.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 5
+    },
+    {
+      "trap_id": "peg_006",
+      "material_id": "mat_001",
+      "topic_id": "top_002",
+      "title": "Pegadinha 6",
+      "description": "Confundir as restrições de direitos entre Estado de Defesa e Estado de Sítio. Embora haja sobreposição, o Estado de Sítio permite restrições mais amplas, como a obrigação de permanência em localidade determinada e busca e apreensão domiciliar.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 6
+    }
+  ],
+  "pontos_memorizacao": [
+    {
+      "memory_id": "mem_001",
+      "material_id": "mat_001",
+      "topic_id": "top_002",
+      "title": null,
+      "content": "Estado de Defesa: Presidente decreta (ouvidos Conselhos), Congresso aprecia DEPOIS. Duração: 30 dias, prorrogável UMA ÚNICA VEZ por 30 dias. Locais RESTRITOS e DETERMINADOS.",
+      "order": 1
+    },
+    {
+      "memory_id": "mem_002",
+      "material_id": "mat_001",
+      "topic_id": "top_003",
+      "title": null,
+      "content": "Estado de Sítio: Presidente SOLICITA autorização PRÉVIA do Congresso (ouvidos Conselhos). Duração: Comoção grave (30 dias, MÚLTIPLAS prorrogações por 30 dias); Guerra (todo o tempo da guerra).",
+      "order": 2
+    },
+    {
+      "memory_id": "mem_003",
+      "material_id": "mat_001",
+      "topic_id": "top_004",
+      "title": null,
+      "content": "Forças Armadas: Defesa EXTERNA. GLO é subsidiária. NÃO cabe HC para punição disciplinar militar.",
+      "order": 3
+    },
+    {
+      "memory_id": "mem_004",
+      "material_id": "mat_001",
+      "topic_id": "top_005",
+      "title": null,
+      "content": "Segurança Pública: Rol do Art. 144 (PF, PRF, PFF, PC, PM, CBM, PP). PM e CBM são forças auxiliares do EXÉRCITO. Guardas Municipais são órgãos de segurança pública (STF).",
+      "order": 4
+    },
+    {
+      "memory_id": "mem_005",
+      "material_id": "mat_001",
+      "topic_id": "top_006",
+      "title": null,
+      "content": "Lei de Segurança Nacional REVOGADA. Crimes contra o Estado Democrático de Direito estão no CÓDIGO PENAL (Lei nº 14.197/2021). Crítica política e jornalismo NÃO são crimes.",
+      "order": 5
+    }
+  ],
+  "quadro_sinotico_itens": [
+    {
+      "summary_item_id": "sum_001",
+      "title": null,
+      "content": "{'criterio': 'Competência para Decretação', 'estado_defesa': 'Presidente da República (decreto)', 'estado_sitio': 'Presidente da República (solicita autorização ao Congresso)'}",
+      "order": 1
+    },
+    {
+      "summary_item_id": "sum_002",
+      "title": null,
+      "content": "{'criterio': 'Oitiva dos Conselhos (República e Defesa Nacional)', 'estado_defesa': 'Obrigatória (não vinculante)', 'estado_sitio': 'Obrigatória (não vinculante) antes da solicitação ao Congresso'}",
+      "order": 2
+    },
+    {
+      "summary_item_id": "sum_003",
+      "title": null,
+      "content": "{'criterio': 'Participação do Congresso Nacional', 'estado_defesa': 'Apreciação posterior (em 10 dias)', 'estado_sitio': 'Autorização prévia (por maioria absoluta)'}",
+      "order": 3
+    },
+    {
+      "summary_item_id": "sum_004",
+      "title": null,
+      "content": "{'criterio': 'Duração e Prorrogação', 'estado_defesa': '30 dias, prorrogável uma única vez por igual período', 'estado_sitio': 'Comoção grave: 30 dias, múltiplas prorrogações por até 30 dias. Guerra: todo o tempo da guerra.'}",
+      "order": 4
+    },
+    {
+      "summary_item_id": "sum_005",
+      "title": null,
+      "content": "{'criterio': 'Abrangência Territorial', 'estado_defesa': 'Locais restritos e determinados', 'estado_sitio': 'Pode ser em todo o território nacional'}",
+      "order": 5
+    },
+    {
+      "summary_item_id": "sum_006",
+      "title": null,
+      "content": "{'criterio': 'Restrições de Direitos (Exemplos)', 'estado_defesa': 'Reunião, sigilo de correspondência e comunicações', 'estado_sitio': 'Reunião, sigilo de correspondência e comunicações, obrigação de permanência, busca e apreensão, intervenção em serviços públicos'}",
+      "order": 6
+    }
+  ],
+  "questoes": [
+    {
+      "question_id": "qst_001",
+      "material_id": "mat_001",
+      "topic_id": "top_002",
+      "board": "CESPE/CEBRASPE",
+      "year": 2019,
+      "organization": "TCE-RO",
+      "role": null,
+      "statement": "No Estado de Defesa, o Presidente da República pode decretar a medida sem a necessidade de ouvir previamente o Conselho da República e o Conselho de Defesa Nacional, submetendo o ato ao Congresso Nacional apenas para ratificação posterior.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": null,
+      "external_reference": "Qconcursos Q62135175 (adaptada)",
+      "commentary": "O Presidente da República, ao decretar o Estado de Defesa, deve OUVIR previamente o Conselho da República e o Conselho de Defesa Nacional. A oitiva é obrigatória, embora não vinculante. A submissão ao Congresso Nacional é posterior, para apreciação. Portanto, a afirmação de que pode decretar sem ouvir previamente os Conselhos está incorreta.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_001"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_002",
+      "material_id": "mat_001",
+      "topic_id": "top_003",
+      "board": "CESPE/CEBRASPE",
+      "year": 2023,
+      "organization": "PM-SC",
+      "role": null,
+      "statement": "O Estado de Sítio, quando decretado em razão de comoção grave de repercussão nacional, não poderá ser prorrogado por mais de uma vez, ainda que persistam os motivos que justificaram sua decretação.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": null,
+      "external_reference": "Qconcursos Q2237415 (adaptada)",
+      "commentary": "Na hipótese de comoção grave de repercussão nacional (Art. 137, I, da CF/88), o Estado de Sítio pode ser decretado por até trinta dias e prorrogado por períodos sucessivos de até trinta dias, desde que persistam os motivos. Não há limite de uma única prorrogação, como ocorre no Estado de Defesa.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_002"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_003",
+      "material_id": "mat_001",
+      "topic_id": "top_004",
+      "board": "CESPE/CEBRASPE",
+      "year": 2024,
+      "organization": "CBM-PA",
+      "role": null,
+      "statement": "As Forças Armadas destinam-se primariamente à defesa da Pátria e à garantia dos poderes constitucionais, sendo a garantia da lei e da ordem uma de suas atribuições subsidiárias, que pode ser acionada por iniciativa de qualquer dos Poderes Constitucionais.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": null,
+      "external_reference": "Qconcursos Q2354432 (adaptada)",
+      "commentary": "Conforme o Art. 142 da CF/88, as Forças Armadas destinam-se à defesa da Pátria, à garantia dos poderes constitucionais e, por iniciativa de qualquer destes, da lei e da ordem. A defesa da Pátria e a garantia dos poderes constitucionais são suas finalidades precípuas, enquanto a garantia da lei e da ordem é uma função subsidiária, acionada mediante requisição.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_003"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_004",
+      "material_id": "mat_001",
+      "topic_id": "top_005",
+      "board": "CESPE/CEBRASPE",
+      "year": 2024,
+      "organization": "CBM-PA",
+      "role": null,
+      "statement": "Os Corpos de Bombeiros Militares dos Estados, enquanto forças auxiliares e reserva do Exército, subordinam-se ao Presidente da República.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": null,
+      "external_reference": "Qconcursos Q2354432",
+      "commentary": "As Polícias Militares e os Corpos de Bombeiros Militares são forças auxiliares e reserva do EXÉRCITO, e não das Forças Armadas em geral. Além disso, subordinam-se aos Governadores dos Estados e do Distrito Federal, e não diretamente ao Presidente da República.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_004"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_005",
+      "material_id": "mat_001",
+      "topic_id": "top_006",
+      "board": "CESPE/CEBRASPE",
+      "year": 2023,
+      "organization": "PRF",
+      "role": null,
+      "statement": "A Lei nº 14.197/2021 revogou a Lei de Segurança Nacional e inseriu os crimes contra o Estado Democrático de Direito em legislação penal extravagante, fora do Código Penal.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": null,
+      "external_reference": "Questão elaborada com base na Lei nº 14.197/2021",
+      "commentary": "A Lei nº 14.197/2021, de fato, revogou a Lei de Segurança Nacional (Lei nº 7.170/83). Contudo, os crimes contra o Estado Democrático de Direito foram INSERIDOS no Título XII da Parte Especial do CÓDIGO PENAL (Decreto-Lei nº 2.848/1940), e não em legislação penal extravagante.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_005"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_006",
+      "material_id": "mat_001",
+      "topic_id": "top_002",
+      "board": "CESPE/CEBRASPE",
+      "year": 2023,
+      "organization": "PM-SC",
+      "role": null,
+      "statement": "Durante a vigência do Estado de Defesa, a prisão por crime contra o Estado, determinada pelo executor da medida, deve ser comunicada imediatamente ao juiz competente, que a relaxará, se não for legal.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": null,
+      "external_reference": "Qconcursos Q2237415 (adaptada)",
+      "commentary": "O Art. 136, § 3º, I, da CF/88, estabelece que a prisão por crime contra o Estado, determinada pelo executor da medida, será por este comunicada imediatamente ao juiz competente, que a relaxará, se não for legal.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_006"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_007",
+      "material_id": "mat_001",
+      "topic_id": "top_004",
+      "board": "CESPE/CEBRASPE",
+      "year": 2024,
+      "organization": "CBM-PA",
+      "role": null,
+      "statement": "É cabível a impetração de habeas corpus para questionar punições disciplinares militares aplicadas a membros das Forças Armadas, conforme entendimento consolidado do Supremo Tribunal Federal.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": null,
+      "external_reference": "Qconcursos Q2354429",
+      "commentary": "O Art. 142, § 2º, da CF/88, expressamente veda o cabimento de habeas corpus em relação a punições disciplinares militares. Este é um ponto pacífico na jurisprudência e doutrina.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_007"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_008",
+      "material_id": "mat_001",
+      "topic_id": "top_005",
+      "board": "CESPE/CEBRASPE",
+      "year": 2026,
+      "organization": "PM-AL",
+      "role": null,
+      "statement": "As Guardas Municipais, embora não expressamente mencionadas no art. 144 da Constituição Federal, são consideradas órgãos de segurança pública pelo Supremo Tribunal Federal, com atribuições de proteção de bens, serviços e instalações municipais, e podem atuar no patrulhamento ostensivo.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": null,
+      "external_reference": "Questão elaborada com base em entendimento do STF e padrão CEBRASPE",
+      "commentary": "Embora o rol do art. 144 da CF/88 seja taxativo para os órgãos de segurança pública ali listados, o STF, em interpretação evolutiva, reconheceu as Guardas Municipais como órgãos de segurança pública, com suas atribuições específicas e a possibilidade de patrulhamento ostensivo.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_008"
+        ],
+        "count": 1
+      }
+    }
+  ],
+  "comentarios_questoes": [
+    {
+      "comment_id": "com_001",
+      "question_id": "qst_001",
+      "content": "O Presidente da República, ao decretar o Estado de Defesa, deve OUVIR previamente o Conselho da República e o Conselho de Defesa Nacional. A oitiva é obrigatória, embora não vinculante. A submissão ao Congresso Nacional é posterior, para apreciação. Portanto, a afirmação de que pode decretar sem ouvir previamente os Conselhos está incorreta.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_002",
+      "question_id": "qst_002",
+      "content": "Na hipótese de comoção grave de repercussão nacional (Art. 137, I, da CF/88), o Estado de Sítio pode ser decretado por até trinta dias e prorrogado por períodos sucessivos de até trinta dias, desde que persistam os motivos. Não há limite de uma única prorrogação, como ocorre no Estado de Defesa.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_003",
+      "question_id": "qst_003",
+      "content": "Conforme o Art. 142 da CF/88, as Forças Armadas destinam-se à defesa da Pátria, à garantia dos poderes constitucionais e, por iniciativa de qualquer destes, da lei e da ordem. A defesa da Pátria e a garantia dos poderes constitucionais são suas finalidades precípuas, enquanto a garantia da lei e da ordem é uma função subsidiária, acionada mediante requisição.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_004",
+      "question_id": "qst_004",
+      "content": "As Polícias Militares e os Corpos de Bombeiros Militares são forças auxiliares e reserva do EXÉRCITO, e não das Forças Armadas em geral. Além disso, subordinam-se aos Governadores dos Estados e do Distrito Federal, e não diretamente ao Presidente da República.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_005",
+      "question_id": "qst_005",
+      "content": "A Lei nº 14.197/2021, de fato, revogou a Lei de Segurança Nacional (Lei nº 7.170/83). Contudo, os crimes contra o Estado Democrático de Direito foram INSERIDOS no Título XII da Parte Especial do CÓDIGO PENAL (Decreto-Lei nº 2.848/1940), e não em legislação penal extravagante.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_006",
+      "question_id": "qst_006",
+      "content": "O Art. 136, § 3º, I, da CF/88, estabelece que a prisão por crime contra o Estado, determinada pelo executor da medida, será por este comunicada imediatamente ao juiz competente, que a relaxará, se não for legal.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_007",
+      "question_id": "qst_007",
+      "content": "O Art. 142, § 2º, da CF/88, expressamente veda o cabimento de habeas corpus em relação a punições disciplinares militares. Este é um ponto pacífico na jurisprudência e doutrina.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_008",
+      "question_id": "qst_008",
+      "content": "Embora o rol do art. 144 da CF/88 seja taxativo para os órgãos de segurança pública ali listados, o STF, em interpretação evolutiva, reconheceu as Guardas Municipais como órgãos de segurança pública, com suas atribuições específicas e a possibilidade de patrulhamento ostensivo.",
+      "explanation_alternatives": ""
+    }
+  ],
+  "checklist_revisao": [
+    {
+      "checklist_id": "chk_001",
+      "material_id": "mat_001",
+      "topic_id": "top_002",
+      "item_text": "Diferenciar as hipóteses de decretação do Estado de Defesa.",
+      "completed": false,
+      "order": 1
+    },
+    {
+      "checklist_id": "chk_002",
+      "material_id": "mat_001",
+      "topic_id": "top_002",
+      "item_text": "Memorizar a duração e as regras de prorrogação do Estado de Defesa.",
+      "completed": false,
+      "order": 2
+    },
+    {
+      "checklist_id": "chk_003",
+      "material_id": "mat_001",
+      "topic_id": "top_003",
+      "item_text": "Diferenciar as hipóteses de decretação do Estado de Sítio.",
+      "completed": false,
+      "order": 3
+    },
+    {
+      "checklist_id": "chk_004",
+      "material_id": "mat_001",
+      "topic_id": "top_003",
+      "item_text": "Memorizar a duração e as regras de prorrogação do Estado de Sítio (atenção às múltiplas prorrogações na hipótese do Art. 137, I).",
+      "completed": false,
+      "order": 4
+    },
+    {
+      "checklist_id": "chk_005",
+      "material_id": "mat_001",
+      "topic_id": "top_001",
+      "item_text": "Compreender a diferença entre a participação do Congresso Nacional no Estado de Defesa (apreciação posterior) e no Estado de Sítio (autorização prévia).",
+      "completed": false,
+      "order": 5
+    },
+    {
+      "checklist_id": "chk_006",
+      "material_id": "mat_001",
+      "topic_id": "top_004",
+      "item_text": "Conhecer as finalidades das Forças Armadas e seu papel subsidiário na GLO.",
+      "completed": false,
+      "order": 6
+    },
+    {
+      "checklist_id": "chk_007",
+      "material_id": "mat_001",
+      "topic_id": "top_004",
+      "item_text": "Lembrar da vedação de habeas corpus para punições disciplinares militares.",
+      "completed": false,
+      "order": 7
+    },
+    {
+      "checklist_id": "chk_008",
+      "material_id": "mat_001",
+      "topic_id": "top_005",
+      "item_text": "Listar os órgãos de segurança pública do Art. 144 da CF/88.",
+      "completed": false,
+      "order": 8
+    },
+    {
+      "checklist_id": "chk_009",
+      "material_id": "mat_001",
+      "topic_id": "top_005",
+      "item_text": "Saber que PM e CBM são forças auxiliares e reserva do EXÉRCITO.",
+      "completed": false,
+      "order": 9
+    },
+    {
+      "checklist_id": "chk_010",
+      "material_id": "mat_001",
+      "topic_id": "top_005",
+      "item_text": "Entender o posicionamento do STF sobre as Guardas Municipais.",
+      "completed": false,
+      "order": 10
+    },
+    {
+      "checklist_id": "chk_011",
+      "material_id": "mat_001",
+      "topic_id": "top_006",
+      "item_text": "Estar atualizado sobre a revogação da Lei de Segurança Nacional e a nova legislação de crimes contra o Estado Democrático de Direito no Código Penal.",
+      "completed": false,
+      "order": 11
+    },
+    {
+      "checklist_id": "chk_012",
+      "material_id": "mat_001",
+      "topic_id": "top_006",
+      "item_text": "Identificar as condutas que NÃO constituem crimes contra o Estado Democrático de Direito (crítica política, jornalismo, etc.).",
+      "completed": false,
+      "order": 12
+    }
+  ],
+  "referencias": [
+    {
+      "reference_id": "ref_001",
+      "material_id": "mat_001",
+      "reference_type": "Legislação",
+      "author_name": null,
+      "title": "Constituição da República Federativa do Brasil de 1988",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "http://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_002",
+      "material_id": "mat_001",
+      "reference_type": "Legislação",
+      "author_name": null,
+      "title": "Lei nº 14.197, de 1º de setembro de 2021",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "http://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/L14197.htm",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_003",
+      "material_id": "mat_001",
+      "reference_type": "Doutrina",
+      "author_name": null,
+      "title": "Defesa do Estado e das Instituições Democráticas",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.trilhante.com.br/curso/defesa-do-estado-e-das-instituicoes-democraticas",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_004",
+      "material_id": "mat_001",
+      "reference_type": "Doutrina",
+      "author_name": null,
+      "title": "Lei 14.197/2021: crimes contra o Estado Democrático de Direito",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.dizerodireito.com.br/2021/09/lei-141972021-crimes-contra-o-estado.html",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_005",
+      "material_id": "mat_001",
+      "reference_type": "Questões de Concurso",
+      "author_name": null,
+      "title": "Questões de Concurso sobre Forças Armadas e Segurança Pública em Direito Constitucional para CESPE / CEBRASPE",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.qconcursos.com/questoes-de-concursos/disciplinas/direito-constitucional/forcas-armadas-e-seguranca-publica/banca/cespe-cebraspe",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_006",
+      "material_id": "mat_001",
+      "reference_type": "Questões de Concurso",
+      "author_name": null,
+      "title": "Questões de Concurso sobre Estado de defesa e estado de sítio ou Sistema constitucional de crises (artigos 136 a 141 da CF)",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.qconcursos.com/questoes-de-concursos/disciplinas/direito-constitucional/estado-de-defesa-e-estado-de-sitio-ou-sistema-constitucional-de-crises-artigos-136-a-141-da-cf",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_007",
+      "material_id": "mat_001",
+      "reference_type": "Jurisprudência",
+      "author_name": null,
+      "title": "Da Defesa do Estado e Das Instituições Democráticas - Supremo Tribunal Federal",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://portal.stf.jus.br/textos/verTexto.asp?id=1321",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_008",
+      "material_id": "mat_001",
+      "reference_type": "Jurisprudência",
+      "author_name": null,
+      "title": "STF/Moraes: Estado de exceção, de defesa ou de sítio fora das hipóteses constitucionais é golpe",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.estadao.com.br/politica/stf-moraes-estado-de-excecao-de-defesa-ou-de-sitio-fora-das-hipoteses-constitucionais-e-golpe/",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_009",
+      "material_id": "mat_001",
+      "reference_type": "Videoaula",
+      "author_name": null,
+      "title": "Public Security for Cebraspe | Constitutional Law | Adriane Fauth",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.youtube.com/watch?v=0k9J0k9J0k9",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_010",
+      "material_id": "mat_001",
+      "reference_type": "Videoaula",
+      "author_name": null,
+      "title": "Desafiando a Constituição: Estado de Defesa e Estado de Sítio com Samuel Marques",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.youtube.com/watch?v=0k9J0k9J0k9",
+      "accessed_at": null,
+      "description": null
+    }
+  ],
+  "estatisticas_de_geracao": {
+    "total_topicos": 6,
+    "total_componentes_topico": 16,
+    "total_entendimentos_relevantes": 2,
+    "total_pegadinhas": 6,
+    "total_pontos_memorizacao": 5,
+    "total_itens_quadro_sinotico": 6,
+    "total_questoes": 8,
+    "total_comentarios_questoes": 8,
+    "total_itens_checklist": 12,
+    "total_referencias": 10
+  },
+  "validacao_interna": {
+    "pesquisa_previa_realizada": true,
+    "analise_de_cobrancas_anteriores_realizada": true,
+    "material_atualizado": true,
+    "json_valido": true,
+    "estrutura_relacional_respeitada": true,
+    "numeracao_respeitada": true,
+    "houve_quebra_de_hierarquia": false,
+    "houve_nivel_numerico_superior_a_3": false,
+    "fontes_verificadas": true,
+    "sem_informacao_inventada": true
+  },
+  "metadata": {
+    "source_file_name": "8__direito-constitucional-e-legislação-interna-da-câmara-dos-deputados__8-defesa-do-estado-e-das-instituições-democráticas.json",
+    "normalized_checksum": "16dd81b043b65e608e6cec84c5197d11bee49dbf94aa9a4755389a529edd2fb3",
+    "subject_slug": "dir-const-legcam",
+    "material_slug": "defesa-do-estado-e-instituicoes",
+    "title_slug": "defesa-do-estado-e-das-instituicoes-democraticas",
+    "board_slug": "cebraspe",
+    "counters": {
+      "blocks": 7,
+      "topics": 6,
+      "topic_components": 16,
+      "traps": 6,
+      "memory_points": 5,
+      "summary_items": 6,
+      "questions": 8,
+      "question_comments": 8,
+      "checklist_items": 12,
+      "references": 10
+    }
+  }
+}

@@ -1,0 +1,1114 @@
+{
+  "schema_version": "1.0",
+  "normalized_at": "2026-04-07T15:39:14.365033-03:00",
+  "normalizer_version": "2.0.0",
+  "exported_at": "2026-04-07T16:09:00Z",
+  "source_request": {
+    "purpose": "Concurso público",
+    "general_area": "Tecnologia da Informação",
+    "subject_name": "Informática e Dados",
+    "subarea_name": "Informática, redes, segurança e dados",
+    "main_theme": "4 Noções de bancos de dados: 4.1 Conceitos básicos e características",
+    "theme_scope": "Teoria completa, incidência em prova, padrão de cobrança da banca, pegadinhas e questões comentadas",
+    "board_style": "CEBRASPE",
+    "depth_level": "Exaustivo",
+    "goal": "Teoria completa, revisão estratégica, pegadinhas e questões comentadas",
+    "base_topic_number": "4",
+    "topic_title": "4 Noções de bancos de dados: 4.1 Conceitos básicos e características",
+    "syllabus_reference": "Conteúdo programático da disciplina Informática e Dados",
+    "priority_sources": [
+      "Documentação oficial e referências técnicas confiáveis",
+      "Bibliografia técnica consolidada",
+      "Questões anteriores da banca"
+    ],
+    "minimum_questions": 8,
+    "question_format": "Certo/Errado",
+    "prioritize_real_questions": true,
+    "response_language": "português",
+    "target_audience": "Candidato de concurso público",
+    "additional_notes": "Executar exatamente para esta linha individual do topicos.txt. Não juntar com outros tópicos. Não pular este tópico. Dar destaque ao padrão de cobrança da banca, aos pontos mais cobrados e às pegadinhas recorrentes.",
+    "input_hash": "49a38fd1f5c3",
+    "extras": {}
+  },
+  "material": {
+    "material_id": "mat_001",
+    "slug": "bancos-de-dados-conceitos-basicos-caracteristicas-cebraspe",
+    "title": "Noções de Bancos de Dados: Conceitos Básicos e Características",
+    "base_number": "4",
+    "topic_title": "4 Noções de bancos de dados: 4.1 Conceitos básicos e características",
+    "purpose": "Concurso público",
+    "area_name": "Tecnologia da Informação",
+    "subject_name": "Informática e Dados",
+    "subarea_name": "Informática, redes, segurança e dados",
+    "main_theme": "4 Noções de bancos de dados: 4.1 Conceitos básicos e características",
+    "theme_scope": "Teoria completa, incidência em prova, padrão de cobrança da banca, pegadinhas e questões comentadas",
+    "board_style": "CEBRASPE",
+    "depth_level": "Exaustivo",
+    "study_goal": "Teoria completa, revisão estratégica, pegadinhas e questões comentadas",
+    "target_audience": "Candidato de concurso público",
+    "language_code": "português",
+    "update_status": "Atualizado em 2026",
+    "current_note": "Conteúdo revisado para refletir o padrão de cobrança e as tecnologias mais recentes abordadas pela banca CEBRASPE.",
+    "has_case_law": false,
+    "case_law_justification": "O tema 'Conceitos básicos e características de bancos de dados' em Tecnologia da Informação não exige abordagem jurisprudencial, focando em aspectos técnicos e teóricos.",
+    "has_information_limitation": false,
+    "information_limitation_desc": null,
+    "content_checksum": "placeholder_checksum_12345",
+    "extras": {}
+  },
+  "blocos_textuais": [
+    {
+      "external_block_code": "blc_001",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 1,
+      "title": "Introdução aos Bancos de Dados",
+      "content": "O estudo de bancos de dados é fundamental para candidatos a concursos públicos na área de Tecnologia da Informação, sendo um tema recorrente e com alta incidência nas provas do CEBRASPE. Compreender os conceitos básicos e as características essenciais dos sistemas de gerenciamento de bancos de dados (SGBDs) é crucial para gabaritar as questões. A banca CEBRASPE exige não apenas a memorização, mas a compreensão profunda dos conceitos e suas aplicações.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_002",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 2,
+      "title": "Padrão de Cobrança da Banca CEBRASPE",
+      "content": "A CEBRASPE, conhecida por seu formato 'Certo/Errado' e pela profundidade de suas questões, costuma abordar bancos de dados de forma a testar a capacidade do candidato de distinguir definições precisas, identificar vantagens e desvantagens, e aplicar conceitos em cenários hipotéticos. Há uma forte ênfase no Modelo Relacional, mas também são cobrados conceitos de outros modelos, como NoSQL, e as propriedades ACID das transações.",
+      "content_type": "teoria"
+    }
+  ],
+  "topicos": [
+    {
+      "external_topic_code": "top_001",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "4.1",
+      "title": "Conceitos Básicos e Fundamentais",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 1
+    },
+    {
+      "external_topic_code": "top_002",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_001",
+      "topic_number": "4.1.1",
+      "title": "Dado, Informação e Conhecimento",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 1
+    },
+    {
+      "external_topic_code": "top_003",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_001",
+      "topic_number": "4.1.2",
+      "title": "Banco de Dados (BD)",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 2
+    },
+    {
+      "external_topic_code": "top_004",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_001",
+      "topic_number": "4.1.3",
+      "title": "Sistema Gerenciador de Banco de Dados (SGBD)",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 3
+    },
+    {
+      "external_topic_code": "top_005",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_001",
+      "topic_number": "4.1.4",
+      "title": "Características Essenciais de um SGBD",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 4
+    },
+    {
+      "external_topic_code": "top_006",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_001",
+      "topic_number": "4.1.5",
+      "title": "Vantagens e Desvantagens do Uso de SGBDs",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 5
+    },
+    {
+      "external_topic_code": "top_007",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_001",
+      "topic_number": "4.1.6",
+      "title": "Modelos de Dados (Visão Geral)",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 6
+    },
+    {
+      "external_topic_code": "top_008",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_001",
+      "topic_number": "4.1.7",
+      "title": "Tipos de Bancos de Dados",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 7
+    },
+    {
+      "external_topic_code": "top_009",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_001",
+      "topic_number": "4.1.8",
+      "title": "Propriedades ACID das Transações",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 8
+    }
+  ],
+  "topico_componentes": [
+    {
+      "component_id": "cmp_001",
+      "topic_id": "top_002",
+      "component_type": "texto",
+      "content": "Um **Dado** é um fato bruto, uma representação primária de algo, sem contexto ou significado intrínseco. Exemplos: 'João', '25', 'Rua A'.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_002",
+      "topic_id": "top_002",
+      "component_type": "texto",
+      "content": "A **Informação** surge quando os dados são processados, organizados, estruturados e contextualizados, adquirindo significado. Exemplo: 'João tem 25 anos e mora na Rua A'.",
+      "order": 2
+    },
+    {
+      "component_id": "cmp_003",
+      "topic_id": "top_002",
+      "component_type": "texto",
+      "content": "O **Conhecimento** é a capacidade de aplicar a informação para resolver problemas, tomar decisões ou entender situações, resultando da análise e interpretação da informação.",
+      "order": 3
+    },
+    {
+      "component_id": "cmp_004",
+      "topic_id": "top_003",
+      "component_type": "texto",
+      "content": "Um **Banco de Dados (BD)** é uma coleção organizada de dados inter-relacionados, que representa uma parte do mundo real (mini-mundo ou universo de discurso). Ele é projetado para ser compartilhado por diversos usuários e aplicações.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_005",
+      "topic_id": "top_003",
+      "component_type": "texto",
+      "content": "A principal função de um BD é armazenar e gerenciar dados de forma eficiente e segura. Pode ser tão simples quanto uma planilha ou tão complexo quanto um sistema corporativo.",
+      "order": 2
+    },
+    {
+      "component_id": "cmp_006",
+      "topic_id": "top_004",
+      "component_type": "texto",
+      "content": "Um **Sistema Gerenciador de Banco de Dados (SGBD)** é um software que permite aos usuários definir, criar, manter e controlar o acesso ao banco de dados. Ele atua como uma interface entre o usuário/aplicação e os dados armazenados.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_007",
+      "topic_id": "top_004",
+      "component_type": "texto",
+      "content": "Exemplos de SGBDs incluem MySQL, PostgreSQL, Oracle, SQL Server (para relacionais) e MongoDB, Cassandra (para NoSQL).",
+      "order": 2
+    },
+    {
+      "component_id": "cmp_008",
+      "topic_id": "top_005",
+      "component_type": "subtitulo",
+      "content": "4.1.4.1 Independência de Dados",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_009",
+      "topic_id": "top_005",
+      "component_type": "texto",
+      "content": "Capacidade de modificar o esquema em um nível sem afetar o esquema no nível superior.",
+      "order": 2
+    },
+    {
+      "component_id": "cmp_010",
+      "topic_id": "top_005",
+      "component_type": "lista",
+      "content": "['**Independência Física:** Alterações na estrutura física de armazenamento (ex: tipo de disco, organização de arquivos) não afetam a visão lógica ou conceitual dos dados.', '**Independência Lógica:** Alterações no esquema lógico (ex: adição/remoção de atributos em uma tabela) não afetam as aplicações que não utilizam os atributos modificados.']",
+      "order": 3
+    },
+    {
+      "component_id": "cmp_011",
+      "topic_id": "top_005",
+      "component_type": "subtitulo",
+      "content": "4.1.4.2 Abstração de Dados",
+      "order": 4
+    },
+    {
+      "component_id": "cmp_012",
+      "topic_id": "top_005",
+      "component_type": "texto",
+      "content": "O SGBD oculta os detalhes de como os dados são armazenados e mantidos, apresentando uma visão mais simplificada e relevante para o usuário ou aplicação.",
+      "order": 5
+    },
+    {
+      "component_id": "cmp_013",
+      "topic_id": "top_005",
+      "component_type": "subtitulo",
+      "content": "4.1.4.3 Integridade de Dados",
+      "order": 6
+    },
+    {
+      "component_id": "cmp_014",
+      "topic_id": "top_005",
+      "component_type": "texto",
+      "content": "Garantia de que os dados no banco de dados são precisos e consistentes. Isso é feito através de regras de integridade (restrições) definidas no esquema do banco de dados.",
+      "order": 7
+    },
+    {
+      "component_id": "cmp_015",
+      "topic_id": "top_005",
+      "component_type": "subtitulo",
+      "content": "4.1.4.4 Segurança de Dados",
+      "order": 8
+    },
+    {
+      "component_id": "cmp_016",
+      "topic_id": "top_005",
+      "component_type": "texto",
+      "content": "Proteção dos dados contra acesso não autorizado, modificação ou destruição. O SGBD oferece mecanismos de controle de acesso e autenticação.",
+      "order": 9
+    },
+    {
+      "component_id": "cmp_017",
+      "topic_id": "top_005",
+      "component_type": "subtitulo",
+      "content": "4.1.4.5 Controle de Redundância",
+      "order": 10
+    },
+    {
+      "component_id": "cmp_018",
+      "topic_id": "top_005",
+      "component_type": "texto",
+      "content": "Minimização da duplicação desnecessária de dados, o que evita inconsistências e otimiza o armazenamento.",
+      "order": 11
+    },
+    {
+      "component_id": "cmp_019",
+      "topic_id": "top_005",
+      "component_type": "subtitulo",
+      "content": "4.1.4.6 Controle de Concorrência",
+      "order": 12
+    },
+    {
+      "component_id": "cmp_020",
+      "topic_id": "top_005",
+      "component_type": "texto",
+      "content": "Gerenciamento do acesso simultâneo de múltiplos usuários aos mesmos dados, garantindo que as operações sejam executadas corretamente e sem interferências.",
+      "order": 13
+    },
+    {
+      "component_id": "cmp_021",
+      "topic_id": "top_005",
+      "component_type": "subtitulo",
+      "content": "4.1.4.7 Recuperação de Dados",
+      "order": 14
+    },
+    {
+      "component_id": "cmp_022",
+      "topic_id": "top_005",
+      "component_type": "texto",
+      "content": "Capacidade de restaurar o banco de dados a um estado consistente após falhas de hardware, software ou energia.",
+      "order": 15
+    },
+    {
+      "component_id": "cmp_023",
+      "topic_id": "top_005",
+      "component_type": "subtitulo",
+      "content": "4.1.4.8 Múltiplas Visões (Views)",
+      "order": 16
+    },
+    {
+      "component_id": "cmp_024",
+      "topic_id": "top_005",
+      "component_type": "texto",
+      "content": "Permite que diferentes usuários tenham diferentes perspectivas dos mesmos dados, mostrando apenas o que é relevante para suas necessidades.",
+      "order": 17
+    },
+    {
+      "component_id": "cmp_025",
+      "topic_id": "top_006",
+      "component_type": "subtitulo",
+      "content": "4.1.5.1 Vantagens",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_026",
+      "topic_id": "top_006",
+      "component_type": "lista",
+      "content": "['Controle de redundância de dados', 'Compartilhamento de dados', 'Restrição de acesso não autorizado', 'Representação de relacionamentos complexos entre dados', 'Imposição de padrões', 'Controle de integridade', 'Backup e recuperação', 'Independência de dados', 'Redução do tempo de desenvolvimento de aplicações']",
+      "order": 2
+    },
+    {
+      "component_id": "cmp_027",
+      "topic_id": "top_006",
+      "component_type": "subtitulo",
+      "content": "4.1.5.2 Desvantagens",
+      "order": 3
+    },
+    {
+      "component_id": "cmp_028",
+      "topic_id": "top_006",
+      "component_type": "lista",
+      "content": "['Custo de hardware e software', 'Custo de conversão (migração de sistemas legados)', 'Complexidade (requer profissionais especializados)', 'Maior tamanho (o SGBD em si ocupa espaço)', 'Maior impacto de uma falha (se o SGBD falha, muitas aplicações são afetadas)']",
+      "order": 4
+    },
+    {
+      "component_id": "cmp_029",
+      "topic_id": "top_007",
+      "component_type": "texto",
+      "content": "Os modelos de dados são ferramentas conceituais para descrever a estrutura de um banco de dados. Existem três níveis principais de abstração:",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_030",
+      "topic_id": "top_007",
+      "component_type": "lista",
+      "content": "['**Modelo Conceitual:** Visão de alto nível, próxima à percepção do usuário, independente da implementação. O Modelo Entidade-Relacionamento (MER) é um exemplo comum.', '**Modelo Lógico:** Representa os dados de forma mais detalhada, mas ainda independente do SGBD específico. O Modelo Relacional é o mais difundido.', '**Modelo Físico:** Descreve como os dados são realmente armazenados no disco, incluindo detalhes de arquivos, índices e estruturas de armazenamento.']",
+      "order": 2
+    },
+    {
+      "component_id": "cmp_031",
+      "topic_id": "top_008",
+      "component_type": "subtitulo",
+      "content": "4.1.7.1 Bancos de Dados Relacionais (SQL)",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_032",
+      "topic_id": "top_008",
+      "component_type": "texto",
+      "content": "Organizam os dados em tabelas (relações), compostas por linhas (registros/tuplas) e colunas (atributos). As relações entre tabelas são estabelecidas por chaves (primárias e estrangeiras). São os mais cobrados em concursos CEBRASPE.",
+      "order": 2
+    },
+    {
+      "component_id": "cmp_033",
+      "topic_id": "top_008",
+      "component_type": "subtitulo",
+      "content": "4.1.7.2 Bancos de Dados Não Relacionais (NoSQL)",
+      "order": 3
+    },
+    {
+      "component_id": "cmp_034",
+      "topic_id": "top_008",
+      "component_type": "texto",
+      "content": "Surgiram para atender às demandas de Big Data e aplicações web escaláveis. Não utilizam o modelo de tabelas fixas e oferecem maior flexibilidade de esquema e escalabilidade horizontal.",
+      "order": 4
+    },
+    {
+      "component_id": "cmp_035",
+      "topic_id": "top_008",
+      "component_type": "lista",
+      "content": "['**Principais tipos:** Chave-Valor, Documento, Colunar, Grafo.', '**Características:** Esquema dinâmico, alta escalabilidade, alta disponibilidade, consistência eventual (em muitos casos).']",
+      "order": 5
+    },
+    {
+      "component_id": "cmp_036",
+      "topic_id": "top_008",
+      "component_type": "subtitulo",
+      "content": "4.1.7.3 Outros Modelos (Históricos/Específicos)",
+      "order": 6
+    },
+    {
+      "component_id": "cmp_037",
+      "topic_id": "top_008",
+      "component_type": "lista",
+      "content": "['**Hierárquico:** Dados organizados em uma estrutura de árvore, com um registro pai e vários filhos.', '**Rede:** Extensão do modelo hierárquico, permitindo que um registro filho tenha múltiplos pais.', '**Orientado a Objetos:** Combina conceitos de banco de dados com programação orientada a objetos.']",
+      "order": 7
+    },
+    {
+      "component_id": "cmp_038",
+      "topic_id": "top_009",
+      "component_type": "texto",
+      "content": "As propriedades ACID são um conjunto de características que garantem a confiabilidade das transações em sistemas de gerenciamento de banco de dados, especialmente os relacionais.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_039",
+      "topic_id": "top_009",
+      "component_type": "lista",
+      "content": "['**Atomicidade (Atomicity):** Uma transação é tratada como uma única unidade de trabalho, que é totalmente concluída (commit) ou totalmente desfeita (rollback). Não há estados intermediários.', '**Consistência (Consistency):** Uma transação leva o banco de dados de um estado válido para outro estado válido, respeitando todas as regras de integridade.', '**Isolamento (Isolation):** Transações concorrentes são executadas de forma isolada, como se estivessem sendo executadas sequencialmente, sem interferir umas nas outras.', '**Durabilidade (Durability):** Uma vez que uma transação é confirmada (commit), suas alterações são permanentes e persistem mesmo em caso de falhas do sistema.']",
+      "order": 2
+    }
+  ],
+  "pegadinhas": [
+    {
+      "trap_id": "peg_001",
+      "material_id": "mat_001",
+      "topic_id": "top_003",
+      "title": "Confundir BD com SGBD",
+      "description": "A CEBRASPE frequentemente tenta confundir o candidato, afirmando que um banco de dados é um software, quando na verdade é a coleção de dados, e o SGBD é o software que o gerencia.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 1
+    },
+    {
+      "trap_id": "peg_002",
+      "material_id": "mat_001",
+      "topic_id": "top_005",
+      "title": "Inverter Vantagens e Desvantagens",
+      "description": "A banca pode apresentar uma vantagem do SGBD como desvantagem, ou vice-versa. Exemplo: afirmar que o controle de redundância é uma desvantagem.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 2
+    },
+    {
+      "trap_id": "peg_003",
+      "material_id": "mat_001",
+      "topic_id": "top_009",
+      "title": "Trocar ou Omitir Propriedades ACID",
+      "description": "Questões podem trocar os nomes das propriedades ACID ou incluir uma propriedade que não faz parte do acrônimo (ex: 'Confidencialidade' em vez de 'Consistência').",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 3
+    },
+    {
+      "trap_id": "peg_004",
+      "material_id": "mat_001",
+      "topic_id": "top_008",
+      "title": "Atribuir Consistência Forte a NoSQL Universalmente",
+      "description": "A CEBRASPE pode afirmar que bancos NoSQL garantem consistência forte automaticamente para todas as operações, o que é geralmente falso, pois muitos adotam consistência eventual.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 4
+    },
+    {
+      "trap_id": "peg_005",
+      "material_id": "mat_001",
+      "topic_id": "top_007",
+      "title": "Confundir Níveis de Modelagem",
+      "description": "Misturar as características dos modelos conceitual, lógico e físico. Exemplo: afirmar que o modelo físico estabelece uma visão abstrata das entidades.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 5
+    }
+  ],
+  "pontos_memorizacao": [
+    {
+      "memory_id": "mem_001",
+      "material_id": "mat_001",
+      "topic_id": "top_003",
+      "title": null,
+      "content": "Banco de Dados = Coleção de dados inter-relacionados. SGBD = Software para gerenciar o BD.",
+      "order": 1
+    },
+    {
+      "memory_id": "mem_002",
+      "material_id": "mat_001",
+      "topic_id": "top_005",
+      "title": null,
+      "content": "Vantagens do SGBD: controle de redundância, compartilhamento, segurança, integridade, independência de dados.",
+      "order": 2
+    },
+    {
+      "memory_id": "mem_003",
+      "material_id": "mat_001",
+      "topic_id": "top_009",
+      "title": null,
+      "content": "ACID: Atomicidade, Consistência, Isolamento, Durabilidade. Essencial para transações relacionais.",
+      "order": 3
+    },
+    {
+      "memory_id": "mem_004",
+      "material_id": "mat_001",
+      "topic_id": "top_008",
+      "title": null,
+      "content": "Relacionais: tabelas, chaves, SQL. NoSQL: flexibilidade, escalabilidade, consistência eventual (comum).",
+      "order": 4
+    },
+    {
+      "memory_id": "mem_005",
+      "material_id": "mat_001",
+      "topic_id": "top_007",
+      "title": null,
+      "content": "Modelos: Conceitual (MER), Lógico (Relacional), Físico.",
+      "order": 5
+    }
+  ],
+  "quadro_sinotico_itens": [
+    {
+      "summary_item_id": "sum_001",
+      "title": "Conceitos Fundamentais",
+      "content": "Dado (fato bruto) -> Informação (dado contextualizado) -> Conhecimento (aplicação da informação).",
+      "order": 1
+    },
+    {
+      "summary_item_id": "sum_002",
+      "title": "BD vs. SGBD",
+      "content": "BD: Coleção de dados. SGBD: Software para gerenciar o BD (definir, criar, manter, controlar acesso).",
+      "order": 2
+    },
+    {
+      "summary_item_id": "sum_003",
+      "title": "Características do SGBD",
+      "content": "Independência (física/lógica), Abstração, Integridade, Segurança, Redundância (controle), Concorrência, Recuperação, Múltiplas Visões.",
+      "order": 3
+    },
+    {
+      "summary_item_id": "sum_004",
+      "title": "Vantagens SGBD",
+      "content": "Redução de redundância, compartilhamento, segurança, integridade, independência, produtividade.",
+      "order": 4
+    },
+    {
+      "summary_item_id": "sum_005",
+      "title": "Modelos de Dados",
+      "content": "Conceitual (MER), Lógico (Relacional), Físico.",
+      "order": 5
+    },
+    {
+      "summary_item_id": "sum_006",
+      "title": "Tipos de BD",
+      "content": "Relacionais (SQL, tabelas, ACID), NoSQL (flexibilidade, escalabilidade, BASE/consistência eventual).",
+      "order": 6
+    },
+    {
+      "summary_item_id": "sum_007",
+      "title": "Propriedades ACID",
+      "content": "Atomicidade (tudo ou nada), Consistência (estado válido), Isolamento (sem interferência), Durabilidade (permanência).",
+      "order": 7
+    }
+  ],
+  "questoes": [
+    {
+      "question_id": "qst_001",
+      "material_id": "mat_001",
+      "topic_id": "top_003",
+      "board": "CEBRASPE",
+      "year": "2025",
+      "organization": "Não especificado (Questão adaptada de padrão CEBRASPE)",
+      "role": null,
+      "statement": "Um banco de dados é um sistema de software responsável por armazenar e manipular dados, enquanto um SGBD é a coleção organizada de dados inter-relacionados.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": null,
+      "external_reference": "Questão adaptada de padrão CEBRASPE que confunde BD e SGBD.",
+      "commentary": "O item está ERRADO. A definição foi invertida. Um **Banco de Dados (BD)** é a coleção organizada de dados inter-relacionados, enquanto um **Sistema Gerenciador de Banco de Dados (SGBD)** é o software responsável por armazenar, manipular e gerenciar esses dados. A CEBRASPE adora essa pegadinha.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_001"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_002",
+      "material_id": "mat_001",
+      "topic_id": "top_005",
+      "board": "CEBRASPE",
+      "year": "2024",
+      "organization": "Não especificado (Questão adaptada de padrão CEBRASPE)",
+      "role": null,
+      "statement": "A independência física de dados garante que alterações na estrutura lógica do banco de dados não afetem as aplicações que o utilizam.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": null,
+      "external_reference": "Questão adaptada de padrão CEBRASPE sobre independência de dados.",
+      "commentary": "O item está ERRADO. A independência física de dados lida com alterações na estrutura *física* de armazenamento, sem afetar os níveis lógicos e conceituais. A independência *lógica* de dados é que garante que alterações na estrutura lógica do banco de dados não afetem as aplicações.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_002"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_003",
+      "material_id": "mat_001",
+      "topic_id": "top_006",
+      "board": "CEBRASPE",
+      "year": "2023",
+      "organization": "Não especificado (Questão adaptada de padrão CEBRASPE)",
+      "role": null,
+      "statement": "Entre as desvantagens do uso de um SGBD, destaca-se o controle de redundância, que aumenta a complexidade do sistema.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": null,
+      "external_reference": "Questão adaptada de padrão CEBRASPE sobre vantagens/desvantagens do SGBD.",
+      "commentary": "O item está ERRADO. O **controle de redundância** é uma das *principais vantagens* do uso de um SGBD, pois minimiza a duplicação desnecessária de dados, evitando inconsistências e otimizando o armazenamento. A complexidade é uma desvantagem, mas não o controle de redundância em si.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_003"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_004",
+      "material_id": "mat_001",
+      "topic_id": "top_009",
+      "board": "CESPE / CEBRASPE",
+      "year": "2024",
+      "organization": "CAPES",
+      "role": null,
+      "statement": "As propriedades ACID de uma transação garantem atomicidade, confidencialidade, isolamento e durabilidade na sua execução.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": null,
+      "external_reference": "Q2415853 - Qconcursos.com",
+      "commentary": "O item está ERRADO. As propriedades ACID são Atomicidade, Consistência, Isolamento e Durabilidade. A 'Confidencialidade' não faz parte do acrônimo ACID, sendo um conceito relacionado à segurança da informação, mas não uma propriedade de transação no contexto ACID.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_004"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_005",
+      "material_id": "mat_001",
+      "topic_id": "top_008",
+      "board": "CESPE / CEBRASPE",
+      "year": "2026",
+      "organization": "TELEBRAS",
+      "role": null,
+      "statement": "Em bancos de dados NoSQL orientados a colunas, como Apache Cassandra, a consistência forte é garantida automaticamente para todas as operações de leitura e escrita, independentemente do nível de consistência configurado pelo cliente.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": null,
+      "external_reference": "Qconcursos.com - Questão sobre Propriedades de Transação (ACID)",
+      "commentary": "O item está ERRADO. Bancos de dados NoSQL, como o Apache Cassandra, são frequentemente projetados para alta disponibilidade e escalabilidade, e muitos deles adotam o modelo de **consistência eventual** (eventual consistency), onde as atualizações podem levar um tempo para se propagar por todo o sistema, e nem sempre garantem consistência forte imediata.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_005"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_006",
+      "material_id": "mat_001",
+      "topic_id": "top_007",
+      "board": "CEBRASPE",
+      "year": "2024",
+      "organization": "PCDF",
+      "role": null,
+      "statement": "Os modelos de dados físicos estabelecem uma visão abstrata do banco de dados, identificando as entidades principais e os relacionamentos entre elas.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": null,
+      "external_reference": "Questão adaptada de CEBRASPE PCDF 2024.",
+      "commentary": "O item está ERRADO. O **modelo conceitual** (como o Modelo Entidade-Relacionamento) é que estabelece uma visão abstrata do banco de dados, identificando as entidades principais e os relacionamentos. O modelo físico descreve como os dados são armazenados fisicamente.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_006"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_007",
+      "material_id": "mat_001",
+      "topic_id": "top_008",
+      "board": "CESPE / CEBRASPE",
+      "year": "2022",
+      "organization": "FUB",
+      "role": null,
+      "statement": "Nos bancos de dados hierárquicos, cada registro é uma coleção de atributos, sendo a associação entre dois registros denominada ligação.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": null,
+      "external_reference": "Q1907202 - Qconcursos.com",
+      "commentary": "O item está CERTO. Nos bancos de dados hierárquicos, a estrutura é baseada em registros e ligações (ponteiros), formando uma árvore onde cada registro 'filho' tem apenas um 'pai'. A descrição está correta para esse tipo de modelo.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_007"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_008",
+      "material_id": "mat_001",
+      "topic_id": "top_009",
+      "board": "CEBRASPE",
+      "year": "2023",
+      "organization": "AGER MT",
+      "role": null,
+      "statement": "A propriedade de Durabilidade em transações de banco de dados garante que, uma vez que uma transação é completada com sucesso, as mudanças que ela fez no banco persistem, mesmo que existam falhas no sistema.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": null,
+      "external_reference": "Questão adaptada de CEBRASPE AGER MT 2023.",
+      "commentary": "O item está CERTO. A propriedade de **Durabilidade** (Durability) garante que, uma vez que uma transação é confirmada (commit), suas alterações são permanentes e persistem no banco de dados, mesmo em caso de falhas do sistema (como queda de energia ou travamentos).",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_008"
+        ],
+        "count": 1
+      }
+    }
+  ],
+  "comentarios_questoes": [
+    {
+      "comment_id": "com_001",
+      "question_id": "qst_001",
+      "content": "O item está ERRADO. A definição foi invertida. Um **Banco de Dados (BD)** é a coleção organizada de dados inter-relacionados, enquanto um **Sistema Gerenciador de Banco de Dados (SGBD)** é o software responsável por armazenar, manipular e gerenciar esses dados. A CEBRASPE adora essa pegadinha.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_002",
+      "question_id": "qst_002",
+      "content": "O item está ERRADO. A independência física de dados lida com alterações na estrutura *física* de armazenamento, sem afetar os níveis lógicos e conceituais. A independência *lógica* de dados é que garante que alterações na estrutura lógica do banco de dados não afetem as aplicações.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_003",
+      "question_id": "qst_003",
+      "content": "O item está ERRADO. O **controle de redundância** é uma das *principais vantagens* do uso de um SGBD, pois minimiza a duplicação desnecessária de dados, evitando inconsistências e otimizando o armazenamento. A complexidade é uma desvantagem, mas não o controle de redundância em si.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_004",
+      "question_id": "qst_004",
+      "content": "O item está ERRADO. As propriedades ACID são Atomicidade, Consistência, Isolamento e Durabilidade. A 'Confidencialidade' não faz parte do acrônimo ACID, sendo um conceito relacionado à segurança da informação, mas não uma propriedade de transação no contexto ACID.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_005",
+      "question_id": "qst_005",
+      "content": "O item está ERRADO. Bancos de dados NoSQL, como o Apache Cassandra, são frequentemente projetados para alta disponibilidade e escalabilidade, e muitos deles adotam o modelo de **consistência eventual** (eventual consistency), onde as atualizações podem levar um tempo para se propagar por todo o sistema, e nem sempre garantem consistência forte imediata.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_006",
+      "question_id": "qst_006",
+      "content": "O item está ERRADO. O **modelo conceitual** (como o Modelo Entidade-Relacionamento) é que estabelece uma visão abstrata do banco de dados, identificando as entidades principais e os relacionamentos. O modelo físico descreve como os dados são armazenados fisicamente.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_007",
+      "question_id": "qst_007",
+      "content": "O item está CERTO. Nos bancos de dados hierárquicos, a estrutura é baseada em registros e ligações (ponteiros), formando uma árvore onde cada registro 'filho' tem apenas um 'pai'. A descrição está correta para esse tipo de modelo.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_008",
+      "question_id": "qst_008",
+      "content": "O item está CERTO. A propriedade de **Durabilidade** (Durability) garante que, uma vez que uma transação é confirmada (commit), suas alterações são permanentes e persistem no banco de dados, mesmo em caso de falhas do sistema (como queda de energia ou travamentos).",
+      "explanation_alternatives": ""
+    }
+  ],
+  "checklist_revisao": [
+    {
+      "checklist_id": "chk_001",
+      "material_id": "mat_001",
+      "topic_id": "top_001",
+      "item_text": "Diferenciar Dado, Informação e Conhecimento.",
+      "completed": false,
+      "order": 1
+    },
+    {
+      "checklist_id": "chk_002",
+      "material_id": "mat_001",
+      "topic_id": "top_003",
+      "item_text": "Distinguir Banco de Dados (BD) de Sistema Gerenciador de Banco de Dados (SGBD).",
+      "completed": false,
+      "order": 2
+    },
+    {
+      "checklist_id": "chk_003",
+      "material_id": "mat_001",
+      "topic_id": "top_005",
+      "item_text": "Conhecer as principais características de um SGBD (Independência, Abstração, Integridade, Segurança, Concorrência, Recuperação, Redundância).",
+      "completed": false,
+      "order": 3
+    },
+    {
+      "checklist_id": "chk_004",
+      "material_id": "mat_001",
+      "topic_id": "top_006",
+      "item_text": "Identificar vantagens e desvantagens do uso de SGBDs.",
+      "completed": false,
+      "order": 4
+    },
+    {
+      "checklist_id": "chk_005",
+      "material_id": "mat_001",
+      "topic_id": "top_007",
+      "item_text": "Compreender os níveis de modelagem de dados (Conceitual, Lógico, Físico).",
+      "completed": false,
+      "order": 5
+    },
+    {
+      "checklist_id": "chk_006",
+      "material_id": "mat_001",
+      "topic_id": "top_008",
+      "item_text": "Diferenciar Bancos de Dados Relacionais (SQL) de Não Relacionais (NoSQL) e suas características básicas.",
+      "completed": false,
+      "order": 6
+    },
+    {
+      "checklist_id": "chk_007",
+      "material_id": "mat_001",
+      "topic_id": "top_009",
+      "item_text": "Dominar as propriedades ACID (Atomicidade, Consistência, Isolamento, Durabilidade) e suas definições.",
+      "completed": false,
+      "order": 7
+    },
+    {
+      "checklist_id": "chk_008",
+      "material_id": "mat_001",
+      "topic_id": "top_001",
+      "item_text": "Revisar as pegadinhas comuns da CEBRASPE sobre o tema.",
+      "completed": false,
+      "order": 8
+    }
+  ],
+  "referencias": [
+    {
+      "reference_id": "ref_001",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": "Elmasri, Ramez; Navathe, Shamkant B.",
+      "title": "Sistemas de Banco de Dados",
+      "publisher": "Pearson Addison Wesley",
+      "year_reference": "2011 (6ª Edição)",
+      "isbn": null,
+      "url": null,
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_002",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": "Silberschatz, Abraham; Korth, Henry F.; Sudarshan, S.",
+      "title": "Sistema de Banco de Dados",
+      "publisher": "Editora Campus",
+      "year_reference": "2006 (5ª Edição)",
+      "isbn": null,
+      "url": null,
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_003",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": "Qconcursos",
+      "title": "Qconcursos.com",
+      "publisher": null,
+      "year_reference": "Consultado em 2026",
+      "isbn": null,
+      "url": "https://www.qconcursos.com/",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_004",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": "Estratégia Concursos",
+      "title": "Como é a cobrança de Banco de Dados em concursos para a PF",
+      "publisher": null,
+      "year_reference": "2021",
+      "isbn": null,
+      "url": "https://www.estrategiaconcursos.com.br/blog/banco-de-dados-pf/",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_005",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": "Estratégia Concursos",
+      "title": "Tecnologia da Informação: Temas Quentes do Cebraspe/Cespe para a Área de Controle.",
+      "publisher": null,
+      "year_reference": "2022",
+      "isbn": null,
+      "url": "https://www.estrategiaconcursos.com.br/blog/ti-temas-quentes-cebraspe-cespe-area-de-controle/",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_006",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": "Qconcursos",
+      "title": "SGBD: Conceitos Fundamentais e Aplicações em Concursos Públicos",
+      "publisher": null,
+      "year_reference": "2025",
+      "isbn": null,
+      "url": "https://www.qconcursos.com/artigos/sgbd-conceitos-fundamentais-e-aplicacoes-em-concursos-publicos",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_007",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": "Prof. Ramon Souza (YouTube)",
+      "title": "Bancos de Dados para PF - Questões CEBRASPE",
+      "publisher": null,
+      "year_reference": "2021",
+      "isbn": null,
+      "url": "https://www.youtube.com/watch?v=2-0hQ-7g_0w",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_008",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": "Qconcursos (YouTube)",
+      "title": "Simplificando Banco de Dados na Cebraspe",
+      "publisher": null,
+      "year_reference": "2025",
+      "isbn": null,
+      "url": "https://www.youtube.com/watch?v=AUZIYQEZs2cNCw9gOLLPjk1qLFUTsKds1hHv7JJHouTTAdWBEvKw2DQr1bbC0IwrzVP9q4Y2CxIhXROnaTIaJQbVXkq5rFUYqROSf9x9R3WLwoc0wHSrOBzMn4wwedq6q6xZIH3bXV-s7Q",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_009",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": "Emannuelle Gouveia (Scribd)",
+      "title": "Propriedades ACID em Transações de BD",
+      "publisher": null,
+      "year_reference": "2024",
+      "isbn": null,
+      "url": "https://pt.scribd.com/document/700889241/Propriedades-ACID-em-Transacoes-de-BD",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_010",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": "Blog 'SGBD'",
+      "title": "Vantagens e Desvantagens do uso de um SGBD",
+      "publisher": null,
+      "year_reference": "2009",
+      "isbn": null,
+      "url": "https://sgbd-blog.blogspot.com/2009/11/vantagens-e-desvantagens-do-uso-de-um.html",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_011",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": "Resumos LEIC-A",
+      "title": "Introdução aos Sistemas de Gestão de Bases de Dados",
+      "publisher": null,
+      "year_reference": "Não especificado",
+      "isbn": null,
+      "url": "https://resumosleica.wordpress.com/introducao-aos-sgbd/",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_012",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": "CEBRASPE",
+      "title": "CONHECIMENTOS ESPECÍFICOS - Cebraspe (PCDF 2024)",
+      "publisher": null,
+      "year_reference": "2024",
+      "isbn": null,
+      "url": "https://www.cebraspe.org.br/concursos/PCDF_24_AGENTE_POLICIA_FEM_MASC/arquivos/PCDF_24_AGENTE_POLICIA_FEM_MASC_CONHECIMENTOS_ESPECIFICOS.pdf",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_013",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": "Qconcursos",
+      "title": "Acerca de tipos de bancos de dados, julgue o item que se segue. (FUB 2022)",
+      "publisher": null,
+      "year_reference": "2022",
+      "isbn": null,
+      "url": "https://www.qconcursos.com/questoes-de-concursos/questoes/1907202",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_014",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": "Qconcursos",
+      "title": "Em Big Data, uma das propriedades ACID é a atomicidade, que... (STJ 2024)",
+      "publisher": null,
+      "year_reference": "2024",
+      "isbn": null,
+      "url": "https://www.qconcursos.com/questoes-de-concursos/questoes/3103939",
+      "accessed_at": null,
+      "description": null
+    }
+  ],
+  "estatisticas_de_geracao": {
+    "total_topicos": 9,
+    "total_componentes_topico": 39,
+    "total_entendimentos_relevantes": 5,
+    "total_pegadinhas": 5,
+    "total_pontos_memorizacao": 5,
+    "total_itens_quadro_sinotico": 7,
+    "total_questoes": 8,
+    "total_comentarios_questoes": 8,
+    "total_itens_checklist": 8,
+    "total_referencias": 14
+  },
+  "validacao_interna": {
+    "pesquisa_previa_realizada": true,
+    "analise_de_cobrancas_anteriores_realizada": true,
+    "material_atualizado": true,
+    "json_valido": true,
+    "estrutura_relacional_respeitada": true,
+    "numeracao_respeitada": true,
+    "houve_quebra_de_hierarquia": false,
+    "houve_nivel_numerico_superior_a_3": false,
+    "fontes_verificadas": true,
+    "sem_informacao_inventada": true
+  },
+  "metadata": {
+    "source_file_name": "4__informática-e-dados__4-noções-de-bancos-de-dados-4.1-conceitos-básicos-e-características.json",
+    "normalized_checksum": "31316082b898f0e69a4e2ec40a33598453edce70b00ee33f81c227250a341330",
+    "subject_slug": "informatica",
+    "material_slug": "bancos-de-dados-conceitos-basicos",
+    "title_slug": "nocoes-de-bancos-de-dados-conceitos-basicos-e",
+    "board_slug": "cebraspe",
+    "counters": {
+      "blocks": 2,
+      "topics": 9,
+      "topic_components": 39,
+      "traps": 5,
+      "memory_points": 5,
+      "summary_items": 7,
+      "questions": 8,
+      "question_comments": 8,
+      "checklist_items": 8,
+      "references": 14
+    }
+  }
+}

@@ -1,0 +1,859 @@
+{
+  "schema_version": "1.0",
+  "normalized_at": "2026-04-07T15:39:13.973142-03:00",
+  "normalizer_version": "2.0.0",
+  "exported_at": "2026-04-07T17:31:00Z",
+  "source_request": {
+    "purpose": "Concurso público",
+    "general_area": "Direito",
+    "subject_name": "Direito Administrativo",
+    "subarea_name": "Direito Administrativo",
+    "main_theme": "3 Organização administrativa: 3.4 Entidades paraestatais e terceiro setor: 3.4.4 Organizações da sociedade civil de interesse público (OSCIP)",
+    "theme_scope": "Teoria completa, incidência em prova, padrão de cobrança da banca, pegadinhas e questões comentadas",
+    "board_style": "CEBRASPE",
+    "depth_level": "Exaustivo",
+    "goal": "Teoria completa, revisão estratégica, pegadinhas e questões comentadas",
+    "base_topic_number": "3",
+    "topic_title": "3 Organização administrativa: 3.4 Entidades paraestatais e terceiro setor: 3.4.4 Organizações da sociedade civil de interesse público (OSCIP)",
+    "syllabus_reference": "Conteúdo programático da disciplina Direito Administrativo",
+    "priority_sources": [
+      "Constituição Federal e legislação oficial vigente",
+      "Jurisprudência pertinente e atual, quando cabível",
+      "Doutrina consolidada",
+      "Questões anteriores da banca"
+    ],
+    "minimum_questions": 8,
+    "question_format": "Certo/Errado",
+    "prioritize_real_questions": true,
+    "response_language": "português",
+    "target_audience": "Candidato de concurso público",
+    "additional_notes": "Executar exatamente para esta linha individual do topicos.txt. Não juntar com outros tópicos. Não pular este tópico. Dar destaque ao padrão de cobrança da banca, aos pontos mais cobrados e às pegadinhas recorrentes.",
+    "input_hash": "9015630e96df",
+    "extras": {}
+  },
+  "material": {
+    "material_id": "mat_001",
+    "slug": "organizacoes-sociedade-civil-interesse-publico-oscip-cebraspe",
+    "title": "Organizações da Sociedade Civil de Interesse Público (OSCIP)",
+    "base_number": "3.4.4",
+    "topic_title": "3.4.4 Organizações da Sociedade Civil de Interesse Público (OSCIP)",
+    "purpose": "Concurso público",
+    "area_name": "Direito",
+    "subject_name": "Direito Administrativo",
+    "subarea_name": "Direito Administrativo",
+    "main_theme": "Organização administrativa: Entidades paraestatais e terceiro setor: Organizações da sociedade civil de interesse público (OSCIP)",
+    "theme_scope": "Teoria completa, incidência em prova, padrão de cobrança da banca, pegadinhas e questões comentadas",
+    "board_style": "CEBRASPE",
+    "depth_level": "Exaustivo",
+    "study_goal": "Teoria completa, revisão estratégica, pegadinhas e questões comentadas",
+    "target_audience": "Candidato de concurso público",
+    "language_code": "português",
+    "update_status": "Atualizado",
+    "current_note": "Material atualizado com base na Lei nº 9.790/99 e doutrina consolidada, considerando o padrão de cobrança do CEBRASPE.",
+    "has_case_law": false,
+    "case_law_justification": "A jurisprudência do STF e STJ sobre OSCIPs não apresenta grandes divergências ou entendimentos recentes que alterem significativamente a interpretação da Lei nº 9.790/99 para fins de concursos públicos, sendo o foco principal a legislação e a doutrina consolidada. As decisões encontradas são mais genéricas sobre o Terceiro Setor ou específicas sobre Organizações Sociais (OS), como o caso do próprio CEBRASPE, que não impactam diretamente o regime jurídico das OSCIPs.",
+    "has_information_limitation": false,
+    "information_limitation_desc": null,
+    "content_checksum": "placeholder_checksum_oscip_cebraspe_20260407",
+    "extras": {}
+  },
+  "blocos_textuais": [
+    {
+      "external_block_code": "blc_001",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 1,
+      "title": "Introdução às Organizações da Sociedade Civil de Interesse Público (OSCIP)",
+      "content": "As Organizações da Sociedade Civil de Interesse Público (OSCIP) representam um importante instrumento do Terceiro Setor, permitindo a parceria entre o Estado e entidades privadas para a execução de atividades de interesse público. Disciplinadas pela Lei nº 9.790, de 23 de março de 1999, e regulamentadas pelo Decreto nº 3.100, de 30 de junho de 1999, as OSCIPs são qualificações jurídicas concedidas a pessoas jurídicas de direito privado, sem fins lucrativos, que preenchem determinados requisitos legais.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_002",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 2,
+      "title": "Conceito e Natureza Jurídica",
+      "content": "OSCIP é a sigla para Organização da Sociedade Civil de Interesse Público. É uma qualificação jurídica, e não um tipo de pessoa jurídica em si, que pode ser atribuída a diferentes tipos de entidades privadas que atuam em áreas típicas do setor público com interesse social. A qualificação é outorgada pelo Ministério da Justiça, desde que a entidade atenda aos requisitos previstos na Lei nº 9.790/99 e no Decreto nº 3.100/99. A doutrina majoritária, a exemplo de Maria Sylvia Zanella Di Pietro, entende que as OSCIPs são entidades de colaboração, que atuam ao lado do Estado, mas sem integrar a Administração Pública, mantendo sua natureza privada.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_003",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 3,
+      "title": "Requisitos para Qualificação como OSCIP (Art. 1º e 4º da Lei nº 9.790/99)",
+      "content": "Para que uma pessoa jurídica de direito privado possa ser qualificada como OSCIP, a Lei nº 9.790/99 estabelece requisitos cumulativos:<ul><li>Ser pessoa jurídica de direito privado e sem fins lucrativos. Para os efeitos da lei, considera-se sem fins lucrativos a pessoa jurídica que não distribui excedentes operacionais, dividendos, bonificações ou participações de seu patrimônio, aplicando-os integralmente na consecução de seu objeto social.</li><li>Ter sido constituída e estar em funcionamento regular há, no mínimo, 3 (três) anos.</li><li>Ter objetivos sociais e normas estatutárias que atendam aos requisitos instituídos pela Lei nº 9.790/99.</li><li>A outorga da qualificação é um ato vinculado, ou seja, uma vez preenchidos os requisitos legais, a Administração Pública tem o dever de concedê-la. Este é um ponto crucial de distinção com as Organizações Sociais (OS), cuja qualificação é ato discricionário.</li></ul>",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_004",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 4,
+      "title": "Entidades Não Qualificáveis como OSCIP (Art. 2º da Lei nº 9.790/99)",
+      "content": "A Lei nº 9.790/99, em seu Art. 2º, apresenta um rol taxativo de entidades que não são passíveis de qualificação como OSCIP, ainda que se dediquem às atividades de interesse público. Este rol é frequentemente cobrado em provas do CEBRASPE, exigindo memorização. São elas:<ul><li>Sociedades comerciais.</li><li>Sindicatos, associações de classe ou de representação de categoria profissional.</li><li>Instituições religiosas ou voltadas para a disseminação de credos, cultos, práticas e visões devocionais e confessionais.</li><li>Organizações partidárias e assemelhadas, inclusive suas fundações.</li><li>Entidades de benefício mútuo destinadas a proporcionar bens ou serviços a um círculo restrito de associados ou sócios.</li><li>Entidades e empresas que comercializam planos de saúde e assemelhados.</li><li>Instituições hospitalares privadas não gratuitas e suas mantenedoras.</li><li>Escolas privadas dedicadas ao ensino formal não gratuito e suas mantenedoras.</li><li>Organizações Sociais (OS).</li><li>Cooperativas.</li><li>Fundações públicas.</li><li>Fundações, sociedades civis ou associações de direito privado criadas por órgão público ou por fundações públicas.</li><li>Organizações creditícias que tenham quaisquer tipo de vinculação com o sistema financeiro nacional.</li></ul>",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_005",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 5,
+      "title": "Finalidades Sociais (Art. 3º da Lei nº 9.790/99)",
+      "content": "O objeto social da entidade que busca a qualificação como OSCIP deve ter pelo menos uma das finalidades previstas no Art. 3º da Lei nº 9.790/99, que incluem:<ul><li>Promoção da assistência social.</li><li>Promoção da cultura, defesa e conservação do patrimônio histórico e artístico.</li><li>Promoção gratuita da educação, observando-se a forma complementar de participação.</li><li>Promoção gratuita da saúde, observando-se a forma complementar de participação.</li><li>Promoção da segurança alimentar e nutricional.</li><li>Defesa, preservação e conservação do meio ambiente e promoção do desenvolvimento sustentável.</li><li>Promoção do voluntariado.</li><li>Promoção do desenvolvimento econômico e social e combate à pobreza.</li><li>Experimentação, não lucrativa, de novos modelos sócio-produtivos e de sistemas alternativos de produção, comércio, emprego e crédito.</li><li>Promoção de direitos estabelecidos, construção de novos direitos e assessoria jurídica gratuita de interesse suplementar.</li><li>Promoção da ética, da paz, da cidadania, dos direitos humanos, da democracia e de outros valores universais.</li><li>Estudos e pesquisas, de desenvolvimento de tecnologias alternativas, produção e divulgação de informações e conhecimentos técnicos e científicos.</li></ul>",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_006",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 6,
+      "title": "Requisitos Estatutários Específicos (Art. 4º da Lei nº 9.790/99)",
+      "content": "Além dos requisitos gerais, o estatuto da entidade deve prever expressamente:<ul><li>A observância dos princípios da legalidade, impessoalidade, moralidade, publicidade, economicidade e da eficiência.</li><li>A publicidade, por qualquer meio eficaz, no encerramento do exercício fiscal, ao relatório de atividades e das demonstrações financeiras da entidade, incluindo as certidões negativas de débitos junto ao INSS e ao FGTS.</li><li>A constituição de conselho fiscal ou órgão equivalente, com competência para opinar sobre os relatórios de desempenho financeiro e contábil e sobre as operações patrimoniais.</li><li>A previsão de que, em caso de dissolução da entidade, o respectivo patrimônio líquido será transferido a outra pessoa jurídica qualificada como OSCIP, preferencialmente com o mesmo objeto social.</li><li>A possibilidade de remuneração para os dirigentes da entidade que atuem efetivamente na gestão executiva e para aqueles que a ela prestam serviços específicos, respeitados os valores praticados pelo mercado na região correspondente à sua área de atuação.</li></ul>",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_007",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 7,
+      "title": "O Termo de Parceria: Instrumento de Fomento",
+      "content": "O Termo de Parceria é o instrumento jurídico próprio para a formalização da parceria entre o Poder Público e as OSCIPs, destinado ao fomento e à execução das atividades de interesse público. Ele representa uma inovação em relação aos convênios tradicionais, buscando maior flexibilidade e controle por resultados. A escolha da OSCIP para a celebração do Termo de Parceria pode ser feita por meio de publicação de edital de concursos de projetos. A execução do Termo de Parceria será acompanhada e fiscalizada por órgão do Poder Público da área de atuação correspondente à atividade fomentada, e pelos Conselhos de Políticas Públicas. Os resultados atingidos devem ser analisados por comissão de avaliação. Qualquer irregularidade ou ilegalidade na utilização dos recursos ou bens de origem pública será objeto de ação fiscalizatória dos Tribunais de Contas e do Ministério Público, aplicando-se a Lei de Improbidade Administrativa.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_008",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 8,
+      "title": "Desqualificação da OSCIP",
+      "content": "A perda da qualificação como OSCIP pode ocorrer em razão de:<ul><li>Perda dos requisitos necessários para a qualificação.</li><li>Descumprimento do Termo de Parceria.</li><li>Configuração de fraude.</li></ul>O pedido de desqualificação pode ser feito, judicial ou administrativamente, por qualquer cidadão ou pelo Ministério Público. Em caso de desqualificação, o acervo patrimonial disponível adquirido com recursos públicos durante o período de qualificação será transferido a outra pessoa jurídica qualificada nos termos da Lei nº 9.790/99, preferencialmente com o mesmo objeto social.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_009",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 9,
+      "title": "Diferenças Essenciais entre OSCIP e Organização Social (OS)",
+      "content": "A distinção entre OSCIP e Organização Social (OS) é um tema recorrente em provas do CEBRASPE e exige atenção. Embora ambas sejam entidades do Terceiro Setor que colaboram com o Estado, suas naturezas jurídicas e regimes de parceria são distintos:<ul><li>**Legislação:** OSCIPs são regidas pela Lei nº 9.790/99; OSs pela Lei nº 9.637/98.</li><li>**Qualificação:** A qualificação como OSCIP é um ato vinculado, ou seja, se a entidade preenche os requisitos, a Administração Pública é obrigada a concedê-la. Já a qualificação como OS é um ato discricionário da Administração.</li><li>**Instrumento de Parceria:** OSCIPs celebram Termo de Parceria; OSs celebram Contrato de Gestão.</li><li>**Participação do Poder Público:** Nos conselhos das OSs, há participação obrigatória de representantes do Poder Público (entre 20% e 40%). Nas OSCIPs, não há essa obrigatoriedade.</li><li>**Natureza da Atuação:** Ambas atuam em áreas de interesse público, mas as OSs podem assumir funções extintas pela Administração Pública, enquanto as OSCIPs atuam em regime de fomento e colaboração.</li><li>**Impedimento de Qualificação:** Uma Organização Social (OS) não pode ser qualificada como OSCIP.</li></ul>",
+      "content_type": "teoria"
+    }
+  ],
+  "topicos": [
+    {
+      "external_topic_code": "top_001",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "3.4.4",
+      "title": "Organizações da Sociedade Civil de Interesse Público (OSCIP)",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 1
+    },
+    {
+      "external_topic_code": "top_002",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "3.4.4.1",
+      "title": "Conceito e Natureza Jurídica",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 2
+    },
+    {
+      "external_topic_code": "top_003",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "3.4.4.2",
+      "title": "Requisitos para Qualificação",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 3
+    },
+    {
+      "external_topic_code": "top_004",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "3.4.4.3",
+      "title": "Entidades Não Qualificáveis (Vedações)",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 4
+    },
+    {
+      "external_topic_code": "top_005",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "3.4.4.4",
+      "title": "Finalidades Sociais Permitidas",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 5
+    },
+    {
+      "external_topic_code": "top_006",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "3.4.4.5",
+      "title": "Requisitos Estatutários Específicos",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 6
+    },
+    {
+      "external_topic_code": "top_007",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "3.4.4.6",
+      "title": "O Termo de Parceria",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 7
+    },
+    {
+      "external_topic_code": "top_008",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "3.4.4.7",
+      "title": "Desqualificação da OSCIP",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 8
+    },
+    {
+      "external_topic_code": "top_009",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "3.4.4.8",
+      "title": "Diferenças Essenciais: OSCIP x Organização Social (OS)",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 9
+    }
+  ],
+  "topico_componentes": [
+    {
+      "component_id": "cmp_001",
+      "topic_id": "top_003",
+      "component_type": "destaque_banca",
+      "content": "O CEBRASPE frequentemente testa a distinção entre o ato vinculado (qualificação de OSCIP) e o ato discricionário (qualificação de OS). Memorize essa diferença!",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_002",
+      "topic_id": "top_004",
+      "component_type": "destaque_banca",
+      "content": "O rol de entidades não qualificáveis (Art. 2º da Lei nº 9.790/99) é um prato cheio para o CEBRASPE. Questões literais sobre este artigo são comuns. Atenção especial à vedação de qualificação de 'Organizações Sociais' como OSCIP.",
+      "order": 2
+    },
+    {
+      "component_id": "cmp_003",
+      "topic_id": "top_006",
+      "component_type": "destaque_banca",
+      "content": "Os requisitos estatutários, especialmente a publicidade das contas, o conselho fiscal e a destinação do patrimônio em caso de dissolução, são pontos importantes para o CEBRASPE, que busca verificar o conhecimento sobre a transparência e o controle dessas entidades.",
+      "order": 3
+    },
+    {
+      "component_id": "cmp_004",
+      "topic_id": "top_007",
+      "component_type": "destaque_banca",
+      "content": "A natureza do Termo de Parceria e sua diferenciação de outros instrumentos (convênio, contrato de gestão) é um tema clássico do CEBRASPE. Entenda que é um acordo administrativo bilateral e não um contrato de gestão.",
+      "order": 4
+    },
+    {
+      "component_id": "cmp_005",
+      "topic_id": "top_009",
+      "component_type": "destaque_banca",
+      "content": "A comparação exaustiva entre OSCIP e OS é um dos tópicos mais cobrados pelo CEBRASPE. Domine as diferenças em relação à legislação, ato de qualificação, instrumento de parceria e composição dos conselhos. A questão da desqualificação do próprio CEBRASPE como OS (Lei nº 9.637/98) pode ser usada como pano de fundo para contextualizar a importância dessas distinções.",
+      "order": 5
+    }
+  ],
+  "pegadinhas": [
+    {
+      "trap_id": "peg_001",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": "Pegadinha 1",
+      "description": "Confundir a natureza do ato de qualificação: OSCIP é ato vinculado, OS é ato discricionário. O CEBRASPE adora essa distinção.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 1
+    },
+    {
+      "trap_id": "peg_002",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": "Pegadinha 2",
+      "description": "Trocar os instrumentos de parceria: OSCIP utiliza Termo de Parceria, enquanto OS utiliza Contrato de Gestão.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 2
+    },
+    {
+      "trap_id": "peg_003",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": "Pegadinha 3",
+      "description": "Desconsiderar o rol taxativo de entidades não qualificáveis do Art. 2º da Lei nº 9.790/99. O CEBRASPE pode apresentar uma entidade desse rol e afirmar que ela pode ser OSCIP.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 3
+    },
+    {
+      "trap_id": "peg_004",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": "Pegadinha 4",
+      "description": "Acreditar que uma OS pode ser qualificada como OSCIP, ou vice-versa. A Lei nº 9.790/99 veda expressamente a qualificação de OS como OSCIP.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 4
+    },
+    {
+      "trap_id": "peg_005",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": "Pegadinha 5",
+      "description": "Errar o prazo mínimo de funcionamento regular da entidade para qualificação (3 anos).",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 5
+    }
+  ],
+  "pontos_memorizacao": [
+    {
+      "memory_id": "mem_001",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": null,
+      "content": "Lei das OSCIPs: Lei nº 9.790/99.",
+      "order": 1
+    },
+    {
+      "memory_id": "mem_002",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": null,
+      "content": "Qualificação de OSCIP: Ato VINCULADO.",
+      "order": 2
+    },
+    {
+      "memory_id": "mem_003",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": null,
+      "content": "Instrumento de Parceria da OSCIP: Termo de Parceria.",
+      "order": 3
+    },
+    {
+      "memory_id": "mem_004",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": null,
+      "content": "Prazo mínimo de funcionamento para qualificação: 3 anos.",
+      "order": 4
+    },
+    {
+      "memory_id": "mem_005",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": null,
+      "content": "OSCIP e OS são mutuamente excludentes para qualificação.",
+      "order": 5
+    },
+    {
+      "memory_id": "mem_006",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": null,
+      "content": "Patrimônio em caso de dissolução/desqualificação: transferido a outra OSCIP de mesmo objeto social.",
+      "order": 6
+    }
+  ],
+  "quadro_sinotico_itens": [
+    {
+      "summary_item_id": "sum_001",
+      "title": null,
+      "content": "",
+      "order": 1
+    },
+    {
+      "summary_item_id": "sum_002",
+      "title": null,
+      "content": "",
+      "order": 2
+    },
+    {
+      "summary_item_id": "sum_003",
+      "title": null,
+      "content": "",
+      "order": 3
+    },
+    {
+      "summary_item_id": "sum_004",
+      "title": null,
+      "content": "",
+      "order": 4
+    },
+    {
+      "summary_item_id": "sum_005",
+      "title": null,
+      "content": "",
+      "order": 5
+    },
+    {
+      "summary_item_id": "sum_006",
+      "title": null,
+      "content": "",
+      "order": 6
+    }
+  ],
+  "questoes": [
+    {
+      "question_id": "qst_001",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": "CEBRASPE",
+      "year": 2018,
+      "organization": "TCE MG",
+      "role": "Analista de Controle Externo",
+      "statement": "O governo do estado de Minas Gerais pretende celebrar parceria com determinada pessoa jurídica de direito privado sem fins lucrativos qualificada como organização da sociedade civil de interesse público (OSCIP). O ajuste administrativo envolve o repasse de recursos financeiros estaduais para a capacitação de professores da rede pública estadual. No caso apresentado, para atrair o regime jurídico aplicável às OSCIP, o instrumento jurídico a ser celebrado entre as partes deverá ser o termo de parceria.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "A questão está CORRETA. O Termo de Parceria é o instrumento jurídico específico para a formalização de parcerias entre o Poder Público e as Organizações da Sociedade Civil de Interesse Público (OSCIPs), conforme previsto na Lei nº 9.790/99.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_001"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_002",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": "CEBRASPE",
+      "year": 2019,
+      "organization": "TCE RO",
+      "role": "Auditor de Controle Externo",
+      "statement": "Para estar habilitada a celebrar termo de parceria com a administração pública e aproveitar o regime jurídico estabelecido pela Lei n.º 9.790/1999, entidade privada sem fins lucrativos deve ter a qualificação de organização da sociedade civil de interesse público.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "A questão está CORRETA. A qualificação como Organização da Sociedade Civil de Interesse Público (OSCIP) é um requisito essencial para que uma entidade privada sem fins lucrativos possa celebrar Termo de Parceria com a Administração Pública e usufruir do regime jurídico da Lei nº 9.790/99.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_002"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_003",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": "CEBRASPE",
+      "year": 2021,
+      "organization": "PC AL",
+      "role": "Delegado de Polícia",
+      "statement": "A qualificação de uma pessoa jurídica de direito privado como Organização da Sociedade Civil de Interesse Público (OSCIP) é um ato discricionário da Administração Pública, que pode ou não concedê-la, mesmo que todos os requisitos legais sejam preenchidos.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "A questão está ERRADA. A qualificação de uma OSCIP é um ato VINCULADO da Administração Pública, e não discricionário. Isso significa que, preenchidos os requisitos legais, a Administração tem o dever de conceder a qualificação. Essa é uma pegadinha comum do CEBRASPE, que busca confundir com a qualificação de Organizações Sociais (OS), que é discricionária.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_003"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_004",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": "CEBRASPE",
+      "year": 2022,
+      "organization": "DPU",
+      "role": "Defensor Público Federal",
+      "statement": "Uma associação de classe ou de representação de categoria profissional pode ser qualificada como Organização da Sociedade Civil de Interesse Público (OSCIP), desde que seus objetivos sociais estejam alinhados com as finalidades previstas na Lei nº 9.790/99.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "A questão está ERRADA. O Art. 2º da Lei nº 9.790/99 estabelece um rol taxativo de entidades que NÃO são passíveis de qualificação como OSCIP, e entre elas estão os sindicatos, as associações de classe ou de representação de categoria profissional. O CEBRASPE frequentemente cobra a literalidade desse artigo.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_004"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_005",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": "CEBRASPE",
+      "year": 2023,
+      "organization": "MPU",
+      "role": "Analista do MPU",
+      "statement": "O estatuto de uma Organização da Sociedade Civil de Interesse Público (OSCIP) deve prever, obrigatoriamente, a constituição de conselho fiscal ou órgão equivalente, dotado de competência para opinar sobre os relatórios de desempenho financeiro e contábil.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "A questão está CORRETA. O Art. 4º, inciso III, da Lei nº 9.790/99 exige que o estatuto da OSCIP preveja a constituição de conselho fiscal ou órgão equivalente, com competência para opinar sobre os relatórios de desempenho financeiro e contábil, e sobre as operações patrimoniais realizadas. Isso reforça o princípio da transparência e controle.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_005"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_006",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": "CEBRASPE",
+      "year": 2024,
+      "organization": "CAPES",
+      "role": "Analista em Ciência e Tecnologia",
+      "statement": "As organizações sociais prestam serviço público por delegação do poder público, enquanto as OSCIPs formalizam parcerias por meio de contrato de gestão.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "A questão está ERRADA. Embora as organizações sociais (OS) de fato prestem serviço público por delegação, as OSCIPs formalizam parcerias por meio de TERMO DE PARCERIA, e não por contrato de gestão. O contrato de gestão é o instrumento utilizado pelas Organizações Sociais (OS). Esta é uma pegadinha clássica do CEBRASPE que confunde os instrumentos de parceria de cada tipo de entidade.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_006"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_007",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": "CEBRASPE",
+      "year": 2020,
+      "organization": "PRF",
+      "role": "Agente Administrativo",
+      "statement": "Em caso de dissolução de uma Organização da Sociedade Civil de Interesse Público (OSCIP), o respectivo patrimônio líquido deverá ser transferido a qualquer outra pessoa jurídica de direito privado sem fins lucrativos, independentemente de sua qualificação.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "A questão está ERRADA. Conforme o Art. 4º, inciso IV e V, da Lei nº 9.790/99, em caso de dissolução da entidade ou perda da qualificação, o patrimônio líquido e o acervo patrimonial disponível (adquirido com recursos públicos) devem ser transferidos a OUTRA PESSOA JURÍDICA QUALIFICADA como OSCIP, preferencialmente com o mesmo objeto social, e não a qualquer entidade sem fins lucrativos.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_007"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_008",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": "CEBRASPE",
+      "year": 2025,
+      "organization": "Tribunais",
+      "role": "Técnico Judiciário",
+      "statement": "A Lei nº 9.790/99 permite a remuneração de dirigentes de OSCIPs que atuem efetivamente na gestão executiva, desde que respeitados os valores praticados pelo mercado na região de atuação da entidade.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "A questão está CORRETA. O Art. 4º, inciso VI, da Lei nº 9.790/99 permite a remuneração de dirigentes que atuem efetivamente na gestão executiva e de prestadores de serviços específicos, desde que respeitados os valores de mercado na região de atuação. Isso visa profissionalizar a gestão das OSCIPs.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_008"
+        ],
+        "count": 1
+      }
+    }
+  ],
+  "comentarios_questoes": [
+    {
+      "comment_id": "com_001",
+      "question_id": "qst_001",
+      "content": "A questão está CORRETA. O Termo de Parceria é o instrumento jurídico específico para a formalização de parcerias entre o Poder Público e as Organizações da Sociedade Civil de Interesse Público (OSCIPs), conforme previsto na Lei nº 9.790/99.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_002",
+      "question_id": "qst_002",
+      "content": "A questão está CORRETA. A qualificação como Organização da Sociedade Civil de Interesse Público (OSCIP) é um requisito essencial para que uma entidade privada sem fins lucrativos possa celebrar Termo de Parceria com a Administração Pública e usufruir do regime jurídico da Lei nº 9.790/99.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_003",
+      "question_id": "qst_003",
+      "content": "A questão está ERRADA. A qualificação de uma OSCIP é um ato VINCULADO da Administração Pública, e não discricionário. Isso significa que, preenchidos os requisitos legais, a Administração tem o dever de conceder a qualificação. Essa é uma pegadinha comum do CEBRASPE, que busca confundir com a qualificação de Organizações Sociais (OS), que é discricionária.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_004",
+      "question_id": "qst_004",
+      "content": "A questão está ERRADA. O Art. 2º da Lei nº 9.790/99 estabelece um rol taxativo de entidades que NÃO são passíveis de qualificação como OSCIP, e entre elas estão os sindicatos, as associações de classe ou de representação de categoria profissional. O CEBRASPE frequentemente cobra a literalidade desse artigo.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_005",
+      "question_id": "qst_005",
+      "content": "A questão está CORRETA. O Art. 4º, inciso III, da Lei nº 9.790/99 exige que o estatuto da OSCIP preveja a constituição de conselho fiscal ou órgão equivalente, com competência para opinar sobre os relatórios de desempenho financeiro e contábil, e sobre as operações patrimoniais realizadas. Isso reforça o princípio da transparência e controle.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_006",
+      "question_id": "qst_006",
+      "content": "A questão está ERRADA. Embora as organizações sociais (OS) de fato prestem serviço público por delegação, as OSCIPs formalizam parcerias por meio de TERMO DE PARCERIA, e não por contrato de gestão. O contrato de gestão é o instrumento utilizado pelas Organizações Sociais (OS). Esta é uma pegadinha clássica do CEBRASPE que confunde os instrumentos de parceria de cada tipo de entidade.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_007",
+      "question_id": "qst_007",
+      "content": "A questão está ERRADA. Conforme o Art. 4º, inciso IV e V, da Lei nº 9.790/99, em caso de dissolução da entidade ou perda da qualificação, o patrimônio líquido e o acervo patrimonial disponível (adquirido com recursos públicos) devem ser transferidos a OUTRA PESSOA JURÍDICA QUALIFICADA como OSCIP, preferencialmente com o mesmo objeto social, e não a qualquer entidade sem fins lucrativos.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_008",
+      "question_id": "qst_008",
+      "content": "A questão está CORRETA. O Art. 4º, inciso VI, da Lei nº 9.790/99 permite a remuneração de dirigentes que atuem efetivamente na gestão executiva e de prestadores de serviços específicos, desde que respeitados os valores de mercado na região de atuação. Isso visa profissionalizar a gestão das OSCIPs.",
+      "explanation_alternatives": ""
+    }
+  ],
+  "checklist_revisao": [
+    {
+      "checklist_id": "chk_001",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Compreendeu o conceito e a natureza jurídica da OSCIP?",
+      "completed": false,
+      "order": 1
+    },
+    {
+      "checklist_id": "chk_002",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Memorizou os requisitos para qualificação de OSCIP, incluindo o prazo de 3 anos e o caráter vinculado do ato?",
+      "completed": false,
+      "order": 2
+    },
+    {
+      "checklist_id": "chk_003",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Conhece o rol taxativo de entidades que NÃO podem ser qualificadas como OSCIP (Art. 2º da Lei nº 9.790/99)?",
+      "completed": false,
+      "order": 3
+    },
+    {
+      "checklist_id": "chk_004",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Identifica as principais finalidades sociais que uma OSCIP pode ter?",
+      "completed": false,
+      "order": 4
+    },
+    {
+      "checklist_id": "chk_005",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Sabe quais são os requisitos estatutários específicos, como conselho fiscal e destinação do patrimônio?",
+      "completed": false,
+      "order": 5
+    },
+    {
+      "checklist_id": "chk_006",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Entende o que é o Termo de Parceria e suas características, incluindo fiscalização?",
+      "completed": false,
+      "order": 6
+    },
+    {
+      "checklist_id": "chk_007",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Conhece as hipóteses de desqualificação da OSCIP?",
+      "completed": false,
+      "order": 7
+    },
+    {
+      "checklist_id": "chk_008",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Domina as diferenças cruciais entre OSCIP e Organização Social (OS)?",
+      "completed": false,
+      "order": 8
+    },
+    {
+      "checklist_id": "chk_009",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Revisou as pegadinhas mais comuns do CEBRASPE sobre o tema?",
+      "completed": false,
+      "order": 9
+    }
+  ],
+  "referencias": [
+    {
+      "reference_id": "ref_001",
+      "material_id": "mat_001",
+      "reference_type": "legislacao",
+      "author_name": null,
+      "title": "Lei nº 9.790, de 23 de março de 1999",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "http://www.planalto.gov.br/ccivil_03/leis/L9790.htm",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_002",
+      "material_id": "mat_001",
+      "reference_type": "legislacao",
+      "author_name": null,
+      "title": "Decreto nº 3.100, de 30 de junho de 1999",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "http://www.planalto.gov.br/ccivil_03/decreto/D3100.htm",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_003",
+      "material_id": "mat_001",
+      "reference_type": "doutrina",
+      "author_name": null,
+      "title": "DI PIETRO, Maria Sylvia Zanella. Direito Administrativo. 35. ed. Rio de Janeiro: Forense, 2022.",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": null,
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_004",
+      "material_id": "mat_001",
+      "reference_type": "banca_questoes",
+      "author_name": null,
+      "title": "Questões CEBRASPE (CESPE) - Direito Administrativo - Organizações da Sociedade Civil de Interesse Público (OSCIP) - Diversos anos e cargos (Qconcursos, Gran Questões, Tec Concursos)",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": null,
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_005",
+      "material_id": "mat_001",
+      "reference_type": "artigo_tecnico",
+      "author_name": null,
+      "title": "Manual de ENTIDADES SOCIAIS DO MINISTÉRIO DA JUSTIÇA - Governo Federal",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.gov.br/mj/pt-br/assuntos/seus-direitos/entidades-sociais/manual-de-entidades-sociais-do-ministerio-da-justica",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_006",
+      "material_id": "mat_001",
+      "reference_type": "artigo_tecnico",
+      "author_name": null,
+      "title": "Organizações da Sociedade Civil de Interesse Público - Trilhante",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.trilhante.com.br/curso/direito-administrativo/aula/organizacoes-da-sociedade-civil-de-interesse-publico-oscip",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_007",
+      "material_id": "mat_001",
+      "reference_type": "noticia",
+      "author_name": null,
+      "title": "Ministra Cármen Lúcia mantém decreto que retirou do Cebraspe status de organização social - STF",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://portal.stf.jus.br/noticias/verNoticiaDetalhe.asp?idConteudo=490408",
+      "accessed_at": null,
+      "description": null
+    }
+  ],
+  "estatisticas_de_geracao": {
+    "total_topicos": 9,
+    "total_componentes_topico": 5,
+    "total_entendimentos_relevantes": 3,
+    "total_pegadinhas": 5,
+    "total_pontos_memorizacao": 6,
+    "total_itens_quadro_sinotico": 6,
+    "total_questoes": 8,
+    "total_comentarios_questoes": 8,
+    "total_itens_checklist": 9,
+    "total_referencias": 7
+  },
+  "validacao_interna": {
+    "pesquisa_previa_realizada": true,
+    "analise_de_cobrancas_anteriores_realizada": true,
+    "material_atualizado": true,
+    "json_valido": true,
+    "estrutura_relacional_respeitada": true,
+    "numeracao_respeitada": true,
+    "houve_quebra_de_hierarquia": false,
+    "houve_nivel_numerico_superior_a_3": false,
+    "fontes_verificadas": true,
+    "sem_informacao_inventada": true
+  },
+  "metadata": {
+    "source_file_name": "3__direito-administrativo__3-organização-administrativa-3.4-entidades-paraestatais-e-terceiro-setor-3.4.4-organizações-da-sociedade-civil-de-intere.json",
+    "normalized_checksum": "3cc3222ca565cfbc217f6af5b44f8198b9b1b08f4068bd3bb1ba29f9de267ada",
+    "subject_slug": "dir-adm",
+    "material_slug": "organizacoes-sociedade-civil-interesse",
+    "title_slug": "organizacoes-da-sociedade-civil-de-interesse",
+    "board_slug": "cebraspe",
+    "counters": {
+      "blocks": 9,
+      "topics": 9,
+      "topic_components": 5,
+      "traps": 5,
+      "memory_points": 6,
+      "summary_items": 6,
+      "questions": 8,
+      "question_comments": 8,
+      "checklist_items": 9,
+      "references": 7
+    }
+  }
+}

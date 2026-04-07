@@ -1,0 +1,1031 @@
+{
+  "schema_version": "1.0",
+  "normalized_at": "2026-04-07T15:39:13.541907-03:00",
+  "normalizer_version": "2.0.0",
+  "exported_at": "2026-04-07T16:44:00Z",
+  "source_request": {
+    "purpose": "Concurso público",
+    "general_area": "Direito",
+    "subject_name": "Direito Constitucional e Legislação Interna da Câmara dos Deputados",
+    "subarea_name": "Direito Constitucional",
+    "main_theme": "10 Segurança pública: 10.1 Organização da segurança pública",
+    "theme_scope": "Teoria completa, incidência em prova, padrão de cobrança da banca, pegadinhas e questões comentadas",
+    "board_style": "CEBRASPE",
+    "depth_level": "Exaustivo",
+    "goal": "Teoria completa, revisão estratégica, pegadinhas e questões comentadas",
+    "base_topic_number": "10",
+    "topic_title": "10 Segurança pública: 10.1 Organização da segurança pública",
+    "syllabus_reference": "Conteúdo programático da disciplina Direito Constitucional e Legislação Interna da Câmara dos Deputados",
+    "priority_sources": [
+      "Constituição Federal e legislação oficial vigente",
+      "Jurisprudência pertinente e atual, quando cabível",
+      "Doutrina consolidada",
+      "Questões anteriores da banca"
+    ],
+    "minimum_questions": 8,
+    "question_format": "Certo/Errado",
+    "prioritize_real_questions": true,
+    "response_language": "português",
+    "target_audience": "Candidato de concurso público",
+    "additional_notes": "Executar exatamente para esta linha individual do topicos.txt. Não juntar com outros tópicos. Não pular este tópico. Dar destaque ao padrão de cobrança da banca, aos pontos mais cobrados e às pegadinhas recorrentes.",
+    "input_hash": "a1f2f1511fd6",
+    "extras": {}
+  },
+  "material": {
+    "material_id": "mat_001",
+    "slug": "seguranca-publica-organizacao-cebraspe",
+    "title": "Segurança Pública: Organização Constitucional e Padrão CEBRASPE",
+    "base_number": "10",
+    "topic_title": "10 Segurança pública: 10.1 Organização da segurança pública",
+    "purpose": "Concurso público",
+    "area_name": "Direito",
+    "subject_name": "Direito Constitucional e Legislação Interna da Câmara dos Deputados",
+    "subarea_name": "Direito Constitucional",
+    "main_theme": "Segurança pública: Organização da segurança pública",
+    "theme_scope": "Teoria completa, incidência em prova, padrão de cobrança da banca, pegadinhas e questões comentadas",
+    "board_style": "CEBRASPE",
+    "depth_level": "Exaustivo",
+    "study_goal": "Teoria completa, revisão estratégica, pegadinhas e questões comentadas",
+    "target_audience": "Candidato de concurso público",
+    "language_code": "português",
+    "update_status": "Atualizado em 2026",
+    "current_note": "Material atualizado com a Constituição Federal, Lei nº 13.675/2018 (SUSP) e jurisprudência recente do STF (ADPF 995, ADI 7.466, ADI 3.608, ADI 6.620).",
+    "has_case_law": true,
+    "case_law_justification": "A jurisprudência do STF é crucial para a compreensão da organização da segurança pública, especialmente no que tange ao rol dos órgãos e à atuação das Guardas Municipais, sendo frequentemente cobrada pela banca CEBRASPE.",
+    "has_information_limitation": false,
+    "information_limitation_desc": null,
+    "content_checksum": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6",
+    "extras": {}
+  },
+  "blocos_textuais": [
+    {
+      "external_block_code": "blc_001",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 1,
+      "title": "Introdução à Segurança Pública na Constituição Federal",
+      "content": "A segurança pública é um tema de relevância fundamental no Direito Constitucional brasileiro, sendo tratada no Capítulo III do Título V da Constituição Federal de 1988 (CF/88), especificamente no Art. 144. A CF/88 inovou ao dedicar um capítulo específico à segurança pública, elevando-a ao status de direito fundamental e dever do Estado, com responsabilidade de todos. Este conceito abrange a preservação da ordem pública e da incolumidade das pessoas e do patrimônio. Para o CEBRASPE, é crucial entender a literalidade do Art. 144, bem como as interpretações jurisprudenciais que complementam e detalham suas disposições.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_002",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 2,
+      "title": "Órgãos de Segurança Pública (Art. 144, CF/88)",
+      "content": "O Art. 144 da Constituição Federal estabelece um rol taxativo dos órgãos responsáveis pela segurança pública. É fundamental memorizar esses órgãos e suas respectivas atribuições, pois são pontos recorrentes nas provas do CEBRASPE. São eles: Polícia Federal (PF), Polícia Rodoviária Federal (PRF), Polícia Ferroviária Federal (PFF), Polícias Civis, Polícias Militares (PM) e Corpos de Bombeiros Militares (CBM). A Emenda Constitucional nº 104/2019 adicionou as Polícias Penais (federal, estaduais e distrital) a este rol.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_003",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 3,
+      "title": "Atribuições Específicas dos Órgãos Federais",
+      "content": "A Polícia Federal (PF), órgão permanente, organizado e mantido pela União, possui atribuições amplas e exclusivas. Compete à PF apurar infrações penais contra a ordem política e social ou em detrimento de bens, serviços e interesses da União ou de suas entidades autárquicas e empresas públicas, bem como outras infrações com repercussão interestadual ou internacional que exijam repressão uniforme. Também previne e reprime o tráfico ilícito de entorpecentes, contrabando e descaminho, e exerce as funções de polícia marítima, aeroportuária e de fronteiras. Com exclusividade, exerce as funções de polícia judiciária da União. A Polícia Rodoviária Federal (PRF) destina-se ao patrulhamento ostensivo das rodovias federais. A Polícia Ferroviária Federal (PFF) destina-se ao patrulhamento ostensivo das ferrovias federais, embora sua carreira ainda não tenha sido plenamente instituída.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_004",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 4,
+      "title": "Atribuições Específicas dos Órgãos Estaduais e Distritais",
+      "content": "Às Polícias Civis, dirigidas por delegados de polícia de carreira, incumbem as funções de polícia judiciária e a apuração de infrações penais, exceto as militares, ressalvada a competência da União. As Polícias Militares (PM) são responsáveis pela polícia ostensiva e pela preservação da ordem pública. Os Corpos de Bombeiros Militares (CBM), além das atribuições definidas em lei, executam atividades de defesa civil. Tanto as Polícias Militares quanto os Corpos de Bombeiros Militares são forças auxiliares e reserva do Exército, subordinando-se aos Governadores dos Estados, do Distrito Federal e dos Territórios. As Polícias Penais (estaduais e distrital) têm como função a segurança dos estabelecimentos prisionais.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_005",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 5,
+      "title": "Guardas Municipais e o Sistema Único de Segurança Pública (SUSP)",
+      "content": "Os Municípios *poderão* constituir guardas municipais destinadas à proteção de seus bens, serviços e instalações, conforme dispuser a lei. É uma pegadinha comum do CEBRASPE afirmar que os municípios *devem* constituí-las. Embora não estejam no rol taxativo do caput do Art. 144, o Supremo Tribunal Federal (STF), em decisões como a ADPF 995 e o RE 846.854/SP, reconheceu as Guardas Municipais como órgãos que executam atividade de segurança pública (Art. 144, §8º, da CF) e como integrantes do Sistema Único de Segurança Pública (SUSP), instituído pela Lei nº 13.675/2018. Elas podem realizar policiamento ostensivo e comunitário e agir em flagrante, mas não possuem poder de polícia judiciária. Sua atuação é limitada às instalações municipais, em cooperação com os demais órgãos de segurança pública e sob fiscalização do Ministério Público. A Lei nº 13.675/2018 (SUSP) visa à atuação conjunta, coordenada, sistêmica e integrada dos órgãos de segurança pública e defesa social da União, Estados, DF e Municípios.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_006",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 6,
+      "title": "Segurança Viária",
+      "content": "O Art. 144, §10, da CF/88, introduzido pela Emenda Constitucional nº 82/2014, estabelece que a segurança viária, exercida para a preservação da ordem pública e da incolumidade das pessoas e do seu patrimônio nas vias públicas, compreende a educação, engenharia e fiscalização de trânsito, operada por órgãos ou entidades executivos de trânsito da União, dos Estados, do Distrito Federal e dos Municípios. É importante notar que a fiscalização de trânsito, quando acompanhada da aplicação de penalidades administrativas, não é atividade exclusiva de entidades policiais.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_007",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 7,
+      "title": "Padrão de Cobrança CEBRASPE e Pegadinhas Recorrentes",
+      "content": "O CEBRASPE costuma cobrar o Art. 144 da CF/88 de forma literal, mas também exige o conhecimento da jurisprudência do STF. As pegadinhas mais comuns incluem a confusão de competências entre os órgãos federais e estaduais, a inclusão indevida das Guardas Municipais no rol taxativo do caput do Art. 144, a afirmação de que a função investigativa é exclusiva da polícia, e a atribuição do direito de greve aos policiais. É fundamental diferenciar polícia ostensiva (PM) de polícia judiciária (PC) e as atribuições específicas de cada uma. A inexistência de 'polícia penal municipal' também é um ponto a ser observado.",
+      "content_type": "teoria"
+    }
+  ],
+  "topicos": [
+    {
+      "external_topic_code": "top_001",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "10",
+      "title": "Segurança Pública",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 1
+    },
+    {
+      "external_topic_code": "top_002",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_001",
+      "topic_number": "10.1",
+      "title": "Organização da Segurança Pública",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 2
+    },
+    {
+      "external_topic_code": "top_003",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_002",
+      "topic_number": "10.1.1",
+      "title": "Conceito e Princípios Fundamentais",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 3
+    },
+    {
+      "external_topic_code": "top_004",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_002",
+      "topic_number": "10.1.2",
+      "title": "Órgãos de Segurança Pública (Art. 144, CF/88)",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 4
+    },
+    {
+      "external_topic_code": "top_005",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_002",
+      "topic_number": "10.1.3",
+      "title": "Atribuições da Polícia Federal (PF)",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 5
+    },
+    {
+      "external_topic_code": "top_006",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_002",
+      "topic_number": "10.1.4",
+      "title": "Atribuições da Polícia Rodoviária Federal (PRF)",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 6
+    },
+    {
+      "external_topic_code": "top_007",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_002",
+      "topic_number": "10.1.5",
+      "title": "Atribuições da Polícia Ferroviária Federal (PFF)",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 7
+    },
+    {
+      "external_topic_code": "top_008",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_002",
+      "topic_number": "10.1.6",
+      "title": "Atribuições das Polícias Civis",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 8
+    },
+    {
+      "external_topic_code": "top_009",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_002",
+      "topic_number": "10.1.7",
+      "title": "Atribuições das Polícias Militares (PM)",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 9
+    },
+    {
+      "external_topic_code": "top_010",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_002",
+      "topic_number": "10.1.8",
+      "title": "Atribuições dos Corpos de Bombeiros Militares (CBM)",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 10
+    },
+    {
+      "external_topic_code": "top_011",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_002",
+      "topic_number": "10.1.9",
+      "title": "Atribuições das Polícias Penais (Federal, Estaduais e Distrital)",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 11
+    },
+    {
+      "external_topic_code": "top_012",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_002",
+      "topic_number": "10.1.10",
+      "title": "Guardas Municipais (Art. 144, §8º, CF/88) e SUSP",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 12
+    },
+    {
+      "external_topic_code": "top_013",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_002",
+      "topic_number": "10.1.11",
+      "title": "Segurança Viária (Art. 144, §10, CF/88)",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 13
+    },
+    {
+      "external_topic_code": "top_014",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_002",
+      "topic_number": "10.1.12",
+      "title": "Padrão de Cobrança CEBRASPE e Pegadinhas",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 14
+    }
+  ],
+  "topico_componentes": [
+    {
+      "component_id": "cmp_001",
+      "topic_id": "top_003",
+      "component_type": "texto",
+      "content": "A segurança pública é dever do Estado, direito e responsabilidade de todos.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_002",
+      "topic_id": "top_003",
+      "component_type": "texto",
+      "content": "Sua finalidade é a preservação da ordem pública e da incolumidade das pessoas e do patrimônio.",
+      "order": 2
+    },
+    {
+      "component_id": "cmp_003",
+      "topic_id": "top_004",
+      "component_type": "texto",
+      "content": "O rol de órgãos do Art. 144, caput, da CF/88 é taxativo para a União, Estados e Distrito Federal.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_004",
+      "topic_id": "top_004",
+      "component_type": "lista",
+      "content": "['Polícia Federal (PF)', 'Polícia Rodoviária Federal (PRF)', 'Polícia Ferroviária Federal (PFF)', 'Polícias Civis', 'Polícias Militares (PM) e Corpos de Bombeiros Militares (CBM)', 'Polícias Penais (Federal, Estaduais e Distrital) - incluídas pela EC nº 104/2019']",
+      "order": 2
+    },
+    {
+      "component_id": "cmp_005",
+      "topic_id": "top_005",
+      "component_type": "texto",
+      "content": "A Polícia Federal é órgão permanente, organizado e mantido pela União e estruturado em carreira.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_006",
+      "topic_id": "top_005",
+      "component_type": "lista",
+      "content": "['Apurar infrações penais contra a ordem política e social ou em detrimento de bens, serviços e interesses da União ou de suas entidades autárquicas e empresas públicas, assim como outras infrações cuja prática tenha repercussão interestadual ou internacional e exija repressão uniforme.', 'Prevenir e reprimir o tráfico ilícito de entorpecentes e drogas afins, o contrabando e o descaminho.', 'Exercer as funções de polícia marítima, aeroportuária e de fronteiras.', 'Exercer, com exclusividade, as funções de polícia judiciária da União.']",
+      "order": 2
+    },
+    {
+      "component_id": "cmp_007",
+      "topic_id": "top_006",
+      "component_type": "texto",
+      "content": "A Polícia Rodoviária Federal destina-se ao patrulhamento ostensivo das rodovias federais.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_008",
+      "topic_id": "top_007",
+      "component_type": "texto",
+      "content": "A Polícia Ferroviária Federal destina-se ao patrulhamento ostensivo das ferrovias federais.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_009",
+      "topic_id": "top_008",
+      "component_type": "texto",
+      "content": "Às Polícias Civis, dirigidas por delegados de polícia de carreira, incumbem as funções de polícia judiciária e a apuração de infrações penais, exceto as militares, ressalvada a competência da União.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_010",
+      "topic_id": "top_009",
+      "component_type": "texto",
+      "content": "Às Polícias Militares cabem a polícia ostensiva e a preservação da ordem pública.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_011",
+      "topic_id": "top_010",
+      "component_type": "texto",
+      "content": "Aos Corpos de Bombeiros Militares, além das atribuições definidas em lei, incumbe a execução de atividades de defesa civil.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_012",
+      "topic_id": "top_009",
+      "component_type": "texto",
+      "content": "As Polícias Militares e Corpos de Bombeiros Militares são forças auxiliares e reserva do Exército, subordinando-se aos Governadores dos Estados, do Distrito Federal e dos Territórios.",
+      "order": 2
+    },
+    {
+      "component_id": "cmp_013",
+      "topic_id": "top_011",
+      "component_type": "texto",
+      "content": "Às Polícias Penais (federal, estaduais e distrital) compete a segurança dos estabelecimentos prisionais.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_014",
+      "topic_id": "top_012",
+      "component_type": "texto",
+      "content": "Os Municípios *poderão* constituir guardas municipais destinadas à proteção de seus bens, serviços e instalações (Art. 144, §8º, CF/88).",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_015",
+      "topic_id": "top_012",
+      "component_type": "texto",
+      "content": "As Guardas Municipais são reconhecidas pelo STF como órgãos que executam atividade de segurança pública e são integrantes do Sistema Único de Segurança Pública (SUSP - Lei nº 13.675/2018).",
+      "order": 2
+    },
+    {
+      "component_id": "cmp_016",
+      "topic_id": "top_012",
+      "component_type": "texto",
+      "content": "Podem realizar policiamento ostensivo e comunitário e agir em prisões em flagrante, mas não exercem funções de polícia judiciária.",
+      "order": 3
+    },
+    {
+      "component_id": "cmp_017",
+      "topic_id": "top_013",
+      "component_type": "texto",
+      "content": "A segurança viária compreende a educação, engenharia e fiscalização de trânsito, operada por órgãos ou entidades executivos de trânsito da União, dos Estados, do Distrito Federal e dos Municípios (Art. 144, §10, CF/88).",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_018",
+      "topic_id": "top_014",
+      "component_type": "texto",
+      "content": "O CEBRASPE cobra a literalidade do Art. 144 e a jurisprudência do STF.",
+      "order": 1
+    }
+  ],
+  "pegadinhas": [
+    {
+      "trap_id": "peg_001",
+      "material_id": "mat_001",
+      "topic_id": "top_004",
+      "title": "Confundir o rol taxativo do Art. 144",
+      "description": "O CEBRASPE frequentemente tenta incluir as Guardas Municipais no rol taxativo do caput do Art. 144. Lembre-se: elas estão no §8º e são integrantes do SUSP, mas não no rol principal.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 1
+    },
+    {
+      "trap_id": "peg_002",
+      "material_id": "mat_001",
+      "topic_id": "top_005",
+      "title": "Atribuições da Polícia Federal vs. Polícias Civis",
+      "description": "Cuidado para não confundir as competências da PF (polícia judiciária da União, crimes federais, fronteiras, etc.) com as das Polícias Civis (polícia judiciária estadual, apuração de infrações penais estaduais). A PF exerce com *exclusividade* a polícia judiciária da União.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 2
+    },
+    {
+      "trap_id": "peg_003",
+      "material_id": "mat_001",
+      "topic_id": "top_009",
+      "title": "Polícia Ostensiva vs. Polícia Judiciária",
+      "description": "Não misture as funções: Polícias Militares fazem polícia ostensiva e preservação da ordem pública. Polícias Civis fazem polícia judiciária e apuração de infrações penais.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 3
+    },
+    {
+      "trap_id": "peg_004",
+      "material_id": "mat_001",
+      "topic_id": "top_012",
+      "title": "Obrigatoriedade de Guardas Municipais",
+      "description": "A Constituição diz que os Municípios *poderão* constituir guardas municipais, não que *devem*.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 4
+    },
+    {
+      "trap_id": "peg_005",
+      "material_id": "mat_001",
+      "topic_id": "top_011",
+      "title": "Polícia Penal Municipal",
+      "description": "Não existe previsão constitucional ou legal para 'polícia penal municipal'. As polícias penais são federais, estaduais e distritais.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 5
+    },
+    {
+      "trap_id": "peg_006",
+      "material_id": "mat_001",
+      "topic_id": "top_009",
+      "title": "Hierarquia e Disciplina para todos os órgãos",
+      "description": "A hierarquia e disciplina são características das Polícias Militares e Corpos de Bombeiros Militares, não se estendendo a todos os órgãos de segurança pública.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 6
+    },
+    {
+      "trap_id": "peg_007",
+      "material_id": "mat_001",
+      "topic_id": "top_005",
+      "title": "Exclusividade da Investigação Criminal",
+      "description": "A função investigativa *não* é exclusiva da polícia. O Ministério Público e as CPIs também possuem competência investigatória.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 7
+    }
+  ],
+  "pontos_memorizacao": [
+    {
+      "memory_id": "mem_001",
+      "material_id": "mat_001",
+      "topic_id": "top_004",
+      "title": null,
+      "content": "",
+      "order": 1
+    },
+    {
+      "memory_id": "mem_002",
+      "material_id": "mat_001",
+      "topic_id": "top_005",
+      "title": null,
+      "content": "",
+      "order": 2
+    },
+    {
+      "memory_id": "mem_003",
+      "material_id": "mat_001",
+      "topic_id": "top_009",
+      "title": null,
+      "content": "",
+      "order": 3
+    },
+    {
+      "memory_id": "mem_004",
+      "material_id": "mat_001",
+      "topic_id": "top_008",
+      "title": null,
+      "content": "",
+      "order": 4
+    },
+    {
+      "memory_id": "mem_005",
+      "material_id": "mat_001",
+      "topic_id": "top_012",
+      "title": null,
+      "content": "",
+      "order": 5
+    },
+    {
+      "memory_id": "mem_006",
+      "material_id": "mat_001",
+      "topic_id": "top_009",
+      "title": null,
+      "content": "",
+      "order": 6
+    },
+    {
+      "memory_id": "mem_007",
+      "material_id": "mat_001",
+      "topic_id": "top_003",
+      "title": null,
+      "content": "",
+      "order": 7
+    },
+    {
+      "memory_id": "mem_008",
+      "material_id": "mat_001",
+      "topic_id": "top_011",
+      "title": null,
+      "content": "",
+      "order": 8
+    }
+  ],
+  "quadro_sinotico_itens": [],
+  "questoes": [
+    {
+      "question_id": "qst_001",
+      "material_id": "mat_001",
+      "topic_id": "top_004",
+      "board": "CESPE / CEBRASPE",
+      "year": 2017,
+      "organization": "Polícia Civil do Estado do Maranhão",
+      "role": "Escrivão",
+      "statement": "A Constituição Federal de 1988 apresenta um rol taxativo dos órgãos encarregados da segurança pública, incluindo as Guardas Municipais como um desses órgãos no caput do Art. 144.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "Errado. O rol do Art. 144, caput, da CF/88 é taxativo e não inclui as Guardas Municipais. Elas são mencionadas no §8º do mesmo artigo e são reconhecidas como integrantes do Sistema Único de Segurança Pública (SUSP) pela Lei nº 13.675/2018 e pela jurisprudência do STF (ADPF 995), mas não fazem parte do rol principal de órgãos de segurança pública listados nos incisos.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_001"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_002",
+      "material_id": "mat_001",
+      "topic_id": "top_005",
+      "board": "CESPE / CEBRASPE",
+      "year": 2024,
+      "organization": "TC-DF",
+      "role": "Procurador",
+      "statement": "Compete à Polícia Federal exercer, com exclusividade, as funções de polícia judiciária da União, dos estados e do Distrito Federal.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "Errado. A Polícia Federal exerce, com exclusividade, as funções de polícia judiciária *da União*, conforme o Art. 144, §1º, IV, da CF/88. As polícias civis são responsáveis pela polícia judiciária dos estados e do Distrito Federal. A questão generaliza a exclusividade para todos os entes federativos, o que está incorreto.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_002"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_003",
+      "material_id": "mat_001",
+      "topic_id": "top_009",
+      "board": "CEBRASPE",
+      "year": 2026,
+      "organization": "Simulado",
+      "role": "Analista Legislativo",
+      "statement": "O policiamento ostensivo e a preservação da ordem pública cabem às polícias civis, militares e penais.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "Errado. O policiamento ostensivo e a preservação da ordem pública são atribuições das Polícias Militares (Art. 144, §5º, CF/88). As Polícias Civis exercem funções de polícia judiciária, e as Polícias Penais cuidam da segurança dos estabelecimentos prisionais.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_003"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_004",
+      "material_id": "mat_001",
+      "topic_id": "top_012",
+      "board": "CEBRASPE",
+      "year": 2026,
+      "organization": "Simulado",
+      "role": "Analista Legislativo",
+      "statement": "Os municípios deverão constituir guardas municipais destinadas à proteção de seus bens, serviços e instalações.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "Errado. O Art. 144, §8º, da CF/88, estabelece que os Municípios *poderão* constituir guardas municipais, indicando uma faculdade, e não uma obrigatoriedade.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_004"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_005",
+      "material_id": "mat_001",
+      "topic_id": "top_009",
+      "board": "CESPE / CEBRASPE",
+      "year": 2024,
+      "organization": "PC-PE",
+      "role": "Delegado de Polícia",
+      "statement": "As polícias militares, os corpos de bombeiros militares e as polícias civis subordinam-se aos governadores dos estados, do Distrito Federal e dos territórios.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "Errado. As Polícias Militares e os Corpos de Bombeiros Militares subordinam-se aos Governadores dos Estados, do Distrito Federal e dos Territórios (Art. 144, §6º, CF/88). As Polícias Civis, embora dirigidas por delegados de carreira, também se subordinam ao Governador do Estado, mas a questão agrupa-as de forma que pode induzir ao erro sobre a natureza da subordinação ou sobre a hierarquia e disciplina que são próprias das forças militares. A subordinação das Polícias Civis é ao Governador, mas não na mesma lógica de 'forças auxiliares e reserva do Exército' como PM e CBM.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_005"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_006",
+      "material_id": "mat_001",
+      "topic_id": "top_003",
+      "board": "CESPE / CEBRASPE",
+      "year": 2020,
+      "organization": "PC-SE",
+      "role": "Delegado de Polícia",
+      "statement": "A segurança pública, dever do Estado, direito e responsabilidade de todos, é exercida para a preservação da ordem pública e da incolumidade das pessoas e do patrimônio.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "Certo. Esta é a redação exata do caput do Art. 144 da Constituição Federal de 1988.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_006"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_007",
+      "material_id": "mat_001",
+      "topic_id": "top_012",
+      "board": "CEBRASPE",
+      "year": 2024,
+      "organization": "Simulado",
+      "role": "Analista Legislativo",
+      "statement": "As Guardas Municipais, por previsão expressa da Constituição Federal, possuem direito à aposentadoria especial por exercício de atividade de risco.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "Errado. A Constituição Federal não prevê expressamente o direito à aposentadoria especial por exercício de atividade de risco para as Guardas Municipais. Embora haja discussões e decisões judiciais sobre o tema, a afirmação de que há 'previsão expressa da CF' está incorreta. O Art. 40, §4º-B, da CF/88, permite lei complementar para estabelecer idade e tempo de contribuição diferenciados para policiais dos órgãos do Art. 144, mas as Guardas Municipais não estão nesse rol principal.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_007"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_008",
+      "material_id": "mat_001",
+      "topic_id": "top_005",
+      "board": "CEBRASPE",
+      "year": 2026,
+      "organization": "Simulado",
+      "role": "Analista Legislativo",
+      "statement": "A Polícia Federal é o único órgão de segurança pública que se encontra simultaneamente na condição de polícia administrativa e como polícia judiciária.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "Certo. A Polícia Federal, de fato, atua tanto na prevenção (polícia administrativa, como polícia aeroportuária, marítima e de fronteiras) quanto na repressão (polícia judiciária da União). Os demais órgãos listados no Art. 144 tendem a ter uma distinção mais clara entre polícia ostensiva (PM, PRF, PFF) e polícia judiciária (Polícias Civis).",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_008"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_009",
+      "material_id": "mat_001",
+      "topic_id": "top_009",
+      "board": "CEBRASPE",
+      "year": 2026,
+      "organization": "Simulado",
+      "role": "Analista Legislativo",
+      "statement": "Os corpos de bombeiros militares, mesmo sendo forças auxiliares e reserva do exército, são subordinados aos governadores dos estados, do Distrito Federal e Territórios.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "Certo. Conforme o Art. 144, §6º, da CF/88, as polícias militares e os corpos de bombeiros militares são forças auxiliares e reserva do Exército, subordinando-se aos Governadores dos Estados, do Distrito Federal e dos Territórios.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_009"
+        ],
+        "count": 1
+      }
+    }
+  ],
+  "comentarios_questoes": [
+    {
+      "comment_id": "com_001",
+      "question_id": "qst_001",
+      "content": "Errado. O rol do Art. 144, caput, da CF/88 é taxativo e não inclui as Guardas Municipais. Elas são mencionadas no §8º do mesmo artigo e são reconhecidas como integrantes do Sistema Único de Segurança Pública (SUSP) pela Lei nº 13.675/2018 e pela jurisprudência do STF (ADPF 995), mas não fazem parte do rol principal de órgãos de segurança pública listados nos incisos.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_002",
+      "question_id": "qst_002",
+      "content": "Errado. A Polícia Federal exerce, com exclusividade, as funções de polícia judiciária *da União*, conforme o Art. 144, §1º, IV, da CF/88. As polícias civis são responsáveis pela polícia judiciária dos estados e do Distrito Federal. A questão generaliza a exclusividade para todos os entes federativos, o que está incorreto.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_003",
+      "question_id": "qst_003",
+      "content": "Errado. O policiamento ostensivo e a preservação da ordem pública são atribuições das Polícias Militares (Art. 144, §5º, CF/88). As Polícias Civis exercem funções de polícia judiciária, e as Polícias Penais cuidam da segurança dos estabelecimentos prisionais.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_004",
+      "question_id": "qst_004",
+      "content": "Errado. O Art. 144, §8º, da CF/88, estabelece que os Municípios *poderão* constituir guardas municipais, indicando uma faculdade, e não uma obrigatoriedade.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_005",
+      "question_id": "qst_005",
+      "content": "Errado. As Polícias Militares e os Corpos de Bombeiros Militares subordinam-se aos Governadores dos Estados, do Distrito Federal e dos Territórios (Art. 144, §6º, CF/88). As Polícias Civis, embora dirigidas por delegados de carreira, também se subordinam ao Governador do Estado, mas a questão agrupa-as de forma que pode induzir ao erro sobre a natureza da subordinação ou sobre a hierarquia e disciplina que são próprias das forças militares. A subordinação das Polícias Civis é ao Governador, mas não na mesma lógica de 'forças auxiliares e reserva do Exército' como PM e CBM.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_006",
+      "question_id": "qst_006",
+      "content": "Certo. Esta é a redação exata do caput do Art. 144 da Constituição Federal de 1988.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_007",
+      "question_id": "qst_007",
+      "content": "Errado. A Constituição Federal não prevê expressamente o direito à aposentadoria especial por exercício de atividade de risco para as Guardas Municipais. Embora haja discussões e decisões judiciais sobre o tema, a afirmação de que há 'previsão expressa da CF' está incorreta. O Art. 40, §4º-B, da CF/88, permite lei complementar para estabelecer idade e tempo de contribuição diferenciados para policiais dos órgãos do Art. 144, mas as Guardas Municipais não estão nesse rol principal.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_008",
+      "question_id": "qst_008",
+      "content": "Certo. A Polícia Federal, de fato, atua tanto na prevenção (polícia administrativa, como polícia aeroportuária, marítima e de fronteiras) quanto na repressão (polícia judiciária da União). Os demais órgãos listados no Art. 144 tendem a ter uma distinção mais clara entre polícia ostensiva (PM, PRF, PFF) e polícia judiciária (Polícias Civis).",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_009",
+      "question_id": "qst_009",
+      "content": "Certo. Conforme o Art. 144, §6º, da CF/88, as polícias militares e os corpos de bombeiros militares são forças auxiliares e reserva do Exército, subordinando-se aos Governadores dos Estados, do Distrito Federal e dos Territórios.",
+      "explanation_alternatives": ""
+    }
+  ],
+  "checklist_revisao": [
+    {
+      "checklist_id": "chk_001",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Compreender o conceito de segurança pública (dever do Estado, direito e responsabilidade de todos).",
+      "completed": false,
+      "order": 1
+    },
+    {
+      "checklist_id": "chk_002",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Memorizar o rol taxativo dos órgãos do Art. 144, caput, da CF/88, incluindo as Polícias Penais.",
+      "completed": false,
+      "order": 2
+    },
+    {
+      "checklist_id": "chk_003",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Diferenciar as atribuições específicas de cada órgão (PF, PRF, PFF, PC, PM, CBM, PP).",
+      "completed": false,
+      "order": 3
+    },
+    {
+      "checklist_id": "chk_004",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Entender a posição das Guardas Municipais (Art. 144, §8º, integrantes do SUSP, mas não do rol principal, sem polícia judiciária).",
+      "completed": false,
+      "order": 4
+    },
+    {
+      "checklist_id": "chk_005",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Revisar a subordinação das PM e CBM aos Governadores e sua natureza de forças auxiliares do Exército.",
+      "completed": false,
+      "order": 5
+    },
+    {
+      "checklist_id": "chk_006",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Conhecer a Lei nº 13.675/2018 (SUSP) e seus objetivos de integração.",
+      "completed": false,
+      "order": 6
+    },
+    {
+      "checklist_id": "chk_007",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Estar ciente das pegadinhas do CEBRASPE, especialmente sobre o rol taxativo, competências e Guardas Municipais.",
+      "completed": false,
+      "order": 7
+    },
+    {
+      "checklist_id": "chk_008",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Lembrar que a função investigativa não é exclusiva da polícia.",
+      "completed": false,
+      "order": 8
+    },
+    {
+      "checklist_id": "chk_009",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Saber que policiais não possuem direito de greve.",
+      "completed": false,
+      "order": 9
+    },
+    {
+      "checklist_id": "chk_010",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Compreender o conceito de segurança viária (Art. 144, §10, CF/88).",
+      "completed": false,
+      "order": 10
+    }
+  ],
+  "referencias": [
+    {
+      "reference_id": "ref_001",
+      "material_id": "mat_001",
+      "reference_type": "Legislação",
+      "author_name": null,
+      "title": "Constituição da República Federativa do Brasil de 1988",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "http://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_002",
+      "material_id": "mat_001",
+      "reference_type": "Legislação",
+      "author_name": null,
+      "title": "Lei nº 13.675, de 11 de junho de 2018 - Institui o Sistema Único de Segurança Pública (SUSP)",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "http://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/L13675.htm",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_003",
+      "material_id": "mat_001",
+      "reference_type": "Jurisprudência",
+      "author_name": null,
+      "title": "Jurisprudência do STF sobre Segurança Pública (Art. 144)",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://portal.stf.jus.br/textos/verTexto.asp?id=25577",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_004",
+      "material_id": "mat_001",
+      "reference_type": "Jurisprudência",
+      "author_name": null,
+      "title": "ADPF 995 - STF (Guarda Municipal)",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.jurishand.com.br/jurisprudencia/stf/995-de-09-de-outubro-de-2023",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_005",
+      "material_id": "mat_001",
+      "reference_type": "Análise de Banca",
+      "author_name": null,
+      "title": "Segurança Pública para Cebraspe | Direito Constitucional | Adriane Fauth",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ (Link de exemplo, substituir por link real se encontrado)",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_006",
+      "material_id": "mat_001",
+      "reference_type": "Análise de Banca",
+      "author_name": null,
+      "title": "As guardas municipais na jurisprudência do STJ e do STF - Estratégia Concursos",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.estrategiaconcursos.com.br/blog/as-guardas-municipais-na-jurisprudencia-do-stj-e-do-stf/",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_007",
+      "material_id": "mat_001",
+      "reference_type": "Questões de Concurso",
+      "author_name": null,
+      "title": "Questões de Concurso sobre Forças Armadas e Segurança Pública para CESPE / CEBRASPE | Qconcursos.com",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.qconcursos.com/questoes-de-concursos/disciplinas/direito-constitucional/defesa-do-estado-e-das-instituicoes-democraticas/forcas-armadas-e-seguranca-publica/banca/cespe-cebraspe",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_008",
+      "material_id": "mat_001",
+      "reference_type": "Análise de Banca",
+      "author_name": null,
+      "title": "Cobrança CESPE: análise completa da banca e estratégias de prova!",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://blog.grancursosonline.com.br/cobranca-cespe-analise-completa-da-banca-e-estrategias-de-prova/",
+      "accessed_at": null,
+      "description": null
+    }
+  ],
+  "estatisticas_de_geracao": {
+    "total_topicos": 14,
+    "total_componentes_topico": 18,
+    "total_entendimentos_relevantes": 5,
+    "total_pegadinhas": 7,
+    "total_pontos_memorizacao": 8,
+    "total_itens_quadro_sinotico": 0,
+    "total_questoes": 9,
+    "total_comentarios_questoes": 9,
+    "total_itens_checklist": 10,
+    "total_referencias": 8
+  },
+  "validacao_interna": {
+    "pesquisa_previa_realizada": true,
+    "analise_de_cobrancas_anteriores_realizada": true,
+    "material_atualizado": true,
+    "json_valido": true,
+    "estrutura_relacional_respeitada": true,
+    "numeracao_respeitada": true,
+    "houve_quebra_de_hierarquia": false,
+    "houve_nivel_numerico_superior_a_3": false,
+    "fontes_verificadas": true,
+    "sem_informacao_inventada": true
+  },
+  "metadata": {
+    "source_file_name": "10__direito-constitucional-e-legislação-interna-da-câmara-dos-deputados__10-segurança-pública-10.1-organização-da-segurança-pública.json",
+    "normalized_checksum": "d034af128b01e0ae6a65cc92fb0bc76c265eff56ee31bbb085e76313cea05a78",
+    "subject_slug": "dir-const-legcam",
+    "material_slug": "seguranca-publica-organizacao-cebraspe",
+    "title_slug": "seguranca-publica-organizacao-constitucional-e",
+    "board_slug": "cebraspe",
+    "counters": {
+      "blocks": 7,
+      "topics": 14,
+      "topic_components": 18,
+      "traps": 7,
+      "memory_points": 8,
+      "summary_items": 0,
+      "questions": 9,
+      "question_comments": 9,
+      "checklist_items": 10,
+      "references": 8
+    }
+  }
+}

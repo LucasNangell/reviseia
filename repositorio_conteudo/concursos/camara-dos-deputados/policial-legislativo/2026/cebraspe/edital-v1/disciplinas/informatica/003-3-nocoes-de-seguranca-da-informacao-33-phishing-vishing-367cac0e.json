@@ -1,0 +1,1291 @@
+{
+  "schema_version": "1.0",
+  "normalized_at": "2026-04-07T15:39:14.013065-03:00",
+  "normalizer_version": "2.0.0",
+  "exported_at": "2026-04-07T16:04:04Z",
+  "source_request": {
+    "purpose": "Concurso público",
+    "general_area": "Tecnologia da Informação",
+    "subject_name": "Informática e Dados",
+    "subarea_name": "Informática, redes, segurança e dados",
+    "main_theme": "3 Noções de segurança da informação: 3.3 Phishing, vishing e engenharia social: métodos e canais utilizados",
+    "theme_scope": "Teoria completa, incidência em prova, padrão de cobrança da banca, pegadinhas e questões comentadas",
+    "board_style": "CEBRASPE",
+    "depth_level": "Exaustivo",
+    "goal": "Teoria completa, revisão estratégica, pegadinhas e questões comentadas",
+    "base_topic_number": "3",
+    "topic_title": "3 Noções de segurança da informação: 3.3 Phishing, vishing e engenharia social: métodos e canais utilizados",
+    "syllabus_reference": "Conteúdo programático da disciplina Informática e Dados",
+    "priority_sources": [
+      "Documentação oficial e referências técnicas confiáveis",
+      "Bibliografia técnica consolidada",
+      "Questões anteriores da banca"
+    ],
+    "minimum_questions": 8,
+    "question_format": "Certo/Errado",
+    "prioritize_real_questions": true,
+    "response_language": "português",
+    "target_audience": "Candidato de concurso público",
+    "additional_notes": "Executar exatamente para esta linha individual do topicos.txt. Não juntar com outros tópicos. Não pular este tópico. Dar destaque ao padrão de cobrança da banca, aos pontos mais cobrados e às pegadinhas recorrentes.",
+    "input_hash": "bed154d23829",
+    "extras": {}
+  },
+  "material": {
+    "material_id": "mat_001",
+    "slug": "seguranca-informacao-phishing-vishing-engenharia-social",
+    "title": "Segurança da Informação: Phishing, Vishing e Engenharia Social",
+    "base_number": "3",
+    "topic_title": "3 Noções de segurança da informação: 3.3 Phishing, vishing e engenharia social: métodos e canais utilizados",
+    "purpose": "Concurso público",
+    "area_name": "Tecnologia da Informação",
+    "subject_name": "Informática e Dados",
+    "subarea_name": "Informática, redes, segurança e dados",
+    "main_theme": "3 Noções de segurança da informação: 3.3 Phishing, vishing e engenharia social: métodos e canais utilizados",
+    "theme_scope": "Teoria completa, incidência em prova, padrão de cobrança da banca, pegadinhas e questões comentadas",
+    "board_style": "CEBRASPE",
+    "depth_level": "Exaustivo",
+    "study_goal": "Teoria completa, revisão estratégica, pegadinhas e questões comentadas",
+    "target_audience": "Candidato de concurso público",
+    "language_code": "português",
+    "update_status": "Atualizado em 07 de abril de 2026",
+    "current_note": "Conteúdo revisado para refletir as táticas mais recentes de ataques e a abordagem da banca CEBRASPE.",
+    "has_case_law": false,
+    "case_law_justification": "Tema de segurança da informação, não exige jurisprudência.",
+    "has_information_limitation": false,
+    "information_limitation_desc": null,
+    "content_checksum": "a3b4c5d6e7f8g9h0i1j2k3l4m5n6o7p8",
+    "extras": {}
+  },
+  "blocos_textuais": [
+    {
+      "external_block_code": "blc_001",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 1,
+      "title": "Introdução à Engenharia Social",
+      "content": "A engenharia social é um conjunto de técnicas de manipulação psicológica utilizadas por cibercriminosos para enganar indivíduos e fazê-los divulgar informações confidenciais ou realizar ações que comprometam a segurança de sistemas e dados. Diferentemente de ataques que exploram vulnerabilidades técnicas de software ou hardware, a engenharia social foca nas 'vulnerabilidades humanas', como confiança, curiosidade, medo, urgência e falta de atenção. É considerada uma das maiores ameaças à segurança da informação, pois mesmo com as melhores tecnologias de defesa, o fator humano permanece como um elo crítico.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_002",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 2,
+      "title": "Phishing: A 'Pescaria' de Dados",
+      "content": "Phishing é a forma mais conhecida de ataque de engenharia social, que busca 'pescar' dados sensíveis das vítimas. Geralmente, ocorre por meio de e-mails, mensagens ou sites falsos que se passam por entidades confiáveis, como bancos, grandes empresas, órgãos governamentais ou até mesmo colegas de trabalho. O objetivo é induzir o usuário a clicar em links maliciosos, abrir anexos infectados ou fornecer informações confidenciais (senhas, dados bancários, números de cartão de crédito) em páginas fraudulentas.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_003",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 3,
+      "title": "Vishing: Phishing por Voz",
+      "content": "Vishing (Voice Phishing) é uma variação do phishing que utiliza chamadas telefônicas para enganar a vítima. O golpista se passa por uma entidade confiável (banco, suporte técnico, polícia, órgão governamental) e, por meio de técnicas de manipulação, tenta convencer a vítima a revelar informações sensíveis ou a realizar ações que comprometam sua segurança. A interação direta por telefone adiciona uma camada de persuasão, muitas vezes explorando um senso de urgência ou medo.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_004",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 4,
+      "title": "Smishing: Phishing por SMS",
+      "content": "Smishing (SMS Phishing) é um tipo de ataque semelhante ao phishing, mas realizado por meio de mensagens de texto SMS ou aplicativos de mensagens instantâneas como o WhatsApp. As mensagens geralmente contêm links fraudulentos ou solicitam que a vítima ligue para números falsos, com o objetivo de instalar malware ou obter informações confidenciais. Muitas vezes, o SMS é percebido como um canal mais pessoal e seguro, o que pode aumentar a credibilidade do golpe.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_005",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 5,
+      "title": "Outros Tipos de Engenharia Social e Táticas Comuns",
+      "content": "Além de phishing, vishing e smishing, existem outras táticas de engenharia social: <ul><li><b>Spear Phishing:</b> Ataque de phishing altamente direcionado a indivíduos ou grupos específicos, com mensagens personalizadas baseadas em pesquisa prévia sobre o alvo.</li><li><b>Whaling (Caça às Baleias):</b> Uma forma de spear phishing que tem como alvo funcionários de alto nível (executivos, diretores) dentro de uma organização, buscando autorizações para ações financeiras ou acesso a informações críticas.</li><li><b>Pretexting:</b> O atacante cria um cenário falso (pretexto) para obter informações, como se passar por alguém da TI ou de um banco para 'confirmar' dados.</li><li><b>Baiting (Isca):</b> Utiliza um pretexto gratuito ou desejável (ex: pen drive infectado deixado em local público, oferta irresistível) para atrair o interesse do alvo e induzi-lo a entregar credenciais ou executar ações maliciosas.</li><li><b>Quid Pro Quo:</b> Oferece um 'benefício' (ex: suporte técnico gratuito) em troca de informações ou acesso.</li><li><b>Tailgating/Piggybacking (Utilização não autorizada):</b> O engenheiro social segue alguém através de uma porta de acesso restrito, aproveitando-se da cortesia ou distração da vítima.</li><li><b>Business Email Compromise (BEC):</b> O invasor se disfarça de executivo da organização e instrui um funcionário a realizar uma transferência eletrônica fraudulenta.</li></ul>",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_006",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 6,
+      "title": "Canais e Métodos Utilizados",
+      "content": "Os ataques de engenharia social podem ocorrer por diversos canais e métodos, explorando a comunicação digital e interpessoal: <ul><li><b>E-mail:</b> Principal canal para phishing, com mensagens que imitam remetentes legítimos e contêm links ou anexos maliciosos.</li><li><b>Telefone (Chamadas de Voz):</b> Canal exclusivo para vishing, onde o golpista manipula a vítima por meio de conversas persuasivas.</li><li><b>Mensagens de Texto (SMS):</b> Canal para smishing, com links ou solicitações urgentes via SMS.</li><li><b>Aplicativos de Mensagens Instantâneas (WhatsApp, Telegram):</b> Também utilizados para smishing e outras formas de engenharia social, aproveitando a informalidade e confiança.</li><li><b>Redes Sociais:</b> Criação de perfis falsos, anúncios fraudulentos, mensagens diretas de 'amigos' hackeados ou exploração de grupos para disseminar links maliciosos ou ofertas irresistíveis.</li><li><b>Mídia Física:</b> Dispositivos USB (pen drives) infectados deixados em locais públicos (baiting).</li><li><b>Interação Pessoal:</b> Tailgating/piggybacking, onde o atacante ganha acesso físico a áreas restritas.</li></ul>",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_007",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 7,
+      "title": "Padrão de Cobrança da Banca CEBRASPE",
+      "content": "A banca CEBRASPE (antigo CESPE) tem um padrão bem definido na cobrança de temas de segurança da informação, incluindo phishing, vishing e engenharia social. As questões são predominantemente no formato 'Certo/Errado' e exigem do candidato não apenas o conhecimento conceitual, mas também a capacidade de identificar nuances e 'pegadinhas'. <ul><li><b>Foco em Definições e Distinções:</b> É comum a banca cobrar a diferença exata entre phishing, spear phishing, vishing e smishing, misturando características ou atribuindo-as incorretamente.</li><li><b>Cenários e Exemplos Práticos:</b> Muitas questões apresentam situações hipotéticas ou exemplos reais de ataques, exigindo que o candidato identifique o tipo de golpe ou a medida de proteção adequada.</li><li><b>Ênfase em Prevenção e Boas Práticas:</b> Medidas de proteção, como verificar URLs, desconfiar de urgência, não clicar em links suspeitos e manter softwares atualizados, são frequentemente abordadas.</li><li><b>Pegadinhas com Termos Absolutos:</b> A CEBRASPE adora usar termos como 'sempre', 'nunca', 'apenas', 'exclusivamente' para tornar uma afirmação incorreta. Por exemplo, afirmar que um firewall 'elimina todos os riscos' de segurança.</li><li><b>Mistura de Conceitos:</b> A banca pode misturar características de diferentes tipos de malware ou ataques, como atribuir a um vírus a capacidade de se espalhar sem hospedeiro (característica de worm) ou confundir phishing com pharming.</li><li><b>Atualidade:</b> Embora os conceitos básicos sejam estáveis, a banca pode referenciar táticas mais recentes ou a importância da conscientização contínua.</li></ul>",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_008",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 8,
+      "title": "Medidas de Prevenção e Proteção",
+      "content": "A proteção contra ataques de engenharia social exige uma combinação de conscientização, boas práticas e ferramentas de segurança: <ul><li><b>Desconfiar de Mensagens Suspeitas:</b> Verificar o remetente, erros de ortografia/gramática, ofertas 'boas demais para ser verdade' e senso de urgência.</li><li><b>Verificar Links e URLs:</b> Passar o mouse sobre links antes de clicar para ver o destino real e verificar cuidadosamente o endereço do site (domínio, HTTPS).</li><li><b>Não Fornecer Dados Confidenciais:</b> Instituições legítimas (bancos, órgãos governamentais) nunca solicitam senhas, números de cartão de crédito ou outros dados sensíveis por e-mail, SMS ou telefone.</li><li><b>Utilizar Canais Oficiais para Contato:</b> Em caso de dúvida, entrar em contato diretamente com a empresa ou instituição usando os canais oficiais (site, telefone da central de atendimento).</li><li><b>Treinamento e Conscientização:</b> Educação contínua sobre as técnicas de engenharia social para funcionários e usuários.</li><li><b>Soluções de Segurança:</b> Manter antivírus e antimalware atualizados, usar firewalls, filtros de e-mail avançados e autenticação de dois fatores (2FA).</li><li><b>Cuidado com Redes Sociais:</b> Evitar divulgar informações pessoais excessivas que possam ser usadas em ataques de spear phishing.</li></ul>",
+      "content_type": "teoria"
+    }
+  ],
+  "topicos": [
+    {
+      "external_topic_code": "top_001",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "3.3",
+      "title": "Phishing, Vishing e Engenharia Social: Métodos e Canais",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 1
+    },
+    {
+      "external_topic_code": "top_002",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_001",
+      "topic_number": "3.3.1",
+      "title": "Engenharia Social: Conceito e Fundamentos",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 2
+    },
+    {
+      "external_topic_code": "top_003",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_001",
+      "topic_number": "3.3.2",
+      "title": "Phishing: Características, Métodos e Canais",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 3
+    },
+    {
+      "external_topic_code": "top_004",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_001",
+      "topic_number": "3.3.3",
+      "title": "Vishing: Phishing por Voz",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 4
+    },
+    {
+      "external_topic_code": "top_005",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_001",
+      "topic_number": "3.3.4",
+      "title": "Smishing: Phishing por SMS e Mensagens Instantâneas",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 5
+    },
+    {
+      "external_topic_code": "top_006",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_001",
+      "topic_number": "3.3.5",
+      "title": "Outras Técnicas de Engenharia Social",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 6
+    },
+    {
+      "external_topic_code": "top_007",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_001",
+      "topic_number": "3.3.6",
+      "title": "Padrão de Cobrança da Banca CEBRASPE e Pegadinhas",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 7
+    },
+    {
+      "external_topic_code": "top_008",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_001",
+      "topic_number": "3.3.7",
+      "title": "Medidas de Prevenção e Proteção",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 8
+    }
+  ],
+  "topico_componentes": [
+    {
+      "component_id": "cmp_001",
+      "topic_id": "top_002",
+      "component_type": "definicao",
+      "content": "A engenharia social é a manipulação psicológica de pessoas para que executem ações ou divulguem informações confidenciais.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_002",
+      "topic_id": "top_002",
+      "component_type": "caracteristica",
+      "content": "Explora vulnerabilidades humanas (confiança, curiosidade, medo, urgência) em vez de falhas técnicas.",
+      "order": 2
+    },
+    {
+      "component_id": "cmp_003",
+      "topic_id": "top_003",
+      "component_type": "definicao",
+      "content": "Phishing é um ataque que tenta roubar dinheiro ou identidade, induzindo a vítima a revelar informações pessoais em sites ou comunicações falsas que se passam por legítimas.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_004",
+      "topic_id": "top_003",
+      "component_type": "metodo",
+      "content": "Envio massivo de e-mails ou mensagens com links fraudulentos ou anexos maliciosos.",
+      "order": 2
+    },
+    {
+      "component_id": "cmp_005",
+      "topic_id": "top_003",
+      "component_type": "canal",
+      "content": "Principalmente e-mail, mas também pode ocorrer via redes sociais.",
+      "order": 3
+    },
+    {
+      "component_id": "cmp_006",
+      "topic_id": "top_004",
+      "component_type": "definicao",
+      "content": "Vishing (Voice Phishing) é o phishing realizado por telefone, onde o criminoso se passa por uma entidade confiável.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_007",
+      "topic_id": "top_004",
+      "component_type": "metodo",
+      "content": "Chamadas telefônicas com pretexto de urgência (problemas bancários, suporte técnico, etc.) para obter dados sensíveis.",
+      "order": 2
+    },
+    {
+      "component_id": "cmp_008",
+      "topic_id": "top_004",
+      "component_type": "canal",
+      "content": "Chamadas de voz (telefone fixo ou móvel).",
+      "order": 3
+    },
+    {
+      "component_id": "cmp_009",
+      "topic_id": "top_005",
+      "component_type": "definicao",
+      "content": "Smishing (SMS Phishing) é o phishing realizado por mensagens de texto SMS ou aplicativos de mensagens instantâneas.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_010",
+      "topic_id": "top_005",
+      "component_type": "metodo",
+      "content": "Envio de mensagens com links maliciosos ou solicitações urgentes para instalar malware ou obter informações.",
+      "order": 2
+    },
+    {
+      "component_id": "cmp_011",
+      "topic_id": "top_005",
+      "component_type": "canal",
+      "content": "SMS, WhatsApp, Telegram e outros aplicativos de mensagens.",
+      "order": 3
+    },
+    {
+      "component_id": "cmp_012",
+      "topic_id": "top_006",
+      "component_type": "tipo_ataque",
+      "content": "Spear Phishing: Phishing direcionado a um indivíduo ou grupo específico, com mensagens personalizadas.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_013",
+      "topic_id": "top_006",
+      "component_type": "tipo_ataque",
+      "content": "Whaling: Spear phishing que tem como alvo executivos de alto escalão.",
+      "order": 2
+    },
+    {
+      "component_id": "cmp_014",
+      "topic_id": "top_006",
+      "component_type": "tipo_ataque",
+      "content": "Pretexting: Criação de um cenário falso para obter informações.",
+      "order": 3
+    },
+    {
+      "component_id": "cmp_015",
+      "topic_id": "top_006",
+      "component_type": "tipo_ataque",
+      "content": "Baiting: Uso de 'iscas' (ex: pen drive infectado, ofertas) para atrair a vítima.",
+      "order": 4
+    },
+    {
+      "component_id": "cmp_016",
+      "topic_id": "top_006",
+      "component_type": "tipo_ataque",
+      "content": "Quid Pro Quo: Oferece um benefício em troca de informações ou acesso.",
+      "order": 5
+    },
+    {
+      "component_id": "cmp_017",
+      "topic_id": "top_006",
+      "component_type": "tipo_ataque",
+      "content": "Tailgating/Piggybacking: Acesso físico não autorizado seguindo alguém.",
+      "order": 6
+    },
+    {
+      "component_id": "cmp_018",
+      "topic_id": "top_006",
+      "component_type": "tipo_ataque",
+      "content": "Business Email Compromise (BEC): Invasor se passa por executivo para induzir transferências financeiras.",
+      "order": 7
+    },
+    {
+      "component_id": "cmp_019",
+      "topic_id": "top_007",
+      "component_type": "padrao_banca",
+      "content": "CEBRASPE foca em definições precisas e distinções entre os tipos de ataques (phishing, spear phishing, vishing, smishing).",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_020",
+      "topic_id": "top_007",
+      "component_type": "padrao_banca",
+      "content": "Questões frequentemente apresentam cenários práticos ou exemplos para o candidato identificar o tipo de golpe.",
+      "order": 2
+    },
+    {
+      "component_id": "cmp_021",
+      "topic_id": "top_007",
+      "component_type": "padrao_banca",
+      "content": "Grande incidência de questões sobre medidas de prevenção e boas práticas de segurança.",
+      "order": 3
+    },
+    {
+      "component_id": "cmp_022",
+      "topic_id": "top_008",
+      "component_type": "dica_prevencao",
+      "content": "Sempre desconfiar de mensagens que criam senso de urgência ou medo.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_023",
+      "topic_id": "top_008",
+      "component_type": "dica_prevencao",
+      "content": "Verificar o endereço de e-mail do remetente e a URL dos links antes de clicar.",
+      "order": 2
+    },
+    {
+      "component_id": "cmp_024",
+      "topic_id": "top_008",
+      "component_type": "dica_prevencao",
+      "content": "Nunca fornecer informações pessoais ou financeiras por e-mail, SMS ou telefone sem verificar a legitimidade da solicitação por canais oficiais.",
+      "order": 3
+    },
+    {
+      "component_id": "cmp_025",
+      "topic_id": "top_008",
+      "component_type": "dica_prevencao",
+      "content": "Manter sistemas operacionais, navegadores e softwares de segurança (antivírus, firewall) sempre atualizados.",
+      "order": 4
+    }
+  ],
+  "pegadinhas": [
+    {
+      "trap_id": "peg_001",
+      "material_id": "mat_001",
+      "topic_id": "top_007",
+      "title": "Pegadinha 1",
+      "description": "Afirmar que soluções tecnológicas (firewall, antivírus) são 'suficientes' ou 'eliminam completamente' os riscos de engenharia social.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 1
+    },
+    {
+      "trap_id": "peg_002",
+      "material_id": "mat_001",
+      "topic_id": "top_007",
+      "title": "Pegadinha 2",
+      "description": "Confundir as características de phishing, vishing e smishing, ou misturar com outros tipos de malware (ex: dizer que phishing instala vírus diretamente sem interação).",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 2
+    },
+    {
+      "trap_id": "peg_003",
+      "material_id": "mat_001",
+      "topic_id": "top_007",
+      "title": "Pegadinha 3",
+      "description": "Induzir o candidato a acreditar que mensagens de remetentes conhecidos são 'sempre' seguras.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 3
+    },
+    {
+      "trap_id": "peg_004",
+      "material_id": "mat_001",
+      "topic_id": "top_007",
+      "title": "Pegadinha 4",
+      "description": "Sugestão de que clicar em links de e-mails de bancos para 'atualizar dados' é uma prática segura.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 4
+    }
+  ],
+  "pontos_memorizacao": [
+    {
+      "memory_id": "mem_001",
+      "material_id": "mat_001",
+      "topic_id": "top_002",
+      "title": null,
+      "content": "Engenharia Social = Manipulação Humana.",
+      "order": 1
+    },
+    {
+      "memory_id": "mem_002",
+      "material_id": "mat_001",
+      "topic_id": "top_003",
+      "title": null,
+      "content": "Phishing = E-mail/Web (pescaria genérica).",
+      "order": 2
+    },
+    {
+      "memory_id": "mem_003",
+      "material_id": "mat_001",
+      "topic_id": "top_004",
+      "title": null,
+      "content": "Vishing = Voz (telefone).",
+      "order": 3
+    },
+    {
+      "memory_id": "mem_004",
+      "material_id": "mat_001",
+      "topic_id": "top_005",
+      "title": null,
+      "content": "Smishing = SMS/Mensagens instantâneas.",
+      "order": 4
+    },
+    {
+      "memory_id": "mem_005",
+      "material_id": "mat_001",
+      "topic_id": "top_006",
+      "title": null,
+      "content": "Spear Phishing = Phishing direcionado e personalizado.",
+      "order": 5
+    },
+    {
+      "memory_id": "mem_006",
+      "material_id": "mat_001",
+      "topic_id": "top_008",
+      "title": null,
+      "content": "Desconfiar de urgência, verificar remetente/links, nunca fornecer dados sensíveis por canais não oficiais.",
+      "order": 6
+    }
+  ],
+  "quadro_sinotico_itens": [
+    {
+      "summary_item_id": "sum_001",
+      "title": "Engenharia Social",
+      "content": "",
+      "order": 1
+    },
+    {
+      "summary_item_id": "sum_002",
+      "title": "Phishing",
+      "content": "",
+      "order": 2
+    },
+    {
+      "summary_item_id": "sum_003",
+      "title": "Vishing",
+      "content": "",
+      "order": 3
+    },
+    {
+      "summary_item_id": "sum_004",
+      "title": "Smishing",
+      "content": "",
+      "order": 4
+    },
+    {
+      "summary_item_id": "sum_005",
+      "title": "Spear Phishing",
+      "content": "",
+      "order": 5
+    },
+    {
+      "summary_item_id": "sum_006",
+      "title": "Prevenção",
+      "content": "",
+      "order": 6
+    }
+  ],
+  "questoes": [
+    {
+      "question_id": "qst_001",
+      "material_id": "mat_001",
+      "topic_id": "top_003",
+      "board": "CEBRASPE",
+      "year": 2024,
+      "organization": "Fictício",
+      "role": null,
+      "statement": "O phishing é uma técnica de engenharia social que se manifesta exclusivamente por meio de e-mails, visando a obtenção de informações confidenciais dos usuários.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": null,
+      "external_reference": "Adaptada de questões CEBRASPE sobre termos absolutos e canais de ataque.",
+      "commentary": "O item está ERRADO. Embora o e-mail seja o canal mais comum para ataques de phishing, não é o único. Phishing pode ocorrer também por meio de websites falsos, redes sociais e, em suas variações, por SMS (smishing) e chamadas telefônicas (vishing). O termo 'exclusivamente' torna a afirmação incorreta, sendo uma pegadinha típica da CEBRASPE.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_001"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_002",
+      "material_id": "mat_001",
+      "topic_id": "top_004",
+      "board": "CEBRASPE",
+      "year": 2023,
+      "organization": "Fictício",
+      "role": null,
+      "statement": "Um ataque de vishing ocorre quando um criminoso utiliza chamadas telefônicas, passando-se por uma instituição legítima, para induzir a vítima a revelar dados sensíveis, como senhas bancárias.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": null,
+      "external_reference": "Conceito direto de vishing.",
+      "commentary": "O item está CERTO. Vishing, ou Voice Phishing, é de fato um ataque de engenharia social que utiliza chamadas telefônicas para enganar as vítimas. Os criminosos se passam por entidades confiáveis para persuadir as pessoas a divulgar informações confidenciais, como senhas e dados bancários.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_002"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_003",
+      "material_id": "mat_001",
+      "topic_id": "top_005",
+      "board": "CEBRASPE",
+      "year": 2024,
+      "organization": "Fictício",
+      "role": null,
+      "statement": "O smishing é uma variação do phishing que se diferencia por utilizar exclusivamente mensagens de texto SMS, não abrangendo aplicativos de mensagens instantâneas como o WhatsApp.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": null,
+      "external_reference": "Adaptada de questões CEBRASPE sobre termos absolutos e canais de ataque.",
+      "commentary": "O item está ERRADO. O smishing, embora utilize predominantemente mensagens de texto SMS, também pode ser realizado por meio de aplicativos de mensagens instantâneas, como o WhatsApp e o Telegram. A afirmação de que não abrange esses aplicativos e o uso do termo 'exclusivamente' tornam o item incorreto.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_003"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_004",
+      "material_id": "mat_001",
+      "topic_id": "top_006",
+      "board": "CEBRASPE",
+      "year": 2023,
+      "organization": "Fictício",
+      "role": null,
+      "statement": "Spear phishing é um tipo de ataque de engenharia social altamente direcionado, no qual o atacante realiza uma pesquisa prévia sobre o alvo para personalizar a mensagem e aumentar a chance de sucesso.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": null,
+      "external_reference": "Conceito direto de spear phishing.",
+      "commentary": "O item está CERTO. Spear phishing é uma forma de phishing mais sofisticada e direcionada. O atacante investe tempo em pesquisa sobre o alvo (seja uma pessoa ou uma organização) para criar mensagens altamente personalizadas e convincentes, aumentando significativamente a probabilidade de sucesso do golpe.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_004"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_005",
+      "material_id": "mat_001",
+      "topic_id": "top_008",
+      "board": "CEBRASPE",
+      "year": 2022,
+      "organization": "Fictício",
+      "role": null,
+      "statement": "Para se proteger contra ataques de phishing, é suficiente manter um software antivírus atualizado, pois ele é capaz de detectar e bloquear todas as tentativas de fraude via e-mail.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": null,
+      "external_reference": "Pegadinha comum da CEBRASPE sobre termos absolutos e a limitação de ferramentas de segurança.",
+      "commentary": "O item está ERRADO. Manter um software antivírus atualizado é uma medida importante, mas não é 'suficiente' para proteger contra TODOS os ataques de phishing. A engenharia social explora falhas humanas, e nenhuma ferramenta tecnológica sozinha pode eliminar completamente esse risco. A proteção eficaz envolve conscientização, boas práticas e múltiplas camadas de segurança.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_005"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_006",
+      "material_id": "mat_001",
+      "topic_id": "top_002",
+      "board": "CEBRASPE",
+      "year": 2023,
+      "organization": "Fictício",
+      "role": null,
+      "statement": "A engenharia social se baseia na exploração de vulnerabilidades técnicas de sistemas operacionais e softwares, e não na manipulação psicológica de usuários.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": null,
+      "external_reference": "Inversão do conceito fundamental de engenharia social.",
+      "commentary": "O item está ERRADO. A engenharia social, por definição, foca na manipulação psicológica de pessoas. Embora possa haver um componente técnico em alguns ataques (como um link malicioso), o vetor principal é a exploração da confiança, curiosidade, medo ou urgência do usuário, e não diretamente vulnerabilidades de sistemas operacionais ou softwares.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_006"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_007",
+      "material_id": "mat_001",
+      "topic_id": "top_008",
+      "board": "CEBRASPE",
+      "year": 2024,
+      "organization": "Fictício",
+      "role": null,
+      "statement": "Uma das principais medidas de prevenção contra phishing é verificar cuidadosamente o endereço de e-mail do remetente e a URL dos links antes de clicar, desconfiando de qualquer inconsistência.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": null,
+      "external_reference": "Boa prática de segurança.",
+      "commentary": "O item está CERTO. A verificação cuidadosa do remetente e da URL dos links é uma das práticas mais eficazes para identificar e evitar ataques de phishing. Golpistas frequentemente usam endereços de e-mail e URLs que se assemelham aos legítimos, mas com pequenas alterações (typosquatting). Desconfiar de qualquer inconsistência é crucial.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_007"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_008",
+      "material_id": "mat_001",
+      "topic_id": "top_006",
+      "board": "CEBRASPE",
+      "year": 2023,
+      "organization": "Fictício",
+      "role": null,
+      "statement": "Whaling é um tipo de ataque de phishing que tem como alvo principal usuários comuns, buscando obter informações financeiras de baixo valor.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": null,
+      "external_reference": "Inversão do conceito de whaling, que visa altos executivos.",
+      "commentary": "O item está ERRADO. Whaling (caça às baleias) é uma forma de spear phishing que tem como alvo indivíduos de alto escalão dentro de uma organização, como CEOs, CFOs ou outros executivos. O objetivo é obter acesso a informações críticas ou autorizar grandes transações financeiras, e não informações de baixo valor de usuários comuns.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_008"
+        ],
+        "count": 1
+      }
+    }
+  ],
+  "comentarios_questoes": [
+    {
+      "comment_id": "com_001",
+      "question_id": "qst_001",
+      "content": "O item está ERRADO. Embora o e-mail seja o canal mais comum para ataques de phishing, não é o único. Phishing pode ocorrer também por meio de websites falsos, redes sociais e, em suas variações, por SMS (smishing) e chamadas telefônicas (vishing). O termo 'exclusivamente' torna a afirmação incorreta, sendo uma pegadinha típica da CEBRASPE.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_002",
+      "question_id": "qst_002",
+      "content": "O item está CERTO. Vishing, ou Voice Phishing, é de fato um ataque de engenharia social que utiliza chamadas telefônicas para enganar as vítimas. Os criminosos se passam por entidades confiáveis para persuadir as pessoas a divulgar informações confidenciais, como senhas e dados bancários.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_003",
+      "question_id": "qst_003",
+      "content": "O item está ERRADO. O smishing, embora utilize predominantemente mensagens de texto SMS, também pode ser realizado por meio de aplicativos de mensagens instantâneas, como o WhatsApp e o Telegram. A afirmação de que não abrange esses aplicativos e o uso do termo 'exclusivamente' tornam o item incorreto.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_004",
+      "question_id": "qst_004",
+      "content": "O item está CERTO. Spear phishing é uma forma de phishing mais sofisticada e direcionada. O atacante investe tempo em pesquisa sobre o alvo (seja uma pessoa ou uma organização) para criar mensagens altamente personalizadas e convincentes, aumentando significativamente a probabilidade de sucesso do golpe.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_005",
+      "question_id": "qst_005",
+      "content": "O item está ERRADO. Manter um software antivírus atualizado é uma medida importante, mas não é 'suficiente' para proteger contra TODOS os ataques de phishing. A engenharia social explora falhas humanas, e nenhuma ferramenta tecnológica sozinha pode eliminar completamente esse risco. A proteção eficaz envolve conscientização, boas práticas e múltiplas camadas de segurança.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_006",
+      "question_id": "qst_006",
+      "content": "O item está ERRADO. A engenharia social, por definição, foca na manipulação psicológica de pessoas. Embora possa haver um componente técnico em alguns ataques (como um link malicioso), o vetor principal é a exploração da confiança, curiosidade, medo ou urgência do usuário, e não diretamente vulnerabilidades de sistemas operacionais ou softwares.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_007",
+      "question_id": "qst_007",
+      "content": "O item está CERTO. A verificação cuidadosa do remetente e da URL dos links é uma das práticas mais eficazes para identificar e evitar ataques de phishing. Golpistas frequentemente usam endereços de e-mail e URLs que se assemelham aos legítimos, mas com pequenas alterações (typosquatting). Desconfiar de qualquer inconsistência é crucial.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_008",
+      "question_id": "qst_008",
+      "content": "O item está ERRADO. Whaling (caça às baleias) é uma forma de spear phishing que tem como alvo indivíduos de alto escalão dentro de uma organização, como CEOs, CFOs ou outros executivos. O objetivo é obter acesso a informações críticas ou autorizar grandes transações financeiras, e não informações de baixo valor de usuários comuns.",
+      "explanation_alternatives": ""
+    }
+  ],
+  "checklist_revisao": [
+    {
+      "checklist_id": "chk_001",
+      "material_id": "mat_001",
+      "topic_id": "top_002",
+      "item_text": "Checklist 1",
+      "completed": false,
+      "order": 1
+    },
+    {
+      "checklist_id": "chk_002",
+      "material_id": "mat_001",
+      "topic_id": "top_003",
+      "item_text": "Checklist 2",
+      "completed": false,
+      "order": 2
+    },
+    {
+      "checklist_id": "chk_003",
+      "material_id": "mat_001",
+      "topic_id": "top_004",
+      "item_text": "Checklist 3",
+      "completed": false,
+      "order": 3
+    },
+    {
+      "checklist_id": "chk_004",
+      "material_id": "mat_001",
+      "topic_id": "top_005",
+      "item_text": "Checklist 4",
+      "completed": false,
+      "order": 4
+    },
+    {
+      "checklist_id": "chk_005",
+      "material_id": "mat_001",
+      "topic_id": "top_006",
+      "item_text": "Checklist 5",
+      "completed": false,
+      "order": 5
+    },
+    {
+      "checklist_id": "chk_006",
+      "material_id": "mat_001",
+      "topic_id": "top_007",
+      "item_text": "Checklist 6",
+      "completed": false,
+      "order": 6
+    },
+    {
+      "checklist_id": "chk_007",
+      "material_id": "mat_001",
+      "topic_id": "top_008",
+      "item_text": "Checklist 7",
+      "completed": false,
+      "order": 7
+    }
+  ],
+  "referencias": [
+    {
+      "reference_id": "ref_001",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "Check Point Software. 11 tipos de ataques de engenharia social. Disponível em: [2]",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGX2dzoXmcN4StrBIcykIYYv7otCjTanzNyEALUtBU50Tu30fLEwAM7zyqBs3-ChyXIOY7wVfECB7zkPgPieaB9Z_NJoMmnDru9K_qw306HUkND7DBsdgN30f-s6kJm_iEedPp2L_8CGkffr-KlV5RSstWPGuCAhuawR6deu8nPMiXV5PXhF9Cl5XEjhYb0HXwnfvvp5q8KSsAlaVFC7Ww757ncGl6HLKlrBLOBlMUi3fHLFX5WjOQ==",
+      "accessed_at": null,
+      "description": "Check Point Software. 11 tipos de ataques de engenharia social. Disponível em: [2]"
+    },
+    {
+      "reference_id": "ref_002",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "Zscaler, Inc. O que é engenharia social? Definição e tipos explicados. Disponível em: [3]",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEpIWYkzAZ_EcRgRH6gx2SbhepWfhDuLnM8G3D8zLxwD0rLp8Y_MPAS2CuITByX-eMGIvY5fLN1rLONSdEI_E-7kagPoHCCxGwJXgrCYP3ssISi3F1lzs_KHavXdl76iTj_IIy9O-iNgQ_I-WtvCKBKipS0CeLU",
+      "accessed_at": null,
+      "description": "Zscaler, Inc. O que é engenharia social? Definição e tipos explicados. Disponível em: [3]"
+    },
+    {
+      "reference_id": "ref_003",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "Stefanini Brasil. 7 tipos de ataques de engenharia social que você precisa se proteger. Disponível em: [4]",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEUvcUko-gseODxkFUGJOpPwzxauuMMF0IL8Vj2WwFoQ0axkQKLKh68PuVP1jFtX1poDw-dj23_6UdFkr1ahGBCc74pkc3Jo591Rs8mJtfsFd_6s7_qG96okyjDI2KIw5YdjS55JRDFj_9fgFTCzlO3GUdiJwmW7XvuuwJCGyRWmWxu85Rk5Pwx_HdQIg==",
+      "accessed_at": null,
+      "description": "Stefanini Brasil. 7 tipos de ataques de engenharia social que você precisa se proteger. Disponível em: [4]"
+    },
+    {
+      "reference_id": "ref_004",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "Cisco Community. Tipos de Ataque de Engenharia Social. Disponível em: [5]",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE2BhgrPIvOuTpJBR9cRkz717Yy9mKyz3EDdOhr-jdgFZ9Eg_RhLB3B3oZTNiXa8d0MmzD4S0LJfXqra9a5HjJ7QbjizwIpge4BQDkSfPA8T-_K_AJuqPIbq_SFVpSYTWOSQJdwHfd0nu33ucjWNrVEaCvm0JRCgBIytASNwO1yzzVviaTp2uz8JxfM6xJfEN8ZGsnt86b2M9n8M5PxIydUAg==",
+      "accessed_at": null,
+      "description": "Cisco Community. Tipos de Ataque de Engenharia Social. Disponível em: [5]"
+    },
+    {
+      "reference_id": "ref_005",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "Integrity. Phishing, o Smishing e o Vishing | Boas Práticas - Dicas de Cibersegurança. Disponível em: [6]",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFzVt0Yho-mtD1pkhtxy9WMDCf5T9KxJLH4xdSeJ6z08xF9NGuvy-hAe0sIUn5N6ZeyCoON1sYqNeK_Rd4DeqtOk9Y_0LITa4p_JGcgJ80iyptb9xokj03jwxUGFjAAkl7PSG7NZHOK6LpwzDEbFD-JE7DGbPn5rXcr2zOzdWKtLvOFOQRB",
+      "accessed_at": null,
+      "description": "Integrity. Phishing, o Smishing e o Vishing | Boas Práticas - Dicas de Cibersegurança. Disponível em: [6]"
+    },
+    {
+      "reference_id": "ref_006",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "Serasa Experian. Phishing: entenda esse tipo de engenharia social. Disponível em: [7]",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFEtYXbrvRSsa4BM5zSvekHSfZQl9GdFHOwgDOcIumtwoOVvacwDiryNEnYIbvxfYgAa-ewVltEy9FBoBO23iAQXhPnNqmgeeIuP-glmrJNCbAohhUDXQHpS5FRNSL2i3KM-mK31LzrdgbqqvcYvymjSzOwOelGBSAYJqopQ2-o0-H-pKhdjaoCvINgCjwkIHTjN-6pz1A=",
+      "accessed_at": null,
+      "description": "Serasa Experian. Phishing: entenda esse tipo de engenharia social. Disponível em: [7]"
+    },
+    {
+      "reference_id": "ref_007",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "Protect4. Phishing, Vishing e Smishing: Os métodos mais usados contra servidores. Disponível em: [8]",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE036Ah2YNDb1J6cPCdVryqmaOF-XcLdywrlHCXqrLoreQArkklunHHquhm_V6mwaJp0H5QrIT5EK-iR-JuQho0jHMT7gYCxCKUL1WGui9zZ2R-YmXv7IA09Ro3OJ4z4OOxWs0ZiDq4jnysx44Hkg==",
+      "accessed_at": null,
+      "description": "Protect4. Phishing, Vishing e Smishing: Os métodos mais usados contra servidores. Disponível em: [8]"
+    },
+    {
+      "reference_id": "ref_008",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "Norton. O que é engenharia social? Disponível em: [9]",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEJDYpHz21XsNPvY7YgHPDLv2JUCG7_vc1YL_Wpa37vMEGMCBVAxu5F_A3d5GSng6d5kfHLkrpHm2jHFdcwx9ciEt1CsXmNBVutbmeKrids663AIDBYV1IZ3UOB_TaC28Sr0ZJi1rdMRtoCokRJ6bhaYLgl4M2QhIE1rEvypRgvgw==",
+      "accessed_at": null,
+      "description": "Norton. O que é engenharia social? Disponível em: [9]"
+    },
+    {
+      "reference_id": "ref_009",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "Blog Santander. Vishing e smishing: entenda esse golpe. Disponível em: [10]",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH5qO24xzpBlPCYqsxMbRt4zGgBdfUZKOKVwOW59-8nqzsrb42u6JZFwpx_nu31UWazMm0r8BF1VgENdw2jehtS1CQ3jxtcSpZLClMDOq24nbcQdK-Xvsj-46Hn9VNPCzl2w0PZtAYbW0XsRablCpDfFfreNg==",
+      "accessed_at": null,
+      "description": "Blog Santander. Vishing e smishing: entenda esse golpe. Disponível em: [10]"
+    },
+    {
+      "reference_id": "ref_010",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "SentinelOne. Phishing Vs Smishing Vs Vishing: 6 Critical Differences. Disponível em: [11]",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEIEDBduneexKtURDZZIDKm6uJZwHJYAMOYyGZMEzZboazkua8NVY60AVB6ak9J4nh2DAwGRPunr98OzLVUNfnvDsMs_uk0hY8kYoVey-chl5L3djiU6GpD_Z7V3YaQ-2DjZYJNrPC8vVi6bysh-Dpb40Jiss_p89Duhjphb8Uj0jX_d-qMoFxLSu4k-SaVvMP2RfDaFNkt2gEAdFk=",
+      "accessed_at": null,
+      "description": "SentinelOne. Phishing Vs Smishing Vs Vishing: 6 Critical Differences. Disponível em: [11]"
+    },
+    {
+      "reference_id": "ref_011",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "Serasa Blog Premium. Vishing, smishing ou phising: entenda a diferença. Disponível em: [12]",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEGVVc6ekGdi3WKCDaX72qCDHV_l_CyNvS6CKqZ6fPYQA_egEnUYrWIJncNXNRgAb5O6BRH1ohmMScjDMu5rtYN23DsTGmXLjjCGsnkVy8na-qvJQavvMYWZ91WhquuurPhJ8DWgKCTp45cFGoQhnLaCmOcO7uQ-4x8RjFD_fptpS7ISDWJTpRq5_XZYhEaFg==",
+      "accessed_at": null,
+      "description": "Serasa Blog Premium. Vishing, smishing ou phising: entenda a diferença. Disponível em: [12]"
+    },
+    {
+      "reference_id": "ref_012",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "Mercado Pago. Phishing, Smishing e Vishing: o que é, como identificar e se proteger. Disponível em: [13]",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF_disITL1anBgllDjQoTYnsPGa5t838l0iu5dkh6BOgmv6s2xrZTUoYoRquxX1WbIl0lyMGQUbgjtmT7PdyPZd2-RWnG0tl0SykuCvGGb_FMUqmjewesgRehIIYB3xJ2wHiVK_nZisehxeMkM6QkUzZTR8qO0lFocL",
+      "accessed_at": null,
+      "description": "Mercado Pago. Phishing, Smishing e Vishing: o que é, como identificar e se proteger. Disponível em: [13]"
+    },
+    {
+      "reference_id": "ref_013",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "University Information Security Office. Phishing, Smishing, and Vishing..Oh My! Disponível em: [14]",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGneh_qvoxJ4RhCHI4B6L5ECnT_IWhX8apnuM15BzD13pcD07K3r-N4lflSuiUeC33aqwyD88V_Da_pW2j3J-X_YmSbV1pbf9z4jSxgLchwP-uYZkUCUsMisX_XA78Y6p-2vgYuFPjyrl2Ml72IEVQR6lE__41UVPQZUO_trvUiXvfXkGdgNGiXn",
+      "accessed_at": null,
+      "description": "University Information Security Office. Phishing, Smishing, and Vishing..Oh My! Disponível em: [14]"
+    },
+    {
+      "reference_id": "ref_014",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "CNCS. Boas práticas contra o Phishing, o Smishing e o Vishing. Disponível em: [15]",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGIe_W8mpRene88AUB7B3waUTomYdS6y1kaKgX3ZqFVPumPMXgVd5SMhMxOUBZOO51vg2GskLag-Fxlw-hQ1vjiySrc8pF0Am319jETLYLQSFOoqkUMV0gL-eD-osyMXkVerGKd4uWEsKyM09FQcyMHiII3eC46jQdX_dZlgH3wMOOVKPdbuQiVYxc=",
+      "accessed_at": null,
+      "description": "CNCS. Boas práticas contra o Phishing, o Smishing e o Vishing. Disponível em: [15]"
+    },
+    {
+      "reference_id": "ref_015",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "Cherokee. Phishing, Vishing e Smishing: o que são e qual a diferença entre eles? Disponível em: [16]",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFQ-lV4bhwWn7N6jDs3iCpQil5jxLTYo5CyhqLotkA_5_wWT04o4VxQPwBNmfi2aPT6qhN_3nWnit__dUCqrvhXQdbFvRBTGZmRL3ueRJVyfgS12acdTZuwkak9xy5PQxxb2ukCI9UJArjG-YBEn2WWbbMBt5CWEWnFg-jq1H0Hs5kf4T-IpUbcKO2BGMPnY-Yn9v5k1BthPU0LNKo3Mc0p2fL0_hUpJA==",
+      "accessed_at": null,
+      "description": "Cherokee. Phishing, Vishing e Smishing: o que são e qual a diferença entre eles? Disponível em: [16]"
+    },
+    {
+      "reference_id": "ref_016",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "Leonel Marcos. Phishing: como se proteger. Ataques de engenharia social dependem… Disponível em: [17]",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEfcWJt9NOct6eTGv29QmX0m5fCRUs2WjY-167ME1Ttq6UiYwRT9GC_V2MWW8GdCX3ZCNQNeYtcuueWhKU5uKubBHu_QatXOm8rMZpW6lJQsknFFoSkPDLOOsEEPAIfZamEPRg5ptdvhRr0j1dGzqVFRLniwf17MVLFAe9Bzg==",
+      "accessed_at": null,
+      "description": "Leonel Marcos. Phishing: como se proteger. Ataques de engenharia social dependem… Disponível em: [17]"
+    },
+    {
+      "reference_id": "ref_017",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "Nexoria. Conheça 5 formas de ataques de Engenharia Social e saiba como evitar. Disponível em: [18]",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHIaqW5B9YOCQgvwpMDD6G7N2SmL2er2xFUDbjgccNAd-XqKGaFLL48TSmiZS9eEJmWiIYdjkbWpylqyu0-9ZjIXTcfY5I39b5bgug3s1JqeMSIA498ii2glpyttdIS5Ai-xJfym0PasOeAw1A__xtEFgtVRrIq8TK6mjqRTzElXHFX",
+      "accessed_at": null,
+      "description": "Nexoria. Conheça 5 formas de ataques de Engenharia Social e saiba como evitar. Disponível em: [18]"
+    },
+    {
+      "reference_id": "ref_018",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "Malwarebytes. O que é Vishing (phishing por voz)? Exemplos e como se prevenir. Disponível em: [19]",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEBAgL9-uHnLlMDf7AffVyGeThdJTFl-KrkVHopLJvzpozeZMA-tf6uVb9Jer10Gh8stoDESwUQaQ12Kt9Tir_3Ftm66r1e5izGgu3GemYZusF0eBJPigEeZJ43pqH26YVQSwaVyitFJCIMC_nJ4Yr3VLjWqghk7ZQ9",
+      "accessed_at": null,
+      "description": "Malwarebytes. O que é Vishing (phishing por voz)? Exemplos e como se prevenir. Disponível em: [19]"
+    },
+    {
+      "reference_id": "ref_019",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "UFRJ. O que é Phishing? - Segurança da Informação. Disponível em: [20]",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQECIK860j9pCnmooLsjh3K9CXdrMkAjovk7iqNHElWFcG4IyHfkbnGvv4CY4aaMwBBH0nwk5nEiYKYx46BxPhzBaLSVj2XxWOnA5SSzeoIofaiXiTKcqvGYt8zErMX0ipwC5oGBY8zXXzU=",
+      "accessed_at": null,
+      "description": "UFRJ. O que é Phishing? - Segurança da Informação. Disponível em: [20]"
+    },
+    {
+      "reference_id": "ref_020",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "Carlos Pinto de Abreu e Associados. PHISHING: RISCOS E PREVENÇÃO. Disponível em: [21]",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFJOPrO26j_Dw0kfc5cONzA4Ct34nh4DNXuiMFDgQb-jx_K9U15l5waT9p4OKCxAq77_NAeFrN9CHhKL0tBrudJRWajTBm1ToFdBJqKLCWBwlIqosZoQaWJbd914Utt5BSlsjPFYWG_ohxTN-g5T6sTddKhtphZua3x8C5SORmU96YvFel-",
+      "accessed_at": null,
+      "description": "Carlos Pinto de Abreu e Associados. PHISHING: RISCOS E PREVENÇÃO. Disponível em: [21]"
+    },
+    {
+      "reference_id": "ref_021",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "PRODEST. Entenda o que é phishing e adote medidas para evitá-lo. Disponível em: [22]",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHAZZj7HvEVeCoCqs15-DZiQ9dQvkUE-51t4u8ARsmR5jAFaFFRIiYFM21QnFtQLVLy1HLeBvehstbmsMZCrTjPLobWmCZFpvgFC98vQHcSQgoGx7DH9vyAcJPvGUv-EtndKTHLBkhnKW4V6REI9-eWNXa37zqL3MLnAWAz1DatfX4rWk4gqzpSwgk=",
+      "accessed_at": null,
+      "description": "PRODEST. Entenda o que é phishing e adote medidas para evitá-lo. Disponível em: [22]"
+    },
+    {
+      "reference_id": "ref_022",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "PGE MS. GUIA de prevenção a Incidentes de Segurança Cibernético. Disponível em: [23]",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHibtqT-EMUli_eNcL1FTPhC1KxoJ-4GPMR5FsG5btlE0g45X2WsZtmZKmoA7yRKIAt8jXIjac0H135SZc0Bg2qVhX6RIKtwYIJd5zEprkSKGwNP7X4NqxECYH_Neu0Zw1Bgv7trLXwqfhoBiKeisrGGY7liqFx7036RnbswR5FI2No93RemnomwugGakYlM1QQK50ciljnufFT1rf3GC_S_2fC9a5HNJpymRbB9irCdetoLgg88A==",
+      "accessed_at": null,
+      "description": "PGE MS. GUIA de prevenção a Incidentes de Segurança Cibernético. Disponível em: [23]"
+    },
+    {
+      "reference_id": "ref_023",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "Microsoft Support. Protejer-se de phishing. Disponível em: [24]",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFkgaHP6LTO2MXW78W6UH4916psOz09uXo13P29S6x5p6-CXknxHk2WR6erWxE6MiYQN-RgVfmNZT9jLSTlxvama170-3DFidkyKdDCcInKVuq7DMs9j2EELoJ7BxGSSjFgP4_ErWJDjxHQSOOulz8jAIDwf_C0HvkCpdupHUS7OZYmWL7k",
+      "accessed_at": null,
+      "description": "Microsoft Support. Protejer-se de phishing. Disponível em: [24]"
+    },
+    {
+      "reference_id": "ref_024",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "Qconcursos.com. Questões de Concurso sobre Segurança da Informação para CESPE / CEBRASPE. Disponível em: [26]",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGRXJ3W-1nEax15iX0-LUkSLdBhWVZpFlokqsfDYIqFj0t2N0ZEKGiQXC4xwry-d63gj7KGEtm8FakAHShu1gi-1pMNXSPLBwHNYufQspNnQhWT6I4jtqro6g6stya3pJMUepfYdl7b3JAfhzhvGt_Aj0tSBhQ5ZW8Om1HjVVC67qoxD_OCv6YXV6yUpV_OgUaIADTa9kSXsSjrJnSKbvxfymGWa1c0Ag==",
+      "accessed_at": null,
+      "description": "Qconcursos.com. Questões de Concurso sobre Segurança da Informação para CESPE / CEBRASPE. Disponível em: [26]"
+    },
+    {
+      "reference_id": "ref_025",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "YouTube. NÃO ERRE ESSA QUESTÃO! Phishing, Pharming e Smishing Explicados de Forma Simples! [27]",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHbst0hvwO7S9KSkMStwiRt6saCRLm6GIJqbOhlKw5eI5bsYcdpozQG1N5x9cOZBroW1wRmoz2pdA6wij-h9obk7wIdXBwNW7t1fvtOZ6zDggoeqa5fBvxd6Sj4ZJZpijJ-2B132g==",
+      "accessed_at": null,
+      "description": "YouTube. NÃO ERRE ESSA QUESTÃO! Phishing, Pharming e Smishing Explicados de Forma Simples! [27]"
+    },
+    {
+      "reference_id": "ref_026",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "YouTube. Questões Cebraspe: Segurança da Informação [Aula de Informática para concursos] #aovivo. [28]",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHViTMnXwcOKcN3go4ekxw-YNeuQhoIde0BfwSo9RxkWO3HkWMHIY5-O7jzLlGpelqr6ehXzUUk4WprnvMo3bnYIjQ9j035wlogzQxl3RCioI34hZ_9kcwNRj0N6gEkBQAwHer1qw==",
+      "accessed_at": null,
+      "description": "YouTube. Questões Cebraspe: Segurança da Informação [Aula de Informática para concursos] #aovivo. [28]"
+    },
+    {
+      "reference_id": "ref_027",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "YouTube. Cebraspe | 50 Questões de Malwares e Golpes | Informática com Professor Danilo Vilanova #opior. [29]",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE02m-vr0b3WDol6-Sf-5xpGKAtzzUp-5XgT5Ejuv9MRsRDzxQq5WEXmFlAfJipbjBFG4XoN_WVI6ofhCTcxdqpODURItZB1hxbNN3GOn-7RE8ZwYUW1wa9EV6fEkES0R2sp9mWWA==",
+      "accessed_at": null,
+      "description": "YouTube. Cebraspe | 50 Questões de Malwares e Golpes | Informática com Professor Danilo Vilanova #opior. [29]"
+    },
+    {
+      "reference_id": "ref_028",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "Soma Concursos. Pegadinhas da banca Cebraspe: como identificar? [30]",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEiDrXZSIR-80cNGqF14L_fTc9zu_37w4CZgJUJKN-d56tOAyyaYPgPavVyKYdew-k3AcGsPvbgGE5nnHoK50fdOel7qz5WnpRo3ZJCGIJ__eLge1HEOjsRwJ0ssiCIa4lssVVb2-f0zJI8BxYJYuR22IY2vt8TLgoPGJJKMvKYKbuVHg3TX7xUY6zZwRJ24cEAXHW2q5Zf7Jg7",
+      "accessed_at": null,
+      "description": "Soma Concursos. Pegadinhas da banca Cebraspe: como identificar? [30]"
+    },
+    {
+      "reference_id": "ref_029",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "YouTube. 20 FGV and Cebraspe pranks. [32]",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGZGuSogPHk7dQmM4c7dA0Ey48-ruAUEq_XfhmC5Xi522vqZp0EGfZLu-1geK-Wvvbj7mbXE5Pnm4kd6HkIfI9gWPvLBrGy9msceEt3nGfOQY3kAvF0wdwBh0dadqLBXl8ZiIbpVA==",
+      "accessed_at": null,
+      "description": "YouTube. 20 FGV and Cebraspe pranks. [32]"
+    },
+    {
+      "reference_id": "ref_030",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "Qconcursos.com. Questões de Concurso sobre Engenharia Social. [33]",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGOSLzxL6o6-yOeKzCovBsUFy_b_2iau2V-aGXBdst0qSRLX0IHdLMMmRQG-VExJ8PsTPBT3HzGCHDlJk1mOMV9onZxLCqdUNn--UEzDxeWjAWGYMJckWE3gd-sLYhD3O9ffcsDjFthMtEuPRllGLKFmJX87ewDBb9p2a9ygDC9HgcH4RkzJVPXLhzSQOlQLUjHiqXR0tQfvkc5WicS",
+      "accessed_at": null,
+      "description": "Qconcursos.com. Questões de Concurso sobre Engenharia Social. [33]"
+    },
+    {
+      "reference_id": "ref_031",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "Qconcursos.com. O phishing é um tipo de ataque de engenharia social onde os... [34]",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEAETgF16QDrbsZP19noqsYaRpgk-1oNjunzTR4MJ0pqghFSq3osSoIwwc1ehytAsP5l7MBAD6KlG5VipWfMNW7g7Ru-sipXW_nwQJyVsHHfw7WZX53_temBhRkNciZQ-_oaBOPUkWh34RKZ0JIa2L9kjbpNomZ0SUXjLwvnV9K",
+      "accessed_at": null,
+      "description": "Qconcursos.com. O phishing é um tipo de ataque de engenharia social onde os... [34]"
+    },
+    {
+      "reference_id": "ref_032",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "Qconcursos.com. Questões de Concurso sobre Phishing Scam. [35]",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEViTj6gqptuvwrkcfnK8e5AAoYzHGUUnghtmNWSwZuxcMDCjHJmmc9W0a_gziVxz8P-LDJ9icOUWYaQBW_YBkvx7XPVh1SaDlVsT6cTME_Z34lHIFKxxG0sqsppx_qCPaSr4f9KVh66dOOLGCMX2zY8OH6vVigKt8rN9UEhfD9hq31apsmK4xZW1bJyo_LFUNiE_jLWPyD2Uo=",
+      "accessed_at": null,
+      "description": "Qconcursos.com. Questões de Concurso sobre Phishing Scam. [35]"
+    },
+    {
+      "reference_id": "ref_033",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "Qconcursos.com. A engenharia social, no contexto da segurança da informação... [37]",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHpmRcs0iHEDPPqoCWJ1o63wBjezaJhAfmCCCg34m7v7mobJ2vEv28SHJxkXJY8-dPJDMFhqJFJUgaWaqy6ywgd1MdgKcUbcOCEMVzyOiWyV2Q2ui1Rjl31uOqdexEAUgL8W07QSWOQSMrZXWLs7op-aGbcJSOXhB1ulgxQ3XnL",
+      "accessed_at": null,
+      "description": "Qconcursos.com. A engenharia social, no contexto da segurança da informação... [37]"
+    }
+  ],
+  "estatisticas_de_geracao": {
+    "total_topicos": 8,
+    "total_componentes_topico": 25,
+    "total_entendimentos_relevantes": 5,
+    "total_pegadinhas": 4,
+    "total_pontos_memorizacao": 6,
+    "total_itens_quadro_sinotico": 6,
+    "total_questoes": 8,
+    "total_comentarios_questoes": 8,
+    "total_itens_checklist": 7,
+    "total_referencias": 33
+  },
+  "validacao_interna": {
+    "pesquisa_previa_realizada": true,
+    "analise_de_cobrancas_anteriores_realizada": true,
+    "material_atualizado": true,
+    "json_valido": true,
+    "estrutura_relacional_respeitada": true,
+    "numeracao_respeitada": true,
+    "houve_quebra_de_hierarquia": false,
+    "houve_nivel_numerico_superior_a_3": false,
+    "fontes_verificadas": true,
+    "sem_informacao_inventada": true
+  },
+  "metadata": {
+    "source_file_name": "3__informática-e-dados__3-noções-de-segurança-da-informação-3.3-phishing-vishing-e-engenharia-social-métodos-e-canais-utilizados.json",
+    "normalized_checksum": "b63a0a433f80a6303dae9879b58b2a34200994ac916c4ec1f3187ba53fea399b",
+    "subject_slug": "informatica",
+    "material_slug": "seguranca-informacao-phishing-vishing",
+    "title_slug": "seguranca-da-informacao-phishing-vishing-e",
+    "board_slug": "cebraspe",
+    "counters": {
+      "blocks": 8,
+      "topics": 8,
+      "topic_components": 25,
+      "traps": 4,
+      "memory_points": 6,
+      "summary_items": 6,
+      "questions": 8,
+      "question_comments": 8,
+      "checklist_items": 7,
+      "references": 33
+    }
+  }
+}

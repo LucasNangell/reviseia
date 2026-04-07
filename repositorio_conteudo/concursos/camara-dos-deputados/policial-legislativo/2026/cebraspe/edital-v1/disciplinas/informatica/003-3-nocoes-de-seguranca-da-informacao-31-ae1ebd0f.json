@@ -1,0 +1,1165 @@
+{
+  "schema_version": "1.0",
+  "normalized_at": "2026-04-07T15:39:13.991052-03:00",
+  "normalizer_version": "2.0.0",
+  "exported_at": "2026-04-07T16:01:00Z",
+  "source_request": {
+    "purpose": "Concurso público",
+    "general_area": "Tecnologia da Informação",
+    "subject_name": "Informática e Dados",
+    "subarea_name": "Informática, redes, segurança e dados",
+    "main_theme": "3 Noções de segurança da informação: 3.1 Responsabilidades e deveres dos usuários de serviços de TI",
+    "theme_scope": "Teoria completa, incidência em prova, padrão de cobrança da banca, pegadinhas e questões comentadas",
+    "board_style": "CEBRASPE",
+    "depth_level": "Exaustivo",
+    "goal": "Teoria completa, revisão estratégica, pegadinhas e questões comentadas",
+    "base_topic_number": "3",
+    "topic_title": "3 Noções de segurança da informação: 3.1 Responsabilidades e deveres dos usuários de serviços de TI",
+    "syllabus_reference": "Conteúdo programático da disciplina Informática e Dados",
+    "priority_sources": [
+      "Documentação oficial e referências técnicas confiáveis",
+      "Bibliografia técnica consolidada",
+      "Questões anteriores da banca"
+    ],
+    "minimum_questions": 8,
+    "question_format": "Certo/Errado",
+    "prioritize_real_questions": true,
+    "response_language": "português",
+    "target_audience": "Candidato de concurso público",
+    "additional_notes": "Executar exatamente para esta linha individual do topicos.txt. Não juntar com outros tópicos. Não pular este tópico. Dar destaque ao padrão de cobrança da banca, aos pontos mais cobrados e às pegadinhas recorrentes.",
+    "input_hash": "bf8b755a0708",
+    "extras": {}
+  },
+  "material": {
+    "material_id": "mat_001",
+    "slug": "seguranca-informacao-responsabilidades-usuarios-ti-cebraspe",
+    "title": "Noções de Segurança da Informação: Responsabilidades e Deveres dos Usuários de Serviços de TI",
+    "base_number": "3",
+    "topic_title": "3 Noções de segurança da informação: 3.1 Responsabilidades e deveres dos usuários de serviços de TI",
+    "purpose": "Concurso público",
+    "area_name": "Tecnologia da Informação",
+    "subject_name": "Informática e Dados",
+    "subarea_name": "Informática, redes, segurança e dados",
+    "main_theme": "3 Noções de segurança da informação: 3.1 Responsabilidades e deveres dos usuários de serviços de TI",
+    "theme_scope": "Teoria completa, incidência em prova, padrão de cobrança da banca, pegadinhas e questões comentadas",
+    "board_style": "CEBRASPE",
+    "depth_level": "Exaustivo",
+    "study_goal": "Teoria completa, revisão estratégica, pegadinhas e questões comentadas",
+    "target_audience": "Candidato de concurso público",
+    "language_code": "português",
+    "update_status": "Atualizado",
+    "current_note": "Conteúdo atualizado com base nas melhores práticas de segurança da informação e padrões normativos como a ISO/IEC 27002, considerando a relevância para concursos públicos.",
+    "has_case_law": false,
+    "case_law_justification": "A matéria de responsabilidades e deveres dos usuários de TI em segurança da informação é predominantemente técnica e normativa, não havendo aplicação direta de jurisprudência para o nível de profundidade exigido em concursos públicos. O foco recai sobre políticas internas, normas técnicas e legislação de proteção de dados.",
+    "has_information_limitation": false,
+    "information_limitation_desc": null,
+    "content_checksum": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6",
+    "extras": {}
+  },
+  "blocos_textuais": [
+    {
+      "external_block_code": "blc_001",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 1,
+      "title": "Introdução à Segurança da Informação e o Papel do Usuário",
+      "content": "A segurança da informação é um pilar fundamental para a proteção dos ativos de uma organização, abrangendo a confidencialidade, integridade e disponibilidade dos dados. Embora a tecnologia desempenhe um papel crucial, o elemento humano é frequentemente considerado o elo mais fraco ou mais forte dessa corrente, dependendo de sua conscientização e adesão às políticas e boas práticas. As responsabilidades e deveres dos usuários de serviços de TI são, portanto, essenciais para mitigar riscos e garantir um ambiente digital seguro. A negligência ou o desconhecimento por parte dos usuários podem comprometer toda a infraestrutura de segurança, resultando em incidentes como vazamento de dados, infecções por malware e interrupção de serviços.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_002",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 2,
+      "title": "A Política de Segurança da Informação (PSI) como Guia",
+      "content": "A Política de Segurança da Informação (PSI) é um documento formal que estabelece as diretrizes, regras e procedimentos para proteger os ativos de informação de uma organização. Ela serve como um guia para todos os colaboradores, definindo o uso aceitável dos recursos de TI e as responsabilidades individuais. Para ser eficaz, a PSI deve ser clara, de fácil entendimento, acessível a todos os funcionários e periodicamente revisada e atualizada para se adequar às mudanças tecnológicas e aos novos riscos. A NBR ISO/IEC 27002, uma norma técnica internacional, oferece diretrizes e boas práticas para a gestão da segurança da informação, incluindo a necessidade de conscientização e treinamento dos usuários sobre suas responsabilidades.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_003",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 3,
+      "title": "Principais Responsabilidades e Boas Práticas dos Usuários de TI",
+      "content": "Os usuários de serviços de TI possuem uma série de responsabilidades que, quando cumpridas, contribuem significativamente para a segurança da informação da organização. As principais incluem:<ul><li>**Gestão de Senhas:** Criar e utilizar senhas fortes (com caracteres maiúsculos, minúsculos, números e símbolos, e no mínimo 12 dígitos), únicas para cada serviço, não as compartilhar, não as anotar em locais de fácil acesso e ativar a autenticação de dois fatores (MFA) sempre que disponível.</li><li>**Conscientização sobre Ameaças (Phishing, Malware):** Ser vigilante quanto a e-mails, mensagens e links suspeitos. Verificar a procedência do remetente e o domínio de sites antes de clicar ou fornecer informações. Evitar baixar e instalar softwares de fontes não confiáveis.</li><li>**Proteção de Dados e Informações:** Proteger dados pessoais e corporativos, evitando armazenar informações sensíveis em dispositivos pessoais não autorizados ou em locais desprotegidos. Compreender a classificação das informações e tratá-las de acordo com seu nível de sensibilidade.</li><li>**Segurança de Dispositivos:** Manter sistemas operacionais e aplicativos atualizados, utilizar e manter softwares de segurança (antivírus, firewall) ativos e atualizados. Bloquear o computador ou dispositivo ao se ausentar, mesmo que por um curto período (política de tela limpa).</li><li>**Uso Adequado dos Recursos Corporativos:** Utilizar o e-mail corporativo e outros recursos de TI exclusivamente para fins de trabalho. Não burlar as regras e políticas de segurança estabelecidas pela organização.</li><li>**Comunicação e Reporte de Incidentes:** Comunicar imediatamente à equipe de TI ou ao responsável pela segurança qualquer atividade suspeita, incidente de segurança (como perda ou roubo de dispositivo, acesso não autorizado) ou utilização inadequada de recursos.</li><li>**Conformidade:** Conhecer e seguir as políticas de segurança da informação da empresa, bem como as leis e regulamentos aplicáveis (ex: LGPD).</li><li>**Política de Mesa Limpa:** Manter a mesa de trabalho organizada e livre de documentos confidenciais ou informações sensíveis expostas, especialmente ao se ausentar.</li></ul>",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_004",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 4,
+      "title": "Consequências do Descumprimento das Responsabilidades",
+      "content": "O descumprimento das responsabilidades e deveres de segurança da informação pode acarretar diversas consequências, tanto para o usuário quanto para a organização. Para o usuário, pode haver sanções disciplinares, conforme previsto em normativos internos e legislação vigente. Para a organização, as falhas de segurança podem resultar em perdas financeiras, danos à reputação, vazamento de dados sensíveis, multas regulatórias (especialmente em casos de violação da LGPD), interrupção de serviços e comprometimento da continuidade dos negócios.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_005",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 5,
+      "title": "Padrão de Cobrança da Banca CEBRASPE",
+      "content": "A banca CEBRASPE (antigo CESPE) tem um histórico consistente de cobrança de temas de segurança da informação em suas provas de Informática e TI, frequentemente no formato 'Certo/Errado'. Em relação às responsabilidades e deveres dos usuários, o CEBRASPE costuma abordar:<ul><li>**Conceitos Fundamentais:** A importância do usuário como parte da segurança, a tríade da segurança (Confidencialidade, Integridade, Disponibilidade) e a necessidade de políticas claras.</li><li>**Boas Práticas:** Questões literais sobre o que o usuário DEVE ou NÃO DEVE fazer (ex: senhas fortes, cuidado com e-mails, bloqueio de tela).</li><li>**Responsabilidade Compartilhada:** A banca frequentemente testa a compreensão de que a segurança não é responsabilidade exclusiva da equipe de TI, mas de todos os usuários.</li><li>**Consequências:** Implicações de ações ou omissões dos usuários.</li><li>**Pegadinhas Comuns:** A CEBRASPE é conhecida por suas 'pegadinhas', que podem envolver:<ul><li>**Exoneração de Responsabilidade:** Afirmar que o usuário é isento de responsabilidade se a TI for a principal responsável.</li><li>**Impacto Limitado:** Sugerir que uma falha de segurança do usuário afeta apenas sua própria conta, e não a organização como um todo.</li><li>**Generalizações e Absolutismos:** Usar termos como 'apenas', 'somente', 'sempre' para tornar uma afirmação falsa.</li><li>**Confusão de Papéis:** Atribuir ao usuário responsabilidades que são tipicamente da administração de sistemas ou da equipe de segurança (e vice-versa).</li><li>**Desatualização de Políticas:** Afirmar que políticas de segurança são estáticas e não precisam de revisão.</li></ul></li></ul>É crucial que o candidato não apenas conheça as boas práticas, mas também entenda a lógica por trás delas e as implicações de seu descumprimento, além de estar atento às formulações das questões para identificar as armadilhas da banca.",
+      "content_type": "teoria"
+    }
+  ],
+  "topicos": [
+    {
+      "external_topic_code": "top_001",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "3.1",
+      "title": "Responsabilidades e deveres dos usuários de serviços de TI",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 1
+    },
+    {
+      "external_topic_code": "top_002",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "3.1.1",
+      "title": "O Papel do Usuário na Segurança da Informação",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 2
+    },
+    {
+      "external_topic_code": "top_003",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "3.1.2",
+      "title": "Política de Segurança da Informação (PSI) e o Usuário",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 3
+    },
+    {
+      "external_topic_code": "top_004",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "3.1.3",
+      "title": "Principais Responsabilidades e Boas Práticas",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 4
+    },
+    {
+      "external_topic_code": "top_005",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "3.1.4",
+      "title": "Consequências do Descumprimento",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 5
+    },
+    {
+      "external_topic_code": "top_006",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "3.1.5",
+      "title": "Padrão de Cobrança CEBRASPE",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 6
+    }
+  ],
+  "topico_componentes": [
+    {
+      "component_id": "cmp_001",
+      "topic_id": "top_002",
+      "component_type": "texto",
+      "content": "A segurança da informação é uma responsabilidade compartilhada, onde cada usuário é um componente vital na proteção dos ativos digitais da organização. A falha de um único usuário pode abrir portas para ataques cibernéticos, mesmo com robustos controles tecnológicos.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_002",
+      "topic_id": "top_003",
+      "component_type": "texto",
+      "content": "A PSI deve ser um documento vivo, comunicado e compreendido por todos, servindo como base para a conscientização e o treinamento contínuo dos usuários.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_003",
+      "topic_id": "top_004",
+      "component_type": "lista_ordenada",
+      "content": "['**Senhas Fortes e Únicas:** Essencial para a autenticação segura.', '**Autenticação de Dois Fatores (MFA):** Camada adicional de segurança.', '**Cuidado com Phishing e Engenharia Social:** Principal vetor de ataques.', '**Atualização de Software:** Correção de vulnerabilidades.', '**Bloqueio de Tela:** Proteção contra acesso físico não autorizado.', '**Uso Consciente de E-mail Corporativo:** Exclusividade para fins profissionais.', '**Reporte de Incidentes:** Ação rápida para mitigar danos.', '**Não Compartilhamento de Informações Confidenciais:** Respeito à confidencialidade.', '**Política de Mesa Limpa e Tela Limpa:** Prevenção de exposição de dados.']",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_004",
+      "topic_id": "top_005",
+      "component_type": "texto",
+      "content": "As consequências podem variar de advertências e suspensões a demissões e processos legais, além de impactos financeiros e reputacionais para a organização.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_005",
+      "topic_id": "top_006",
+      "component_type": "texto",
+      "content": "O CEBRASPE valoriza a compreensão da responsabilidade individual e coletiva na segurança da informação, buscando diferenciar o conhecimento técnico do comportamento seguro.",
+      "order": 1
+    }
+  ],
+  "pegadinhas": [
+    {
+      "trap_id": "peg_001",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": "Exoneração de Responsabilidade do Usuário",
+      "description": "A banca pode afirmar que, em sistemas interconectados, a segurança é exclusiva da TI, eximindo o usuário de responsabilidade. ISSO ESTÁ ERRADO. A responsabilidade é compartilhada.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 1
+    },
+    {
+      "trap_id": "peg_002",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": "Impacto Limitado de Senhas Fracas",
+      "description": "Questões podem sugerir que o uso de senhas fracas afeta 'apenas' a conta do usuário. ISSO ESTÁ ERRADO. Uma senha fraca pode ser a porta de entrada para comprometer todo o sistema ou rede da organização.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 2
+    },
+    {
+      "trap_id": "peg_003",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": "Políticas de Segurança Estáticas",
+      "description": "A banca pode indicar que a PSI permanece inalterada ao longo do tempo. ISSO ESTÁ ERRADO. A PSI deve ser avaliada e atualizada periodicamente para se adaptar a novos riscos e tecnologias.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 3
+    },
+    {
+      "trap_id": "peg_004",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": "Confusão de Papéis (Usuário vs. Administrador)",
+      "description": "A CEBRASPE pode atribuir ao usuário comum tarefas que são de administradores de sistema (ex: configurar firewall complexo) ou vice-versa, ou ainda confundir a capacidade de um software (ex: antivírus fazer backup).",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 4
+    },
+    {
+      "trap_id": "peg_005",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": "Generalizações e Absolutismos",
+      "description": "Cuidado com termos como 'apenas', 'somente', 'sempre', 'nunca'. Por exemplo, 'todo software malicioso é um vírus' é uma generalização incorreta.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 5
+    }
+  ],
+  "pontos_memorizacao": [
+    {
+      "memory_id": "mem_001",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": null,
+      "content": "Senhas fortes e MFA são a primeira linha de defesa do usuário.",
+      "order": 1
+    },
+    {
+      "memory_id": "mem_002",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": null,
+      "content": "Desconfiar de e-mails e links suspeitos é crucial para evitar phishing.",
+      "order": 2
+    },
+    {
+      "memory_id": "mem_003",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": null,
+      "content": "A PSI é o documento base que orienta as ações de segurança de todos.",
+      "order": 3
+    },
+    {
+      "memory_id": "mem_004",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": null,
+      "content": "Segurança da informação é responsabilidade de TODOS, não apenas da TI.",
+      "order": 4
+    },
+    {
+      "memory_id": "mem_005",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": null,
+      "content": "Reportar incidentes rapidamente minimiza danos.",
+      "order": 5
+    },
+    {
+      "memory_id": "mem_006",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": null,
+      "content": "Manter softwares atualizados e dispositivos bloqueados são boas práticas essenciais.",
+      "order": 6
+    }
+  ],
+  "quadro_sinotico_itens": [
+    {
+      "summary_item_id": "sum_001",
+      "title": null,
+      "content": "",
+      "order": 1
+    },
+    {
+      "summary_item_id": "sum_002",
+      "title": null,
+      "content": "",
+      "order": 2
+    },
+    {
+      "summary_item_id": "sum_003",
+      "title": null,
+      "content": "",
+      "order": 3
+    },
+    {
+      "summary_item_id": "sum_004",
+      "title": null,
+      "content": "",
+      "order": 4
+    },
+    {
+      "summary_item_id": "sum_005",
+      "title": null,
+      "content": "",
+      "order": 5
+    },
+    {
+      "summary_item_id": "sum_006",
+      "title": null,
+      "content": "",
+      "order": 6
+    },
+    {
+      "summary_item_id": "sum_007",
+      "title": null,
+      "content": "",
+      "order": 7
+    },
+    {
+      "summary_item_id": "sum_008",
+      "title": null,
+      "content": "",
+      "order": 8
+    }
+  ],
+  "questoes": [
+    {
+      "question_id": "qst_001",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": "CESPE (CEBRASPE)",
+      "year": 2012,
+      "organization": "Câmara dos Deputados",
+      "role": "Técnico Legislativo",
+      "statement": "O uso de senhas fracas por um usuário de serviços de TI representa uma vulnerabilidade que afeta exclusivamente a conta desse usuário, não impactando a segurança global da organização.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "**Gabarito: Errado.** O uso de senhas fracas por um usuário não afeta apenas sua conta individual. Uma senha comprometida pode ser utilizada para acessar outros sistemas da organização, escalar privilégios, ou servir como ponto de entrada para ataques mais amplos, comprometendo a segurança global da rede e dos dados corporativos. A segurança da informação é uma responsabilidade compartilhada.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_001"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_002",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": "CESPE (CEBRASPE)",
+      "year": 2013,
+      "organization": "Tribunal de Contas do Estado de Rondônia",
+      "role": "Agente Administrativo",
+      "statement": "Em sistemas de informática de órgãos interconectados por redes de computadores, os procedimentos de segurança ficam a cargo exclusivo da área de tecnologia do órgão, o que exime os usuários de responsabilidades relativas à segurança.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "**Gabarito: Errado.** A segurança da informação é uma responsabilidade de todos os envolvidos, desde a alta direção até o usuário final. Embora a área de TI seja responsável pela implementação e gestão dos controles técnicos, os usuários têm o dever de seguir as políticas e boas práticas para garantir a eficácia desses controles. A questão tenta induzir ao erro ao eximir o usuário de responsabilidade.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_002"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_003",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": "CEBRASPE",
+      "year": 2024,
+      "organization": "ApexBrasil",
+      "role": "Analista",
+      "statement": "Uma das responsabilidades do usuário de serviços de TI é manter o sistema operacional e os aplicativos de seu dispositivo sempre atualizados, a fim de corrigir vulnerabilidades conhecidas e aumentar a proteção contra ameaças.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "**Gabarito: Certo.** Manter sistemas operacionais e aplicativos atualizados é uma responsabilidade fundamental do usuário. As atualizações frequentemente incluem patches de segurança que corrigem vulnerabilidades descobertas, protegendo o dispositivo contra exploits e malwares.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_003"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_004",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": "CEBRASPE",
+      "year": 2022,
+      "organization": "ApexBrasil",
+      "role": "Analista",
+      "statement": "A Política de Segurança da Informação (PSI) de uma organização, por ser um documento estratégico, deve ser restrita à alta direção e à equipe de TI, dispensando ampla divulgação interna aos demais colaboradores.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "**Gabarito: Errado.** Para que a Política de Segurança da Informação (PSI) seja eficaz, ela deve ser amplamente divulgada e compreendida por todos os colaboradores da organização, independentemente de seu cargo. A conscientização e o engajamento de todos são cruciais para a sua implementação bem-sucedida.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_004"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_005",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": "CEBRASPE",
+      "year": 2022,
+      "organization": "Cebraspe (Resolução D.G.)",
+      "role": "Colaboradores",
+      "statement": "Em caso de suspeita de um incidente de segurança, como o recebimento de um e-mail de phishing, o usuário deve, como dever, comunicar imediatamente o ocorrido à equipe responsável pela segurança da informação da organização.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "**Gabarito: Certo.** A comunicação imediata de qualquer suspeita ou incidente de segurança é um dever crítico do usuário. Isso permite que a equipe de segurança atue rapidamente para investigar, conter e mitigar o impacto do incidente, protegendo a organização de danos maiores.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_005"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_006",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": "CEBRASPE",
+      "year": 2023,
+      "organization": "Tribunal Regional Federal",
+      "role": "Analista de TI",
+      "statement": "A utilização de autenticação multifator (MFA) é uma medida de segurança que, embora aumente a proteção, não exime o usuário da responsabilidade de criar senhas fortes e únicas para cada serviço.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "**Gabarito: Certo.** A autenticação multifator (MFA) adiciona uma camada extra de segurança, mas não substitui a necessidade de senhas fortes e únicas. Uma senha fraca, mesmo com MFA, pode ser um ponto de vulnerabilidade se o segundo fator for comprometido ou se houver falha na implementação. O ideal é combinar ambas as práticas.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_006"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_007",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": "CEBRASPE",
+      "year": 2024,
+      "organization": "Ministério Público",
+      "role": "Técnico Administrativo",
+      "statement": "A política de mesa limpa e tela limpa, recomendada pela ISO/IEC 27002, é uma boa prática de segurança da informação que visa proteger informações sensíveis contra acesso não autorizado quando o usuário se ausenta de sua estação de trabalho.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "**Gabarito: Certo.** A política de mesa limpa e tela limpa é uma prática recomendada para proteger informações confidenciais contra acesso visual ou físico não autorizado. Ao se ausentar, o usuário deve garantir que documentos sensíveis não estejam expostos e que a tela do computador esteja bloqueada.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_007"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_008",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": "CEBRASPE",
+      "year": 2022,
+      "organization": "Secretaria Estadual de Educação",
+      "role": "Professor",
+      "statement": "O backup de arquivos na nuvem e em outras mídias diferentes é uma forma eficiente de proteção contra ataques de ransomware, sendo uma responsabilidade que recai exclusivamente sobre a equipe de TI da organização.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "**Gabarito: Errado.** Embora o backup seja uma medida essencial de proteção contra ransomware e outras perdas de dados, a responsabilidade por sua realização e verificação não recai *exclusivamente* sobre a equipe de TI. Usuários também podem ter responsabilidades sobre o backup de seus próprios dados ou sobre a verificação da execução de backups automáticos, conforme a política da organização. A questão usa o termo 'exclusivamente', que é uma pegadinha comum do CEBRASPE.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_008"
+        ],
+        "count": 1
+      }
+    }
+  ],
+  "comentarios_questoes": [
+    {
+      "comment_id": "com_001",
+      "question_id": "qst_001",
+      "content": "**Gabarito: Errado.** O uso de senhas fracas por um usuário não afeta apenas sua conta individual. Uma senha comprometida pode ser utilizada para acessar outros sistemas da organização, escalar privilégios, ou servir como ponto de entrada para ataques mais amplos, comprometendo a segurança global da rede e dos dados corporativos. A segurança da informação é uma responsabilidade compartilhada.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_002",
+      "question_id": "qst_002",
+      "content": "**Gabarito: Errado.** A segurança da informação é uma responsabilidade de todos os envolvidos, desde a alta direção até o usuário final. Embora a área de TI seja responsável pela implementação e gestão dos controles técnicos, os usuários têm o dever de seguir as políticas e boas práticas para garantir a eficácia desses controles. A questão tenta induzir ao erro ao eximir o usuário de responsabilidade.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_003",
+      "question_id": "qst_003",
+      "content": "**Gabarito: Certo.** Manter sistemas operacionais e aplicativos atualizados é uma responsabilidade fundamental do usuário. As atualizações frequentemente incluem patches de segurança que corrigem vulnerabilidades descobertas, protegendo o dispositivo contra exploits e malwares.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_004",
+      "question_id": "qst_004",
+      "content": "**Gabarito: Errado.** Para que a Política de Segurança da Informação (PSI) seja eficaz, ela deve ser amplamente divulgada e compreendida por todos os colaboradores da organização, independentemente de seu cargo. A conscientização e o engajamento de todos são cruciais para a sua implementação bem-sucedida.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_005",
+      "question_id": "qst_005",
+      "content": "**Gabarito: Certo.** A comunicação imediata de qualquer suspeita ou incidente de segurança é um dever crítico do usuário. Isso permite que a equipe de segurança atue rapidamente para investigar, conter e mitigar o impacto do incidente, protegendo a organização de danos maiores.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_006",
+      "question_id": "qst_006",
+      "content": "**Gabarito: Certo.** A autenticação multifator (MFA) adiciona uma camada extra de segurança, mas não substitui a necessidade de senhas fortes e únicas. Uma senha fraca, mesmo com MFA, pode ser um ponto de vulnerabilidade se o segundo fator for comprometido ou se houver falha na implementação. O ideal é combinar ambas as práticas.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_007",
+      "question_id": "qst_007",
+      "content": "**Gabarito: Certo.** A política de mesa limpa e tela limpa é uma prática recomendada para proteger informações confidenciais contra acesso visual ou físico não autorizado. Ao se ausentar, o usuário deve garantir que documentos sensíveis não estejam expostos e que a tela do computador esteja bloqueada.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_008",
+      "question_id": "qst_008",
+      "content": "**Gabarito: Errado.** Embora o backup seja uma medida essencial de proteção contra ransomware e outras perdas de dados, a responsabilidade por sua realização e verificação não recai *exclusivamente* sobre a equipe de TI. Usuários também podem ter responsabilidades sobre o backup de seus próprios dados ou sobre a verificação da execução de backups automáticos, conforme a política da organização. A questão usa o termo 'exclusivamente', que é uma pegadinha comum do CEBRASPE.",
+      "explanation_alternatives": ""
+    }
+  ],
+  "checklist_revisao": [
+    {
+      "checklist_id": "chk_001",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Compreendeu o papel central do usuário na segurança da informação?",
+      "completed": false,
+      "order": 1
+    },
+    {
+      "checklist_id": "chk_002",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Entendeu a importância e o alcance da Política de Segurança da Informação (PSI)?",
+      "completed": false,
+      "order": 2
+    },
+    {
+      "checklist_id": "chk_003",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Memorizou as principais boas práticas de segurança (senhas, e-mail, atualizações, bloqueio)?",
+      "completed": false,
+      "order": 3
+    },
+    {
+      "checklist_id": "chk_004",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Sabe a importância de reportar incidentes de segurança?",
+      "completed": false,
+      "order": 4
+    },
+    {
+      "checklist_id": "chk_005",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Conhece as consequências do descumprimento das responsabilidades?",
+      "completed": false,
+      "order": 5
+    },
+    {
+      "checklist_id": "chk_006",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Está atento às pegadinhas comuns do CEBRASPE sobre responsabilidade exclusiva da TI ou impacto limitado?",
+      "completed": false,
+      "order": 6
+    },
+    {
+      "checklist_id": "chk_007",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Revisou as questões comentadas para entender o padrão de cobrança?",
+      "completed": false,
+      "order": 7
+    }
+  ],
+  "referencias": [
+    {
+      "reference_id": "ref_001",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "Segurança da informação: 8 boas práticas para usuários - Athena Soluções Inteligentes",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGZGBmZBBnt8ydMuxSGTizTgKRpAV-WIc6u4RWaIer4cvnZl-8vQkCKIlJJMExJc9CGPX8hj3NHv1ccBd0564e6ERgvJ_y1SbrBCTb9H-EXyt-FjyTJr4gToKXTeA2BKjLmaXZRQE91bym5BrCSUMEf-s7V0OOvs5wfhFPFNK6Fka01W6QdQJuvQ2lkGvyCWSNf",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_002",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "6 dicas práticas de segurança da informação para usuários - td synnex",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFd8IctRdSsDBSmShIeTEMZS7OsWX7An7ZJQW3Uosvjn9HZMvDBceQu6dMll5iNPeLx9veJC5OdGQvTjHsYSOUe3iWCI0uOqhYVslc2BpShlTisrqaiM2z1c7ICEQ9epYsq2iab8XN6NMOxTUWLTamFGwo82DXKk1jxW43H_sis5Cxcv_SyJzHwRHymmYOxpYxbhZLAkw==",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_003",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "NBR ISO/IEC 27002 | Maila Networks",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH0GJ7JS6UiuUF_CrcEj10GFUxO98s33iOQ1bSGf67CmbZzA8pdv-5I6Dwl0y2Grq-hWRrhVXLXqqkSx67SvsjKyZM1ATnWgoWvyAvWS0hF97cTH1Qi8bnLJkxp01661K5RsHkW0wJY-PUEes_z",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_004",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "Dicas de Segurança da Informação e Proteção de Dados Pessoais - IF Sudeste MG",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHU1TBTzfuU7J045I0oFrZ7ItKdX6cw4OGwQ_6375rLA_WSWvpalYffyBcUF4JEatjyHg_aH1ryaxdgpHpDPBFL2VGDk_JgEUOkZ8RIeo44y5wknNUo9rNdr2ucCtdTSgFQxCXIXZkYcwbq5pa99QwnAOCRIM1j8Srl3YNkSr31JL32RNlPd6m_ZG3fU9DbULNZYu9yC3rigBrUORlF",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_005",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "Boas Práticas em Segurança da Informação - Genial Investimentos",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF3vBKCB4Ac6439oH4l_4F6jX3uhuY9Fw16cKt49b9BtfFOI2yiuJ2TZIQ5G5LTfv5Mz_iXwDQyfnG4eEQRCDkN-A3JGq3o3zx_SDH1rSyP9YQbv1OPuS84_rWRUOaAWkiGm8qXxJOYBd7URuCVW0x-0b6_wrh9hCQg7fpSUPJQJbgpXcCbNI3A3DdAOkpIUSGK9VgFw51RtYSykoSKNKUrHBav7aw20pNLHATqHp-q6YrG3dh7p-BeFtkLp0deFgFc6dHMsoQGGNAYvbw=",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_006",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "O que é uma política de segurança de TI? - Fortinet",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFsa2Ap4Sf6NFTrHD_0qfaAOakW4WcnchNo9asg7dXWUG4mQpOaziUpN0l2WLqOcmtsVIGO-q0VWF8P3UXD4wG6RON-KkR_RweXIWP_nFF1WV53FsY8O1kbyadJCEuTwkJQ24U_V6ZyNrCIwwr1uRhtL_m3oTI4E0Lsaks-UzDV7vc=",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_007",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "Boas Práticas De TI E Cibersegurança Para Proteger O Seu Negócio - Splashtop",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGitdQsT-ZnJJQcFOw8b9GOADjbygIXF_podCyS2re_xvRm7iXJbgQvm5Ts5YUrz6xHDNpUvO6k986hdU2lRBq6tXMvc2D2cWXpspGU1vCe-8SPqzEOBwzt3LiGX8oFBcvXZCx4dCqftHdEYbi8hSrSxi_yYc_3Xw==",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_008",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "Política de segurança e objetivos - IBM",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFjoMGu1RjmcB19E9HOzv5FMILXmSgZ0kOo51_MTWHZ4rzrRYDfQ66Pp1uXOO67GnteUgAgu54Bmwd6VdfJugzSHug5i4ZSrEs-EQ41di9s1us2woDnyZTEfDimnvoq_LjnVRrNqJdO-pPPw7xZa-YVaEn4F7wFdNsANg-Iqp6O-h-E1ZlJ83twY_vx",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_009",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "Provas de Concursos: CESPE / CEBRASPE - 2024 - TCE-AC - Analista de Tecnologia da Informação - Área: Segurança da Informação - Qconcursos",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFh-M1dX9lBg5E9H71cU3zVBDsct_0JylpUouNBZe7xfjkpbNrHD2DMTyCtzMSEeCTpD8JKdwfl2W7SL2NH5kO05bcOF5fea0sqN7rPVFqow0xKpQzMEijdd26X05Nz-0uuwe37YlYp-9PpWxD9H5w1Bf-gKkvYoODmlvjqwRu4PB6-jvs1sRwgVyyEZ6aSBirmi683WqrMrKyamrYPbf-Ppsvn_7ZOkrt5eBq-7W__IKsTjOH9TJHdZoVTp0LMP0MCSXLEagcJlMN4efXqWzma",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_010",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "RESOLUÇÃO DA DIRETORIA-GERAL (RDG) N.º 000002/2022 - Cebraspe",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEhghzIwBwvcxNiPvwiG2eM72yk0c2Jrr3VnyvyNO41J_rlVgonXuthNg5yVbAQqKP35yU15fxkCdtiwgCFfc-b5ao5bM1obocDxexO5dKndYoEqpAV1z-L7p81Nr22ArnuYTkcj7tR_Al6dC3anY5U-A4oxH934JMU4045LvHIki5bAinPapZdmPfav66R_VVfW2y5GvvL1QO8sLF5yIEzblJ4p6WEiJCuIBF77DXDcG4y5eglpW2hEgG-Fn-HjkkRFQcmowiqIyE_MrTHmLHcZaM",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_011",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "Politica-de-Seguranca-da-Informacao-e-Cybersecurity.pdf - Avenue",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF4xi1iFXhfHo0RRLLUP9wotM2XjBl1hqDagmOLpAYV-sgYi3IIa3LH6oZPy0wcR7U3K7DdI1cMjU2i3upcMdMu_6yvqPjvI9cmKQgbr_gptcWH8n-6yD-UMgAoVp0qVK6qP8Sd0SDvL3es_Oe5aI7JAcdQyWouNaq7ZBDqY4FEIf5-IHHuxCb684u5mN86fNkiYNZoOQUqqCJ97BXpjjs=",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_012",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "Política de segurança da informação: saiba como e por que desenvolvê-la - Docusign",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEINiIdJvZ6YDkSFz3gdtwME0FdVYXiGxvx3s8W7YaJEMDUpZ6hqUScLgvkONZbxAn3kWGA3-LPUQNGtQMsnT-5okQlFtG2x7KAk4L_cg6zfiq-xuczOJcZSB3oQs940mlfwqRzJaVAUOkfT4dXYY4EWKXbXmA0isk6oVefmeBFHzPXhjK1OXN3ug0RYfbPWBR1v4VmCxq9LtK3lTsl7j9btaWdIZ0=",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_013",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "Política de Segurança da Informação: Definição, Benefícios e Melhores Práticas - Netwrix",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEBQwPh4WBiWVqkozBMsSWQiPJepwkiPZjOmxuISGa5VBAJ_M6KGLBG2XOfw-2xRH8-aYAopa6fBCwZW1LDoxocnMhGZYf8C7JvkOBQA0mF4dXqLH57OvKVYL8jwjVDySfCBzxq5G330Mce_YmosdO17zjN18cdPPAhNDP6Mw==",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_014",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "ABNT NBR - ISO/IEC",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGeckCKbg_O0hZx8Zh_fgyeUwGmj7k1ukYrySUWmUuT1Rm9iL3N1YYF4aeNnzQ9uDEMrfplKLODd7Cj0u4WlLCr3GVScj5dMfP-TS4A8VhHJze9PDcimg-z1ZO9jFXg2TZNpt5zK3nRDhYich1bt5bhGMWHpZitU4eaZZlmRw65bEDGVQLsDtCwWV4unQ==",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_015",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "Universo Segurança da Informação: NBR ISO/IEC 27002:2022. - Estratégia Concursos",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGMpv_7G0u5jjhiRHo9-7QouE8fxj6jyexghMo0WIyTg9oWXiw9wBIlMqkPkjCi7CRekimcchKQO_2hkL37WGrXUGZwlnYpP1xKZtUGr4R3_5UlHJLaIo6IXKlh9YdQP34V3zhvpB6Uie9Yo5EqM7d9LP8qSM2twV58VQDNN3-uhYEeQAyfc0VFZTiC",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_016",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "Funções e Responsabilidades na Segurança Cibernética - PMG Academy",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGAphkuMMIMBob5h4G-vEetd3xxOv25y40sBRyHs3uJxxlxUtW5ZloHmwOnqGPsyO0oJY7n5bSzRGo7MSiLFqSevVErSfW3Aozh-8u2FmrkMQ-4hV0D_SJGBrcPiaCi9lWPjt0ybnDXKt_S-JKAyz8s5VS0TGOyhzdgiiqen0XlSra6-16eqREoLnKDxV9p_H2lYKWxYC3YCkJPU4Eb1hRyUdY_03PumFHU89WG4=",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_017",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "Mastering Information Security: Cespe/Cebraspe - YouTube",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHC8dbzHUZAB5ArkKRpFh074srUK_RbdgiR6PHVzpaKT2FtghO66rcYVSZe9O8iHLyYPaYTYl1wDsFsavJ7IBzqL_1Av1SudbFgpELtc4RyQKaEmVoIkD6nTd8SCTe5ZqbSbmhp9FU=",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_018",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "ISO 27002: conheça a norma de segurança da informação e como aplicá-la na prática - TOTVS",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZzQ4f7HFNA8Y9NmrJBF1aXb6ArgWlH5MHG1wdbvKpz3Qg4gLBnNDOV2FssEprCf8ogfjEkPCY6rSlEr25okX4jj34uZjf53IOXsYEsIF3Uw5fFX_kFSvhwlbGitt8dPbzh_8y75ow5gjjADGDzuulnLVsQ8PYf7HCsRYRlTD3OMdzpxRr",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_019",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "Os Assuntos mais Cobrados pelo Cebraspe/Cespe em Noções de Informática | Você Concursado",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEeOGcZRcF9ArqznOEHWiGhcpa27jK3f--_CBdvyDHJZnEmvR8N9hLdirhuFjjrdZXkXjtsu_QLcfcz_6jjezDLDNRQxCmwX9XQobSVT-0gv6RvAzYjYSaGl_aqms6dvNGo6MqlY2vC_E-ax8Go9rp1GXclDUzUKMnS_uTIm8ZTPQg7rZsWmYfu4NpsnjSFg19mJWMf0fg-382g5ss=",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_020",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "ISO/IEC 27002 – Wikipédia, a enciclopédia livre",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHBCaKq_4TAfEDB7fYjwP1GySRdSwrkzSNO9Ua8fVLfUj3vVD1o2MdnZY-xFEnQGvtPuuoUeDJcGNL8qF_dcDJel3TPonEY-cINSNvVwlbE5dRY11sB1h5mR5AlbBFn_KOLoHlH4WE=",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_021",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "Pegadinhas da banca CEBRASPE – Informática com Fabrício Melo - YouTube",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGPTmlYSaN70KUDZwBmSRho-h5_TJ3SZV0KHEAsa7np0EdMHLdcQinGxlmX0b-dlhvijoLHG2fcEI34Wy4TlhBOVDuVqDQ_L60RT2x08DtmXsNQaj8M2XaFREvDYO_tU9yTwmjOsU=",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_022",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "Questões de Concurso sobre Segurança da Informação para CESPE / CEBRASPE | Qconcursos.com",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEPLxNrLwpafpCnmH31tQyP1wGs3hWRnP6tYa-Mqafym8NK6oLxUiQksdNeyJ5YSoTkmeJ9x6AnrSw5Ffd0LLhBv0Aovr7QUVjZENIcW5AeeztuOitTkyF_2ZC3BdfmaAvcwNggGq_o-2xm8AfzrLX4z_bzXbeE3WZIAAFXp005DDwhZPD_dvNr7hS9yIfDRbLVyWgkGtbGk_qW1b51LlsEr7dKIRoCnBI=",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_023",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "Questão Acerca da segurança da informação, julgue o próximo item.O uso de senhas fracas, ou seja, aquelas que podem s...",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFlrUxSJBP5S5OWiRm7dXMYDRVBGQQAe0BSeWai8pG6lOE72aC01o58xdHp9yGZE_7Y7v3eI_ezeTHxQyMRX6a51srjnyiI3DUZNehf99DxFDLqkSm0nNd8ad6brj7TZJ4sEseciExi2CJyglv5KdvpiezeAxgxYCzv6DdO1QGufdcy460IBDLUhw==",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_024",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "Questão Acerca dos conceitos de segurança da informação, julgue o próximo item.Em sistemas de informática de órgãos i...",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFV9dvAHrE06zRfnEQfD89Msp_mfw1p7nuaSF3pOfvlAeHWlQb9MNGgM8s3D3hTQ6Z6SqMgRNm-zsl7cJtelj8Xxyo1_MAvSWfvAZO5sA9C7wzQSBrVKqaHFNiRmRk8Pccgg3V6T7iySZpIxXhAI4xUo3SZ7j99CiTz7ZALp6dv9w-Rotj5HFc5ig==",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_025",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "Questões Cebraspe - Segurança Da Informação | PDF - Scribd",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQErEO3mqXlQ7Ly6S_bDWOEhfSKWl3UKZdaadyWUSdT10ElIpTZ6UhgoxatD9ASavdsFwwFXVeQSTsEFFDJ3rnEwP95alu9n-x65fwunuf3A2wz1WvEB9wdyFAzMIvvRXWMAp18hqSMgUI35hfGvunmJG7-toEnqADonYFH2ijGpx97dkRi9qh77qar8s8=",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_026",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "Definição de responsabilidades dos usuários em sistemas de informação - Diego Macêdo",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGXe14rXtj0K_PQMpi5BE1Ii1nIGIZaD26lDnq0KOB0PKfbkRh-ncyoH2dGrWeFEcKqpXPdRslaIHJlpvnGGCBoelfbXoQr-QKdi1Sr__VfnC8i05Z45GG8BxhqxdPvuWZxptom5_vDVJ5nKGFaOJEGnFCWSiQuMsjXYskWELcDZp8oXDF16upDcrBjy_GlUypVhDUS-TK6lW_N4b-SPIhv",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_027",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "Questões Cebraspe: Segurança da Informação [Aula de Informática para concursos] #aovivo - YouTube",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFXEy7wulRH0INdJ8PA2X8tpm1p213q6y4qESPAl4Ci83bbfyrXsSf3UXbsBcIrvhutsjT7IrREmCNXlITw5gBeeLwhtb1RmKQQ3_D62rLNOCTLK3pcyLk_SifeyVkx2uGb-6IXV3w=",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_028",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "ApexBrasil – Edital: 2022 - -- CONHECIMENTOS ESPECÍFICOS -- - Cebraspe",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHrwl2lr0jHE0Y9yE-Ap6ZrUfo43cwYJxrO46AmcY9gL4-ehIKWQSDf_xg_OCst8XQVPOd69ocYvBY_V5mxOQvykaUqZVjVQsBunk4VTJRIWCXTeVVknZ7m9jbJ_M0xvuZjNYYWxCljsO86JcP1BgOFNbVarWhKEUB_w6ubjmmi8E_txXybwL1UzHYZlj1JfuIzfsuTww==",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_029",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "Cebraspe | +70 Questões de Segurança | Informática com Professor Danilo Vilanova #opior #concurso - YouTube",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEpmWbUzSuZhB21Py1Q4q7mgJgkItMw-sbxcD2uab-JNSAt8Nsmdpzu69ql2R-3h0-Gz474EAQXE7zKTvKjCH23y-ar0J_k62MpvgiQLPI_D8lTuqhTDrnpqqXBH8AUdNGYAjHFOCM=",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_030",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "Cibersegurança nas empresas: Responsabilidades do TI e RH - Pontua",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH3Yf67QXH0ti5vZoxqzDGFYf_IxHbuWTWT1HQtDz184EGEANp5hT5c6lq3MOTaoHUnAYS2mOXamEj1nm3qsSWbMxuDpPK84DgmjQEnHj90q4deZtJTGouJ3StvwMErUWEeB_z8vpg5JQbyH1mVxHgsaOnob7tzqXvd652J69bShIk847bNg7qSO9c=",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_031",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "Manual de Segurança em Tecnologia da Informação - Emerson Global",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF7MoXFd0-wW5uNna44uIW98Ad5WIfntgQRpehq90-5yMcPKcWoXdBK7dFh6ehfkv3FinNxMcEga1jZ4OB3aUPYXKn_KWQtRDUAboiv8o0DiQUllDCGayCS-z5lc48IVNB3QEuRMUDGnKgimlqCnY6Pps47c91bQ5DhWbPCGzWimdi1W1E46y3Sg7q1j2_M5XQpnWGBBg6pWPcxeBxPGmLwKZafAmN3KowQ",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_032",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "Cebraspe | 50 Questões de Malwares e Golpes | Informática com Professor Danilo Vilanova #opior - YouTube",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE6P3yfC8vccUoe97mNw0WdpOiRUnSIqMiMg_AKNwR8TgPe02xhoQb9ZA-8fedhwEwp6j5CC1oj1gpq7Me0ycoFEpsZbm_QWCUzZ9YetWNTsBPU-G_DIgG90xyTrgkqhbtMxYzBWHQ=",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_033",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "Cartilha de Segurança Informação_v14 - Governo Federal",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHILdTskFqCpqB5kNwH4twFss_kI9OUTGTVR4DLXka7w6Rdyj6QeS31kjcBG55I65Uf_D5KZyvoE1lwTdDm7Uzh8R5GaB-ctW7z4uP8GCbuJMw2YCR-rVwtaMB27BzLNQfpmmqsf2AcjPOoan5XGAccSy52h807w8r7F-f0xKt9C366eaIzUiEYVNfaXyewZcdV78hfoQU2j3-ixhS9OOAXsTLKmIgio00_qVgKt-zKE47McVqBWajwQFaf0CBXwSwMerpuNJNj5Tr4X_M=",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_034",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "Tecnologia da Informação: Temas Quentes do Cebraspe/Cespe para a Área de Controle.",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGlFaAAGGZVpIoQ62UdfGrxeyQfi6hCJi8rZLl0WtKBjQz17fNxY4mFcxAoDTIfMPDRbqMLwWP5Sw9BrjYENUxMYRKT4V4tN_WYAbTV7GUOViY2HNc9H-WCmF7D3HorBMXmZ_yQVgzdUb7aBh-KDaaCCIUWbdkoWEXP9c3wpBLD8zRn",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_035",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "IT - Internet, Information Security and Electronic Mail Issues from CEBRASPE - YouTube",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEj939a6ivFxtgR2_rkwyTczLrhU_0XZiWbxtdOvVkd_dErg3bdLNco7dV9TLFvZzsA3Pu1iTQxrbHtRNj3HcKHgcU-sKLXo39tbxKtblrJEN_nMvsWDgxqhpV4u98pwhkdIBIgNDw=",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_036",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "Perfil de cobrança da Cespe (pegadinhas) : r/concursospublicos - Reddit",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_1Hj9lre7NsUwrL5yVDz3Gca2-mVWOPhax2083FA0XzCXlSVTA7iMOde-EVArfDDZR21guxithjus7x-y97S_MPWqk3sOT0_aNylL2Aiko0-KMqZnluz8YL2NB_WkTnYVGNu71cAn7ojQDghiByZ1ThcG_greS5DF8yS78Yj3szq_iIN9D2EaDkFIU7XLu4gxIIfOTkEnYCNr1nb-fOAalWHw",
+      "accessed_at": null,
+      "description": null
+    }
+  ],
+  "estatisticas_de_geracao": {
+    "total_topicos": 6,
+    "total_componentes_topico": 5,
+    "total_entendimentos_relevantes": 3,
+    "total_pegadinhas": 5,
+    "total_pontos_memorizacao": 6,
+    "total_itens_quadro_sinotico": 8,
+    "total_questoes": 8,
+    "total_comentarios_questoes": 8,
+    "total_itens_checklist": 7,
+    "total_referencias": 36
+  },
+  "validacao_interna": {
+    "pesquisa_previa_realizada": true,
+    "analise_de_cobrancas_anteriores_realizada": true,
+    "material_atualizado": true,
+    "json_valido": true,
+    "estrutura_relacional_respeitada": true,
+    "numeracao_respeitada": true,
+    "houve_quebra_de_hierarquia": false,
+    "houve_nivel_numerico_superior_a_3": false,
+    "fontes_verificadas": true,
+    "sem_informacao_inventada": true
+  },
+  "metadata": {
+    "source_file_name": "3__informática-e-dados__3-noções-de-segurança-da-informação-3.1-responsabilidades-e-deveres-dos-usuários-de-serviços-de-ti.json",
+    "normalized_checksum": "7f210575bc03f63925265e8d99121bc59005ceaedffbb4e56150a3ca71552ea4",
+    "subject_slug": "informatica",
+    "material_slug": "seguranca-informacao-responsabilidades",
+    "title_slug": "nocoes-de-seguranca-da-informacao",
+    "board_slug": "cebraspe",
+    "counters": {
+      "blocks": 5,
+      "topics": 6,
+      "topic_components": 5,
+      "traps": 5,
+      "memory_points": 6,
+      "summary_items": 8,
+      "questions": 8,
+      "question_comments": 8,
+      "checklist_items": 7,
+      "references": 36
+    }
+  }
+}

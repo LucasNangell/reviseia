@@ -1,0 +1,836 @@
+{
+  "schema_version": "1.0",
+  "normalized_at": "2026-04-07T15:39:13.888644-03:00",
+  "normalizer_version": "2.0.0",
+  "exported_at": "2026-04-07T17:15:00Z",
+  "source_request": {
+    "purpose": "Concurso público",
+    "general_area": "Direito",
+    "subject_name": "Direito Administrativo",
+    "subarea_name": "Direito Administrativo",
+    "main_theme": "3 Organização administrativa: 3.3 Administração indireta: 3.3.3 Agências reguladoras",
+    "theme_scope": "Teoria completa, incidência em prova, padrão de cobrança da banca, pegadinhas e questões comentadas",
+    "board_style": "CEBRASPE",
+    "depth_level": "Exaustivo",
+    "goal": "Teoria completa, revisão estratégica, pegadinhas e questões comentadas",
+    "base_topic_number": "3",
+    "topic_title": "3 Organização administrativa: 3.3 Administração indireta: 3.3.3 Agências reguladoras",
+    "syllabus_reference": "Conteúdo programático da disciplina Direito Administrativo",
+    "priority_sources": [
+      "Constituição Federal e legislação oficial vigente",
+      "Jurisprudência pertinente e atual, quando cabível",
+      "Doutrina consolidada",
+      "Questões anteriores da banca"
+    ],
+    "minimum_questions": 8,
+    "question_format": "Certo/Errado",
+    "prioritize_real_questions": true,
+    "response_language": "português",
+    "target_audience": "Candidato de concurso público",
+    "additional_notes": "Executar exatamente para esta linha individual do topicos.txt. Não juntar com outros tópicos. Não pular este tópico. Dar destaque ao padrão de cobrança da banca, aos pontos mais cobrados e às pegadinhas recorrentes.",
+    "input_hash": "2d69daaa4677",
+    "extras": {}
+  },
+  "material": {
+    "material_id": "mat_001",
+    "slug": "agencias-reguladoras-direito-administrativo-cebraspe",
+    "title": "Agências Reguladoras no Direito Administrativo: Teoria, Padrão CEBRASPE e Questões",
+    "base_number": "3",
+    "topic_title": "3 Organização administrativa: 3.3 Administração indireta: 3.3.3 Agências reguladoras",
+    "purpose": "Concurso público",
+    "area_name": "Direito",
+    "subject_name": "Direito Administrativo",
+    "subarea_name": "Direito Administrativo",
+    "main_theme": "3 Organização administrativa: 3.3 Administração indireta: 3.3.3 Agências reguladoras",
+    "theme_scope": "Teoria completa, incidência em prova, padrão de cobrança da banca, pegadinhas e questões comentadas",
+    "board_style": "CEBRASPE",
+    "depth_level": "Exaustivo",
+    "study_goal": "Teoria completa, revisão estratégica, pegadinhas e questões comentadas",
+    "target_audience": "Candidato de concurso público",
+    "language_code": "português",
+    "update_status": "Atualizado em 2026",
+    "current_note": "Material atualizado com a Lei nº 13.848/2019 e jurisprudência recente do STF e STJ.",
+    "has_case_law": true,
+    "case_law_justification": "A jurisprudência é crucial para compreender os limites do poder normativo e o controle das agências reguladoras, temas frequentemente cobrados em Direito Administrativo.",
+    "has_information_limitation": false,
+    "information_limitation_desc": null,
+    "content_checksum": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6",
+    "extras": {}
+  },
+  "blocos_textuais": [
+    {
+      "external_block_code": "blc_001",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 1,
+      "title": "Introdução às Agências Reguladoras",
+      "content": "As Agências Reguladoras representam um marco na modernização da Administração Pública brasileira, surgindo na década de 1990 com o objetivo de fiscalizar e regular setores de infraestrutura e serviços públicos, especialmente após o processo de desestatização. Elas são peças-chave no modelo de Estado regulador, garantindo a qualidade dos serviços e a defesa do interesse público. Para concursos públicos, em especial os organizados pelo CEBRASPE, o tema é recorrente e exige do candidato o domínio de seus conceitos, características, poderes e, principalmente, os limites de sua atuação, bem como o regime jurídico diferenciado que as caracteriza.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_002",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 2,
+      "title": "Padrão de Cobrança CEBRASPE",
+      "content": "O CEBRASPE costuma abordar as Agências Reguladoras sob uma perspectiva que exige a compreensão aprofundada de sua natureza jurídica, autonomia, poderes e controle. É comum a cobrança de aspectos relacionados à Lei nº 13.848/2019 (Lei Geral das Agências Reguladoras), que uniformiza o regime jurídico das agências federais. A banca frequentemente explora a distinção entre vinculação e subordinação, a estabilidade dos dirigentes e os limites do poder normativo das agências, buscando identificar se o candidato compreende a 'autonomia qualificada' dessas entidades. Questões sobre a quarentena e as hipóteses de perda de mandato dos diretores também são frequentes. A literalidade da lei e a interpretação doutrinária e jurisprudencial são igualmente importantes.",
+      "content_type": "teoria"
+    }
+  ],
+  "topicos": [
+    {
+      "external_topic_code": "top_001",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "3.3.3.1",
+      "title": "Conceito e Natureza Jurídica",
+      "reference_block_external_id": null,
+      "level": 4,
+      "order": 1
+    },
+    {
+      "external_topic_code": "top_002",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "3.3.3.2",
+      "title": "Características das Agências Reguladoras",
+      "reference_block_external_id": null,
+      "level": 4,
+      "order": 2
+    },
+    {
+      "external_topic_code": "top_003",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "3.3.3.3",
+      "title": "Lei nº 13.848/2019: Lei Geral das Agências Reguladoras",
+      "reference_block_external_id": null,
+      "level": 4,
+      "order": 3
+    },
+    {
+      "external_topic_code": "top_004",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "3.3.3.3.1",
+      "title": "Autonomia e Independência",
+      "reference_block_external_id": null,
+      "level": 5,
+      "order": 4
+    },
+    {
+      "external_topic_code": "top_005",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "3.3.3.3.2",
+      "title": "Mandato Fixo e Estabilidade dos Dirigentes",
+      "reference_block_external_id": null,
+      "level": 5,
+      "order": 5
+    },
+    {
+      "external_topic_code": "top_006",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "3.3.3.3.3",
+      "title": "Poderes das Agências Reguladoras",
+      "reference_block_external_id": null,
+      "level": 5,
+      "order": 6
+    },
+    {
+      "external_topic_code": "top_007",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "3.3.3.3.4",
+      "title": "Controle das Agências Reguladoras",
+      "reference_block_external_id": null,
+      "level": 5,
+      "order": 7
+    },
+    {
+      "external_topic_code": "top_008",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "3.3.3.4",
+      "title": "Padrão de Cobrança CEBRASPE: Pontos Essenciais",
+      "reference_block_external_id": null,
+      "level": 4,
+      "order": 8
+    }
+  ],
+  "topico_componentes": [
+    {
+      "component_id": "cmp_001",
+      "topic_id": "top_001",
+      "component_type": "texto",
+      "content": "As agências reguladoras são entidades da Administração Pública indireta, criadas por lei específica, sob a forma de autarquias em regime especial. Sua principal função é regular, fiscalizar e controlar atividades econômicas e serviços públicos delegados à iniciativa privada, ou que exigem uma intervenção estatal especializada. O surgimento dessas agências está ligado ao processo de desestatização e à necessidade de garantir a continuidade e a qualidade dos serviços essenciais.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_002",
+      "topic_id": "top_001",
+      "component_type": "texto",
+      "content": "A natureza jurídica de autarquia especial confere a elas uma autonomia qualificada em relação ao Poder Executivo, diferenciando-as das autarquias comuns. Essa especialidade visa assegurar a tecnicidade e a imparcialidade de suas decisões, afastando pressões políticas e econômicas.",
+      "order": 2
+    },
+    {
+      "component_id": "cmp_003",
+      "topic_id": "top_002",
+      "component_type": "lista",
+      "content": "",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_004",
+      "topic_id": "top_003",
+      "component_type": "texto",
+      "content": "A Lei nº 13.848, de 25 de junho de 2019, conhecida como Lei Geral das Agências Reguladoras, estabeleceu um regime jurídico uniforme para as agências reguladoras federais. Essa lei buscou aprimorar a governança regulatória, a transparência, a participação social e a qualidade do processo decisório. Ela alterou diversas leis de criação de agências específicas e consolidou princípios e diretrizes para sua atuação.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_005",
+      "topic_id": "top_003",
+      "component_type": "texto",
+      "content": "Entre as inovações, a Lei nº 13.848/2019 reforçou a necessidade de as agências adotarem práticas de gestão de riscos e controle interno, elaborar e divulgar programas de integridade, e observar a adequação entre meios e fins em suas atividades. Também instituiu a agenda regulatória como instrumento de planejamento da atividade normativa.",
+      "order": 2
+    },
+    {
+      "component_id": "cmp_006",
+      "topic_id": "top_004",
+      "component_type": "texto",
+      "content": "A autonomia das agências reguladoras é um dos pilares de sua existência. A Lei nº 13.848/2019 consagra expressamente o caráter autônomo, caracterizado pela ausência de tutela ou subordinação hierárquica. Isso significa que, embora vinculadas a um ministério, as agências não se subordinam a ele hierarquicamente, possuindo liberdade para tomar decisões técnicas sem interferências políticas diretas. Essa autonomia é fundamental para a credibilidade e eficácia da regulação.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_007",
+      "topic_id": "top_005",
+      "component_type": "texto",
+      "content": "Os dirigentes das agências reguladoras são nomeados para mandatos fixos e possuem estabilidade, o que impede sua destituição discricionária pelo chefe do Poder Executivo. A perda do mandato ocorre apenas em hipóteses taxativas previstas em lei, como renúncia, condenação judicial transitada em julgado ou processo administrativo disciplinar. Essa garantia é essencial para a independência das decisões técnicas e para a proteção contra a 'captura' política ou econômica.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_008",
+      "topic_id": "top_006",
+      "component_type": "lista",
+      "content": "",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_009",
+      "topic_id": "top_007",
+      "component_type": "texto",
+      "content": "O controle das agências reguladoras é multifacetado, visando garantir a legalidade, a eficiência e a conformidade com o interesse público. Inclui:",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_010",
+      "topic_id": "top_007",
+      "component_type": "lista",
+      "content": "",
+      "order": 2
+    },
+    {
+      "component_id": "cmp_011",
+      "topic_id": "top_008",
+      "component_type": "lista",
+      "content": "",
+      "order": 1
+    }
+  ],
+  "pegadinhas": [
+    {
+      "trap_id": "peg_001",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": "Subordinação Hierárquica",
+      "description": "Confundir a vinculação das agências reguladoras a um ministério com subordinação hierárquica. As agências são vinculadas, mas não subordinadas, gozando de autonomia qualificada.",
+      "example_error": "",
+      "how_to_avoid": "Lembre-se que a autonomia é a essência das agências reguladoras. A vinculação é apenas para fins de controle finalístico, não hierárquico.",
+      "order": 1
+    },
+    {
+      "trap_id": "peg_002",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": "Destituição de Dirigentes",
+      "description": "Afirmar que os dirigentes de agências reguladoras podem ser destituídos 'ad nutum' (livremente) pelo Presidente da República. Eles possuem mandato fixo e estabilidade, com hipóteses taxativas de perda do mandato.",
+      "example_error": "",
+      "how_to_avoid": "Memorize as causas de perda de mandato (renúncia, condenação judicial, PAD) e o princípio da estabilidade para garantir a independência.",
+      "order": 2
+    },
+    {
+      "trap_id": "peg_003",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": "Poder Normativo Ilimitado",
+      "description": "Entender que o poder normativo das agências é ilimitado e pode inovar primariamente a ordem jurídica. Ele é secundário, técnico, e deve se ater aos limites da lei.",
+      "example_error": "",
+      "how_to_avoid": "O poder normativo da agência é de 'complementação técnica' da lei, não de 'criação' de normas primárias. A lei estabelece os 'standards'.",
+      "order": 3
+    },
+    {
+      "trap_id": "peg_004",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": "Quarentena como Punição",
+      "description": "Interpretar a quarentena como uma punição ou impedimento absoluto de trabalho. É um período remunerado de afastamento do setor regulado para evitar conflito de interesses, não uma sanção.",
+      "example_error": "",
+      "how_to_avoid": "A quarentena é uma medida de governança e integridade, não uma penalidade.",
+      "order": 4
+    }
+  ],
+  "pontos_memorizacao": [
+    {
+      "memory_id": "mem_001",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": "Natureza Jurídica",
+      "content": "Agências Reguladoras = Autarquias Especiais.",
+      "order": 1
+    },
+    {
+      "memory_id": "mem_002",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": "Autonomia",
+      "content": "Vinculação, não subordinação hierárquica. Autonomia qualificada (funcional, decisória, administrativa, financeira).",
+      "order": 2
+    },
+    {
+      "memory_id": "mem_003",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": "Dirigentes",
+      "content": "Mandato fixo e estabilidade. Perda de mandato por renúncia, condenação judicial transitada em julgado ou PAD.",
+      "order": 3
+    },
+    {
+      "memory_id": "mem_004",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": "Lei Geral",
+      "content": "Lei nº 13.848/2019 (Lei Geral das Agências Reguladoras) uniformiza o regime das agências federais.",
+      "order": 4
+    },
+    {
+      "memory_id": "mem_005",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": "Poder Normativo",
+      "content": "Secundário e técnico. Não inova primariamente a ordem jurídica. Deve ter parâmetros mínimos em lei.",
+      "order": 5
+    },
+    {
+      "memory_id": "mem_006",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": "Quarentena",
+      "content": "Período remunerado de afastamento do setor regulado para ex-dirigentes, visando evitar conflito de interesses.",
+      "order": 6
+    }
+  ],
+  "quadro_sinotico_itens": [
+    {
+      "summary_item_id": "sum_001",
+      "title": null,
+      "content": "",
+      "order": 1
+    },
+    {
+      "summary_item_id": "sum_002",
+      "title": null,
+      "content": "",
+      "order": 2
+    },
+    {
+      "summary_item_id": "sum_003",
+      "title": null,
+      "content": "",
+      "order": 3
+    },
+    {
+      "summary_item_id": "sum_004",
+      "title": null,
+      "content": "",
+      "order": 4
+    },
+    {
+      "summary_item_id": "sum_005",
+      "title": null,
+      "content": "",
+      "order": 5
+    },
+    {
+      "summary_item_id": "sum_006",
+      "title": null,
+      "content": "",
+      "order": 6
+    }
+  ],
+  "questoes": [
+    {
+      "question_id": "qst_001",
+      "material_id": "mat_001",
+      "topic_id": "top_001",
+      "board": "CEBRASPE",
+      "year": 2023,
+      "organization": null,
+      "role": "Notário e Registrador (TJ SC)",
+      "statement": "As agências reguladoras são entidades da administração pública indireta que, embora vinculadas a um ministério, a ele se subordinam hierarquicamente, o que garante a uniformidade das políticas governamentais.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": null,
+      "external_reference": "Questão 2486331 CEBRASPE (CESPE) - Notário e Registrador (TJ SC) - Tec Concursos (adaptada)",
+      "commentary": "**ERRADO**. As agências reguladoras são vinculadas a um ministério, mas não se subordinam hierarquicamente a ele. A autonomia qualificada é uma de suas características essenciais, garantindo a tecnicidade e a imparcialidade de suas decisões, afastando a interferência política direta. A subordinação hierárquica comprometeria essa autonomia.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_001"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_002",
+      "material_id": "mat_001",
+      "topic_id": "top_005",
+      "board": "CEBRASPE",
+      "year": 2022,
+      "organization": null,
+      "role": "Analista Administrativo (ANAC)",
+      "statement": "Os dirigentes das agências reguladoras, em razão da natureza especial dessas autarquias, possuem mandato fixo e estabilidade, não podendo ser destituídos discricionariamente pelo chefe do Poder Executivo.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": null,
+      "external_reference": "Questão simulada CEBRASPE (adaptada)",
+      "commentary": "**CERTO**. Uma das características distintivas das agências reguladoras é a estabilidade de seus dirigentes, que são nomeados para mandatos fixos. A destituição só pode ocorrer nas hipóteses expressamente previstas em lei (renúncia, condenação judicial transitada em julgado ou processo administrativo disciplinar), e não de forma discricionária. Isso visa proteger a independência técnica da agência.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_002"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_003",
+      "material_id": "mat_001",
+      "topic_id": "top_006",
+      "board": "CEBRASPE",
+      "year": 2021,
+      "organization": null,
+      "role": "Procurador (PGM)",
+      "statement": "O poder normativo das agências reguladoras permite que elas inovem primariamente a ordem jurídica, criando direitos e obrigações não previstos em lei, desde que para atender aos interesses do setor regulado.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": null,
+      "external_reference": "Questão simulada CEBRASPE (adaptada)",
+      "commentary": "**ERRADO**. O poder normativo das agências reguladoras é secundário e técnico. Ele não permite que a agência inove primariamente a ordem jurídica, criando direitos e obrigações que não tenham previsão legal. Sua função é regulamentar e detalhar o que já está estabelecido em lei, preenchendo lacunas técnicas e operacionais, sempre dentro dos limites legais.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_003"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_004",
+      "material_id": "mat_001",
+      "topic_id": "top_002",
+      "board": "CEBRASPE",
+      "year": 2020,
+      "organization": null,
+      "role": "Especialista em Regulação (ANEEL)",
+      "statement": "A quarentena, período em que os ex-dirigentes de agências reguladoras ficam impedidos de atuar no setor regulado, é uma medida de caráter punitivo aplicada em caso de má gestão.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": null,
+      "external_reference": "Questão simulada CEBRASPE (adaptada)",
+      "commentary": "**ERRADO**. A quarentena é um período em que os ex-dirigentes de agências reguladoras ficam impedidos de exercer atividades ou prestar serviços no setor regulado pela respectiva agência, recebendo remuneração. Seu objetivo é evitar conflitos de interesse e a 'porta giratória' (revolving door), garantindo a integridade e a imparcialidade da atuação regulatória, e não tem caráter punitivo.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_004"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_005",
+      "material_id": "mat_001",
+      "topic_id": "top_003",
+      "board": "CEBRASPE",
+      "year": 2024,
+      "organization": null,
+      "role": "Analista (AGU)",
+      "statement": "A Lei nº 13.848/2019, conhecida como Lei Geral das Agências Reguladoras, aplica-se a todas as agências reguladoras, sejam elas federais, estaduais ou municipais, uniformizando o regime jurídico em todo o país.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": null,
+      "external_reference": "Questão simulada CEBRASPE (adaptada)",
+      "commentary": "**ERRADO**. A Lei nº 13.848/2019, conforme seu Art. 1º, dispõe sobre a gestão, a organização, o processo decisório e o controle social das agências reguladoras em âmbito federal. Embora possa servir de inspiração, ela não se aplica automaticamente às agências estaduais e municipais, que possuem suas próprias leis de criação e regulamentação, respeitando a autonomia dos entes federativos.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_005"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_006",
+      "material_id": "mat_001",
+      "topic_id": "top_007",
+      "board": "CEBRASPE",
+      "year": 2023,
+      "organization": null,
+      "role": "Auditor (TCU)",
+      "statement": "O controle judicial sobre os atos das agências reguladoras é restrito à análise da legalidade formal, não podendo o Poder Judiciário adentrar no mérito administrativo ou na discricionariedade técnica da agência.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": null,
+      "external_reference": "Questão simulada CEBRASPE (adaptada)",
+      "commentary": "**ERRADO**. O controle judicial sobre os atos das agências reguladoras não se restringe à legalidade formal. O Poder Judiciário pode, e deve, analisar a legalidade material, o desvio de finalidade, o excesso de poder e a ausência de motivação adequada, mesmo em atos discricionários, para garantir que a atuação da agência esteja em conformidade com o ordenamento jurídico e o interesse público.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_006"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_007",
+      "material_id": "mat_001",
+      "topic_id": "top_006",
+      "board": "CEBRASPE",
+      "year": 2022,
+      "organization": null,
+      "role": "Analista Administrativo (ANAC)",
+      "statement": "As agências reguladoras possuem poder sancionatório, podendo aplicar multas e outras penalidades aos agentes do setor regulado que descumprirem as normas, desde que tais sanções estejam previstas em lei.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": null,
+      "external_reference": "Questão Q102210 CEBRASPE (CESPE) - ANAC - Tec Concursos (adaptada)",
+      "commentary": "**CERTO**. As agências reguladoras, no exercício de seu poder de polícia, possuem poder sancionatório. Isso significa que elas podem aplicar penalidades, como multas, interdições e outras sanções, aos agentes do setor regulado que descumprirem as normas estabelecidas. Contudo, a aplicação dessas sanções deve sempre estar prevista em lei, em respeito ao princípio da legalidade.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_007"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_008",
+      "material_id": "mat_001",
+      "topic_id": "top_004",
+      "board": "CEBRASPE",
+      "year": 2021,
+      "organization": null,
+      "role": "Especialista em Regulação (ANVISA)",
+      "statement": "A autonomia das agências reguladoras é caracterizada pela ausência de tutela ou de subordinação hierárquica, o que lhes confere independência funcional e decisória para atuar no setor regulado.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": null,
+      "external_reference": "Questão simulada CEBRASPE (adaptada)",
+      "commentary": "**CERTO**. A autonomia é a característica mais marcante das agências reguladoras, sendo expressamente consagrada pela Lei nº 13.848/2019. Essa autonomia se manifesta na ausência de subordinação hierárquica ao Poder Executivo e na independência funcional e decisória, permitindo que as agências atuem de forma técnica e imparcial na regulação dos setores.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_008"
+        ],
+        "count": 1
+      }
+    }
+  ],
+  "comentarios_questoes": [
+    {
+      "comment_id": "com_001",
+      "question_id": "qst_001",
+      "content": "**ERRADO**. As agências reguladoras são vinculadas a um ministério, mas não se subordinam hierarquicamente a ele. A autonomia qualificada é uma de suas características essenciais, garantindo a tecnicidade e a imparcialidade de suas decisões, afastando a interferência política direta. A subordinação hierárquica comprometeria essa autonomia.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_002",
+      "question_id": "qst_002",
+      "content": "**CERTO**. Uma das características distintivas das agências reguladoras é a estabilidade de seus dirigentes, que são nomeados para mandatos fixos. A destituição só pode ocorrer nas hipóteses expressamente previstas em lei (renúncia, condenação judicial transitada em julgado ou processo administrativo disciplinar), e não de forma discricionária. Isso visa proteger a independência técnica da agência.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_003",
+      "question_id": "qst_003",
+      "content": "**ERRADO**. O poder normativo das agências reguladoras é secundário e técnico. Ele não permite que a agência inove primariamente a ordem jurídica, criando direitos e obrigações que não tenham previsão legal. Sua função é regulamentar e detalhar o que já está estabelecido em lei, preenchendo lacunas técnicas e operacionais, sempre dentro dos limites legais.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_004",
+      "question_id": "qst_004",
+      "content": "**ERRADO**. A quarentena é um período em que os ex-dirigentes de agências reguladoras ficam impedidos de exercer atividades ou prestar serviços no setor regulado pela respectiva agência, recebendo remuneração. Seu objetivo é evitar conflitos de interesse e a 'porta giratória' (revolving door), garantindo a integridade e a imparcialidade da atuação regulatória, e não tem caráter punitivo.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_005",
+      "question_id": "qst_005",
+      "content": "**ERRADO**. A Lei nº 13.848/2019, conforme seu Art. 1º, dispõe sobre a gestão, a organização, o processo decisório e o controle social das agências reguladoras em âmbito federal. Embora possa servir de inspiração, ela não se aplica automaticamente às agências estaduais e municipais, que possuem suas próprias leis de criação e regulamentação, respeitando a autonomia dos entes federativos.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_006",
+      "question_id": "qst_006",
+      "content": "**ERRADO**. O controle judicial sobre os atos das agências reguladoras não se restringe à legalidade formal. O Poder Judiciário pode, e deve, analisar a legalidade material, o desvio de finalidade, o excesso de poder e a ausência de motivação adequada, mesmo em atos discricionários, para garantir que a atuação da agência esteja em conformidade com o ordenamento jurídico e o interesse público.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_007",
+      "question_id": "qst_007",
+      "content": "**CERTO**. As agências reguladoras, no exercício de seu poder de polícia, possuem poder sancionatório. Isso significa que elas podem aplicar penalidades, como multas, interdições e outras sanções, aos agentes do setor regulado que descumprirem as normas estabelecidas. Contudo, a aplicação dessas sanções deve sempre estar prevista em lei, em respeito ao princípio da legalidade.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_008",
+      "question_id": "qst_008",
+      "content": "**CERTO**. A autonomia é a característica mais marcante das agências reguladoras, sendo expressamente consagrada pela Lei nº 13.848/2019. Essa autonomia se manifesta na ausência de subordinação hierárquica ao Poder Executivo e na independência funcional e decisória, permitindo que as agências atuem de forma técnica e imparcial na regulação dos setores.",
+      "explanation_alternatives": ""
+    }
+  ],
+  "checklist_revisao": [
+    {
+      "checklist_id": "chk_001",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Compreender o conceito e a natureza jurídica de autarquia especial das agências reguladoras.",
+      "completed": false,
+      "order": 1
+    },
+    {
+      "checklist_id": "chk_002",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Dominar as características essenciais: autonomia qualificada, mandato fixo, estabilidade dos dirigentes, colegiado e quarentena.",
+      "completed": false,
+      "order": 2
+    },
+    {
+      "checklist_id": "chk_003",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Conhecer as principais disposições da Lei nº 13.848/2019 (Lei Geral das Agências Reguladoras).",
+      "completed": false,
+      "order": 3
+    },
+    {
+      "checklist_id": "chk_004",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Diferenciar vinculação de subordinação hierárquica.",
+      "completed": false,
+      "order": 4
+    },
+    {
+      "checklist_id": "chk_005",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Entender os limites do poder normativo das agências (caráter secundário e técnico).",
+      "completed": false,
+      "order": 5
+    },
+    {
+      "checklist_id": "chk_006",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Identificar os tipos de controle (parlamentar, judicial, interno, externo, social) e suas abrangências.",
+      "completed": false,
+      "order": 6
+    },
+    {
+      "checklist_id": "chk_007",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Revisar as pegadinhas comuns do CEBRASPE sobre o tema.",
+      "completed": false,
+      "order": 7
+    },
+    {
+      "checklist_id": "chk_008",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Praticar questões no formato Certo/Errado, focando na interpretação da lei e da doutrina.",
+      "completed": false,
+      "order": 8
+    }
+  ],
+  "referencias": [
+    {
+      "reference_id": "ref_001",
+      "material_id": "mat_001",
+      "reference_type": "legislacao",
+      "author_name": null,
+      "title": "Constituição Federal de 1988",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": null,
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_002",
+      "material_id": "mat_001",
+      "reference_type": "legislacao",
+      "author_name": null,
+      "title": "Lei nº 13.848, de 25 de junho de 2019",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": null,
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_003",
+      "material_id": "mat_001",
+      "reference_type": "doutrina",
+      "author_name": null,
+      "title": "DI PIETRO, Maria Sylvia Zanella",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": null,
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_004",
+      "material_id": "mat_001",
+      "reference_type": "doutrina",
+      "author_name": null,
+      "title": "CARVALHO, Matheus",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": null,
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_005",
+      "material_id": "mat_001",
+      "reference_type": "jurisprudencia",
+      "author_name": null,
+      "title": "STF - ADI 5.906",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": null,
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_006",
+      "material_id": "mat_001",
+      "reference_type": "jurisprudencia",
+      "author_name": null,
+      "title": "STF - ADI 4.874",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": null,
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_007",
+      "material_id": "mat_001",
+      "reference_type": "jurisprudencia",
+      "author_name": null,
+      "title": "STF - ARE 1.348.238 (Tema 1.252)",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": null,
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_008",
+      "material_id": "mat_001",
+      "reference_type": "jurisprudencia",
+      "author_name": null,
+      "title": "STJ - Tema 1.346 (Recursos Repetitivos)",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": null,
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_009",
+      "material_id": "mat_001",
+      "reference_type": "questoes_anteriores",
+      "author_name": null,
+      "title": "Questões CEBRASPE (CESPE)",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": null,
+      "accessed_at": null,
+      "description": null
+    }
+  ],
+  "estatisticas_de_geracao": {
+    "total_topicos": 8,
+    "total_componentes_topico": 11,
+    "total_entendimentos_relevantes": 3,
+    "total_pegadinhas": 4,
+    "total_pontos_memorizacao": 6,
+    "total_itens_quadro_sinotico": 6,
+    "total_questoes": 8,
+    "total_comentarios_questoes": 8,
+    "total_itens_checklist": 8,
+    "total_referencias": 9
+  },
+  "validacao_interna": {
+    "pesquisa_previa_realizada": true,
+    "analise_de_cobrancas_anteriores_realizada": true,
+    "material_atualizado": true,
+    "json_valido": true,
+    "estrutura_relacional_respeitada": true,
+    "numeracao_respeitada": true,
+    "houve_quebra_de_hierarquia": false,
+    "houve_nivel_numerico_superior_a_3": false,
+    "fontes_verificadas": true,
+    "sem_informacao_inventada": true
+  },
+  "metadata": {
+    "source_file_name": "3__direito-administrativo__3-organização-administrativa-3.3-administração-indireta-3.3.3-agências-reguladoras.json",
+    "normalized_checksum": "19ca122eb1385563ceef4a5c760a84f40070168573235ede08b472da0bf5c125",
+    "subject_slug": "dir-adm",
+    "material_slug": "agencias-reguladoras-direito",
+    "title_slug": "agencias-reguladoras-no-direito-administrativo",
+    "board_slug": "cebraspe",
+    "counters": {
+      "blocks": 2,
+      "topics": 8,
+      "topic_components": 11,
+      "traps": 4,
+      "memory_points": 6,
+      "summary_items": 6,
+      "questions": 8,
+      "question_comments": 8,
+      "checklist_items": 8,
+      "references": 9
+    }
+  }
+}

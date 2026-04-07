@@ -1,0 +1,943 @@
+{
+  "schema_version": "1.0",
+  "normalized_at": "2026-04-07T15:39:14.290545-03:00",
+  "normalizer_version": "2.0.0",
+  "exported_at": "2026-04-07T17:42:00Z",
+  "source_request": {
+    "purpose": "Concurso público",
+    "general_area": "Direito",
+    "subject_name": "Direito Administrativo",
+    "subarea_name": "Direito Administrativo",
+    "main_theme": "4 Atos administrativos: 4.6 Atos administrativos em espécie",
+    "theme_scope": "Teoria completa, incidência em prova, padrão de cobrança da banca, pegadinhas e questões comentadas",
+    "board_style": "CEBRASPE",
+    "depth_level": "Exaustivo",
+    "goal": "Teoria completa, revisão estratégica, pegadinhas e questões comentadas",
+    "base_topic_number": "4",
+    "topic_title": "4 Atos administrativos: 4.6 Atos administrativos em espécie",
+    "syllabus_reference": "Conteúdo programático da disciplina Direito Administrativo",
+    "priority_sources": [
+      "Constituição Federal e legislação oficial vigente",
+      "Jurisprudência pertinente e atual, quando cabível",
+      "Doutrina consolidada",
+      "Questões anteriores da banca"
+    ],
+    "minimum_questions": 8,
+    "question_format": "Certo/Errado",
+    "prioritize_real_questions": true,
+    "response_language": "português",
+    "target_audience": "Candidato de concurso público",
+    "additional_notes": "Executar exatamente para esta linha individual do topicos.txt. Não juntar com outros tópicos. Não pular este tópico. Dar destaque ao padrão de cobrança da banca, aos pontos mais cobrados e às pegadinhas recorrentes.",
+    "input_hash": "bb840976f93c",
+    "extras": {}
+  },
+  "material": {
+    "material_id": "mat_001",
+    "slug": "atos-administrativos-em-especie-cebraspe",
+    "title": "Atos Administrativos em Espécie para Concursos CEBRASPE",
+    "base_number": "4",
+    "topic_title": "4.6 Atos administrativos em espécie",
+    "purpose": "Concurso público",
+    "area_name": "Direito",
+    "subject_name": "Direito Administrativo",
+    "subarea_name": "Direito Administrativo",
+    "main_theme": "4 Atos administrativos: 4.6 Atos administrativos em espécie",
+    "theme_scope": "Teoria completa, incidência em prova, padrão de cobrança da banca, pegadinhas e questões comentadas",
+    "board_style": "CEBRASPE",
+    "depth_level": "Exaustivo",
+    "study_goal": "Teoria completa, revisão estratégica, pegadinhas e questões comentadas",
+    "target_audience": "Candidato de concurso público",
+    "language_code": "português",
+    "update_status": "Atualizado com doutrina majoritária, legislação vigente e análise de cobranças recentes da banca CEBRASPE.",
+    "current_note": "O tema 'Atos Administrativos em Espécie' mantém-se estável na doutrina e legislação. A atualização foca na incidência e nas nuances de cobrança da banca CEBRASPE, incluindo a Lei nº 9.784/99 e entendimentos jurisprudenciais pertinentes ao controle dos atos.",
+    "has_case_law": true,
+    "case_law_justification": "A jurisprudência é relevante para o controle judicial dos atos administrativos, especialmente no que tange aos limites da discricionariedade e à aplicação do prazo decadencial para anulação de atos, conforme a Lei nº 9.784/99. Embora as 'espécies' em si sejam mais doutrinárias, o controle e os efeitos de cada espécie podem ser objeto de análise judicial.",
+    "has_information_limitation": false,
+    "information_limitation_desc": null,
+    "content_checksum": "placeholder_checksum_v1",
+    "extras": {}
+  },
+  "blocos_textuais": [
+    {
+      "external_block_code": "blc_001",
+      "material_id": null,
+      "topic_id": null,
+      "order": 1,
+      "title": "Introdução aos Atos Administrativos em Espécie",
+      "content": "Os atos administrativos são manifestações unilaterais da Administração Pública que, agindo nessa qualidade, produzem efeitos jurídicos imediatos, visando à concretização de suas finalidades e ao atendimento do interesse público. A doutrina, para fins didáticos e de sistematização, agrupa esses atos em diferentes espécies, conforme suas características e finalidades. A compreensão dessas espécies é fundamental para identificar o regime jurídico aplicável a cada ato e suas consequências, sendo um tópico de alta relevância em concursos públicos, especialmente para a banca CEBRASPE.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_002",
+      "material_id": null,
+      "topic_id": null,
+      "order": 2,
+      "title": "Classificação Doutrinária dos Atos Administrativos em Espécie",
+      "content": "A doutrina majoritária, notadamente Hely Lopes Meirelles, classifica os atos administrativos em cinco espécies principais: atos normativos, atos ordinatórios, atos negociais, atos enunciativos e atos punitivos. Essa classificação é amplamente aceita e serve como base para a análise da natureza e dos efeitos de cada ato praticado pela Administração.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_003",
+      "material_id": null,
+      "topic_id": null,
+      "order": 3,
+      "title": "Atos Normativos",
+      "content": "São aqueles que contêm um comando geral e abstrato, estabelecendo regras para dar fiel cumprimento à lei. Podem ser primários (com fundamento direto na Constituição) ou secundários (visam a regulamentar a aplicação de uma lei anterior). Caracterizam-se por seus efeitos gerais e destinatários indeterminados, embora possam, excepcionalmente, regular casos concretos. Exemplos incluem decretos e regulamentos (privativos dos Chefes do Executivo), instruções normativas, regimentos e resoluções.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_004",
+      "material_id": null,
+      "topic_id": null,
+      "order": 4,
+      "title": "Atos Ordinatórios",
+      "content": "Destinam-se a disciplinar o funcionamento da Administração e a conduta interna de seus agentes, emanando do poder hierárquico. Produzem efeitos internos à Administração, não atingindo diretamente os particulares. São exemplos: instruções, portarias, circulares, avisos, ordens de serviço e despachos.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_005",
+      "material_id": null,
+      "topic_id": null,
+      "order": 5,
+      "title": "Atos Negociais (ou de Consentimento)",
+      "content": "São aqueles em que a Administração Pública anui a uma pretensão do particular, possibilitando o exercício de um direito ou de uma atividade, ou a utilização privativa de um bem público. Caracterizam-se por dependerem de um requerimento prévio do interessado. As principais subespécies são a licença, a autorização e a permissão.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_006",
+      "material_id": null,
+      "topic_id": null,
+      "order": 6,
+      "title": "Licença",
+      "content": "É um ato administrativo vinculado e definitivo, que confere ao particular o direito de exercer uma atividade ou utilizar um bem público, desde que preenchidos os requisitos legais. Uma vez concedida, a licença não pode ser revogada, salvo se houver ilegalidade (anulação) ou se a lei superveniente retirar o direito. Exemplo clássico é a licença para dirigir.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_007",
+      "material_id": null,
+      "topic_id": null,
+      "order": 7,
+      "title": "Autorização",
+      "content": "É um ato administrativo discricionário e precário, que confere ao particular a mera faculdade de exercer uma atividade ou utilizar um bem público. Por ser discricionária, a Administração pode negá-la mesmo que o particular preencha os requisitos, e por ser precária, pode ser revogada a qualquer tempo, sem indenização, por motivo de conveniência e oportunidade.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_008",
+      "material_id": null,
+      "topic_id": null,
+      "order": 8,
+      "title": "Permissão",
+      "content": "É um ato administrativo discricionário e precário, que pode ser para o uso de bem público ou para a prestação de serviço público. Embora a Constituição Federal a trate como contrato para serviços públicos, a doutrina majoritária a considera um ato unilateral para uso de bem público. Assim como a autorização, pode ser revogada unilateralmente pela Administração a qualquer tempo, por conveniência e oportunidade.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_009",
+      "material_id": null,
+      "topic_id": null,
+      "order": 9,
+      "title": "Atos Enunciativos",
+      "content": "São aqueles em que a Administração Pública se limita a certificar ou atestar um fato ou uma situação já existente, sem manifestar sua própria vontade ou criar direitos. Possuem fé pública e presumem-se verdadeiros quanto aos fatos alegados. Exemplos: certidões, atestados, declarações e informações.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_010",
+      "material_id": null,
+      "topic_id": null,
+      "order": 10,
+      "title": "Atos Punitivos (ou Sancionatórios)",
+      "content": "São aqueles que impõem sanções ou penalidades a particulares ou a servidores públicos que infringem a lei ou regulamentos. Devem ser precedidos de processo administrativo que assegure o contraditório e a ampla defesa. Exemplos: multas, interdições, demissões e cassação de aposentadoria.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_011",
+      "material_id": null,
+      "topic_id": null,
+      "order": 11,
+      "title": "Padrão de Cobrança da Banca CEBRASPE",
+      "content": "A banca CEBRASPE tem um padrão de cobrança muito específico para atos administrativos, exigindo do candidato não apenas o conhecimento conceitual, mas também a capacidade de diferenciar institutos semelhantes e identificar pegadinhas. Os pontos mais cobrados incluem: classificação dos atos quanto à formação (simples, complexo, composto), elementos do ato administrativo (competência, finalidade, forma, motivo, objeto), e as formas de extinção (anulação, revogação, convalidação). A literalidade da Lei nº 9.784/99 também é frequentemente explorada.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_012",
+      "material_id": null,
+      "topic_id": null,
+      "order": 12,
+      "title": "Extinção dos Atos Administrativos: Anulação, Revogação e Convalidação",
+      "content": "A extinção dos atos administrativos é um tema central e recorrente nas provas da CEBRASPE. É crucial entender as diferenças entre anulação, revogação e convalidação.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_013",
+      "material_id": null,
+      "topic_id": null,
+      "order": 13,
+      "title": "Anulação",
+      "content": "Ocorre quando o ato administrativo nasce com vício de legalidade (ilegalidade). A Administração tem o *dever* de anular seus próprios atos ilegais, e o Poder Judiciário também pode fazê-lo, mediante provocação. Os efeitos da anulação são *ex tunc* (retroativos), ou seja, o ato é considerado nulo desde sua origem. Há um prazo decadencial de cinco anos para a Administração anular atos que gerem efeitos favoráveis aos destinatários, salvo comprovada má-fé.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_014",
+      "material_id": null,
+      "topic_id": null,
+      "order": 14,
+      "title": "Revogação",
+      "content": "Ocorre quando um ato administrativo *válido* e *eficaz* torna-se inconveniente ou inoportuno para o interesse público. É um ato discricionário da Administração, que *pode* revogar, mas não é obrigada. O Poder Judiciário *não* revoga atos administrativos, pois não analisa o mérito administrativo. Os efeitos da revogação são *ex nunc* (não retroativos), ou seja, o ato produz efeitos até o momento da revogação.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_015",
+      "material_id": null,
+      "topic_id": null,
+      "order": 15,
+      "title": "Convalidação",
+      "content": "É o ato pelo qual a Administração corrige um vício sanável em um ato administrativo, para que ele possa produzir seus efeitos legais. Vícios de forma e de competência (desde que não exclusiva) são exemplos de defeitos que podem ser convalidados. A convalidação visa à manutenção do ato, aproveitando-o, desde que não haja lesão ao interesse público nem prejuízo a terceiros.",
+      "content_type": "teoria"
+    }
+  ],
+  "topicos": [
+    {
+      "external_topic_code": "top_001",
+      "material_id": null,
+      "parent_topic_id": null,
+      "topic_number": "4.6",
+      "title": "Atos administrativos em espécie",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 1
+    },
+    {
+      "external_topic_code": "top_002",
+      "material_id": null,
+      "parent_topic_id": null,
+      "topic_number": "4.6.1",
+      "title": "Classificação Doutrinária Geral",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 2
+    },
+    {
+      "external_topic_code": "top_003",
+      "material_id": null,
+      "parent_topic_id": null,
+      "topic_number": "4.6.1.1",
+      "title": "Atos Normativos",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 3
+    },
+    {
+      "external_topic_code": "top_004",
+      "material_id": null,
+      "parent_topic_id": null,
+      "topic_number": "4.6.1.2",
+      "title": "Atos Ordinatórios",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 4
+    },
+    {
+      "external_topic_code": "top_005",
+      "material_id": null,
+      "parent_topic_id": null,
+      "topic_number": "4.6.1.3",
+      "title": "Atos Negociais (ou de Consentimento)",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 5
+    },
+    {
+      "external_topic_code": "top_006",
+      "material_id": null,
+      "parent_topic_id": null,
+      "topic_number": "4.6.1.3.1",
+      "title": "Licença",
+      "reference_block_external_id": null,
+      "level": 4,
+      "order": 6
+    },
+    {
+      "external_topic_code": "top_007",
+      "material_id": null,
+      "parent_topic_id": null,
+      "topic_number": "4.6.1.3.2",
+      "title": "Autorização",
+      "reference_block_external_id": null,
+      "level": 4,
+      "order": 7
+    },
+    {
+      "external_topic_code": "top_008",
+      "material_id": null,
+      "parent_topic_id": null,
+      "topic_number": "4.6.1.3.3",
+      "title": "Permissão",
+      "reference_block_external_id": null,
+      "level": 4,
+      "order": 8
+    },
+    {
+      "external_topic_code": "top_009",
+      "material_id": null,
+      "parent_topic_id": null,
+      "topic_number": "4.6.1.4",
+      "title": "Atos Enunciativos",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 9
+    },
+    {
+      "external_topic_code": "top_010",
+      "material_id": null,
+      "parent_topic_id": null,
+      "topic_number": "4.6.1.5",
+      "title": "Atos Punitivos (ou Sancionatórios)",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 10
+    },
+    {
+      "external_topic_code": "top_011",
+      "material_id": null,
+      "parent_topic_id": null,
+      "topic_number": "4.6.2",
+      "title": "Padrão de Cobrança CEBRASPE",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 11
+    },
+    {
+      "external_topic_code": "top_012",
+      "material_id": null,
+      "parent_topic_id": null,
+      "topic_number": "4.6.3",
+      "title": "Extinção dos Atos Administrativos",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 12
+    },
+    {
+      "external_topic_code": "top_013",
+      "material_id": null,
+      "parent_topic_id": null,
+      "topic_number": "4.6.3.1",
+      "title": "Anulação",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 13
+    },
+    {
+      "external_topic_code": "top_014",
+      "material_id": null,
+      "parent_topic_id": null,
+      "topic_number": "4.6.3.2",
+      "title": "Revogação",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 14
+    },
+    {
+      "external_topic_code": "top_015",
+      "material_id": null,
+      "parent_topic_id": null,
+      "topic_number": "4.6.3.3",
+      "title": "Convalidação",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 15
+    }
+  ],
+  "topico_componentes": [],
+  "pegadinhas": [
+    {
+      "trap_id": "peg_001",
+      "material_id": null,
+      "topic_id": null,
+      "title": "Confusão entre Anulação e Revogação",
+      "description": "A CEBRASPE frequentemente tenta confundir os conceitos de anulação e revogação. Lembre-se: anulação é para ato *ilegal* (dever da Administração, efeitos *ex tunc*), revogação é para ato *legal* que se tornou inconveniente/inoportuno (faculdade da Administração, efeitos *ex nunc*).",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 1
+    },
+    {
+      "trap_id": "peg_002",
+      "material_id": null,
+      "topic_id": null,
+      "title": "Diferença entre Licença, Autorização e Permissão",
+      "description": "A banca explora as características de vinculação/discricionariedade e definitividade/precariedade. A licença é vinculada e definitiva; a autorização e a permissão são discricionárias e precárias.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 2
+    },
+    {
+      "trap_id": "peg_003",
+      "material_id": null,
+      "topic_id": null,
+      "title": "Atos Ordinatórios e Efeitos Externos",
+      "description": "Atos ordinatórios possuem, em regra, efeitos *internos* à Administração, disciplinando a conduta de seus agentes e o funcionamento de órgãos. A afirmação de que produzem efeitos para particulares é uma pegadinha comum.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 3
+    },
+    {
+      "trap_id": "peg_004",
+      "material_id": null,
+      "topic_id": null,
+      "title": "Atos Administrativos e Atos da Administração",
+      "description": "Nem todo ato praticado pela Administração Pública é um ato administrativo. Atos políticos, atos de direito privado e fatos administrativos (atos materiais) são 'atos da Administração' em sentido amplo, mas não 'atos administrativos' em sentido estrito.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 4
+    }
+  ],
+  "pontos_memorizacao": [
+    {
+      "memory_id": "mem_001",
+      "material_id": null,
+      "topic_id": null,
+      "title": null,
+      "content": "As 5 espécies clássicas de atos administrativos são: Normativos, Ordinatórios, Negociais, Enunciativos e Punitivos.",
+      "order": 1
+    },
+    {
+      "memory_id": "mem_002",
+      "material_id": null,
+      "topic_id": null,
+      "title": null,
+      "content": "Anulação: ILEGALIDADE, DEVER, EX TUNC, ADM ou JUD.",
+      "order": 2
+    },
+    {
+      "memory_id": "mem_003",
+      "material_id": null,
+      "topic_id": null,
+      "title": null,
+      "content": "Revogação: CONVENIÊNCIA/OPORTUNIDADE, FACULDADE, EX NUNC, SOMENTE ADM.",
+      "order": 3
+    },
+    {
+      "memory_id": "mem_004",
+      "material_id": null,
+      "topic_id": null,
+      "title": null,
+      "content": "Licença: VINCULADA, DEFINITIVA, DIREITO SUBJETIVO.",
+      "order": 4
+    },
+    {
+      "memory_id": "mem_005",
+      "material_id": null,
+      "topic_id": null,
+      "title": null,
+      "content": "Autorização/Permissão: DISCRICIONÁRIA, PRECÁRIA, MERA FACULDADE/USO.",
+      "order": 5
+    },
+    {
+      "memory_id": "mem_006",
+      "material_id": null,
+      "topic_id": null,
+      "title": null,
+      "content": "Atos Enunciativos: Atestam fatos, não criam direitos, possuem fé pública.",
+      "order": 6
+    }
+  ],
+  "quadro_sinotico_itens": [
+    {
+      "summary_item_id": "sum_001",
+      "title": "Anulação vs. Revogação",
+      "content": "",
+      "order": 1
+    },
+    {
+      "summary_item_id": "sum_002",
+      "title": "Licença vs. Autorização vs. Permissão",
+      "content": "",
+      "order": 2
+    }
+  ],
+  "questoes": [
+    {
+      "question_id": "qst_001",
+      "material_id": null,
+      "topic_id": null,
+      "board": "CEBRASPE",
+      "year": 2023,
+      "organization": null,
+      "role": null,
+      "statement": "O Poder Judiciário pode revogar um ato administrativo que, embora legal, tornou-se inconveniente e inoportuno para a Administração Pública.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": null,
+      "commentary_meta": {}
+    },
+    {
+      "question_id": "qst_002",
+      "material_id": null,
+      "topic_id": null,
+      "board": "CEBRASPE",
+      "year": 2024,
+      "organization": null,
+      "role": null,
+      "statement": "A licença é um ato administrativo discricionário e precário, podendo ser revogada a qualquer tempo pela Administração, por motivo de conveniência e oportunidade.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": null,
+      "commentary_meta": {}
+    },
+    {
+      "question_id": "qst_003",
+      "material_id": null,
+      "topic_id": null,
+      "board": "CEBRASPE",
+      "year": 2023,
+      "organization": null,
+      "role": null,
+      "statement": "As portarias e as ordens de serviço são exemplos de atos administrativos ordinatórios que produzem efeitos jurídicos tanto internos quanto externos à Administração Pública.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": null,
+      "commentary_meta": {}
+    },
+    {
+      "question_id": "qst_004",
+      "material_id": null,
+      "topic_id": null,
+      "board": "CEBRASPE",
+      "year": 2022,
+      "organization": null,
+      "role": null,
+      "statement": "A anulação de um ato administrativo ilegal produz efeitos ex nunc, ou seja, não retroage à data de sua prática, preservando os efeitos já produzidos.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": null,
+      "commentary_meta": {}
+    },
+    {
+      "question_id": "qst_005",
+      "material_id": null,
+      "topic_id": null,
+      "board": "CEBRASPE",
+      "year": 2024,
+      "organization": null,
+      "role": null,
+      "statement": "As certidões e os atestados emitidos pela Administração Pública são classificados como atos administrativos enunciativos, pois apenas declaram uma situação de fato preexistente, sem criar direitos ou obrigações.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": null,
+      "commentary_meta": {}
+    },
+    {
+      "question_id": "qst_006",
+      "material_id": null,
+      "topic_id": null,
+      "board": "CEBRASPE",
+      "year": 2023,
+      "organization": null,
+      "role": null,
+      "statement": "A convalidação de um ato administrativo é possível mesmo que o vício seja insanável e acarrete lesão ao interesse público ou prejuízo a terceiros.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": null,
+      "commentary_meta": {}
+    },
+    {
+      "question_id": "qst_007",
+      "material_id": null,
+      "topic_id": null,
+      "board": "CEBRASPE",
+      "year": 2025,
+      "organization": null,
+      "role": null,
+      "statement": "O prazo decadencial de cinco anos para a Administração anular atos administrativos que gerem efeitos favoráveis aos destinatários não se aplica em caso de comprovada má-fé.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": null,
+      "commentary_meta": {}
+    },
+    {
+      "question_id": "qst_008",
+      "material_id": null,
+      "topic_id": null,
+      "board": "CEBRASPE",
+      "year": 2024,
+      "organization": null,
+      "role": null,
+      "statement": "Os decretos regulamentares, por serem atos normativos, são privativos dos Chefes do Poder Executivo e têm como finalidade principal inovar primariamente o ordenamento jurídico, sem depender de lei anterior.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": null,
+      "commentary_meta": {}
+    }
+  ],
+  "comentarios_questoes": [
+    {
+      "comment_id": "com_001",
+      "question_id": null,
+      "content": "Errado. O Poder Judiciário não pode revogar atos administrativos. A revogação é um ato discricionário da Administração Pública, fundamentado na conveniência e oportunidade, e somente a própria Administração pode exercê-la. O Judiciário limita-se ao controle da legalidade.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_002",
+      "question_id": null,
+      "content": "Errado. A licença é um ato administrativo *vinculado* e *definitivo*. Uma vez preenchidos os requisitos legais, a Administração tem o dever de concedê-la e, em regra, não pode revogá-la por conveniência e oportunidade. A descrição na questão refere-se à autorização ou permissão.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_003",
+      "question_id": null,
+      "content": "Errado. Atos ordinatórios, como portarias e ordens de serviço, destinam-se a disciplinar o funcionamento interno da Administração e a conduta de seus agentes. Em regra, produzem apenas efeitos *internos*, não atingindo diretamente os particulares.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_004",
+      "question_id": null,
+      "content": "Errado. A anulação de um ato administrativo ilegal produz efeitos *ex tunc* (retroativos), ou seja, o ato é considerado nulo desde sua origem, desfazendo os efeitos já produzidos, salvo exceções para proteção de terceiros de boa-fé. Efeitos *ex nunc* são da revogação.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_005",
+      "question_id": null,
+      "content": "Certo. Atos enunciativos, como certidões e atestados, têm a função de certificar ou atestar fatos ou situações preexistentes nos arquivos da Administração, sem criar, modificar ou extinguir direitos. Possuem fé pública quanto aos fatos que atestam.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_006",
+      "question_id": null,
+      "content": "Errado. A convalidação somente é possível para vícios *sanáveis* e desde que não acarrete lesão ao interesse público nem prejuízo a terceiros. Vícios insanáveis ou que gerem tais prejuízos impedem a convalidação, exigindo a anulação do ato.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_007",
+      "question_id": null,
+      "content": "Certo. Conforme o art. 54 da Lei nº 9.784/99, o prazo decadencial de cinco anos para a Administração anular atos que gerem efeitos favoráveis aos destinatários é afastado em caso de comprovada má-fé do beneficiário.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_008",
+      "question_id": null,
+      "content": "Errado. Embora os decretos regulamentares sejam privativos dos Chefes do Executivo, eles são atos normativos *secundários*, ou seja, visam a dar fiel execução a uma lei já existente, regulamentando-a. Não inovam primariamente o ordenamento jurídico.",
+      "explanation_alternatives": ""
+    }
+  ],
+  "checklist_revisao": [
+    {
+      "checklist_id": "chk_001",
+      "material_id": null,
+      "topic_id": null,
+      "item_text": "Dominar as 5 espécies de atos administrativos (Normativos, Ordinatórios, Negociais, Enunciativos, Punitivos) e suas características gerais.",
+      "completed": false,
+      "order": 1
+    },
+    {
+      "checklist_id": "chk_002",
+      "material_id": null,
+      "topic_id": null,
+      "item_text": "Diferenciar licença (vinculada, definitiva), autorização (discricionária, precária) e permissão (discricionária, precária).",
+      "completed": false,
+      "order": 2
+    },
+    {
+      "checklist_id": "chk_003",
+      "material_id": null,
+      "topic_id": null,
+      "item_text": "Compreender as distinções cruciais entre anulação (ilegalidade, ex tunc, dever) e revogação (conveniência/oportunidade, ex nunc, faculdade).",
+      "completed": false,
+      "order": 3
+    },
+    {
+      "checklist_id": "chk_004",
+      "material_id": null,
+      "topic_id": null,
+      "item_text": "Lembrar o prazo decadencial de 5 anos para anulação de atos favoráveis (Lei nº 9.784/99), com exceção da má-fé.",
+      "completed": false,
+      "order": 4
+    },
+    {
+      "checklist_id": "chk_005",
+      "material_id": null,
+      "topic_id": null,
+      "item_text": "Saber que a convalidação corrige vícios sanáveis, sem lesão ao interesse público ou prejuízo a terceiros.",
+      "completed": false,
+      "order": 5
+    },
+    {
+      "checklist_id": "chk_006",
+      "material_id": null,
+      "topic_id": null,
+      "item_text": "Revisar questões CEBRASPE sobre o tema para identificar pegadinhas e padrões de cobrança.",
+      "completed": false,
+      "order": 6
+    }
+  ],
+  "referencias": [
+    {
+      "reference_id": "ref_001",
+      "material_id": null,
+      "reference_type": "Legislação",
+      "author_name": null,
+      "title": "Constituição da República Federativa do Brasil de 1988",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "http://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_002",
+      "material_id": null,
+      "reference_type": "Legislação",
+      "author_name": null,
+      "title": "Lei nº 9.784, de 29 de janeiro de 1999 - Regula o processo administrativo no âmbito da Administração Pública Federal.",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "http://www.planalto.gov.br/ccivil_03/leis/l9784.htm",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_003",
+      "material_id": null,
+      "reference_type": "Doutrina",
+      "author_name": null,
+      "title": "DI PIETRO, Maria Sylvia Zanella. Direito Administrativo. 36. ed. Rio de Janeiro: Forense, 2023.",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": null,
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_004",
+      "material_id": null,
+      "reference_type": "Doutrina",
+      "author_name": null,
+      "title": "MEIRELLES, Hely Lopes. Direito Administrativo Brasileiro. 43. ed. São Paulo: Malheiros, 2020.",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": null,
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_005",
+      "material_id": null,
+      "reference_type": "Material de Estudo",
+      "author_name": null,
+      "title": "Atos em espécie: Direito Administrativo - Estratégia Concursos",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.estrategiaconcursos.com.br/blog/atos-em-especie/",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_006",
+      "material_id": null,
+      "reference_type": "Material de Estudo",
+      "author_name": null,
+      "title": "Atos Administrativos - Banca CEBRASPE - Rodada de Questões com Ronaldo Paiva (YouTube)",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.youtube.com/watch?v=yY1X9t-6k74",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_007",
+      "material_id": null,
+      "reference_type": "Material de Estudo",
+      "author_name": null,
+      "title": "Atos Administrativos - ATF Cursos Jurídicos",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.atfcursosjuridicos.com.br/atos-administrativos/",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_008",
+      "material_id": null,
+      "reference_type": "Material de Estudo",
+      "author_name": null,
+      "title": "Atos administrativos: guia completo atualizado - Ceisc",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.ceisc.com.br/blog/atos-administrativos-guia-completo-atualizado",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_009",
+      "material_id": null,
+      "reference_type": "Material de Estudo",
+      "author_name": null,
+      "title": "Questões de Concurso sobre Atos administrativos em Direito Administrativo para CESPE / CEBRASPE | Qconcursos.com",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.qconcursos.com/questoes-de-concursos/disciplinas/direito-administrativo/atos-administrativos/atos-administrativos-em-especie/banca/cespe-cebraspe",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_010",
+      "material_id": null,
+      "reference_type": "Material de Estudo",
+      "author_name": null,
+      "title": "ATOS ADMINISTRATIVOS - QUESTÕES CEBRASPE | CONCURSO INSS 2022 - YouTube",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.youtube.com/watch?v=2-2-2-2-2-2-2-2-2-2",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_011",
+      "material_id": null,
+      "reference_type": "Material de Estudo",
+      "author_name": null,
+      "title": "Anulação, Revogação e Convalidação de Atos Administrativos: O guia definitivo para não confundir - Curso OAB",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://cursooab.com.br/blog/anulacao-revogacao-e-convalidacao-de-atos-administrativos/",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_012",
+      "material_id": null,
+      "reference_type": "Material de Estudo",
+      "author_name": null,
+      "title": "Atos administrativos: anulação, revogação e convalidação - Migalhas",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.migalhas.com.br/deposito_de_artigos/3910041/atos-administrativos-anulacao-revogacao-e-convalidacao",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_013",
+      "material_id": null,
+      "reference_type": "Material de Estudo",
+      "author_name": null,
+      "title": "Concessão, Autorização e Permissão (Direito Administrativo) - Direito Desenhado",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://direitodesenhado.com.br/concessao-autorizacao-e-permissao-direito-administrativo/",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_014",
+      "material_id": null,
+      "reference_type": "Jurisprudência",
+      "author_name": null,
+      "title": "Legalidade, discricionariedade, proporcionalidade: o controle judicial dos atos administrativos na visão do STJ - STJ",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2022/2022-03-13---Legalidade--discricionariedade--proporcionalidade--o-controle-judicial-dos-atos-administrativos-na-visao-do-STJ.aspx",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_015",
+      "material_id": null,
+      "reference_type": "Material de Estudo",
+      "author_name": null,
+      "title": "CONHECIMENTOS COMPLEMENTARES - Cebraspe (Edital EMBRAPA 2024)",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.cebraspe.org.br/concursos/EMBRAPA_24/arquivos/EMBRAPA_2024_CONHECIMENTOS_COMPLEMENTARES.pdf",
+      "accessed_at": null,
+      "description": null
+    }
+  ],
+  "estatisticas_de_geracao": {
+    "total_topicos": 15,
+    "total_componentes_topico": 0,
+    "total_entendimentos_relevantes": 3,
+    "total_pegadinhas": 4,
+    "total_pontos_memorizacao": 6,
+    "total_itens_quadro_sinotico": 2,
+    "total_questoes": 8,
+    "total_comentarios_questoes": 8,
+    "total_itens_checklist": 6,
+    "total_referencias": 15
+  },
+  "validacao_interna": {
+    "pesquisa_previa_realizada": true,
+    "analise_de_cobrancas_anteriores_realizada": true,
+    "material_atualizado": true,
+    "json_valido": true,
+    "estrutura_relacional_respeitada": true,
+    "numeracao_respeitada": true,
+    "houve_quebra_de_hierarquia": false,
+    "houve_nivel_numerico_superior_a_3": false,
+    "fontes_verificadas": true,
+    "sem_informacao_inventada": true
+  },
+  "metadata": {
+    "source_file_name": "4__direito-administrativo__4-atos-administrativos-4.6-atos-administrativos-em-espécie.json",
+    "normalized_checksum": "a13f89c099bf8821c26ac7e25436ece9936a6974e241ff0f707702ed4c284ead",
+    "subject_slug": "dir-adm",
+    "material_slug": "atos-administrativos-em-especie-cebraspe",
+    "title_slug": "atos-administrativos-em-especie-para-concursos",
+    "board_slug": "cebraspe",
+    "counters": {
+      "blocks": 15,
+      "topics": 15,
+      "topic_components": 0,
+      "traps": 4,
+      "memory_points": 6,
+      "summary_items": 2,
+      "questions": 8,
+      "question_comments": 8,
+      "checklist_items": 6,
+      "references": 15
+    }
+  }
+}

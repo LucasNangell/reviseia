@@ -1,0 +1,1551 @@
+{
+  "schema_version": "1.0",
+  "normalized_at": "2026-04-07T15:39:13.733219-03:00",
+  "normalizer_version": "2.0.0",
+  "exported_at": "2026-04-07T17:02:00Z",
+  "source_request": {
+    "purpose": "Concurso público",
+    "general_area": "Direito",
+    "subject_name": "Direito Administrativo",
+    "subarea_name": "Direito Administrativo",
+    "main_theme": "2 Regime jurídico‐administrativo: 2.3 Princípios expressos e implícitos da administração pública",
+    "theme_scope": "Teoria completa, incidência em prova, padrão de cobrança da banca, pegadinhas e questões comentadas",
+    "board_style": "CEBRASPE",
+    "depth_level": "Exaustivo",
+    "goal": "Teoria completa, revisão estratégica, pegadinhas e questões comentadas",
+    "base_topic_number": "2",
+    "topic_title": "2 Regime jurídico‐administrativo: 2.3 Princípios expressos e implícitos da administração pública",
+    "syllabus_reference": "Conteúdo programático da disciplina Direito Administrativo",
+    "priority_sources": [
+      "Constituição Federal e legislação oficial vigente",
+      "Jurisprudência pertinente e atual, quando cabível",
+      "Doutrina consolidada",
+      "Questões anteriores da banca"
+    ],
+    "minimum_questions": 8,
+    "question_format": "Certo/Errado",
+    "prioritize_real_questions": true,
+    "response_language": "português",
+    "target_audience": "Candidato de concurso público",
+    "additional_notes": "Executar exatamente para esta linha individual do topicos.txt. Não juntar com outros tópicos. Não pular este tópico. Dar destaque ao padrão de cobrança da banca, aos pontos mais cobrados e às pegadinhas recorrentes.",
+    "input_hash": "15ef02f7d094",
+    "extras": {}
+  },
+  "material": {
+    "material_id": "mat_001",
+    "slug": "principios-administrativos-expressos-implicitos-cebraspe",
+    "title": "Regime Jurídico-Administrativo: Princípios Expressos e Implícitos da Administração Pública",
+    "base_number": "2",
+    "topic_title": "2 Regime jurídico‐administrativo: 2.3 Princípios expressos e implícitos da administração pública",
+    "purpose": "Concurso público",
+    "area_name": "Direito",
+    "subject_name": "Direito Administrativo",
+    "subarea_name": "Direito Administrativo",
+    "main_theme": "2 Regime jurídico‐administrativo: 2.3 Princípios expressos e implícitos da administração pública",
+    "theme_scope": "Teoria completa, incidência em prova, padrão de cobrança da banca, pegadinhas e questões comentadas",
+    "board_style": "CEBRASPE",
+    "depth_level": "Exaustivo",
+    "study_goal": "Teoria completa, revisão estratégica, pegadinhas e questões comentadas",
+    "target_audience": "Candidato de concurso público",
+    "language_code": "português",
+    "update_status": "Atualizado em 2026",
+    "current_note": "Conteúdo revisado com base na legislação, doutrina e jurisprudência mais recentes, incluindo o padrão de cobrança da banca CEBRASPE.",
+    "has_case_law": true,
+    "case_law_justification": "A jurisprudência do STF e STJ é fundamental para a compreensão e aplicação de diversos princípios administrativos, como a autotutela (Súmulas 346 e 473 do STF) e a impessoalidade (Súmula Vinculante 13 do STF), sendo frequentemente cobrada pela CEBRASPE.",
+    "has_information_limitation": false,
+    "information_limitation_desc": null,
+    "content_checksum": "placeholder_checksum_v1",
+    "extras": {}
+  },
+  "blocos_textuais": [
+    {
+      "external_block_code": "blc_001",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 1,
+      "title": "Introdução ao Regime Jurídico-Administrativo e Seus Princípios",
+      "content": "O Direito Administrativo é regido por um conjunto de normas e princípios que o distinguem do Direito Privado, formando o que se denomina Regime Jurídico-Administrativo. Este regime é caracterizado pela presença de prerrogativas e sujeições da Administração Pública, visando sempre à supremacia do interesse público e à indisponibilidade dos interesses da coletividade. Os princípios são a base para a interpretação e aplicação das normas, sendo essenciais para a compreensão da atuação estatal. A banca CEBRASPE frequentemente explora a aplicação e os limites desses princípios, exigindo do candidato não apenas a memorização, mas a compreensão aprofundada de seus desdobramentos e interconexões.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_002",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 2,
+      "title": "Princípios Expressos da Administração Pública (Art. 37, caput, CF/88)",
+      "content": "Os princípios expressos, também conhecidos como explícitos ou constitucionais, estão elencados no caput do artigo 37 da Constituição Federal de 1988, formando o mnemônico LIMPE: Legalidade, Impessoalidade, Moralidade, Publicidade e Eficiência.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_003",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 3,
+      "title": "1. Legalidade",
+      "content": "Para a Administração Pública, o princípio da legalidade significa que o administrador só pode fazer o que a lei autoriza ou determina. Diferentemente dos particulares, que podem fazer tudo o que a lei não proíbe, a Administração está estritamente vinculada à lei. Este é o alicerce do Estado de Direito e da atuação administrativa. A CEBRASPE costuma testar essa distinção fundamental.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_004",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 4,
+      "title": "2. Impessoalidade",
+      "content": "Este princípio exige que a atuação administrativa seja sempre voltada para o interesse público, sem favorecimentos ou perseguições pessoais. Veda a promoção pessoal de agentes ou autoridades por meio de publicidade de atos, programas, obras, serviços e campanhas dos órgãos públicos. A Súmula Vinculante nº 13 do STF, que trata do nepotismo, é um exemplo claro da aplicação deste princípio, juntamente com a moralidade e a igualdade.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_005",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 5,
+      "title": "3. Moralidade",
+      "content": "A moralidade administrativa impõe que a conduta do administrador público não se restrinja à legalidade formal, mas que esteja em conformidade com a ética, a boa-fé, a probidade e os bons costumes. É um dever de honestidade e lealdade para com a instituição e a coletividade.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_006",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 6,
+      "title": "4. Publicidade",
+      "content": "O princípio da publicidade impõe a transparência dos atos administrativos, garantindo o direito de acesso à informação. Contudo, a publicidade é condição de eficácia do ato, não de sua validade. A falta de publicação torna o ato ineficaz, mas não nulo ou inválido. Existem exceções à publicidade, como nos casos de informações sigilosas imprescindíveis à segurança da sociedade e do Estado, ou à intimidade e vida privada. A CEBRASPE explora frequentemente a diferença entre validade e eficácia neste contexto.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_007",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 7,
+      "title": "5. Eficiência",
+      "content": "Introduzido no caput do artigo 37 da CF pela Emenda Constitucional nº 19/1998, o princípio da eficiência exige que a Administração Pública atue com presteza, perfeição e rendimento funcional, buscando os melhores resultados na gestão dos recursos públicos. Antes da EC 19/98, já era reconhecido como princípio implícito pela doutrina e jurisprudência.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_008",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 8,
+      "title": "Princípios Implícitos da Administração Pública",
+      "content": "Além dos princípios expressos, a doutrina e a jurisprudência reconhecem diversos princípios implícitos, que, embora não estejam explicitamente no texto constitucional, são fundamentais para a atuação administrativa e derivam do próprio regime jurídico-administrativo. Muitos deles estão positivados na Lei nº 9.784/1999 (Lei do Processo Administrativo Federal).",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_009",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 9,
+      "title": "1. Supremacia do Interesse Público",
+      "content": "Considerado a pedra angular do Direito Administrativo, este princípio estabelece que o interesse da coletividade prevalece sobre o interesse particular. Justifica as prerrogativas da Administração (poder de polícia, desapropriação, etc.), mas não é absoluto, devendo ser ponderado com outros princípios e direitos fundamentais.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_010",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 10,
+      "title": "2. Indisponibilidade do Interesse Público",
+      "content": "Complementar à supremacia, este princípio determina que o administrador público não é proprietário dos bens e interesses públicos, mas mero gestor. Assim, não pode dispor deles livremente, renunciar a direitos ou deixar de exercer competências que a lei lhe atribui, salvo expressa autorização legal.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_011",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 11,
+      "title": "3. Razoabilidade e Proporcionalidade",
+      "content": "São princípios que atuam como limites à discricionariedade administrativa, exigindo que as decisões e atos da Administração sejam adequados aos fins que se propõem, necessários (não havendo outro meio menos gravoso para atingir o objetivo) e proporcionais em sentido estrito (o benefício gerado deve ser maior que o sacrifício imposto). Estão expressamente previstos no art. 2º da Lei nº 9.784/99.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_012",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 12,
+      "title": "4. Autotutela",
+      "content": "Consiste no poder-dever da Administração Pública de controlar seus próprios atos, podendo anular os atos ilegais (com efeitos ex tunc, pois não geram direitos) e revogar os atos inconvenientes ou inoportunos (com efeitos ex nunc, respeitados os direitos adquiridos). Este princípio é consagrado pelas Súmulas 346 e 473 do STF e pelo art. 53 da Lei nº 9.784/99. A CEBRASPE frequentemente testa a distinção entre anulação e revogação e os limites da atuação judicial (o Judiciário anula, mas não revoga atos administrativos).",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_013",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 13,
+      "title": "5. Segurança Jurídica",
+      "content": "Busca garantir a estabilidade das relações jurídicas, a previsibilidade das ações estatais e a proteção da confiança legítima dos administrados. Impede a aplicação retroativa de nova interpretação de lei a situações já consolidadas. A decadência administrativa (prazo para a Administração anular atos ilegais que gerem efeitos favoráveis) é um desdobramento deste princípio, previsto no art. 54 da Lei nº 9.784/99.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_014",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 14,
+      "title": "6. Motivação",
+      "content": "É o dever da Administração Pública de indicar os fundamentos de fato e de direito que determinaram a prática do ato administrativo. É essencial para o controle da legalidade e da moralidade. Todos os atos administrativos, inclusive os discricionários, devem ser motivados. O art. 50 da Lei nº 9.784/99 elenca as hipóteses em que a motivação é obrigatória. A CEBRASPE costuma cobrar a obrigatoriedade da motivação mesmo em atos discricionários.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_015",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 15,
+      "title": "7. Contraditório e Ampla Defesa",
+      "content": "Garantias fundamentais que asseguram aos administrados o direito de se manifestar e de produzir provas em processos administrativos que possam afetar seus direitos e interesses. Estão expressamente previstos no art. 2º da Lei nº 9.784/99 e são aplicáveis, por exemplo, em processos perante o Tribunal de Contas da União (Súmula Vinculante nº 3 do STF).",
+      "content_type": "teoria"
+    }
+  ],
+  "topicos": [
+    {
+      "external_topic_code": "top_001",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "2.3",
+      "title": "Princípios expressos e implícitos da administração pública",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 1
+    },
+    {
+      "external_topic_code": "top_002",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_001",
+      "topic_number": "2.3.1",
+      "title": "Princípios Expressos (Art. 37, caput, CF/88 - LIMPE)",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 2
+    },
+    {
+      "external_topic_code": "top_003",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_002",
+      "topic_number": "2.3.1.1",
+      "title": "Legalidade",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 3
+    },
+    {
+      "external_topic_code": "top_004",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_002",
+      "topic_number": "2.3.1.2",
+      "title": "Impessoalidade",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 4
+    },
+    {
+      "external_topic_code": "top_005",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_002",
+      "topic_number": "2.3.1.3",
+      "title": "Moralidade",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 5
+    },
+    {
+      "external_topic_code": "top_006",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_002",
+      "topic_number": "2.3.1.4",
+      "title": "Publicidade",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 6
+    },
+    {
+      "external_topic_code": "top_007",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_002",
+      "topic_number": "2.3.1.5",
+      "title": "Eficiência",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 7
+    },
+    {
+      "external_topic_code": "top_008",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_001",
+      "topic_number": "2.3.2",
+      "title": "Princípios Implícitos",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 8
+    },
+    {
+      "external_topic_code": "top_009",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_008",
+      "topic_number": "2.3.2.1",
+      "title": "Supremacia do Interesse Público",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 9
+    },
+    {
+      "external_topic_code": "top_010",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_008",
+      "topic_number": "2.3.2.2",
+      "title": "Indisponibilidade do Interesse Público",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 10
+    },
+    {
+      "external_topic_code": "top_011",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_008",
+      "topic_number": "2.3.2.3",
+      "title": "Razoabilidade e Proporcionalidade",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 11
+    },
+    {
+      "external_topic_code": "top_012",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_008",
+      "topic_number": "2.3.2.4",
+      "title": "Autotutela",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 12
+    },
+    {
+      "external_topic_code": "top_013",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_008",
+      "topic_number": "2.3.2.5",
+      "title": "Segurança Jurídica",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 13
+    },
+    {
+      "external_topic_code": "top_014",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_008",
+      "topic_number": "2.3.2.6",
+      "title": "Motivação",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 14
+    },
+    {
+      "external_topic_code": "top_015",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_008",
+      "topic_number": "2.3.2.7",
+      "title": "Contraditório e Ampla Defesa",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 15
+    }
+  ],
+  "topico_componentes": [
+    {
+      "component_id": "cmp_001",
+      "topic_id": null,
+      "component_type": "conceito",
+      "content": "A Administração Pública só pode agir se houver previsão legal, e nos estritos limites da lei. É o princípio da vinculação positiva à lei.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_002",
+      "topic_id": null,
+      "component_type": "conceito",
+      "content": "A atuação do agente público deve ser sempre em nome do interesse público, sem promoção pessoal ou distinção entre os administrados.",
+      "order": 2
+    },
+    {
+      "component_id": "cmp_003",
+      "topic_id": null,
+      "component_type": "conceito",
+      "content": "Exige conduta ética, proba e de boa-fé do administrador, para além da mera legalidade formal.",
+      "order": 3
+    },
+    {
+      "component_id": "cmp_004",
+      "topic_id": null,
+      "component_type": "conceito",
+      "content": "Transparência dos atos administrativos, com exceções para sigilo. É condição de eficácia, não de validade.",
+      "order": 4
+    },
+    {
+      "component_id": "cmp_005",
+      "topic_id": null,
+      "component_type": "conceito",
+      "content": "Busca por melhores resultados, produtividade e economicidade na gestão pública. Incluído pela EC 19/98.",
+      "order": 5
+    },
+    {
+      "component_id": "cmp_006",
+      "topic_id": null,
+      "component_type": "conceito",
+      "content": "O interesse da coletividade prevalece sobre o interesse individual, justificando prerrogativas da Administração.",
+      "order": 6
+    },
+    {
+      "component_id": "cmp_007",
+      "topic_id": null,
+      "component_type": "conceito",
+      "content": "O administrador é mero gestor do interesse público, não podendo dispor dele livremente.",
+      "order": 7
+    },
+    {
+      "component_id": "cmp_008",
+      "topic_id": null,
+      "component_type": "conceito",
+      "content": "Limites à discricionariedade, exigindo adequação, necessidade e proporcionalidade em sentido estrito dos atos administrativos.",
+      "order": 8
+    },
+    {
+      "component_id": "cmp_009",
+      "topic_id": null,
+      "component_type": "conceito",
+      "content": "Poder-dever da Administração de rever seus próprios atos (anular ilegais, revogar inoportunos/inconvenientes).",
+      "order": 9
+    },
+    {
+      "component_id": "cmp_010",
+      "topic_id": null,
+      "component_type": "conceito",
+      "content": "Garante estabilidade, previsibilidade e proteção da confiança nas relações jurídicas com a Administração.",
+      "order": 10
+    },
+    {
+      "component_id": "cmp_011",
+      "topic_id": null,
+      "component_type": "conceito",
+      "content": "Dever de explicitar os fundamentos de fato e de direito dos atos administrativos, mesmo os discricionários.",
+      "order": 11
+    },
+    {
+      "component_id": "cmp_012",
+      "topic_id": null,
+      "component_type": "conceito",
+      "content": "Direito de se manifestar e produzir provas em processos administrativos que afetem direitos e interesses.",
+      "order": 12
+    },
+    {
+      "component_id": "cmp_013",
+      "topic_id": null,
+      "component_type": "observacao_banca",
+      "content": "A CEBRASPE adora cobrar a distinção entre a legalidade para o particular (pode fazer tudo que a lei não proíbe) e para o administrador público (só pode fazer o que a lei permite).",
+      "order": 13
+    },
+    {
+      "component_id": "cmp_014",
+      "topic_id": null,
+      "component_type": "observacao_banca",
+      "content": "Questões sobre nepotismo são recorrentes, vinculando-o diretamente à violação da impessoalidade, moralidade e igualdade, conforme Súmula Vinculante 13 do STF.",
+      "order": 14
+    },
+    {
+      "component_id": "cmp_015",
+      "topic_id": null,
+      "component_type": "observacao_banca",
+      "content": "A principal pegadinha da CEBRASPE sobre publicidade é confundir 'validade' com 'eficácia'. A falta de publicidade torna o ato ineficaz, mas não inválido ou nulo.",
+      "order": 15
+    },
+    {
+      "component_id": "cmp_016",
+      "topic_id": null,
+      "component_type": "observacao_banca",
+      "content": "A CEBRASPE pode questionar sobre a origem da eficiência (EC 19/98) e sua aplicação em conjunto com outros princípios, como a legalidade e a moralidade.",
+      "order": 16
+    },
+    {
+      "component_id": "cmp_017",
+      "topic_id": null,
+      "component_type": "observacao_banca",
+      "content": "A CEBRASPE explora a diferença entre anulação (ilegalidade, ex tunc) e revogação (conveniência/oportunidade, ex nunc) e os limites do controle judicial (Judiciário anula, mas não revoga). Súmulas 346 e 473 do STF são essenciais.",
+      "order": 17
+    },
+    {
+      "component_id": "cmp_018",
+      "topic_id": null,
+      "component_type": "observacao_banca",
+      "content": "Questões sobre decadência administrativa (art. 54 da Lei 9.784/99) e a irretroatividade de nova interpretação (art. 2º, parágrafo único, XIII, da Lei 9.784/99) são comuns.",
+      "order": 18
+    },
+    {
+      "component_id": "cmp_019",
+      "topic_id": null,
+      "component_type": "observacao_banca",
+      "content": "A banca frequentemente tenta induzir ao erro afirmando que atos discricionários não precisam de motivação. Lembre-se: todos os atos administrativos devem ser motivados.",
+      "order": 19
+    }
+  ],
+  "pegadinhas": [
+    {
+      "trap_id": "peg_001",
+      "material_id": "mat_001",
+      "topic_id": "top_003",
+      "title": "Pegadinha 1",
+      "description": "Confundir a legalidade para o particular com a legalidade para a Administração Pública. O particular pode fazer tudo o que a lei não proíbe; a Administração só pode fazer o que a lei permite.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 1
+    },
+    {
+      "trap_id": "peg_002",
+      "material_id": "mat_001",
+      "topic_id": "top_006",
+      "title": "Pegadinha 2",
+      "description": "Confundir a publicidade como condição de validade do ato administrativo. A publicidade é condição de eficácia, não de validade. A falta de publicação torna o ato ineficaz, mas não nulo.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 2
+    },
+    {
+      "trap_id": "peg_003",
+      "material_id": "mat_001",
+      "topic_id": "top_014",
+      "title": "Pegadinha 3",
+      "description": "Afirmar que atos discricionários não precisam de motivação. Todos os atos administrativos, sejam vinculados ou discricionários, devem ser motivados.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 3
+    },
+    {
+      "trap_id": "peg_004",
+      "material_id": "mat_001",
+      "topic_id": "top_012",
+      "title": "Pegadinha 4",
+      "description": "Atribuir ao Poder Judiciário a competência para revogar atos administrativos por conveniência e oportunidade. O Judiciário pode anular atos ilegais, mas não revogá-los.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 4
+    },
+    {
+      "trap_id": "peg_005",
+      "material_id": "mat_001",
+      "topic_id": "top_002",
+      "title": "Pegadinha 5",
+      "description": "Misturar princípios expressos do Art. 37 da CF com direitos e garantias fundamentais do Art. 5º da CF.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 5
+    },
+    {
+      "trap_id": "peg_006",
+      "material_id": "mat_001",
+      "topic_id": "top_009",
+      "title": "Pegadinha 6",
+      "description": "Considerar o princípio da supremacia do interesse público como absoluto, sem ponderação com outros direitos e princípios.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 6
+    },
+    {
+      "trap_id": "peg_007",
+      "material_id": "mat_001",
+      "topic_id": "top_013",
+      "title": "Pegadinha 7",
+      "description": "Desconsiderar o prazo decadencial de 5 anos para a Administração anular atos ilegais que gerem efeitos favoráveis, salvo má-fé comprovada (Art. 54 da Lei 9.784/99).",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 7
+    }
+  ],
+  "pontos_memorizacao": [
+    {
+      "memory_id": "mem_001",
+      "material_id": "mat_001",
+      "topic_id": "top_002",
+      "title": null,
+      "content": "Mnemônico LIMPE: Legalidade, Impessoalidade, Moralidade, Publicidade, Eficiência (Art. 37, caput, CF/88).",
+      "order": 1
+    },
+    {
+      "memory_id": "mem_002",
+      "material_id": "mat_001",
+      "topic_id": "top_006",
+      "title": null,
+      "content": "Publicidade = Eficácia (não validade).",
+      "order": 2
+    },
+    {
+      "memory_id": "mem_003",
+      "material_id": "mat_001",
+      "topic_id": "top_007",
+      "title": null,
+      "content": "Eficiência foi incluída pela EC 19/98.",
+      "order": 3
+    },
+    {
+      "memory_id": "mem_004",
+      "material_id": "mat_001",
+      "topic_id": "top_012",
+      "title": null,
+      "content": "Autotutela: Anular (ilegalidade, ex tunc) e Revogar (conveniência/oportunidade, ex nunc). Súmulas 346 e 473 STF.",
+      "order": 4
+    },
+    {
+      "memory_id": "mem_005",
+      "material_id": "mat_001",
+      "topic_id": "top_014",
+      "title": null,
+      "content": "Todo ato administrativo deve ser motivado.",
+      "order": 5
+    },
+    {
+      "memory_id": "mem_006",
+      "material_id": "mat_001",
+      "topic_id": "top_008",
+      "title": null,
+      "content": "Lei nº 9.784/99 positiva vários princípios implícitos (finalidade, motivação, razoabilidade, proporcionalidade, ampla defesa, contraditório, segurança jurídica, interesse público, eficiência).",
+      "order": 6
+    }
+  ],
+  "quadro_sinotico_itens": [
+    {
+      "summary_item_id": "sum_001",
+      "title": null,
+      "content": "",
+      "order": 1
+    },
+    {
+      "summary_item_id": "sum_002",
+      "title": null,
+      "content": "",
+      "order": 2
+    },
+    {
+      "summary_item_id": "sum_003",
+      "title": null,
+      "content": "",
+      "order": 3
+    },
+    {
+      "summary_item_id": "sum_004",
+      "title": null,
+      "content": "",
+      "order": 4
+    },
+    {
+      "summary_item_id": "sum_005",
+      "title": null,
+      "content": "",
+      "order": 5
+    },
+    {
+      "summary_item_id": "sum_006",
+      "title": null,
+      "content": "",
+      "order": 6
+    },
+    {
+      "summary_item_id": "sum_007",
+      "title": null,
+      "content": "",
+      "order": 7
+    },
+    {
+      "summary_item_id": "sum_008",
+      "title": null,
+      "content": "",
+      "order": 8
+    },
+    {
+      "summary_item_id": "sum_009",
+      "title": null,
+      "content": "",
+      "order": 9
+    },
+    {
+      "summary_item_id": "sum_010",
+      "title": null,
+      "content": "",
+      "order": 10
+    },
+    {
+      "summary_item_id": "sum_011",
+      "title": null,
+      "content": "",
+      "order": 11
+    },
+    {
+      "summary_item_id": "sum_012",
+      "title": null,
+      "content": "",
+      "order": 12
+    }
+  ],
+  "questoes": [
+    {
+      "question_id": "qst_001",
+      "material_id": "mat_001",
+      "topic_id": "top_003",
+      "board": "CEBRASPE",
+      "year": 2020,
+      "organization": "TRE-PA",
+      "role": "Analista Administrativo",
+      "statement": "O princípio da legalidade, no âmbito da Administração Pública, permite que o administrador faça tudo o que a lei não proíbe, tal qual ocorre com os particulares.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": null,
+      "external_reference": "Questão adaptada de CEBRASPE (CESPE) - AFRDF (SEFAZ DF)/SEFAZ - 2020.",
+      "commentary": "Errado. O princípio da legalidade para a Administração Pública é a vinculação positiva à lei: o administrador só pode fazer o que a lei autoriza ou determina. Para os particulares, a legalidade é a vinculação negativa: podem fazer tudo o que a lei não proíbe. A assertiva inverte essa lógica fundamental.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_001"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_002",
+      "material_id": "mat_001",
+      "topic_id": "top_006",
+      "board": "CEBRASPE",
+      "year": 2021,
+      "organization": "TJ-DFT",
+      "role": "Técnico Judiciário",
+      "statement": "A ausência de publicidade de um ato administrativo regularmente editado o torna inválido, uma vez que a publicidade é requisito de sua validade.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": null,
+      "external_reference": "Questão adaptada de CEBRASPE/CESPE - 2021.",
+      "commentary": "Errado. A publicidade é condição de eficácia do ato administrativo, não de sua validade. Um ato não publicado é válido, mas não produz efeitos externos. A falta de publicidade não o torna inválido ou nulo. Esta é uma pegadinha clássica da CEBRASPE.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_002"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_003",
+      "material_id": "mat_001",
+      "topic_id": "top_004",
+      "board": "CEBRASPE",
+      "year": 2016,
+      "organization": "PC-PE",
+      "role": "Delegado de Polícia",
+      "statement": "A vedação ao nepotismo, conforme entendimento do Supremo Tribunal Federal, decorre diretamente dos princípios constitucionais da impessoalidade, da moralidade administrativa e da igualdade, não sendo necessária a edição de lei formal para coibir sua prática.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": null,
+      "external_reference": "Questão CEBRASPE (CESPE) - PC-PE - Delegado de Polícia - 2016.",
+      "commentary": "Certo. Conforme a Súmula Vinculante nº 13 do STF, o nepotismo viola diretamente os princípios da impessoalidade, moralidade e igualdade, não sendo necessária uma lei formal específica para coibi-lo.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_003"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_004",
+      "material_id": "mat_001",
+      "topic_id": "top_012",
+      "board": "CEBRASPE",
+      "year": 2021,
+      "organization": "PF",
+      "role": "Delegado de Polícia Federal",
+      "statement": "O Poder Judiciário, no exercício de suas funções, pode revogar atos administrativos praticados pelo Poder Executivo que se mostrem inconvenientes ou inoportunos, desde que respeitados os direitos adquiridos.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": null,
+      "external_reference": "Questão CEBRASPE (CESPE) - PF - Delegado de Polícia Federal - 2021.",
+      "commentary": "Errado. O Poder Judiciário pode anular atos administrativos ilegais (controle de legalidade), mas não pode revogá-los por critérios de conveniência ou oportunidade (controle de mérito), pois isso invadiria a esfera da discricionariedade administrativa. A revogação é prerrogativa da própria Administração.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_004"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_005",
+      "material_id": "mat_001",
+      "topic_id": "top_014",
+      "board": "CEBRASPE",
+      "year": 2024,
+      "organization": "TCE-AC",
+      "role": "Analista Ministerial",
+      "statement": "A motivação é um princípio que se aplica exclusivamente aos atos administrativos vinculados, sendo dispensável nos atos discricionários, em razão da liberdade de escolha do administrador.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": null,
+      "external_reference": "Questão adaptada de CEBRASPE (CESPE) - TCE AC - Analista Ministerial - Área Administração - 2024.",
+      "commentary": "Errado. O princípio da motivação se aplica a todos os atos administrativos, sejam eles vinculados ou discricionários. Mesmo nos atos discricionários, o administrador deve justificar os motivos de fato e de direito que o levaram a exercer sua liberdade de escolha.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_005"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_006",
+      "material_id": "mat_001",
+      "topic_id": "top_013",
+      "board": "CEBRASPE",
+      "year": 2026,
+      "organization": "AGU",
+      "role": "Procurador",
+      "statement": "O princípio da segurança jurídica impede que a Administração Pública aplique retroativamente nova interpretação de lei a situações jurídicas já consolidadas durante a vigência de orientação anterior.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": null,
+      "external_reference": "Questão adaptada de CEBRASPE/CESPE - 2026.",
+      "commentary": "Certo. O princípio da segurança jurídica, positivado no art. 2º, parágrafo único, inciso XIII, da Lei nº 9.784/99, veda a aplicação retroativa de nova interpretação de norma administrativa. Isso protege a confiança legítima dos administrados.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_006"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_007",
+      "material_id": "mat_001",
+      "topic_id": "top_007",
+      "board": "CEBRASPE",
+      "year": 2009,
+      "organization": "SEDS",
+      "role": "Perito Oficial Criminal",
+      "statement": "O princípio da eficiência foi inserido no caput do art. 37 da Constituição Federal de 1988 apenas com a edição da Emenda Constitucional n.º 19/1998, não havendo qualquer reconhecimento anterior pela doutrina ou jurisprudência.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": null,
+      "external_reference": "Questão CEBRASPE (CESPE) - SEDS - Perito Oficial Criminal - 2009.",
+      "commentary": "Errado. Embora a eficiência tenha sido expressamente incluída no art. 37 da CF pela EC 19/98, ela já era reconhecida como um princípio implícito da Administração Pública pela doutrina e jurisprudência antes dessa emenda.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_007"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_008",
+      "material_id": "mat_001",
+      "topic_id": "top_009",
+      "board": "CEBRASPE",
+      "year": 2023,
+      "organization": "TJ-ES",
+      "role": "Analista Judiciário",
+      "statement": "Os princípios da supremacia do interesse público e da indisponibilidade do interesse público são basilares ao regime jurídico administrativo, porquanto deles decorrem as prerrogativas e as restrições aplicadas à administração pública.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": null,
+      "external_reference": "Questão CEBRASPE (CESPE) - TJ ES - Analista Judiciário - Área: Administrativa - 2023.",
+      "commentary": "Certo. A supremacia do interesse público confere prerrogativas à Administração, enquanto a indisponibilidade do interesse público impõe restrições ao administrador, que atua como mero gestor. Ambos são pilares do regime jurídico-administrativo.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_008"
+        ],
+        "count": 1
+      }
+    }
+  ],
+  "comentarios_questoes": [
+    {
+      "comment_id": "com_001",
+      "question_id": "qst_001",
+      "content": "Errado. O princípio da legalidade para a Administração Pública é a vinculação positiva à lei: o administrador só pode fazer o que a lei autoriza ou determina. Para os particulares, a legalidade é a vinculação negativa: podem fazer tudo o que a lei não proíbe. A assertiva inverte essa lógica fundamental.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_002",
+      "question_id": "qst_002",
+      "content": "Errado. A publicidade é condição de eficácia do ato administrativo, não de sua validade. Um ato não publicado é válido, mas não produz efeitos externos. A falta de publicidade não o torna inválido ou nulo. Esta é uma pegadinha clássica da CEBRASPE.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_003",
+      "question_id": "qst_003",
+      "content": "Certo. Conforme a Súmula Vinculante nº 13 do STF, o nepotismo viola diretamente os princípios da impessoalidade, moralidade e igualdade, não sendo necessária uma lei formal específica para coibi-lo.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_004",
+      "question_id": "qst_004",
+      "content": "Errado. O Poder Judiciário pode anular atos administrativos ilegais (controle de legalidade), mas não pode revogá-los por critérios de conveniência ou oportunidade (controle de mérito), pois isso invadiria a esfera da discricionariedade administrativa. A revogação é prerrogativa da própria Administração.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_005",
+      "question_id": "qst_005",
+      "content": "Errado. O princípio da motivação se aplica a todos os atos administrativos, sejam eles vinculados ou discricionários. Mesmo nos atos discricionários, o administrador deve justificar os motivos de fato e de direito que o levaram a exercer sua liberdade de escolha.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_006",
+      "question_id": "qst_006",
+      "content": "Certo. O princípio da segurança jurídica, positivado no art. 2º, parágrafo único, inciso XIII, da Lei nº 9.784/99, veda a aplicação retroativa de nova interpretação de norma administrativa. Isso protege a confiança legítima dos administrados.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_007",
+      "question_id": "qst_007",
+      "content": "Errado. Embora a eficiência tenha sido expressamente incluída no art. 37 da CF pela EC 19/98, ela já era reconhecida como um princípio implícito da Administração Pública pela doutrina e jurisprudência antes dessa emenda.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_008",
+      "question_id": "qst_008",
+      "content": "Certo. A supremacia do interesse público confere prerrogativas à Administração, enquanto a indisponibilidade do interesse público impõe restrições ao administrador, que atua como mero gestor. Ambos são pilares do regime jurídico-administrativo.",
+      "explanation_alternatives": ""
+    }
+  ],
+  "checklist_revisao": [
+    {
+      "checklist_id": "chk_001",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Dominar o mnemônico LIMPE e o significado de cada princípio expresso.",
+      "completed": false,
+      "order": 1
+    },
+    {
+      "checklist_id": "chk_002",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Entender a diferença entre legalidade para o particular e para a Administração Pública.",
+      "completed": false,
+      "order": 2
+    },
+    {
+      "checklist_id": "chk_003",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Saber que a publicidade é condição de eficácia, não de validade, e suas exceções.",
+      "completed": false,
+      "order": 3
+    },
+    {
+      "checklist_id": "chk_004",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Conhecer a origem da eficiência (EC 19/98) e seu conceito.",
+      "completed": false,
+      "order": 4
+    },
+    {
+      "checklist_id": "chk_005",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Compreender os princípios implícitos, especialmente Supremacia e Indisponibilidade do Interesse Público.",
+      "completed": false,
+      "order": 5
+    },
+    {
+      "checklist_id": "chk_006",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Dominar a autotutela (anulação vs. revogação) e as Súmulas 346 e 473 do STF.",
+      "completed": false,
+      "order": 6
+    },
+    {
+      "checklist_id": "chk_007",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Entender a segurança jurídica, proteção da confiança e decadência administrativa (Lei 9.784/99, art. 54).",
+      "completed": false,
+      "order": 7
+    },
+    {
+      "checklist_id": "chk_008",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Saber que a motivação é obrigatória para todos os atos administrativos, inclusive discricionários (Lei 9.784/99, art. 50).",
+      "completed": false,
+      "order": 8
+    },
+    {
+      "checklist_id": "chk_009",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Revisar a Lei nº 9.784/99, especialmente os artigos 2º, 50, 53 e 54.",
+      "completed": false,
+      "order": 9
+    },
+    {
+      "checklist_id": "chk_010",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Focar nas pegadinhas da CEBRASPE, como a confusão entre validade/eficácia e a motivação de atos discricionários.",
+      "completed": false,
+      "order": 10
+    }
+  ],
+  "referencias": [
+    {
+      "reference_id": "ref_001",
+      "material_id": "mat_001",
+      "reference_type": "Legislação",
+      "author_name": null,
+      "title": "Constituição da República Federativa do Brasil de 1988",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "http://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_002",
+      "material_id": "mat_001",
+      "reference_type": "Legislação",
+      "author_name": null,
+      "title": "Lei nº 9.784, de 29 de janeiro de 1999",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "http://www.planalto.gov.br/ccivil_03/leis/L9784.htm",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_003",
+      "material_id": "mat_001",
+      "reference_type": "Emenda Constitucional",
+      "author_name": null,
+      "title": "Emenda Constitucional nº 19, de 4 de junho de 1998",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "http://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc19.htm",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_004",
+      "material_id": "mat_001",
+      "reference_type": "Súmula STF",
+      "author_name": null,
+      "title": "Súmula 346 do Supremo Tribunal Federal",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.stf.jus.br/portal/jurisprudencia/menuSumario.asp?sumula=346",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_005",
+      "material_id": "mat_001",
+      "reference_type": "Súmula STF",
+      "author_name": null,
+      "title": "Súmula 473 do Supremo Tribunal Federal",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.stf.jus.br/portal/jurisprudencia/menuSumario.asp?sumula=473",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_006",
+      "material_id": "mat_001",
+      "reference_type": "Súmula Vinculante STF",
+      "author_name": null,
+      "title": "Súmula Vinculante 13 do Supremo Tribunal Federal",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.stf.jus.br/portal/jurisprudencia/menuSumario.asp?sumula=SV%2013",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_007",
+      "material_id": "mat_001",
+      "reference_type": "Súmula STJ",
+      "author_name": null,
+      "title": "Súmula 633 do Superior Tribunal de Justiça",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.stj.jus.br/docs_internet/sumulas/sumulas_601_650.pdf",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_008",
+      "material_id": "mat_001",
+      "reference_type": "Doutrina",
+      "author_name": null,
+      "title": "DI PIETRO, Maria Sylvia Zanella. Direito Administrativo. 37. ed. Rio de Janeiro: Forense, 2024.",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": null,
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_009",
+      "material_id": "mat_001",
+      "reference_type": "Doutrina",
+      "author_name": null,
+      "title": "MELLO, Celso Antônio Bandeira de. Curso de Direito Administrativo. 36. ed. São Paulo: Malheiros, 2024.",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": null,
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_010",
+      "material_id": "mat_001",
+      "reference_type": "Artigo/Material Online",
+      "author_name": null,
+      "title": "Princípios - Processo Administrativo - Trilhante",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEVifnJ-UjJd5nlnPUy32FKoMv4tDNA-GTo0lcfsL-Z2sIiJkgYZ1ITnjL1mavUwruvxC_KAOTWjHGkdau8sEQXLYldXZVXckVMyJNlkgwoplAastCtnO-5AnjLwHydz9SGEZoOnKloP-yuekX30HXjxvoo-pG6Lzu2L_uDtDlUiEpcCyA=",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_011",
+      "material_id": "mat_001",
+      "reference_type": "Artigo/Material Online",
+      "author_name": null,
+      "title": "Lei 9.784/99 para o CNU (Lei do Processo Administrativo Federal) - Estratégia Concursos",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH7VCh-bBCyo3Vx026dMHkrXHqwLDY255UJkOFyTvzBYS_2kngHxoXbcfCsEvH8qJxqLingjoE53m6QADBZPl_N2ofwU-_QH2wKMH012yKOVZu7_Rrd07S26h8Dsi2jd0EHUrYoGE-jRsvRDKABjSKna0ptoX7KA7A=",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_012",
+      "material_id": "mat_001",
+      "reference_type": "Artigo/Material Online",
+      "author_name": null,
+      "title": "Principais Súmulas para Direito Administrativo. Veja quais são - Estratégia Concursos",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHMgmN6q2lPjImBeIGY-GQg9qjhvgoJGoqKBHmJn7uhKpxScfWq5rXdzDzfz2BuDr7zr8E10HOXROojHvE3eRZmcExi5VI--jqBVkgiR_RMX0hBvVRMADP_hmgDWXnXCpgmdIpavBolNzW3q-OCeI79Zwf9ZY68CFOTWPvzhCi1UKja2mPiIuftqgM4zH6g9XmZbTjrnbqi0z2LcouKmLBroS6I_ts=",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_013",
+      "material_id": "mat_001",
+      "reference_type": "Artigo/Material Online",
+      "author_name": null,
+      "title": "Segurança jurídica: entenda o seu enunciado - Estratégia Concursos",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGL9d5BZTiBzurOu5HTxwlhW7fH6o6IuM0NAgpCfW_Gxv38HJYvD2iGv3VLK-dVR0bV4sp4ErNMFJVw2bAcJfVC0hXxEqXwCFn5k5NMWohmFWb56kIpaIMNJU1vjJWdxXeQ6rEnzVzeFFf30sUeJJlgp1iWxUyCQByZdQ==",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_014",
+      "material_id": "mat_001",
+      "reference_type": "Artigo/Material Online",
+      "author_name": null,
+      "title": "O princípio da eficiência na administração pública foi in... - Gran Questões",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGXCK0zr8Ggrw9kmxxCLN13u3DgzLUI4loL-s1d7I-J91IJV65giAc655B5qHzA5xa8fISKt-Jo0F8_hvwr26tpAkmNo2YOz4yRwHOoXYjRgH9CgmQt29C-MoCH0KDm_dUq6-6rxiL4R6tMFTja1nEjhnWaXtdSFdhc63erv-rgwVoV0ASGm7sJpEur0nWyYW6nAHEI8xCkRPm-9RSynA==",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_015",
+      "material_id": "mat_001",
+      "reference_type": "Artigo/Material Online",
+      "author_name": null,
+      "title": "Princípio da eficiência - Enciclopédia Jurídica da PUCSP",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEq5nLEsaLi_rcTD6zURHvF8JpbdynPeXcdcsf4r8f4uqCiA9nl20sfjwM04ohJOKVLrE8x8Tal9JxAFUnidQTFNwxkXrbqZGu1Q1ynPz4_Ewxohsn2787inzD8OzlSWs_Fjrhn22kjTWtQOCkMvX4vT6OlOLf00jripxtqy_7jJrv-6N6qVJA0VZJzKg==",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_016",
+      "material_id": "mat_001",
+      "reference_type": "Artigo/Material Online",
+      "author_name": null,
+      "title": "DOD Pédia - Buscador Dizer o Direito (Autotutela)",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG1LaRhURMU4E34r6z8PZpEZRmMVdh6XIT_YXyJAXxek0Lc4BLe8WgTU7hxBiADlWrwWuli3ZuWbYMJNGe1HCpcQHI-yz4FNKWOyC73lEE1PEnTFLmOEUXDa-RTyqwFs9ye-f_Ybmw05my2N63PV2pC_nbIQIwfKgYxi0MvLviRnZDbBzc6SozBp4EeU8bnag==",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_017",
+      "material_id": "mat_001",
+      "reference_type": "Artigo/Material Online",
+      "author_name": null,
+      "title": "O Princípio da Motivação requer da Administração Pública a ... - Qconcursos",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF-Er6hJqlD6cstBf1GmmN7LRk_Z4jkZK-HYW1zlZm8-Qw5LMGcoTYecA6hbs4RFIAIhFUbVGyHHFxAix2O8suc5DMLFUhPJRXHnBKamgFQlyS8PQK2vt5-pyzfzB8YfNY7zV80GHJ_zJ-tCItPlY3AXLiOrjqBUMBjkGBQFPQRxQ==",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_018",
+      "material_id": "mat_001",
+      "reference_type": "Vídeo Educacional",
+      "author_name": null,
+      "title": "LIMPE: Principles of Public Administration (CEBRASPE Questions) - YouTube",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHv8mdExuuJByIyVdg4wYOu9sooWqfePRBEwc8NKqjc-9SyPj8kbSjCKb_xoE9lTVObuUgHs99W2adHwSdanyZRefvwGqDUY30dpSFSPnNFSTalpeVDbi4JLNBTIsgCmii8_8viSYs=",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_019",
+      "material_id": "mat_001",
+      "reference_type": "Vídeo Educacional",
+      "author_name": null,
+      "title": "Direito Administrativo CESPE: Questões Comentadas com Gabarito | Concursos 2025 - YouTube",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEotIOiioUvB2Ec1UiW_oB_cSSvSVzI0BzF1FAK6VQDv8lhBYC8UIOiLtTWW9ziCNBFbIf0hiSJ0d8VqtD73dPIlpO5RZFoXijFFca0lXwJba3EPTfqPqxozkndHc8WlrrdvEvhHEs=",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_020",
+      "material_id": "mat_001",
+      "reference_type": "Vídeo Educacional",
+      "author_name": null,
+      "title": "20 FGV and Cebraspe pranks - YouTube",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGvg0gxlUzFayZuO5ccCHnqnv0rtCeE8zj9cpklLhe2wTVP7kFGYWC8BJGPeoBLJviWX2P4E22Jj-kClmRCQMAn-plrjPhDLyxDUEt3QJtbHP7Mj179rY00HAtEPDbSPvfBxP-MQfU=",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_021",
+      "material_id": "mat_001",
+      "reference_type": "Artigo/Material Online",
+      "author_name": null,
+      "title": "Súmula 473 STF comentada - EmÁudio Concursos",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHqHaMg9_fJXzeosxMul09ayuIiQQtt0wOeS4Z3lYGBHglGeurWpQ5ZAaVPtrK5H_kHVfpIBMmGybSV_26kg6iMqOiQrkXGhArjLgJogCxT6oTpt9OmbRXVMiPKBZSL3eiOk5b_PyBsCuke15iUxN2LHjGqRg==",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_022",
+      "material_id": "mat_001",
+      "reference_type": "Artigo/Material Online",
+      "author_name": null,
+      "title": "Princípio da Indisponibilidade do Interesse Público - Modelo Inicial",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGbJ1Er71kPK4fMq8v8XEpxnW6ccB3tYKWa3BvWxpJf8fzsPm8O2Zm4TKvUOTCjANmOxug31dB6UJC4l2kuv5043WdD3OXQ4Ef-veCdFA9LkBipUQ_C8Ht63tP2maBsZQZsBa8YLjF3C-9zAQVFsjvoYmXRNt35cGxqoThTGez7DVaMw9MOpAdUva10QbQ314l5jCsIntBCM8etSf0O_gcMFHN_ugYBu-g==",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_023",
+      "material_id": "mat_001",
+      "reference_type": "Artigo/Material Online",
+      "author_name": null,
+      "title": "Administrativo: Controle da Administração. Veja as súmulas e julgados do STF e STJ",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFyen5hTR0TP-GqAxontaQFhj4q_ENC9quOPNBb_2vDlqGyV3T671EI_uzwvWE54sZgsSkBAPO8TGeUbn-CAKtiM1WXHXz1MUI5MjHsHXsK9R-u9WbUoqz_aE_tsAegSU1NButNqrLu_KK1YCDjYmtsk-4EIV1QUzpSa71or7qM",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_024",
+      "material_id": "mat_001",
+      "reference_type": "Artigo/Material Online",
+      "author_name": null,
+      "title": "Questões CEBRASPE (PARTE I - Princípios e Atos Administrativos) - Tec Concursos",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFUQPJP-xLrclEU6ItDvfJhoPC72ZK3DNET72EnDxQG9BKT0E4wQzdacPg6T5vvIWTpVBBbQhHQd3WkMRIulY_Zd-LEbyMCtQNGubRZnBI-mJmQP7fqORaIpTD-LGd3onR27pwKnyKDo6tc4ntaQTNE5gKuul9KXSZ2V6akh4491JbxdC075bH5guh3jy5a1KGFRfnECjWIQEa9dfAwNiC1L9gx7mk=",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_025",
+      "material_id": "mat_001",
+      "reference_type": "Artigo/Material Online",
+      "author_name": null,
+      "title": "Administrative Principles | CESPE Questions | Public Service Exam - YouTube",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFf7tYy_dztU0dQzMWONDYWsXc4O7Y9umqAEBuVBJx3JH_5KSpNXTF4zDyBqSW8RQM-1Jo5jSzFPCiNeFl79dgnnEJ4xKWAjgy4RoBaK6LNxpcT02JbJFbyu_R5jctaal34Wwx9wUs=",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_026",
+      "material_id": "mat_001",
+      "reference_type": "Artigo/Material Online",
+      "author_name": null,
+      "title": "Questão Tendo como referência a jurisprudência majoritária do STF acerca dos princípios expressos e implícitos da adm...",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHkJo3RUT9eMyQGgreNQAcZxMBe4LBwDEkKrEJwWLkO_EOvjDNKPBoz4FogJBGh6d33pu707ZRlm-dkD1W8Us5FySsWP9sZy7OBXr3KICnQ_otNlzve7XBgqoZzBBzHTvKa33qeVOJrTj5Gxs3TvhU9cLU78NDSjpITtNp4q6Ga1v0ubxGh",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_027",
+      "material_id": "mat_001",
+      "reference_type": "Artigo/Material Online",
+      "author_name": null,
+      "title": "Princípio da segurança jurídica no direito administrativo brasileiro",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE1tUaenYQb7BrflkU28EAFAgmXN6dXY4JtJhg8bAw5OJmn2rEfPMADO2ibVLN9qgFnyp_zubgXI_qPSB_v2P3w4DW5vAxX7nSB9iiMUJvKVDrmA0puFBoOo69ztS9GDuZSZBNGNf3qzyjaZ2RbyeZu-FRnI1pl6iAgUtlW9acc6QLjrSn6d1qfYRVLzG-sNoNCLc06-vnlKEeEl6tZSvZDfTj06Lxo2g8k2Lqk2Z0UPgfS0gc6-jrm-Q==",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_028",
+      "material_id": "mat_001",
+      "reference_type": "Artigo/Material Online",
+      "author_name": null,
+      "title": "SÚMULAS - Editora Juspodivm",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHYOpUzp_hJRKHFUst9QrAbx7eMCJ5JY2I_mt9WCceJcK_sUOfK_GkT6ZqK_W-O0J72iEy8JiLbl55dMyeDQessIUwv8DT7DUeIKXBuyLmiBY6fvPr9iIosb2N-rrxzQCcG2QeCJqXFusoQ-7xwd_4RCy2GIWK9Y3-MocPJKPWYksi4Vi9Wywa-L6Vw0qKC2zvHBZ_eDXgE0xQECQfBq8cBW7Q==",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_029",
+      "material_id": "mat_001",
+      "reference_type": "Artigo/Material Online",
+      "author_name": null,
+      "title": "O princípio da autotutela da Administração Pública à luz das súmulas 346 e 473 do STF com",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFooX5wL039Xbo9FyHR9C2Bpwj3dfjOIHPUhpdAsJht3b8RoRl3uhATS3QfhGE136Obe0rbbI4IR87lm2VB0hg7nMiYttb5lPVeG623zT2PZW_c70CVzKbZeWMxg-naDg4dSmpgVqiythzhOXSG9xAqQpTN1ENa7zKJG79g",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_030",
+      "material_id": "mat_001",
+      "reference_type": "Artigo/Material Online",
+      "author_name": null,
+      "title": "Questão A súmula nº 346 do STF, estabelece que “a administração pública pode declarar a nulidade dos seus próprios at...",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHPnrWQe-vDu7aCZ9eoCo2uYZukiz9RvoTK6h33h1Xhi2dfyk9WoO_0t_3WxRDR-_gICBq_Wdl_uABMTY_Y0QBFYSIV0JV69Jx4316SBlZYM6sBr1S7p7tuDUQ9_Cudo0GevSGZcbG1lS5sn1uHH1FChUPr72VTUPeo0c1WQMe8oIU=",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_031",
+      "material_id": "mat_001",
+      "reference_type": "Artigo/Material Online",
+      "author_name": null,
+      "title": "Os princípios da supremacia do interesse público e da ind... - Gran Questões",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEU-HesyeYSlfZ-PQY2JFbNQEjDtqrbeY9xgav_6NIficXM-O0blESdtAhiipDDpuz_uoWKJwFLLTDrEA1V2tnDRtsiAX6lM78REqx16qEQ0E2lhDjmjA8G1ugxFBHdKBGGaetwuLRkknjyl8LMofhz1zZvZEsot1VlHN91Wi-_6k-d6refvxWa6c1KaSfmh_pcBCVcphPIVIqZo35sWMI=",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_032",
+      "material_id": "mat_001",
+      "reference_type": "Artigo/Material Online",
+      "author_name": null,
+      "title": "Questão 3450849 CEBRASPE (CESPE) - Técnico Judiciário (STM) - Tec Concursos",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGO33zIaDLEGFzrlIo8ZZrdAIF7zKNkWP0z1bpdpTJBNuUOrBJfKpWKuImJ_IIllCmhghaRHHf_O6EUPeFNjnM7X1aG1LSngo3qbPmZ-0-dSsYF_gziwarARahOnyLsb7OaIE9a-ssA8gDo1w==",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_033",
+      "material_id": "mat_001",
+      "reference_type": "Artigo/Material Online",
+      "author_name": null,
+      "title": "Questão Acerca dos princípios do direito administrativo, julgue os itens seguintes.I. Apesar do princípio da publici...",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHAg-CzbcTrTBu6x7HDSEqB6WEUKFsVdB5iDQNqu3yvoJLkui7nKZexD1yJ95PjUy8RW_Hy9i4qsBdregNF6xaMIuP_zm-2nhRfGPQR90SNMVZhs5nx62WWYn8e5r_vHui9qZAW6Q2-oDS8-mAbSQ5Zr6RuIdKy_N0Ylz7EhtjhhIf2nQ==",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_034",
+      "material_id": "mat_001",
+      "reference_type": "Artigo/Material Online",
+      "author_name": null,
+      "title": "Princípio da motivação no direito administrativo - Enciclopédia Jurídica da PUCSP",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHwr1cB3nRJPwlYyborU2qoJCx-NJqTdTXU5P_W76d6TTwab0OeQ80ubXnyXntEhc2cE8lOchetxwvyb9x5YvF32F2ACybNdzM1mmR04yY8zGsfBwEgNJIwJwlgt4oj8UthYMGqO0CZ51lsi9aJHSTkdwc0ZYL3Ly7XzWeClzsn9Bm6zbpGIc7TV2UNx8yB6UBrIP_tC3bJ7R5N_EjUiaU4EfBMDjA4",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_035",
+      "material_id": "mat_001",
+      "reference_type": "Artigo/Material Online",
+      "author_name": null,
+      "title": "O Que é a Motivação do Ato Administrativo? Lei 9784 | Leis Essenciais #2 - YouTube",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFy-4sxtvWUI1bkbHfyJqD-gYRKFk8cshQXB1or3txqUfF-ky8i5HlsHkF7K9ZgfYbvHKme3I5BC2NkdFZDqSR6iKm9jolE3nM-dnqZ9eva9K9wRRRz5ZhJy5wXGIG3g2FsG8ZJBkI=",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_036",
+      "material_id": "mat_001",
+      "reference_type": "Artigo/Material Online",
+      "author_name": null,
+      "title": "NOVOS CONTORNOS DO PRINCÍPIO DA SEGURANÇA JURÍDICA APLICADO AO DIREITO ADMINISTRATIVO",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH-BHRuUKQfrngjZ33MLpsn3on3URByy3o9F0d27_RbQUxZmbyi8YeJEwbD6nIMdvlBzQEqTJisrRFtrPg3lUTcKELWLebsuQMnTdWBOgdyGkyvj18QdYOXJXubXNDfbHMeRNIt9fH70vjVQclZvZCCMrtHEnHzfkIpU-5Jd-PlXsPhGGCRLUX6853KVsq3K4QqQGPz8Pay1Wrv_kziCzkueBuLynv6LY_qHEOC27Vbijdy2AQAfFUa_DdfhTAGrubgqXPpw4AbS0jjQCS2i35AfvFwYvr7GMfAuij0jfz4v2_vpHX_eMetT2h9Bi8yRWpiKyZJ2mnQwGHBTYf_InfoCGDd5zWU1fe81-f0jddwWgNVK1xyoy5-BOhQTXWwksCm47x7i7GXA==",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_037",
+      "material_id": "mat_001",
+      "reference_type": "Artigo/Material Online",
+      "author_name": null,
+      "title": "Questões de Concurso sobre Princípio da Motivação",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF_GENoIXxdAIXWWAjqrUyD518_kDYvPHWWtllC4MtHHJowxHesntgw4POg85QjD4YdGB-BlaWqbD9Ea4lHOhhEVXs8sDj75aP4PSwD15ZBredFi4fOv1ryaG1MH_9YQ3iiQQ1eblaWv1Aq6SLHH7W69l7fs73Oy7kmyNdcewmc7cKKXBEqkvw9JkCvuz2iI1bKwAvKREnmTF54n2AIbcjbNwk1uYz2UkFUK8SxZ0k=",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_038",
+      "material_id": "mat_001",
+      "reference_type": "Artigo/Material Online",
+      "author_name": null,
+      "title": "Os princípios expressos e implícitos da administração públi... - Qconcursos",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFTg-kLrWVQIcdacByeYrLEMNQWgZAZ9JQ8Tpy64iGSf5NrO6GkRpMSIlLEhrrscUimHdSLbCs2gftHqwQa5NuqELEmoxRXX_B_njdoC-sWy_zIqXfjRBogpOWOVyK9Zj3iKGfrEWynrSIyocga_4_fjNRCUCdWkz2qGapR_fealw==",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_039",
+      "material_id": "mat_001",
+      "reference_type": "Artigo/Material Online",
+      "author_name": null,
+      "title": "PROVA ORAL DIREITO ADMINISTRATIVO E DIREITO CONSTITUCIONAL QUESTÃO 1 - Cebraspe",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEtOVOInlI9E_GJTMTNgTIAImMiK4cJzRYcwoHoki6Pb_YTRUhohg53QHSfCVyiHk4RkmvVY-0zxQ6VOQ5BD0YULLedlrMwxxcrsFZwmMgCo2NedmAtQvn1lCtlxJePfZ86wPiK3sE-CfUauAZuaVtnonKO637gr8ua3BHcad7oP5h9UQhZkTa9q1uwfAlBgaygTEC5p_c9iTgjBQfG",
+      "accessed_at": null,
+      "description": null
+    }
+  ],
+  "estatisticas_de_geracao": {
+    "total_topicos": 15,
+    "total_componentes_topico": 19,
+    "total_entendimentos_relevantes": 5,
+    "total_pegadinhas": 7,
+    "total_pontos_memorizacao": 6,
+    "total_itens_quadro_sinotico": 12,
+    "total_questoes": 8,
+    "total_comentarios_questoes": 8,
+    "total_itens_checklist": 10,
+    "total_referencias": 39
+  },
+  "validacao_interna": {
+    "pesquisa_previa_realizada": true,
+    "analise_de_cobrancas_anteriores_realizada": true,
+    "material_atualizado": true,
+    "json_valido": true,
+    "estrutura_relacional_respeitada": true,
+    "numeracao_respeitada": true,
+    "houve_quebra_de_hierarquia": false,
+    "houve_nivel_numerico_superior_a_3": false,
+    "fontes_verificadas": true,
+    "sem_informacao_inventada": true
+  },
+  "metadata": {
+    "source_file_name": "2__direito-administrativo__2-regime-jurídicoadministrativo-2.3-princípios-expressos-e-implícitos-da-administração-pública.json",
+    "normalized_checksum": "eef4eda9dbe70e953df7c4be6268d9cabcc6c36874c70d311aeb2070a01ad268",
+    "subject_slug": "dir-adm",
+    "material_slug": "principios-administrativos-expressos",
+    "title_slug": "regime-juridico-administrativo-principios",
+    "board_slug": "cebraspe",
+    "counters": {
+      "blocks": 15,
+      "topics": 15,
+      "topic_components": 19,
+      "traps": 7,
+      "memory_points": 6,
+      "summary_items": 12,
+      "questions": 8,
+      "question_comments": 8,
+      "checklist_items": 10,
+      "references": 39
+    }
+  }
+}

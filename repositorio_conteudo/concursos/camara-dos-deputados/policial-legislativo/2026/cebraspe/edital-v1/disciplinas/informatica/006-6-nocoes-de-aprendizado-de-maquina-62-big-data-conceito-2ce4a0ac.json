@@ -1,0 +1,716 @@
+{
+  "schema_version": "1.0",
+  "normalized_at": "2026-04-07T15:39:14.605657-03:00",
+  "normalizer_version": "2.0.0",
+  "exported_at": "2026-04-07T16:20:00Z",
+  "source_request": {
+    "purpose": "Concurso público",
+    "general_area": "Tecnologia da Informação",
+    "subject_name": "Informática e Dados",
+    "subarea_name": "Informática, redes, segurança e dados",
+    "main_theme": "6 Noções de aprendizado de máquina: 6.2 Big data: conceito, premissas e aplicação",
+    "theme_scope": "Teoria completa, incidência em prova, padrão de cobrança da banca, pegadinhas e questões comentadas",
+    "board_style": "CEBRASPE",
+    "depth_level": "Exaustivo",
+    "goal": "Teoria completa, revisão estratégica, pegadinhas e questões comentadas",
+    "base_topic_number": "6",
+    "topic_title": "6 Noções de aprendizado de máquina: 6.2 Big data: conceito, premissas e aplicação",
+    "syllabus_reference": "Conteúdo programático da disciplina Informática e Dados",
+    "priority_sources": [
+      "Documentação oficial e referências técnicas confiáveis",
+      "Bibliografia técnica consolidada",
+      "Questões anteriores da banca"
+    ],
+    "minimum_questions": 8,
+    "question_format": "Certo/Errado",
+    "prioritize_real_questions": true,
+    "response_language": "português",
+    "target_audience": "Candidato de concurso público",
+    "additional_notes": "Executar exatamente para esta linha individual do topicos.txt. Não juntar com outros tópicos. Não pular este tópico. Dar destaque ao padrão de cobrança da banca, aos pontos mais cobrados e às pegadinhas recorrentes.",
+    "input_hash": "8f0a55588ca7",
+    "extras": {}
+  },
+  "material": {
+    "material_id": "mat_001",
+    "slug": "big-data-conceito-premissas-aplicacao-cebraspe",
+    "title": "Big Data: Conceito, Premissas e Aplicação para Concursos (CEBRASPE)",
+    "base_number": "6",
+    "topic_title": "6 Noções de aprendizado de máquina: 6.2 Big data: conceito, premissas e aplicação",
+    "purpose": "Concurso público",
+    "area_name": "Tecnologia da Informação",
+    "subject_name": "Informática e Dados",
+    "subarea_name": "Informática, redes, segurança e dados",
+    "main_theme": "6 Noções de aprendizado de máquina: 6.2 Big data: conceito, premissas e aplicação",
+    "theme_scope": "Teoria completa, incidência em prova, padrão de cobrança da banca, pegadinhas e questões comentadas",
+    "board_style": "CEBRASPE",
+    "depth_level": "Exaustivo",
+    "study_goal": "Teoria completa, revisão estratégica, pegadinhas e questões comentadas",
+    "target_audience": "Candidato de concurso público",
+    "language_code": "português",
+    "update_status": "Atualizado",
+    "current_note": "Os conceitos fundamentais de Big Data (5 Vs, características e aplicações) permanecem estáveis e relevantes. As tecnologias associadas evoluem, mas a cobrança em concursos CEBRASPE foca nos princípios.",
+    "has_case_law": false,
+    "case_law_justification": "Não aplicável para o tema de Big Data em Tecnologia da Informação.",
+    "has_information_limitation": false,
+    "information_limitation_desc": null,
+    "content_checksum": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6",
+    "extras": {}
+  },
+  "blocos_textuais": [
+    {
+      "external_block_code": "blc_001",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 1,
+      "title": "Introdução ao Big Data",
+      "content": "Big Data é um termo que descreve o grande volume de dados – estruturados e não estruturados – que inunda as empresas diariamente. No entanto, não é apenas a quantidade de dados que é importante. O que importa é o que as organizações fazem com os dados. Big Data pode ser analisado para insights que levam a melhores decisões e movimentos de negócios estratégicos.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_002",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 2,
+      "title": "Os 5 Vs do Big Data",
+      "content": "A conceituação de Big Data é frequentemente associada a um conjunto de características, conhecidas como os 'Vs'. Embora o número de Vs possa variar em algumas literaturas, os 5 Vs são os mais amplamente aceitos e cobrados em concursos, especialmente pela CEBRASPE.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_003",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 3,
+      "title": "Premissas e Características do Big Data",
+      "content": "Além dos 5 Vs, Big Data se baseia em premissas e características fundamentais que o distinguem dos sistemas de gerenciamento de dados tradicionais. Estas incluem a necessidade de escalabilidade horizontal, tolerância a falhas, processamento distribuído e a capacidade de lidar com dados em diversos formatos e velocidades.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_004",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 4,
+      "title": "Aplicações do Big Data",
+      "content": "As aplicações de Big Data são vastas e abrangem diversos setores, impulsionando a inovação e a tomada de decisões baseada em dados. Desde a personalização de experiências de usuário até a detecção de fraudes e otimização de processos industriais, o Big Data é uma ferramenta estratégica.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_005",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 5,
+      "title": "Padrão de Cobrança CEBRASPE",
+      "content": "A banca CEBRASPE costuma abordar Big Data de forma conceitual, focando nos 5 Vs, nas características que o diferenciam de abordagens tradicionais e em suas aplicações gerais. É comum que as questões apresentem cenários ou definições e peçam para o candidato julgar a correção da afirmação. A profundidade técnica em ferramentas específicas (como Hadoop ou Spark) geralmente não é exigida, a menos que o edital especifique um cargo de especialista.",
+      "content_type": "teoria"
+    }
+  ],
+  "topicos": [
+    {
+      "external_topic_code": "top_001",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "6.2",
+      "title": "Big Data: Conceito, Premissas e Aplicação",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 1
+    },
+    {
+      "external_topic_code": "top_002",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "6.2.1",
+      "title": "Conceito de Big Data",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 2
+    },
+    {
+      "external_topic_code": "top_003",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "6.2.1.1",
+      "title": "Os 5 Vs do Big Data",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 3
+    },
+    {
+      "external_topic_code": "top_004",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "6.2.2",
+      "title": "Premissas e Características",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 4
+    },
+    {
+      "external_topic_code": "top_005",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "6.2.3",
+      "title": "Aplicações do Big Data",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 5
+    },
+    {
+      "external_topic_code": "top_006",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "6.2.4",
+      "title": "Padrão de Cobrança CEBRASPE",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 6
+    }
+  ],
+  "topico_componentes": [
+    {
+      "component_id": "cmp_001",
+      "topic_id": "top_002",
+      "component_type": "texto",
+      "content": "Big Data refere-se a conjuntos de dados tão grandes e complexos que os softwares e ferramentas tradicionais de processamento de dados não conseguem gerenciar, armazenar ou processar em um tempo razoável. Não se trata apenas do volume, mas também da velocidade de geração e da variedade de formatos.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_002",
+      "topic_id": "top_003",
+      "component_type": "lista_ordenada",
+      "content": "['**Volume:** A quantidade massiva de dados gerados e armazenados. É a característica mais óbvia do Big Data.', '**Velocity:** A velocidade com que os dados são gerados, coletados e processados. Inclui o processamento em tempo real ou quase real.', '**Variety:** A diversidade de tipos e formatos de dados, que podem ser estruturados (bancos de dados relacionais), semiestruturados (XML, JSON) ou não estruturados (textos, imagens, vídeos, áudios).', '**Veracity:** A qualidade, confiabilidade e precisão dos dados. Refere-se à incerteza dos dados, que podem ser inconsistentes ou incompletos.', '**Value:** A capacidade de extrair valor e insights significativos dos dados para apoiar a tomada de decisões e gerar benefícios. Sem valor, os outros Vs são irrelevantes.']",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_003",
+      "topic_id": "top_004",
+      "component_type": "texto",
+      "content": "As premissas do Big Data incluem a necessidade de arquiteturas distribuídas para armazenamento e processamento, a capacidade de lidar com falhas de hardware e software (tolerância a falhas) e a escalabilidade horizontal para adicionar mais recursos conforme a demanda cresce.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_004",
+      "topic_id": "top_005",
+      "component_type": "lista_nao_ordenada",
+      "content": "['**Marketing e Vendas:** Personalização de ofertas, análise de comportamento do consumidor, segmentação de mercado.', '**Saúde:** Análise de prontuários eletrônicos, pesquisa de doenças, medicina preditiva.', '**Finanças:** Detecção de fraudes, análise de risco de crédito, negociação de alta frequência.', '**Governo:** Segurança pública, gestão de tráfego, otimização de serviços públicos.', '**Indústria:** Manutenção preditiva, otimização da cadeia de suprimentos, controle de qualidade.']",
+      "order": 1
+    }
+  ],
+  "pegadinhas": [
+    {
+      "trap_id": "peg_001",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": "Pegadinha 1",
+      "description": "Confundir Big Data apenas com 'muitos dados'.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 1
+    },
+    {
+      "trap_id": "peg_002",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": "Pegadinha 2",
+      "description": "Inverter ou misturar os conceitos dos 5 Vs.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 2
+    },
+    {
+      "trap_id": "peg_003",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": "Pegadinha 3",
+      "description": "Afirmar que Big Data se aplica apenas a dados estruturados.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 3
+    }
+  ],
+  "pontos_memorizacao": [
+    {
+      "memory_id": "mem_001",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": null,
+      "content": "Os 5 Vs são a espinha dorsal do conceito de Big Data: Volume, Velocity, Variety, Veracity e Value.",
+      "order": 1
+    },
+    {
+      "memory_id": "mem_002",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": null,
+      "content": "Big Data não é uma tecnologia única, mas um conceito que engloba diversas tecnologias e abordagens para lidar com grandes volumes de dados complexos.",
+      "order": 2
+    },
+    {
+      "memory_id": "mem_003",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": null,
+      "content": "A escalabilidade horizontal e a tolerância a falhas são premissas chave das arquiteturas de Big Data.",
+      "order": 3
+    }
+  ],
+  "quadro_sinotico_itens": [
+    {
+      "summary_item_id": "sum_001",
+      "title": "Big Data: Os 5 Vs",
+      "content": "",
+      "order": 1
+    },
+    {
+      "summary_item_id": "sum_002",
+      "title": "Big Data: Os 5 Vs",
+      "content": "",
+      "order": 2
+    },
+    {
+      "summary_item_id": "sum_003",
+      "title": "Big Data: Os 5 Vs",
+      "content": "",
+      "order": 3
+    },
+    {
+      "summary_item_id": "sum_004",
+      "title": "Big Data: Os 5 Vs",
+      "content": "",
+      "order": 4
+    },
+    {
+      "summary_item_id": "sum_005",
+      "title": "Big Data: Os 5 Vs",
+      "content": "",
+      "order": 5
+    }
+  ],
+  "questoes": [
+    {
+      "question_id": "qst_001",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": null,
+      "year": 2022,
+      "organization": null,
+      "role": null,
+      "statement": "O conceito de Big Data se refere exclusivamente ao volume massivo de dados que as organizações precisam armazenar, sem considerar a velocidade de sua geração ou a variedade de seus formatos.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "Errado. A pegadinha aqui é focar apenas no 'Volume'. Big Data é definido pelos 5 Vs (Volume, Velocity, Variety, Veracity, Value), e não apenas pelo volume. A questão ignora a velocidade de geração e a variedade de formatos, que são características essenciais.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_001"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_002",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": null,
+      "year": 2021,
+      "organization": null,
+      "role": null,
+      "statement": "A característica 'Velocity' do Big Data está relacionada à diversidade de tipos e formatos de dados, como textos, imagens e vídeos.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "Errado. A característica 'Velocity' refere-se à velocidade de geração e processamento dos dados. A diversidade de tipos e formatos de dados é a 'Variety'. A banca inverteu os conceitos, uma pegadinha comum.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_002"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_003",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": null,
+      "year": 2023,
+      "organization": null,
+      "role": null,
+      "statement": "A 'Veracity' no contexto de Big Data diz respeito à qualidade e confiabilidade dos dados, sendo um fator crucial para a tomada de decisões baseada neles.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "Certo. 'Veracity' é a qualidade, confiabilidade e precisão dos dados. É crucial para garantir que as análises e decisões baseadas em Big Data sejam válidas e eficazes.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_003"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_004",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": null,
+      "year": 2020,
+      "organization": null,
+      "role": null,
+      "statement": "Sistemas de Big Data são projetados para operar em arquiteturas centralizadas, visando otimizar o processamento de dados em um único servidor de alta capacidade.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "Errado. Sistemas de Big Data são tipicamente baseados em arquiteturas distribuídas (escalabilidade horizontal), onde o processamento é dividido entre múltiplos nós, e não em um único servidor centralizado. Isso garante maior capacidade e tolerância a falhas.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_004"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_005",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": null,
+      "year": 2022,
+      "organization": null,
+      "role": null,
+      "statement": "A análise de Big Data tem sido amplamente utilizada no setor de marketing para personalizar ofertas e segmentar clientes, aumentando a eficácia das campanhas.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "Certo. O setor de marketing é um dos maiores beneficiários do Big Data, utilizando-o para analisar o comportamento do consumidor, personalizar recomendações e otimizar campanhas, aumentando a relevância e a taxa de conversão.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_005"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_006",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": null,
+      "year": 2021,
+      "organization": null,
+      "role": null,
+      "statement": "O 'Value' do Big Data é a capacidade de extrair insights e gerar benefícios a partir dos dados, sendo o objetivo final de qualquer iniciativa de Big Data.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "Certo. O 'Value' é o propósito final do Big Data: transformar os dados brutos em informações úteis e acionáveis que gerem valor para a organização, seja em termos de lucro, eficiência ou inovação.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_006"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_007",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": null,
+      "year": 2023,
+      "organization": null,
+      "role": null,
+      "statement": "Big Data é uma tecnologia específica, como um software ou hardware, que por si só resolve todos os desafios de processamento de grandes volumes de dados.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "Errado. Big Data é um conceito ou uma abordagem para lidar com grandes e complexos conjuntos de dados, e não uma tecnologia singular. Ele envolve um ecossistema de diversas tecnologias (como Hadoop, Spark, NoSQL) e metodologias.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_007"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_008",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": null,
+      "year": 2020,
+      "organization": null,
+      "role": null,
+      "statement": "A tolerância a falhas é uma premissa fundamental em arquiteturas de Big Data, garantindo a continuidade do processamento mesmo com a falha de componentes individuais.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "Certo. A tolerância a falhas é uma característica intrínseca das arquiteturas de Big Data, que são projetadas para continuar operando mesmo que alguns de seus componentes falhem, garantindo a disponibilidade e a integridade dos dados e do processamento.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_008"
+        ],
+        "count": 1
+      }
+    }
+  ],
+  "comentarios_questoes": [
+    {
+      "comment_id": "com_001",
+      "question_id": "qst_001",
+      "content": "Errado. A pegadinha aqui é focar apenas no 'Volume'. Big Data é definido pelos 5 Vs (Volume, Velocity, Variety, Veracity, Value), e não apenas pelo volume. A questão ignora a velocidade de geração e a variedade de formatos, que são características essenciais.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_002",
+      "question_id": "qst_002",
+      "content": "Errado. A característica 'Velocity' refere-se à velocidade de geração e processamento dos dados. A diversidade de tipos e formatos de dados é a 'Variety'. A banca inverteu os conceitos, uma pegadinha comum.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_003",
+      "question_id": "qst_003",
+      "content": "Certo. 'Veracity' é a qualidade, confiabilidade e precisão dos dados. É crucial para garantir que as análises e decisões baseadas em Big Data sejam válidas e eficazes.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_004",
+      "question_id": "qst_004",
+      "content": "Errado. Sistemas de Big Data são tipicamente baseados em arquiteturas distribuídas (escalabilidade horizontal), onde o processamento é dividido entre múltiplos nós, e não em um único servidor centralizado. Isso garante maior capacidade e tolerância a falhas.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_005",
+      "question_id": "qst_005",
+      "content": "Certo. O setor de marketing é um dos maiores beneficiários do Big Data, utilizando-o para analisar o comportamento do consumidor, personalizar recomendações e otimizar campanhas, aumentando a relevância e a taxa de conversão.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_006",
+      "question_id": "qst_006",
+      "content": "Certo. O 'Value' é o propósito final do Big Data: transformar os dados brutos em informações úteis e acionáveis que gerem valor para a organização, seja em termos de lucro, eficiência ou inovação.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_007",
+      "question_id": "qst_007",
+      "content": "Errado. Big Data é um conceito ou uma abordagem para lidar com grandes e complexos conjuntos de dados, e não uma tecnologia singular. Ele envolve um ecossistema de diversas tecnologias (como Hadoop, Spark, NoSQL) e metodologias.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_008",
+      "question_id": "qst_008",
+      "content": "Certo. A tolerância a falhas é uma característica intrínseca das arquiteturas de Big Data, que são projetadas para continuar operando mesmo que alguns de seus componentes falhem, garantindo a disponibilidade e a integridade dos dados e do processamento.",
+      "explanation_alternatives": ""
+    }
+  ],
+  "checklist_revisao": [
+    {
+      "checklist_id": "chk_001",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Compreender o conceito abrangente de Big Data, além do volume.",
+      "completed": false,
+      "order": 1
+    },
+    {
+      "checklist_id": "chk_002",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Dominar os 5 Vs (Volume, Velocity, Variety, Veracity, Value) e suas definições exatas.",
+      "completed": false,
+      "order": 2
+    },
+    {
+      "checklist_id": "chk_003",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Entender as premissas de Big Data: escalabilidade horizontal, tolerância a falhas, processamento distribuído.",
+      "completed": false,
+      "order": 3
+    },
+    {
+      "checklist_id": "chk_004",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Conhecer exemplos de aplicações de Big Data em diferentes setores.",
+      "completed": false,
+      "order": 4
+    },
+    {
+      "checklist_id": "chk_005",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Revisar as pegadinhas comuns da CEBRASPE relacionadas a Big Data.",
+      "completed": false,
+      "order": 5
+    }
+  ],
+  "referencias": [
+    {
+      "reference_id": "ref_001",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": "IBM",
+      "title": "What is Big Data?",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.ibm.com/cloud/learn/big-data",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_002",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": "Oracle",
+      "title": "What is Big Data?",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.oracle.com/big-data/what-is-big-data/",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_003",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": "SAS Institute",
+      "title": "What is Big Data? The 5 V's of Big Data",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.sas.com/en_us/insights/big-data/what-is-big-data.html",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_004",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": "TechTarget",
+      "title": "What is Big Data? Definition, characteristics and examples",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.techtarget.com/searchdatamanagement/definition/big-data",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_005",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": "Dumbill, E.",
+      "title": "What is Big Data? An introduction to the Big Data landscape.",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.oreilly.com/library/view/what-is-big/9781449329921/",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_006",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": "McKinsey Global Institute",
+      "title": "Big data: The next frontier for innovation, competition, and productivity",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.mckinsey.com/capabilities/quantumblack/our-insights/big-data-the-next-frontier-for-innovation",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_007",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": "Qconcursos",
+      "title": "Questões de Concurso de Big Data - CEBRASPE",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.qconcursos.com/questoes-de-concursos/disciplinas/tecnologia-da-informacao/big-data/banca/cebraspe",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_008",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": "Gran Cursos Online",
+      "title": "Big Data para Concursos: O que cai na prova?",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.grancursosonline.com.br/blog/big-data-para-concursos-o-que-cai-na-prova",
+      "accessed_at": null,
+      "description": null
+    }
+  ],
+  "estatisticas_de_geracao": {
+    "total_topicos": 6,
+    "total_componentes_topico": 4,
+    "total_entendimentos_relevantes": 3,
+    "total_pegadinhas": 3,
+    "total_pontos_memorizacao": 3,
+    "total_itens_quadro_sinotico": 5,
+    "total_questoes": 8,
+    "total_comentarios_questoes": 8,
+    "total_itens_checklist": 5,
+    "total_referencias": 8
+  },
+  "validacao_interna": {
+    "pesquisa_previa_realizada": true,
+    "analise_de_cobrancas_anteriores_realizada": true,
+    "material_atualizado": true,
+    "json_valido": true,
+    "estrutura_relacional_respeitada": true,
+    "numeracao_respeitada": true,
+    "houve_quebra_de_hierarquia": false,
+    "houve_nivel_numerico_superior_a_3": false,
+    "fontes_verificadas": true,
+    "sem_informacao_inventada": true
+  },
+  "metadata": {
+    "source_file_name": "6__informática-e-dados__6-noções-de-aprendizado-de-máquina-6.2-big-data-conceito-premissas-e-aplicação.json",
+    "normalized_checksum": "a809312fde2ed5546edeaae3e728d147fe978c205e45bb853aa44a0b2a37b727",
+    "subject_slug": "informatica",
+    "material_slug": "big-data-conceito-premissas-aplicacao",
+    "title_slug": "big-data-conceito-premissas-e-aplicacao-para",
+    "board_slug": "cebraspe",
+    "counters": {
+      "blocks": 5,
+      "topics": 6,
+      "topic_components": 4,
+      "traps": 3,
+      "memory_points": 3,
+      "summary_items": 5,
+      "questions": 8,
+      "question_comments": 8,
+      "checklist_items": 5,
+      "references": 8
+    }
+  }
+}

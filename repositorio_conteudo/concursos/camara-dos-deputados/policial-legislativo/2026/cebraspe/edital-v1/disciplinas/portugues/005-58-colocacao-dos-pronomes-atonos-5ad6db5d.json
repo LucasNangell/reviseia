@@ -1,0 +1,1051 @@
+{
+  "schema_version": "1.0",
+  "normalized_at": "2026-04-07T15:39:14.570976-03:00",
+  "normalizer_version": "2.0.0",
+  "exported_at": "2026-04-06T20:11:00Z",
+  "source_request": {
+    "purpose": "Concurso público",
+    "general_area": "Linguagens",
+    "subject_name": "Língua Portuguesa",
+    "subarea_name": "Gramática, interpretação e reescrita",
+    "main_theme": "5 Domínio da estrutura morfossintática do período: 5.8 Colocação dos pronomes átonos",
+    "theme_scope": "Teoria completa, incidência em prova, padrão de cobrança da banca, pegadinhas e questões comentadas",
+    "board_style": "CEBRASPE",
+    "depth_level": "Exaustivo",
+    "goal": "Teoria completa, revisão estratégica, pegadinhas e questões comentadas",
+    "base_topic_number": "5",
+    "topic_title": "5 Domínio da estrutura morfossintática do período: 5.8 Colocação dos pronomes átonos",
+    "syllabus_reference": "Conteúdo programático da disciplina Língua Portuguesa",
+    "priority_sources": [
+      "Gramáticas e manuais reconhecidos",
+      "Bibliografia técnica consolidada",
+      "Questões anteriores da banca"
+    ],
+    "minimum_questions": 8,
+    "question_format": "Certo/Errado",
+    "prioritize_real_questions": true,
+    "response_language": "português",
+    "target_audience": "Candidato de concurso público",
+    "additional_notes": "Executar exatamente para esta linha individual do topicos.txt. Não juntar com outros tópicos. Não pular este tópico. Dar destaque ao padrão de cobrança da banca, aos pontos mais cobrados e às pegadinhas recorrentes.",
+    "input_hash": "5e395ef28d7f",
+    "extras": {}
+  },
+  "material": {
+    "material_id": "mat_001",
+    "slug": "colocacao-pronomes-atonos-cebraspe",
+    "title": "Colocação dos Pronomes Átonos para Concursos CEBRASPE",
+    "base_number": "5",
+    "topic_title": "5.8 Colocação dos pronomes átonos",
+    "purpose": "Concurso público",
+    "area_name": "Linguagens",
+    "subject_name": "Língua Portuguesa",
+    "subarea_name": "Gramática, interpretação e reescrita",
+    "main_theme": "Domínio da estrutura morfossintática do período",
+    "theme_scope": "Teoria completa, incidência em prova, padrão de cobrança da banca, pegadinhas e questões comentadas",
+    "board_style": "CEBRASPE",
+    "depth_level": "Exaustivo",
+    "study_goal": "Teoria completa, revisão estratégica, pegadinhas e questões comentadas",
+    "target_audience": "Candidato de concurso público",
+    "language_code": "português",
+    "update_status": "Atualizado em 2026",
+    "current_note": "As regras de colocação pronominal são estáveis na gramática normativa. A análise da banca CEBRASPE foi feita com base em questões recentes (até 2025).",
+    "has_case_law": false,
+    "case_law_justification": "A matéria de Língua Portuguesa, especificamente colocação pronominal, não exige o uso de jurisprudência.",
+    "has_information_limitation": false,
+    "information_limitation_desc": null,
+    "content_checksum": "placeholder_checksum_colocacao_pronominal",
+    "extras": {}
+  },
+  "blocos_textuais": [
+    {
+      "external_block_code": "blc_001",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 1,
+      "title": "Introdução à Colocação Pronominal",
+      "content": "A colocação pronominal é um tema fundamental na gramática da Língua Portuguesa, referindo-se à posição dos pronomes oblíquos átonos (me, te, se, o, a, lhe, nos, vos, os, as, lhes) em relação ao verbo. O domínio desse assunto é crucial para a correção gramatical e a clareza na comunicação escrita e falada, sendo frequentemente cobrado em concursos públicos, especialmente pela banca CEBRASPE. Existem três tipos principais de colocação: próclise (pronome antes do verbo), mesóclise (pronome no meio do verbo) e ênclise (pronome depois do verbo). A escolha entre elas segue regras específicas e uma hierarquia de prioridades, com a próclise sendo o caso de maior prioridade.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_002",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 2,
+      "title": "Padrão de Cobrança da Banca CEBRASPE",
+      "content": "A banca CEBRASPE (antigo CESPE) tem uma alta incidência de questões sobre colocação pronominal, explorando a capacidade do candidato de identificar a correção gramatical e a manutenção de sentido em reescritas de frases. Os pontos mais cobrados incluem: a identificação de palavras atrativas que exigem a próclise, a aplicação correta da mesóclise e ênclise, e a colocação em locuções verbais. A banca frequentemente apresenta frases com alterações na posição do pronome e pede para julgar se a correção gramatical é mantida (formato Certo/Errado). É comum que o CEBRASPE explore as proibições da colocação pronominal, como iniciar frases com pronomes oblíquos átonos, e os casos facultativos, onde tanto a próclise quanto a ênclise são aceitáveis.",
+      "content_type": "teoria"
+    }
+  ],
+  "topicos": [
+    {
+      "external_topic_code": "top_001",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "5.8",
+      "title": "Colocação dos Pronomes Átonos",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 1
+    },
+    {
+      "external_topic_code": "top_002",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_001",
+      "topic_number": "5.8.1",
+      "title": "Próclise (Pronome antes do verbo)",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 2
+    },
+    {
+      "external_topic_code": "top_003",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_001",
+      "topic_number": "5.8.2",
+      "title": "Mesóclise (Pronome no meio do verbo)",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 3
+    },
+    {
+      "external_topic_code": "top_004",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_001",
+      "topic_number": "5.8.3",
+      "title": "Ênclise (Pronome depois do verbo)",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 4
+    },
+    {
+      "external_topic_code": "top_005",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_001",
+      "topic_number": "5.8.4",
+      "title": "Casos Facultativos",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 5
+    },
+    {
+      "external_topic_code": "top_006",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_001",
+      "topic_number": "5.8.5",
+      "title": "Colocação Pronominal em Locuções Verbais",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 6
+    },
+    {
+      "external_topic_code": "top_007",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_001",
+      "topic_number": "5.8.6",
+      "title": "Proibições Gerais",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 7
+    }
+  ],
+  "topico_componentes": [
+    {
+      "component_id": "cmp_001",
+      "topic_id": null,
+      "component_type": "teoria",
+      "content": "A próclise é obrigatória quando há uma palavra atrativa antes do verbo. As principais palavras atrativas são:\n\n1.  **Palavras de sentido negativo:** não, nunca, jamais, ninguém, nada, nem, etc. Ex: *Não me disseram a verdade.*\n2.  **Pronomes relativos:** que, quem, cujo, onde, etc. Ex: *A pessoa que me chamou não se identificou.*\n3.  **Pronomes indefinidos:** alguém, ninguém, tudo, poucos, alguns, cada, etc. Ex: *Alguém se manifestou sobre o fato.*\n4.  **Pronomes demonstrativos:** este, esse, isto, isso, aquilo, etc. Ex: *Isso me lembra algo.* (Atenção: alguns gramáticos consideram facultativo, mas o CEBRASPE tende a considerar atrativo.)\n5.  **Advérbios ou locuções adverbiais:** aqui, ali, hoje, ontem, sempre, talvez, muito, bem, mal, às vezes, em breve, etc., desde que não haja vírgula separando-os do verbo. Ex: *Ontem me disseram que havia greve.*\n6.  **Conjunções subordinativas:** que, se, embora, conforme, quando, porque, como, etc. Ex: *Embora se sentisse melhor, saiu.*\n7.  **Palavras interrogativas:** quem, qual, que, quando, por que, etc., no início de orações interrogativas diretas. Ex: *Quando te deram a notícia?*\n8.  **Orações exclamativas ou optativas (que expressam desejo):** Ex: *Que Deus o abençoe!*\n9.  **Em + gerúndio:** Ex: *Em se tratando de atividade física, prefiro a corrida.*",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_002",
+      "topic_id": null,
+      "component_type": "teoria",
+      "content": "A mesóclise é utilizada exclusivamente com verbos no futuro do presente ou no futuro do pretérito do indicativo, desde que não haja nenhuma palavra atrativa que exija a próclise.\n\n*   **Futuro do Presente:** Ex: *Realizar-se-á o evento amanhã.* (Se não houver palavra atrativa)\n*   **Futuro do Pretérito:** Ex: *Far-se-ia o trabalho, se houvesse tempo.* (Se não houver palavra atrativa)\n\nSe houver uma palavra atrativa, a próclise prevalece. Ex: *Não se realizará o evento.*",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_003",
+      "topic_id": null,
+      "component_type": "teoria",
+      "content": "A ênclise é a colocação padrão do pronome após o verbo e é obrigatória quando a próclise é proibida e a mesóclise não se aplica.\n\n1.  **Verbos no início da oração:** Nunca se inicia uma frase com pronome oblíquo átono. Ex: *Entregaram-me o documento.*\n2.  **Verbos no imperativo afirmativo:** Ex: *Sente-se imediatamente!*\n3.  **Verbos no gerúndio (sem a preposição 'em'):** Ex: *O jovem reclamou muito, comportando-se como uma criança.*\n4.  **Verbos no infinitivo impessoal:** Ex: *Amar-te é o meu desejo.*\n5.  **Verbos precedidos de pausa (vírgula, ponto e vírgula):** Ex: *Por gentileza, peço-lhe que arrume a sala.*\n6.  **Verbos no particípio:** O pronome deve ser colocado após o verbo auxiliar, nunca após o particípio. Ex: *Tinham-me dito que você não era de confiança.*",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_004",
+      "topic_id": null,
+      "component_type": "teoria",
+      "content": "Em algumas situações, tanto a próclise quanto a ênclise são aceitas, sem prejuízo à correção gramatical.\n\n1.  **Com sujeito explícito e sem palavra atrativa:** Quando o sujeito da oração está explícito e não há fator de próclise. Ex: *A professora entregou-nos as provas.* ou *A professora nos entregou as provas.*\n2.  **Com verbo no infinitivo:** Mesmo na presença de palavra atrativa, a colocação do pronome com o infinitivo é facultativa. Ex: *Não importar-se com o que ocorra.* ou *Não se importar com o que ocorra.*\n3.  **Com preposição + infinitivo (exceto a preposição 'a'):** Ex: *Estava para lhe dizer a verdade.* ou *Estava para dizer-lhe a verdade.*",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_005",
+      "topic_id": null,
+      "component_type": "teoria",
+      "content": "Em locuções verbais (verbo auxiliar + verbo principal), a colocação pronominal segue regras específicas:\n\n1.  **Sem palavra atrativa:**\n    *   O pronome pode vir após o verbo auxiliar (ênclise ao auxiliar). Ex: *Devo-lhe dizer a verdade.*\n    *   O pronome pode vir após o verbo principal (ênclise ao principal), se este for infinitivo ou gerúndio. Ex: *Devo dizer-lhe a verdade.* ou *Estava contando-lhe a história.*\n2.  **Com palavra atrativa:**\n    *   O pronome deve vir antes do verbo auxiliar (próclise ao auxiliar). Ex: *Não lhe devo dizer a verdade.*\n    *   Se o verbo principal for infinitivo ou gerúndio, o pronome também pode vir após o verbo principal. Ex: *Não devo dizer-lhe a verdade.* ou *Não estava contando-lhe a história.*\n\n**Atenção:** Se o verbo principal for particípio, o pronome NUNCA pode ser colocado após ele. Deve-se usar a próclise ao auxiliar ou a ênclise ao auxiliar. Ex: *Não me haviam falado.* ou *Haviam-me falado.*",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_006",
+      "topic_id": null,
+      "component_type": "teoria",
+      "content": "Existem casos em que a colocação pronominal é terminantemente proibida, e o CEBRASPE frequentemente explora essas proibições como pegadinhas.\n\n1.  **Início de frase:** É proibido iniciar uma oração com pronome oblíquo átono. Ex: *Me disseram a verdade.* (ERRADO) -> *Disseram-me a verdade.*\n2.  **Após futuro do presente ou futuro do pretérito:** Não se usa ênclise com esses tempos verbais. Ex: *Contarão-me o erro.* (ERRADO) -> *Contar-me-ão o erro.*\n3.  **Após particípio:** O pronome oblíquo átono não pode vir imediatamente após o particípio. Ex: *Tinha falado-me.* (ERRADO) -> *Tinha-me falado.*\n4.  **Após ponto-e-vírgula ou ponto final:** Não se usa próclise após esses sinais de pontuação. Ex: *Ele se dedicou; se esqueceu de comentar.* (ERRADO) -> *Ele se dedicou; esqueceu-se de comentar.*",
+      "order": 1
+    }
+  ],
+  "pegadinhas": [
+    {
+      "trap_id": "peg_001",
+      "material_id": "mat_001",
+      "topic_id": "top_007",
+      "title": "Início de Frase com Pronome Átono",
+      "description": "Apresentar frases que começam com pronome oblíquo átono, induzindo o candidato ao erro, pois essa construção é proibida na norma culta. Ex: *'Me disseram que a prova seria fácil.'* (ERRADO)",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 1
+    },
+    {
+      "trap_id": "peg_002",
+      "material_id": "mat_001",
+      "topic_id": "top_003",
+      "title": "Ênclise com Verbos no Futuro",
+      "description": "Utilizar a ênclise com verbos no futuro do presente ou futuro do pretérito, quando a mesóclise (ou próclise, se houver atrativo) seria a forma correta. Ex: *'Realizarei-o amanhã.'* (ERRADO)",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 2
+    },
+    {
+      "trap_id": "peg_003",
+      "material_id": "mat_001",
+      "topic_id": "top_006",
+      "title": "Pronome após Particípio",
+      "description": "Colocar o pronome oblíquo átono imediatamente após um verbo no particípio. Ex: *'Haviam falado-me sobre o assunto.'* (ERRADO)",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 3
+    },
+    {
+      "trap_id": "peg_004",
+      "material_id": "mat_001",
+      "topic_id": "top_002",
+      "title": "Advérbio Separado por Vírgula",
+      "description": "Apresentar um advérbio seguido de vírgula e, mesmo assim, usar a próclise, quando a vírgula anula o efeito atrativo do advérbio. Ex: *'Hoje, se fará o trabalho.'* (ERRADO)",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 4
+    },
+    {
+      "trap_id": "peg_005",
+      "material_id": "mat_001",
+      "topic_id": "top_005",
+      "title": "Confusão em Casos Facultativos",
+      "description": "Afirmar que apenas uma das formas (próclise ou ênclise) é correta em situações onde ambas são facultativas, especialmente com sujeito explícito ou infinitivo. Ex: *'A aluna se dedicou muito.'* e afirmar que *'A aluna dedicou-se muito.'* estaria incorreto.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 5
+    }
+  ],
+  "pontos_memorizacao": [
+    {
+      "memory_id": "mem_001",
+      "material_id": "mat_001",
+      "topic_id": "top_002",
+      "title": null,
+      "content": "Lembre-se das 'palavras atrativas': Negativas, Relativos, Indefinidos, Demonstrativos, Advérbios (sem vírgula), Conjunções Subordinativas, Interrogativas, Exclamativas/Optativas, 'Em + Gerúndio'. Elas 'puxam' o pronome para antes do verbo (próclise).",
+      "order": 1
+    },
+    {
+      "memory_id": "mem_002",
+      "material_id": "mat_001",
+      "topic_id": "top_003",
+      "title": null,
+      "content": "Mesóclise = Futuro (do presente ou pretérito) + Sem atrativo. Se tiver atrativo, é próclise!",
+      "order": 2
+    },
+    {
+      "memory_id": "mem_003",
+      "material_id": "mat_001",
+      "topic_id": "top_007",
+      "title": null,
+      "content": "NUNCA inicie frase com pronome átono. NUNCA coloque pronome depois de particípio. NUNCA use ênclise com futuro.",
+      "order": 3
+    },
+    {
+      "memory_id": "mem_004",
+      "material_id": "mat_001",
+      "topic_id": "top_005",
+      "title": null,
+      "content": "Com infinitivo, a colocação é mais flexível: mesmo com atrativo, a ênclise ao infinitivo é frequentemente aceita.",
+      "order": 4
+    },
+    {
+      "memory_id": "mem_005",
+      "material_id": "mat_001",
+      "topic_id": "top_006",
+      "title": null,
+      "content": "Em locuções verbais, o pronome pode ir para o auxiliar ou para o principal (se infinitivo/gerúndio). Se houver atrativo, ele 'puxa' para antes do auxiliar.",
+      "order": 5
+    }
+  ],
+  "quadro_sinotico_itens": [
+    {
+      "summary_item_id": "sum_001",
+      "title": null,
+      "content": "",
+      "order": 1
+    },
+    {
+      "summary_item_id": "sum_002",
+      "title": null,
+      "content": "",
+      "order": 2
+    },
+    {
+      "summary_item_id": "sum_003",
+      "title": null,
+      "content": "",
+      "order": 3
+    },
+    {
+      "summary_item_id": "sum_004",
+      "title": null,
+      "content": "",
+      "order": 4
+    },
+    {
+      "summary_item_id": "sum_005",
+      "title": null,
+      "content": "",
+      "order": 5
+    },
+    {
+      "summary_item_id": "sum_006",
+      "title": null,
+      "content": "",
+      "order": 6
+    },
+    {
+      "summary_item_id": "sum_007",
+      "title": null,
+      "content": "",
+      "order": 7
+    },
+    {
+      "summary_item_id": "sum_008",
+      "title": null,
+      "content": "",
+      "order": 8
+    }
+  ],
+  "questoes": [
+    {
+      "question_id": "qst_001",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": "CEBRASPE",
+      "year": 2023,
+      "organization": null,
+      "role": null,
+      "statement": "No trecho 'Não apenas se vivencia', a ênclise do pronome 'se' à forma verbal — não apenas vivencia-se — comprometeria a correção gramatical do texto.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": null,
+      "external_reference": "Questão 2368466 CEBRASPE (CESPE) - Promotor de Justiça (MPE SC)/2023 - Tec Concursos",
+      "commentary": "A questão está CORRETA. No trecho 'Não apenas se vivencia', a palavra 'Não' é um advérbio de negação, que funciona como palavra atrativa, tornando a próclise (pronome antes do verbo) obrigatória. A tentativa de usar a ênclise ('vivencia-se') comprometeria a correção gramatical, pois a presença do fator atrativo 'Não' impede essa colocação.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_001"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_002",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": "CEBRASPE",
+      "year": 2025,
+      "organization": null,
+      "role": null,
+      "statement": "Estaria mantida a correção gramatical do texto caso o pronome 'os', em 'os cerca' (final do terceiro parágrafo), fosse empregado em posição enclítica, da seguinte forma: cerca-os.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": null,
+      "external_reference": "Questão 2271941 CEBRASPE (CESPE) - TCU/2025 - Qconcursos.com",
+      "commentary": "A questão está CORRETA. No trecho 'os cerca', não há palavra atrativa que obrigue a próclise. O verbo 'cerca' está no início de uma oração ou período que não possui fator de atração anterior. Nesses casos, a ênclise é a colocação padrão e gramaticalmente correta. Portanto, 'cerca-os' mantém a correção gramatical.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_002"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_003",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": "CEBRASPE",
+      "year": 2025,
+      "organization": null,
+      "role": null,
+      "statement": "No trecho 'se destacam' (segundo período do quinto parágrafo), a ocorrência da próclise pronominal é obrigatória.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": null,
+      "external_reference": "Questão 2268257 CEBRASPE (CESPE) - FUB/2025 - Qconcursos.com",
+      "commentary": "A questão está CORRETA. Embora o trecho original não seja fornecido, a afirmação de que a próclise em 'se destacam' é obrigatória sugere a presença de um fator atrativo antes do verbo. O CEBRASPE frequentemente testa a identificação desses fatores. Por exemplo, se houvesse um pronome relativo ('que se destacam') ou um advérbio ('sempre se destacam') antes, a próclise seria obrigatória.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_003"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_004",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": "CEBRASPE",
+      "year": 2021,
+      "organization": null,
+      "role": null,
+      "statement": "No trecho 'Quando me lembro dessa noite' (ℓ.21), a correção gramatical seria mantida caso o pronome 'me' fosse deslocado para imediatamente após a forma verbal 'lembro', da seguinte forma: Quando lembro-me dessa noite.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": null,
+      "external_reference": "Questão 421765 CEBRASPE (CESPE) - PC/DF/2021 - Qconcursos.com",
+      "commentary": "A questão está ERRADA. No trecho 'Quando me lembro dessa noite', a palavra 'Quando' é uma conjunção subordinativa temporal, que funciona como palavra atrativa, tornando a próclise (pronome 'me' antes do verbo 'lembro') obrigatória. Deslocar o pronome para depois do verbo ('Quando lembro-me') violaria essa regra, comprometendo a correção gramatical.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_004"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_005",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": "CEBRASPE",
+      "year": 2024,
+      "organization": null,
+      "role": null,
+      "statement": "Em 'Não se preocupa nem um pouco com a chuva', o pronome 'se' poderia ser corretamente deslocado para depois do verbo, resultando em 'Não preocupa-se nem um pouco com a chuva', sem prejuízo à correção gramatical.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": null,
+      "external_reference": "Adaptada de CEBRASPE 2024",
+      "commentary": "A questão está ERRADA. A palavra 'Não' é um advérbio de negação e, como tal, é um forte fator de atração para a próclise. A presença de um advérbio atrativo antes do verbo torna a próclise obrigatória ('Não se preocupa'). A tentativa de usar a ênclise ('Não preocupa-se') é gramaticalmente incorreta, pois o advérbio 'Não' impede essa colocação.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_005"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_006",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": "CEBRASPE",
+      "year": 2023,
+      "organization": null,
+      "role": null,
+      "statement": "Na oração 'Ele me disse a verdade', a colocação do pronome 'me' é facultativa, sendo 'Ele disse-me a verdade' também uma forma gramaticalmente correta.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": null,
+      "external_reference": "Adaptada de CEBRASPE 2023",
+      "commentary": "A questão está CORRETA. Na oração 'Ele me disse a verdade', o sujeito 'Ele' está explícito e não há outra palavra atrativa que obrigue a próclise. Nesses casos, a colocação pronominal é facultativa, permitindo tanto a próclise ('Ele me disse') quanto a ênclise ('Ele disse-me'). Ambas as formas são consideradas gramaticalmente corretas pela norma-padrão.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_006"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_007",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": "CEBRASPE",
+      "year": 2022,
+      "organization": null,
+      "role": null,
+      "statement": "No trecho 'Em se tratando de novas tecnologias, o Brasil avança', a próclise do pronome 'se' é obrigatória em razão da preposição 'em' seguida de gerúndio.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": null,
+      "external_reference": "Adaptada de CEBRASPE 2022",
+      "commentary": "A questão está CORRETA. A construção 'em + gerúndio' é um dos casos que exigem a próclise do pronome oblíquo átono. Portanto, em 'Em se tratando de novas tecnologias', a próclise do 'se' é obrigatória, e a afirmação da questão está de acordo com a norma-padrão da língua portuguesa.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_007"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_008",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": "CEBRASPE",
+      "year": 2021,
+      "organization": null,
+      "role": null,
+      "statement": "A frase 'Me entregaram os documentos ontem' está em conformidade com a norma-padrão da língua portuguesa, pois o pronome oblíquo átono pode iniciar a oração na linguagem informal.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": null,
+      "external_reference": "Adaptada de CEBRASPE 2021",
+      "commentary": "A questão está ERRADA. A norma-padrão da língua portuguesa proíbe categoricamente o início de orações com pronomes oblíquos átonos. Embora seja comum na linguagem coloquial, em contextos formais, como provas de concurso, essa construção é considerada um erro gramatical. A forma correta seria 'Entregaram-me os documentos ontem'.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_008"
+        ],
+        "count": 1
+      }
+    }
+  ],
+  "comentarios_questoes": [
+    {
+      "comment_id": "com_001",
+      "question_id": "qst_001",
+      "content": "A questão está CORRETA. No trecho 'Não apenas se vivencia', a palavra 'Não' é um advérbio de negação, que funciona como palavra atrativa, tornando a próclise (pronome antes do verbo) obrigatória. A tentativa de usar a ênclise ('vivencia-se') comprometeria a correção gramatical, pois a presença do fator atrativo 'Não' impede essa colocação.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_002",
+      "question_id": "qst_002",
+      "content": "A questão está CORRETA. No trecho 'os cerca', não há palavra atrativa que obrigue a próclise. O verbo 'cerca' está no início de uma oração ou período que não possui fator de atração anterior. Nesses casos, a ênclise é a colocação padrão e gramaticalmente correta. Portanto, 'cerca-os' mantém a correção gramatical.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_003",
+      "question_id": "qst_003",
+      "content": "A questão está CORRETA. Embora o trecho original não seja fornecido, a afirmação de que a próclise em 'se destacam' é obrigatória sugere a presença de um fator atrativo antes do verbo. O CEBRASPE frequentemente testa a identificação desses fatores. Por exemplo, se houvesse um pronome relativo ('que se destacam') ou um advérbio ('sempre se destacam') antes, a próclise seria obrigatória.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_004",
+      "question_id": "qst_004",
+      "content": "A questão está ERRADA. No trecho 'Quando me lembro dessa noite', a palavra 'Quando' é uma conjunção subordinativa temporal, que funciona como palavra atrativa, tornando a próclise (pronome 'me' antes do verbo 'lembro') obrigatória. Deslocar o pronome para depois do verbo ('Quando lembro-me') violaria essa regra, comprometendo a correção gramatical.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_005",
+      "question_id": "qst_005",
+      "content": "A questão está ERRADA. A palavra 'Não' é um advérbio de negação e, como tal, é um forte fator de atração para a próclise. A presença de um advérbio atrativo antes do verbo torna a próclise obrigatória ('Não se preocupa'). A tentativa de usar a ênclise ('Não preocupa-se') é gramaticalmente incorreta, pois o advérbio 'Não' impede essa colocação.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_006",
+      "question_id": "qst_006",
+      "content": "A questão está CORRETA. Na oração 'Ele me disse a verdade', o sujeito 'Ele' está explícito e não há outra palavra atrativa que obrigue a próclise. Nesses casos, a colocação pronominal é facultativa, permitindo tanto a próclise ('Ele me disse') quanto a ênclise ('Ele disse-me'). Ambas as formas são consideradas gramaticalmente corretas pela norma-padrão.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_007",
+      "question_id": "qst_007",
+      "content": "A questão está CORRETA. A construção 'em + gerúndio' é um dos casos que exigem a próclise do pronome oblíquo átono. Portanto, em 'Em se tratando de novas tecnologias', a próclise do 'se' é obrigatória, e a afirmação da questão está de acordo com a norma-padrão da língua portuguesa.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_008",
+      "question_id": "qst_008",
+      "content": "A questão está ERRADA. A norma-padrão da língua portuguesa proíbe categoricamente o início de orações com pronomes oblíquos átonos. Embora seja comum na linguagem coloquial, em contextos formais, como provas de concurso, essa construção é considerada um erro gramatical. A forma correta seria 'Entregaram-me os documentos ontem'.",
+      "explanation_alternatives": ""
+    }
+  ],
+  "checklist_revisao": [
+    {
+      "checklist_id": "chk_001",
+      "material_id": "mat_001",
+      "topic_id": "top_001",
+      "item_text": "Compreendeu os três tipos de colocação pronominal (próclise, mesóclise, ênclise)?",
+      "completed": false,
+      "order": 1
+    },
+    {
+      "checklist_id": "chk_002",
+      "material_id": "mat_001",
+      "topic_id": "top_002",
+      "item_text": "Memorizou as principais palavras atrativas que exigem a próclise?",
+      "completed": false,
+      "order": 2
+    },
+    {
+      "checklist_id": "chk_003",
+      "material_id": "mat_001",
+      "topic_id": "top_003",
+      "item_text": "Sabe quando usar a mesóclise (futuro do presente/pretérito sem atrativo)?",
+      "completed": false,
+      "order": 3
+    },
+    {
+      "checklist_id": "chk_004",
+      "material_id": "mat_001",
+      "topic_id": "top_004",
+      "item_text": "Identifica os casos de ênclise obrigatória (início de frase, imperativo, gerúndio sem 'em', infinitivo impessoal)?",
+      "completed": false,
+      "order": 4
+    },
+    {
+      "checklist_id": "chk_005",
+      "material_id": "mat_001",
+      "topic_id": "top_005",
+      "item_text": "Reconhece os casos facultativos (sujeito explícito, infinitivo)?",
+      "completed": false,
+      "order": 5
+    },
+    {
+      "checklist_id": "chk_006",
+      "material_id": "mat_001",
+      "topic_id": "top_006",
+      "item_text": "Entende a colocação pronominal em locuções verbais, especialmente com particípio?",
+      "completed": false,
+      "order": 6
+    },
+    {
+      "checklist_id": "chk_007",
+      "material_id": "mat_001",
+      "topic_id": "top_007",
+      "item_text": "Conhece as proibições absolutas (início de frase, após futuro, após particípio)?",
+      "completed": false,
+      "order": 7
+    },
+    {
+      "checklist_id": "chk_008",
+      "material_id": "mat_001",
+      "topic_id": "top_001",
+      "item_text": "Analisou as pegadinhas comuns do CEBRASPE neste tópico?",
+      "completed": false,
+      "order": 8
+    }
+  ],
+  "referencias": [
+    {
+      "reference_id": "ref_001",
+      "material_id": "mat_001",
+      "reference_type": "web",
+      "author_name": "Blog Flávia Rita",
+      "title": "Colocação Pronominal - Próclise, Mesóclise e Ênclise",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHEOs0V41N9nB1OU8NDN9_y4nM0WM_5d5kgh--tp_QfLWBExKcCV0P6VwhO4M7P1U-aK2Dr5-f-CNjTbEjCWeg-6x6Z-PByzlP_QN3rRuziCYOQ-p6Ed5ilekScSQ7IRLePr7ceDRy43eMdNkKFBqKLT6ADQzZ8WAGwZ7wlTF4W9Efb7F7aRTvE7w==",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_002",
+      "material_id": "mat_001",
+      "reference_type": "web",
+      "author_name": "Kumon",
+      "title": "Colocação pronominal: o que é, regras e exemplos práticos",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEqCHvZ1KsV0ufK24PopWUslv9Njw2gm4zn_nQyfNPIcDyq8xqDwxd1-G9b8xLbLpNHUhJFlN6G8-JT3fwjCWJI-7ISCX3KXShrjJF5SC2dlvmYFidHg4PwnOzQuN9L2ENvhRrGFow0m4ktRSLtyzWsJCJkzLZp2Rw=",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_003",
+      "material_id": "mat_001",
+      "reference_type": "web",
+      "author_name": "Não especificado",
+      "title": "COLOCAÇÃO PRONOMINAL",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGXk9P89T5g1dj6P_-ipAW6sSeISa25pdwZpKwkkg8-NY1tdOY-_oqLW8tjQgeR7M-UufBvWlt-a7BKqGwP0ra41DDwGo4SUc7Z-o8pSYdKAj-fb6DMOoLguRDRSHXZsdfNakRGBGDtIk8CRl4N6rh3ZakKR7qFSJ-Gqa8zqSYRVKfDn2cAIjO4Mp-TyEIMm1EDxtycPaM9YSEhU3MUlMp903TOSBweFzhl",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_004",
+      "material_id": "mat_001",
+      "reference_type": "web",
+      "author_name": "Toda Matéria",
+      "title": "Colocação pronominal: próclise, mesóclise e ênclise (com exercícios)",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQECnBivRMvtO0lW2yBM1CVB3krMY3xLo-tPTs-RMDxlbgGqQz0sl1B_PbprRItG5IKvnIq639ouh4FwmhNsyWpD41yxBvViJqI6RyR3nY35HS7OkU8CKiQC5N3LfDSr7rRXr_ZfbpJU1xCrTiGmN5Q=",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_005",
+      "material_id": "mat_001",
+      "reference_type": "web",
+      "author_name": "FUNAG",
+      "title": "Colocação pronominal - Manual de Revisão da FUNAG",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGfH9VF9vX65q8Ih7sWEsWTsukqaNRzqPyxhBKMoJzPxQAaGEvV_lnWitKaO0WehiCdGUD7M-HaKPAptOvAcsIdmaf9dbNTPVYfnZIWwN0ODz_kxxaxREp2NP5LbXdXQgpOiMB0Cx3mvffUwHOd4IP0l3Y-j4EZD7ltDpv8wFNftjDDP3C4",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_006",
+      "material_id": "mat_001",
+      "reference_type": "web",
+      "author_name": "Treine Subjetivas",
+      "title": "Casos proibidos em colocação pronominal",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGBoKzDUyxJYiX5Mjf11-qnWEigGV6S1tDZXdzuKh1vBPvoBBZXJETn74DOS6Pv-C5zdarOE4INfONCFL0Jwbf7somAEtvYj8YKlhDrcpRRjsBleIqqAaaJD73ur_moGS-4j3W3nlQRtQ2mkk48DszalyhrdvYdk64oLRdzQQeCWCf6OA==",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_007",
+      "material_id": "mat_001",
+      "reference_type": "web",
+      "author_name": "Brasil Escola",
+      "title": "Próclise, mesóclise e ênclise: regras e exemplos",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFH0om6H-ho_eOhPxy9ijGXqloCiVPL-2fyf3L6C6H8xUD0P0mfPqQ3su3SemL6YH_O81BNpXBcqpoxLy8DRMgqyntF1jtaqs4-28PV4AA043EfzQ2H0bKpn8xU1i1iduNS4o3iCvjePt9WDFHfWgA5cTRldWeQS9zBdj-uVzy6",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_008",
+      "material_id": "mat_001",
+      "reference_type": "web",
+      "author_name": "Não especificado",
+      "title": "Colocação Pronominal - Língua Portuguesa",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHN6QnB02cL1vkT2QKZBrVg-fPyGpphph2Y94Tsi5e0WaNdv2sNBoXYBTSGJuILxFKLk-OIPwwztJCFKaEBEFINfYk9jdYDHBSLc6-QD-wQOactxzB1I95vqhBHF43Dwe8W5t9LECt6LH_GCmBA_3MQPs08rXOWCjuX7owuxYqQDxtzeh-h",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_009",
+      "material_id": "mat_001",
+      "reference_type": "web",
+      "author_name": "Blog Gran Cursos Online",
+      "title": "10 regras para o perfeito uso da colocação pronominal",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEyHmtJTqMhv7BrR_McXN_P1hwVIAdmaY7hrJiReE8BDVnFGxpBC_hHfbrGKM5_tfBHXXUt_jczXgdmtTG3PCdIuNH-8fJh2LKadjDDM7hhk3igxHYnPV8gQHFcpTshwiGubFc8B6WpPF6JhYcF5Kc_V2eQ7Tl2swiy6jCqTSqKnmW16AbzHvVBgRy6",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_010",
+      "material_id": "mat_001",
+      "reference_type": "web",
+      "author_name": "Prof Nelson Jr",
+      "title": "[GRAMÁTICA] Colocação Pronominal",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE1udgDl_IMYcZKwAn-POKeodydKKhQuHnS8SYNHPD_5Qnk18eXNRTYq6nnYTxf1okUUIbggz38RSA5v98q8uNqZX_W-DTi50BiqxDvV_vAELa2YgR_qbiV4sXFoUDuDRh_ElrNhGeSSWbrlaXQOFwGRNdAlD56tSuyVeY=",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_011",
+      "material_id": "mat_001",
+      "reference_type": "web",
+      "author_name": "Manual do Enem",
+      "title": "Colocação Pronominal - Manual do Enem",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEwU9ZpcmF3RMAJu5qLXDi97JwvFkmg4vLLL-srLEwYVfEzrvdYzruexDJePMbmJzywfXf8omzeq2RauaqsVOHURq850fFB2fs4KkZv5Srd4P9Rw3rn7As7WuMds-UqAAO3XKAfrAu-lZtk9EnaZVIPGtdmwD3IMUM=",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_012",
+      "material_id": "mat_001",
+      "reference_type": "web",
+      "author_name": "Mundo Educação - UOL",
+      "title": "Próclise, mesóclise e ênclise: como usar?",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEO0OS8faF5je7twb-akPgZtmBoLO70Ji024lRF79NoeH3w9mktxnEQnqiwaQo27-9j2Z1yajpLIZIwEuhl6zJv2E9n_2LeXEjsdUOJ4aOZch3didrQ0wFJzhTGOibGdzxD3F6KAhxlMRngihvKGzoiPg_P_RFCVBXH7LqnoqHVSq9_4Rw=",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_013",
+      "material_id": "mat_001",
+      "reference_type": "web",
+      "author_name": "Brasil Escola",
+      "title": "Colocação pronominal: o que é, tipos, exemplos",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGZ6R7IYhNINogziQ8ceHbucDB2qVGgbMEJSmQ4jpfJI0vxOmX6ezRzfevCaF8g-Xl89SkzJD0Y5HDgfGUZwQsIZ9f4bzDTF5e8onvHrwxoRSqdOsj_A8guQJ1BSDnDGjVuCFheyEQDRT7MjgTHAZG3_E5tO2OqrIjclikOrA==",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_014",
+      "material_id": "mat_001",
+      "reference_type": "web",
+      "author_name": "Estratégia Vestibulares",
+      "title": "Colocação pronominal: próclise, mesóclise, ênclise",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHhxfqcbXxYSLX03Fu-hlImw_SQB_L7hSe_kpqUkrvDRT4Ytj45YJYSghrGl2YP0qCBLeQDzUNx1maAl0cE-r_OMjcLxoUKYqrwlHk16cuUgpstVlbaC3WyMxLacceJ0sXgxnZ14lLDXnij-HRToxPnEK_0M5ONtGaoYUuNqIaZS9D6r8gB6uEbNAGBaCYH",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_015",
+      "material_id": "mat_001",
+      "reference_type": "web",
+      "author_name": "Não especificado",
+      "title": "Pronomes: dicas para ir do zero ao topo no tema colocação pronominal!",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHiSpcAGQLQK0RvQBIt1PFK7kBsMmNE-JrA3-9aDp2kd-rLkAuoYqUAQagB1SnhloajcDayyUsJZoqUgQY2FA7wNRTcCL9ZCig7ukNX59o3XYUJf9n1yleXzS4Pzb-DKVuahycAEySKsf44vyalbr-yhopGzZ93ZslT",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_016",
+      "material_id": "mat_001",
+      "reference_type": "web",
+      "author_name": "YouTube - Prof. Pestana",
+      "title": "Fatos facultativos de Colocação Pronominal",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEKBnxuN-V3QXo8sXv3bFOpE0PCi2vIuhiQ_hnOblMxX7A8ZpZc_bS4g_eFlDv1sevNhsIi2bVTSFOqTZRWzUiL8T4PczuhFHIUlsTavNmTBBE7M8v0RMjXZA8jckp6fxx51wYYMU0=",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_017",
+      "material_id": "mat_001",
+      "reference_type": "web",
+      "author_name": "Qconcursos.com",
+      "title": "Questões de Concurso sobre Colocação Pronominal em Português para CESPE / CEBRASPE",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHixNN_4zuRFvDvuiGeCrURGrS1knFLRhwn_ymvD6Tt_cDTvSLFm2eajEnM5KERtk5SDtPsbvr3ndhJeBQmejBqAqaEmjKhnwCoS4dmoKzICYtq93MpCm3uDNIrKCCOkp0qUP6M1gPffISBAh_XSyqX5Jf9VvoySKx5db2_5pKg2xcNaq21EJOIkP0HSYeXAYyvOqVuC2r2ahSYK81x5xysa8kCQNZ3PlDXwIuOuOsVSp8E-gCFBEOu2-DyyrjMSDo=",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_018",
+      "material_id": "mat_001",
+      "reference_type": "web",
+      "author_name": "YouTube - Jus Polis",
+      "title": "INTENSIVÃO DE QUESTÕES CEBRASPE - PORTUGUÊS - COLOCAÇÃO PRONOMINAL - AULA 5",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEnbltz9mtwGSQ9cp2yD3ivBeMqp_RKsbKW5aBZbkUEmB_eM_Q2NFSpi6iAxlVN-5gyVmGX4vEs_KrnTwJhdwsT_eSMD5X7iEDmOjZeAnik2T_e6u60NwR2AJpwQHXyiob6viWkBOk=",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_019",
+      "material_id": "mat_001",
+      "reference_type": "web",
+      "author_name": "Mapa da Prova",
+      "title": "Questões de CESPE / Cebraspe - Colocação pronominal",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHnAd9h7Lkb2Qj1VYl8huR-9kuAzbzu-Pp5zpcfpvH4PYM7ZwvWXSooZf3HjpcBngZxJbi9m-41gaUvMdgb6J0ZKJqhHjfbnyAMo9p9yaIrDKDKG7_3QyoQZtcjf4ehVqG4RHWkxTTLLo9QWJnM2Na86KdFHgROjGNsVUe-meAteO_LTMGONg==",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_020",
+      "material_id": "mat_001",
+      "reference_type": "web",
+      "author_name": "Prof. Andresan Machado",
+      "title": "Questões CESPE/CEBRASPE - Colocação Pronominal",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG4nrR8VdZNF4N2T8znhYCSyPupvcdO6QPhBUyOnB61TxPxpZgqJJVI0px8o-j6z1AqZfFuvJ_Vm-B3c1SfiriiNG_SAGWOkuKwZlWimCd1_AWqppRyUfLhg1DaGVBfUIbPXBj2n3I=",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_021",
+      "material_id": "mat_001",
+      "reference_type": "web",
+      "author_name": "YouTube - Grazy Souza",
+      "title": "COLOCAÇÃO PRONOMINAL - QUESTÕES CEBRASPE",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFnYqtsH_9cT-fgBkfkG3Q3V3IxIx_YAuLwtXSdCu9skgfMxQnjXf1vm_pIYbaclUvDwWA4TRMKJvf-S1hplrWbE-3FY2n3mK_jS7GqgZMcL2Fk9OiwgA09XS-5nNqAlRZs-D4B0jc=",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_022",
+      "material_id": "mat_001",
+      "reference_type": "web",
+      "author_name": "YouTube - Yara Coeli",
+      "title": "Como a CEBRASPE Cobra Colocação Pronominal",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF1H5Ht7vVbaK99dXqPNP0H-zXyWypm4uQ2w1CvmRjpbInDhZbuspimJtxJycjv5TkES7Ye6sSUql0SfCFLG0tWc_CbHhSVSGgghCYSTYdB9uywdOwrCNMme4TxRqWasWiPHO8Y-ac=",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_023",
+      "material_id": "mat_001",
+      "reference_type": "web",
+      "author_name": "Mundo Escrito",
+      "title": "Colocação pronominal — os erros mais frequentes na revisão de textos",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFqxALybXyXuHEedO6hD2OFVnhrB8RzhTyqzq5bekuAqlBHNne3rPeYQLnPrHJKOMjTIYjms8QNCLy_cn4qdDcIZCKV5iJT2T0E1FbSuKRxXO5ErKYw9NlsNhDc6pTYj3EI8f43PaeDkAL01wyurDRog01T6tD9jb4CGDiD1w==",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_024",
+      "material_id": "mat_001",
+      "reference_type": "web",
+      "author_name": "Tec Concursos",
+      "title": "Questão 2368466 CEBRASPE (CESPE) - Promotor de Justiça (MPE SC)/2023",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFeWHPj4Gn_Xl8736fszuqu5UoY9J4LTVvV-1dkHVCEo79jN-g5vZ2YK1M52XiFtaph1xntD5KhuGOFGRbi2hRNwU_ZZG23cZMZAZKMaX6yklEMGSG1HZcBj_dmfRaI4krMcrEluxA14DWT5A==",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_025",
+      "material_id": "mat_001",
+      "reference_type": "web",
+      "author_name": "YouTube - Prof. Décio Terror",
+      "title": "THE 5 MOST COMMON CEBRASPE TRICKS IN PORTUGUESE",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGfrMdCkhMW_5Wfrpcfv1Xl3UPkXeWdG806TOOo0Y8H_CZGAeT_oShUOisbelj7p21StRrfSHByFNIh3Ld7brPgYZAz9qAT-rmTgRRprjw4vI3xbcmKRaY_95JgQiyNnWJsDFMQ-Sk=",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_026",
+      "material_id": "mat_001",
+      "reference_type": "web",
+      "author_name": "Estratégia Concursos",
+      "title": "Raio-x Português CESPE",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGnn5FkgsL_tvXbF7MAfi9oNv8qIaUElLZ8W4SDrlOu1F5tC5YeUcOX5lUuRLaOBTGZTC0KrnkSo3OsoVqmJFoeg6RJz8gksJ4CvFqeoNLX-Nk2U_7BGtxLOVqEFxt3k2sdPCGXj-xL4ZmIu2MdfyWNgdySUgc0MxvGDd1Ll-M=",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_027",
+      "material_id": "mat_001",
+      "reference_type": "web",
+      "author_name": "Décio Terror",
+      "title": "Escala de prioridade CEBRASPE 2024: Entenda como a banca cobra",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGnLMvadn2KmKXRfcgdDP9R1is3PkalK-yCFxm0uW8iRAoPV5PPUEGb9Ygb5tUbfdjVtlgBUI4yvI2oIVC12whWVYfFzWaybzLiCnYzdSz-c4oKjBeg21iUwtLNtN_AP5YWpuolQTdsv_vICBJRFY3GV7CGiWxqrg_8U_NBm2gKndryL8um9cJ05lmIuWxMBHwlfCnf2_M-VMhXrC5FOEY=",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_028",
+      "material_id": "mat_001",
+      "reference_type": "web",
+      "author_name": "Estratégia Concursos",
+      "title": "Cebraspe 2024 | Os 10 assuntos mais cobrados em Língua Portuguesa",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGdYTtDiiNmbAZmdX4d2s9KdulpMZKE_cr4inYyHmPIePTb8xt2ytipqsh6hA4W3zh1AKEVN5SJ7m3i69q33SJ-S3ZchwUTK3L0AspdGyLfCBtyAtTZ8GAi274Lsosh04fYverQ460BHrPsTTals4oykQ8HzLMb91YCKzKz4SI2fmj6JLYqEqmLBM88TsU2GhPhWevXyIE_Zq_aNgdk9jGlPKxQFHFVf5IggTKLyTf6czgi5EJs4oPTipNp5ShJlPiO7Zk=",
+      "accessed_at": null,
+      "description": null
+    }
+  ],
+  "estatisticas_de_geracao": {
+    "total_topicos": 7,
+    "total_componentes_topico": 6,
+    "total_entendimentos_relevantes": 3,
+    "total_pegadinhas": 5,
+    "total_pontos_memorizacao": 5,
+    "total_itens_quadro_sinotico": 8,
+    "total_questoes": 8,
+    "total_comentarios_questoes": 8,
+    "total_itens_checklist": 8,
+    "total_referencias": 28
+  },
+  "validacao_interna": {
+    "pesquisa_previa_realizada": true,
+    "analise_de_cobrancas_anteriores_realizada": true,
+    "material_atualizado": true,
+    "json_valido": true,
+    "estrutura_relacional_respeitada": true,
+    "numeracao_respeitada": true,
+    "houve_quebra_de_hierarquia": false,
+    "houve_nivel_numerico_superior_a_3": false,
+    "fontes_verificadas": true,
+    "sem_informacao_inventada": true
+  },
+  "metadata": {
+    "source_file_name": "5__língua-portuguesa__5-domínio-da-estrutura-morfossintática-do-período-5.8-colocação-dos-pronomes-átonos.json",
+    "normalized_checksum": "36f4289de84b0e169d6c347a05083707dfde9ff0bc12c29df3bda516c0c76488",
+    "subject_slug": "portugues",
+    "material_slug": "colocacao-pronomes-atonos-cebraspe",
+    "title_slug": "colocacao-dos-pronomes-atonos-para-concursos",
+    "board_slug": "cebraspe",
+    "counters": {
+      "blocks": 2,
+      "topics": 7,
+      "topic_components": 6,
+      "traps": 5,
+      "memory_points": 5,
+      "summary_items": 8,
+      "questions": 8,
+      "question_comments": 8,
+      "checklist_items": 8,
+      "references": 28
+    }
+  }
+}

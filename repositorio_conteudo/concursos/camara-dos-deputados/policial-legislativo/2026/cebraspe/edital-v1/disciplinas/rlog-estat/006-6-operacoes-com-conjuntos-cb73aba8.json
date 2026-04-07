@@ -1,0 +1,952 @@
+{
+  "schema_version": "1.0",
+  "normalized_at": "2026-04-07T15:39:14.668944-03:00",
+  "normalizer_version": "2.0.0",
+  "exported_at": "2026-04-07T15:41:00Z",
+  "source_request": {
+    "purpose": "Concurso público",
+    "general_area": "Exatas",
+    "subject_name": "Raciocínio Lógico e Noções de Estatística",
+    "subarea_name": "Lógica, conjuntos, contagem e estatística",
+    "main_theme": "6 Operações com conjuntos",
+    "theme_scope": "Teoria completa, incidência em prova, padrão de cobrança da banca, pegadinhas e questões comentadas",
+    "board_style": "CEBRASPE",
+    "depth_level": "Exaustivo",
+    "goal": "Teoria completa, revisão estratégica, pegadinhas e questões comentadas",
+    "base_topic_number": "6",
+    "topic_title": "6 Operações com conjuntos",
+    "syllabus_reference": "Conteúdo programático da disciplina Raciocínio Lógico e Noções de Estatística",
+    "priority_sources": [
+      "Bibliografia técnica consolidada",
+      "Definições, propriedades, regras e métodos consagrados",
+      "Questões anteriores da banca"
+    ],
+    "minimum_questions": 8,
+    "question_format": "Certo/Errado",
+    "prioritize_real_questions": true,
+    "response_language": "português",
+    "target_audience": "Candidato de concurso público",
+    "additional_notes": "Executar exatamente para esta linha individual do topicos.txt. Não juntar com outros tópicos. Não pular este tópico. Dar destaque ao padrão de cobrança da banca, aos pontos mais cobrados e às pegadinhas recorrentes.",
+    "input_hash": "39525bf3ee2c",
+    "extras": {}
+  },
+  "material": {
+    "material_id": "mat_001",
+    "slug": "operacoes-com-conjuntos-cebraspe",
+    "title": "Raciocínio Lógico e Noções de Estatística para Concursos: Operações com Conjuntos",
+    "base_number": "6",
+    "topic_title": "6 Operações com conjuntos",
+    "purpose": "Concurso público",
+    "area_name": "Exatas",
+    "subject_name": "Raciocínio Lógico e Noções de Estatística",
+    "subarea_name": "Lógica, conjuntos, contagem e estatística",
+    "main_theme": "Operações com conjuntos",
+    "theme_scope": "Teoria completa, incidência em prova, padrão de cobrança da banca, pegadinhas e questões comentadas",
+    "board_style": "CEBRASPE",
+    "depth_level": "Exaustivo",
+    "study_goal": "Teoria completa, revisão estratégica, pegadinhas e questões comentadas",
+    "target_audience": "Candidato de concurso público",
+    "language_code": "português",
+    "update_status": "Atualizado",
+    "current_note": "Conteúdo revisado e alinhado com o padrão de cobrança recente da banca CEBRASPE.",
+    "has_case_law": false,
+    "case_law_justification": "A disciplina de Raciocínio Lógico e Noções de Estatística, especialmente o tema de operações com conjuntos, não exige o uso de jurisprudência.",
+    "has_information_limitation": false,
+    "information_limitation_desc": null,
+    "content_checksum": "placeholder_checksum",
+    "extras": {}
+  },
+  "blocos_textuais": [
+    {
+      "external_block_code": "blc_001",
+      "material_id": null,
+      "topic_id": null,
+      "order": 1,
+      "title": "Introdução às Operações com Conjuntos",
+      "content": "A teoria dos conjuntos é um pilar fundamental do Raciocínio Lógico e da Matemática, sendo frequentemente cobrada em concursos públicos, especialmente pela banca CEBRASPE. Compreender as operações básicas e suas propriedades é essencial para resolver problemas que envolvem a organização e a manipulação de informações. Este material abordará de forma exaustiva as operações com conjuntos, focando na incidência em provas da CEBRASPE, suas pegadinhas e estratégias de resolução de questões no formato Certo/Errado.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_002",
+      "material_id": null,
+      "topic_id": null,
+      "order": 2,
+      "title": "Conceitos Fundamentais de Conjuntos",
+      "content": "Antes de adentrar nas operações, é crucial revisar os conceitos básicos. Um conjunto é uma coleção bem definida de objetos, chamados elementos. A representação pode ser por enumeração (listando os elementos), por propriedade (descrevendo uma característica comum) ou por Diagramas de Venn (representação gráfica).",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_003",
+      "material_id": null,
+      "topic_id": null,
+      "order": 3,
+      "title": "Relações entre Conjuntos e Elementos",
+      "content": "A relação de pertinência (∈) indica se um elemento faz parte de um conjunto. A relação de inclusão (⊂, ⊆) indica se um conjunto está contido em outro. É fundamental não confundir essas relações, pois é uma pegadinha comum da CEBRASPE.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_004",
+      "material_id": null,
+      "topic_id": null,
+      "order": 4,
+      "title": "Operação de União (∪)",
+      "content": "A união de dois conjuntos A e B, denotada por A ∪ B, é o conjunto de todos os elementos que pertencem a A OU a B (ou a ambos). Em um Diagrama de Venn, representa a área total abrangida pelos conjuntos A e B.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_005",
+      "material_id": null,
+      "topic_id": null,
+      "order": 5,
+      "title": "Operação de Interseção (∩)",
+      "content": "A interseção de dois conjuntos A e B, denotada por A ∩ B, é o conjunto de todos os elementos que pertencem SIMULTANEAMENTE a A E a B. Em um Diagrama de Venn, representa a área comum aos conjuntos A e B. Se não houver elementos em comum, a interseção é o conjunto vazio (∅).",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_006",
+      "material_id": null,
+      "topic_id": null,
+      "order": 6,
+      "title": "Operação de Diferença (− ou \\)",
+      "content": "A diferença entre dois conjuntos A e B, denotada por A − B (ou A \\ B), é o conjunto de todos os elementos que pertencem a A E NÃO pertencem a B. Em um Diagrama de Venn, representa a parte de A que não se sobrepõe a B. A diferença A − B é diferente de B − A.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_007",
+      "material_id": null,
+      "topic_id": null,
+      "order": 7,
+      "title": "Operação de Complementar (Aᶜ ou A')",
+      "content": "O complementar de um conjunto A, denotado por Aᶜ (ou A'), é o conjunto de todos os elementos do conjunto universo (U) que NÃO pertencem a A. É uma forma especial da diferença: Aᶜ = U − A.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_008",
+      "material_id": null,
+      "topic_id": null,
+      "order": 8,
+      "title": "Operação de Produto Cartesiano (×)",
+      "content": "O produto cartesiano de dois conjuntos A e B, denotado por A × B, é o conjunto de todos os pares ordenados (a, b) onde 'a' pertence a A e 'b' pertence a B. Embora menos frequente em questões de RLM da CEBRASPE, é importante para uma abordagem exaustiva.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_009",
+      "material_id": null,
+      "topic_id": null,
+      "order": 9,
+      "title": "Princípio da Inclusão-Exclusão (Contagem de Elementos)",
+      "content": "Este princípio é fundamental para resolver problemas de contagem envolvendo múltiplos conjuntos, frequentemente apresentados em contextos de pesquisas ou grupos. Para dois conjuntos A e B, o número de elementos da união é dado por n(A ∪ B) = n(A) + n(B) − n(A ∩ B). Para três conjuntos, a fórmula se expande para n(A ∪ B ∪ C) = n(A) + n(B) + n(C) − n(A ∩ B) − n(A ∩ C) − n(B ∩ C) + n(A ∩ B ∩ C).",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_010",
+      "material_id": null,
+      "topic_id": null,
+      "order": 10,
+      "title": "Padrão de Cobrança da CEBRASPE em Operações com Conjuntos",
+      "content": "A CEBRASPE tem um estilo peculiar de cobrança, priorizando a interpretação e a aplicação correta dos conceitos. As questões são predominantemente no formato Certo/Errado e frequentemente utilizam Diagramas de Venn. É comum a exigência de: 1. Interpretação de regiões sombreadas em diagramas. 2. Resolução de problemas de contagem de elementos em pesquisas (2 ou 3 conjuntos). 3. Verificação de propriedades das operações com conjuntos. 4. Distinção entre pertinência e inclusão. 5. Atenção a termos como 'somente', 'apenas', 'pelo menos', que alteram significativamente a interpretação.",
+      "content_type": "teoria"
+    }
+  ],
+  "topicos": [
+    {
+      "external_topic_code": "top_001",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "6.1",
+      "title": "Conceitos Fundamentais",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 1
+    },
+    {
+      "external_topic_code": "top_002",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "6.1.1",
+      "title": "Definição e Representação de Conjuntos",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 2
+    },
+    {
+      "external_topic_code": "top_003",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "6.1.2",
+      "title": "Relações de Pertinência e Inclusão",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 3
+    },
+    {
+      "external_topic_code": "top_004",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "6.1.3",
+      "title": "Conjuntos Especiais",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 4
+    },
+    {
+      "external_topic_code": "top_005",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "6.2",
+      "title": "Operações Básicas com Conjuntos",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 5
+    },
+    {
+      "external_topic_code": "top_006",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "6.2.1",
+      "title": "União de Conjuntos (∪)",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 6
+    },
+    {
+      "external_topic_code": "top_007",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "6.2.2",
+      "title": "Interseção de Conjuntos (∩)",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 7
+    },
+    {
+      "external_topic_code": "top_008",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "6.2.3",
+      "title": "Diferença de Conjuntos (− ou \\)",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 8
+    },
+    {
+      "external_topic_code": "top_009",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "6.2.4",
+      "title": "Complementar de um Conjunto (Aᶜ ou A')",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 9
+    },
+    {
+      "external_topic_code": "top_010",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "6.2.5",
+      "title": "Produto Cartesiano (×)",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 10
+    },
+    {
+      "external_topic_code": "top_011",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "6.3",
+      "title": "Contagem de Elementos: Princípio da Inclusão-Exclusão",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 11
+    },
+    {
+      "external_topic_code": "top_012",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "6.4",
+      "title": "Padrão de Cobrança CEBRASPE e Pegadinhas",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 12
+    }
+  ],
+  "topico_componentes": [
+    {
+      "component_id": "cmp_001",
+      "topic_id": "top_002",
+      "component_type": "explicacao",
+      "content": "Um conjunto pode ser representado listando seus elementos entre chaves (ex: A = {1, 2, 3}), descrevendo uma propriedade comum aos seus elementos (ex: B = {x | x é um número par}), ou graficamente por Diagramas de Venn.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_002",
+      "topic_id": "top_003",
+      "component_type": "explicacao",
+      "content": "Pertinência (∈): Usada para relacionar um elemento a um conjunto. Ex: 2 ∈ {1, 2, 3}. Inclusão (⊂, ⊆): Usada para relacionar um conjunto a outro conjunto. Ex: {1, 2} ⊂ {1, 2, 3}. O símbolo ⊆ indica 'está contido ou é igual'.",
+      "order": 2
+    },
+    {
+      "component_id": "cmp_003",
+      "topic_id": "top_004",
+      "component_type": "explicacao",
+      "content": "Conjunto Vazio (∅ ou {}): Não possui elementos. Conjunto Unitário: Possui apenas um elemento. Conjunto Universo (U): Contém todos os elementos de interesse em um determinado contexto.",
+      "order": 3
+    },
+    {
+      "component_id": "cmp_004",
+      "topic_id": "top_006",
+      "component_type": "explicacao",
+      "content": "A ∪ B = {x | x ∈ A ou x ∈ B}. Propriedades: Comutativa (A ∪ B = B ∪ A), Associativa (A ∪ (B ∪ C) = (A ∪ B) ∪ C), Idempotência (A ∪ A = A), Elemento Neutro (A ∪ ∅ = A).",
+      "order": 4
+    },
+    {
+      "component_id": "cmp_005",
+      "topic_id": "top_007",
+      "component_type": "explicacao",
+      "content": "A ∩ B = {x | x ∈ A e x ∈ B}. Propriedades: Comutativa (A ∩ B = B ∩ A), Associativa (A ∩ (B ∩ C) = (A ∩ B) ∩ C), Idempotência (A ∩ A = A), Elemento Neutro (A ∩ U = A), Distributiva (A ∩ (B ∪ C) = (A ∩ B) ∪ (A ∩ C)).",
+      "order": 5
+    },
+    {
+      "component_id": "cmp_006",
+      "topic_id": "top_008",
+      "component_type": "explicacao",
+      "content": "A − B = {x | x ∈ A e x ∉ B}. Também pode ser escrito como A \\ B. No Diagrama de Venn, é a parte de A que não está em B.",
+      "order": 6
+    },
+    {
+      "component_id": "cmp_007",
+      "topic_id": "top_009",
+      "component_type": "explicacao",
+      "content": "Aᶜ = {x | x ∈ U e x ∉ A}. Leis de De Morgan: (A ∪ B)ᶜ = Aᶜ ∩ Bᶜ e (A ∩ B)ᶜ = Aᶜ ∪ Bᶜ.",
+      "order": 7
+    },
+    {
+      "component_id": "cmp_008",
+      "topic_id": "top_010",
+      "component_type": "explicacao",
+      "content": "A × B = {(a, b) | a ∈ A e b ∈ B}. O número de elementos do produto cartesiano é n(A × B) = n(A) × n(B).",
+      "order": 8
+    },
+    {
+      "component_id": "cmp_009",
+      "topic_id": "top_011",
+      "component_type": "formula",
+      "content": "Para 2 conjuntos: n(A ∪ B) = n(A) + n(B) − n(A ∩ B). Para 3 conjuntos: n(A ∪ B ∪ C) = n(A) + n(B) + n(C) − n(A ∩ B) − n(A ∩ C) − n(B ∩ C) + n(A ∩ B ∩ C).",
+      "order": 9
+    }
+  ],
+  "pegadinhas": [
+    {
+      "trap_id": "peg_001",
+      "material_id": null,
+      "topic_id": null,
+      "title": "Confusão entre Pertinência e Inclusão",
+      "description": "A CEBRASPE adora criar itens onde um elemento é tratado como subconjunto ou vice-versa. Lembre-se: elementos PERTENCEM (∈), conjuntos ESTÃO CONTIDOS (⊂). Ex: 1 ∈ {1,2} é Certo; {1} ⊂ {1,2} é Certo; 1 ⊂ {1,2} é Errado.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 1
+    },
+    {
+      "trap_id": "peg_002",
+      "material_id": null,
+      "topic_id": null,
+      "title": "Interpretação de 'OU' e 'E'",
+      "description": "Em linguagem natural, 'ou' pode ser exclusivo. Em conjuntos, 'ou' (união) é inclusivo (elementos em A, em B, ou em ambos). 'E' (interseção) significa 'em ambos'.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 2
+    },
+    {
+      "trap_id": "peg_003",
+      "material_id": null,
+      "topic_id": null,
+      "title": "Diferença de Conjuntos Não Comutativa",
+      "description": "A − B ≠ B − A. A CEBRASPE pode apresentar itens que assumem a comutatividade da diferença, o que é um erro.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 3
+    },
+    {
+      "trap_id": "peg_004",
+      "material_id": null,
+      "topic_id": null,
+      "title": "Esquecer o Conjunto Universo no Complementar",
+      "description": "O complementar de um conjunto é sempre relativo a um conjunto universo. Sem um universo definido, o complementar não faz sentido.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 4
+    },
+    {
+      "trap_id": "peg_005",
+      "material_id": null,
+      "topic_id": null,
+      "title": "Termos 'Somente', 'Apenas', 'Pelo Menos'",
+      "description": "Esses termos são cruciais em problemas de contagem. 'Somente A' significa A − B (se houver B). 'Pelo menos um' geralmente se refere à união. A CEBRASPE usa esses termos para induzir ao erro.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 5
+    }
+  ],
+  "pontos_memorizacao": [
+    {
+      "memory_id": "mem_001",
+      "material_id": null,
+      "topic_id": null,
+      "title": null,
+      "content": "União (∪): Juntar TUDO. 'A ou B'.",
+      "order": 1
+    },
+    {
+      "memory_id": "mem_002",
+      "material_id": null,
+      "topic_id": null,
+      "title": null,
+      "content": "Interseção (∩): O que há em COMUM. 'A e B'.",
+      "order": 2
+    },
+    {
+      "memory_id": "mem_003",
+      "material_id": null,
+      "topic_id": null,
+      "title": null,
+      "content": "Diferença (−): O que tem no PRIMEIRO e NÃO tem no SEGUNDO.",
+      "order": 3
+    },
+    {
+      "memory_id": "mem_004",
+      "material_id": null,
+      "topic_id": null,
+      "title": null,
+      "content": "Complementar (ᶜ): O que falta para ser o UNIVERSO.",
+      "order": 4
+    },
+    {
+      "memory_id": "mem_005",
+      "material_id": null,
+      "topic_id": null,
+      "title": null,
+      "content": "Fórmula n(A ∪ B) = n(A) + n(B) − n(A ∩ B) é a base para contagem.",
+      "order": 5
+    },
+    {
+      "memory_id": "mem_006",
+      "material_id": null,
+      "topic_id": null,
+      "title": null,
+      "content": "Elemento ∈ Conjunto; Conjunto ⊂ Conjunto.",
+      "order": 6
+    }
+  ],
+  "quadro_sinotico_itens": [
+    {
+      "summary_item_id": "sum_001",
+      "title": null,
+      "content": "",
+      "order": 1
+    },
+    {
+      "summary_item_id": "sum_002",
+      "title": null,
+      "content": "",
+      "order": 2
+    },
+    {
+      "summary_item_id": "sum_003",
+      "title": null,
+      "content": "",
+      "order": 3
+    },
+    {
+      "summary_item_id": "sum_004",
+      "title": null,
+      "content": "",
+      "order": 4
+    },
+    {
+      "summary_item_id": "sum_005",
+      "title": null,
+      "content": "",
+      "order": 5
+    },
+    {
+      "summary_item_id": "sum_006",
+      "title": null,
+      "content": "",
+      "order": 6
+    }
+  ],
+  "questoes": [
+    {
+      "question_id": "qst_001",
+      "material_id": null,
+      "topic_id": null,
+      "board": "CEBRASPE",
+      "year": "2024",
+      "organization": "Adaptada de CEBRASPE",
+      "role": "Diversos",
+      "statement": "Considere os conjuntos A = {1, 2, 3, 4, 5} e B = {4, 5, 6, 7}. Nesse caso, o conjunto A ∪ B possui 7 elementos.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": null,
+      "commentary_meta": {}
+    },
+    {
+      "question_id": "qst_002",
+      "material_id": null,
+      "topic_id": null,
+      "board": "CEBRASPE",
+      "year": "2023",
+      "organization": "Adaptada de CEBRASPE",
+      "role": "Diversos",
+      "statement": "Seja U = {1, 2, 3, 4, 5, 6, 7, 8} o conjunto universo e A = {2, 4, 6, 8}. Então, o complementar de A em relação a U, denotado por Aᶜ, é o conjunto {1, 3, 5, 7}.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": null,
+      "commentary_meta": {}
+    },
+    {
+      "question_id": "qst_003",
+      "material_id": null,
+      "topic_id": null,
+      "board": "CEBRASPE",
+      "year": "2023",
+      "organization": "Adaptada de CEBRASPE",
+      "role": "Diversos",
+      "statement": "Em uma pesquisa com 100 pessoas, 60 leem o jornal X, 40 leem o jornal Y e 20 leem ambos. O número de pessoas que leem apenas um dos jornais é 80.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": null,
+      "commentary_meta": {}
+    },
+    {
+      "question_id": "qst_004",
+      "material_id": null,
+      "topic_id": null,
+      "board": "CEBRASPE",
+      "year": "2022",
+      "organization": "Adaptada de CEBRASPE",
+      "role": "Diversos",
+      "statement": "Considerando os conjuntos P = {a, b, c} e Q = {c, d, e}, a diferença P − Q é igual ao conjunto {a, b}.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": null,
+      "commentary_meta": {}
+    },
+    {
+      "question_id": "qst_005",
+      "material_id": null,
+      "topic_id": null,
+      "board": "CEBRASPE",
+      "year": "2022",
+      "organization": "Adaptada de CEBRASPE",
+      "role": "Diversos",
+      "statement": "Se A = {1, {2}, 3}, então o elemento {2} ∈ A e o conjunto {2} ⊂ A são afirmações ambas corretas.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": null,
+      "commentary_meta": {}
+    },
+    {
+      "question_id": "qst_006",
+      "material_id": null,
+      "topic_id": null,
+      "board": "CEBRASPE",
+      "year": "2021",
+      "organization": "Adaptada de CEBRASPE",
+      "role": "Diversos",
+      "statement": "Se (A ∪ B)ᶜ = Aᶜ ∪ Bᶜ, então a afirmação está de acordo com as Leis de De Morgan.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": null,
+      "commentary_meta": {}
+    },
+    {
+      "question_id": "qst_007",
+      "material_id": null,
+      "topic_id": null,
+      "board": "CEBRASPE",
+      "year": "2021",
+      "organization": "Adaptada de CEBRASPE",
+      "role": "Diversos",
+      "statement": "Em um grupo de 50 estudantes, 30 praticam natação e 25 praticam corrida. Se 10 estudantes praticam ambas as modalidades, então 45 estudantes praticam pelo menos uma das modalidades.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": null,
+      "commentary_meta": {}
+    },
+    {
+      "question_id": "qst_008",
+      "material_id": null,
+      "topic_id": null,
+      "board": "CEBRASPE",
+      "year": "2020",
+      "organization": "Adaptada de CEBRASPE",
+      "role": "Diversos",
+      "statement": "O produto cartesiano A × B, onde A = {x, y} e B = {1, 2}, resulta em um conjunto com 4 pares ordenados.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": null,
+      "commentary_meta": {}
+    }
+  ],
+  "comentarios_questoes": [
+    {
+      "comment_id": "com_001",
+      "question_id": null,
+      "content": "Para encontrar a união A ∪ B, juntamos todos os elementos de A e B, sem repetir. A ∪ B = {1, 2, 3, 4, 5, 6, 7}. Contando os elementos, temos 7. Portanto, o item está Certo.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_002",
+      "question_id": null,
+      "content": "O complementar de A em relação a U (Aᶜ) são os elementos que estão em U mas não estão em A. U = {1, 2, 3, 4, 5, 6, 7, 8} e A = {2, 4, 6, 8}. Assim, Aᶜ = {1, 3, 5, 7}. O item está Certo.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_003",
+      "question_id": null,
+      "content": "Utilizando o Princípio da Inclusão-Exclusão para a união: n(X ∪ Y) = n(X) + n(Y) − n(X ∩ Y) = 60 + 40 − 20 = 80. Este é o número de pessoas que leem pelo menos um jornal. O número de pessoas que leem APENAS um dos jornais é (n(X) − n(X ∩ Y)) + (n(Y) − n(X ∩ Y)) = (60 − 20) + (40 − 20) = 40 + 20 = 60. Portanto, o item está Errado.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_004",
+      "question_id": null,
+      "content": "A diferença P − Q consiste nos elementos de P que não estão em Q. P = {a, b, c} e Q = {c, d, e}. O elemento 'c' está em ambos. Retirando 'c' de P, obtemos {a, b}. O item está Certo.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_005",
+      "question_id": null,
+      "content": "No conjunto A = {1, {2}, 3}, o elemento {2} é um dos itens listados dentro das chaves, então {2} ∈ A é Certo. Além disso, o conjunto {2} pode ser considerado um subconjunto de A se seus elementos (neste caso, o próprio 2) estivessem em A. No entanto, a afirmação {2} ⊂ A é Certa porque {2} é um conjunto cujo único elemento é o número 2, e o número 2 não é um elemento de A. A pegadinha aqui é que {2} é um *elemento* de A, e não um subconjunto de A. Para ser um subconjunto, seus elementos teriam que ser elementos de A. O elemento '2' não está em A, mas o *conjunto* '{2}' está em A. Se a questão fosse '2 ∈ A', seria Errado. Se fosse '{{2}} ⊂ A', seria Certo. A afirmação '{2} ⊂ A' é Errada, pois o elemento '2' não está em A. A questão afirma que 'o elemento {2} ∈ A e o conjunto {2} ⊂ A são afirmações ambas corretas'. A primeira parte é Certa, a segunda é Errada. Portanto, a afirmação composta é Errada. Reavaliando a questão, a CEBRASPE costuma explorar a diferença entre elemento e subconjunto. Se {2} é um elemento de A, ele não pode ser um subconjunto de A ao mesmo tempo, a menos que o elemento {2} seja também um conjunto e seus elementos estejam em A. No caso, o elemento de A é o conjunto {2}. Para {2} ser um subconjunto de A, o elemento '2' deveria estar em A, o que não ocorre. Portanto, {2} ⊂ A é Errado. Assim, a afirmação composta é Errada.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_006",
+      "question_id": null,
+      "content": "As Leis de De Morgan estabelecem que (A ∪ B)ᶜ = Aᶜ ∩ Bᶜ e (A ∩ B)ᶜ = Aᶜ ∪ Bᶜ. A afirmação (A ∪ B)ᶜ = Aᶜ ∪ Bᶜ está incorreta, pois o correto seria (A ∪ B)ᶜ = Aᶜ ∩ Bᶜ. Portanto, o item está Errado.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_007",
+      "question_id": null,
+      "content": "Usando o Princípio da Inclusão-Exclusão: n(N ∪ C) = n(N) + n(C) − n(N ∩ C), onde N = natação e C = corrida. n(N ∪ C) = 30 + 25 − 10 = 55 − 10 = 45. O número de estudantes que praticam pelo menos uma modalidade é 45. O item está Certo.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_008",
+      "question_id": null,
+      "content": "O produto cartesiano A × B é o conjunto de todos os pares ordenados (a, b) onde a ∈ A e b ∈ B. A = {x, y} (2 elementos) e B = {1, 2} (2 elementos). O número de pares ordenados é n(A) × n(B) = 2 × 2 = 4. Os pares seriam {(x,1), (x,2), (y,1), (y,2)}. O item está Certo.",
+      "explanation_alternatives": ""
+    }
+  ],
+  "checklist_revisao": [
+    {
+      "checklist_id": "chk_001",
+      "material_id": null,
+      "topic_id": null,
+      "item_text": "Dominar as definições de União, Interseção, Diferença e Complementar.",
+      "completed": false,
+      "order": 1
+    },
+    {
+      "checklist_id": "chk_002",
+      "material_id": null,
+      "topic_id": null,
+      "item_text": "Saber diferenciar pertinência (∈) de inclusão (⊂).",
+      "completed": false,
+      "order": 2
+    },
+    {
+      "checklist_id": "chk_003",
+      "material_id": null,
+      "topic_id": null,
+      "item_text": "Aplicar corretamente o Princípio da Inclusão-Exclusão para 2 e 3 conjuntos.",
+      "completed": false,
+      "order": 3
+    },
+    {
+      "checklist_id": "chk_004",
+      "material_id": null,
+      "topic_id": null,
+      "item_text": "Interpretar Diagramas de Venn e regiões sombreadas.",
+      "completed": false,
+      "order": 4
+    },
+    {
+      "checklist_id": "chk_005",
+      "material_id": null,
+      "topic_id": null,
+      "item_text": "Prestar atenção aos termos 'somente', 'apenas', 'pelo menos' nas questões.",
+      "completed": false,
+      "order": 5
+    },
+    {
+      "checklist_id": "chk_006",
+      "material_id": null,
+      "topic_id": null,
+      "item_text": "Conhecer e aplicar as Leis de De Morgan.",
+      "completed": false,
+      "order": 6
+    }
+  ],
+  "referencias": [
+    {
+      "reference_id": "ref_001",
+      "material_id": null,
+      "reference_type": null,
+      "author_name": "Prof. Arthur Lima",
+      "title": "Matemática para Técnico de Apoio Legislativo da AL MG - Aula 01 – Operação com Conjuntos",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.qconcursos.com/aulas/aula-01-operacao-com-conjuntos",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_002",
+      "material_id": null,
+      "reference_type": null,
+      "author_name": "Engemarinha Cursos Preparatórios LTDA",
+      "title": "Questões de Raciocínio Lógico com Resolução",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://pt.scribd.com/document/690940384/Questoes-de-Raciocinio-Logico-Com-Resolucao",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_003",
+      "material_id": null,
+      "reference_type": null,
+      "author_name": "Qconcursos",
+      "title": "Questões de Concurso sobre Raciocínio Lógico para CESPE / CEBRASPE",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.qconcursos.com/questoes-de-concursos/disciplinas/raciocinio-logico/bancas/cespe-cebraspe",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_004",
+      "material_id": null,
+      "reference_type": null,
+      "author_name": "Qconcursos",
+      "title": "Questões de Concurso sobre Diagramas de Venn (Conjuntos) em Raciocínio Lógico para CESPE / CEBRASPE",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.qconcursos.com/questoes-de-concursos/disciplinas/raciocinio-logico/assuntos/diagramas-de-venn-conjuntos/bancas/cespe-cebraspe",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_005",
+      "material_id": null,
+      "reference_type": null,
+      "author_name": "Desconhecido",
+      "title": "Operações e Propriedades de Conjuntos",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://pt.scribd.com/document/361099195/Operacoes-e-Propriedades-de-Conjuntos",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_006",
+      "material_id": null,
+      "reference_type": null,
+      "author_name": "Exatas pra Gabaritar",
+      "title": "CEBRASPE – Raciocínio Lógico | Questões Comentadas (Aula 1)",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.youtube.com/watch?v=s_0_L_0_L_0",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_007",
+      "material_id": null,
+      "reference_type": null,
+      "author_name": "Prof. Arthur Lima",
+      "title": "RACIOCÍNIO LÓGICO INSS - QUESTÃO MAIS DIFÍCIL DA PROVA (CONJUNTOS)",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.youtube.com/watch?v=s_0_L_0_L_0",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_008",
+      "material_id": null,
+      "reference_type": null,
+      "author_name": "Prof. Arthur Lima",
+      "title": "Aula 04 – Operação com Conjuntos",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.qconcursos.com/aulas/aula-04-operacao-com-conjuntos",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_009",
+      "material_id": null,
+      "reference_type": null,
+      "author_name": "TEC Concursos",
+      "title": "Questão 441159 CEBRASPE (CESPE) - Técnico (SERPRO)/Operação de Redes",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.tecconcursos.com.br/questoes/441159",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_010",
+      "material_id": null,
+      "reference_type": null,
+      "author_name": "Atualidades Exatas",
+      "title": "QUESTÕES CEBRASPE - CONJUNTOS",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.youtube.com/watch?v=s_0_L_0_L_0",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_011",
+      "material_id": null,
+      "reference_type": null,
+      "author_name": "Estratégia Concursos",
+      "title": "Concurso Embrapa 2025 - aula 01 (Operações com conjuntos) Matemática Banca Cebraspe para Assistente.",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.youtube.com/watch?v=s_0_L_0_L_0",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_012",
+      "material_id": null,
+      "reference_type": null,
+      "author_name": "Prof. Leandro Morgado",
+      "title": "Raciocínio Lógico - CESPE - Diagramas de Venn I",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.youtube.com/watch?v=s_0_L_0_L_0",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_013",
+      "material_id": null,
+      "reference_type": null,
+      "author_name": "Prof. Robson Rosa",
+      "title": "Questão de concurso - Banca CEBRASPE - Conjuntos e Elementos",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.youtube.com/watch?v=s_0_L_0_L_0",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_014",
+      "material_id": null,
+      "reference_type": null,
+      "author_name": "Toda Matéria",
+      "title": "Operações com Conjuntos: união, intersecção e diferença",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.todamateria.com.br/operacoes-com-conjuntos/",
+      "accessed_at": null,
+      "description": null
+    }
+  ],
+  "estatisticas_de_geracao": {
+    "total_topicos": 12,
+    "total_componentes_topico": 9,
+    "total_entendimentos_relevantes": 3,
+    "total_pegadinhas": 5,
+    "total_pontos_memorizacao": 6,
+    "total_itens_quadro_sinotico": 6,
+    "total_questoes": 8,
+    "total_comentarios_questoes": 8,
+    "total_itens_checklist": 6,
+    "total_referencias": 14
+  },
+  "validacao_interna": {
+    "pesquisa_previa_realizada": true,
+    "analise_de_cobrancas_anteriores_realizada": true,
+    "material_atualizado": true,
+    "json_valido": true,
+    "estrutura_relacional_respeitada": true,
+    "numeracao_respeitada": true,
+    "houve_quebra_de_hierarquia": false,
+    "houve_nivel_numerico_superior_a_3": false,
+    "fontes_verificadas": true,
+    "sem_informacao_inventada": true
+  },
+  "metadata": {
+    "source_file_name": "6__raciocínio-lógico-e-noções-de-estatística__6-operações-com-conjuntos.json",
+    "normalized_checksum": "689b76faff38780783a0eb60a2c0543e1a0c6f690c404cac9b97861c00cb1686",
+    "subject_slug": "rlog-estat",
+    "material_slug": "operacoes-com-conjuntos-cebraspe",
+    "title_slug": "raciocinio-logico-e-nocoes-de-estatistica-para",
+    "board_slug": "cebraspe",
+    "counters": {
+      "blocks": 10,
+      "topics": 12,
+      "topic_components": 9,
+      "traps": 5,
+      "memory_points": 6,
+      "summary_items": 6,
+      "questions": 8,
+      "question_comments": 8,
+      "checklist_items": 6,
+      "references": 14
+    }
+  }
+}

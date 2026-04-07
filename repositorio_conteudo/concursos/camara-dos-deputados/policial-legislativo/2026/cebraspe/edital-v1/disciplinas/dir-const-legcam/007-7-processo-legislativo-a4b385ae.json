@@ -1,0 +1,989 @@
+{
+  "schema_version": "1.0",
+  "normalized_at": "2026-04-07T15:39:14.678855-03:00",
+  "normalizer_version": "2.0.0",
+  "exported_at": "2026-04-07T16:40:00Z",
+  "source_request": {
+    "purpose": "Concurso público",
+    "general_area": "Direito",
+    "subject_name": "Direito Constitucional e Legislação Interna da Câmara dos Deputados",
+    "subarea_name": "Direito Constitucional",
+    "main_theme": "7 Processo Legislativo",
+    "theme_scope": "Teoria completa, incidência em prova, padrão de cobrança da banca, pegadinhas e questões comentadas",
+    "board_style": "CEBRASPE",
+    "depth_level": "Exaustivo",
+    "goal": "Teoria completa, revisão estratégica, pegadinhas e questões comentadas",
+    "base_topic_number": "7",
+    "topic_title": "7 Processo Legislativo",
+    "syllabus_reference": "Conteúdo programático da disciplina Direito Constitucional e Legislação Interna da Câmara dos Deputados",
+    "priority_sources": [
+      "Constituição Federal e legislação oficial vigente",
+      "Jurisprudência pertinente e atual, quando cabível",
+      "Doutrina consolidada",
+      "Questões anteriores da banca"
+    ],
+    "minimum_questions": 8,
+    "question_format": "Certo/Errado",
+    "prioritize_real_questions": true,
+    "response_language": "português",
+    "target_audience": "Candidato de concurso público",
+    "additional_notes": "Executar exatamente para esta linha individual do topicos.txt. Não juntar com outros tópicos. Não pular este tópico. Dar destaque ao padrão de cobrança da banca, aos pontos mais cobrados e às pegadinhas recorrentes.",
+    "input_hash": "356406e9b5a8",
+    "extras": {}
+  },
+  "material": {
+    "material_id": "mat_001",
+    "slug": "processo-legislativo-cebraspe",
+    "title": "Processo Legislativo: Teoria Completa, Padrão CEBRASPE e Questões Comentadas",
+    "base_number": "7",
+    "topic_title": "7 Processo Legislativo",
+    "purpose": "Concurso público",
+    "area_name": "Direito",
+    "subject_name": "Direito Constitucional e Legislação Interna da Câmara dos Deputados",
+    "subarea_name": "Direito Constitucional",
+    "main_theme": "Processo Legislativo",
+    "theme_scope": "Teoria completa, incidência em prova, padrão de cobrança da banca, pegadinhas e questões comentadas",
+    "board_style": "CEBRASPE",
+    "depth_level": "Exaustivo",
+    "study_goal": "Teoria completa, revisão estratégica, pegadinhas e questões comentadas",
+    "target_audience": "Candidato de concurso público",
+    "language_code": "português",
+    "update_status": "Atualizado",
+    "current_note": "Material atualizado com base na Constituição Federal, Lei Complementar nº 95/98, Regimento Interno da Câmara dos Deputados e jurisprudência recente do STF (até 2026).",
+    "has_case_law": true,
+    "case_law_justification": "A jurisprudência do STF é fundamental para compreender os limites do controle judicial sobre o processo legislativo e a constitucionalidade formal dos atos normativos, sendo tema recorrente em provas do CEBRASPE.",
+    "has_information_limitation": false,
+    "information_limitation_desc": null,
+    "content_checksum": "gerado_automaticamente",
+    "extras": {}
+  },
+  "blocos_textuais": [
+    {
+      "external_block_code": "blc_001",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 1,
+      "title": "Introdução ao Processo Legislativo",
+      "content": "O Processo Legislativo, conforme a Constituição Federal de 1988 (CF/88), é o conjunto de atos coordenados e sucessivos que visam à elaboração das leis e demais espécies normativas. Ele é essencial para a concretização da função típica do Poder Legislativo, que é a de legislar. A CF/88, em seus artigos 59 a 69, estabelece as diretrizes gerais, enquanto a Lei Complementar nº 95/98 e os Regimentos Internos das Casas Legislativas (como o da Câmara dos Deputados) detalham os procedimentos.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_002",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 2,
+      "title": "Espécies Normativas",
+      "content": "O artigo 59 da Constituição Federal elenca as espécies normativas primárias que compõem o processo legislativo: I – emendas à Constituição; II – leis complementares; III – leis ordinárias; IV – leis delegadas; V – medidas provisórias; VI – decretos legislativos; VII – resoluções. É importante notar que existem outros atos normativos primários que não se enquadram no processo legislativo, como os decretos autônomos do Presidente da República e os regimentos dos tribunais.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_003",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 3,
+      "title": "Fases do Processo Legislativo Ordinário",
+      "content": "O processo legislativo ordinário, que se destina à elaboração das leis ordinárias, é o procedimento comum e mais completo, dividido em três fases principais:\n\n1.  **Fase Introdutória (Iniciativa):** Consiste na apresentação do projeto de lei. A iniciativa pode ser:\n    *   **Geral ou Comum:** Qualquer Deputado ou Senador, comissão da Câmara, do Senado ou do Congresso Nacional.\n    *   **Privativa:** Exclusiva de determinado órgão ou autoridade (ex: Presidente da República para certas matérias, STF, Tribunais Superiores, Procurador-Geral da República).\n    *   **Popular:** Apresentada por cidadãos, exigindo a subscrição de, no mínimo, 1% do eleitorado nacional, distribuído por pelo menos cinco Estados, com não menos de 0,3% dos eleitores em cada um deles.\n\n2.  **Fase Constitutiva (Deliberação Parlamentar e Executiva):**\n    *   **Deliberação Parlamentar:** Compreende a discussão e votação do projeto nas duas Casas do Congresso Nacional (Câmara dos Deputados e Senado Federal), em sistema bicameral. A Casa onde o projeto é apresentado é a iniciadora, e a outra é a revisora.\n    *   **Deliberação Executiva:** Após aprovação pelo Legislativo, o projeto é enviado ao Presidente da República para sanção ou veto. A sanção pode ser expressa ou tácita (silêncio por 15 dias úteis). O veto pode ser total ou parcial, por inconstitucionalidade ou contrariedade ao interesse público. O veto deve ser motivado e é submetido à apreciação do Congresso Nacional, que pode rejeitá-lo por maioria absoluta.\n\n3.  **Fase Complementar (Promulgação e Publicação):**\n    *   **Promulgação:** Ato que atesta a existência da lei e sua executoriedade. É feita pelo Presidente da República ou, em caso de omissão, pelo Presidente do Senado Federal.\n    *   **Publicação:** Ato que dá conhecimento oficial da lei, tornando-a obrigatória.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_004",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 4,
+      "title": "Quóruns de Aprovação",
+      "content": "Os quóruns de aprovação são pontos cruciais e frequentemente cobrados pelo CEBRASPE:\n\n*   **Emendas à Constituição (PEC):** 3/5 dos votos dos membros de cada Casa do Congresso Nacional, em dois turnos de votação.\n*   **Leis Complementares (LC):** Maioria absoluta dos membros de cada Casa.\n*   **Leis Ordinárias (LO):** Maioria simples dos votos, presente a maioria absoluta dos membros de cada Casa.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_005",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 5,
+      "title": "Processos Legislativos Especiais",
+      "content": "Além do processo ordinário, a CF/88 prevê processos legislativos especiais para certas espécies normativas:\n\n*   **Medidas Provisórias (MP):** Editadas pelo Presidente da República em casos de relevância e urgência, com força de lei imediata. Devem ser submetidas ao Congresso Nacional para conversão em lei no prazo de 60 dias, prorrogáveis por mais 60. A Emenda Constitucional nº 32/2001 vedou a edição de MP sobre certas matérias e proibiu a reedição de MP rejeitada ou que tenha perdido a eficácia na mesma sessão legislativa.\n*   **Leis Delegadas (LD):** Elaboradas pelo Presidente da República mediante delegação do Congresso Nacional, por meio de resolução.\n*   **Decretos Legislativos (DL):** Atos normativos do Congresso Nacional que regulam matérias de sua exclusiva competência, com efeitos externos. Não se sujeitam à sanção presidencial.\n*   **Resoluções (Res):** Atos normativos internos das Casas Legislativas ou do Congresso Nacional, que disciplinam matérias de sua competência privativa. Não se sujeitam à sanção presidencial.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_006",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 6,
+      "title": "Controle Judicial do Processo Legislativo",
+      "content": "O Supremo Tribunal Federal (STF) admite o controle judicial do processo legislativo para verificar a observância das normas constitucionais. Parlamentares possuem legitimidade para impetrar Mandado de Segurança para proteger seu direito ao devido processo legislativo. Contudo, o STF tem reiterado que, em regra, não cabe ao Poder Judiciário analisar a interpretação do sentido e alcance de normas meramente regimentais das Casas Legislativas, por se tratar de matéria *interna corporis*, salvo quando houver violação direta a preceitos constitucionais.",
+      "content_type": "teoria"
+    }
+  ],
+  "topicos": [
+    {
+      "external_topic_code": "top_001",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "7",
+      "title": "Processo Legislativo",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 1
+    },
+    {
+      "external_topic_code": "top_002",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_001",
+      "topic_number": "7.1",
+      "title": "Conceito e Fundamentos Constitucionais",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 2
+    },
+    {
+      "external_topic_code": "top_003",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_001",
+      "topic_number": "7.2",
+      "title": "Espécies Normativas do Art. 59 da CF/88",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 3
+    },
+    {
+      "external_topic_code": "top_004",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_003",
+      "topic_number": "7.2.1",
+      "title": "Emendas à Constituição (PEC)",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 4
+    },
+    {
+      "external_topic_code": "top_005",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_003",
+      "topic_number": "7.2.2",
+      "title": "Leis Complementares (LC)",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 5
+    },
+    {
+      "external_topic_code": "top_006",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_003",
+      "topic_number": "7.2.3",
+      "title": "Leis Ordinárias (LO)",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 6
+    },
+    {
+      "external_topic_code": "top_007",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_003",
+      "topic_number": "7.2.4",
+      "title": "Leis Delegadas (LD)",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 7
+    },
+    {
+      "external_topic_code": "top_008",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_003",
+      "topic_number": "7.2.5",
+      "title": "Medidas Provisórias (MP)",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 8
+    },
+    {
+      "external_topic_code": "top_009",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_003",
+      "topic_number": "7.2.6",
+      "title": "Decretos Legislativos (DL)",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 9
+    },
+    {
+      "external_topic_code": "top_010",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_003",
+      "topic_number": "7.2.7",
+      "title": "Resoluções (Res)",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 10
+    },
+    {
+      "external_topic_code": "top_011",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_001",
+      "topic_number": "7.3",
+      "title": "Fases do Processo Legislativo Ordinário",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 11
+    },
+    {
+      "external_topic_code": "top_012",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_011",
+      "topic_number": "7.3.1",
+      "title": "Fase Introdutória (Iniciativa)",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 12
+    },
+    {
+      "external_topic_code": "top_013",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_011",
+      "topic_number": "7.3.2",
+      "title": "Fase Constitutiva (Deliberação Parlamentar e Executiva)",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 13
+    },
+    {
+      "external_topic_code": "top_014",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_011",
+      "topic_number": "7.3.3",
+      "title": "Fase Complementar (Promulgação e Publicação)",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 14
+    },
+    {
+      "external_topic_code": "top_015",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_001",
+      "topic_number": "7.4",
+      "title": "Quóruns de Aprovação e Votação",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 15
+    },
+    {
+      "external_topic_code": "top_016",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_001",
+      "topic_number": "7.5",
+      "title": "Processos Legislativos Especiais e Sumário",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 16
+    },
+    {
+      "external_topic_code": "top_017",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_001",
+      "topic_number": "7.6",
+      "title": "Controle Judicial do Processo Legislativo",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 17
+    },
+    {
+      "external_topic_code": "top_018",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_001",
+      "topic_number": "7.7",
+      "title": "Padrão de Cobrança CEBRASPE e Pegadinhas",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 18
+    }
+  ],
+  "topico_componentes": [
+    {
+      "component_id": "cmp_001",
+      "topic_id": "top_002",
+      "component_type": "definicao",
+      "content": "O Processo Legislativo é o conjunto de atos e procedimentos que visam à criação, alteração ou revogação de normas jurídicas, conforme as regras estabelecidas na Constituição Federal e nos Regimentos Internos.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_002",
+      "topic_id": "top_004",
+      "component_type": "caracteristica",
+      "content": "As PECs são normas de hierarquia constitucional, equiparando-se ao texto original da CF/88.",
+      "order": 2
+    },
+    {
+      "component_id": "cmp_003",
+      "topic_id": "top_005",
+      "component_type": "caracteristica",
+      "content": "As LCs complementam normas constitucionais e tratam de matérias expressamente reservadas pela Constituição.",
+      "order": 3
+    },
+    {
+      "component_id": "cmp_004",
+      "topic_id": "top_006",
+      "component_type": "caracteristica",
+      "content": "As LOs são a regra geral, tratando de matérias não reservadas a outras espécies normativas.",
+      "order": 4
+    },
+    {
+      "component_id": "cmp_005",
+      "topic_id": "top_008",
+      "component_type": "caracteristica",
+      "content": "As MPs têm força de lei desde sua edição, mas dependem de aprovação do Congresso para se tornarem definitivas.",
+      "order": 5
+    },
+    {
+      "component_id": "cmp_006",
+      "topic_id": "top_009",
+      "component_type": "caracteristica",
+      "content": "Os DLs são atos do Congresso Nacional sobre matérias de sua competência exclusiva, sem sanção presidencial.",
+      "order": 6
+    },
+    {
+      "component_id": "cmp_007",
+      "topic_id": "top_010",
+      "component_type": "caracteristica",
+      "content": "As Resoluções são atos internos das Casas Legislativas ou do Congresso, sem sanção presidencial.",
+      "order": 7
+    },
+    {
+      "component_id": "cmp_008",
+      "topic_id": "top_012",
+      "component_type": "exemplo",
+      "content": "Iniciativa privativa do Presidente da República para leis que fixem ou aumentem a remuneração de servidores públicos federais.",
+      "order": 8
+    },
+    {
+      "component_id": "cmp_009",
+      "topic_id": "top_013",
+      "component_type": "detalhe",
+      "content": "A deliberação parlamentar ocorre em duas Casas (Câmara e Senado), sendo uma iniciadora e outra revisora.",
+      "order": 9
+    },
+    {
+      "component_id": "cmp_010",
+      "topic_id": "top_013",
+      "component_type": "detalhe",
+      "content": "O veto presidencial deve ser motivado e pode ser derrubado pelo Congresso Nacional por maioria absoluta.",
+      "order": 10
+    },
+    {
+      "component_id": "cmp_011",
+      "topic_id": "top_017",
+      "component_type": "limite_controle",
+      "content": "O STF não adentra o mérito de questões *interna corporis* das Casas Legislativas, salvo se houver violação a preceitos constitucionais.",
+      "order": 11
+    }
+  ],
+  "pegadinhas": [
+    {
+      "trap_id": "peg_001",
+      "material_id": "mat_001",
+      "topic_id": "top_018",
+      "title": "Confusão entre quóruns",
+      "description": "O CEBRASPE frequentemente tenta confundir os quóruns de aprovação de Emendas Constitucionais (3/5), Leis Complementares (maioria absoluta) e Leis Ordinárias (maioria simples).",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 1
+    },
+    {
+      "trap_id": "peg_002",
+      "material_id": "mat_001",
+      "topic_id": "top_018",
+      "title": "Vício de iniciativa convalidado pela sanção",
+      "description": "A banca pode afirmar que o vício de iniciativa é sanado pela sanção presidencial. Isso está ERRADO, pois o vício de iniciativa é um vício de inconstitucionalidade formal orgânica insanável.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 2
+    },
+    {
+      "trap_id": "peg_003",
+      "material_id": "mat_001",
+      "topic_id": "top_018",
+      "title": "Matérias de MP e 'Jabutis'",
+      "description": "Questões sobre Medidas Provisórias podem abordar as matérias vedadas, o prazo de tramitação e, principalmente, a inconstitucionalidade da inclusão de matérias estranhas ao objeto original (jabutis) por emenda parlamentar.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 3
+    },
+    {
+      "trap_id": "peg_004",
+      "material_id": "mat_001",
+      "topic_id": "top_018",
+      "title": "Hierarquia entre Lei Complementar e Lei Ordinária",
+      "description": "O CEBRASPE pode tentar induzir ao erro afirmando que a Lei Complementar é hierarquicamente superior à Lei Ordinária. Embora tenham quóruns e matérias distintas, não há hierarquia entre elas, mas sim campos de atuação diferentes.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 4
+    },
+    {
+      "trap_id": "peg_005",
+      "material_id": "mat_001",
+      "topic_id": "top_018",
+      "title": "Controle Judicial de Atos Interna Corporis",
+      "description": "A banca pode sugerir que o Judiciário pode analisar qualquer ato regimental das Casas Legislativas. O STF, em regra, não controla atos *interna corporis*, a menos que violem diretamente a Constituição.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 5
+    }
+  ],
+  "pontos_memorizacao": [
+    {
+      "memory_id": "mem_001",
+      "material_id": "mat_001",
+      "topic_id": "top_002",
+      "title": null,
+      "content": "Art. 59 da CF/88 lista as 7 espécies normativas primárias do processo legislativo: EC, LC, LO, LD, MP, DL, Res.",
+      "order": 1
+    },
+    {
+      "memory_id": "mem_002",
+      "material_id": "mat_001",
+      "topic_id": "top_015",
+      "title": null,
+      "content": "Quóruns: PEC (3/5 em 2 turnos), LC (maioria absoluta), LO (maioria simples, presente maioria absoluta).",
+      "order": 2
+    },
+    {
+      "memory_id": "mem_003",
+      "material_id": "mat_001",
+      "topic_id": "top_012",
+      "title": null,
+      "content": "Iniciativa Popular exige 1% do eleitorado nacional, distribuído em 5 Estados, com 0,3% em cada.",
+      "order": 3
+    },
+    {
+      "memory_id": "mem_004",
+      "material_id": "mat_001",
+      "topic_id": "top_013",
+      "title": null,
+      "content": "Veto presidencial pode ser total ou parcial, por inconstitucionalidade ou interesse público, e é apreciado pelo Congresso em sessão conjunta.",
+      "order": 4
+    },
+    {
+      "memory_id": "mem_005",
+      "material_id": "mat_001",
+      "topic_id": "top_008",
+      "title": null,
+      "content": "Medidas Provisórias têm prazo de 60 dias, prorrogável por mais 60. Não podem tratar de certas matérias e 'jabutis' são inconstitucionais.",
+      "order": 5
+    },
+    {
+      "memory_id": "mem_006",
+      "material_id": "mat_001",
+      "topic_id": "top_017",
+      "title": null,
+      "content": "O STF controla a constitucionalidade formal do processo legislativo, mas respeita a autonomia das Casas em matérias *interna corporis* que não violem a CF.",
+      "order": 6
+    }
+  ],
+  "quadro_sinotico_itens": [
+    {
+      "summary_item_id": "sum_001",
+      "title": null,
+      "content": "",
+      "order": 1
+    },
+    {
+      "summary_item_id": "sum_002",
+      "title": null,
+      "content": "",
+      "order": 2
+    },
+    {
+      "summary_item_id": "sum_003",
+      "title": null,
+      "content": "",
+      "order": 3
+    },
+    {
+      "summary_item_id": "sum_004",
+      "title": null,
+      "content": "",
+      "order": 4
+    },
+    {
+      "summary_item_id": "sum_005",
+      "title": null,
+      "content": "",
+      "order": 5
+    }
+  ],
+  "questoes": [
+    {
+      "question_id": "qst_001",
+      "material_id": "mat_001",
+      "topic_id": "top_002",
+      "board": "CEBRASPE",
+      "year": 2011,
+      "organization": null,
+      "role": null,
+      "statement": "O processo legislativo brasileiro compreende a elaboração de emendas à Constituição, leis complementares, leis ordinárias, leis delegadas, medidas provisórias, decretos legislativos e resoluções, sendo estas as únicas espécies normativas primárias previstas na Constituição Federal de 1988.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": null,
+      "external_reference": "Questão adaptada de CEBRASPE - AL-ES - Técnico Legislativo - 2011",
+      "commentary": "O item está ERRADO. Embora o Art. 59 da CF/88 liste as sete espécies normativas mencionadas (emendas à Constituição, leis complementares, leis ordinárias, leis delegadas, medidas provisórias, decretos legislativos e resoluções), a Constituição Federal não afirma que estas são as *únicas* espécies normativas primárias. Existem outros atos normativos primários que não se enquadram no processo legislativo, como os decretos autônomos do Presidente da República e os regimentos dos tribunais.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_001"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_002",
+      "material_id": "mat_001",
+      "topic_id": "top_015",
+      "board": "CEBRASPE",
+      "year": 2024,
+      "organization": null,
+      "role": null,
+      "statement": "Para a aprovação de uma lei complementar, a Constituição Federal exige o quórum de maioria absoluta dos membros de cada Casa do Congresso Nacional, enquanto para as emendas à Constituição, o quórum é de três quintos dos votos dos membros de cada Casa, em dois turnos.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": null,
+      "external_reference": "Questão adaptada de CEBRASPE - Qconcursos.com",
+      "commentary": "O item está CERTO. A Constituição Federal estabelece quóruns distintos para a aprovação de diferentes espécies normativas. Para as leis complementares, exige-se a maioria absoluta dos membros de cada Casa do Congresso Nacional (Art. 69 da CF/88). Já para as emendas à Constituição, o quórum é mais rigoroso: três quintos dos votos dos membros de cada Casa, em dois turnos de votação (Art. 60, § 2º, da CF/88).",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_002"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_003",
+      "material_id": "mat_001",
+      "topic_id": "top_012",
+      "board": "CEBRASPE",
+      "year": 2021,
+      "organization": null,
+      "role": null,
+      "statement": "A iniciativa popular de lei, embora seja um importante instrumento de participação democrática, não pode ser utilizada para propor projetos de lei que tratem de matéria orçamentária ou que visem à criação de cargos, funções ou empregos públicos.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": null,
+      "external_reference": "Questão adaptada de CEBRASPE - SEFAZ RR - Auditor Fiscal - 2021",
+      "commentary": "O item está CERTO. A iniciativa popular de lei, prevista no Art. 61, § 2º, da CF/88, é um importante mecanismo de democracia direta. Contudo, ela possui limitações materiais. Não pode ser utilizada para propor projetos de lei que tratem de matérias de iniciativa privativa de outros Poderes ou órgãos, como as que criam cargos, funções ou empregos públicos na administração direta e autárquica ou aumentem sua remuneração, ou que disponham sobre matéria orçamentária.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_003"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_004",
+      "material_id": "mat_001",
+      "topic_id": "top_013",
+      "board": "CEBRASPE",
+      "year": 2024,
+      "organization": null,
+      "role": null,
+      "statement": "O veto presidencial, seja total ou parcial, por inconstitucionalidade ou contrariedade ao interesse público, pode ser derrubado pelo Congresso Nacional mediante o voto da maioria simples dos Deputados e Senadores, em sessão conjunta.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": null,
+      "external_reference": "Questão adaptada de CEBRASPE - SEBRAE - Analista Técnico - 2024",
+      "commentary": "O item está ERRADO. O veto presidencial, seja por inconstitucionalidade ou por contrariedade ao interesse público, somente pode ser derrubado pelo Congresso Nacional mediante o voto da **maioria absoluta** dos Deputados e Senadores, em escrutínio secreto, em sessão conjunta. A maioria simples não é suficiente para a rejeição do veto.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_004"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_005",
+      "material_id": "mat_001",
+      "topic_id": "top_008",
+      "board": "CEBRASPE",
+      "year": 2025,
+      "organization": null,
+      "role": null,
+      "statement": "No processo legislativo de conversão de medida provisória em lei, é inconstitucional a inserção, por meio de emenda parlamentar, de matérias de conteúdo estranho ao objeto originário da medida provisória, configurando o que a doutrina e a jurisprudência denominam de 'jabuti'.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": null,
+      "external_reference": "Questão adaptada de CEBRASPE - Concurso Câmara dos Deputados - 2025",
+      "commentary": "O item está CERTO. A jurisprudência do Supremo Tribunal Federal consolidou o entendimento de que é inconstitucional a inserção, por meio de emenda parlamentar em projeto de lei de conversão de medida provisória, de matérias que não guardem pertinência temática com o objeto original da MP. Essa prática é conhecida como 'jabuti' e viola o devido processo legislativo.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_005"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_006",
+      "material_id": "mat_001",
+      "topic_id": "top_017",
+      "board": "CEBRASPE",
+      "year": 2026,
+      "organization": null,
+      "role": null,
+      "statement": "O Supremo Tribunal Federal, no exercício do controle judicial do processo legislativo, pode adentrar o mérito de questões regimentais das Casas Legislativas, mesmo que não haja violação direta a preceitos constitucionais, em razão do princípio da supremacia da Constituição.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": null,
+      "external_reference": "Questão adaptada de CEBRASPE - Qconcursos.com",
+      "commentary": "O item está ERRADO. O STF tem um entendimento consolidado de que, em regra, o controle judicial do processo legislativo se restringe à verificação da observância das normas constitucionais. Questões meramente regimentais, que não impliquem violação direta à Constituição, são consideradas *interna corporis* e não são passíveis de controle pelo Poder Judiciário, em respeito à autonomia e independência dos Poderes.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_006"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_007",
+      "material_id": "mat_001",
+      "topic_id": "top_006",
+      "board": "CEBRASPE",
+      "year": 2024,
+      "organization": null,
+      "role": null,
+      "statement": "As leis ordinárias são hierarquicamente inferiores às leis complementares, uma vez que estas últimas exigem um quórum de aprovação mais qualificado e tratam de matérias de maior relevância constitucional.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": null,
+      "external_reference": "Questão adaptada de CEBRASPE - SEBRAE - Analista Técnico - 2024",
+      "commentary": "O item está ERRADO. Não há hierarquia entre leis complementares e leis ordinárias. Ambas são espécies normativas primárias, mas possuem campos de atuação material distintos e quóruns de aprovação diferentes. A lei complementar trata de matérias expressamente reservadas pela Constituição, enquanto a lei ordinária trata das demais matérias. A diferença é de competência e procedimento, não de hierarquia.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_007"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_008",
+      "material_id": "mat_001",
+      "topic_id": "top_012",
+      "board": "CEBRASPE",
+      "year": 2007,
+      "organization": null,
+      "role": null,
+      "statement": "A usurpação da prerrogativa de iniciar o processo legislativo, caracterizando um vício de iniciativa, pode ser convalidada pela sanção presidencial, tornando o ato normativo plenamente constitucional.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": null,
+      "external_reference": "Questão adaptada de CEBRASPE - TJSE - Juiz de Direito - 2007",
+      "commentary": "O item está ERRADO. O vício de iniciativa, que ocorre quando um projeto de lei é proposto por quem não detém a prerrogativa constitucional para tal, é considerado um vício de inconstitucionalidade formal orgânica. Esse tipo de vício é insanável e não pode ser convalidado pela sanção presidencial. A sanção presidencial apenas atesta a concordância do Executivo com o mérito do projeto, não corrigindo falhas no processo de sua formação.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_008"
+        ],
+        "count": 1
+      }
+    }
+  ],
+  "comentarios_questoes": [
+    {
+      "comment_id": "com_001",
+      "question_id": "qst_001",
+      "content": "O item está ERRADO. Embora o Art. 59 da CF/88 liste as sete espécies normativas mencionadas (emendas à Constituição, leis complementares, leis ordinárias, leis delegadas, medidas provisórias, decretos legislativos e resoluções), a Constituição Federal não afirma que estas são as *únicas* espécies normativas primárias. Existem outros atos normativos primários que não se enquadram no processo legislativo, como os decretos autônomos do Presidente da República e os regimentos dos tribunais.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_002",
+      "question_id": "qst_002",
+      "content": "O item está CERTO. A Constituição Federal estabelece quóruns distintos para a aprovação de diferentes espécies normativas. Para as leis complementares, exige-se a maioria absoluta dos membros de cada Casa do Congresso Nacional (Art. 69 da CF/88). Já para as emendas à Constituição, o quórum é mais rigoroso: três quintos dos votos dos membros de cada Casa, em dois turnos de votação (Art. 60, § 2º, da CF/88).",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_003",
+      "question_id": "qst_003",
+      "content": "O item está CERTO. A iniciativa popular de lei, prevista no Art. 61, § 2º, da CF/88, é um importante mecanismo de democracia direta. Contudo, ela possui limitações materiais. Não pode ser utilizada para propor projetos de lei que tratem de matérias de iniciativa privativa de outros Poderes ou órgãos, como as que criam cargos, funções ou empregos públicos na administração direta e autárquica ou aumentem sua remuneração, ou que disponham sobre matéria orçamentária.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_004",
+      "question_id": "qst_004",
+      "content": "O item está ERRADO. O veto presidencial, seja por inconstitucionalidade ou por contrariedade ao interesse público, somente pode ser derrubado pelo Congresso Nacional mediante o voto da **maioria absoluta** dos Deputados e Senadores, em escrutínio secreto, em sessão conjunta. A maioria simples não é suficiente para a rejeição do veto.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_005",
+      "question_id": "qst_005",
+      "content": "O item está CERTO. A jurisprudência do Supremo Tribunal Federal consolidou o entendimento de que é inconstitucional a inserção, por meio de emenda parlamentar em projeto de lei de conversão de medida provisória, de matérias que não guardem pertinência temática com o objeto original da MP. Essa prática é conhecida como 'jabuti' e viola o devido processo legislativo.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_006",
+      "question_id": "qst_006",
+      "content": "O item está ERRADO. O STF tem um entendimento consolidado de que, em regra, o controle judicial do processo legislativo se restringe à verificação da observância das normas constitucionais. Questões meramente regimentais, que não impliquem violação direta à Constituição, são consideradas *interna corporis* e não são passíveis de controle pelo Poder Judiciário, em respeito à autonomia e independência dos Poderes.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_007",
+      "question_id": "qst_007",
+      "content": "O item está ERRADO. Não há hierarquia entre leis complementares e leis ordinárias. Ambas são espécies normativas primárias, mas possuem campos de atuação material distintos e quóruns de aprovação diferentes. A lei complementar trata de matérias expressamente reservadas pela Constituição, enquanto a lei ordinária trata das demais matérias. A diferença é de competência e procedimento, não de hierarquia.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_008",
+      "question_id": "qst_008",
+      "content": "O item está ERRADO. O vício de iniciativa, que ocorre quando um projeto de lei é proposto por quem não detém a prerrogativa constitucional para tal, é considerado um vício de inconstitucionalidade formal orgânica. Esse tipo de vício é insanável e não pode ser convalidado pela sanção presidencial. A sanção presidencial apenas atesta a concordância do Executivo com o mérito do projeto, não corrigindo falhas no processo de sua formação.",
+      "explanation_alternatives": ""
+    }
+  ],
+  "checklist_revisao": [
+    {
+      "checklist_id": "chk_001",
+      "material_id": "mat_001",
+      "topic_id": "top_001",
+      "item_text": "Compreender o conceito e a finalidade do processo legislativo.",
+      "completed": false,
+      "order": 1
+    },
+    {
+      "checklist_id": "chk_002",
+      "material_id": "mat_001",
+      "topic_id": "top_003",
+      "item_text": "Dominar as sete espécies normativas do Art. 59 da CF/88 e suas características.",
+      "completed": false,
+      "order": 2
+    },
+    {
+      "checklist_id": "chk_003",
+      "material_id": "mat_001",
+      "topic_id": "top_011",
+      "item_text": "Conhecer as fases do processo legislativo ordinário: iniciativa, deliberação parlamentar, deliberação executiva, promulgação e publicação.",
+      "completed": false,
+      "order": 3
+    },
+    {
+      "checklist_id": "chk_004",
+      "material_id": "mat_001",
+      "topic_id": "top_012",
+      "item_text": "Identificar os tipos de iniciativa legislativa (geral, privativa, popular) e suas especificidades.",
+      "completed": false,
+      "order": 4
+    },
+    {
+      "checklist_id": "chk_005",
+      "material_id": "mat_001",
+      "topic_id": "top_015",
+      "item_text": "Memorizar os quóruns de aprovação para PEC, LC e LO, e para a derrubada de veto.",
+      "completed": false,
+      "order": 5
+    },
+    {
+      "checklist_id": "chk_006",
+      "material_id": "mat_001",
+      "topic_id": "top_008",
+      "item_text": "Entender o regime jurídico das Medidas Provisórias, incluindo prazos, vedações e a questão dos 'jabutis'.",
+      "completed": false,
+      "order": 6
+    },
+    {
+      "checklist_id": "chk_007",
+      "material_id": "mat_001",
+      "topic_id": "top_017",
+      "item_text": "Compreender os limites do controle judicial do processo legislativo pelo STF, especialmente a distinção entre normas constitucionais e *interna corporis*.",
+      "completed": false,
+      "order": 7
+    },
+    {
+      "checklist_id": "chk_008",
+      "material_id": "mat_001",
+      "topic_id": "top_018",
+      "item_text": "Revisar as principais pegadinhas do CEBRASPE sobre o tema, como vício de iniciativa e hierarquia de leis.",
+      "completed": false,
+      "order": 8
+    }
+  ],
+  "referencias": [
+    {
+      "reference_id": "ref_001",
+      "material_id": "mat_001",
+      "reference_type": "Legislação",
+      "author_name": null,
+      "title": "Constituição da República Federativa do Brasil de 1988",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "http://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_002",
+      "material_id": "mat_001",
+      "reference_type": "Legislação",
+      "author_name": null,
+      "title": "Lei Complementar nº 95, de 26 de fevereiro de 1998",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/lcp95.htm",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_003",
+      "material_id": "mat_001",
+      "reference_type": "Jurisprudência",
+      "author_name": null,
+      "title": "Controle judicial do processo legislativo - Senado Federal",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFrsMNezPTsk4FThy1TxQlmwazu6vSmdsWLpqNEDTXhrvhcUAVV_N4Xo6g826MIWFv8iKboSJcT3wrWl-EimpkFlhG72dEYLxBA9vWggde8dKksFF98qw4tDjtJsXGJB4iq3lfXq4DmMxT-pxK2tDQ2r6cjyXcBRUCDk2YVMjo=",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_004",
+      "material_id": "mat_001",
+      "reference_type": "Jurisprudência",
+      "author_name": null,
+      "title": "Seção VIII - DO PROCESSO LEGISLATIVO - Supremo Tribunal Federal",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE7UOx7wVsEW6owv53g2I7_qmFEe9w9V_RYGvqzsQmvefSMipqL-z8nJbziF1OPxKeGy1xZ266Ka-R1y40EbFiJY8sTC0mueS43Myxb8EZRqPjiRlYGQPPXu822OFXSYL6eCkM4Fa5dyEIltfpd5MTQCgXT6Quvdu85gHwxTzCOCWBffHUB1op82E5STMfmXI0=",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_005",
+      "material_id": "mat_001",
+      "reference_type": "Jurisprudência",
+      "author_name": null,
+      "title": "Controle judicial do processo legislativo na jurisprudência recente do STF - JOTA",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFGBshPbWfP42_h5CdPLkjOdtwdhs0beecRQlDycwiDFsBkbkMUBBe37pjT4gt0wljOMET-_0bHOpHPfQcjL8Wb_oUEbHAhd7ABTN3KO0jZ2yZmmy3wuSitlZfFZhIZNLTAv4O4CTjU7UG3uosnnb6HyRmIhErLAS5jhfqanVPNWLuYtsGcTb54QConuvosPhRLkJjVnGqWgTbM-o4m4EDskjE0O_Ug6NldCotOlLp6Ph0RMsVI7y8dZr4uqsFCNr38hb-Dvjiihi8h__5rs460QsA=",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_006",
+      "material_id": "mat_001",
+      "reference_type": "Doutrina",
+      "author_name": null,
+      "title": "Processo Legislativo Constitucional",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHwLdqOhNERn9Ta0Z_NTUczERwAFUzPFmHm_-M8jpbEA_3KLWbNQ2-7eTiTajusDtQaetX9JdSX8p7EOJKXH8qfkKzOh6zTqmWHFxOxMLhozE2uIiXVlI-xzY4pKFh-uPck1Xsy2bZbhnqR3UG1WXppp3ou6_m4Zvu_qQUWcrFpJJVpUg==",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_007",
+      "material_id": "mat_001",
+      "reference_type": "Questão Comentada",
+      "author_name": null,
+      "title": "Concurso Câmara dos Deputados | Questões Comentadas: Modo Cebraspe de Cobrar Direito Constitucional - YouTube",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFadksPgxaH7-PgPyTr7g753dcMcnbV4Y0QGI1YL3mTMLJj3CFaPOOdey3VfrJqpCffpaL3fmtofmcbGvCVwtAVpVq31my_MLItiph7kblTwkwvVA5JADfU5N0E17knfd_vENsyfjE=",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_008",
+      "material_id": "mat_001",
+      "reference_type": "Questão Comentada",
+      "author_name": null,
+      "title": "PROVA DE CONHECIMENTOS -- -- PARTE I – PROVA OBJETIVA - Cebraspe",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEYB9Xbys8kxjL0kWvmXj3uPGjsqJTNWu5LL3-cZOW8ExKJRO4tRbloB1tGm5kdhiTU9cCBzn1jkdnztKgNc9mVtQ1xQM54PWf0zHTXKrAvZ1A9LOSfBaozsuNozhSVlXjg2m2qRYECDoXSfm9E6gbQ0Mk2HSWK38dKyTZH-aZ7Br5eKzxB2SDJuw==",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_009",
+      "material_id": "mat_001",
+      "reference_type": "Legislação Interna",
+      "author_name": null,
+      "title": "Regimento Interno da Câmara dos Deputados",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.camara.leg.br/atividade-legislativa/legislacao/regimento-interno-da-camara",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_010",
+      "material_id": "mat_001",
+      "reference_type": "Questão Comentada",
+      "author_name": null,
+      "title": "Questão Assinale a opção correta em relação ao processo legislativo.",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEdTGzddu-FdwFES17Z-C3O35KiChQBOLOwzN_Xg_oqsmljxDrnhprxMZ69eGtdNpfEqcjE5qtgvxv3jesFFXpZAwOQYzCrXsD4z6xGDuQyP2AV1_BUlMbrrWeuo1w_klV8JpfUkJQD9GpzGL91CwYUaCR9xLHIjCFui-JA",
+      "accessed_at": null,
+      "description": null
+    }
+  ],
+  "estatisticas_de_geracao": {
+    "total_topicos": 18,
+    "total_componentes_topico": 11,
+    "total_entendimentos_relevantes": 3,
+    "total_pegadinhas": 5,
+    "total_pontos_memorizacao": 6,
+    "total_itens_quadro_sinotico": 5,
+    "total_questoes": 8,
+    "total_comentarios_questoes": 8,
+    "total_itens_checklist": 8,
+    "total_referencias": 10
+  },
+  "validacao_interna": {
+    "pesquisa_previa_realizada": true,
+    "analise_de_cobrancas_anteriores_realizada": true,
+    "material_atualizado": true,
+    "json_valido": true,
+    "estrutura_relacional_respeitada": true,
+    "numeracao_respeitada": true,
+    "houve_quebra_de_hierarquia": false,
+    "houve_nivel_numerico_superior_a_3": false,
+    "fontes_verificadas": true,
+    "sem_informacao_inventada": true
+  },
+  "metadata": {
+    "source_file_name": "7__direito-constitucional-e-legislação-interna-da-câmara-dos-deputados__7-processo-legislativo.json",
+    "normalized_checksum": "3cd4db468a6e361d55ca8bd9dae48704092975a5fe94493a6b4300050dd6c09c",
+    "subject_slug": "dir-const-legcam",
+    "material_slug": "processo-legislativo-cebraspe",
+    "title_slug": "processo-legislativo-teoria-completa-padrao",
+    "board_slug": "cebraspe",
+    "counters": {
+      "blocks": 6,
+      "topics": 18,
+      "topic_components": 11,
+      "traps": 5,
+      "memory_points": 6,
+      "summary_items": 5,
+      "questions": 8,
+      "question_comments": 8,
+      "checklist_items": 8,
+      "references": 10
+    }
+  }
+}

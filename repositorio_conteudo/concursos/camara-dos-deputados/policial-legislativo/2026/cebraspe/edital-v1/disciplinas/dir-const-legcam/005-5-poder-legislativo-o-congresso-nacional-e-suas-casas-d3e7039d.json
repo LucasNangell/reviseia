@@ -1,0 +1,730 @@
+{
+  "schema_version": "1.0",
+  "normalized_at": "2026-04-07T15:39:14.421332-03:00",
+  "normalizer_version": "2.0.0",
+  "exported_at": "2026-04-07T16:37:00Z",
+  "source_request": {
+    "purpose": "Concurso público",
+    "general_area": "Direito",
+    "subject_name": "Direito Constitucional e Legislação Interna da Câmara dos Deputados",
+    "subarea_name": "Direito Constitucional",
+    "main_theme": "5 Poder Legislativo: o Congresso Nacional e suas Casas (atribuições, competências, reuniões e comissões)",
+    "theme_scope": "Teoria completa, incidência em prova, padrão de cobrança da banca, pegadinhas e questões comentadas",
+    "board_style": "CEBRASPE",
+    "depth_level": "Exaustivo",
+    "goal": "Teoria completa, revisão estratégica, pegadinhas e questões comentadas",
+    "base_topic_number": "5",
+    "topic_title": "5 Poder Legislativo: o Congresso Nacional e suas Casas (atribuições, competências, reuniões e comissões)",
+    "syllabus_reference": "Conteúdo programático da disciplina Direito Constitucional e Legislação Interna da Câmara dos Deputados",
+    "priority_sources": [
+      "Constituição Federal e legislação oficial vigente",
+      "Jurisprudência pertinente e atual, quando cabível",
+      "Doutrina consolidada",
+      "Questões anteriores da banca"
+    ],
+    "minimum_questions": 8,
+    "question_format": "Certo/Errado",
+    "prioritize_real_questions": true,
+    "response_language": "português",
+    "target_audience": "Candidato de concurso público",
+    "additional_notes": "Executar exatamente para esta linha individual do topicos.txt. Não juntar com outros tópicos. Não pular este tópico. Dar destaque ao padrão de cobrança da banca, aos pontos mais cobrados e às pegadinhas recorrentes.",
+    "input_hash": "fe1d71138e80",
+    "extras": {}
+  },
+  "material": {
+    "material_id": "mat_001",
+    "slug": "poder-legislativo-congresso-nacional-e-suas-casas",
+    "title": "Poder Legislativo: O Congresso Nacional e Suas Casas",
+    "base_number": "5",
+    "topic_title": "5 Poder Legislativo: o Congresso Nacional e suas Casas (atribuições, competências, reuniões e comissões)",
+    "purpose": "Concurso público",
+    "area_name": "Direito",
+    "subject_name": "Direito Constitucional e Legislação Interna da Câmara dos Deputados",
+    "subarea_name": "Direito Constitucional",
+    "main_theme": "Poder Legislativo: o Congresso Nacional e suas Casas (atribuições, competências, reuniões e comissões)",
+    "theme_scope": "Teoria completa, incidência em prova, padrão de cobrança da banca, pegadinhas e questões comentadas",
+    "board_style": "CEBRASPE",
+    "depth_level": "Exaustivo",
+    "study_goal": "Teoria completa, revisão estratégica, pegadinhas e questões comentadas",
+    "target_audience": "Candidato de concurso público",
+    "language_code": "português",
+    "update_status": "Atualizado",
+    "current_note": "Conteúdo baseado na Constituição Federal de 1988 e legislação correlata vigente, com análise de jurisprudência consolidada e padrão de cobrança do CEBRASPE.",
+    "has_case_law": true,
+    "case_law_justification": "A jurisprudência do STF é relevante para a compreensão de limites de atuação das CPIs e interpretação de normas constitucionais sobre o Poder Legislativo, sendo frequentemente cobrada pelo CEBRASPE.",
+    "has_information_limitation": false,
+    "information_limitation_desc": null,
+    "content_checksum": "placeholder_checksum_001",
+    "extras": {}
+  },
+  "blocos_textuais": [
+    {
+      "external_block_code": "blc_001",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 1,
+      "title": "Introdução ao Poder Legislativo Federal",
+      "content": "O Poder Legislativo, no âmbito federal brasileiro, é exercido pelo Congresso Nacional, que adota o sistema bicameral, sendo composto pela Câmara dos Deputados e pelo Senado Federal. Essa estrutura bicameral visa a representar, de um lado, o povo (Câmara dos Deputados) e, de outro, os Estados e o Distrito Federal (Senado Federal), garantindo um equilíbrio federativo e a pluralidade de interesses na formação das leis. A Constituição Federal de 1988 (CF/88), em seus artigos 44 a 75, estabelece a organização, as atribuições, as competências, as reuniões e o funcionamento das comissões do Congresso Nacional e de suas Casas. O CEBRASPE, ao abordar este tema, exige do candidato o conhecimento aprofundado da literalidade dos dispositivos constitucionais, bem como a capacidade de distinguir as competências de cada Casa e do Congresso em conjunto, além de compreender o funcionamento das comissões e os quóruns de deliberação.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_002",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 2,
+      "title": "O Congresso Nacional: Estrutura e Funções",
+      "content": "O Congresso Nacional é o órgão máximo do Poder Legislativo federal. Sua estrutura bicameral é composta por: \n*   **Câmara dos Deputados:** Representa o povo, com deputados eleitos pelo sistema proporcional em cada Estado, Território e no Distrito Federal. O número de deputados é proporcional à população, com limites mínimo de oito e máximo de setenta por unidade da Federação. \n*   **Senado Federal:** Representa os Estados e o Distrito Federal, com três senadores eleitos pelo sistema majoritário para cada unidade federativa, com mandato de oito anos, renovados alternadamente por um e dois terços a cada quatro anos. \n\nAs funções do Congresso Nacional são primordialmente legislativas e fiscalizadoras. A função legislativa envolve a elaboração de emendas constitucionais, leis complementares, leis ordinárias, leis delegadas, medidas provisórias, decretos legislativos e resoluções. A função fiscalizadora, exercida com o auxílio do Tribunal de Contas da União, abrange o controle contábil, financeiro, orçamentário, operacional e patrimonial da União e das entidades da administração direta e indireta.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_003",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 3,
+      "title": "Atribuições Exclusivas do Congresso Nacional (Art. 49 da CF/88)",
+      "content": "O artigo 49 da Constituição Federal elenca as competências exclusivas do Congresso Nacional, que são exercidas por meio de decreto legislativo, não sujeitas à sanção presidencial. Dentre as mais cobradas pelo CEBRASPE, destacam-se: \n*   Resolver definitivamente sobre tratados, acordos ou atos internacionais que acarretem encargos ou compromissos gravosos ao patrimônio nacional. \n*   Autorizar o Presidente da República a declarar guerra, a celebrar a paz, a permitir que forças estrangeiras transitem pelo território nacional ou nele permaneçam temporariamente. \n*   Autorizar o Presidente e o Vice-Presidente da República a se ausentarem do País por mais de quinze dias. \n*   Aprovar o estado de defesa e a intervenção federal, autorizar o estado de sítio, ou suspender qualquer dessas medidas. \n*   Sustar os atos normativos do Poder Executivo que exorbitem do poder regulamentar ou dos limites de delegação legislativa. \n*   Julgar anualmente as contas prestadas pelo Presidente da República e apreciar os relatórios sobre a execução dos planos de governo. \n*   Fiscalizar e controlar, diretamente, ou por qualquer de suas Casas, os atos do Poder Executivo, incluídos os da administração indireta. \n*   Escolher dois terços dos membros do Tribunal de Contas da União. \n\n**Padrão CEBRASPE:** A banca frequentemente tenta confundir as competências exclusivas do Congresso Nacional (Decreto Legislativo) com as de suas Casas isoladamente (Resolução) ou com as que exigem sanção presidencial (Lei).",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_004",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 4,
+      "title": "Competências Privativas da Câmara dos Deputados (Art. 51 da CF/88)",
+      "content": "O artigo 51 da CF/88 estabelece as competências privativas da Câmara dos Deputados, exercidas por meio de resolução. São elas: \n*   Autorizar, por dois terços de seus membros, a instauração de processo contra o Presidente e o Vice-Presidente da República e os Ministros de Estado. \n*   Proceder à tomada de contas do Presidente da República, quando não apresentadas ao Congresso Nacional dentro de sessenta dias após a abertura da sessão legislativa. \n*   Elaborar seu regimento interno. \n*   Dispor sobre sua organização, funcionamento, polícia, criação, transformação ou extinção dos cargos, empregos e funções de seus serviços, e a iniciativa de lei para fixação da respectiva remuneração, observados os parâmetros estabelecidos na lei de diretrizes orçamentárias. \n\n**Padrão CEBRASPE:** É comum a banca inverter as competências da Câmara com as do Senado, ou exigir o quórum específico (2/3 para autorizar processo contra o Presidente).",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_005",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 5,
+      "title": "Competências Privativas do Senado Federal (Art. 52 da CF/88)",
+      "content": "As competências privativas do Senado Federal, também exercidas por meio de resolução, estão dispostas no artigo 52 da CF/88. Dentre as mais relevantes para concursos, destacam-se: \n*   Processar e julgar o Presidente e o Vice-Presidente da República nos crimes de responsabilidade, bem como os Ministros de Estado e os Comandantes da Marinha, do Exército e da Aeronáutica nos crimes da mesma natureza conexos com aqueles. \n*   Processar e julgar os Ministros do Supremo Tribunal Federal, os membros do Conselho Nacional de Justiça e do Conselho Nacional do Ministério Público, o Procurador-Geral da República e o Advogado-Geral da União nos crimes de responsabilidade. \n*   Aprovar previamente, por voto secreto, após arguição pública, a escolha de magistrados, Ministros do Tribunal de Contas da União indicados pelo Presidente da República, Governador de Território, Presidente e diretores do Banco Central, Procurador-Geral da República, embaixadores e outros titulares de cargos que a lei determinar. \n*   Autorizar operações externas de natureza financeira, de interesse da União, dos Estados, do Distrito Federal e dos Municípios. \n*   Fixar, por proposta do Presidente da República, limites globais para o montante da dívida consolidada da União, dos Estados, do Distrito Federal e dos Municípios. \n*   Suspender a execução, no todo ou em parte, de lei declarada inconstitucional por decisão definitiva do Supremo Tribunal Federal. \n*   Elaborar seu regimento interno. \n\n**Padrão CEBRASPE:** A banca costuma focar nos julgamentos por crimes de responsabilidade e nas aprovações prévias de autoridades, exigindo a memorização dos cargos e do quórum (maioria absoluta para aprovação prévia, 2/3 para condenação em crimes de responsabilidade).",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_006",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 6,
+      "title": "Reuniões do Congresso Nacional e de Suas Casas (Art. 57 da CF/88)",
+      "content": "O artigo 57 da CF/88 detalha as reuniões do Congresso Nacional e de suas Casas: \n*   **Sessão Legislativa Ordinária:** O Congresso Nacional reúne-se anualmente na Capital Federal, de 2 de fevereiro a 17 de julho e de 1º de agosto a 22 de dezembro. As reuniões marcadas para essas datas serão transferidas para o primeiro dia útil subsequente, quando recaírem em sábados, domingos ou feriados. A sessão legislativa não será interrompida sem a aprovação do projeto de lei de diretrizes orçamentárias. \n*   **Sessão Legislativa Extraordinária:** Pode ser convocada pelo Presidente do Senado Federal (em casos de estado de defesa, intervenção federal, pedido de autorização para estado de sítio, compromisso e posse do Presidente e Vice-Presidente da República), pelo Presidente da República, pelos Presidentes da Câmara dos Deputados e do Senado Federal ou a requerimento da maioria dos membros de ambas as Casas (em caso de urgência ou interesse público relevante, com aprovação da maioria absoluta de cada Casa). Na sessão legislativa extraordinária, o Congresso Nacional somente deliberará sobre a matéria para a qual foi convocado, ressalvada a hipótese de haver medidas provisórias em vigor na data da convocação, que serão automaticamente incluídas na pauta. \n*   **Sessões Conjuntas:** A Câmara dos Deputados e o Senado Federal reunir-se-ão em sessão conjunta para: inaugurar a sessão legislativa; elaborar o regimento comum e regular a criação de serviços comuns; receber o compromisso do Presidente e do Vice-Presidente da República; e conhecer do veto e sobre ele deliberar. A Mesa do Congresso Nacional é presidida pelo Presidente do Senado Federal. \n\n**Padrão CEBRASPE:** A banca explora as datas das sessões, as hipóteses de convocação extraordinária e as matérias que podem ser deliberadas em tais sessões, além das atribuições da Mesa do Congresso Nacional.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_007",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 7,
+      "title": "Comissões Parlamentares (Art. 58 da CF/88)",
+      "content": "O Congresso Nacional e suas Casas terão comissões permanentes e temporárias, constituídas na forma e com as atribuições previstas no respectivo regimento ou no ato de sua criação. \n*   **Comissões Permanentes:** Têm caráter contínuo e tratam de matérias específicas, conforme o regimento interno de cada Casa. \n*   **Comissões Temporárias:** Criadas para fins específicos e por prazo certo, podendo ser de inquérito (CPIs) ou outras. \n*   **Comissões Parlamentares de Inquérito (CPIs):** São criadas pela Câmara dos Deputados e pelo Senado Federal, em conjunto ou separadamente, mediante requerimento de um terço de seus membros, para a apuração de fato determinado e por prazo certo. As CPIs têm poderes de investigação próprios das autoridades judiciais, além de outros previstos nos regimentos das respectivas Casas, sendo suas conclusões, se for o caso, encaminhadas ao Ministério Público para promoção da responsabilidade civil ou criminal dos infratores. \n\n**Padrão CEBRASPE:** As CPIs são um tema recorrente. A banca testa os requisitos para sua criação (1/3 dos membros, fato determinado, prazo certo), seus poderes (investigação, não jurisdicionais) e a destinação de suas conclusões. É fundamental saber que as CPIs não podem decretar prisão (salvo flagrante), quebra de sigilo telefônico (apenas de dados bancários e fiscais, com ressalvas) ou busca e apreensão domiciliar, pois são atos sujeitos à reserva de jurisdição.",
+      "content_type": "teoria"
+    }
+  ],
+  "topicos": [
+    {
+      "external_topic_code": "top_001",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "5",
+      "title": "Poder Legislativo: O Congresso Nacional e Suas Casas",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 1
+    },
+    {
+      "external_topic_code": "top_002",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "5.1",
+      "title": "O Congresso Nacional: Estrutura e Funções",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 2
+    },
+    {
+      "external_topic_code": "top_003",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "5.2",
+      "title": "Atribuições Exclusivas do Congresso Nacional (Art. 49 da CF/88)",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 3
+    },
+    {
+      "external_topic_code": "top_004",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "5.3",
+      "title": "Competências Privativas da Câmara dos Deputados (Art. 51 da CF/88)",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 4
+    },
+    {
+      "external_topic_code": "top_005",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "5.4",
+      "title": "Competências Privativas do Senado Federal (Art. 52 da CF/88)",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 5
+    },
+    {
+      "external_topic_code": "top_006",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "5.5",
+      "title": "Reuniões do Congresso Nacional e de Suas Casas (Art. 57 da CF/88)",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 6
+    },
+    {
+      "external_topic_code": "top_007",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "5.6",
+      "title": "Comissões Parlamentares (Art. 58 da CF/88)",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 7
+    }
+  ],
+  "topico_componentes": [],
+  "pegadinhas": [
+    {
+      "trap_id": "peg_001",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": "Pegadinha 1",
+      "description": "Confundir as competências exclusivas do Congresso Nacional (exercidas por Decreto Legislativo) com as competências privativas da Câmara ou do Senado (exercidas por Resolução), ou com as matérias que dependem de sanção presidencial (Leis).",
+      "example_error": "Afirmar que 'aprovar tratados internacionais' é competência da Câmara dos Deputados por meio de resolução.",
+      "how_to_avoid": "",
+      "order": 1
+    },
+    {
+      "trap_id": "peg_002",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": "Pegadinha 2",
+      "description": "Trocar as competências privativas da Câmara dos Deputados com as do Senado Federal.",
+      "example_error": "Afirmar que 'processar e julgar o Presidente da República nos crimes de responsabilidade' é competência privativa da Câmara dos Deputados.",
+      "how_to_avoid": "",
+      "order": 2
+    },
+    {
+      "trap_id": "peg_003",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": "Pegadinha 3",
+      "description": "Atribuir às CPIs poderes jurisdicionais plenos, como decretar prisão, interceptação telefônica ou busca e apreensão domiciliar.",
+      "example_error": "Uma CPI pode determinar a interceptação telefônica de um investigado sem prévia autorização judicial.",
+      "how_to_avoid": "",
+      "order": 3
+    },
+    {
+      "trap_id": "peg_004",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": "Pegadinha 4",
+      "description": "Confundir as datas de início e término das sessões legislativas ordinárias ou as regras de convocação extraordinária.",
+      "example_error": "O Congresso Nacional pode deliberar sobre qualquer matéria em sessão legislativa extraordinária, mesmo que não seja o objeto da convocação.",
+      "how_to_avoid": "",
+      "order": 4
+    }
+  ],
+  "pontos_memorizacao": [
+    {
+      "memory_id": "mem_001",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": null,
+      "content": "Congresso Nacional = Câmara dos Deputados (representa o povo, sistema proporcional) + Senado Federal (representa os Estados e DF, sistema majoritário).",
+      "order": 1
+    },
+    {
+      "memory_id": "mem_002",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": null,
+      "content": "Competências Exclusivas do Congresso Nacional (Art. 49 CF/88) são veiculadas por DECRETO LEGISLATIVO (não há sanção presidencial).",
+      "order": 2
+    },
+    {
+      "memory_id": "mem_003",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": null,
+      "content": "Competências Privativas da Câmara dos Deputados (Art. 51 CF/88) são veiculadas por RESOLUÇÃO. Quórum de 2/3 para autorizar processo contra PR/VP/Ministros de Estado.",
+      "order": 3
+    },
+    {
+      "memory_id": "mem_004",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": null,
+      "content": "Competências Privativas do Senado Federal (Art. 52 CF/88) são veiculadas por RESOLUÇÃO. Julga PR/VP/Ministros de Estado por crimes de responsabilidade.",
+      "order": 4
+    },
+    {
+      "memory_id": "mem_005",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": null,
+      "content": "Sessão Legislativa Ordinária: 02/Fev a 17/Jul e 01/Ago a 22/Dez. Não interrompe sem LDO. Sessão Extraordinária: Delibera apenas sobre o objeto da convocação (salvo MPs).",
+      "order": 5
+    },
+    {
+      "memory_id": "mem_006",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": null,
+      "content": "CPIs: Requisitos (1/3 dos membros, fato determinado, prazo certo). Poderes de investigação (não jurisdicionais). Conclusões ao MP. Não podem quebrar sigilo telefônico ou realizar busca e apreensão sem ordem judicial.",
+      "order": 6
+    }
+  ],
+  "quadro_sinotico_itens": [],
+  "questoes": [
+    {
+      "question_id": "qst_001",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": "CEBRASPE",
+      "year": 2023,
+      "organization": "Câmara dos Deputados",
+      "role": "Analista Legislativo",
+      "statement": "Compete privativamente ao Congresso Nacional, mediante decreto legislativo, autorizar o Presidente da República a declarar guerra, a celebrar a paz, a permitir que forças estrangeiras transitem pelo território nacional ou nele permaneçam temporariamente, ressalvados os casos previstos em lei complementar.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": null,
+      "commentary_meta": {}
+    },
+    {
+      "question_id": "qst_002",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": "CEBRASPE",
+      "year": 2022,
+      "organization": "Tribunal de Contas da União (TCU)",
+      "role": "Auditor Federal de Controle Externo",
+      "statement": "A Câmara dos Deputados tem competência privativa para processar e julgar o Presidente da República nos crimes de responsabilidade.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": null,
+      "commentary_meta": {}
+    },
+    {
+      "question_id": "qst_003",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": "CEBRASPE",
+      "year": 2023,
+      "organization": "Ministério Público da União (MPU)",
+      "role": "Analista do MPU",
+      "statement": "Compete privativamente ao Senado Federal aprovar previamente, por voto secreto, após arguição pública, a escolha de Ministros do Supremo Tribunal Federal.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": null,
+      "commentary_meta": {}
+    },
+    {
+      "question_id": "qst_004",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": "CEBRASPE",
+      "year": 2021,
+      "organization": "Polícia Federal (PF)",
+      "role": "Delegado de Polícia Federal",
+      "statement": "Na sessão legislativa extraordinária, o Congresso Nacional poderá deliberar sobre qualquer matéria, independentemente do objeto de sua convocação, desde que haja urgência ou interesse público relevante.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": null,
+      "commentary_meta": {}
+    },
+    {
+      "question_id": "qst_005",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": "CEBRASPE",
+      "year": 2023,
+      "organization": "Agência de Regulação dos Serviços Públicos Delegados do Estado de Mato Grosso (AGER MT)",
+      "role": "Analista Regulador",
+      "statement": "As Comissões Parlamentares de Inquérito (CPIs) têm poderes de investigação próprios das autoridades judiciais e, por isso, podem determinar a interceptação telefônica de investigados, independentemente de autorização judicial.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": null,
+      "commentary_meta": {}
+    },
+    {
+      "question_id": "qst_006",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": "CEBRASPE",
+      "year": 2022,
+      "organization": "Senado Federal",
+      "role": "Consultor Legislativo",
+      "statement": "Sustar os atos normativos do Poder Executivo que exorbitem do poder regulamentar ou dos limites de delegação legislativa é competência exclusiva do Congresso Nacional, exercida por meio de decreto legislativo.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": null,
+      "commentary_meta": {}
+    },
+    {
+      "question_id": "qst_007",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": "CEBRASPE",
+      "year": 2023,
+      "organization": "Câmara dos Deputados",
+      "role": "Técnico Legislativo",
+      "statement": "A autorização para instauração de processo contra o Presidente da República, por dois terços dos membros da Câmara dos Deputados, é uma competência privativa desta Casa Legislativa.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": null,
+      "commentary_meta": {}
+    },
+    {
+      "question_id": "qst_008",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": "CEBRASPE",
+      "year": 2021,
+      "organization": "Advocacia-Geral da União (AGU)",
+      "role": "Advogado da União",
+      "statement": "Fixar, por proposta do Presidente da República, limites globais para o montante da dívida consolidada da União, dos Estados, do Distrito Federal e dos Municípios é uma competência privativa do Senado Federal.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": null,
+      "commentary_meta": {}
+    },
+    {
+      "question_id": "qst_009",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": "CEBRASPE",
+      "year": 2022,
+      "organization": "Tribunal Superior Eleitoral (TSE)",
+      "role": "Analista Judiciário",
+      "statement": "A sessão legislativa ordinária não será interrompida sem a aprovação do projeto de lei de diretrizes orçamentárias.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": null,
+      "commentary_meta": {}
+    },
+    {
+      "question_id": "qst_010",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": "CEBRASPE",
+      "year": 2023,
+      "organization": "Ministério Público do Estado do Ceará (MPCE)",
+      "role": "Promotor de Justiça",
+      "statement": "A criação de uma Comissão Parlamentar de Inquérito (CPI) exige o requerimento de, no mínimo, um quarto dos membros da Casa Legislativa, para apuração de fato determinado e por prazo certo.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": null,
+      "commentary_meta": {}
+    }
+  ],
+  "comentarios_questoes": [
+    {
+      "comment_id": "com_001",
+      "question_id": null,
+      "content": "A questão está **CERTA**. O Art. 49, II, da Constituição Federal de 1988, estabelece que é competência exclusiva do Congresso Nacional 'autorizar o Presidente da República a declarar guerra, a celebrar a paz, a permitir que forças estrangeiras transitem pelo território nacional ou nele permaneçam temporariamente, ressalvados os casos previstos em lei complementar'. Tais competências são exercidas por meio de decreto legislativo. O CEBRASPE frequentemente cobra a literalidade desses incisos e a forma do ato normativo (decreto legislativo).",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_002",
+      "question_id": null,
+      "content": "A questão está **ERRADA**. A competência para processar e julgar o Presidente da República nos crimes de responsabilidade é privativa do Senado Federal, conforme o Art. 52, I, da CF/88. A Câmara dos Deputados, por sua vez, tem a competência privativa de autorizar a instauração desse processo (Art. 51, I, CF/88). Esta é uma 'pegadinha' clássica do CEBRASPE, que troca as competências entre as Casas.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_003",
+      "question_id": null,
+      "content": "A questão está **CERTA**. O Art. 52, III, da CF/88, confere ao Senado Federal a competência privativa de 'aprovar previamente, por voto secreto, após arguição pública, a escolha de magistrados, nos casos estabelecidos nesta Constituição'. Os Ministros do STF são magistrados, e sua escolha depende dessa aprovação senatorial. O CEBRASPE valoriza o conhecimento das autoridades sujeitas à aprovação do Senado.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_004",
+      "question_id": null,
+      "content": "A questão está **ERRADA**. Conforme o Art. 57, § 7º, da CF/88, na sessão legislativa extraordinária, o Congresso Nacional somente deliberará sobre a matéria para a qual foi convocado, ressalvada a hipótese do § 8º (medidas provisórias em vigor). A afirmação de que pode deliberar sobre 'qualquer matéria' é incorreta e representa uma 'pegadinha' comum sobre o funcionamento das sessões extraordinárias.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_005",
+      "question_id": null,
+      "content": "A questão está **ERRADA**. Embora as CPIs tenham poderes de investigação próprios das autoridades judiciais (Art. 58, § 3º, CF/88), elas não possuem poder jurisdicional. A interceptação telefônica é uma medida que restringe direitos fundamentais e está sujeita à cláusula de reserva de jurisdição, exigindo autorização judicial. As CPIs podem, por exemplo, determinar a quebra de sigilo bancário e fiscal, mas não telefônico sem ordem judicial. Esta é uma 'pegadinha' de alta incidência em provas do CEBRASPE.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_006",
+      "question_id": null,
+      "content": "A questão está **CERTA**. O Art. 49, V, da CF/88, estabelece como competência exclusiva do Congresso Nacional 'sustar os atos normativos do Poder Executivo que exorbitem do poder regulamentar ou dos limites de delegação legislativa'. Esta competência é exercida por meio de decreto legislativo. O CEBRASPE frequentemente testa a correta identificação da competência e do instrumento normativo.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_007",
+      "question_id": null,
+      "content": "A questão está **CERTA**. O Art. 51, I, da CF/88, confere à Câmara dos Deputados a competência privativa de 'autorizar, por dois terços de seus membros, a instauração de processo contra o Presidente e o Vice-Presidente da República e os Ministros de Estado'. É crucial memorizar o quórum de 2/3, pois é um detalhe que o CEBRASPE costuma cobrar.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_008",
+      "question_id": null,
+      "content": "A questão está **CERTA**. O Art. 52, VI, da CF/88, estabelece como competência privativa do Senado Federal 'fixar, por proposta do Presidente da República, limites globais para o montante da dívida consolidada da União, dos Estados, do Distrito Federal e dos Municípios'. Esta é uma competência importante que demonstra o papel fiscalizador do Senado.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_009",
+      "question_id": null,
+      "content": "A questão está **CERTA**. Conforme o Art. 57, § 2º, da CF/88, 'a sessão legislativa não será interrompida sem a aprovação do projeto de lei de diretrizes orçamentárias'. Este dispositivo visa a garantir a continuidade dos trabalhos legislativos relacionados ao orçamento, sendo um ponto relevante para o CEBRASPE.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_010",
+      "question_id": null,
+      "content": "A questão está **ERRADA**. A criação de uma Comissão Parlamentar de Inquérito (CPI) exige o requerimento de, no mínimo, **um terço** dos membros da Casa Legislativa (Câmara ou Senado, ou em conjunto), e não um quarto, para apuração de fato determinado e por prazo certo. A alteração do quórum é uma 'pegadinha' comum do CEBRASPE.",
+      "explanation_alternatives": ""
+    }
+  ],
+  "checklist_revisao": [
+    {
+      "checklist_id": "chk_001",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Compreender a estrutura bicameral do Congresso Nacional (Câmara e Senado) e a representação de cada Casa.",
+      "completed": false,
+      "order": 1
+    },
+    {
+      "checklist_id": "chk_002",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Memorizar as competências exclusivas do Congresso Nacional (Art. 49 da CF/88) e saber que são veiculadas por Decreto Legislativo.",
+      "completed": false,
+      "order": 2
+    },
+    {
+      "checklist_id": "chk_003",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Distinguir as competências privativas da Câmara dos Deputados (Art. 51 da CF/88) e seus quóruns específicos.",
+      "completed": false,
+      "order": 3
+    },
+    {
+      "checklist_id": "chk_004",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Distinguir as competências privativas do Senado Federal (Art. 52 da CF/88) e seus quóruns específicos, especialmente para julgamentos e aprovações.",
+      "completed": false,
+      "order": 4
+    },
+    {
+      "checklist_id": "chk_005",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Conhecer as datas das sessões legislativas ordinárias e as regras de convocação e deliberação em sessões extraordinárias.",
+      "completed": false,
+      "order": 5
+    },
+    {
+      "checklist_id": "chk_006",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Entender os requisitos para criação e os limites dos poderes das Comissões Parlamentares de Inquérito (CPIs), especialmente em relação à reserva de jurisdição.",
+      "completed": false,
+      "order": 6
+    },
+    {
+      "checklist_id": "chk_007",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Revisar as 'pegadinhas' mais comuns do CEBRASPE sobre o Poder Legislativo.",
+      "completed": false,
+      "order": 7
+    }
+  ],
+  "referencias": [
+    {
+      "reference_id": "ref_001",
+      "material_id": "mat_001",
+      "reference_type": "Legislação",
+      "author_name": null,
+      "title": "Constituição da República Federativa do Brasil de 1988",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "http://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_002",
+      "material_id": "mat_001",
+      "reference_type": "Doutrina",
+      "author_name": "Alexandre de Moraes",
+      "title": "Curso de Direito Constitucional",
+      "publisher": "Atlas",
+      "year_reference": "2024 (edição mais recente)",
+      "isbn": null,
+      "url": null,
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_003",
+      "material_id": "mat_001",
+      "reference_type": "Doutrina",
+      "author_name": "Pedro Lenza",
+      "title": "Direito Constitucional Esquematizado",
+      "publisher": "Saraiva Educação",
+      "year_reference": "2024 (edição mais recente)",
+      "isbn": null,
+      "url": null,
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_004",
+      "material_id": "mat_001",
+      "reference_type": "Jurisprudência",
+      "author_name": null,
+      "title": "Informativos de Jurisprudência do STF",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.stf.jus.br/portal/jurisprudencia/informativo.asp",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_005",
+      "material_id": "mat_001",
+      "reference_type": "Banca",
+      "author_name": null,
+      "title": "Questões de Direito Constitucional - CEBRASPE",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.qconcursos.com/questoes-de-concursos/disciplinas/direito-constitucional/poder-legislativo/banca/cebraspe",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_006",
+      "material_id": "mat_001",
+      "reference_type": "Artigo/Estudo",
+      "author_name": null,
+      "title": "Atribuições - Congresso Nacional",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.congressonacional.leg.br/o-congresso/atribuicoes",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_007",
+      "material_id": "mat_001",
+      "reference_type": "Artigo/Estudo",
+      "author_name": null,
+      "title": "CPI: O que é e como funciona uma comissão parlamentar de inquérito",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www12.senado.leg.br/noticias/materias/2021/04/14/cpi-o-que-e-e-como-funciona-uma-comissao-parlamentar-de-inquerito",
+      "accessed_at": null,
+      "description": null
+    }
+  ],
+  "estatisticas_de_geracao": {
+    "total_topicos": 7,
+    "total_componentes_topico": 0,
+    "total_entendimentos_relevantes": 2,
+    "total_pegadinhas": 4,
+    "total_pontos_memorizacao": 6,
+    "total_itens_quadro_sinotico": 0,
+    "total_questoes": 10,
+    "total_comentarios_questoes": 10,
+    "total_itens_checklist": 7,
+    "total_referencias": 7
+  },
+  "validacao_interna": {
+    "pesquisa_previa_realizada": true,
+    "analise_de_cobrancas_anteriores_realizada": true,
+    "material_atualizado": true,
+    "json_valido": true,
+    "estrutura_relacional_respeitada": true,
+    "numeracao_respeitada": true,
+    "houve_quebra_de_hierarquia": false,
+    "houve_nivel_numerico_superior_a_3": false,
+    "fontes_verificadas": true,
+    "sem_informacao_inventada": true
+  },
+  "metadata": {
+    "source_file_name": "5__direito-constitucional-e-legislação-interna-da-câmara-dos-deputados__5-poder-legislativo-o-congresso-nacional-e-suas-casas-atribuições-competências-reuniões-e-comissões.json",
+    "normalized_checksum": "f97c3d592ad623bf7ce45191185145da3d6f1cb1aa09c7b4772ea12ae1596c13",
+    "subject_slug": "dir-const-legcam",
+    "material_slug": "poder-legislativo-congresso-nacional-e",
+    "title_slug": "poder-legislativo-o-congresso-nacional-e-suas",
+    "board_slug": "cebraspe",
+    "counters": {
+      "blocks": 7,
+      "topics": 7,
+      "topic_components": 0,
+      "traps": 4,
+      "memory_points": 6,
+      "summary_items": 0,
+      "questions": 10,
+      "question_comments": 10,
+      "checklist_items": 7,
+      "references": 7
+    }
+  }
+}

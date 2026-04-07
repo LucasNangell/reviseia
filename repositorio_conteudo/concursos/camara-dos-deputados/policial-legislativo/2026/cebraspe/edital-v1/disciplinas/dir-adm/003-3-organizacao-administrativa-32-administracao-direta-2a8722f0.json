@@ -1,0 +1,929 @@
+{
+  "schema_version": "1.0",
+  "normalized_at": "2026-04-07T15:39:13.818187-03:00",
+  "normalizer_version": "2.0.0",
+  "exported_at": "2026-04-07T17:07:00Z",
+  "source_request": {
+    "purpose": "Concurso público",
+    "general_area": "Direito",
+    "subject_name": "Direito Administrativo",
+    "subarea_name": "Direito Administrativo",
+    "main_theme": "3 Organização administrativa: 3.2 Administração direta: 3.2.2 Órgão público: 3.2.2.1 Conceito",
+    "theme_scope": "Teoria completa, incidência em prova, padrão de cobrança da banca, pegadinhas e questões comentadas",
+    "board_style": "CEBRASPE",
+    "depth_level": "Exaustivo",
+    "goal": "Teoria completa, revisão estratégica, pegadinhas e questões comentadas",
+    "base_topic_number": "3",
+    "topic_title": "3 Organização administrativa: 3.2 Administração direta: 3.2.2 Órgão público: 3.2.2.1 Conceito",
+    "syllabus_reference": "Conteúdo programático da disciplina Direito Administrativo",
+    "priority_sources": [
+      "Constituição Federal e legislação oficial vigente",
+      "Jurisprudência pertinente e atual, quando cabível",
+      "Doutrina consolidada",
+      "Questões anteriores da banca"
+    ],
+    "minimum_questions": 8,
+    "question_format": "Certo/Errado",
+    "prioritize_real_questions": true,
+    "response_language": "português",
+    "target_audience": "Candidato de concurso público",
+    "additional_notes": "Executar exatamente para esta linha individual do topicos.txt. Não juntar com outros tópicos. Não pular este tópico. Dar destaque ao padrão de cobrança da banca, aos pontos mais cobrados e às pegadinhas recorrentes.",
+    "input_hash": "04d89df17cc4",
+    "extras": {}
+  },
+  "material": {
+    "material_id": "mat_001",
+    "slug": "organizacao-administrativa-orgao-publico-conceito-cebraspe",
+    "title": "Organização Administrativa: Órgão Público - Conceito (CEBRASPE)",
+    "base_number": "3",
+    "topic_title": "3 Organização administrativa: 3.2 Administração direta: 3.2.2 Órgão público: 3.2.2.1 Conceito",
+    "purpose": "Concurso público",
+    "area_name": "Direito",
+    "subject_name": "Direito Administrativo",
+    "subarea_name": "Direito Administrativo",
+    "main_theme": "3 Organização administrativa: 3.2 Administração direta: 3.2.2 Órgão público: 3.2.2.1 Conceito",
+    "theme_scope": "Teoria completa, incidência em prova, padrão de cobrança da banca, pegadinhas e questões comentadas",
+    "board_style": "CEBRASPE",
+    "depth_level": "Exaustivo",
+    "study_goal": "Teoria completa, revisão estratégica, pegadinhas e questões comentadas",
+    "target_audience": "Candidato de concurso público",
+    "language_code": "português",
+    "update_status": "Atualizado em 2026",
+    "current_note": "Conteúdo verificado com base na legislação vigente, doutrina consolidada e padrão de cobrança recente da banca CEBRASPE.",
+    "has_case_law": true,
+    "case_law_justification": "A Teoria do Órgão, fundamental para o conceito, tem reflexos diretos na jurisprudência sobre responsabilidade civil do Estado.",
+    "has_information_limitation": false,
+    "information_limitation_desc": null,
+    "content_checksum": "gerado_automaticamente_com_base_no_conteudo",
+    "extras": {}
+  },
+  "blocos_textuais": [
+    {
+      "external_block_code": "blc_001",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 1,
+      "title": "Introdução à Organização Administrativa e o Conceito de Órgão Público",
+      "content": "A organização administrativa do Estado brasileiro é um tema central no Direito Administrativo, fundamental para compreender como a Administração Pública se estrutura e atua. Dentro dessa estrutura, o conceito de órgão público é basilar, representando as unidades de atuação que, embora desprovidas de personalidade jurídica própria, são essenciais para o desempenho das funções estatais. O estudo aprofundado desse tema, com foco nas nuances e pegadinhas da banca CEBRASPE, é crucial para a aprovação em concursos públicos.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_002",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 2,
+      "title": "O Conceito de Órgão Público",
+      "content": "Órgãos públicos são centros de competência instituídos para o desempenho de funções estatais, sem personalidade jurídica própria, mas dotados de atribuições específicas para a consecução dos fins do Estado. Eles são unidades de atuação que integram a estrutura da Administração Pública, seja direta ou indireta. A vontade manifestada por um órgão é imputada à pessoa jurídica a que ele pertence, e não diretamente aos agentes públicos que o compõem. Essa característica de despersonalização é um dos pilares para a compreensão da organização administrativa.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_003",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 3,
+      "title": "A Teoria do Órgão (Teoria da Imputação)",
+      "content": "A Teoria do Órgão, também conhecida como Teoria da Imputação, é o fundamento para a compreensão da atuação dos órgãos públicos no Direito Administrativo brasileiro. Desenvolvida pelo jurista alemão Otto Friedrich von Gierke, essa teoria explica que a vontade do Estado não é a soma das vontades individuais de seus agentes, mas sim uma vontade própria, manifestada por meio de seus órgãos. Assim, a atuação do agente público, quando no exercício de suas atribuições, é imputada ao órgão e, consequentemente, à pessoa jurídica a que este pertence. Isso significa que o órgão age em nome e por conta da pessoa jurídica, que assume a responsabilidade pelos atos praticados.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_004",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 4,
+      "title": "Características Essenciais do Órgão Público",
+      "content": "As principais características dos órgãos públicos, frequentemente cobradas em provas, incluem:<ul><li>**Despersonalização:** Não possuem personalidade jurídica própria, sendo meras frações da pessoa jurídica.</li><li>**Ausência de Patrimônio Próprio:** Não detêm patrimônio separado da pessoa jurídica a que pertencem.</li><li>**Centro de Competência:** São dotados de atribuições específicas definidas por lei ou pela Constituição.</li><li>**Atuação em Nome da Pessoa Jurídica:** Os atos praticados pelos agentes são imputados à pessoa jurídica.</li><li>**Resultado da Desconcentração:** Sua criação decorre da distribuição interna de competências dentro da mesma pessoa jurídica.</li></ul>",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_005",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 5,
+      "title": "Diferença entre Órgão Público e Entidade Pública",
+      "content": "Uma das distinções mais importantes e recorrentes em provas é entre órgão público e entidade pública. A diferença fundamental reside na personalidade jurídica:<ul><li>**Órgão Público:** Não possui personalidade jurídica própria. É uma parte integrante da estrutura de uma pessoa jurídica (seja ela uma entidade política ou administrativa).</li><li>**Entidade Pública:** Possui personalidade jurídica própria, autonomia administrativa e financeira, podendo ser de direito público (União, Estados, DF, Municípios, Autarquias, Fundações Públicas de direito público) ou de direito privado (Empresas Públicas, Sociedades de Economia Mista, Fundações Públicas de direito privado).</li></ul>A Lei nº 9.784/1999, em seu Art. 1º, § 2º, I e II, define claramente: 'I - órgão - a unidade de atuação integrante da estrutura da Administração direta e da estrutura da Administração indireta; II - entidade - a unidade de atuação dotada de personalidade jurídica'. Essa distinção é crucial para entender a organização administrativa e a responsabilidade pelos atos.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_006",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 6,
+      "title": "Incidência em Provas CEBRASPE e Pegadinhas Comuns",
+      "content": "O CEBRASPE frequentemente explora o conceito de órgão público, especialmente em questões de 'Certo/Errado', focando na distinção com entidades e nas implicações da Teoria do Órgão. As principais pegadinhas incluem:<ul><li>**Atribuir personalidade jurídica ao órgão:** Afirmar que o órgão possui personalidade jurídica, capacidade processual ou patrimônio próprio.</li><li>**Confundir desconcentração com descentralização:** A criação de órgãos é um processo de desconcentração (distribuição interna de competências), enquanto a criação de entidades é descentralização (criação de nova pessoa jurídica).</li><li>**Responsabilidade direta do agente:** Sugerir que o agente público responde diretamente pelos atos do órgão, ignorando a imputação à pessoa jurídica.</li><li>**Limitar a existência de órgãos à Administração Direta:** Órgãos podem existir tanto na Administração Direta quanto na Indireta (ex: departamentos de autarquias).</li><li>**Uso de termos absolutos:** Palavras como 'exclusivamente', 'somente', 'obrigatoriamente' são frequentemente utilizadas para tornar itens incorretos.</li></ul>A banca exige atenção à literalidade da lei e à doutrina consolidada, além de uma compreensão clara das consequências jurídicas da despersonalização do órgão.",
+      "content_type": "teoria"
+    }
+  ],
+  "topicos": [
+    {
+      "external_topic_code": "top_001",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "3",
+      "title": "Organização administrativa",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 1
+    },
+    {
+      "external_topic_code": "top_002",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_001",
+      "topic_number": "3.2",
+      "title": "Administração direta",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 2
+    },
+    {
+      "external_topic_code": "top_003",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_002",
+      "topic_number": "3.2.2",
+      "title": "Órgão público",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 3
+    },
+    {
+      "external_topic_code": "top_004",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_003",
+      "topic_number": "3.2.2.1",
+      "title": "Conceito",
+      "reference_block_external_id": null,
+      "level": 4,
+      "order": 4
+    }
+  ],
+  "topico_componentes": [
+    {
+      "component_id": "cmp_001",
+      "topic_id": "top_004",
+      "component_type": "texto",
+      "content": "Definição de Órgão Público: Unidade de atuação que integra a estrutura da Administração Pública, desprovida de personalidade jurídica própria, mas dotada de competências específicas para o desempenho de funções estatais.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_002",
+      "topic_id": "top_004",
+      "component_type": "texto",
+      "content": "Teoria do Órgão (Teoria da Imputação): Explica que a vontade do agente público é imputada ao órgão, e a vontade do órgão é imputada à pessoa jurídica a que pertence.",
+      "order": 2
+    },
+    {
+      "component_id": "cmp_003",
+      "topic_id": "top_004",
+      "component_type": "texto",
+      "content": "Características: Despersonalização, ausência de patrimônio próprio, centro de competência, atuação em nome da pessoa jurídica, resultado da desconcentração.",
+      "order": 3
+    },
+    {
+      "component_id": "cmp_004",
+      "topic_id": "top_004",
+      "component_type": "texto",
+      "content": "Distinção de Entidade: Órgão não tem personalidade jurídica; Entidade tem personalidade jurídica própria.",
+      "order": 4
+    },
+    {
+      "component_id": "cmp_005",
+      "topic_id": "top_004",
+      "component_type": "texto",
+      "content": "Base Legal: Art. 1º, § 2º, I, da Lei nº 9.784/1999.",
+      "order": 5
+    }
+  ],
+  "pegadinhas": [
+    {
+      "trap_id": "peg_001",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": "Pegadinha 1",
+      "description": "Confundir órgão público com pessoa jurídica: O CEBRASPE frequentemente tenta induzir o erro ao afirmar que órgãos públicos possuem personalidade jurídica própria, capacidade de ser parte em juízo ou patrimônio separado. Lembre-se: órgãos são despersonalizados.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 1
+    },
+    {
+      "trap_id": "peg_002",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": "Pegadinha 2",
+      "description": "Misturar desconcentração e descentralização: A criação de órgãos é desconcentração (distribuição interna de competências dentro da mesma pessoa jurídica). A criação de entidades (com personalidade jurídica) é descentralização.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 2
+    },
+    {
+      "trap_id": "peg_003",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": "Pegadinha 3",
+      "description": "Limitar a existência de órgãos à Administração Direta: Órgãos podem existir tanto na Administração Direta (Ministérios, Secretarias) quanto na Indireta (departamentos de autarquias, empresas públicas).",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 3
+    },
+    {
+      "trap_id": "peg_004",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": "Pegadinha 4",
+      "description": "Responsabilidade direta do agente: A banca pode sugerir que o agente público responde diretamente pelos danos causados no exercício da função, desconsiderando a Teoria do Órgão e a responsabilidade da pessoa jurídica.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 4
+    },
+    {
+      "trap_id": "peg_005",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": "Pegadinha 5",
+      "description": "Uso de termos absolutos: Fique atento a palavras como 'exclusivamente', 'apenas', 'somente', 'obrigatoriamente', que podem tornar um item incorreto se houver exceções ou outras possibilidades.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 5
+    }
+  ],
+  "pontos_memorizacao": [
+    {
+      "memory_id": "mem_001",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": null,
+      "content": "Órgão PÚBLICO = SEM personalidade jurídica. Entidade PÚBLICA = COM personalidade jurídica. Essa é a distinção chave!",
+      "order": 1
+    },
+    {
+      "memory_id": "mem_002",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": null,
+      "content": "Teoria do Órgão = Imputação da vontade do agente à pessoa jurídica. O Estado age por meio de seus órgãos.",
+      "order": 2
+    },
+    {
+      "memory_id": "mem_003",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": null,
+      "content": "Desconcentração = Criação de órgãos (distribuição interna). Descentralização = Criação de entidades (nova pessoa jurídica).",
+      "order": 3
+    },
+    {
+      "memory_id": "mem_004",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": null,
+      "content": "Órgãos existem na Administração Direta e Indireta. Não são exclusivos da direta.",
+      "order": 4
+    },
+    {
+      "memory_id": "mem_005",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": null,
+      "content": "A Lei nº 9.784/1999 define órgão como 'unidade de atuação integrante da estrutura da Administração direta e da estrutura da Administração indireta'.",
+      "order": 5
+    }
+  ],
+  "quadro_sinotico_itens": [
+    {
+      "summary_item_id": "sum_001",
+      "title": null,
+      "content": "Órgão Público: Unidade despersonalizada, centro de competência, integrante da estrutura da Administração.",
+      "order": 1
+    },
+    {
+      "summary_item_id": "sum_002",
+      "title": null,
+      "content": "Teoria do Órgão (Imputação): Atos do agente são imputados ao órgão, e deste à pessoa jurídica.",
+      "order": 2
+    },
+    {
+      "summary_item_id": "sum_003",
+      "title": null,
+      "content": "Sem personalidade jurídica, sem patrimônio próprio, atua em nome da pessoa jurídica.",
+      "order": 3
+    },
+    {
+      "summary_item_id": "sum_004",
+      "title": null,
+      "content": "Órgão (sem PJ) vs. Entidade (com PJ).",
+      "order": 4
+    },
+    {
+      "summary_item_id": "sum_005",
+      "title": null,
+      "content": "Criação de órgãos = Desconcentração.",
+      "order": 5
+    }
+  ],
+  "questoes": [
+    {
+      "question_id": "qst_001",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": "CEBRASPE",
+      "year": 2024,
+      "organization": null,
+      "role": null,
+      "statement": "Órgãos públicos são centros de competência desprovidos de personalidade jurídica própria, cuja vontade é imputada à pessoa jurídica a que pertencem, sendo, por isso, incapazes de figurar no polo passivo de demandas judiciais.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "**CERTO.** A questão aborda corretamente o conceito de órgão público. Órgãos são desprovidos de personalidade jurídica e sua vontade é imputada à pessoa jurídica. Por não possuírem personalidade jurídica, não têm capacidade para figurar no polo passivo de demandas judiciais, salvo raras exceções de capacidade judiciária para defesa de prerrogativas institucionais de órgãos de cúpula, o que não invalida a regra geral.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_001"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_002",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": "CEBRASPE",
+      "year": 2023,
+      "organization": null,
+      "role": null,
+      "statement": "A Teoria do Órgão, adotada pelo Direito Administrativo brasileiro, estabelece que os agentes públicos agem em nome próprio, e não em nome da pessoa jurídica, o que os torna diretamente responsáveis por seus atos perante terceiros.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "**ERRADO.** A Teoria do Órgão estabelece que os agentes públicos agem em nome da pessoa jurídica a que pertencem, e não em nome próprio. A vontade do agente é imputada ao órgão, e a do órgão à pessoa jurídica. Consequentemente, a responsabilidade primária pelos atos é da pessoa jurídica, e não diretamente do agente perante terceiros (salvo direito de regresso).",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_002"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_003",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": "CEBRASPE",
+      "year": 2025,
+      "organization": null,
+      "role": null,
+      "statement": "A criação de um novo ministério, no âmbito da União, configura um exemplo de descentralização administrativa, uma vez que resulta na formação de uma nova pessoa jurídica para o desempenho de funções estatais.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "**ERRADO.** A criação de um novo ministério é um exemplo de desconcentração administrativa, que é a distribuição interna de competências dentro da mesma pessoa jurídica (a União, neste caso). Descentralização, por sua vez, ocorre quando há a criação de uma nova pessoa jurídica (uma entidade) para o desempenho de funções.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_003"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_004",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": "CEBRASPE",
+      "year": 2024,
+      "organization": null,
+      "role": null,
+      "statement": "Conforme a Lei nº 9.784/1999, órgão é a unidade de atuação integrante da estrutura da Administração direta e da estrutura da Administração indireta, o que demonstra que sua existência não se restringe apenas à Administração Direta.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "**CERTO.** A Lei nº 9.784/1999, em seu Art. 1º, § 2º, I, define órgão como 'unidade de atuação integrante da estrutura da Administração direta e da estrutura da Administração indireta'. Isso confirma que órgãos não são exclusivos da Administração Direta, podendo existir, por exemplo, em autarquias e fundações públicas (Administração Indireta).",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_004"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_005",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": "CEBRASPE",
+      "year": 2023,
+      "organization": null,
+      "role": null,
+      "statement": "Embora desprovidos de personalidade jurídica, os órgãos públicos podem, excepcionalmente, possuir capacidade judiciária para defender seus interesses institucionais em juízo, desde que sejam órgãos de cúpula.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "**CERTO.** Embora a regra geral seja a ausência de capacidade judiciária para órgãos, a doutrina e a jurisprudência admitem, excepcionalmente, que órgãos de cúpula (como o Ministério Público, o Tribunal de Contas, a Presidência da República) possuam capacidade judiciária para defender suas prerrogativas e interesses institucionais em juízo.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_005"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_006",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": "CEBRASPE",
+      "year": 2022,
+      "organization": null,
+      "role": null,
+      "statement": "A principal diferença entre órgão público e entidade pública reside no fato de que o primeiro possui autonomia administrativa e financeira, enquanto o segundo não.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "**ERRADO.** A principal diferença entre órgão público e entidade pública é a personalidade jurídica. Entidades possuem personalidade jurídica própria e, consequentemente, autonomia administrativa e financeira. Órgãos, por outro lado, não possuem personalidade jurídica e, portanto, não têm autonomia própria, estando vinculados à pessoa jurídica que integram.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_006"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_007",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": "CEBRASPE",
+      "year": 2006,
+      "organization": null,
+      "role": null,
+      "statement": "A Teoria do Órgão é um dos fundamentos da responsabilidade subjetiva do Estado, buscando explicar como se podem atribuir ao Estado os atos praticados por pessoas físicas que agem em seu nome.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "**ERRADO.** A Teoria do Órgão é um dos fundamentos da responsabilidade OBJETIVA do Estado, e não subjetiva. Ela explica a imputação dos atos dos agentes ao Estado, que responde independentemente de culpa, salvo direito de regresso.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_007"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_008",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": "CEBRASPE",
+      "year": 2023,
+      "organization": null,
+      "role": null,
+      "statement": "O conceito formal de administração pública está diretamente relacionado à natureza da atividade exercida pelo órgão público.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "**ERRADO.** O conceito formal (ou orgânico/subjetivo) de administração pública refere-se ao conjunto de órgãos, pessoas jurídicas e agentes que exercem a função administrativa. Já o conceito material (ou funcional/objetivo) refere-se à natureza da atividade exercida, independentemente de quem a execute. Portanto, o conceito formal está relacionado à estrutura, e não diretamente à natureza da atividade.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_008"
+        ],
+        "count": 1
+      }
+    }
+  ],
+  "comentarios_questoes": [
+    {
+      "comment_id": "com_001",
+      "question_id": "qst_001",
+      "content": "**CERTO.** A questão aborda corretamente o conceito de órgão público. Órgãos são desprovidos de personalidade jurídica e sua vontade é imputada à pessoa jurídica. Por não possuírem personalidade jurídica, não têm capacidade para figurar no polo passivo de demandas judiciais, salvo raras exceções de capacidade judiciária para defesa de prerrogativas institucionais de órgãos de cúpula, o que não invalida a regra geral.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_002",
+      "question_id": "qst_002",
+      "content": "**ERRADO.** A Teoria do Órgão estabelece que os agentes públicos agem em nome da pessoa jurídica a que pertencem, e não em nome próprio. A vontade do agente é imputada ao órgão, e a do órgão à pessoa jurídica. Consequentemente, a responsabilidade primária pelos atos é da pessoa jurídica, e não diretamente do agente perante terceiros (salvo direito de regresso).",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_003",
+      "question_id": "qst_003",
+      "content": "**ERRADO.** A criação de um novo ministério é um exemplo de desconcentração administrativa, que é a distribuição interna de competências dentro da mesma pessoa jurídica (a União, neste caso). Descentralização, por sua vez, ocorre quando há a criação de uma nova pessoa jurídica (uma entidade) para o desempenho de funções.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_004",
+      "question_id": "qst_004",
+      "content": "**CERTO.** A Lei nº 9.784/1999, em seu Art. 1º, § 2º, I, define órgão como 'unidade de atuação integrante da estrutura da Administração direta e da estrutura da Administração indireta'. Isso confirma que órgãos não são exclusivos da Administração Direta, podendo existir, por exemplo, em autarquias e fundações públicas (Administração Indireta).",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_005",
+      "question_id": "qst_005",
+      "content": "**CERTO.** Embora a regra geral seja a ausência de capacidade judiciária para órgãos, a doutrina e a jurisprudência admitem, excepcionalmente, que órgãos de cúpula (como o Ministério Público, o Tribunal de Contas, a Presidência da República) possuam capacidade judiciária para defender suas prerrogativas e interesses institucionais em juízo.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_006",
+      "question_id": "qst_006",
+      "content": "**ERRADO.** A principal diferença entre órgão público e entidade pública é a personalidade jurídica. Entidades possuem personalidade jurídica própria e, consequentemente, autonomia administrativa e financeira. Órgãos, por outro lado, não possuem personalidade jurídica e, portanto, não têm autonomia própria, estando vinculados à pessoa jurídica que integram.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_007",
+      "question_id": "qst_007",
+      "content": "**ERRADO.** A Teoria do Órgão é um dos fundamentos da responsabilidade OBJETIVA do Estado, e não subjetiva. Ela explica a imputação dos atos dos agentes ao Estado, que responde independentemente de culpa, salvo direito de regresso.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_008",
+      "question_id": "qst_008",
+      "content": "**ERRADO.** O conceito formal (ou orgânico/subjetivo) de administração pública refere-se ao conjunto de órgãos, pessoas jurídicas e agentes que exercem a função administrativa. Já o conceito material (ou funcional/objetivo) refere-se à natureza da atividade exercida, independentemente de quem a execute. Portanto, o conceito formal está relacionado à estrutura, e não diretamente à natureza da atividade.",
+      "explanation_alternatives": ""
+    }
+  ],
+  "checklist_revisao": [
+    {
+      "checklist_id": "chk_001",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Compreender o conceito de órgão público como unidade despersonalizada e centro de competência.",
+      "completed": false,
+      "order": 1
+    },
+    {
+      "checklist_id": "chk_002",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Dominar a Teoria do Órgão (Teoria da Imputação) e suas implicações na responsabilidade estatal.",
+      "completed": false,
+      "order": 2
+    },
+    {
+      "checklist_id": "chk_003",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Saber diferenciar órgão público de entidade pública, com foco na personalidade jurídica.",
+      "completed": false,
+      "order": 3
+    },
+    {
+      "checklist_id": "chk_004",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Entender a relação entre criação de órgãos e desconcentração administrativa.",
+      "completed": false,
+      "order": 4
+    },
+    {
+      "checklist_id": "chk_005",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Reconhecer que órgãos podem existir tanto na Administração Direta quanto na Indireta.",
+      "completed": false,
+      "order": 5
+    },
+    {
+      "checklist_id": "chk_006",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Estar atento às pegadinhas do CEBRASPE sobre personalidade jurídica, desconcentração/descentralização e termos absolutos.",
+      "completed": false,
+      "order": 6
+    },
+    {
+      "checklist_id": "chk_007",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Revisar a definição de órgão na Lei nº 9.784/1999.",
+      "completed": false,
+      "order": 7
+    },
+    {
+      "checklist_id": "chk_008",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Praticar questões 'Certo/Errado' do CEBRASPE sobre o tema.",
+      "completed": false,
+      "order": 8
+    }
+  ],
+  "referencias": [
+    {
+      "reference_id": "ref_001",
+      "material_id": "mat_001",
+      "reference_type": "Legislação",
+      "author_name": null,
+      "title": "Constituição da República Federativa do Brasil de 1988",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "http://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_002",
+      "material_id": "mat_001",
+      "reference_type": "Legislação",
+      "author_name": null,
+      "title": "Lei nº 9.784, de 29 de janeiro de 1999",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "http://www.planalto.gov.br/ccivil_03/leis/l9784.htm",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_003",
+      "material_id": "mat_001",
+      "reference_type": "Doutrina",
+      "author_name": null,
+      "title": "DI PIETRO, Maria Sylvia Zanella. Direito Administrativo. São Paulo: Atlas.",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": null,
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_004",
+      "material_id": "mat_001",
+      "reference_type": "Doutrina",
+      "author_name": null,
+      "title": "CARVALHO FILHO, José dos Santos. Manual de Direito Administrativo. Rio de Janeiro: Lumen Juris.",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": null,
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_005",
+      "material_id": "mat_001",
+      "reference_type": "Doutrina",
+      "author_name": null,
+      "title": "MEIRELLES, Hely Lopes. Direito Administrativo Brasileiro. São Paulo: Malheiros.",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": null,
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_006",
+      "material_id": "mat_001",
+      "reference_type": "Jurisprudência",
+      "author_name": null,
+      "title": "Tesauro do Supremo Tribunal Federal (STF) - Teoria do Órgão",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.stf.jus.br/portal/glossario/verVerbete.asp?letra=T&id=427",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_007",
+      "material_id": "mat_001",
+      "reference_type": "Artigo/Estudo",
+      "author_name": null,
+      "title": "Órgãos Públicos: Classificação, Estrutura e Competência no Direito Administrativo",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGUTz_LCbCJiNAkme_Q_3XJeyQGT_2fR3h4nxw9ot2RnaFYrgndMDXRUyRVbWLblubv1VW5CxWoVeiFD7XIAIkhIhNj2Yuu4wRVkHDpDguTWDKkFZ5pzUSaUzZyMMWODkCeKc0wYdVDClG5emTAjKvr3FDy11LmidjAYBusD3NNU--6DYrtIPgwf0kaoawoLsWhkK7M_2mWDdQ0sWw4o7tacEcRzycJL30KviY=",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_008",
+      "material_id": "mat_001",
+      "reference_type": "Artigo/Estudo",
+      "author_name": null,
+      "title": "Órgãos públicos: conceito, natureza e classificação - Âmbito Jurídico",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQERaNMiLmk1LhJRN3xkLZXliZeNistb2l6o2f_NSeVdNES0-q0cs0xJU-vq0PNqkiD_y0Kqp5WjDmsPEyt8J8xC-9pRCaYVsaEx92xNOOhS493By8Q9qZ4TaRYZqkZ8f8Vdnm56bRYIJPYGHnA6wvP9_AyuEUELwdR8oM4vQqUX4HjF4HtdFR-9bX2G",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_009",
+      "material_id": "mat_001",
+      "reference_type": "Artigo/Estudo",
+      "author_name": null,
+      "title": "Como funcionam os órgãos públicos e por que são essenciais para o país - Aprova",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFjRPYPKAiF_xEXV4T7A_TcEjd4Tgju6TXJNAhZLaKQfzta_p8lZNnNYbhOIkutyLuNkni9vakLn04e85iTnGyGEX1UDpSgANVblVms4Tw-TYsUbkpNFGqv4XeuL5jd0ACbkKQCgA==",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_010",
+      "material_id": "mat_001",
+      "reference_type": "Artigo/Estudo",
+      "author_name": null,
+      "title": "NOÇÕES DE DIREITO ADMINISTRATIVO - Nova Concursos",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE-sqA5KL60EF0ljmE2a0Zc4RbT4FDfMyqaQJvSulgg6txVBwUUCWgqAuTXtuIHr8TIZ7hjMFJ0npY5H-Ob_pxn-aadM3TQA9Bh0uz33rArzw5DQCXotWxfCIMfIzUJUVmvR3Ooie0_F44RoSdAHyI-Fw5b8pDHA_OaKSRA9UwGl0dfLs8_S213wyY9O_eGbHcetHiO67s=",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_011",
+      "material_id": "mat_001",
+      "reference_type": "Artigo/Estudo",
+      "author_name": null,
+      "title": "Órgão público – Wikipédia, a enciclopédia livre",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGyG25yIN4dnBV_N0flnRpNa7dKR5_9_Oyy6GBmZvsSZn3jiuCotrkwn8hDYnOBcz2jpLU0KT0yMTpAYs1IPdXT_wMD1jWQsd2sEF8RYM_gWgZvtNC7uHDP-g2PACNnIHGNZH3vEnnGbjtBhIrGrEu_8RBIj8o=",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_012",
+      "material_id": "mat_001",
+      "reference_type": "Artigo/Estudo",
+      "author_name": null,
+      "title": "Qual é a diferença entre entidades e órgãos públicos? - Gabarite Questões",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEwdHs6euGX7MDztdp4JT0VxTni9E-2dwLzrUChBlMeuJ_WEOHg9UQ_v61-Lze6dJhrg9mB5WVHJhJaY-IoQFbLwbPrvIFqOLYxRFo3hObysQjxQZyPwnh4iZUxJjIKvTrPgzbn6eR7_ITWia0eB6VLRl89tUp9wCJclDIjmJl04QOnTUR2JWVFu_-gvVjpCe-iUV-1SEf9",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_013",
+      "material_id": "mat_001",
+      "reference_type": "Questões/Comentários",
+      "author_name": null,
+      "title": "Questões de Concurso sobre Órgãos Públicos - Qconcursos",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGhrI9kw_B8-84eOOaInOcW4c-HgBH-MNTdEIKY8VsUf6Bbm9m7XbmA7BSs1a0a5Mob1AuVdhnbRnnQ0-gnSWe8D0BltfvLw8WUGQkiUdxUGWGHHLMsZ0jg51V3VSaSSwkcXyoBzfu-rcN9gcQr3FcA2lJvk3FuWgT2A3GuZduDMydd8exz_F_GbEm2SAz86J-4VT080dh07Y2SyzAEp9goHDz5oDWdnw==",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_014",
+      "material_id": "mat_001",
+      "reference_type": "Questões/Comentários",
+      "author_name": null,
+      "title": "Questão CEBRASPE - A teoria do órgão é um dos fundamentos da teoria da responsabilidade subjetiva do Estado...",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGag3UN8Ho56MgSxVeBVqmrHFlhbPDKGEUs6af2uXfr5VZJ60un-xxzMI5Bbbcs_LInG3hoLSqGZnphjJHufAttq7xFdbuxiZ_E77UvJDW4J6szg1_uUFWToyr-DlQlh0ZDNBWIjXvCajyv4XVlfRcYP4_AbXYKGg97LVqmXRM=",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_015",
+      "material_id": "mat_001",
+      "reference_type": "Questões/Comentários",
+      "author_name": null,
+      "title": "Questão CEBRASPE - Acerca do conceito de administração pública, da teoria do órgão da pessoa jurídica...",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFCHqbjrDJrn-dTohlZgDRDMdgvXckPcGuAXVK79WYjpiP17S4-GyUrKyygl3w8MGSSLdKg1yboXBxDYvToqiZkIQsrXTHJC8YQSF4Yc812JJzvEXjj1bM6vsvLnwtQBAC14KC0D0niK-tHJFQTyq1medO2Gckze_PcD-pP98A59nTqS2PD",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_016",
+      "material_id": "mat_001",
+      "reference_type": "Questões/Comentários",
+      "author_name": null,
+      "title": "Questão CEBRASPE - O conceito formal de administração pública está diretamente relacionado à natureza da atividade...",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFyjhRt5K3RSu-kSijyzYcI5WK15-69dSpOPRUdTRoehGPWscWl1OSOcMsRd-B01pHuebirRERkHg1wHh7mZDysU8qKqrCIHmJdhomvHkC_gqCjt1HXYYRw8duRBehHE7j3ULerHiezkEQUFA==",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_017",
+      "material_id": "mat_001",
+      "reference_type": "Questões/Comentários",
+      "author_name": null,
+      "title": "Questões Cebraspe de Direito Administrativo: Organização da Administração Pública - Qconcursos",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGc8VWHUz48wZmuxt0q2RFYHQtnIvujfh85RGp9zIWRppFj-EVUzBAL2iGdO8WUHBmHTkJQctq3dt-DM9sTwPW8P6jnOKlRc0iOvewko17hBXxMMdqtuUjYWFgN4rRzroWlNFEZsfI=",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_018",
+      "material_id": "mat_001",
+      "reference_type": "Questões/Comentários",
+      "author_name": null,
+      "title": "A noção de órgãos públicos é inerente à Administração Pública Direta... - Qconcursos",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFQ_h2rmwEn5YmHgVe5fgIS1jxOD5MI2ZBj8j9tgfA4liSna47A-0CsJVKknV6NPLYi62SUcLkpwT0OKuD4YJ1iijlYGLZVCn7UZKPaAlwuGwIULwORBLtRWgLJhfML7eCwGbZdPKjgENDd0CxODxTtaFl-1XLdx97ps2qMhAbUvg==",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_019",
+      "material_id": "mat_001",
+      "reference_type": "Questões/Comentários",
+      "author_name": null,
+      "title": "A característica fundamental da teoria do órgão consiste no... - Qconcursos",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHxyJfAv-QveE8o0bu2BNn4x7H988yoTXhLO37UrcLH5BKBaoEcbu8579IW_WZfHDLfdD1Y4IJNVzlsontUmzAH0doyAE4Vd89FBX8zxEXnXTL10r9r1pP_udm9BuFzD4y0RB4ljMKwhuxEf1AyyE0UzdmV3m1Gx-Td63qeAE7jtg==",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_020",
+      "material_id": "mat_001",
+      "reference_type": "Questões/Comentários",
+      "author_name": null,
+      "title": "A teoria do órgão foi inspirada na Doutrina de Otto Gierke e... - Qconcursos",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF10LcPTDhgcRSV1SnSPxFszk-LYMeCPnLMPdca0K-7mflibJhZgc8LW0BEAwYv0iy8obvDWK0yzTF-0akOVxq1c4Z2uWZXyIPZ_pxfrWlGQBFIqTEz0VJ4HJ1ecqngVYRgBv9O5B8bROHfdmjdTGhjdFFrZ95Da9xKhYL9W-JGYQ==",
+      "accessed_at": null,
+      "description": null
+    }
+  ],
+  "estatisticas_de_geracao": {
+    "total_topicos": 4,
+    "total_componentes_topico": 5,
+    "total_entendimentos_relevantes": 2,
+    "total_pegadinhas": 5,
+    "total_pontos_memorizacao": 5,
+    "total_itens_quadro_sinotico": 5,
+    "total_questoes": 8,
+    "total_comentarios_questoes": 8,
+    "total_itens_checklist": 8,
+    "total_referencias": 20
+  },
+  "validacao_interna": {
+    "pesquisa_previa_realizada": true,
+    "analise_de_cobrancas_anteriores_realizada": true,
+    "material_atualizado": true,
+    "json_valido": true,
+    "estrutura_relacional_respeitada": true,
+    "numeracao_respeitada": true,
+    "houve_quebra_de_hierarquia": false,
+    "houve_nivel_numerico_superior_a_3": true,
+    "fontes_verificadas": true,
+    "sem_informacao_inventada": true
+  },
+  "metadata": {
+    "source_file_name": "3__direito-administrativo__3-organização-administrativa-3.2-administração-direta-3.2.2-órgão-público-3.2.2.1-conceito.json",
+    "normalized_checksum": "638121e029abe095d4526a90199f05e501ae194bce19e92a49a9d44881aada2c",
+    "subject_slug": "dir-adm",
+    "material_slug": "organizacao-administrativa-orgao-publico",
+    "title_slug": "organizacao-administrativa-orgao-publico-conceito",
+    "board_slug": "cebraspe",
+    "counters": {
+      "blocks": 6,
+      "topics": 4,
+      "topic_components": 5,
+      "traps": 5,
+      "memory_points": 5,
+      "summary_items": 5,
+      "questions": 8,
+      "question_comments": 8,
+      "checklist_items": 8,
+      "references": 20
+    }
+  }
+}

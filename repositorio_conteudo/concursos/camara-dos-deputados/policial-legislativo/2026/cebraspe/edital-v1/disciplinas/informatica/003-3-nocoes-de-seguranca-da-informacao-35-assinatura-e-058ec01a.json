@@ -1,0 +1,978 @@
+{
+  "schema_version": "1.0",
+  "normalized_at": "2026-04-07T15:39:14.034177-03:00",
+  "normalizer_version": "2.0.0",
+  "exported_at": "2026-04-07T16:08:00Z",
+  "source_request": {
+    "purpose": "Concurso público",
+    "general_area": "Tecnologia da Informação",
+    "subject_name": "Informática e Dados",
+    "subarea_name": "Informática, redes, segurança e dados",
+    "main_theme": "3 Noções de segurança da informação: 3.5 Assinatura e certificação digital",
+    "theme_scope": "Teoria completa, incidência em prova, padrão de cobrança da banca, pegadinhas e questões comentadas",
+    "board_style": "CEBRASPE",
+    "depth_level": "Exaustivo",
+    "goal": "Teoria completa, revisão estratégica, pegadinhas e questões comentadas",
+    "base_topic_number": "3",
+    "topic_title": "3 Noções de segurança da informação: 3.5 Assinatura e certificação digital",
+    "syllabus_reference": "Conteúdo programático da disciplina Informática e Dados",
+    "priority_sources": [
+      "Documentação oficial e referências técnicas confiáveis",
+      "Bibliografia técnica consolidada",
+      "Questões anteriores da banca"
+    ],
+    "minimum_questions": 8,
+    "question_format": "Certo/Errado",
+    "prioritize_real_questions": true,
+    "response_language": "português",
+    "target_audience": "Candidato de concurso público",
+    "additional_notes": "Executar exatamente para esta linha individual do topicos.txt. Não juntar com outros tópicos. Não pular este tópico. Dar destaque ao padrão de cobrança da banca, aos pontos mais cobrados e às pegadinhas recorrentes.",
+    "input_hash": "49a21a2396be",
+    "extras": {}
+  },
+  "material": {
+    "material_id": "mat_001",
+    "slug": "assinatura-e-certificacao-digital-cebraspe-ti",
+    "title": "Segurança da Informação: Assinatura e Certificação Digital",
+    "base_number": "3",
+    "topic_title": "3 Noções de segurança da informação: 3.5 Assinatura e certificação digital",
+    "purpose": "Concurso público",
+    "area_name": "Tecnologia da Informação",
+    "subject_name": "Informática e Dados",
+    "subarea_name": "Informática, redes, segurança e dados",
+    "main_theme": "3.5 Assinatura e certificação digital",
+    "theme_scope": "Teoria completa, incidência em prova, padrão de cobrança da banca, pegadinhas e questões comentadas",
+    "board_style": "CEBRASPE",
+    "depth_level": "Exaustivo",
+    "study_goal": "Teoria completa, revisão estratégica, pegadinhas e questões comentadas",
+    "target_audience": "Candidato de concurso público",
+    "language_code": "português",
+    "update_status": "Atualizado",
+    "current_note": "Conteúdo verificado com base em legislação vigente (MP 2.200-2/2001, Lei 14.063/2020) e referências técnicas atualizadas da ICP-Brasil e ITI, além de questões recentes da banca CEBRASPE.",
+    "has_case_law": false,
+    "case_law_justification": "A natureza do tema (segurança da informação, criptografia) não exige a inclusão de jurisprudência como elemento central para a compreensão e cobrança em provas. O foco é técnico e normativo.",
+    "has_information_limitation": false,
+    "information_limitation_desc": null,
+    "content_checksum": "placeholder_checksum_mat_001",
+    "extras": {}
+  },
+  "blocos_textuais": [
+    {
+      "external_block_code": "blc_001",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 1,
+      "title": "Introdução à Segurança da Informação: Assinatura e Certificação Digital",
+      "content": "A segurança da informação é um pilar fundamental na era digital, e a assinatura e certificação digital representam ferramentas cruciais para garantir a validade e a confiabilidade de transações e documentos eletrônicos. Em concursos públicos, especialmente os organizados pelo CEBRASPE, a compreensão desses conceitos é frequentemente exigida, com foco em seus princípios, funcionamento e aplicações práticas. Este material visa abordar o tema de forma exaustiva, destacando os pontos mais cobrados e as 'pegadinhas' comuns da banca.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_002",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 2,
+      "title": "Assinatura Digital: Conceito e Fundamentos",
+      "content": "A assinatura digital é um mecanismo eletrônico que garante a autenticidade, a integridade e o não repúdio de um documento digital. Diferente de uma assinatura digitalizada (que é apenas uma imagem escaneada de uma assinatura manual e não possui validade jurídica intrínseca), a assinatura digital utiliza criptografia assimétrica para vincular o documento ao signatário.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_003",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 3,
+      "title": "Princípios da Assinatura Digital",
+      "content": "Os princípios fundamentais garantidos pela assinatura digital são: Autenticidade, que comprova a identidade de quem assinou, assegurando que a mensagem provém da fonte declarada. Integridade, que garante que o conteúdo do documento não foi alterado após a assinatura. Qualquer modificação invalidaria a assinatura. Não Repúdio (ou Irretratabilidade), que impede que o signatário negue a autoria da assinatura posteriormente. É importante notar que a confidencialidade NÃO é um princípio diretamente garantido pela assinatura digital, mas sim pela criptografia de dados.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_004",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 4,
+      "title": "Mecanismo Criptográfico da Assinatura Digital",
+      "content": "A assinatura digital combina duas técnicas criptográficas: a função hash e a criptografia assimétrica. A função hash gera um resumo criptográfico (hash ou digest) do documento, que é único para aquele conteúdo. Qualquer alteração, por menor que seja, no documento original resultará em um hash completamente diferente. Em seguida, o signatário utiliza sua chave privada (secreta e de seu uso exclusivo) para criptografar esse hash. O resultado é a assinatura digital. Para verificar a assinatura, qualquer pessoa pode usar a chave pública do signatário (disponível no certificado digital) para descriptografar a assinatura digital e obter o hash original. Paralelamente, um novo hash é gerado a partir do documento recebido. Se os dois hashes (o descriptografado e o recém-gerado) forem idênticos, a autenticidade e a integridade do documento e do signatário são confirmadas.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_005",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 5,
+      "title": "Certificação Digital: Conceito e Finalidade",
+      "content": "O certificado digital é um documento eletrônico que funciona como uma identidade virtual, vinculando uma chave pública a uma pessoa física, jurídica ou sistema. Ele é emitido por uma Autoridade Certificadora (AC) e tem validade jurídica, garantindo a autenticidade e a segurança em transações eletrônicas. Sua principal finalidade é comprovar a identidade do titular no ambiente digital, permitindo a realização de diversas operações com segurança e validade legal.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_006",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 6,
+      "title": "Infraestrutura de Chaves Públicas Brasileira (ICP-Brasil)",
+      "content": "No Brasil, a emissão e o gerenciamento de certificados digitais são regulamentados pela Infraestrutura de Chaves Públicas Brasileira (ICP-Brasil), criada pela Medida Provisória nº 2.200-2, de 24 de agosto de 2001. A ICP-Brasil é uma cadeia hierárquica de confiança, com o Instituto Nacional de Tecnologia da Informação (ITI) atuando como Autoridade Certificadora Raiz (AC-Raiz). O ITI é responsável por credenciar, descredenciar, supervisionar e auditar as demais Autoridades Certificadoras (ACs) e Autoridades de Registro (ARs) que compõem a estrutura.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_007",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 7,
+      "title": "Componentes da ICP-Brasil",
+      "content": "Os principais componentes da ICP-Brasil são: Autoridade Certificadora Raiz (AC-Raiz): É o ITI, responsável por emitir os certificados das ACs de nível inferior e por gerenciar as políticas de certificação. Autoridades Certificadoras (ACs): São entidades públicas ou privadas que emitem, distribuem, revogam e gerenciam os certificados digitais dos usuários finais, seguindo as regras da AC-Raiz. Autoridades de Registro (ARs): São as entidades que fazem a interface entre o usuário e a AC. Elas são responsáveis por verificar a identidade do solicitante do certificado digital, coletando e validando a documentação necessária antes de encaminhar o pedido à AC.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_008",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 8,
+      "title": "Tipos de Certificados Digitais (Classe A e S)",
+      "content": "Os certificados digitais da ICP-Brasil são classificados em tipos, sendo os mais comuns os da Classe A (Assinatura Digital) e Classe S (Sigilo/Confidencialidade). Certificados Tipo A (Assinatura Digital): São os mais populares e utilizados para assinar documentos digitais, garantindo autenticidade, integridade e não repúdio. Os mais conhecidos são: A1: Armazenado diretamente no computador ou servidor, com validade de 1 ano. Permite cópias de segurança e instalação em múltiplos dispositivos. A3: Armazenado em dispositivo criptográfico (token USB ou cartão inteligente com leitora), com validade de 1 a 5 anos. Oferece maior segurança por exigir a mídia física e senha. Certificados Tipo S (Sigilo/Confidencialidade): Utilizados para criptografar dados e documentos, garantindo o sigilo da informação. O acesso ao conteúdo só é possível com um certificado autorizado. Exemplos incluem S1, S3 e S4.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_009",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 9,
+      "title": "Validade Jurídica e Legislação",
+      "content": "A Medida Provisória nº 2.200-2/2001 estabelece que os documentos eletrônicos produzidos com a utilização de processo de certificação disponibilizado pela ICP-Brasil presumem-se verdadeiros em relação aos signatários, conferindo-lhes validade jurídica plena. A Lei nº 14.063/2020, por sua vez, regulamenta as assinaturas eletrônicas em interações com entes públicos, distinguindo entre assinatura simples, avançada e qualificada. A assinatura digital com certificado ICP-Brasil é considerada uma assinatura eletrônica qualificada, com presunção legal de autenticidade e equivalência à assinatura manuscrita.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_010",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 10,
+      "title": "Padrão de Cobrança CEBRASPE: Assinatura e Certificação Digital",
+      "content": "O CEBRASPE frequentemente aborda o tema de Assinatura e Certificação Digital em questões de 'Certo/Errado', exigindo do candidato um conhecimento preciso dos conceitos e suas inter-relações. Os pontos mais cobrados incluem: os princípios da segurança da informação garantidos pela assinatura digital (autenticidade, integridade, não repúdio); a distinção entre assinatura digital e digitalizada; o papel da ICP-Brasil e seus componentes (ITI, AC, AR); e os tipos de certificados digitais (A1, A3) e suas características. A banca costuma explorar a literalidade da legislação e dos conceitos técnicos, mas também exige a compreensão de cenários práticos.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_011",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 11,
+      "title": "Pegadinhas Recorrentes do CEBRASPE",
+      "content": "O CEBRASPE é conhecido por suas 'pegadinhas' que testam a atenção e o conhecimento aprofundado do candidato. As mais comuns em Assinatura e Certificação Digital são: Confundir assinatura digital com assinatura digitalizada/escaneada, atribuindo validade jurídica à segunda. Afirmar que a assinatura digital garante confidencialidade. A confidencialidade é garantida pela criptografia de dados, não diretamente pela assinatura digital. Inverter os papéis das chaves pública e privada no processo de assinatura e verificação. A chave privada assina, a chave pública verifica. Atribuir funções incorretas aos componentes da ICP-Brasil (AC, AR, ITI). Confundir as características de armazenamento e validade dos certificados A1 e A3. Afirmar que o não repúdio está relacionado à acessibilidade ou alterabilidade dos dados.",
+      "content_type": "teoria"
+    }
+  ],
+  "topicos": [
+    {
+      "external_topic_code": "top_001",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "3.5",
+      "title": "Assinatura e Certificação Digital",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 1
+    },
+    {
+      "external_topic_code": "top_002",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "3.5.1",
+      "title": "Assinatura Digital",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 2
+    },
+    {
+      "external_topic_code": "top_003",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "3.5.2",
+      "title": "Certificação Digital",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 3
+    },
+    {
+      "external_topic_code": "top_004",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "3.5.3",
+      "title": "Padrão de Cobrança CEBRASPE",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 4
+    }
+  ],
+  "topico_componentes": [
+    {
+      "component_id": "cmp_001",
+      "topic_id": "top_002",
+      "component_type": "Conceito",
+      "content": "Mecanismo eletrônico que garante autenticidade, integridade e não repúdio de documentos digitais, utilizando criptografia assimétrica.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_002",
+      "topic_id": "top_002",
+      "component_type": "Princípio",
+      "content": "Comprova a identidade do signatário.",
+      "order": 2
+    },
+    {
+      "component_id": "cmp_003",
+      "topic_id": "top_002",
+      "component_type": "Princípio",
+      "content": "Garante que o conteúdo não foi alterado.",
+      "order": 3
+    },
+    {
+      "component_id": "cmp_004",
+      "topic_id": "top_002",
+      "component_type": "Princípio",
+      "content": "Impede que o signatário negue a autoria.",
+      "order": 4
+    },
+    {
+      "component_id": "cmp_005",
+      "topic_id": "top_002",
+      "component_type": "Mecanismo",
+      "content": "Gera um resumo criptográfico único do documento.",
+      "order": 5
+    },
+    {
+      "component_id": "cmp_006",
+      "topic_id": "top_002",
+      "component_type": "Mecanismo",
+      "content": "Utiliza par de chaves (privada para assinar, pública para verificar).",
+      "order": 6
+    },
+    {
+      "component_id": "cmp_007",
+      "topic_id": "top_003",
+      "component_type": "Conceito",
+      "content": "Identidade virtual que vincula uma chave pública a uma entidade, com validade jurídica.",
+      "order": 7
+    },
+    {
+      "component_id": "cmp_008",
+      "topic_id": "top_003",
+      "component_type": "Estrutura",
+      "content": "Infraestrutura de Chaves Públicas Brasileira, regulamentada pela MP 2.200-2/2001, que gerencia a emissão de certificados digitais no país.",
+      "order": 8
+    },
+    {
+      "component_id": "cmp_009",
+      "topic_id": "top_003",
+      "component_type": "Componente ICP-Brasil",
+      "content": "Instituto Nacional de Tecnologia da Informação, Autoridade Certificadora Raiz da ICP-Brasil, responsável por credenciar e auditar as ACs e ARs.",
+      "order": 9
+    },
+    {
+      "component_id": "cmp_010",
+      "topic_id": "top_003",
+      "component_type": "Componente ICP-Brasil",
+      "content": "Entidade que emite, distribui, revoga e gerencia certificados digitais.",
+      "order": 10
+    },
+    {
+      "component_id": "cmp_011",
+      "topic_id": "top_003",
+      "component_type": "Componente ICP-Brasil",
+      "content": "Entidade que faz a interface com o usuário, verificando sua identidade e documentação.",
+      "order": 11
+    },
+    {
+      "component_id": "cmp_012",
+      "topic_id": "top_003",
+      "component_type": "Tipo de Certificado",
+      "content": "Armazenado em software (computador/servidor), validade de 1 ano, permite cópias.",
+      "order": 12
+    },
+    {
+      "component_id": "cmp_013",
+      "topic_id": "top_003",
+      "component_type": "Tipo de Certificado",
+      "content": "Armazenado em hardware criptográfico (token/cartão), validade de 1 a 5 anos, maior segurança.",
+      "order": 13
+    },
+    {
+      "component_id": "cmp_014",
+      "topic_id": "top_003",
+      "component_type": "Tipo de Certificado",
+      "content": "Utilizado para criptografar documentos e garantir confidencialidade.",
+      "order": 14
+    }
+  ],
+  "pegadinhas": [
+    {
+      "trap_id": "peg_001",
+      "material_id": "mat_001",
+      "topic_id": "top_004",
+      "title": "Pegadinha 1",
+      "description": "Confundir assinatura digital com assinatura digitalizada/escaneada, atribuindo validade jurídica à segunda.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 1
+    },
+    {
+      "trap_id": "peg_002",
+      "material_id": "mat_001",
+      "topic_id": "top_004",
+      "title": "Pegadinha 2",
+      "description": "Afirmar que a assinatura digital garante confidencialidade.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 2
+    },
+    {
+      "trap_id": "peg_003",
+      "material_id": "mat_001",
+      "topic_id": "top_004",
+      "title": "Pegadinha 3",
+      "description": "Inverter os papéis das chaves pública e privada no processo de assinatura e verificação.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 3
+    },
+    {
+      "trap_id": "peg_004",
+      "material_id": "mat_001",
+      "topic_id": "top_004",
+      "title": "Pegadinha 4",
+      "description": "Atribuir funções incorretas aos componentes da ICP-Brasil (AC, AR, ITI).",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 4
+    },
+    {
+      "trap_id": "peg_005",
+      "material_id": "mat_001",
+      "topic_id": "top_004",
+      "title": "Pegadinha 5",
+      "description": "Confundir as características de armazenamento e validade dos certificados A1 e A3.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 5
+    },
+    {
+      "trap_id": "peg_006",
+      "material_id": "mat_001",
+      "topic_id": "top_004",
+      "title": "Pegadinha 6",
+      "description": "Afirmar que o não repúdio pressupõe que os dados sejam acessíveis e alteráveis por qualquer pessoa autorizada.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 6
+    }
+  ],
+  "pontos_memorizacao": [
+    {
+      "memory_id": "mem_001",
+      "material_id": "mat_001",
+      "topic_id": "top_002",
+      "title": null,
+      "content": "",
+      "order": 1
+    },
+    {
+      "memory_id": "mem_002",
+      "material_id": "mat_001",
+      "topic_id": "top_002",
+      "title": null,
+      "content": "",
+      "order": 2
+    },
+    {
+      "memory_id": "mem_003",
+      "material_id": "mat_001",
+      "topic_id": "top_002",
+      "title": null,
+      "content": "",
+      "order": 3
+    },
+    {
+      "memory_id": "mem_004",
+      "material_id": "mat_001",
+      "topic_id": "top_003",
+      "title": null,
+      "content": "",
+      "order": 4
+    },
+    {
+      "memory_id": "mem_005",
+      "material_id": "mat_001",
+      "topic_id": "top_003",
+      "title": null,
+      "content": "",
+      "order": 5
+    },
+    {
+      "memory_id": "mem_006",
+      "material_id": "mat_001",
+      "topic_id": "top_003",
+      "title": null,
+      "content": "",
+      "order": 6
+    },
+    {
+      "memory_id": "mem_007",
+      "material_id": "mat_001",
+      "topic_id": "top_003",
+      "title": null,
+      "content": "",
+      "order": 7
+    }
+  ],
+  "quadro_sinotico_itens": [
+    {
+      "summary_item_id": "sum_001",
+      "title": null,
+      "content": "Mecanismo criptográfico para autenticidade, integridade e não repúdio de documentos eletrônicos.",
+      "order": 1
+    },
+    {
+      "summary_item_id": "sum_002",
+      "title": null,
+      "content": "Identidade eletrônica com validade jurídica, emitida por AC da ICP-Brasil, vinculando chave pública a uma entidade.",
+      "order": 2
+    },
+    {
+      "summary_item_id": "sum_003",
+      "title": null,
+      "content": "Garante a identidade do signatário.",
+      "order": 3
+    },
+    {
+      "summary_item_id": "sum_004",
+      "title": null,
+      "content": "Assegura que o conteúdo não foi alterado.",
+      "order": 4
+    },
+    {
+      "summary_item_id": "sum_005",
+      "title": null,
+      "content": "Impede que o signatário negue a autoria.",
+      "order": 5
+    },
+    {
+      "summary_item_id": "sum_006",
+      "title": null,
+      "content": "Autoridade Certificadora Raiz, gerencia e audita a ICP-Brasil.",
+      "order": 6
+    },
+    {
+      "summary_item_id": "sum_007",
+      "title": null,
+      "content": "Emite, revoga e gerencia certificados digitais.",
+      "order": 7
+    },
+    {
+      "summary_item_id": "sum_008",
+      "title": null,
+      "content": "Valida a identidade do solicitante do certificado.",
+      "order": 8
+    },
+    {
+      "summary_item_id": "sum_009",
+      "title": null,
+      "content": "Software, 1 ano de validade, flexível.",
+      "order": 9
+    },
+    {
+      "summary_item_id": "sum_010",
+      "title": null,
+      "content": "Hardware (token/cartão), 1 a 5 anos de validade, maior segurança.",
+      "order": 10
+    }
+  ],
+  "questoes": [
+    {
+      "question_id": "qst_001",
+      "material_id": "mat_001",
+      "topic_id": "top_004",
+      "board": "CEBRASPE",
+      "year": "2024",
+      "organization": "TC DF",
+      "role": "Auditor de Controle Externo",
+      "statement": "A assinatura digital garante a confidencialidade, a integridade e o não repúdio de um documento eletrônico.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": null,
+      "external_reference": "Qconcursos Q3172754",
+      "commentary": "Errado. A assinatura digital garante autenticidade, integridade e não repúdio. A confidencialidade não é um princípio diretamente garantido pela assinatura digital, mas sim pela criptografia de dados.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_001"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_002",
+      "material_id": "mat_001",
+      "topic_id": "top_004",
+      "board": "CEBRASPE",
+      "year": "2026",
+      "organization": "SEMA-AM",
+      "role": "Técnico de Nível Superior",
+      "statement": "A assinatura digitalizada, por ser uma representação gráfica da assinatura manuscrita, possui a mesma validade jurídica da assinatura digital, desde que o documento seja autenticado em cartório.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": null,
+      "external_reference": "Qconcursos Q3933928 (adaptada)",
+      "commentary": "Errado. A assinatura digitalizada é apenas uma imagem e não possui as garantias criptográficas da assinatura digital, que é baseada em um par de chaves e um certificado digital. Portanto, não têm a mesma validade jurídica.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_002"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_003",
+      "material_id": "mat_001",
+      "topic_id": "top_004",
+      "board": "CEBRASPE",
+      "year": "2025",
+      "organization": "TRT - 10ª REGIÃO (DF e TO)",
+      "role": "Analista Judiciário",
+      "statement": "No processo de assinatura digital, a chave pública do signatário é utilizada para criptografar o hash do documento, enquanto a chave privada é usada para verificar a autenticidade da assinatura.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": null,
+      "external_reference": "Qconcursos Q3258125 (adaptada)",
+      "commentary": "Errado. O processo é inverso: a chave privada do signatário é usada para criptografar o hash do documento (gerando a assinatura digital), e a chave pública (contida no certificado) é usada para verificar a autenticidade dessa assinatura.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_003"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_004",
+      "material_id": "mat_001",
+      "topic_id": "top_004",
+      "board": "CEBRASPE",
+      "year": "2026",
+      "organization": "SEMA-AM",
+      "role": "Analista Ambiental",
+      "statement": "O Instituto Nacional de Tecnologia da Informação (ITI) atua como Autoridade Certificadora Raiz (AC-Raiz) da ICP-Brasil, sendo responsável por credenciar e auditar as demais Autoridades Certificadoras (ACs).",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": null,
+      "external_reference": "Qconcursos Q3934549 (adaptada)",
+      "commentary": "Certo. O ITI (Instituto Nacional de Tecnologia da Informação) é a Autoridade Certificadora Raiz (AC-Raiz) da ICP-Brasil, com a função de credenciar, descredenciar, supervisionar e auditar as demais ACs e ARs.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_004"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_005",
+      "material_id": "mat_001",
+      "topic_id": "top_004",
+      "board": "CEBRASPE",
+      "year": "2025",
+      "organization": "PC MS",
+      "role": "Escrivão",
+      "statement": "O certificado digital do tipo A1 é armazenado em hardware criptográfico, como token USB ou cartão inteligente, e possui validade de até cinco anos.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": null,
+      "external_reference": "Qconcursos Q4060017 (adaptada)",
+      "commentary": "Errado. O certificado digital do tipo A1 é armazenado em software (no computador ou servidor) e tem validade de 1 ano. O certificado do tipo A3 é que é armazenado em hardware criptográfico (token ou cartão) e possui validade de 1 a 5 anos.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_005"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_006",
+      "material_id": "mat_001",
+      "topic_id": "top_004",
+      "board": "CEBRASPE",
+      "year": "2024",
+      "organization": "TC DF",
+      "role": "Auditor de Controle Externo",
+      "statement": "A Medida Provisória nº 2.200-2/2001 instituiu a ICP-Brasil e conferiu validade jurídica aos documentos eletrônicos produzidos com certificados digitais emitidos sob essa infraestrutura.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": null,
+      "external_reference": "Qconcursos Q3172754 (adaptada)",
+      "commentary": "Certo. A Medida Provisória nº 2.200-2, de 24 de agosto de 2001, é a base legal que instituiu a ICP-Brasil e garantiu a validade jurídica dos documentos eletrônicos assinados digitalmente com certificados emitidos sob essa infraestrutura.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_006"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_007",
+      "material_id": "mat_001",
+      "topic_id": "top_004",
+      "board": "CESPE / Cebraspe",
+      "year": "2018",
+      "organization": "FUB",
+      "role": "Técnico - Tecnologia da Informação",
+      "statement": "As Autoridades de Registro (ARs) são as entidades responsáveis por emitir e assinar digitalmente os certificados digitais dos usuários finais, após a validação da documentação.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": null,
+      "external_reference": "Qconcursos Q269857 (adaptada)",
+      "commentary": "Errado. As Autoridades de Registro (ARs) são responsáveis por fazer a interface com o usuário, validando sua identidade e documentação. Quem emite e assina digitalmente os certificados são as Autoridades Certificadoras (ACs).",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_007"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_008",
+      "material_id": "mat_001",
+      "topic_id": "top_004",
+      "board": "CEBRASPE",
+      "year": "2025",
+      "organization": "TRT - 10ª REGIÃO (DF e TO)",
+      "role": "Analista Judiciário",
+      "statement": "O não repúdio, um dos princípios da segurança da informação, garante que uma parte em uma transação não possa negar a autoria de uma ação ou comunicação.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": null,
+      "external_reference": "Qconcursos Q3258125",
+      "commentary": "Certo. O não repúdio é a garantia de que o autor de uma ação ou comunicação não poderá negar sua autoria posteriormente, sendo um dos princípios fundamentais da segurança da informação.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_008"
+        ],
+        "count": 1
+      }
+    }
+  ],
+  "comentarios_questoes": [
+    {
+      "comment_id": "com_001",
+      "question_id": "qst_001",
+      "content": "Errado. A assinatura digital garante autenticidade, integridade e não repúdio. A confidencialidade não é um princípio diretamente garantido pela assinatura digital, mas sim pela criptografia de dados.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_002",
+      "question_id": "qst_002",
+      "content": "Errado. A assinatura digitalizada é apenas uma imagem e não possui as garantias criptográficas da assinatura digital, que é baseada em um par de chaves e um certificado digital. Portanto, não têm a mesma validade jurídica.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_003",
+      "question_id": "qst_003",
+      "content": "Errado. O processo é inverso: a chave privada do signatário é usada para criptografar o hash do documento (gerando a assinatura digital), e a chave pública (contida no certificado) é usada para verificar a autenticidade dessa assinatura.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_004",
+      "question_id": "qst_004",
+      "content": "Certo. O ITI (Instituto Nacional de Tecnologia da Informação) é a Autoridade Certificadora Raiz (AC-Raiz) da ICP-Brasil, com a função de credenciar, descredenciar, supervisionar e auditar as demais ACs e ARs.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_005",
+      "question_id": "qst_005",
+      "content": "Errado. O certificado digital do tipo A1 é armazenado em software (no computador ou servidor) e tem validade de 1 ano. O certificado do tipo A3 é que é armazenado em hardware criptográfico (token ou cartão) e possui validade de 1 a 5 anos.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_006",
+      "question_id": "qst_006",
+      "content": "Certo. A Medida Provisória nº 2.200-2, de 24 de agosto de 2001, é a base legal que instituiu a ICP-Brasil e garantiu a validade jurídica dos documentos eletrônicos assinados digitalmente com certificados emitidos sob essa infraestrutura.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_007",
+      "question_id": "qst_007",
+      "content": "Errado. As Autoridades de Registro (ARs) são responsáveis por fazer a interface com o usuário, validando sua identidade e documentação. Quem emite e assina digitalmente os certificados são as Autoridades Certificadoras (ACs).",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_008",
+      "question_id": "qst_008",
+      "content": "Certo. O não repúdio é a garantia de que o autor de uma ação ou comunicação não poderá negar sua autoria posteriormente, sendo um dos princípios fundamentais da segurança da informação.",
+      "explanation_alternatives": ""
+    }
+  ],
+  "checklist_revisao": [
+    {
+      "checklist_id": "chk_001",
+      "material_id": "mat_001",
+      "topic_id": "top_001",
+      "item_text": "Diferenciar assinatura digital de assinatura digitalizada.",
+      "completed": false,
+      "order": 1
+    },
+    {
+      "checklist_id": "chk_002",
+      "material_id": "mat_001",
+      "topic_id": "top_002",
+      "item_text": "Listar e compreender os princípios da assinatura digital (autenticidade, integridade, não repúdio).",
+      "completed": false,
+      "order": 2
+    },
+    {
+      "checklist_id": "chk_003",
+      "material_id": "mat_001",
+      "topic_id": "top_002",
+      "item_text": "Entender o papel da função hash e da criptografia assimétrica na assinatura digital.",
+      "completed": false,
+      "order": 3
+    },
+    {
+      "checklist_id": "chk_004",
+      "material_id": "mat_001",
+      "topic_id": "top_002",
+      "item_text": "Saber a diferença entre chave pública e privada e seus usos na assinatura/verificação.",
+      "completed": false,
+      "order": 4
+    },
+    {
+      "checklist_id": "chk_005",
+      "material_id": "mat_001",
+      "topic_id": "top_003",
+      "item_text": "Compreender o que é um certificado digital e sua finalidade.",
+      "completed": false,
+      "order": 5
+    },
+    {
+      "checklist_id": "chk_006",
+      "material_id": "mat_001",
+      "topic_id": "top_003",
+      "item_text": "Conhecer a estrutura da ICP-Brasil e o papel do ITI como AC-Raiz.",
+      "completed": false,
+      "order": 6
+    },
+    {
+      "checklist_id": "chk_007",
+      "material_id": "mat_001",
+      "topic_id": "top_003",
+      "item_text": "Identificar as funções das Autoridades Certificadoras (ACs) e Autoridades de Registro (ARs).",
+      "completed": false,
+      "order": 7
+    },
+    {
+      "checklist_id": "chk_008",
+      "material_id": "mat_001",
+      "topic_id": "top_003",
+      "item_text": "Distinguir os tipos de certificados digitais A1 e A3 (armazenamento, validade).",
+      "completed": false,
+      "order": 8
+    },
+    {
+      "checklist_id": "chk_009",
+      "material_id": "mat_001",
+      "topic_id": "top_003",
+      "item_text": "Entender a validade jurídica dos certificados digitais ICP-Brasil (MP 2.200-2/2001, Lei 14.063/2020).",
+      "completed": false,
+      "order": 9
+    },
+    {
+      "checklist_id": "chk_010",
+      "material_id": "mat_001",
+      "topic_id": "top_004",
+      "item_text": "Revisar as pegadinhas mais comuns do CEBRASPE sobre o tema.",
+      "completed": false,
+      "order": 10
+    }
+  ],
+  "referencias": [
+    {
+      "reference_id": "ref_001",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "Medida Provisória nº 2.200-2, de 24 de agosto de 2001",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "http://www.planalto.gov.br/ccivil_03/mpv/2200-2.htm",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_002",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "Lei nº 14.063, de 23 de setembro de 2020",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "http://www.planalto.gov.br/ccivil_03/_ato2019-2022/2020/lei/L14063.htm",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_003",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "ICP-Brasil — Instituto Nacional de Tecnologia da Informação - Governo Federal",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.gov.br/iti/pt-br/icp-brasil",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_004",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "Assinatura Digital e Certificado Digital - Estratégia Concursos",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.estrategiaconcursos.com.br/blog/assinatura-digital-e-certificado-digital/",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_005",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "Tipos de certificados digitais: A1 x A3 - qual escolher? - Redtrust",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://redtrust.com/pt-br/blog/tipos-de-certificados-digitais-a1-x-a3-qual-escolher/",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_006",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "Validade Jurídica Do Certificado Digital: O Que Diz A Lei No Brasil - Bry Tecnologia",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://brytecnologia.com.br/blog/validade-juridica-do-certificado-digital-o-que-diz-a-lei-no-brasil/",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_007",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "Questões de Concurso sobre Assinatura Digital - Qconcursos",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.qconcursos.com/questoes-de-concursos/disciplinas/informatica/assinatura-digital",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_008",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "Mastering Information Security: Cespe/Cebraspe - YouTube",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_009",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "Assinatura eletrônica vs. assinatura digital: Entenda as diferenças - Migalhas",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.migalhas.com.br/coluna/migalhas-de-protecao-de-dados/401062/assinatura-eletronica-vs-assinatura-digital-entenda-as-diferencas",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_010",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "Como Funciona O Processo De Assinatura Digital E Importância - Certifica",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://certifica.com.br/blog/como-funciona-o-processo-de-assinatura-digital/",
+      "accessed_at": null,
+      "description": null
+    }
+  ],
+  "estatisticas_de_geracao": {
+    "total_topicos": 4,
+    "total_componentes_topico": 14,
+    "total_entendimentos_relevantes": 3,
+    "total_pegadinhas": 6,
+    "total_pontos_memorizacao": 7,
+    "total_itens_quadro_sinotico": 10,
+    "total_questoes": 8,
+    "total_comentarios_questoes": 8,
+    "total_itens_checklist": 10,
+    "total_referencias": 10
+  },
+  "validacao_interna": {
+    "pesquisa_previa_realizada": true,
+    "analise_de_cobrancas_anteriores_realizada": true,
+    "material_atualizado": true,
+    "json_valido": true,
+    "estrutura_relacional_respeitada": true,
+    "numeracao_respeitada": true,
+    "houve_quebra_de_hierarquia": false,
+    "houve_nivel_numerico_superior_a_3": false,
+    "fontes_verificadas": true,
+    "sem_informacao_inventada": true
+  },
+  "metadata": {
+    "source_file_name": "3__informática-e-dados__3-noções-de-segurança-da-informação-3.5-assinatura-e-certificação-digital.json",
+    "normalized_checksum": "c46f68f9d67c1b4e467f489dae2cf79a80fec19d15d24ce860a70105e5746745",
+    "subject_slug": "informatica",
+    "material_slug": "assinatura-e-certificacao-digital",
+    "title_slug": "seguranca-da-informacao-assinatura-e-certificacao",
+    "board_slug": "cebraspe",
+    "counters": {
+      "blocks": 11,
+      "topics": 4,
+      "topic_components": 14,
+      "traps": 6,
+      "memory_points": 7,
+      "summary_items": 10,
+      "questions": 8,
+      "question_comments": 8,
+      "checklist_items": 10,
+      "references": 10
+    }
+  }
+}

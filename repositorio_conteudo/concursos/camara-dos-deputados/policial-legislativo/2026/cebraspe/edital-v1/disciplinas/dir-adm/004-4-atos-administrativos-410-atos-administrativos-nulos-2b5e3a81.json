@@ -1,0 +1,746 @@
+{
+  "schema_version": "1.0",
+  "normalized_at": "2026-04-07T15:39:14.219539-03:00",
+  "normalizer_version": "2.0.0",
+  "exported_at": "2026-04-07T17:47:00Z",
+  "source_request": {
+    "purpose": "Concurso público",
+    "general_area": "Direito",
+    "subject_name": "Direito Administrativo",
+    "subarea_name": "Direito Administrativo",
+    "main_theme": "4 Atos administrativos: 4.10 Atos administrativos nulos, anuláveis e inexistentes",
+    "theme_scope": "Teoria completa, incidência em prova, padrão de cobrança da banca, pegadinhas e questões comentadas",
+    "board_style": "CEBRASPE",
+    "depth_level": "Exaustivo",
+    "goal": "Teoria completa, revisão estratégica, pegadinhas e questões comentadas",
+    "base_topic_number": "4",
+    "topic_title": "4 Atos administrativos: 4.10 Atos administrativos nulos, anuláveis e inexistentes",
+    "syllabus_reference": "Conteúdo programático da disciplina Direito Administrativo",
+    "priority_sources": [
+      "Constituição Federal e legislação oficial vigente",
+      "Jurisprudência pertinente e atual, quando cabível",
+      "Doutrina consolidada",
+      "Questões anteriores da banca"
+    ],
+    "minimum_questions": 8,
+    "question_format": "Certo/Errado",
+    "prioritize_real_questions": true,
+    "response_language": "português",
+    "target_audience": "Candidato de concurso público",
+    "additional_notes": "Executar exatamente para esta linha individual do topicos.txt. Não juntar com outros tópicos. Não pular este tópico. Dar destaque ao padrão de cobrança da banca, aos pontos mais cobrados e às pegadinhas recorrentes.",
+    "input_hash": "ee9a9a0bdcb5",
+    "extras": {}
+  },
+  "material": {
+    "material_id": "mat_001",
+    "slug": "atos-administrativos-nulos-anulaveis-inexistentes",
+    "title": "Atos Administrativos: Nulos, Anuláveis e Inexistentes",
+    "base_number": "4",
+    "topic_title": "4 Atos administrativos: 4.10 Atos administrativos nulos, anuláveis e inexistentes",
+    "purpose": "Concurso público",
+    "area_name": "Direito",
+    "subject_name": "Direito Administrativo",
+    "subarea_name": "Direito Administrativo",
+    "main_theme": "4 Atos administrativos: 4.10 Atos administrativos nulos, anuláveis e inexistentes",
+    "theme_scope": "Teoria completa, incidência em prova, padrão de cobrança da banca, pegadinhas e questões comentadas",
+    "board_style": "CEBRASPE",
+    "depth_level": "Exaustivo",
+    "study_goal": "Teoria completa, revisão estratégica, pegadinhas e questões comentadas",
+    "target_audience": "Candidato de concurso público",
+    "language_code": "português",
+    "update_status": "Atualizado em 2026",
+    "current_note": "Conteúdo revisado com base na legislação vigente, doutrina consolidada e jurisprudência atualizada do STF e STJ, incluindo o entendimento sobre o prazo decadencial da Lei nº 9.784/99.",
+    "has_case_law": true,
+    "case_law_justification": "A jurisprudência é fundamental para a compreensão dos atos administrativos inválidos, especialmente no que tange ao poder de autotutela da Administração (Súmula 473 do STF) e aos limites do prazo decadencial para anulação de atos inconstitucionais ou nulos de pleno direito.",
+    "has_information_limitation": false,
+    "information_limitation_desc": null,
+    "content_checksum": "placeholder_checksum_001",
+    "extras": {}
+  },
+  "blocos_textuais": [
+    {
+      "external_block_code": "blc_001",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 1,
+      "title": "Introdução aos Atos Administrativos Inválidos",
+      "content": "A validade dos atos administrativos é um pilar do Direito Administrativo, garantindo a conformidade da atuação estatal com o ordenamento jurídico. Contudo, nem sempre os atos nascem perfeitos, podendo apresentar vícios que os tornam nulos, anuláveis ou, em casos extremos, inexistentes. A compreensão dessas categorias é crucial para o controle da Administração Pública e a proteção dos direitos dos administrados. A banca CEBRASPE frequentemente explora as distinções, os efeitos e as possibilidades de saneamento desses atos, exigindo do candidato um conhecimento aprofundado e a capacidade de diferenciar as nuances de cada instituto.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_002",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 2,
+      "title": "Padrão de Cobrança CEBRASPE",
+      "content": "O CEBRASPE, em suas provas de Direito Administrativo, tem uma predileção por questões que exigem a diferenciação precisa entre atos nulos, anuláveis e inexistentes. É comum a cobrança sobre: a) a possibilidade ou impossibilidade de convalidação; b) os efeitos da anulação (ex tunc) e da revogação (ex nunc); c) o prazo decadencial para anulação de atos que geram efeitos favoráveis (Lei nº 9.784/99, art. 54) e suas exceções; d) a aplicação da Súmula 473 do STF; e) a identificação de vícios insanáveis e sanáveis. A banca costuma apresentar situações hipotéticas para que o candidato aplique os conceitos, muitas vezes misturando temas correlatos e explorando pegadinhas relacionadas aos prazos e à natureza dos vícios.",
+      "content_type": "teoria"
+    }
+  ],
+  "topicos": [
+    {
+      "external_topic_code": "top_001",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "4.10.1",
+      "title": "Ato Administrativo Nulo",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 1
+    },
+    {
+      "external_topic_code": "top_002",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "4.10.2",
+      "title": "Ato Administrativo Anulável",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 2
+    },
+    {
+      "external_topic_code": "top_003",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "4.10.3",
+      "title": "Ato Administrativo Inexistente",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 3
+    },
+    {
+      "external_topic_code": "top_004",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "4.10.4",
+      "title": "Convalidação dos Atos Administrativos",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 4
+    },
+    {
+      "external_topic_code": "top_005",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "4.10.5",
+      "title": "Anulação e Revogação: Distinções Essenciais",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 5
+    },
+    {
+      "external_topic_code": "top_006",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "4.10.6",
+      "title": "Prazo Decadencial para Anulação (Lei nº 9.784/99)",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 6
+    }
+  ],
+  "topico_componentes": [
+    {
+      "component_id": "cmp_001",
+      "topic_id": "top_001",
+      "component_type": "Definição",
+      "content": "Ato nulo é aquele que nasce com vício insanável, ou seja, um defeito grave em seus elementos essenciais (competência, finalidade, forma, motivo ou objeto) que impede sua conformidade com a lei.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_002",
+      "topic_id": "top_001",
+      "component_type": "Características",
+      "content": "Não produz efeitos jurídicos válidos desde sua origem (inexistência jurídica). Não é passível de convalidação. Sua anulação opera efeitos 'ex tunc' (retroativos). A Administração tem o dever de anulá-lo.",
+      "order": 2
+    },
+    {
+      "component_id": "cmp_003",
+      "topic_id": "top_002",
+      "component_type": "Definição",
+      "content": "Ato anulável é aquele que apresenta um vício de menor gravidade, considerado sanável, que o torna passível de invalidação, mas que produz efeitos jurídicos até que seja efetivamente anulado.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_004",
+      "topic_id": "top_002",
+      "component_type": "Características",
+      "content": "Produz efeitos jurídicos até a sua anulação. É passível de convalidação. Sua anulação geralmente opera efeitos 'ex nunc' (não retroativos), mas pode ser 'ex tunc' em casos de má-fé. A Administração pode anulá-lo.",
+      "order": 2
+    },
+    {
+      "component_id": "cmp_005",
+      "topic_id": "top_003",
+      "component_type": "Definição",
+      "content": "Ato inexistente é uma categoria que, para parte da doutrina, sequer ingressa no mundo jurídico, pois lhe falta um elemento essencial à sua própria constituição, não possuindo nem mesmo a aparência de ato administrativo.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_006",
+      "topic_id": "top_003",
+      "component_type": "Características",
+      "content": "Não produz qualquer efeito jurídico. Não está sujeito a prazos decadenciais ou prescricionais para sua declaração de inexistência. Exemplo clássico: ato praticado por usurpador de função.",
+      "order": 2
+    },
+    {
+      "component_id": "cmp_007",
+      "topic_id": "top_004",
+      "component_type": "Conceito",
+      "content": "Ato administrativo pelo qual a Administração Pública corrige um vício sanável em um ato anterior, aproveitando-o e conferindo-lhe validade desde sua origem (efeitos 'ex tunc').",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_008",
+      "topic_id": "top_004",
+      "component_type": "Requisitos",
+      "content": "Vício sanável (competência não exclusiva ou forma não essencial). Ausência de lesão ao interesse público. Ausência de prejuízo a terceiros.",
+      "order": 2
+    },
+    {
+      "component_id": "cmp_009",
+      "topic_id": "top_004",
+      "component_type": "Vícios Insanáveis (Não Convalidáveis)",
+      "content": "Vícios de finalidade, motivo e objeto.",
+      "order": 3
+    },
+    {
+      "component_id": "cmp_010",
+      "topic_id": "top_005",
+      "component_type": "Anulação",
+      "content": "Desfazimento de ato ilegal/inválido. Efeitos 'ex tunc'. Pode ser feita pela Administração ou Judiciário.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_011",
+      "topic_id": "top_005",
+      "component_type": "Revogação",
+      "content": "Desfazimento de ato válido, mas inoportuno/inconveniente. Efeitos 'ex nunc'. Somente pela Administração.",
+      "order": 2
+    },
+    {
+      "component_id": "cmp_012",
+      "topic_id": "top_006",
+      "component_type": "Regra Geral (Art. 54, Lei 9.784/99)",
+      "content": "Prazo decadencial de cinco anos para a Administração anular atos que gerem efeitos favoráveis, contado da data da prática do ato.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_013",
+      "topic_id": "top_006",
+      "component_type": "Exceções ao Prazo Decadencial",
+      "content": "Comprovada má-fé do beneficiário. Atos eivados de flagrante inconstitucionalidade ou nulidade absoluta (anulação a qualquer tempo).",
+      "order": 2
+    }
+  ],
+  "pegadinhas": [
+    {
+      "trap_id": "peg_001",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": "Pegadinha 1",
+      "description": "Confundir anulação com revogação: A anulação desfaz ato ILEGAL (efeitos ex tunc); a revogação desfaz ato VÁLIDO, mas inoportuno/inconveniente (efeitos ex nunc). O Judiciário ANULA, mas NÃO REVOGA.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 1
+    },
+    {
+      "trap_id": "peg_002",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": "Pegadinha 2",
+      "description": "Aplicar o prazo decadencial de 5 anos (Lei nº 9.784/99, art. 54) a atos flagrantemente inconstitucionais ou nulos de pleno direito. Nesses casos, a anulação pode ocorrer a qualquer tempo.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 2
+    },
+    {
+      "trap_id": "peg_003",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": "Pegadinha 3",
+      "description": "Achar que todo vício é sanável e permite convalidação. Vícios de finalidade, motivo e objeto são insanáveis e levam à nulidade, não à convalidação.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 3
+    },
+    {
+      "trap_id": "peg_004",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": "Pegadinha 4",
+      "description": "Considerar que o ato inexistente produz algum tipo de efeito jurídico ou que está sujeito a convalidação. O ato inexistente é um 'não-ato' e não produz efeitos.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 4
+    }
+  ],
+  "pontos_memorizacao": [
+    {
+      "memory_id": "mem_001",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": null,
+      "content": "Nulo: vício insanável, ex tunc, não convalida, dever de anular.",
+      "order": 1
+    },
+    {
+      "memory_id": "mem_002",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": null,
+      "content": "Anulável: vício sanável, ex nunc (regra), convalida, poder de anular.",
+      "order": 2
+    },
+    {
+      "memory_id": "mem_003",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": null,
+      "content": "Inexistente: falta elemento essencial, não produz efeitos, não convalida, declaração a qualquer tempo.",
+      "order": 3
+    },
+    {
+      "memory_id": "mem_004",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": null,
+      "content": "Convalidação: vícios de competência (não exclusiva) e forma (não essencial), sem lesão ao interesse público ou prejuízo a terceiros.",
+      "order": 4
+    },
+    {
+      "memory_id": "mem_005",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": null,
+      "content": "Lei 9.784/99, Art. 54: 5 anos para anular atos favoráveis, salvo má-fé ou nulidade absoluta/inconstitucionalidade flagrante.",
+      "order": 5
+    },
+    {
+      "memory_id": "mem_006",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": null,
+      "content": "Súmula 473 STF: Autotutela (anular ilegal, revogar inoportuno/inconveniente).",
+      "order": 6
+    }
+  ],
+  "quadro_sinotico_itens": [],
+  "questoes": [
+    {
+      "question_id": "qst_001",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": null,
+      "year": null,
+      "organization": null,
+      "role": null,
+      "statement": "Um ato administrativo eivado de vício de finalidade é considerado nulo e, por essa razão, não pode ser convalidado pela Administração Pública, devendo ser anulado com efeitos ex tunc.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "Certo. Vícios de finalidade são considerados insanáveis pela doutrina majoritária, tornando o ato nulo. Atos nulos não podem ser convalidados e devem ser anulados com efeitos retroativos (ex tunc).",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_001"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_002",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": null,
+      "year": null,
+      "organization": null,
+      "role": null,
+      "statement": "A anulação de um ato administrativo que gerou efeitos favoráveis a um particular de boa-fé, mesmo que eivado de vício sanável, sempre produzirá efeitos ex tunc, desconstituindo todos os efeitos desde a sua origem.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "Errado. Embora a anulação de atos nulos produza efeitos ex tunc, a anulação de atos anuláveis, especialmente quando geram efeitos favoráveis a particulares de boa-fé, tende a produzir efeitos ex nunc, preservando os efeitos já produzidos. A retroatividade (ex tunc) é a regra para atos nulos, mas para anuláveis, a regra é ex nunc, podendo ser ex tunc em casos de má-fé.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_002"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_003",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": null,
+      "year": null,
+      "organization": null,
+      "role": null,
+      "statement": "O ato administrativo praticado por um usurpador de função pública, por não possuir os elementos essenciais de um ato válido, é considerado inexistente e não está sujeito ao prazo decadencial para sua declaração de invalidade.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "Certo. O ato inexistente, como o praticado por um usurpador de função, carece de um elemento essencial (a investidura legal) e, portanto, não chega a existir no mundo jurídico. Não produz efeitos e não está sujeito a prazos decadenciais ou prescricionais.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_003"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_004",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": null,
+      "year": null,
+      "organization": null,
+      "role": null,
+      "statement": "A Lei nº 9.784/99 estabelece que o direito da Administração de anular atos administrativos que gerem efeitos favoráveis decai em cinco anos, prazo este que se aplica inclusive aos atos flagrantemente inconstitucionais.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "Errado. A jurisprudência do STF e do STJ é clara ao afastar a aplicação do prazo decadencial de cinco anos para atos flagrantemente inconstitucionais ou nulos de pleno direito, permitindo sua anulação a qualquer tempo.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_004"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_005",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": null,
+      "year": null,
+      "organization": null,
+      "role": null,
+      "statement": "Conforme a Súmula 473 do STF, a Administração Pública pode revogar seus próprios atos quando eivados de vícios de legalidade, respeitados os direitos adquiridos.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "Errado. A Súmula 473 do STF distingue: a Administração ANULA atos ILEGAIS (vícios de legalidade) e REVOGA atos VÁLIDOS, mas inoportunos ou inconvenientes (mérito). A revogação não se aplica a atos eivados de vícios de legalidade.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_005"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_006",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": null,
+      "year": null,
+      "organization": null,
+      "role": null,
+      "statement": "A convalidação de um ato administrativo com vício de competência, desde que esta não seja exclusiva, é possível e opera efeitos ex tunc, desde que não acarrete lesão ao interesse público ou prejuízo a terceiros.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "Certo. Vícios de competência (desde que não exclusiva) e de forma (desde que não essencial) são considerados sanáveis e permitem a convalidação, que opera efeitos ex tunc, desde que observados os limites do interesse público e de terceiros.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_006"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_007",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": null,
+      "year": null,
+      "organization": null,
+      "role": null,
+      "statement": "O Poder Judiciário, no exercício de suas funções, pode tanto anular quanto revogar atos administrativos, desde que haja provocação do interessado e sejam respeitados os princípios da legalidade e da conveniência e oportunidade.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "Errado. O Poder Judiciário pode ANULAR atos administrativos ilegais, mas não pode REVOGÁ-los, pois a revogação envolve juízo de conveniência e oportunidade (mérito), que é privativo da Administração Pública.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_007"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_008",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": null,
+      "year": null,
+      "organization": null,
+      "role": null,
+      "statement": "A má-fé do beneficiário de um ato administrativo que gerou efeitos favoráveis afasta a aplicação do prazo decadencial de cinco anos para a sua anulação pela Administração Pública.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "Certo. A Lei nº 9.784/99, em seu art. 54, expressamente ressalva a aplicação do prazo decadencial de cinco anos nos casos de comprovada má-fé do beneficiário.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_008"
+        ],
+        "count": 1
+      }
+    }
+  ],
+  "comentarios_questoes": [
+    {
+      "comment_id": "com_001",
+      "question_id": "qst_001",
+      "content": "Certo. Vícios de finalidade são considerados insanáveis pela doutrina majoritária, tornando o ato nulo. Atos nulos não podem ser convalidados e devem ser anulados com efeitos retroativos (ex tunc).",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_002",
+      "question_id": "qst_002",
+      "content": "Errado. Embora a anulação de atos nulos produza efeitos ex tunc, a anulação de atos anuláveis, especialmente quando geram efeitos favoráveis a particulares de boa-fé, tende a produzir efeitos ex nunc, preservando os efeitos já produzidos. A retroatividade (ex tunc) é a regra para atos nulos, mas para anuláveis, a regra é ex nunc, podendo ser ex tunc em casos de má-fé.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_003",
+      "question_id": "qst_003",
+      "content": "Certo. O ato inexistente, como o praticado por um usurpador de função, carece de um elemento essencial (a investidura legal) e, portanto, não chega a existir no mundo jurídico. Não produz efeitos e não está sujeito a prazos decadenciais ou prescricionais.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_004",
+      "question_id": "qst_004",
+      "content": "Errado. A jurisprudência do STF e do STJ é clara ao afastar a aplicação do prazo decadencial de cinco anos para atos flagrantemente inconstitucionais ou nulos de pleno direito, permitindo sua anulação a qualquer tempo.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_005",
+      "question_id": "qst_005",
+      "content": "Errado. A Súmula 473 do STF distingue: a Administração ANULA atos ILEGAIS (vícios de legalidade) e REVOGA atos VÁLIDOS, mas inoportunos ou inconvenientes (mérito). A revogação não se aplica a atos eivados de vícios de legalidade.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_006",
+      "question_id": "qst_006",
+      "content": "Certo. Vícios de competência (desde que não exclusiva) e de forma (desde que não essencial) são considerados sanáveis e permitem a convalidação, que opera efeitos ex tunc, desde que observados os limites do interesse público e de terceiros.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_007",
+      "question_id": "qst_007",
+      "content": "Errado. O Poder Judiciário pode ANULAR atos administrativos ilegais, mas não pode REVOGÁ-los, pois a revogação envolve juízo de conveniência e oportunidade (mérito), que é privativo da Administração Pública.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_008",
+      "question_id": "qst_008",
+      "content": "Certo. A Lei nº 9.784/99, em seu art. 54, expressamente ressalva a aplicação do prazo decadencial de cinco anos nos casos de comprovada má-fé do beneficiário.",
+      "explanation_alternatives": ""
+    }
+  ],
+  "checklist_revisao": [
+    {
+      "checklist_id": "chk_001",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Diferenciar ato nulo, anulável e inexistente.",
+      "completed": false,
+      "order": 1
+    },
+    {
+      "checklist_id": "chk_002",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Compreender os efeitos ex tunc e ex nunc na anulação e revogação.",
+      "completed": false,
+      "order": 2
+    },
+    {
+      "checklist_id": "chk_003",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Identificar os vícios sanáveis e insanáveis para fins de convalidação.",
+      "completed": false,
+      "order": 3
+    },
+    {
+      "checklist_id": "chk_004",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Conhecer o prazo decadencial do Art. 54 da Lei nº 9.784/99 e suas exceções.",
+      "completed": false,
+      "order": 4
+    },
+    {
+      "checklist_id": "chk_005",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Dominar a Súmula 473 do STF e o princípio da autotutela.",
+      "completed": false,
+      "order": 5
+    },
+    {
+      "checklist_id": "chk_006",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Saber que o Judiciário anula, mas não revoga.",
+      "completed": false,
+      "order": 6
+    },
+    {
+      "checklist_id": "chk_007",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Reconhecer que o ato inexistente não produz efeitos e não se convalida.",
+      "completed": false,
+      "order": 7
+    }
+  ],
+  "referencias": [
+    {
+      "reference_id": "ref_001",
+      "material_id": "mat_001",
+      "reference_type": "Legislação",
+      "author_name": null,
+      "title": "Constituição da República Federativa do Brasil de 1988",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "http://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_002",
+      "material_id": "mat_001",
+      "reference_type": "Legislação",
+      "author_name": null,
+      "title": "Lei nº 9.784, de 29 de janeiro de 1999",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "http://www.planalto.gov.br/ccivil_03/leis/l9784.htm",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_003",
+      "material_id": "mat_001",
+      "reference_type": "Súmula",
+      "author_name": null,
+      "title": "Súmula 473 do Supremo Tribunal Federal",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://portal.stf.jus.br/textos/verTexto.asp?id=25577",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_004",
+      "material_id": "mat_001",
+      "reference_type": "Doutrina",
+      "author_name": null,
+      "title": "MELLO, Celso Antônio Bandeira de. Curso de Direito Administrativo.",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": null,
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_005",
+      "material_id": "mat_001",
+      "reference_type": "Doutrina",
+      "author_name": null,
+      "title": "DI PIETRO, Maria Sylvia Zanella. Direito Administrativo.",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": null,
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_006",
+      "material_id": "mat_001",
+      "reference_type": "Doutrina",
+      "author_name": null,
+      "title": "MEIRELLES, Hely Lopes. Direito Administrativo Brasileiro.",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": null,
+      "accessed_at": null,
+      "description": null
+    }
+  ],
+  "estatisticas_de_geracao": {
+    "total_topicos": 6,
+    "total_componentes_topico": 13,
+    "total_entendimentos_relevantes": 3,
+    "total_pegadinhas": 4,
+    "total_pontos_memorizacao": 6,
+    "total_itens_quadro_sinotico": 0,
+    "total_questoes": 8,
+    "total_comentarios_questoes": 8,
+    "total_itens_checklist": 7,
+    "total_referencias": 6
+  },
+  "validacao_interna": {
+    "pesquisa_previa_realizada": true,
+    "analise_de_cobrancas_anteriores_realizada": true,
+    "material_atualizado": true,
+    "json_valido": true,
+    "estrutura_relacional_respeitada": true,
+    "numeracao_respeitada": true,
+    "houve_quebra_de_hierarquia": false,
+    "houve_nivel_numerico_superior_a_3": false,
+    "fontes_verificadas": true,
+    "sem_informacao_inventada": true
+  },
+  "metadata": {
+    "source_file_name": "4__direito-administrativo__4-atos-administrativos-4.10-atos-administrativos-nulos-anuláveis-e-inexistentes.json",
+    "normalized_checksum": "e28b8588b1b02434f8918e492c93afe9ee61868243a87e33a67867ef641d94f1",
+    "subject_slug": "dir-adm",
+    "material_slug": "atos-administrativos-nulos-anulaveis",
+    "title_slug": "atos-administrativos-nulos-anulaveis-e",
+    "board_slug": "cebraspe",
+    "counters": {
+      "blocks": 2,
+      "topics": 6,
+      "topic_components": 13,
+      "traps": 4,
+      "memory_points": 6,
+      "summary_items": 0,
+      "questions": 8,
+      "question_comments": 8,
+      "checklist_items": 7,
+      "references": 6
+    }
+  }
+}

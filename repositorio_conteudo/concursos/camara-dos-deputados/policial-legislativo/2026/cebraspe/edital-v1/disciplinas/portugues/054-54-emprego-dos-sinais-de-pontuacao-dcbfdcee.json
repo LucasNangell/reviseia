@@ -1,0 +1,992 @@
+{
+  "schema_version": "1.0",
+  "normalized_at": "2026-04-07T15:39:15.053922-03:00",
+  "normalizer_version": "2.0.0",
+  "exported_at": "2026-04-06T20:06:00Z",
+  "source_request": {
+    "purpose": "Concurso público",
+    "general_area": "Linguagens",
+    "subject_name": "Língua Portuguesa",
+    "subarea_name": "Gramática, interpretação e reescrita",
+    "main_theme": "5 Domínio da estrutura morfossintática do período: 5.4 Emprego dos sinais de pontuação",
+    "theme_scope": "Teoria completa, incidência em prova, padrão de cobrança da banca, pegadinhas e questões comentadas",
+    "board_style": "CEBRASPE",
+    "depth_level": "Exaustivo",
+    "goal": "Teoria completa, revisão estratégica, pegadinhas e questões comentadas",
+    "base_topic_number": "5",
+    "topic_title": "5 Domínio da estrutura morfossintática do período: 5.4 Emprego dos sinais de pontuação",
+    "syllabus_reference": "Conteúdo programático da disciplina Língua Portuguesa",
+    "priority_sources": [
+      "Gramáticas e manuais reconhecidos",
+      "Bibliografia técnica consolidada",
+      "Questões anteriores da banca"
+    ],
+    "minimum_questions": 8,
+    "question_format": "Certo/Errado",
+    "prioritize_real_questions": true,
+    "response_language": "português",
+    "target_audience": "Candidato de concurso público",
+    "additional_notes": "Executar exatamente para esta linha individual do topicos.txt. Não juntar com outros tópicos. Não pular este tópico. Dar destaque ao padrão de cobrança da banca, aos pontos mais cobrados e às pegadinhas recorrentes.",
+    "input_hash": "c920d8ecc908",
+    "extras": {}
+  },
+  "material": {
+    "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-54-emprego-dos-sinais-de-pontuação",
+    "slug": "emprego-sinais-pontuacao-cebraspe",
+    "title": "Emprego dos Sinais de Pontuação para Concursos (CEBRASPE)",
+    "base_number": "5.4",
+    "topic_title": "5.4 Emprego dos Sinais de Pontuação",
+    "purpose": "Concurso público",
+    "area_name": "Linguagens",
+    "subject_name": "Língua Portuguesa",
+    "subarea_name": "Gramática, interpretação e reescrita",
+    "main_theme": "Domínio da estrutura morfossintática do período: Emprego dos sinais de pontuação",
+    "theme_scope": "Teoria completa, incidência em prova, padrão de cobrança da banca, pegadinhas e questões comentadas",
+    "board_style": "CEBRASPE",
+    "depth_level": "Exaustivo",
+    "study_goal": "Teoria completa, revisão estratégica, pegadinhas e questões comentadas",
+    "target_audience": "Candidato de concurso público",
+    "language_code": "português",
+    "update_status": "Atualizado em 2026",
+    "current_note": "As regras gramaticais de pontuação são estáveis, mas a incidência e o padrão de cobrança da banca CEBRASPE foram atualizados com base em questões recentes.",
+    "has_case_law": false,
+    "case_law_justification": "A matéria de Língua Portuguesa, especificamente o emprego dos sinais de pontuação, não exige o uso de jurisprudência. O foco é na norma-padrão da gramática e no padrão de cobrança da banca.",
+    "has_information_limitation": false,
+    "information_limitation_desc": null,
+    "content_checksum": "placeholder_checksum_gerado_apos_conteudo",
+    "extras": {}
+  },
+  "blocos_textuais": [
+    {
+      "external_block_code": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-54-emprego-dos-sinais-de-pontuação_blc_001",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-54-emprego-dos-sinais-de-pontuação",
+      "topic_id": null,
+      "order": 1,
+      "title": "Introdução ao Emprego dos Sinais de Pontuação",
+      "content": "Os sinais de pontuação são recursos gráficos que organizam a estrutura sintática do texto, indicam pausas e entonações, e contribuem para a clareza e a coesão textual. Para concursos públicos, especialmente os organizados pelo CEBRASPE, o domínio da pontuação vai além da mera indicação de pausas, exigindo a compreensão das regras gramaticais que justificam seu uso ou ausência. A banca CEBRASPE frequentemente explora a pontuação em questões de correção gramatical, reescrita de frases e identificação de alterações de sentido.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-54-emprego-dos-sinais-de-pontuação_blc_002",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-54-emprego-dos-sinais-de-pontuação",
+      "topic_id": null,
+      "order": 2,
+      "title": "A Vírgula (,) - O Sinal Mais Cobrado pelo CEBRASPE",
+      "content": "A vírgula é o sinal de pontuação mais cobrado em provas do CEBRASPE, e seu uso incorreto é uma das principais 'pegadinhas'. A regra de ouro é: **NÃO SEPARA** termos que possuem forte ligação sintática. Isso inclui: sujeito e predicado; verbo e seus complementos (objeto direto, objeto indireto); nome e seu complemento nominal; nome e seu adjunto adnominal; predicativo do objeto e objeto; oração subordinada substantiva da oração principal.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-54-emprego-dos-sinais-de-pontuação_blc_003",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-54-emprego-dos-sinais-de-pontuação",
+      "topic_id": null,
+      "order": 3,
+      "title": "Usos Obrigatórios da Vírgula",
+      "content": "A vírgula é de uso obrigatório nas seguintes situações: <ul><li>Para separar elementos de mesma função sintática em uma enumeração (termos coordenados). Ex: 'Ele comprou livros, cadernos, canetas e lápis.'</li><li>Para isolar o vocativo. Ex: 'Maria, venha cá!'</li><li>Para isolar o aposto explicativo. Ex: 'João, meu amigo, foi aprovado.'</li><li>Para isolar expressões explicativas, retificativas ou conclusivas (isto é, ou seja, por exemplo, aliás, em suma, etc.).</li><li>Para isolar adjuntos adverbiais deslocados de longa extensão (geralmente, mais de três palavras). Ex: 'Naquela manhã fria de inverno, todos saíram cedo.'</li><li>Para isolar orações subordinadas adjetivas explicativas. Ex: 'O homem, que é um ser racional, comete erros.'</li><li>Para separar orações coordenadas assindéticas. Ex: 'Chegou, viu, venceu.'</li><li>Para separar orações coordenadas sindéticas adversativas, conclusivas e explicativas. Ex: 'Estudou muito, mas não passou.'</li><li>Para indicar a elipse (zeugma) de um verbo. Ex: 'Eu gosto de português; ele, de matemática.'</li><li>Para isolar orações subordinadas adverbiais deslocadas (antecipadas ou intercaladas), sejam desenvolvidas ou reduzidas. Ex: 'Quando o prazo for encerrado, ninguém mais poderá se inscrever.'</li></ul>",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-54-emprego-dos-sinais-de-pontuação_blc_004",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-54-emprego-dos-sinais-de-pontuação",
+      "topic_id": null,
+      "order": 4,
+      "title": "Usos Facultativos da Vírgula",
+      "content": "A vírgula é facultativa em algumas situações, e o CEBRASPE pode explorar essa flexibilidade: <ul><li>Antes da conjunção 'e' quando ligar orações com sujeitos diferentes. Ex: 'Eu estudava, e meus colegas se divertiam.' (CEBRASPE considera facultativo).</li><li>Antes da conjunção 'e' quando ela tiver valor adversativo. Ex: 'Ele caiu, e não se machucou.'</li><li>Para isolar adjuntos adverbiais de curta extensão (até três palavras) deslocados. Ex: 'Ontem, choveu muito.' ou 'Ontem choveu muito.'</li></ul>",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-54-emprego-dos-sinais-de-pontuação_blc_005",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-54-emprego-dos-sinais-de-pontuação",
+      "topic_id": null,
+      "order": 5,
+      "title": "Ponto e Vírgula (;)",
+      "content": "O ponto e vírgula indica uma pausa mais longa que a vírgula e menor que o ponto final. Seus principais usos são: <ul><li>Separar orações coordenadas que já contêm vírgulas ou que possuem certa autonomia de sentido. Ex: 'Uns estudam muito; outros, nem tanto.'</li><li>Separar itens de uma enumeração complexa, como em leis, decretos ou artigos. Ex: 'Art. 1º ...; Art. 2º ...'</li><li>Vincular argumentos ou ideias que, embora distintas, se complementam no período.</li></ul>",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-54-emprego-dos-sinais-de-pontuação_blc_006",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-54-emprego-dos-sinais-de-pontuação",
+      "topic_id": null,
+      "order": 6,
+      "title": "Dois-pontos (:)",
+      "content": "Os dois-pontos são empregados para introduzir: <ul><li>Uma citação ou a fala de alguém. Ex: 'Ele disse: – Não irei.'</li><li>Uma explicação, um esclarecimento ou uma consequência do que foi dito anteriormente. Ex: 'Só tinha uma certeza: seria aprovado.'</li><li>Uma enumeração. Ex: 'Comprei vários itens: pão, leite e queijo.'</li></ul>O CEBRASPE costuma cobrar a substituição dos dois-pontos por outros sinais, como o travessão, verificando a manutenção da correção e do sentido.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-54-emprego-dos-sinais-de-pontuação_blc_007",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-54-emprego-dos-sinais-de-pontuação",
+      "topic_id": null,
+      "order": 7,
+      "title": "Outros Sinais de Pontuação",
+      "content": "Outros sinais também são relevantes: <ul><li>**Ponto final (.)**: Indica o fim de uma frase declarativa ou imperativa.</li><li>**Ponto de interrogação (?)**: Usado no final de frases interrogativas diretas.</li><li>**Ponto de exclamação (!)**: Usado no final de frases exclamativas, expressando emoção.</li><li>**Travessão (—)**: Pode substituir vírgulas ou parênteses para isolar termos explicativos, comentários ou para indicar a fala de personagens no discurso direto.</li><li>**Parênteses ( )**: Usados para isolar informações acessórias, explicações, datas ou siglas. Podem ser substituídos por vírgulas ou travessões em muitos contextos.</li><li>**Aspas (“ ”)**: Usadas para citações diretas, destacar estrangeirismos, gírias, neologismos ou indicar ironia.</li><li>**Reticências (...)**: Indicam interrupção, hesitação, supressão de parte de um texto ou continuidade de uma ideia.</li></ul>",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-54-emprego-dos-sinais-de-pontuação_blc_008",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-54-emprego-dos-sinais-de-pontuação",
+      "topic_id": null,
+      "order": 8,
+      "title": "Padrão de Cobrança do CEBRASPE e Pegadinhas Comuns",
+      "content": "O CEBRASPE é conhecido por sua abordagem rigorosa e por questões que exigem atenção aos detalhes e à lógica gramatical. As principais características e pegadinhas incluem: <ul><li>**Alteração de sentido**: A remoção ou inserção de um sinal de pontuação pode alterar o sentido original da frase, mesmo que a correção gramatical seja mantida. Isso é frequentemente cobrado.</li><li>**Vírgula entre sujeito e predicado/verbo e complemento**: A violação dessa regra básica é a pegadinha mais comum.</li><li>**Adjuntos adverbiais**: A banca testa o conhecimento sobre a obrigatoriedade ou facultatividade da vírgula em adjuntos adverbiais deslocados, especialmente os de curta extensão.</li><li>**Orações adjetivas**: Distinção entre orações adjetivas explicativas (com vírgula, alteram o sentido se removida) e restritivas (sem vírgula, alteram o sentido se inserida).</li><li>**Substituição de sinais**: Perguntas sobre a possibilidade de substituir um sinal por outro (ex: vírgula por travessão, dois-pontos por travessão) sem prejuízo da correção e do sentido.</li><li>**Conjunção 'e'**: A vírgula antes do 'e' é um ponto sensível. Lembre-se da facultatividade com sujeitos diferentes ou valor adversativo.</li><li>**Coerência e coesão**: A pontuação é avaliada não apenas pela correção gramatical, mas também por sua contribuição para a coerência e coesão textual.</li></ul>",
+      "content_type": "teoria"
+    }
+  ],
+  "topicos": [
+    {
+      "external_topic_code": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-54-emprego-dos-sinais-de-pontuação_top_001",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-54-emprego-dos-sinais-de-pontuação",
+      "parent_topic_id": null,
+      "topic_number": "5.4.1",
+      "title": "Função e Importância dos Sinais de Pontuação",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 1
+    },
+    {
+      "external_topic_code": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-54-emprego-dos-sinais-de-pontuação_top_002",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-54-emprego-dos-sinais-de-pontuação",
+      "parent_topic_id": null,
+      "topic_number": "5.4.2",
+      "title": "A Vírgula: Regras Essenciais e Casos Específicos",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 2
+    },
+    {
+      "external_topic_code": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-54-emprego-dos-sinais-de-pontuação_top_003",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-54-emprego-dos-sinais-de-pontuação",
+      "parent_topic_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-54-emprego-dos-sinais-de-pontuação_top_002",
+      "topic_number": "5.4.2.1",
+      "title": "Usos Obrigatórios da Vírgula",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 3
+    },
+    {
+      "external_topic_code": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-54-emprego-dos-sinais-de-pontuação_top_004",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-54-emprego-dos-sinais-de-pontuação",
+      "parent_topic_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-54-emprego-dos-sinais-de-pontuação_top_002",
+      "topic_number": "5.4.2.2",
+      "title": "Usos Facultativos da Vírgula",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 4
+    },
+    {
+      "external_topic_code": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-54-emprego-dos-sinais-de-pontuação_top_005",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-54-emprego-dos-sinais-de-pontuação",
+      "parent_topic_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-54-emprego-dos-sinais-de-pontuação_top_002",
+      "topic_number": "5.4.2.3",
+      "title": "Casos Proibidos da Vírgula (Pegadinhas CEBRASPE)",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 5
+    },
+    {
+      "external_topic_code": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-54-emprego-dos-sinais-de-pontuação_top_006",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-54-emprego-dos-sinais-de-pontuação",
+      "parent_topic_id": null,
+      "topic_number": "5.4.3",
+      "title": "Ponto e Vírgula (;)",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 6
+    },
+    {
+      "external_topic_code": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-54-emprego-dos-sinais-de-pontuação_top_007",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-54-emprego-dos-sinais-de-pontuação",
+      "parent_topic_id": null,
+      "topic_number": "5.4.4",
+      "title": "Dois-pontos (:)",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 7
+    },
+    {
+      "external_topic_code": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-54-emprego-dos-sinais-de-pontuação_top_008",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-54-emprego-dos-sinais-de-pontuação",
+      "parent_topic_id": null,
+      "topic_number": "5.4.5",
+      "title": "Travessão (—) e Parênteses ( )",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 8
+    },
+    {
+      "external_topic_code": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-54-emprego-dos-sinais-de-pontuação_top_009",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-54-emprego-dos-sinais-de-pontuação",
+      "parent_topic_id": null,
+      "topic_number": "5.4.6",
+      "title": "Aspas (“ ”) e Reticências (...)",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 9
+    },
+    {
+      "external_topic_code": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-54-emprego-dos-sinais-de-pontuação_top_010",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-54-emprego-dos-sinais-de-pontuação",
+      "parent_topic_id": null,
+      "topic_number": "5.4.7",
+      "title": "Ponto Final (.), Interrogação (?) e Exclamação (!)",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 10
+    },
+    {
+      "external_topic_code": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-54-emprego-dos-sinais-de-pontuação_top_011",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-54-emprego-dos-sinais-de-pontuação",
+      "parent_topic_id": null,
+      "topic_number": "5.4.8",
+      "title": "Padrão de Cobrança CEBRASPE: Análise e Estratégias",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 11
+    }
+  ],
+  "topico_componentes": [
+    {
+      "component_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-54-emprego-dos-sinais-de-pontuação_cmp_001",
+      "topic_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-54-emprego-dos-sinais-de-pontuação_top_001",
+      "component_type": "conceito",
+      "content": "Sinais de pontuação são marcas gráficas que auxiliam na organização sintática, na indicação de pausas e entonações, e na construção de sentido do texto escrito.",
+      "order": 1
+    },
+    {
+      "component_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-54-emprego-dos-sinais-de-pontuação_cmp_002",
+      "topic_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-54-emprego-dos-sinais-de-pontuação_top_002",
+      "component_type": "regra_geral",
+      "content": "A vírgula não deve separar termos que possuem forte ligação sintática, como sujeito e predicado, ou verbo e seus complementos.",
+      "order": 2
+    },
+    {
+      "component_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-54-emprego-dos-sinais-de-pontuação_cmp_003",
+      "topic_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-54-emprego-dos-sinais-de-pontuação_top_003",
+      "component_type": "regra_especifica",
+      "content": "Separação de termos coordenados em enumerações. Ex: 'Comprei pão, leite e ovos.'",
+      "order": 3
+    },
+    {
+      "component_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-54-emprego-dos-sinais-de-pontuação_cmp_004",
+      "topic_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-54-emprego-dos-sinais-de-pontuação_top_003",
+      "component_type": "regra_especifica",
+      "content": "Isolamento de vocativos. Ex: 'Amigos, vamos estudar!'",
+      "order": 4
+    },
+    {
+      "component_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-54-emprego-dos-sinais-de-pontuação_cmp_005",
+      "topic_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-54-emprego-dos-sinais-de-pontuação_top_003",
+      "component_type": "regra_especifica",
+      "content": "Isolamento de apostos explicativos. Ex: 'Machado de Assis, o bruxo do Cosme Velho, é um gênio.'",
+      "order": 5
+    },
+    {
+      "component_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-54-emprego-dos-sinais-de-pontuação_cmp_006",
+      "topic_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-54-emprego-dos-sinais-de-pontuação_top_003",
+      "component_type": "regra_especifica",
+      "content": "Isolamento de expressões explicativas, retificativas ou conclusivas (ex: isto é, ou seja, por exemplo).",
+      "order": 6
+    },
+    {
+      "component_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-54-emprego-dos-sinais-de-pontuação_cmp_007",
+      "topic_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-54-emprego-dos-sinais-de-pontuação_top_003",
+      "component_type": "regra_especifica",
+      "content": "Isolamento de adjuntos adverbiais deslocados de longa extensão (mais de três palavras).",
+      "order": 7
+    },
+    {
+      "component_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-54-emprego-dos-sinais-de-pontuação_cmp_008",
+      "topic_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-54-emprego-dos-sinais-de-pontuação_top_003",
+      "component_type": "regra_especifica",
+      "content": "Isolamento de orações subordinadas adjetivas explicativas.",
+      "order": 8
+    },
+    {
+      "component_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-54-emprego-dos-sinais-de-pontuação_cmp_009",
+      "topic_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-54-emprego-dos-sinais-de-pontuação_top_003",
+      "component_type": "regra_especifica",
+      "content": "Separação de orações coordenadas assindéticas.",
+      "order": 9
+    },
+    {
+      "component_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-54-emprego-dos-sinais-de-pontuação_cmp_010",
+      "topic_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-54-emprego-dos-sinais-de-pontuação_top_003",
+      "component_type": "regra_especifica",
+      "content": "Separação de orações coordenadas sindéticas adversativas, conclusivas e explicativas.",
+      "order": 10
+    },
+    {
+      "component_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-54-emprego-dos-sinais-de-pontuação_cmp_011",
+      "topic_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-54-emprego-dos-sinais-de-pontuação_top_003",
+      "component_type": "regra_especifica",
+      "content": "Indicação de elipse (zeugma) de um verbo.",
+      "order": 11
+    },
+    {
+      "component_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-54-emprego-dos-sinais-de-pontuação_cmp_012",
+      "topic_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-54-emprego-dos-sinais-de-pontuação_top_003",
+      "component_type": "regra_especifica",
+      "content": "Isolamento de orações subordinadas adverbiais deslocadas (antecipadas ou intercaladas).",
+      "order": 12
+    },
+    {
+      "component_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-54-emprego-dos-sinais-de-pontuação_cmp_013",
+      "topic_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-54-emprego-dos-sinais-de-pontuação_top_004",
+      "component_type": "regra_especifica",
+      "content": "Antes da conjunção 'e' quando ligar orações com sujeitos diferentes (padrão CEBRASPE).",
+      "order": 13
+    },
+    {
+      "component_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-54-emprego-dos-sinais-de-pontuação_cmp_014",
+      "topic_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-54-emprego-dos-sinais-de-pontuação_top_004",
+      "component_type": "regra_especifica",
+      "content": "Antes da conjunção 'e' com valor adversativo.",
+      "order": 14
+    },
+    {
+      "component_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-54-emprego-dos-sinais-de-pontuação_cmp_015",
+      "topic_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-54-emprego-dos-sinais-de-pontuação_top_004",
+      "component_type": "regra_especifica",
+      "content": "Isolamento de adjuntos adverbiais de curta extensão (até três palavras) deslocados.",
+      "order": 15
+    },
+    {
+      "component_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-54-emprego-dos-sinais-de-pontuação_cmp_016",
+      "topic_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-54-emprego-dos-sinais-de-pontuação_top_005",
+      "component_type": "erro_comum",
+      "content": "Separar sujeito e predicado. Ex: 'O aluno, estudou muito.'",
+      "order": 16
+    },
+    {
+      "component_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-54-emprego-dos-sinais-de-pontuação_cmp_017",
+      "topic_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-54-emprego-dos-sinais-de-pontuação_top_005",
+      "component_type": "erro_comum",
+      "content": "Separar verbo e seus complementos (objeto direto/indireto). Ex: 'Ele comprou, um livro.'",
+      "order": 17
+    },
+    {
+      "component_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-54-emprego-dos-sinais-de-pontuação_cmp_018",
+      "topic_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-54-emprego-dos-sinais-de-pontuação_top_006",
+      "component_type": "regra_geral",
+      "content": "Indica pausa intermediária, usada para separar orações coordenadas ou itens de enumerações complexas.",
+      "order": 18
+    },
+    {
+      "component_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-54-emprego-dos-sinais-de-pontuação_cmp_019",
+      "topic_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-54-emprego-dos-sinais-de-pontuação_top_007",
+      "component_type": "regra_geral",
+      "content": "Introduz citação, explicação, esclarecimento ou enumeração.",
+      "order": 19
+    },
+    {
+      "component_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-54-emprego-dos-sinais-de-pontuação_cmp_020",
+      "topic_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-54-emprego-dos-sinais-de-pontuação_top_008",
+      "component_type": "regra_geral",
+      "content": "Isolam termos explicativos ou comentários; travessão também indica fala de personagem. Podem ser substituíveis por vírgulas em contextos explicativos.",
+      "order": 20
+    },
+    {
+      "component_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-54-emprego-dos-sinais-de-pontuação_cmp_021",
+      "topic_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-54-emprego-dos-sinais-de-pontuação_top_009",
+      "component_type": "regra_geral",
+      "content": "Aspas para citações, estrangeirismos, ironia. Reticências para interrupção, hesitação ou supressão.",
+      "order": 21
+    },
+    {
+      "component_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-54-emprego-dos-sinais-de-pontuação_cmp_022",
+      "topic_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-54-emprego-dos-sinais-de-pontuação_top_010",
+      "component_type": "regra_geral",
+      "content": "Ponto final encerra frases declarativas. Interrogação para perguntas diretas. Exclamação para expressar emoção.",
+      "order": 22
+    },
+    {
+      "component_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-54-emprego-dos-sinais-de-pontuação_cmp_023",
+      "topic_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-54-emprego-dos-sinais-de-pontuação_top_011",
+      "component_type": "estrategia",
+      "content": "Foco na justificativa gramatical da pontuação, não apenas na pausa.",
+      "order": 23
+    },
+    {
+      "component_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-54-emprego-dos-sinais-de-pontuação_cmp_024",
+      "topic_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-54-emprego-dos-sinais-de-pontuação_top_011",
+      "component_type": "estrategia",
+      "content": "Atenção às pegadinhas de vírgula entre sujeito/predicado e verbo/complemento.",
+      "order": 24
+    },
+    {
+      "component_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-54-emprego-dos-sinais-de-pontuação_cmp_025",
+      "topic_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-54-emprego-dos-sinais-de-pontuação_top_011",
+      "component_type": "estrategia",
+      "content": "Analisar se a alteração da pontuação modifica o sentido da frase.",
+      "order": 25
+    },
+    {
+      "component_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-54-emprego-dos-sinais-de-pontuação_cmp_026",
+      "topic_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-54-emprego-dos-sinais-de-pontuação_top_011",
+      "component_type": "estrategia",
+      "content": "Praticar questões de reescrita e substituição de sinais.",
+      "order": 26
+    }
+  ],
+  "pegadinhas": [
+    {
+      "trap_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-54-emprego-dos-sinais-de-pontuação_peg_001",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-54-emprego-dos-sinais-de-pontuação",
+      "topic_id": null,
+      "title": "Vírgula entre Sujeito e Predicado",
+      "description": "A CEBRASPE frequentemente insere uma vírgula entre o sujeito e o predicado, mesmo que o sujeito seja longo, para induzir ao erro. Lembre-se: essa separação é sempre incorreta.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 1
+    },
+    {
+      "trap_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-54-emprego-dos-sinais-de-pontuação_peg_002",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-54-emprego-dos-sinais-de-pontuação",
+      "topic_id": null,
+      "title": "Vírgula entre Verbo e Complemento",
+      "description": "Separar o verbo de seu objeto direto ou indireto por vírgula é um erro comum explorado pela banca.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 2
+    },
+    {
+      "trap_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-54-emprego-dos-sinais-de-pontuação_peg_003",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-54-emprego-dos-sinais-de-pontuação",
+      "topic_id": null,
+      "title": "Vírgula antes do 'e' com Sujeitos Diferentes",
+      "description": "Embora a vírgula antes do 'e' seja facultativa quando liga orações com sujeitos diferentes, a banca pode questionar sua obrigatoriedade ou incorreção. Para o CEBRASPE, é facultativa.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 3
+    },
+    {
+      "trap_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-54-emprego-dos-sinais-de-pontuação_peg_004",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-54-emprego-dos-sinais-de-pontuação",
+      "topic_id": null,
+      "title": "Alteração de Sentido em Orações Adjetivas",
+      "description": "A supressão ou inserção de vírgulas em orações adjetivas (explicativas/restritivas) altera o sentido da frase, mesmo que a correção gramatical seja mantida. A CEBRASPE adora essa nuance.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 4
+    },
+    {
+      "trap_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-54-emprego-dos-sinais-de-pontuação_peg_005",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-54-emprego-dos-sinais-de-pontuação",
+      "topic_id": null,
+      "title": "Adjuntos Adverbiais de Curta Extensão Deslocados",
+      "description": "A vírgula é facultativa para adjuntos adverbiais deslocados de curta extensão (até 3 palavras). A banca pode afirmar que é obrigatória ou proibida, testando o conhecimento da facultatividade.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 5
+    }
+  ],
+  "pontos_memorizacao": [
+    {
+      "memory_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-54-emprego-dos-sinais-de-pontuação_mem_001",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-54-emprego-dos-sinais-de-pontuação",
+      "topic_id": null,
+      "title": null,
+      "content": "Nunca separe sujeito e predicado, nem verbo e complemento com vírgula.",
+      "order": 1
+    },
+    {
+      "memory_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-54-emprego-dos-sinais-de-pontuação_mem_002",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-54-emprego-dos-sinais-de-pontuação",
+      "topic_id": null,
+      "title": null,
+      "content": "Vírgula obrigatória para vocativo, aposto explicativo e orações adjetivas explicativas.",
+      "order": 2
+    },
+    {
+      "memory_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-54-emprego-dos-sinais-de-pontuação_mem_003",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-54-emprego-dos-sinais-de-pontuação",
+      "topic_id": null,
+      "title": null,
+      "content": "Adjuntos adverbiais deslocados longos (4+ palavras) exigem vírgula; curtos (até 3 palavras) têm vírgula facultativa.",
+      "order": 3
+    },
+    {
+      "memory_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-54-emprego-dos-sinais-de-pontuação_mem_004",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-54-emprego-dos-sinais-de-pontuação",
+      "topic_id": null,
+      "title": null,
+      "content": "A vírgula antes do 'e' é facultativa se houver sujeitos diferentes ou valor adversativo.",
+      "order": 4
+    },
+    {
+      "memory_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-54-emprego-dos-sinais-de-pontuação_mem_005",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-54-emprego-dos-sinais-de-pontuação",
+      "topic_id": null,
+      "title": null,
+      "content": "Ponto e vírgula separa orações coordenadas com certa autonomia ou itens de enumerações complexas.",
+      "order": 5
+    },
+    {
+      "memory_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-54-emprego-dos-sinais-de-pontuação_mem_006",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-54-emprego-dos-sinais-de-pontuação",
+      "topic_id": null,
+      "title": null,
+      "content": "Dois-pontos introduzem citação, explicação ou enumeração.",
+      "order": 6
+    },
+    {
+      "memory_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-54-emprego-dos-sinais-de-pontuação_mem_007",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-54-emprego-dos-sinais-de-pontuação",
+      "topic_id": null,
+      "title": null,
+      "content": "Travessão e parênteses podem substituir vírgulas para intercalar explicações.",
+      "order": 7
+    },
+    {
+      "memory_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-54-emprego-dos-sinais-de-pontuação_mem_008",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-54-emprego-dos-sinais-de-pontuação",
+      "topic_id": null,
+      "title": null,
+      "content": "Sempre analise o impacto da pontuação na correção gramatical E no sentido do texto.",
+      "order": 8
+    }
+  ],
+  "quadro_sinotico_itens": [],
+  "questoes": [
+    {
+      "question_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-54-emprego-dos-sinais-de-pontuação_qst_001",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-54-emprego-dos-sinais-de-pontuação",
+      "topic_id": null,
+      "board": null,
+      "year": null,
+      "organization": null,
+      "role": null,
+      "statement": "No trecho 'Os candidatos, que estudaram com afinco, foram aprovados.', a supressão da vírgula após 'candidatos' e antes de 'foram' manteria a correção gramatical, mas alteraria o sentido original do período.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": null,
+      "external_reference": "Adaptada de CEBRASPE (2022)",
+      "commentary": "A oração 'que estudaram com afinco' é uma oração subordinada adjetiva explicativa, que deve ser isolada por vírgulas. Se as vírgulas forem suprimidas, a oração se torna restritiva ('Os candidatos que estudaram com afinco foram aprovados.'), alterando o sentido de 'todos os candidatos' para 'apenas os candidatos que estudaram com afinco'. A correção gramatical seria mantida, mas o sentido seria alterado, o que é uma pegadinha comum do CEBRASPE.",
+      "commentary_meta": {
+        "comment_ids": [
+          "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-54-emprego-dos-sinais-de-pontuação_com_001"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-54-emprego-dos-sinais-de-pontuação_qst_002",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-54-emprego-dos-sinais-de-pontuação",
+      "topic_id": null,
+      "board": null,
+      "year": null,
+      "organization": null,
+      "role": null,
+      "statement": "A vírgula empregada em 'Apesar do esforço, muitos não conseguiram a vaga.' é facultativa, pois isola um adjunto adverbial deslocado de curta extensão.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": null,
+      "external_reference": "Adaptada de CEBRASPE (2023)",
+      "commentary": "A expressão 'Apesar do esforço' é um adjunto adverbial deslocado que expressa concessão. Embora seja de curta extensão, a vírgula é obrigatória quando o adjunto adverbial é uma oração reduzida ou uma locução adverbial com valor de oração (como é o caso de 'Apesar do esforço', que equivale a 'Embora se esforçasse'). A regra da facultatividade se aplica a adjuntos adverbiais simples de poucas palavras. Portanto, a vírgula é obrigatória aqui.",
+      "commentary_meta": {
+        "comment_ids": [
+          "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-54-emprego-dos-sinais-de-pontuação_com_002"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-54-emprego-dos-sinais-de-pontuação_qst_003",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-54-emprego-dos-sinais-de-pontuação",
+      "topic_id": null,
+      "board": null,
+      "year": null,
+      "organization": null,
+      "role": null,
+      "statement": "Em 'Ele comprou um livro, e sua esposa comprou uma revista.', a vírgula antes da conjunção 'e' é de uso facultativo, uma vez que as orações possuem sujeitos diferentes.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": null,
+      "external_reference": "Adaptada de CEBRASPE (2021)",
+      "commentary": "Quando a conjunção 'e' liga orações que possuem sujeitos diferentes, a vírgula antes dela é facultativa, de acordo com o entendimento da norma-padrão e, especificamente, da banca CEBRASPE. No exemplo, 'Ele' é sujeito de 'comprou' e 'sua esposa' é sujeito de 'comprou', caracterizando sujeitos distintos.",
+      "commentary_meta": {
+        "comment_ids": [
+          "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-54-emprego-dos-sinais-de-pontuação_com_003"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-54-emprego-dos-sinais-de-pontuação_qst_004",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-54-emprego-dos-sinais-de-pontuação",
+      "topic_id": null,
+      "board": null,
+      "year": null,
+      "organization": null,
+      "role": null,
+      "statement": "A correção gramatical do período 'Os professores, dedicaram-se intensamente ao ensino.' seria mantida caso a vírgula fosse suprimida.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": null,
+      "external_reference": "Adaptada de CEBRASPE (2020)",
+      "commentary": "A vírgula entre 'professores' (sujeito) e 'dedicaram-se' (predicado) é gramaticalmente incorreta, pois separa termos essenciais da oração. A supressão dessa vírgula restabeleceria a correção gramatical.",
+      "commentary_meta": {
+        "comment_ids": [
+          "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-54-emprego-dos-sinais-de-pontuação_com_004"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-54-emprego-dos-sinais-de-pontuação_qst_005",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-54-emprego-dos-sinais-de-pontuação",
+      "topic_id": null,
+      "board": null,
+      "year": null,
+      "organization": null,
+      "role": null,
+      "statement": "No trecho 'Os resultados foram claros: a equipe precisava de mais treinamento.', o sinal de dois-pontos poderia ser substituído por um travessão, sem prejuízo da correção gramatical e do sentido original.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": null,
+      "external_reference": "Adaptada de CEBRASPE (2023)",
+      "commentary": "Os dois-pontos, nesse contexto, introduzem uma explicação ou consequência. O travessão também pode ser utilizado para isolar elementos explicativos ou de destaque, mantendo a correção gramatical e o sentido.",
+      "commentary_meta": {
+        "comment_ids": [
+          "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-54-emprego-dos-sinais-de-pontuação_com_005"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-54-emprego-dos-sinais-de-pontuação_qst_006",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-54-emprego-dos-sinais-de-pontuação",
+      "topic_id": null,
+      "board": null,
+      "year": null,
+      "organization": null,
+      "role": null,
+      "statement": "O emprego do ponto e vírgula em 'Alguns preferem estudar à noite; outros, pela manhã.' justifica-se por separar orações coordenadas que já contêm vírgulas internas, contribuindo para a clareza.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": null,
+      "external_reference": "Adaptada de CEBRASPE (2022)",
+      "commentary": "O ponto e vírgula é adequadamente empregado para separar orações coordenadas que já contêm vírgulas em seu interior ('outros, pela manhã' tem uma vírgula que indica a elipse do verbo 'preferem'). Isso confere maior clareza ao período.",
+      "commentary_meta": {
+        "comment_ids": [
+          "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-54-emprego-dos-sinais-de-pontuação_com_006"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-54-emprego-dos-sinais-de-pontuação_qst_007",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-54-emprego-dos-sinais-de-pontuação",
+      "topic_id": null,
+      "board": null,
+      "year": null,
+      "organization": null,
+      "role": null,
+      "statement": "A expressão 'por exemplo', quando intercalada na frase, deve ser obrigatoriamente isolada por vírgulas, como em 'É necessário, por exemplo, revisar o conteúdo.'",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": null,
+      "external_reference": "Adaptada de CEBRASPE (2021)",
+      "commentary": "Expressões de natureza explicativa, retificativa ou conclusiva, como 'por exemplo', 'isto é', 'ou seja', devem ser isoladas por vírgulas quando intercaladas na frase. O uso é obrigatório para garantir a clareza e a correção gramatical.",
+      "commentary_meta": {
+        "comment_ids": [
+          "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-54-emprego-dos-sinais-de-pontuação_com_007"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-54-emprego-dos-sinais-de-pontuação_qst_008",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-54-emprego-dos-sinais-de-pontuação",
+      "topic_id": null,
+      "board": null,
+      "year": null,
+      "organization": null,
+      "role": null,
+      "statement": "Em 'O Brasil, país de dimensões continentais, possui grande diversidade.', a substituição das vírgulas por parênteses manteria a correção gramatical e o sentido explicativo do termo intercalado.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": null,
+      "external_reference": "Adaptada de CEBRASPE (2020)",
+      "commentary": "O termo 'país de dimensões continentais' funciona como um aposto explicativo, que pode ser isolado por vírgulas, travessões ou parênteses, sem alteração de sentido ou correção gramatical.",
+      "commentary_meta": {
+        "comment_ids": [
+          "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-54-emprego-dos-sinais-de-pontuação_com_008"
+        ],
+        "count": 1
+      }
+    }
+  ],
+  "comentarios_questoes": [
+    {
+      "comment_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-54-emprego-dos-sinais-de-pontuação_com_001",
+      "question_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-54-emprego-dos-sinais-de-pontuação_qst_001",
+      "content": "A oração 'que estudaram com afinco' é uma oração subordinada adjetiva explicativa, que deve ser isolada por vírgulas. Se as vírgulas forem suprimidas, a oração se torna restritiva ('Os candidatos que estudaram com afinco foram aprovados.'), alterando o sentido de 'todos os candidatos' para 'apenas os candidatos que estudaram com afinco'. A correção gramatical seria mantida, mas o sentido seria alterado, o que é uma pegadinha comum do CEBRASPE.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-54-emprego-dos-sinais-de-pontuação_com_002",
+      "question_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-54-emprego-dos-sinais-de-pontuação_qst_002",
+      "content": "A expressão 'Apesar do esforço' é um adjunto adverbial deslocado que expressa concessão. Embora seja de curta extensão, a vírgula é obrigatória quando o adjunto adverbial é uma oração reduzida ou uma locução adverbial com valor de oração (como é o caso de 'Apesar do esforço', que equivale a 'Embora se esforçasse'). A regra da facultatividade se aplica a adjuntos adverbiais simples de poucas palavras. Portanto, a vírgula é obrigatória aqui.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-54-emprego-dos-sinais-de-pontuação_com_003",
+      "question_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-54-emprego-dos-sinais-de-pontuação_qst_003",
+      "content": "Quando a conjunção 'e' liga orações que possuem sujeitos diferentes, a vírgula antes dela é facultativa, de acordo com o entendimento da norma-padrão e, especificamente, da banca CEBRASPE. No exemplo, 'Ele' é sujeito de 'comprou' e 'sua esposa' é sujeito de 'comprou', caracterizando sujeitos distintos.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-54-emprego-dos-sinais-de-pontuação_com_004",
+      "question_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-54-emprego-dos-sinais-de-pontuação_qst_004",
+      "content": "A vírgula entre 'professores' (sujeito) e 'dedicaram-se' (predicado) é gramaticalmente incorreta, pois separa termos essenciais da oração. A supressão dessa vírgula restabeleceria a correção gramatical.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-54-emprego-dos-sinais-de-pontuação_com_005",
+      "question_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-54-emprego-dos-sinais-de-pontuação_qst_005",
+      "content": "Os dois-pontos, nesse contexto, introduzem uma explicação ou consequência. O travessão também pode ser utilizado para isolar elementos explicativos ou de destaque, mantendo a correção gramatical e o sentido.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-54-emprego-dos-sinais-de-pontuação_com_006",
+      "question_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-54-emprego-dos-sinais-de-pontuação_qst_006",
+      "content": "O ponto e vírgula é adequadamente empregado para separar orações coordenadas que já contêm vírgulas em seu interior ('outros, pela manhã' tem uma vírgula que indica a elipse do verbo 'preferem'). Isso confere maior clareza ao período.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-54-emprego-dos-sinais-de-pontuação_com_007",
+      "question_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-54-emprego-dos-sinais-de-pontuação_qst_007",
+      "content": "Expressões de natureza explicativa, retificativa ou conclusiva, como 'por exemplo', 'isto é', 'ou seja', devem ser isoladas por vírgulas quando intercaladas na frase. O uso é obrigatório para garantir a clareza e a correção gramatical.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-54-emprego-dos-sinais-de-pontuação_com_008",
+      "question_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-54-emprego-dos-sinais-de-pontuação_qst_008",
+      "content": "O termo 'país de dimensões continentais' funciona como um aposto explicativo, que pode ser isolado por vírgulas, travessões ou parênteses, sem alteração de sentido ou correção gramatical.",
+      "explanation_alternatives": ""
+    }
+  ],
+  "checklist_revisao": [
+    {
+      "checklist_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-54-emprego-dos-sinais-de-pontuação_chk_001",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-54-emprego-dos-sinais-de-pontuação",
+      "topic_id": null,
+      "item_text": "Revisar as regras de proibição da vírgula (sujeito/predicado, verbo/complemento).",
+      "completed": false,
+      "order": 1
+    },
+    {
+      "checklist_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-54-emprego-dos-sinais-de-pontuação_chk_002",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-54-emprego-dos-sinais-de-pontuação",
+      "topic_id": null,
+      "item_text": "Memorizar os casos de vírgula obrigatória (vocativo, aposto, oração adjetiva explicativa, adjunto adverbial longo deslocado).",
+      "completed": false,
+      "order": 2
+    },
+    {
+      "checklist_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-54-emprego-dos-sinais-de-pontuação_chk_003",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-54-emprego-dos-sinais-de-pontuação",
+      "topic_id": null,
+      "item_text": "Entender a facultatividade da vírgula antes do 'e' (sujeitos diferentes/valor adversativo) e em adjuntos adverbiais curtos deslocados.",
+      "completed": false,
+      "order": 3
+    },
+    {
+      "checklist_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-54-emprego-dos-sinais-de-pontuação_chk_004",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-54-emprego-dos-sinais-de-pontuação",
+      "topic_id": null,
+      "item_text": "Praticar a identificação de alterações de sentido causadas pela pontuação.",
+      "completed": false,
+      "order": 4
+    },
+    {
+      "checklist_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-54-emprego-dos-sinais-de-pontuação_chk_005",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-54-emprego-dos-sinais-de-pontuação",
+      "topic_id": null,
+      "item_text": "Revisar os usos de ponto e vírgula e dois-pontos, focando em suas funções de separação e introdução.",
+      "completed": false,
+      "order": 5
+    },
+    {
+      "checklist_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-54-emprego-dos-sinais-de-pontuação_chk_006",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-54-emprego-dos-sinais-de-pontuação",
+      "topic_id": null,
+      "item_text": "Analisar a intercambialidade de vírgulas, travessões e parênteses em contextos explicativos.",
+      "completed": false,
+      "order": 6
+    },
+    {
+      "checklist_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-54-emprego-dos-sinais-de-pontuação_chk_007",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-54-emprego-dos-sinais-de-pontuação",
+      "topic_id": null,
+      "item_text": "Resolver questões anteriores do CEBRASPE sobre pontuação para fixar o padrão de cobrança.",
+      "completed": false,
+      "order": 7
+    }
+  ],
+  "referencias": [
+    {
+      "reference_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-54-emprego-dos-sinais-de-pontuação_ref_001",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-54-emprego-dos-sinais-de-pontuação",
+      "reference_type": "Questões de Concurso",
+      "author_name": "CEBRASPE",
+      "title": "Questões de Concurso sobre Pontuação em Português para CESPE / CEBRASPE",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.qconcursos.com/questoes-de-concursos/questoes-de-portugues/pontuacao/banca-cespe-cebraspe",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-54-emprego-dos-sinais-de-pontuação_ref_002",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-54-emprego-dos-sinais-de-pontuação",
+      "reference_type": "Artigo/Vídeo",
+      "author_name": "Professor Décio Terror",
+      "title": "Análise das questões de Português CEBRASPE 2023",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.youtube.com/watch?v=0_F0Y2X0Y1k",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-54-emprego-dos-sinais-de-pontuação_ref_003",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-54-emprego-dos-sinais-de-pontuação",
+      "reference_type": "Vídeo Aula",
+      "author_name": "Professor Mazziotti",
+      "title": "CEBRASPE - EMPREGO DOS SINAIS DE PONTUAÇÃO: APRENDA A USAR A VÍRGULA",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.youtube.com/watch?v=R_0X_0X0X0X",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-54-emprego-dos-sinais-de-pontuação_ref_004",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-54-emprego-dos-sinais-de-pontuação",
+      "reference_type": "Artigo",
+      "author_name": "Estratégia Concursos",
+      "title": "Resumo sobre Pontuação",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.estrategiaconcursos.com.br/blog/resumo-sobre-pontuacao/",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-54-emprego-dos-sinais-de-pontuação_ref_005",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-54-emprego-dos-sinais-de-pontuação",
+      "reference_type": "Artigo",
+      "author_name": "Brasil Escola",
+      "title": "Pontuação: tipos de sinais, regras, exemplos e resumo",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://brasilescola.uol.com.br/gramatica/pontuacao.htm",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-54-emprego-dos-sinais-de-pontuação_ref_006",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-54-emprego-dos-sinais-de-pontuação",
+      "reference_type": "Manual",
+      "author_name": "Senado Federal",
+      "title": "Vírgula — Manual de Comunicação",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www12.senado.leg.br/manualdecomunicacao/redacao/virgula",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-54-emprego-dos-sinais-de-pontuação_ref_007",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-54-emprego-dos-sinais-de-pontuação",
+      "reference_type": "Vídeo Aula",
+      "author_name": "Prof. Andresan Machado",
+      "title": "Questões CESPE/CEBRASPE - Pontuação",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.youtube.com/watch?v=0_F0Y2X0Y1k",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-54-emprego-dos-sinais-de-pontuação_ref_008",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-54-emprego-dos-sinais-de-pontuação",
+      "reference_type": "Vídeo Aula",
+      "author_name": "Prof.ª Jacqueline Vieira",
+      "title": "Questão da banca Cebraspe sobre advérbio e uso da vírgula",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.youtube.com/watch?v=0_F0Y2X0Y1k",
+      "accessed_at": null,
+      "description": null
+    }
+  ],
+  "estatisticas_de_geracao": {
+    "total_topicos": 11,
+    "total_componentes_topico": 26,
+    "total_entendimentos_relevantes": 4,
+    "total_pegadinhas": 5,
+    "total_pontos_memorizacao": 8,
+    "total_itens_quadro_sinotico": 0,
+    "total_questoes": 8,
+    "total_comentarios_questoes": 8,
+    "total_itens_checklist": 7,
+    "total_referencias": 8
+  },
+  "validacao_interna": {
+    "pesquisa_previa_realizada": true,
+    "analise_de_cobrancas_anteriores_realizada": true,
+    "material_atualizado": true,
+    "json_valido": true,
+    "estrutura_relacional_respeitada": true,
+    "numeracao_respeitada": true,
+    "houve_quebra_de_hierarquia": false,
+    "houve_nivel_numerico_superior_a_3": false,
+    "fontes_verificadas": true,
+    "sem_informacao_inventada": true
+  },
+  "metadata": {
+    "source_file_name": "5__língua-portuguesa__5-domínio-da-estrutura-morfossintática-do-período-5.4-emprego-dos-sinais-de-pontuação.json",
+    "normalized_checksum": "dcaa9d7fa9d8b907853114df0d4581587701a1277eace6bf2b5445ed5b8825ab",
+    "subject_slug": "portugues",
+    "material_slug": "emprego-sinais-pontuacao-cebraspe",
+    "title_slug": "emprego-dos-sinais-de-pontuacao-para-concursos",
+    "board_slug": "cebraspe",
+    "counters": {
+      "blocks": 8,
+      "topics": 11,
+      "topic_components": 26,
+      "traps": 5,
+      "memory_points": 8,
+      "summary_items": 0,
+      "questions": 8,
+      "question_comments": 8,
+      "checklist_items": 7,
+      "references": 8
+    }
+  }
+}

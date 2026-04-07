@@ -1,0 +1,900 @@
+{
+  "schema_version": "1.0",
+  "normalized_at": "2026-04-07T15:39:14.888589-03:00",
+  "normalizer_version": "2.0.0",
+  "exported_at": "2026-04-06T19:55:00Z",
+  "source_request": {
+    "purpose": "Concurso público",
+    "general_area": "Linguagens",
+    "subject_name": "Língua Portuguesa",
+    "subarea_name": "Gramática, interpretação e reescrita",
+    "main_theme": "2 Reconhecimento de tipos e gêneros textuais",
+    "theme_scope": "Teoria completa, incidência em prova, padrão de cobrança da banca, pegadinhas e questões comentadas",
+    "board_style": "CEBRASPE",
+    "depth_level": "Exaustivo",
+    "goal": "Teoria completa, revisão estratégica, pegadinhas e questões comentadas",
+    "base_topic_number": "2",
+    "topic_title": "2 Reconhecimento de tipos e gêneros textuais",
+    "syllabus_reference": "Conteúdo programático da disciplina Língua Portuguesa",
+    "priority_sources": [
+      "Gramáticas e manuais reconhecidos",
+      "Bibliografia técnica consolidada",
+      "Questões anteriores da banca"
+    ],
+    "minimum_questions": 8,
+    "question_format": "Certo/Errado",
+    "prioritize_real_questions": true,
+    "response_language": "português",
+    "target_audience": "Candidato de concurso público",
+    "additional_notes": "Executar exatamente para esta linha individual do topicos.txt. Não juntar com outros tópicos. Não pular este tópico. Dar destaque ao padrão de cobrança da banca, aos pontos mais cobrados e às pegadinhas recorrentes.",
+    "input_hash": "a81c893f713f",
+    "extras": {}
+  },
+  "material": {
+    "material_id": "2-língua-portuguesa-2-reconhecimento-de-tipos-e-gêneros-textuais",
+    "slug": "reconhecimento-tipos-generos-textuais-cebraspe",
+    "title": "Reconhecimento de Tipos e Gêneros Textuais para Concursos (CEBRASPE)",
+    "base_number": "2",
+    "topic_title": "2 Reconhecimento de tipos e gêneros textuais",
+    "purpose": "Concurso público",
+    "area_name": "Linguagens",
+    "subject_name": "Língua Portuguesa",
+    "subarea_name": "Gramática, interpretação e reescrita",
+    "main_theme": "Reconhecimento de tipos e gêneros textuais",
+    "theme_scope": "Teoria completa, incidência em prova, padrão de cobrança da banca, pegadinhas e questões comentadas",
+    "board_style": "CEBRASPE",
+    "depth_level": "Exaustivo",
+    "study_goal": "Teoria completa, revisão estratégica, pegadinhas e questões comentadas",
+    "target_audience": "Candidato de concurso público",
+    "language_code": "português",
+    "update_status": "Atualizado em 2026",
+    "current_note": "Conteúdo revisado e atualizado com base nas tendências de cobrança da banca CEBRASPE até o momento.",
+    "has_case_law": false,
+    "case_law_justification": "Não aplicável para a disciplina de Língua Portuguesa e o tema de tipos e gêneros textuais.",
+    "has_information_limitation": false,
+    "information_limitation_desc": null,
+    "content_checksum": "placeholder_checksum_mat_001",
+    "extras": {}
+  },
+  "blocos_textuais": [
+    {
+      "external_block_code": "2-língua-portuguesa-2-reconhecimento-de-tipos-e-gêneros-textuais_blc_001",
+      "material_id": "2-língua-portuguesa-2-reconhecimento-de-tipos-e-gêneros-textuais",
+      "topic_id": null,
+      "order": 1,
+      "title": "Introdução ao Reconhecimento de Tipos e Gêneros Textuais",
+      "content": "O reconhecimento de tipos e gêneros textuais é um dos pilares da interpretação de texto em provas de concurso público, especialmente as elaboradas pela banca CEBRASPE. A capacidade de identificar a estrutura, a finalidade e as características linguísticas de um texto é crucial para a compreensão global e para a resolução de questões que abordam desde a coesão e coerência até a reescrita de frases. A CEBRASPE frequentemente explora a distinção entre tipo e gênero textual, bem como a predominância de um tipo em um gênero, exigindo do candidato não apenas o conhecimento conceitual, mas também a aplicação prática.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "2-língua-portuguesa-2-reconhecimento-de-tipos-e-gêneros-textuais_blc_002",
+      "material_id": "2-língua-portuguesa-2-reconhecimento-de-tipos-e-gêneros-textuais",
+      "topic_id": null,
+      "order": 2,
+      "title": "Tipos Textuais: Conceito e Características",
+      "content": "Os tipos textuais, também conhecidos como tipologias textuais, referem-se à forma como um texto se estrutura linguisticamente, com base em suas características sintáticas, lexicais e estruturais. São classificações mais fixas e limitadas, que definem o objetivo linguístico e a maneira como as ideias são organizadas. Existem cinco tipos textuais principais: narrativo, descritivo, dissertativo (expositivo e argumentativo) e injuntivo.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "2-língua-portuguesa-2-reconhecimento-de-tipos-e-gêneros-textuais_blc_003",
+      "material_id": "2-língua-portuguesa-2-reconhecimento-de-tipos-e-gêneros-textuais",
+      "topic_id": null,
+      "order": 3,
+      "title": "Gêneros Textuais: Conceito e Diversidade",
+      "content": "Os gêneros textuais são as manifestações concretas da linguagem em situações comunicativas do cotidiano. Diferentemente dos tipos textuais, eles são inumeráveis, flexíveis e se adaptam às necessidades sociais e culturais, possuindo uma função social específica. Exemplos incluem notícias, artigos de opinião, receitas, bulas de remédio, manuais de instrução, contos, poemas, e-mails, entre muitos outros. Um mesmo gênero textual pode conter diferentes tipos textuais, embora um deles seja geralmente predominante.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "2-língua-portuguesa-2-reconhecimento-de-tipos-e-gêneros-textuais_blc_004",
+      "material_id": "2-língua-portuguesa-2-reconhecimento-de-tipos-e-gêneros-textuais",
+      "topic_id": null,
+      "order": 4,
+      "title": "A Distinção Crucial: Tipo x Gênero Textual",
+      "content": "A principal diferença reside na estabilidade e na função. Os tipos textuais são estruturas mais abstratas e fixas, relacionadas à organização interna do texto (narrar, descrever, expor, argumentar, instruir). Já os gêneros textuais são formas mais concretas e maleáveis, que surgem das interações sociais e possuem propósitos comunicativos específicos (informar, persuadir, entreter). A CEBRASPE frequentemente explora essa distinção, exigindo que o candidato não confunda a forma com a função social do texto.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "2-língua-portuguesa-2-reconhecimento-de-tipos-e-gêneros-textuais_blc_005",
+      "material_id": "2-língua-portuguesa-2-reconhecimento-de-tipos-e-gêneros-textuais",
+      "topic_id": null,
+      "order": 5,
+      "title": "Padrão de Cobrança da CEBRASPE",
+      "content": "A banca CEBRASPE (antigo CESPE) tem um padrão de cobrança bem definido para o reconhecimento de tipos e gêneros textuais. As questões geralmente apresentam um texto (ou fragmento) e solicitam a identificação do tipo textual predominante ou do gênero textual a que pertence. A banca valoriza a capacidade de identificar a intenção comunicativa, a estrutura global e as características linguísticas do texto. É comum que as questões sejam no formato 'Certo/Errado', afirmando ou negando a classificação de um texto ou a presença de características específicas de um tipo/gênero.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "2-língua-portuguesa-2-reconhecimento-de-tipos-e-gêneros-textuais_blc_006",
+      "material_id": "2-língua-portuguesa-2-reconhecimento-de-tipos-e-gêneros-textuais",
+      "topic_id": null,
+      "order": 6,
+      "title": "Subtópicos e Pontos Mais Cobrados pela CEBRASPE",
+      "content": "Os subtópicos mais frequentes incluem a definição e as características de cada tipo textual (narrativo, descritivo, expositivo, argumentativo, injuntivo) e a identificação de gêneros textuais variados. A CEBRASPE costuma focar na predominância de um tipo textual, mesmo que outros estejam presentes. A análise de verbos, advérbios, adjetivos e a estrutura frasal são elementos-chave para a correta classificação.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "2-língua-portuguesa-2-reconhecimento-de-tipos-e-gêneros-textuais_blc_007",
+      "material_id": "2-língua-portuguesa-2-reconhecimento-de-tipos-e-gêneros-textuais",
+      "topic_id": null,
+      "order": 7,
+      "title": "Pegadinhas e Erros Recorrentes da CEBRASPE",
+      "content": "As principais armadilhas da CEBRASPE neste tema incluem: 1. **Confusão entre tipo e gênero textual:** A banca explora a falta de clareza do candidato sobre esses dois conceitos distintos. 2. **Classificação pelo conteúdo e não pela estrutura/finalidade:** Um texto sobre um tema científico pode ser narrativo, descritivo ou expositivo, dependendo de como a informação é apresentada. 3. **Identificação do tipo secundário como predominante:** Muitos textos apresentam mais de um tipo textual, mas apenas um é o predominante. A CEBRASPE testa a capacidade de identificar essa predominância. 4. **Extrapolação:** Fazer inferências que vão além do que o texto realmente afirma ou sugere. A banca exige uma leitura atenta e apegada ao texto.",
+      "content_type": "teoria"
+    }
+  ],
+  "topicos": [
+    {
+      "external_topic_code": "2-língua-portuguesa-2-reconhecimento-de-tipos-e-gêneros-textuais_top_001",
+      "material_id": "2-língua-portuguesa-2-reconhecimento-de-tipos-e-gêneros-textuais",
+      "parent_topic_id": null,
+      "topic_number": "2",
+      "title": "Reconhecimento de Tipos e Gêneros Textuais",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 1
+    },
+    {
+      "external_topic_code": "2-língua-portuguesa-2-reconhecimento-de-tipos-e-gêneros-textuais_top_002",
+      "material_id": "2-língua-portuguesa-2-reconhecimento-de-tipos-e-gêneros-textuais",
+      "parent_topic_id": "2-língua-portuguesa-2-reconhecimento-de-tipos-e-gêneros-textuais_top_001",
+      "topic_number": "2.1",
+      "title": "Tipos Textuais",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 2
+    },
+    {
+      "external_topic_code": "2-língua-portuguesa-2-reconhecimento-de-tipos-e-gêneros-textuais_top_003",
+      "material_id": "2-língua-portuguesa-2-reconhecimento-de-tipos-e-gêneros-textuais",
+      "parent_topic_id": "2-língua-portuguesa-2-reconhecimento-de-tipos-e-gêneros-textuais_top_002",
+      "topic_number": "2.1.1",
+      "title": "Texto Narrativo",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 3
+    },
+    {
+      "external_topic_code": "2-língua-portuguesa-2-reconhecimento-de-tipos-e-gêneros-textuais_top_004",
+      "material_id": "2-língua-portuguesa-2-reconhecimento-de-tipos-e-gêneros-textuais",
+      "parent_topic_id": "2-língua-portuguesa-2-reconhecimento-de-tipos-e-gêneros-textuais_top_002",
+      "topic_number": "2.1.2",
+      "title": "Texto Descritivo",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 4
+    },
+    {
+      "external_topic_code": "2-língua-portuguesa-2-reconhecimento-de-tipos-e-gêneros-textuais_top_005",
+      "material_id": "2-língua-portuguesa-2-reconhecimento-de-tipos-e-gêneros-textuais",
+      "parent_topic_id": "2-língua-portuguesa-2-reconhecimento-de-tipos-e-gêneros-textuais_top_002",
+      "topic_number": "2.1.3",
+      "title": "Texto Dissertativo-Expositivo",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 5
+    },
+    {
+      "external_topic_code": "2-língua-portuguesa-2-reconhecimento-de-tipos-e-gêneros-textuais_top_006",
+      "material_id": "2-língua-portuguesa-2-reconhecimento-de-tipos-e-gêneros-textuais",
+      "parent_topic_id": "2-língua-portuguesa-2-reconhecimento-de-tipos-e-gêneros-textuais_top_002",
+      "topic_number": "2.1.4",
+      "title": "Texto Dissertativo-Argumentativo",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 6
+    },
+    {
+      "external_topic_code": "2-língua-portuguesa-2-reconhecimento-de-tipos-e-gêneros-textuais_top_007",
+      "material_id": "2-língua-portuguesa-2-reconhecimento-de-tipos-e-gêneros-textuais",
+      "parent_topic_id": "2-língua-portuguesa-2-reconhecimento-de-tipos-e-gêneros-textuais_top_002",
+      "topic_number": "2.1.5",
+      "title": "Texto Injuntivo (Instrucional)",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 7
+    },
+    {
+      "external_topic_code": "2-língua-portuguesa-2-reconhecimento-de-tipos-e-gêneros-textuais_top_008",
+      "material_id": "2-língua-portuguesa-2-reconhecimento-de-tipos-e-gêneros-textuais",
+      "parent_topic_id": "2-língua-portuguesa-2-reconhecimento-de-tipos-e-gêneros-textuais_top_001",
+      "topic_number": "2.2",
+      "title": "Gêneros Textuais",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 8
+    },
+    {
+      "external_topic_code": "2-língua-portuguesa-2-reconhecimento-de-tipos-e-gêneros-textuais_top_009",
+      "material_id": "2-língua-portuguesa-2-reconhecimento-de-tipos-e-gêneros-textuais",
+      "parent_topic_id": "2-língua-portuguesa-2-reconhecimento-de-tipos-e-gêneros-textuais_top_008",
+      "topic_number": "2.2.1",
+      "title": "Relação entre Tipos e Gêneros",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 9
+    },
+    {
+      "external_topic_code": "2-língua-portuguesa-2-reconhecimento-de-tipos-e-gêneros-textuais_top_010",
+      "material_id": "2-língua-portuguesa-2-reconhecimento-de-tipos-e-gêneros-textuais",
+      "parent_topic_id": "2-língua-portuguesa-2-reconhecimento-de-tipos-e-gêneros-textuais_top_001",
+      "topic_number": "2.3",
+      "title": "Padrão de Cobrança da CEBRASPE",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 10
+    },
+    {
+      "external_topic_code": "2-língua-portuguesa-2-reconhecimento-de-tipos-e-gêneros-textuais_top_011",
+      "material_id": "2-língua-portuguesa-2-reconhecimento-de-tipos-e-gêneros-textuais",
+      "parent_topic_id": "2-língua-portuguesa-2-reconhecimento-de-tipos-e-gêneros-textuais_top_010",
+      "topic_number": "2.3.1",
+      "title": "Análise de Questões Anteriores",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 11
+    },
+    {
+      "external_topic_code": "2-língua-portuguesa-2-reconhecimento-de-tipos-e-gêneros-textuais_top_012",
+      "material_id": "2-língua-portuguesa-2-reconhecimento-de-tipos-e-gêneros-textuais",
+      "parent_topic_id": "2-língua-portuguesa-2-reconhecimento-de-tipos-e-gêneros-textuais_top_010",
+      "topic_number": "2.3.2",
+      "title": "Pegadinhas Comuns e Como Evitá-las",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 12
+    }
+  ],
+  "topico_componentes": [
+    {
+      "component_id": "2-língua-portuguesa-2-reconhecimento-de-tipos-e-gêneros-textuais_cmp_001",
+      "topic_id": "2-língua-portuguesa-2-reconhecimento-de-tipos-e-gêneros-textuais_top_003",
+      "component_type": "texto",
+      "content": "O texto narrativo tem como objetivo contar uma história, real ou fictícia, apresentando uma sequência de eventos. Seus elementos essenciais são: enredo (sequência de fatos), narrador (quem conta a história), personagens (quem participa), tempo (quando ocorre) e espaço (onde ocorre). Predominam verbos de ação no passado (pretérito perfeito e imperfeito).",
+      "order": 1
+    },
+    {
+      "component_id": "2-língua-portuguesa-2-reconhecimento-de-tipos-e-gêneros-textuais_cmp_002",
+      "topic_id": "2-língua-portuguesa-2-reconhecimento-de-tipos-e-gêneros-textuais_top_003",
+      "component_type": "exemplos",
+      "content": "Contos, romances, fábulas, crônicas, notícias (quando relatam fatos em sequência), biografias, anedotas.",
+      "order": 2
+    },
+    {
+      "component_id": "2-língua-portuguesa-2-reconhecimento-de-tipos-e-gêneros-textuais_cmp_003",
+      "topic_id": "2-língua-portuguesa-2-reconhecimento-de-tipos-e-gêneros-textuais_top_004",
+      "component_type": "texto",
+      "content": "O texto descritivo visa detalhar, apresentar características e particularidades de pessoas, objetos, lugares, acontecimentos ou sensações. O foco é criar uma imagem vívida na mente do leitor. Predominam adjetivos, locuções adjetivas e verbos de ligação no presente ou pretérito imperfeito.",
+      "order": 1
+    },
+    {
+      "component_id": "2-língua-portuguesa-2-reconhecimento-de-tipos-e-gêneros-textuais_cmp_004",
+      "topic_id": "2-língua-portuguesa-2-reconhecimento-de-tipos-e-gêneros-textuais_top_004",
+      "component_type": "exemplos",
+      "content": "Diários, relatos de viagem, currículos, cardápios, anúncios de classificados, laudos, retratos verbais.",
+      "order": 2
+    },
+    {
+      "component_id": "2-língua-portuguesa-2-reconhecimento-de-tipos-e-gêneros-textuais_cmp_005",
+      "topic_id": "2-língua-portuguesa-2-reconhecimento-de-tipos-e-gêneros-textuais_top_005",
+      "component_type": "texto",
+      "content": "O texto dissertativo-expositivo tem como objetivo principal apresentar informações, explicar conceitos ou discorrer sobre um tema de forma clara e objetiva, sem a intenção de persuadir o leitor. A linguagem é geralmente denotativa e impessoal. Estrutura-se em introdução, desenvolvimento e conclusão, com foco na transmissão de conhecimento.",
+      "order": 1
+    },
+    {
+      "component_id": "2-língua-portuguesa-2-reconhecimento-de-tipos-e-gêneros-textuais_cmp_006",
+      "topic_id": "2-língua-portuguesa-2-reconhecimento-de-tipos-e-gêneros-textuais_top_005",
+      "component_type": "exemplos",
+      "content": "Notícias (informativas), reportagens, verbetes de dicionário/enciclopédia, seminários, palestras, resumos, artigos científicos (sem argumentação).",
+      "order": 2
+    },
+    {
+      "component_id": "2-língua-portuguesa-2-reconhecimento-de-tipos-e-gêneros-textuais_cmp_007",
+      "topic_id": "2-língua-portuguesa-2-reconhecimento-de-tipos-e-gêneros-textuais_top_006",
+      "component_type": "texto",
+      "content": "O texto dissertativo-argumentativo visa defender um ponto de vista (tese) sobre um tema, utilizando argumentos, evidências e exemplos para persuadir o leitor. A estrutura também é introdução (apresentação da tese), desenvolvimento (argumentos) e conclusão (reafirmação da tese ou proposta de intervenção). A linguagem pode ser mais subjetiva e com uso de modalizadores.",
+      "order": 1
+    },
+    {
+      "component_id": "2-língua-portuguesa-2-reconhecimento-de-tipos-e-gêneros-textuais_cmp_008",
+      "topic_id": "2-língua-portuguesa-2-reconhecimento-de-tipos-e-gêneros-textuais_top_006",
+      "component_type": "exemplos",
+      "content": "Artigos de opinião, editoriais, resenhas críticas, ensaios, monografias, dissertações, teses.",
+      "order": 2
+    },
+    {
+      "component_id": "2-língua-portuguesa-2-reconhecimento-de-tipos-e-gêneros-textuais_cmp_009",
+      "topic_id": "2-língua-portuguesa-2-reconhecimento-de-tipos-e-gêneros-textuais_top_007",
+      "component_type": "texto",
+      "content": "O texto injuntivo (ou instrucional) tem como finalidade instruir, orientar ou persuadir o leitor a realizar uma ação ou procedimento. Caracteriza-se pelo uso de verbos no imperativo, infinitivo ou presente do indicativo com valor de ordem. A sequência de ações é fundamental.",
+      "order": 1
+    },
+    {
+      "component_id": "2-língua-portuguesa-2-reconhecimento-de-tipos-e-gêneros-textuais_cmp_010",
+      "topic_id": "2-língua-portuguesa-2-reconhecimento-de-tipos-e-gêneros-textuais_top_007",
+      "component_type": "exemplos",
+      "content": "Receitas culinárias, bulas de remédio, manuais de instrução, regulamentos, propagandas, editais de concurso (partes que instruem o candidato).",
+      "order": 2
+    },
+    {
+      "component_id": "2-língua-portuguesa-2-reconhecimento-de-tipos-e-gêneros-textuais_cmp_011",
+      "topic_id": "2-língua-portuguesa-2-reconhecimento-de-tipos-e-gêneros-textuais_top_009",
+      "component_type": "texto",
+      "content": "É fundamental compreender que os tipos textuais são as 'formas' básicas de organização da linguagem, enquanto os gêneros textuais são as 'roupagens' sociais que esses tipos assumem. Um gênero textual pode ser predominantemente de um tipo, mas conter sequências de outros tipos. Por exemplo, uma notícia (gênero) é predominantemente expositiva, mas pode conter trechos narrativos (relato de eventos) e descritivos (descrição de local ou pessoa).",
+      "order": 1
+    },
+    {
+      "component_id": "2-língua-portuguesa-2-reconhecimento-de-tipos-e-gêneros-textuais_cmp_012",
+      "topic_id": "2-língua-portuguesa-2-reconhecimento-de-tipos-e-gêneros-textuais_top_011",
+      "component_type": "texto",
+      "content": "A CEBRASPE exige do candidato a capacidade de identificar o tipo textual predominante e o gênero textual de um dado fragmento ou texto completo. A banca foca na finalidade comunicativa do texto e nas marcas linguísticas que caracterizam cada tipo. Questões de 'Certo/Errado' são comuns, testando a precisão na classificação.",
+      "order": 1
+    },
+    {
+      "component_id": "2-língua-portuguesa-2-reconhecimento-de-tipos-e-gêneros-textuais_cmp_013",
+      "topic_id": "2-língua-portuguesa-2-reconhecimento-de-tipos-e-gêneros-textuais_top_012",
+      "component_type": "texto",
+      "content": "As pegadinhas da CEBRASPE frequentemente exploram a confusão entre tipo e gênero, a identificação de um tipo secundário como principal e a interpretação equivocada da finalidade do texto. É crucial analisar o texto como um todo, buscando a intenção comunicativa predominante e as características estruturais mais marcantes. Evite a extrapolação, ou seja, não tire conclusões que não estão explicitamente ou implicitamente no texto.",
+      "order": 1
+    }
+  ],
+  "pegadinhas": [
+    {
+      "trap_id": "2-língua-portuguesa-2-reconhecimento-de-tipos-e-gêneros-textuais_peg_001",
+      "material_id": "2-língua-portuguesa-2-reconhecimento-de-tipos-e-gêneros-textuais",
+      "topic_id": "2-língua-portuguesa-2-reconhecimento-de-tipos-e-gêneros-textuais_top_012",
+      "title": "Confundir Tipo com Gênero",
+      "description": "A CEBRASPE frequentemente apresenta um gênero textual (ex: 'artigo de opinião') e pergunta sobre seu tipo textual (dissertativo-argumentativo), ou vice-versa. O erro comum é usar um termo pelo outro. Lembre-se: tipo é a estrutura, gênero é a forma social.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 1
+    },
+    {
+      "trap_id": "2-língua-portuguesa-2-reconhecimento-de-tipos-e-gêneros-textuais_peg_002",
+      "material_id": "2-língua-portuguesa-2-reconhecimento-de-tipos-e-gêneros-textuais",
+      "topic_id": "2-língua-portuguesa-2-reconhecimento-de-tipos-e-gêneros-textuais_top_012",
+      "title": "Classificar pelo Tema, Não pela Estrutura",
+      "description": "Um texto que fala sobre um evento histórico pode ser narrativo, descritivo ou expositivo, dependendo de como o autor aborda o tema. A pegadinha é classificar o texto como 'histórico' (tema) em vez de identificar seu tipo textual predominante.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 2
+    },
+    {
+      "trap_id": "2-língua-portuguesa-2-reconhecimento-de-tipos-e-gêneros-textuais_peg_003",
+      "material_id": "2-língua-portuguesa-2-reconhecimento-de-tipos-e-gêneros-textuais",
+      "topic_id": "2-língua-portuguesa-2-reconhecimento-de-tipos-e-gêneros-textuais_top_012",
+      "title": "Ignorar a Predominância",
+      "description": "Muitos textos são híbridos, contendo elementos de diferentes tipos textuais. A CEBRASPE pode apresentar um texto com uma pequena parte descritiva e afirmar que ele é 'predominantemente descritivo', quando na verdade é narrativo ou expositivo.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 3
+    }
+  ],
+  "pontos_memorizacao": [
+    {
+      "memory_id": "2-língua-portuguesa-2-reconhecimento-de-tipos-e-gêneros-textuais_mem_001",
+      "material_id": "2-língua-portuguesa-2-reconhecimento-de-tipos-e-gêneros-textuais",
+      "topic_id": "2-língua-portuguesa-2-reconhecimento-de-tipos-e-gêneros-textuais_top_002",
+      "title": null,
+      "content": "Tipos Textuais são 5: Narrativo, Descritivo, Dissertativo-Expositivo, Dissertativo-Argumentativo, Injuntivo. São fixos e estruturais.",
+      "order": 1
+    },
+    {
+      "memory_id": "2-língua-portuguesa-2-reconhecimento-de-tipos-e-gêneros-textuais_mem_002",
+      "material_id": "2-língua-portuguesa-2-reconhecimento-de-tipos-e-gêneros-textuais",
+      "topic_id": "2-língua-portuguesa-2-reconhecimento-de-tipos-e-gêneros-textuais_top_008",
+      "title": null,
+      "content": "Gêneros Textuais são inúmeros e flexíveis, adaptando-se às situações comunicativas. Possuem função social.",
+      "order": 2
+    },
+    {
+      "memory_id": "2-língua-portuguesa-2-reconhecimento-de-tipos-e-gêneros-textuais_mem_003",
+      "material_id": "2-língua-portuguesa-2-reconhecimento-de-tipos-e-gêneros-textuais",
+      "topic_id": "2-língua-portuguesa-2-reconhecimento-de-tipos-e-gêneros-textuais_top_009",
+      "title": null,
+      "content": "A relação é de 'continência': gêneros contêm tipos. Um gênero pode ter um tipo predominante e outros secundários.",
+      "order": 3
+    },
+    {
+      "memory_id": "2-língua-portuguesa-2-reconhecimento-de-tipos-e-gêneros-textuais_mem_004",
+      "material_id": "2-língua-portuguesa-2-reconhecimento-de-tipos-e-gêneros-textuais",
+      "topic_id": "2-língua-portuguesa-2-reconhecimento-de-tipos-e-gêneros-textuais_top_010",
+      "title": null,
+      "content": "CEBRASPE foca na predominância e na finalidade comunicativa. Cuidado com a extrapolação.",
+      "order": 4
+    }
+  ],
+  "quadro_sinotico_itens": [
+    {
+      "summary_item_id": "sum_001",
+      "title": null,
+      "content": "",
+      "order": 1
+    },
+    {
+      "summary_item_id": "sum_002",
+      "title": null,
+      "content": "",
+      "order": 2
+    },
+    {
+      "summary_item_id": "sum_003",
+      "title": null,
+      "content": "",
+      "order": 3
+    }
+  ],
+  "questoes": [
+    {
+      "question_id": "2-língua-portuguesa-2-reconhecimento-de-tipos-e-gêneros-textuais_qst_001",
+      "material_id": "2-língua-portuguesa-2-reconhecimento-de-tipos-e-gêneros-textuais",
+      "topic_id": "2-língua-portuguesa-2-reconhecimento-de-tipos-e-gêneros-textuais_top_011",
+      "board": "CESPE / CEBRASPE",
+      "year": "2021",
+      "organization": "MPU",
+      "role": "Técnico do MPU - Segurança Institucional",
+      "statement": "Texto: 'Era este nobre senhor alto, magro, de cinquenta e poucos anos, queixo pontiagudo, cabelo grisalho desgrenhado e certo ar de loucura no olhar.' (Machado de Assis). O fragmento de texto apresentado é predominantemente descritivo, pois se ocupa em relatar e expor características de uma pessoa.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "O fragmento apresenta uma descrição detalhada das características físicas de uma pessoa ('alto, magro, queixo pontiagudo', etc.). A função principal é a de caracterizar, retratar, o que é a essência do tipo textual descritivo. Portanto, a assertiva está CORRETA.",
+      "commentary_meta": {
+        "comment_ids": [
+          "2-língua-portuguesa-2-reconhecimento-de-tipos-e-gêneros-textuais_com_001"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "2-língua-portuguesa-2-reconhecimento-de-tipos-e-gêneros-textuais_qst_002",
+      "material_id": "2-língua-portuguesa-2-reconhecimento-de-tipos-e-gêneros-textuais",
+      "topic_id": "2-língua-portuguesa-2-reconhecimento-de-tipos-e-gêneros-textuais_top_011",
+      "board": "CESPE / CEBRASPE",
+      "year": "2021",
+      "organization": "TCE-RJ",
+      "role": "Analista de Controle Externo",
+      "statement": "Texto: 'A quantidade de plásticos que vai parar nos oceanos é um problema ambiental mundial, e o canudo é um dos principais itens jogados na costa litorânea, mas a guerra declarada contra um único produto está banalizando o debate e escondendo o principal: o responsável pela poluição não é um objeto e nem o conjunto deles, mas sim o ser humano, que não sabe dar a destinação correta aos seus resíduos.' O texto pode ser enquadrado no tipo dissertativo, haja vista a exposição de diferentes facetas de um fenômeno que se manifesta na atualidade, pela apresentação objetiva dos fatos que as caracterizam.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "O texto aborda um problema (plásticos nos oceanos) e expõe diferentes perspectivas sobre ele, sem necessariamente defender uma tese única de forma persuasiva, mas sim apresentando fatos e análises. A exposição de um fenômeno e suas facetas caracteriza o tipo dissertativo-expositivo. Portanto, a assertiva está CORRETA.",
+      "commentary_meta": {
+        "comment_ids": [
+          "2-língua-portuguesa-2-reconhecimento-de-tipos-e-gêneros-textuais_com_002"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "2-língua-portuguesa-2-reconhecimento-de-tipos-e-gêneros-textuais_qst_003",
+      "material_id": "2-língua-portuguesa-2-reconhecimento-de-tipos-e-gêneros-textuais",
+      "topic_id": "2-língua-portuguesa-2-reconhecimento-de-tipos-e-gêneros-textuais_top_011",
+      "board": "CEBRASPE",
+      "year": "2024",
+      "organization": "Adaptada",
+      "role": "Diversos",
+      "statement": "O gênero textual 'receita culinária' é um exemplo de texto predominantemente narrativo, pois apresenta uma sequência de ações a serem seguidas para o preparo de um prato.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "Uma receita culinária é um gênero textual que tem como objetivo instruir o leitor sobre como fazer algo, apresentando uma sequência de passos e ingredientes. Essa finalidade e estrutura são características do tipo textual injuntivo (ou instrucional), e não narrativo. Narrar implica contar uma história com enredo, personagens, tempo e espaço. Portanto, a assertiva está ERRADA.",
+      "commentary_meta": {
+        "comment_ids": [
+          "2-língua-portuguesa-2-reconhecimento-de-tipos-e-gêneros-textuais_com_003"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "2-língua-portuguesa-2-reconhecimento-de-tipos-e-gêneros-textuais_qst_004",
+      "material_id": "2-língua-portuguesa-2-reconhecimento-de-tipos-e-gêneros-textuais",
+      "topic_id": "2-língua-portuguesa-2-reconhecimento-de-tipos-e-gêneros-textuais_top_011",
+      "board": "CEBRASPE",
+      "year": "2023",
+      "organization": "Adaptada",
+      "role": "Diversos",
+      "statement": "Um editorial jornalístico, por defender um ponto de vista sobre um tema relevante, classifica-se como um gênero textual de tipo dissertativo-argumentativo.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "O editorial jornalístico é um gênero textual que expressa a opinião do veículo de comunicação sobre um tema. Para isso, ele apresenta argumentos e busca persuadir o leitor. Essa característica de apresentar e defender um ponto de vista é a essência do tipo textual dissertativo-argumentativo. Portanto, a assertiva está CORRETA.",
+      "commentary_meta": {
+        "comment_ids": [
+          "2-língua-portuguesa-2-reconhecimento-de-tipos-e-gêneros-textuais_com_004"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "2-língua-portuguesa-2-reconhecimento-de-tipos-e-gêneros-textuais_qst_005",
+      "material_id": "2-língua-portuguesa-2-reconhecimento-de-tipos-e-gêneros-textuais",
+      "topic_id": "2-língua-portuguesa-2-reconhecimento-de-tipos-e-gêneros-textuais_top_011",
+      "board": "CEBRASPE",
+      "year": "2022",
+      "organization": "Adaptada",
+      "role": "Diversos",
+      "statement": "No texto em que se busca instruir o leitor sobre como montar um móvel, com a presença de verbos no imperativo e uma sequência lógica de passos, predomina o tipo textual injuntivo.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "Textos que visam orientar o leitor a realizar uma tarefa, com instruções claras e verbos no imperativo (ou infinitivo com valor de ordem), são classificados como injuntivos. Manuais de montagem se encaixam perfeitamente nessa descrição. Portanto, a assertiva está CORRETA.",
+      "commentary_meta": {
+        "comment_ids": [
+          "2-língua-portuguesa-2-reconhecimento-de-tipos-e-gêneros-textuais_com_005"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "2-língua-portuguesa-2-reconhecimento-de-tipos-e-gêneros-textuais_qst_006",
+      "material_id": "2-língua-portuguesa-2-reconhecimento-de-tipos-e-gêneros-textuais",
+      "topic_id": "2-língua-portuguesa-2-reconhecimento-de-tipos-e-gêneros-textuais_top_011",
+      "board": "CESPE / CEBRASPE",
+      "year": "2025",
+      "organization": "UNIVESP",
+      "role": "Supervisor Pedagógico",
+      "statement": "O texto 'Universidade e democracia', de Cristovam Buarque, que discute a evolução da universidade e a necessidade de transformação radical para o terceiro milênio, é predominantemente argumentativo, pois apresenta e defende uma tese.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "O texto de Cristovam Buarque, ao discutir a evolução e a necessidade de transformação da universidade, apresenta uma tese (a necessidade de inventar uma nova instituição) e a defende com argumentos. A intenção de convencer o leitor sobre um ponto de vista é a marca do tipo dissertativo-argumentativo. Portanto, a assertiva está CORRETA.",
+      "commentary_meta": {
+        "comment_ids": [
+          "2-língua-portuguesa-2-reconhecimento-de-tipos-e-gêneros-textuais_com_006"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "2-língua-portuguesa-2-reconhecimento-de-tipos-e-gêneros-textuais_qst_007",
+      "material_id": "2-língua-portuguesa-2-reconhecimento-de-tipos-e-gêneros-textuais",
+      "topic_id": "2-língua-portuguesa-2-reconhecimento-de-tipos-e-gêneros-textuais_top_011",
+      "board": "CEBRASPE",
+      "year": "2024",
+      "organization": "Adaptada",
+      "role": "Diversos",
+      "statement": "Um verbete de enciclopédia, por ter a função de apresentar informações e conceitos de forma clara e objetiva, é classificado como um gênero textual de tipo dissertativo-expositivo.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "Um verbete de enciclopédia tem como função principal informar e explicar conceitos de maneira objetiva e imparcial. Essa finalidade de expor informações sem a intenção de persuadir é característica do tipo textual dissertativo-expositivo. Portanto, a assertiva está CORRETA.",
+      "commentary_meta": {
+        "comment_ids": [
+          "2-língua-portuguesa-2-reconhecimento-de-tipos-e-gêneros-textuais_com_007"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "2-língua-portuguesa-2-reconhecimento-de-tipos-e-gêneros-textuais_qst_008",
+      "material_id": "2-língua-portuguesa-2-reconhecimento-de-tipos-e-gêneros-textuais",
+      "topic_id": "2-língua-portuguesa-2-reconhecimento-de-tipos-e-gêneros-textuais_top_011",
+      "board": "CESPE",
+      "year": "2015",
+      "organization": "FUB",
+      "role": "Diversos",
+      "statement": "A presença de verbos no pretérito é condição suficiente para classificar um texto como predominantemente narrativo, independentemente de outros elementos textuais.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "Embora verbos no pretérito sejam comuns em textos narrativos, sua presença isolada não é suficiente para classificar um texto como predominantemente narrativo. É necessário que haja outros elementos como enredo, personagens, tempo e espaço bem definidos para caracterizar uma narração. Um texto expositivo ou descritivo também pode usar verbos no passado. Portanto, a assertiva está ERRADA.",
+      "commentary_meta": {
+        "comment_ids": [
+          "2-língua-portuguesa-2-reconhecimento-de-tipos-e-gêneros-textuais_com_008"
+        ],
+        "count": 1
+      }
+    }
+  ],
+  "comentarios_questoes": [
+    {
+      "comment_id": "2-língua-portuguesa-2-reconhecimento-de-tipos-e-gêneros-textuais_com_001",
+      "question_id": "2-língua-portuguesa-2-reconhecimento-de-tipos-e-gêneros-textuais_qst_001",
+      "content": "O fragmento apresenta uma descrição detalhada das características físicas de uma pessoa ('alto, magro, queixo pontiagudo', etc.). A função principal é a de caracterizar, retratar, o que é a essência do tipo textual descritivo. Portanto, a assertiva está CORRETA.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "2-língua-portuguesa-2-reconhecimento-de-tipos-e-gêneros-textuais_com_002",
+      "question_id": "2-língua-portuguesa-2-reconhecimento-de-tipos-e-gêneros-textuais_qst_002",
+      "content": "O texto aborda um problema (plásticos nos oceanos) e expõe diferentes perspectivas sobre ele, sem necessariamente defender uma tese única de forma persuasiva, mas sim apresentando fatos e análises. A exposição de um fenômeno e suas facetas caracteriza o tipo dissertativo-expositivo. Portanto, a assertiva está CORRETA.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "2-língua-portuguesa-2-reconhecimento-de-tipos-e-gêneros-textuais_com_003",
+      "question_id": "2-língua-portuguesa-2-reconhecimento-de-tipos-e-gêneros-textuais_qst_003",
+      "content": "Uma receita culinária é um gênero textual que tem como objetivo instruir o leitor sobre como fazer algo, apresentando uma sequência de passos e ingredientes. Essa finalidade e estrutura são características do tipo textual injuntivo (ou instrucional), e não narrativo. Narrar implica contar uma história com enredo, personagens, tempo e espaço. Portanto, a assertiva está ERRADA.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "2-língua-portuguesa-2-reconhecimento-de-tipos-e-gêneros-textuais_com_004",
+      "question_id": "2-língua-portuguesa-2-reconhecimento-de-tipos-e-gêneros-textuais_qst_004",
+      "content": "O editorial jornalístico é um gênero textual que expressa a opinião do veículo de comunicação sobre um tema. Para isso, ele apresenta argumentos e busca persuadir o leitor. Essa característica de apresentar e defender um ponto de vista é a essência do tipo textual dissertativo-argumentativo. Portanto, a assertiva está CORRETA.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "2-língua-portuguesa-2-reconhecimento-de-tipos-e-gêneros-textuais_com_005",
+      "question_id": "2-língua-portuguesa-2-reconhecimento-de-tipos-e-gêneros-textuais_qst_005",
+      "content": "Textos que visam orientar o leitor a realizar uma tarefa, com instruções claras e verbos no imperativo (ou infinitivo com valor de ordem), são classificados como injuntivos. Manuais de montagem se encaixam perfeitamente nessa descrição. Portanto, a assertiva está CORRETA.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "2-língua-portuguesa-2-reconhecimento-de-tipos-e-gêneros-textuais_com_006",
+      "question_id": "2-língua-portuguesa-2-reconhecimento-de-tipos-e-gêneros-textuais_qst_006",
+      "content": "O texto de Cristovam Buarque, ao discutir a evolução e a necessidade de transformação da universidade, apresenta uma tese (a necessidade de inventar uma nova instituição) e a defende com argumentos. A intenção de convencer o leitor sobre um ponto de vista é a marca do tipo dissertativo-argumentativo. Portanto, a assertiva está CORRETA.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "2-língua-portuguesa-2-reconhecimento-de-tipos-e-gêneros-textuais_com_007",
+      "question_id": "2-língua-portuguesa-2-reconhecimento-de-tipos-e-gêneros-textuais_qst_007",
+      "content": "Um verbete de enciclopédia tem como função principal informar e explicar conceitos de maneira objetiva e imparcial. Essa finalidade de expor informações sem a intenção de persuadir é característica do tipo textual dissertativo-expositivo. Portanto, a assertiva está CORRETA.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "2-língua-portuguesa-2-reconhecimento-de-tipos-e-gêneros-textuais_com_008",
+      "question_id": "2-língua-portuguesa-2-reconhecimento-de-tipos-e-gêneros-textuais_qst_008",
+      "content": "Embora verbos no pretérito sejam comuns em textos narrativos, sua presença isolada não é suficiente para classificar um texto como predominantemente narrativo. É necessário que haja outros elementos como enredo, personagens, tempo e espaço bem definidos para caracterizar uma narração. Um texto expositivo ou descritivo também pode usar verbos no passado. Portanto, a assertiva está ERRADA.",
+      "explanation_alternatives": ""
+    }
+  ],
+  "checklist_revisao": [
+    {
+      "checklist_id": "2-língua-portuguesa-2-reconhecimento-de-tipos-e-gêneros-textuais_chk_001",
+      "material_id": "2-língua-portuguesa-2-reconhecimento-de-tipos-e-gêneros-textuais",
+      "topic_id": "2-língua-portuguesa-2-reconhecimento-de-tipos-e-gêneros-textuais_top_001",
+      "item_text": "Diferenciar claramente tipos textuais de gêneros textuais.",
+      "completed": false,
+      "order": 1
+    },
+    {
+      "checklist_id": "2-língua-portuguesa-2-reconhecimento-de-tipos-e-gêneros-textuais_chk_002",
+      "material_id": "2-língua-portuguesa-2-reconhecimento-de-tipos-e-gêneros-textuais",
+      "topic_id": "2-língua-portuguesa-2-reconhecimento-de-tipos-e-gêneros-textuais_top_002",
+      "item_text": "Conhecer as características e finalidades de cada um dos 5 tipos textuais.",
+      "completed": false,
+      "order": 2
+    },
+    {
+      "checklist_id": "2-língua-portuguesa-2-reconhecimento-de-tipos-e-gêneros-textuais_chk_003",
+      "material_id": "2-língua-portuguesa-2-reconhecimento-de-tipos-e-gêneros-textuais",
+      "topic_id": "2-língua-portuguesa-2-reconhecimento-de-tipos-e-gêneros-textuais_top_008",
+      "item_text": "Identificar exemplos comuns de gêneros textuais e seus tipos predominantes.",
+      "completed": false,
+      "order": 3
+    },
+    {
+      "checklist_id": "2-língua-portuguesa-2-reconhecimento-de-tipos-e-gêneros-textuais_chk_004",
+      "material_id": "2-língua-portuguesa-2-reconhecimento-de-tipos-e-gêneros-textuais",
+      "topic_id": "2-língua-portuguesa-2-reconhecimento-de-tipos-e-gêneros-textuais_top_010",
+      "item_text": "Analisar a intenção comunicativa do texto para determinar o tipo predominante.",
+      "completed": false,
+      "order": 4
+    },
+    {
+      "checklist_id": "2-língua-portuguesa-2-reconhecimento-de-tipos-e-gêneros-textuais_chk_005",
+      "material_id": "2-língua-portuguesa-2-reconhecimento-de-tipos-e-gêneros-textuais",
+      "topic_id": "2-língua-portuguesa-2-reconhecimento-de-tipos-e-gêneros-textuais_top_012",
+      "item_text": "Estar atento às pegadinhas da CEBRASPE, especialmente a confusão entre tipo/gênero e a identificação de tipos secundários.",
+      "completed": false,
+      "order": 5
+    },
+    {
+      "checklist_id": "2-língua-portuguesa-2-reconhecimento-de-tipos-e-gêneros-textuais_chk_006",
+      "material_id": "2-língua-portuguesa-2-reconhecimento-de-tipos-e-gêneros-textuais",
+      "topic_id": "2-língua-portuguesa-2-reconhecimento-de-tipos-e-gêneros-textuais_top_011",
+      "item_text": "Praticar com questões anteriores da CEBRASPE no formato Certo/Errado.",
+      "completed": false,
+      "order": 6
+    }
+  ],
+  "referencias": [
+    {
+      "reference_id": "2-língua-portuguesa-2-reconhecimento-de-tipos-e-gêneros-textuais_ref_001",
+      "material_id": "2-língua-portuguesa-2-reconhecimento-de-tipos-e-gêneros-textuais",
+      "reference_type": "Livro",
+      "author_name": null,
+      "title": "CUNHA, Celso; CINTRA, Lindley. Nova Gramática do Português Contemporâneo. Rio de Janeiro: Lexikon, 2007.",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.youtube.com/watch?v=kY6z2Qz_12g",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "2-língua-portuguesa-2-reconhecimento-de-tipos-e-gêneros-textuais_ref_002",
+      "material_id": "2-língua-portuguesa-2-reconhecimento-de-tipos-e-gêneros-textuais",
+      "reference_type": "Livro",
+      "author_name": null,
+      "title": "FIORIN, José Luiz. Para entender o texto: leitura e redação. São Paulo: Ática, 2007.",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": null,
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "2-língua-portuguesa-2-reconhecimento-de-tipos-e-gêneros-textuais_ref_003",
+      "material_id": "2-língua-portuguesa-2-reconhecimento-de-tipos-e-gêneros-textuais",
+      "reference_type": "Plataforma de Questões",
+      "author_name": null,
+      "title": "CEBRASPE. Questões de Concurso sobre Gêneros Textuais em Português para CESPE / CEBRASPE. Qconcursos.com.",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.qconcursos.com/questoes-de-concursos/disciplinas/portugues/generos-textuais/bancas/cespe-cebraspe",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "2-língua-portuguesa-2-reconhecimento-de-tipos-e-gêneros-textuais_ref_004",
+      "material_id": "2-língua-portuguesa-2-reconhecimento-de-tipos-e-gêneros-textuais",
+      "reference_type": "Artigo Online",
+      "author_name": null,
+      "title": "CEBRASPE. Escala de prioridade CEBRASPE 2024: Entenda como a banca cobra. Décio Terror.",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://decioterror.com.br/escala-de-prioridade-cebraspe-2024-entenda-como-a-banca-cobra/",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "2-língua-portuguesa-2-reconhecimento-de-tipos-e-gêneros-textuais_ref_005",
+      "material_id": "2-língua-portuguesa-2-reconhecimento-de-tipos-e-gêneros-textuais",
+      "reference_type": "Artigo Online",
+      "author_name": null,
+      "title": "Tipos textuais e gêneros textuais [Com questões]. Instituto Adriana Figueiredo.",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://institutoadrianafigueiredo.com.br/tipos-textuais-e-generos-textuais/",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "2-língua-portuguesa-2-reconhecimento-de-tipos-e-gêneros-textuais_ref_006",
+      "material_id": "2-língua-portuguesa-2-reconhecimento-de-tipos-e-gêneros-textuais",
+      "reference_type": "Artigo Online",
+      "author_name": null,
+      "title": "Gêneros textuais: o que são, tipos e exemplos. Toda Matéria.",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.todamateria.com.br/generos-textuais/",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "2-língua-portuguesa-2-reconhecimento-de-tipos-e-gêneros-textuais_ref_007",
+      "material_id": "2-língua-portuguesa-2-reconhecimento-de-tipos-e-gêneros-textuais",
+      "reference_type": "Artigo Online",
+      "author_name": null,
+      "title": "Diferença entre gênero e tipo textual [Classificação e Exemplos].",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.estrategiaconcursos.com.br/blog/diferenca-entre-genero-e-tipo-textual/",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "2-língua-portuguesa-2-reconhecimento-de-tipos-e-gêneros-textuais_ref_008",
+      "material_id": "2-língua-portuguesa-2-reconhecimento-de-tipos-e-gêneros-textuais",
+      "reference_type": "Artigo Online",
+      "author_name": null,
+      "title": "Tipologia Textual: O que é, tipos e características. Blog Gran Cursos Online.",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://blog.grancursosonline.com.br/tipologia-textual/",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "2-língua-portuguesa-2-reconhecimento-de-tipos-e-gêneros-textuais_ref_009",
+      "material_id": "2-língua-portuguesa-2-reconhecimento-de-tipos-e-gêneros-textuais",
+      "reference_type": "Vídeo Aula",
+      "author_name": null,
+      "title": "RECONHECIMENTO DE TIPOS E GÊNEROS TEXTUAIS: TIPOLOGIA EM QUESTÕES COMENTADAS - YouTube. Professor Mazziotti.",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.youtube.com/watch?v=1p_9J-z_0_M",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "2-língua-portuguesa-2-reconhecimento-de-tipos-e-gêneros-textuais_ref_010",
+      "material_id": "2-língua-portuguesa-2-reconhecimento-de-tipos-e-gêneros-textuais",
+      "reference_type": "Artigo Online",
+      "author_name": null,
+      "title": "Interpretação de textos para o Cespe/Cebraspe: Como melhorar? Estratégia Concursos.",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.estrategiaconcursos.com.br/blog/interpretacao-de-textos-para-o-cespe-cebraspe/",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "2-língua-portuguesa-2-reconhecimento-de-tipos-e-gêneros-textuais_ref_011",
+      "material_id": "2-língua-portuguesa-2-reconhecimento-de-tipos-e-gêneros-textuais",
+      "reference_type": "Documento Online",
+      "author_name": null,
+      "title": "Exercícios de Tipologia Textual com Gabarito. Scribd.",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://pt.scribd.com/document/697956691/Exercicios-de-Tipologia-Textual-com-Gabarito",
+      "accessed_at": null,
+      "description": null
+    }
+  ],
+  "estatisticas_de_geracao": {
+    "total_topicos": 12,
+    "total_componentes_topico": 13,
+    "total_entendimentos_relevantes": 2,
+    "total_pegadinhas": 3,
+    "total_pontos_memorizacao": 4,
+    "total_itens_quadro_sinotico": 3,
+    "total_questoes": 8,
+    "total_comentarios_questoes": 8,
+    "total_itens_checklist": 6,
+    "total_referencias": 11
+  },
+  "validacao_interna": {
+    "pesquisa_previa_realizada": true,
+    "analise_de_cobrancas_anteriores_realizada": true,
+    "material_atualizado": true,
+    "json_valido": true,
+    "estrutura_relacional_respeitada": true,
+    "numeracao_respeitada": true,
+    "houve_quebra_de_hierarquia": false,
+    "houve_nivel_numerico_superior_a_3": false,
+    "fontes_verificadas": true,
+    "sem_informacao_inventada": true
+  },
+  "metadata": {
+    "source_file_name": "2__língua-portuguesa__2-reconhecimento-de-tipos-e-gêneros-textuais.json",
+    "normalized_checksum": "c925278d05f2ce14424f3d7c075e3003cc18b9d71430299b60f3cd03e85fecfc",
+    "subject_slug": "portugues",
+    "material_slug": "reconhecimento-tipos-generos-textuais",
+    "title_slug": "reconhecimento-de-tipos-e-generos-textuais-para",
+    "board_slug": "cebraspe",
+    "counters": {
+      "blocks": 7,
+      "topics": 12,
+      "topic_components": 13,
+      "traps": 3,
+      "memory_points": 4,
+      "summary_items": 3,
+      "questions": 8,
+      "question_comments": 8,
+      "checklist_items": 6,
+      "references": 11
+    }
+  }
+}

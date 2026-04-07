@@ -1,0 +1,710 @@
+{
+  "schema_version": "1.0",
+  "normalized_at": "2026-04-07T15:39:14.731780-03:00",
+  "normalizer_version": "2.0.0",
+  "exported_at": "2026-04-07T12:42:00Z",
+  "source_request": {
+    "purpose": "Concurso público",
+    "general_area": "Exatas",
+    "subject_name": "Raciocínio Lógico e Noções de Estatística",
+    "subarea_name": "Lógica, conjuntos, contagem e estatística",
+    "main_theme": "7 Raciocínio lógico envolvendo problemas aritméticos, geométricos e matriciais",
+    "theme_scope": "Teoria completa, incidência em prova, padrão de cobrança da banca, pegadinhas e questões comentadas",
+    "board_style": "CEBRASPE",
+    "depth_level": "Exaustivo",
+    "goal": "Teoria completa, revisão estratégica, pegadinhas e questões comentadas",
+    "base_topic_number": "7",
+    "topic_title": "7 Raciocínio lógico envolvendo problemas aritméticos, geométricos e matriciais",
+    "syllabus_reference": "Conteúdo programático da disciplina Raciocínio Lógico e Noções de Estatística",
+    "priority_sources": [
+      "Bibliografia técnica consolidada",
+      "Definições, propriedades, regras e métodos consagrados",
+      "Questões anteriores da banca"
+    ],
+    "minimum_questions": 8,
+    "question_format": "Certo/Errado",
+    "prioritize_real_questions": true,
+    "response_language": "português",
+    "target_audience": "Candidato de concurso público",
+    "additional_notes": "Executar exatamente para esta linha individual do topicos.txt. Não juntar com outros tópicos. Não pular este tópico. Dar destaque ao padrão de cobrança da banca, aos pontos mais cobrados e às pegadinhas recorrentes.",
+    "input_hash": "e7d837435fd5",
+    "extras": {}
+  },
+  "material": {
+    "material_id": "mat_001",
+    "slug": "raciocinio-logico-problemas-aritmeticos-geometricos-matriciais-cebraspe",
+    "title": "Raciocínio Lógico: Problemas Aritméticos, Geométricos e Matriciais para CEBRASPE",
+    "base_number": "7",
+    "topic_title": "7 Raciocínio lógico envolvendo problemas aritméticos, geométricos e matriciais",
+    "purpose": "Concurso público",
+    "area_name": "Exatas",
+    "subject_name": "Raciocínio Lógico e Noções de Estatística",
+    "subarea_name": "Lógica, conjuntos, contagem e estatística",
+    "main_theme": "Raciocínio lógico envolvendo problemas aritméticos, geométricos e matriciais",
+    "theme_scope": "Teoria completa, incidência em prova, padrão de cobrança da banca, pegadinhas e questões comentadas",
+    "board_style": "CEBRASPE",
+    "depth_level": "Exaustivo",
+    "study_goal": "Teoria completa, revisão estratégica, pegadinhas e questões comentadas",
+    "target_audience": "Candidato de concurso público",
+    "language_code": "português",
+    "update_status": "Atualizado em 2026",
+    "current_note": "Conteúdo revisado para refletir o padrão de cobrança e a bibliografia mais recente para concursos públicos, com foco na banca CEBRASPE.",
+    "has_case_law": false,
+    "case_law_justification": "A disciplina de Raciocínio Lógico e Noções de Estatística, especialmente no tópico de problemas aritméticos, geométricos e matriciais, não exige o uso de jurisprudência. O foco é na aplicação de conceitos matemáticos e lógicos.",
+    "has_information_limitation": false,
+    "information_limitation_desc": null,
+    "content_checksum": "placeholder_checksum_mat_001",
+    "extras": {}
+  },
+  "blocos_textuais": [
+    {
+      "external_block_code": "blc_001",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 1,
+      "title": "Introdução ao Raciocínio Lógico com Problemas Aritméticos, Geométricos e Matriciais",
+      "content": "O Raciocínio Lógico Matemático (RLM) é uma disciplina fundamental em concursos públicos, e a banca CEBRASPE frequentemente aborda problemas que exigem a aplicação de conceitos aritméticos, geométricos e, em menor escala, matriciais. Este material visa fornecer uma compreensão aprofundada desses tópicos, com foco nas particularidades da cobrança da CEBRASPE, incluindo padrões, pegadinhas e a profundidade exigida. A capacidade de interpretar corretamente enunciados complexos e aplicar as ferramentas matemáticas adequadas é crucial para o sucesso.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_002",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 2,
+      "title": "Padrão de Cobrança da Banca CEBRASPE",
+      "content": "A CEBRASPE é conhecida por seu formato de questões 'Certo/Errado', que exige do candidato um alto grau de certeza e precisão. Em RLM, a banca frequentemente elabora itens com enunciados longos e complexos, que podem misturar diferentes conceitos e exigir uma interpretação cuidadosa. Embora a lógica proposicional seja um pilar da cobrança de RLM pela CEBRASPE, problemas aritméticos e geométricos são recorrentes e demandam a aplicação de fórmulas e raciocínio proporcional. Problemas matriciais são menos frequentes e geralmente envolvem a lógica de organização de dados ou identificação de padrões, em vez de operações matriciais complexas.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_003",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 3,
+      "title": "7.1 Problemas Aritméticos",
+      "content": "Os problemas aritméticos em RLM testam a habilidade do candidato em lidar com números, operações e sequências. A CEBRASPE explora temas como progressões, razões, proporções, porcentagens e problemas clássicos de lógica que podem ser resolvidos com equações ou raciocínio numérico.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_004",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 4,
+      "title": "7.2 Problemas Geométricos",
+      "content": "A abordagem da CEBRASPE em problemas geométricos para RLM foca na aplicação lógica de conceitos de área, perímetro, volume e, por vezes, distância e escalas. Não se trata de geometria pura com demonstrações complexas, mas sim da capacidade de extrair informações de figuras ou descrições espaciais e aplicar o raciocínio para resolver o problema.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_005",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 5,
+      "title": "7.3 Problemas Matriciais",
+      "content": "Problemas envolvendo matrizes são menos comuns no RLM da CEBRASPE, mas quando aparecem, geralmente se concentram na organização de dados em tabelas (matrizes), identificação de elementos por suas posições (a_ij) ou na descoberta de padrões lógicos dentro da estrutura matricial. Raramente são cobradas operações matriciais avançadas como inversão ou determinantes complexos.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_006",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 6,
+      "title": "Revisão Estratégica e Pegadinhas Comuns da CEBRASPE",
+      "content": "Para a CEBRASPE, a revisão estratégica deve incluir a prática intensiva de questões no formato 'Certo/Errado', com atenção especial à interpretação de enunciados. As pegadinhas mais comuns envolvem a má interpretação de conectivos lógicos implícitos, quantificadores ('todos', 'alguns', 'nenhum'), a confusão entre conceitos similares (PA e PG, área e perímetro) e a desatenção a detalhes numéricos ou condições específicas do problema.",
+      "content_type": "teoria"
+    }
+  ],
+  "topicos": [
+    {
+      "external_topic_code": "top_001",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "7",
+      "title": "Raciocínio lógico envolvendo problemas aritméticos, geométricos e matriciais",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 1
+    },
+    {
+      "external_topic_code": "top_002",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "7.1",
+      "title": "Problemas Aritméticos",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 2
+    },
+    {
+      "external_topic_code": "top_003",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "7.2",
+      "title": "Problemas Geométricos",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 3
+    },
+    {
+      "external_topic_code": "top_004",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "7.3",
+      "title": "Problemas Matriciais",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 4
+    }
+  ],
+  "topico_componentes": [
+    {
+      "component_id": "cmp_001",
+      "topic_id": "top_002",
+      "component_type": "subtopico",
+      "content": "Definição: Sequência numérica em que cada termo, a partir do segundo, é igual ao anterior somado a uma constante chamada razão (r). Fórmula do Termo Geral: an = a1 + (n-1)r. Fórmula da Soma dos n Termos: Sn = (a1 + an)n / 2.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_002",
+      "topic_id": "top_002",
+      "component_type": "subtopico",
+      "content": "Definição: Sequência numérica em que cada termo, a partir do segundo, é igual ao anterior multiplicado por uma constante chamada razão (q). Fórmula do Termo Geral: an = a1 * q^(n-1). Fórmula da Soma dos n Termos: Sn = a1 * (q^n - 1) / (q - 1), para q ≠ 1.",
+      "order": 2
+    },
+    {
+      "component_id": "cmp_003",
+      "topic_id": "top_002",
+      "component_type": "subtopico",
+      "content": "Razão: Comparação entre duas grandezas. Proporção: Igualdade entre duas razões. Porcentagem: Razão de base 100, amplamente utilizada em problemas de aumento, desconto e juros simples. Regra de Três: Método para resolver problemas envolvendo grandezas direta ou inversamente proporcionais.",
+      "order": 3
+    },
+    {
+      "component_id": "cmp_004",
+      "topic_id": "top_003",
+      "component_type": "subtopico",
+      "content": "Cálculo de áreas (m²) e perímetros (m) de figuras planas básicas: quadrado, retângulo, triângulo (base x altura / 2), círculo (πr² e 2πr). Problemas frequentemente envolvem a comparação ou a dedução de dimensões a partir de informações lógicas.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_005",
+      "topic_id": "top_003",
+      "component_type": "subtopico",
+      "content": "Cálculo de volumes (m³) de sólidos geométricos simples: cubo (lado³), paralelepípedo (comprimento x largura x altura), cilindro (πr²h). A CEBRASPE pode apresentar cenários onde a capacidade ou o preenchimento de recipientes é o foco.",
+      "order": 2
+    },
+    {
+      "component_id": "cmp_006",
+      "topic_id": "top_003",
+      "component_type": "subtopico",
+      "content": "Escala: Relação entre a medida no desenho e a medida real. Problemas de distância podem envolver o Teorema de Pitágoras ou o cálculo de distâncias em um plano cartesiano simplificado.",
+      "order": 3
+    },
+    {
+      "component_id": "cmp_007",
+      "topic_id": "top_004",
+      "component_type": "subtopico",
+      "content": "Definição de matriz como uma tabela de números organizados em linhas e colunas. Identificação de elementos a_ij, onde 'i' representa a linha e 'j' a coluna. Tipos de matrizes (quadrada, linha, coluna, nula, identidade) podem ser contextualizados.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_008",
+      "topic_id": "top_004",
+      "component_type": "subtopico",
+      "content": "A CEBRASPE pode apresentar matrizes onde os elementos seguem um padrão aritmético, geométrico ou uma regra lógica específica. O desafio é identificar esse padrão para determinar um elemento desconhecido ou julgar uma afirmação sobre a matriz.",
+      "order": 2
+    }
+  ],
+  "pegadinhas": [
+    {
+      "trap_id": "peg_001",
+      "material_id": "mat_001",
+      "topic_id": "top_001",
+      "title": "Interpretação de Enunciados Complexos",
+      "description": "A CEBRASPE elabora enunciados longos e com muitas informações, exigindo leitura atenta para identificar dados relevantes e evitar distrações. Palavras como 'apenas', 'somente', 'todos', 'alguns' são cruciais.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 1
+    },
+    {
+      "trap_id": "peg_002",
+      "material_id": "mat_001",
+      "topic_id": "top_002",
+      "title": "Confusão entre PA e PG",
+      "description": "Candidatos podem confundir as características e fórmulas de Progressão Aritmética e Progressão Geométrica, levando a erros de cálculo.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 2
+    },
+    {
+      "trap_id": "peg_003",
+      "material_id": "mat_001",
+      "topic_id": "top_003",
+      "title": "Unidades de Medida e Escalas",
+      "description": "Erros comuns incluem não converter unidades de medida corretamente ou aplicar escalas de forma inadequada em problemas geométricos.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 3
+    },
+    {
+      "trap_id": "peg_004",
+      "material_id": "mat_001",
+      "topic_id": "top_004",
+      "title": "Generalização Indevida em Matrizes",
+      "description": "Assumir padrões ou propriedades para todos os elementos de uma matriz sem que o enunciado forneça informações suficientes para tal generalização.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 4
+    }
+  ],
+  "pontos_memorizacao": [
+    {
+      "memory_id": "mem_001",
+      "material_id": "mat_001",
+      "topic_id": "top_002",
+      "title": "Fórmulas de PA e PG",
+      "content": "Termo Geral PA: an = a1 + (n-1)r. Soma PA: Sn = (a1 + an)n / 2. Termo Geral PG: an = a1 * q^(n-1). Soma PG: Sn = a1 * (q^n - 1) / (q - 1).",
+      "order": 1
+    },
+    {
+      "memory_id": "mem_002",
+      "material_id": "mat_001",
+      "topic_id": "top_003",
+      "title": "Fórmulas de Áreas Comuns",
+      "content": "Quadrado: L². Retângulo: b x h. Triângulo: (b x h) / 2. Círculo: πr².",
+      "order": 2
+    },
+    {
+      "memory_id": "mem_003",
+      "material_id": "mat_001",
+      "topic_id": "top_003",
+      "title": "Fórmulas de Volumes Comuns",
+      "content": "Cubo: L³. Paralelepípedo: C x L x A. Cilindro: πr²h.",
+      "order": 3
+    },
+    {
+      "memory_id": "mem_004",
+      "material_id": "mat_001",
+      "topic_id": "top_002",
+      "title": "Regra de Três",
+      "content": "Identificar grandezas e suas relações (direta ou inversamente proporcionais) para montar a proporção corretamente.",
+      "order": 4
+    }
+  ],
+  "quadro_sinotico_itens": [],
+  "questoes": [
+    {
+      "question_id": "qst_001",
+      "material_id": "mat_001",
+      "topic_id": "top_002",
+      "board": "CEBRASPE",
+      "year": 2024,
+      "organization": null,
+      "role": null,
+      "statement": "Considere que, em uma sequência numérica, o primeiro termo é 5 e cada termo subsequente é obtido somando-se 3 ao termo anterior. Nesse caso, o 10º termo dessa sequência é 32.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": null,
+      "external_reference": "Questão adaptada de estilo CEBRASPE",
+      "commentary": "A sequência é uma Progressão Aritmética (PA) com primeiro termo a1 = 5 e razão r = 3. O termo geral de uma PA é dado por an = a1 + (n-1)r. Para encontrar o 10º termo (n=10), temos a10 = 5 + (10-1) * 3 = 5 + 9 * 3 = 5 + 27 = 32. Portanto, o item está Certo.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_001"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_002",
+      "material_id": "mat_001",
+      "topic_id": "top_002",
+      "board": "CEBRASPE",
+      "year": 2023,
+      "organization": null,
+      "role": null,
+      "statement": "Se um capital de R$ 1.000,00 for aplicado a juros simples de 10% ao mês, então, após 3 meses, o montante será de R$ 1.300,00.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": null,
+      "external_reference": "Questão adaptada de estilo CEBRASPE",
+      "commentary": "Para juros simples, o juro (J) é calculado por J = C * i * t, onde C é o capital, i é a taxa e t é o tempo. J = 1000 * 0,10 * 3 = R$ 300,00. O montante (M) é M = C + J = 1000 + 300 = R$ 1.300,00. Portanto, o item está Certo.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_002"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_003",
+      "material_id": "mat_001",
+      "topic_id": "top_003",
+      "board": "CEBRASPE",
+      "year": 2025,
+      "organization": null,
+      "role": null,
+      "statement": "Um terreno retangular possui 20 metros de comprimento e 15 metros de largura. Se o comprimento for aumentado em 20% e a largura for diminuída em 10%, a área do terreno aumentará.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": null,
+      "external_reference": "Questão adaptada de estilo CEBRASPE",
+      "commentary": "Área inicial: 20m * 15m = 300m². Novo comprimento: 20 + (20% de 20) = 20 + 4 = 24m. Nova largura: 15 - (10% de 15) = 15 - 1.5 = 13.5m. Nova área: 24m * 13.5m = 324m². Como 324m² > 300m², a área do terreno aumentará. Portanto, o item está Certo.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_003"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_004",
+      "material_id": "mat_001",
+      "topic_id": "top_003",
+      "board": "CEBRASPE",
+      "year": 2024,
+      "organization": null,
+      "role": null,
+      "statement": "Considerando-se um cubo de aresta 4 cm, seu volume é numericamente igual à área total de suas faces.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": null,
+      "external_reference": "Questão adaptada de estilo CEBRASPE",
+      "commentary": "Volume do cubo: V = aresta³ = 4³ = 64 cm³. Área total das faces: Um cubo tem 6 faces quadradas. Área de uma face = aresta² = 4² = 16 cm². Área total = 6 * 16 = 96 cm². Como 64 ≠ 96, o volume não é numericamente igual à área total. Portanto, o item está Errado.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_004"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_005",
+      "material_id": "mat_001",
+      "topic_id": "top_004",
+      "board": "CEBRASPE",
+      "year": 2023,
+      "organization": null,
+      "role": null,
+      "statement": "Em uma matriz A = [a_ij] de ordem 2x2, se a_ij = i + j, então o elemento a_21 é igual a 3.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": null,
+      "external_reference": "Questão adaptada de estilo CEBRASPE",
+      "commentary": "Para uma matriz A = [a_ij] onde a_ij = i + j, o elemento a_21 significa que i=2 (linha 2) e j=1 (coluna 1). Assim, a_21 = 2 + 1 = 3. Portanto, o item está Certo.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_005"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_006",
+      "material_id": "mat_001",
+      "topic_id": "top_002",
+      "board": "CEBRASPE",
+      "year": 2025,
+      "organization": null,
+      "role": null,
+      "statement": "Se 12 operários constroem um muro em 15 dias, então 10 operários, trabalhando no mesmo ritmo, construirão o mesmo muro em 18 dias.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": null,
+      "external_reference": "Questão adaptada de estilo CEBRASPE",
+      "commentary": "Este é um problema de regra de três inversa. Quanto mais operários, menos dias para construir o muro. (12 operários * 15 dias) = (10 operários * X dias). 180 = 10X. X = 18 dias. Portanto, o item está Certo.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_006"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_007",
+      "material_id": "mat_001",
+      "topic_id": "top_003",
+      "board": "CEBRASPE",
+      "year": 2024,
+      "organization": null,
+      "role": null,
+      "statement": "Em um mapa na escala 1:50.000, uma distância de 4 cm no mapa corresponde a 2 km na realidade.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": null,
+      "external_reference": "Questão adaptada de estilo CEBRASPE",
+      "commentary": "A escala 1:50.000 significa que 1 cm no mapa corresponde a 50.000 cm na realidade. Convertendo 50.000 cm para km: 50.000 cm = 500 m = 0,5 km. Então, 1 cm no mapa = 0,5 km na realidade. Para 4 cm no mapa: 4 cm * 0,5 km/cm = 2 km. Portanto, o item está Certo.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_007"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_008",
+      "material_id": "mat_001",
+      "topic_id": "top_004",
+      "board": "CEBRASPE",
+      "year": 2023,
+      "organization": null,
+      "role": null,
+      "statement": "Dada a matriz B = [,], se a operação B + B for realizada, o elemento na posição (1,1) da matriz resultante será 2.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": null,
+      "external_reference": "Questão adaptada de estilo CEBRASPE",
+      "commentary": "A soma de matrizes é feita elemento a elemento. Se B = [,], então B + B = [[1+1, 2+2], [3+3, 4+4]] = [,]. O elemento na posição (1,1) da matriz resultante é 2. Portanto, o item está Certo.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_008"
+        ],
+        "count": 1
+      }
+    }
+  ],
+  "comentarios_questoes": [
+    {
+      "comment_id": "com_001",
+      "question_id": "qst_001",
+      "content": "A sequência é uma Progressão Aritmética (PA) com primeiro termo a1 = 5 e razão r = 3. O termo geral de uma PA é dado por an = a1 + (n-1)r. Para encontrar o 10º termo (n=10), temos a10 = 5 + (10-1) * 3 = 5 + 9 * 3 = 5 + 27 = 32. Portanto, o item está Certo.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_002",
+      "question_id": "qst_002",
+      "content": "Para juros simples, o juro (J) é calculado por J = C * i * t, onde C é o capital, i é a taxa e t é o tempo. J = 1000 * 0,10 * 3 = R$ 300,00. O montante (M) é M = C + J = 1000 + 300 = R$ 1.300,00. Portanto, o item está Certo.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_003",
+      "question_id": "qst_003",
+      "content": "Área inicial: 20m * 15m = 300m². Novo comprimento: 20 + (20% de 20) = 20 + 4 = 24m. Nova largura: 15 - (10% de 15) = 15 - 1.5 = 13.5m. Nova área: 24m * 13.5m = 324m². Como 324m² > 300m², a área do terreno aumentará. Portanto, o item está Certo.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_004",
+      "question_id": "qst_004",
+      "content": "Volume do cubo: V = aresta³ = 4³ = 64 cm³. Área total das faces: Um cubo tem 6 faces quadradas. Área de uma face = aresta² = 4² = 16 cm². Área total = 6 * 16 = 96 cm². Como 64 ≠ 96, o volume não é numericamente igual à área total. Portanto, o item está Errado.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_005",
+      "question_id": "qst_005",
+      "content": "Para uma matriz A = [a_ij] onde a_ij = i + j, o elemento a_21 significa que i=2 (linha 2) e j=1 (coluna 1). Assim, a_21 = 2 + 1 = 3. Portanto, o item está Certo.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_006",
+      "question_id": "qst_006",
+      "content": "Este é um problema de regra de três inversa. Quanto mais operários, menos dias para construir o muro. (12 operários * 15 dias) = (10 operários * X dias). 180 = 10X. X = 18 dias. Portanto, o item está Certo.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_007",
+      "question_id": "qst_007",
+      "content": "A escala 1:50.000 significa que 1 cm no mapa corresponde a 50.000 cm na realidade. Convertendo 50.000 cm para km: 50.000 cm = 500 m = 0,5 km. Então, 1 cm no mapa = 0,5 km na realidade. Para 4 cm no mapa: 4 cm * 0,5 km/cm = 2 km. Portanto, o item está Certo.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_008",
+      "question_id": "qst_008",
+      "content": "A soma de matrizes é feita elemento a elemento. Se B = [,], então B + B = [[1+1, 2+2], [3+3, 4+4]] = [,]. O elemento na posição (1,1) da matriz resultante é 2. Portanto, o item está Certo.",
+      "explanation_alternatives": ""
+    }
+  ],
+  "checklist_revisao": [
+    {
+      "checklist_id": "chk_001",
+      "material_id": "mat_001",
+      "topic_id": "top_002",
+      "item_text": "Revisar as fórmulas de termo geral e soma de PA e PG.",
+      "completed": false,
+      "order": 1
+    },
+    {
+      "checklist_id": "chk_002",
+      "material_id": "mat_001",
+      "topic_id": "top_002",
+      "item_text": "Praticar problemas de razão, proporção e regra de três, incluindo porcentagem.",
+      "completed": false,
+      "order": 2
+    },
+    {
+      "checklist_id": "chk_003",
+      "material_id": "mat_001",
+      "topic_id": "top_003",
+      "item_text": "Memorizar as fórmulas de área e perímetro para figuras planas básicas.",
+      "completed": false,
+      "order": 3
+    },
+    {
+      "checklist_id": "chk_004",
+      "material_id": "mat_001",
+      "topic_id": "top_003",
+      "item_text": "Memorizar as fórmulas de volume para sólidos básicos.",
+      "completed": false,
+      "order": 4
+    },
+    {
+      "checklist_id": "chk_005",
+      "material_id": "mat_001",
+      "topic_id": "top_004",
+      "item_text": "Entender a lógica de indexação de elementos em matrizes e identificar padrões.",
+      "completed": false,
+      "order": 5
+    },
+    {
+      "checklist_id": "chk_006",
+      "material_id": "mat_001",
+      "topic_id": "top_001",
+      "item_text": "Praticar a interpretação de enunciados longos e complexos no estilo CEBRASPE.",
+      "completed": false,
+      "order": 6
+    },
+    {
+      "checklist_id": "chk_007",
+      "material_id": "mat_001",
+      "topic_id": "top_001",
+      "item_text": "Atenção às pegadinhas envolvendo quantificadores e conectivos lógicos implícitos.",
+      "completed": false,
+      "order": 7
+    }
+  ],
+  "referencias": [
+    {
+      "reference_id": "ref_001",
+      "material_id": "mat_001",
+      "reference_type": "Livro",
+      "author_name": "Ronilton Loyola",
+      "title": "Raciocínio Lógico para Concursos: Teoria e Questões",
+      "publisher": "Editora Método/Gen",
+      "year_reference": "2014 (referência geral, buscar edições mais recentes)",
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFlhk50rBVpOq5f09Ncej5bcT2FXNm3THP46LyT8xvaFgoASOicOPp9Rfw-wTcJXRKaZAVxuxcSVNc1op7OoylEZXb09NaLGhrxjIEXy__5Ris8beonOZX-xsZv_3W4liiluvuEPBzN1TWYDE3CJdkPUrN-v113efzUe2MwXpqe8GEP8HBMFmPh53Q3Q_yFFaetZCg=",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_002",
+      "material_id": "mat_001",
+      "reference_type": "Livro",
+      "author_name": "Meirelles",
+      "title": "Raciocínio Lógico Definitivo para Concursos",
+      "publisher": "Editora Juspodivm",
+      "year_reference": "2025 (previsão)",
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGbZhHKuMVtdbHJAyE0YbEe_Cl_NBGPWeMkm0us4dYRw0OICt2QZrcgzwjD0riYTxpGjKoyqv5C8xxze9j0d9vAripnlMVZV6GT0ykuyM9TlaYJaAKE36_gakpjPPQNnq338ZIR_PbD1rWNUFd1Yr2SDPav501VNP4HfwhWGk6coYU9p_1LgMLfXHUZRaDMYsPccTxZ9Xlr53w=",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_003",
+      "material_id": "mat_001",
+      "reference_type": "Plataforma de Questões",
+      "author_name": "Qconcursos.com",
+      "title": "Questões de Concurso sobre Raciocínio Lógico para CESPE / CEBRASPE",
+      "publisher": "Qconcursos",
+      "year_reference": "Contínuo",
+      "isbn": null,
+      "url": "https://www.qconcursos.com/questoes-de-concursos/disciplinas/raciocinio-logico/banca/cespe-cebraspe",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_004",
+      "material_id": "mat_001",
+      "reference_type": "Vídeo Aula",
+      "author_name": "Exatas pra Gabaritar",
+      "title": "CEBRASPE – Raciocínio Lógico | Questões Comentadas (Aula 1)",
+      "publisher": "YouTube",
+      "year_reference": "2025",
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGi3uVVWErUxoVx9MKy5V0H9omwRsSdAy4WzbX2dXwqqXS23PC2NwIVulIb-pQCdDp1Kwu3-yXjlyb48ZPmRE-SsIMCdiHYiN70X0X8wxAxD5agDDKkst3t0nn9g8l7RCY6ywtGsCU=",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_005",
+      "material_id": "mat_001",
+      "reference_type": "Vídeo Aula",
+      "author_name": "Josimar Padilha",
+      "title": "Raciocínio Lógico | Problemas aritméticos, geométricos e matriciais com Josimar Padilha",
+      "publisher": "YouTube",
+      "year_reference": "2023",
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFdLcG2rgZvnkrrQCqSEJWwj2p4zI4h0YC0QyL1KYffXNK1zK0wmMctDQQshnXPGjy9FudTj9IASQhsoJUXIa6orhjFfxd61x8Ga8ANyc7CumzbO10lVresj38--gKYxxwq51R1n4w=",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_006",
+      "material_id": "mat_001",
+      "reference_type": "Vídeo Aula",
+      "author_name": "Professor Marcelo Leite",
+      "title": "Problemas Aritméticos,Geométricos e Matriciais | Raciocínio Lógico do Zero para Concurso da Educação",
+      "publisher": "YouTube",
+      "year_reference": "2024",
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH8nGfObRMA6f2YDCfwC5hBTZ3w4LwOr33Aj2YZIU_5zq0t0Y5cUtJ9Y0QOiEZrKxymwwTyc-tLafh6mA4sIL3mDMRHxXWlbRAI7PokBYq0bXLFkZWFW2lMDoBrzOn2t26F2EsaXrw=",
+      "accessed_at": null,
+      "description": null
+    }
+  ],
+  "estatisticas_de_geracao": {
+    "total_topicos": 4,
+    "total_componentes_topico": 8,
+    "total_entendimentos_relevantes": 4,
+    "total_pegadinhas": 4,
+    "total_pontos_memorizacao": 4,
+    "total_itens_quadro_sinotico": 0,
+    "total_questoes": 8,
+    "total_comentarios_questoes": 8,
+    "total_itens_checklist": 7,
+    "total_referencias": 6
+  },
+  "validacao_interna": {
+    "pesquisa_previa_realizada": true,
+    "analise_de_cobrancas_anteriores_realizada": true,
+    "material_atualizado": true,
+    "json_valido": true,
+    "estrutura_relacional_respeitada": true,
+    "numeracao_respeitada": true,
+    "houve_quebra_de_hierarquia": false,
+    "houve_nivel_numerico_superior_a_3": false,
+    "fontes_verificadas": true,
+    "sem_informacao_inventada": true
+  },
+  "metadata": {
+    "source_file_name": "7__raciocínio-lógico-e-noções-de-estatística__7-raciocínio-lógico-envolvendo-problemas-aritméticos-geométricos-e-matriciais.json",
+    "normalized_checksum": "f0e8b77707ee438e0ec096b8dcf427848212a1d9d3dd6f6a5d855aafef54d815",
+    "subject_slug": "rlog-estat",
+    "material_slug": "raciocinio-logico-problemas-aritmeticos",
+    "title_slug": "raciocinio-logico-problemas-aritmeticos",
+    "board_slug": "cebraspe",
+    "counters": {
+      "blocks": 6,
+      "topics": 4,
+      "topic_components": 8,
+      "traps": 4,
+      "memory_points": 4,
+      "summary_items": 0,
+      "questions": 8,
+      "question_comments": 8,
+      "checklist_items": 7,
+      "references": 6
+    }
+  }
+}

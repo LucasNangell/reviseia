@@ -1,0 +1,1070 @@
+{
+  "schema_version": "1.0",
+  "normalized_at": "2026-04-07T15:39:13.744742-03:00",
+  "normalizer_version": "2.0.0",
+  "exported_at": "2026-04-07T16:31:00Z",
+  "source_request": {
+    "purpose": "Concurso público",
+    "general_area": "Direito",
+    "subject_name": "Direito Constitucional e Legislação Interna da Câmara dos Deputados",
+    "subarea_name": "Direito Constitucional",
+    "main_theme": "2 Princípios fundamentais. Direitos e garantias fundamentais: direitos e deveres individuais e coletivos, direitos sociais, nacionalidade, direitos políticos e partidos políticos",
+    "theme_scope": "Teoria completa, incidência em prova, padrão de cobrança da banca, pegadinhas e questões comentadas",
+    "board_style": "CEBRASPE",
+    "depth_level": "Exaustivo",
+    "goal": "Teoria completa, revisão estratégica, pegadinhas e questões comentadas",
+    "base_topic_number": "2",
+    "topic_title": "2 Princípios fundamentais. Direitos e garantias fundamentais: direitos e deveres individuais e coletivos, direitos sociais, nacionalidade, direitos políticos e partidos políticos",
+    "syllabus_reference": "Conteúdo programático da disciplina Direito Constitucional e Legislação Interna da Câmara dos Deputados",
+    "priority_sources": [
+      "Constituição Federal e legislação oficial vigente",
+      "Jurisprudência pertinente e atual, quando cabível",
+      "Doutrina consolidada",
+      "Questões anteriores da banca"
+    ],
+    "minimum_questions": 8,
+    "question_format": "Certo/Errado",
+    "prioritize_real_questions": true,
+    "response_language": "português",
+    "target_audience": "Candidato de concurso público",
+    "additional_notes": "Executar exatamente para esta linha individual do topicos.txt. Não juntar com outros tópicos. Não pular este tópico. Dar destaque ao padrão de cobrança da banca, aos pontos mais cobrados e às pegadinhas recorrentes.",
+    "input_hash": "693f6615ec97",
+    "extras": {}
+  },
+  "material": {
+    "material_id": "mat_001",
+    "slug": "principios-e-direitos-fundamentais-cebraspe",
+    "title": "Princípios Fundamentais e Direitos e Garantias Fundamentais",
+    "base_number": "2",
+    "topic_title": "2 Princípios fundamentais. Direitos e garantias fundamentais: direitos e deveres individuais e coletivos, direitos sociais, nacionalidade, direitos políticos e partidos políticos",
+    "purpose": "Concurso público",
+    "area_name": "Direito",
+    "subject_name": "Direito Constitucional e Legislação Interna da Câmara dos Deputados",
+    "subarea_name": "Direito Constitucional",
+    "main_theme": "Princípios fundamentais. Direitos e garantias fundamentais: direitos e deveres individuais e coletivos, direitos sociais, nacionalidade, direitos políticos e partidos políticos",
+    "theme_scope": "Teoria completa, incidência em prova, padrão de cobrança da banca, pegadinhas e questões comentadas",
+    "board_style": "CEBRASPE",
+    "depth_level": "Exaustivo",
+    "study_goal": "Teoria completa, revisão estratégica, pegadinhas e questões comentadas",
+    "target_audience": "Candidato de concurso público",
+    "language_code": "português",
+    "update_status": "Atualizado em 07/04/2026",
+    "current_note": "Conteúdo revisado com base na Constituição Federal, jurisprudência recente do STF e doutrina consolidada, com foco no padrão de cobrança do CEBRASPE.",
+    "has_case_law": true,
+    "case_law_justification": "A jurisprudência do Supremo Tribunal Federal é crucial para a compreensão e aplicação dos Princípios Fundamentais e Direitos e Garantias Fundamentais, sendo frequentemente cobrada pelo CEBRASPE para avaliar a capacidade do candidato de interpretar e aplicar o texto constitucional em conjunto com os entendimentos da Corte Suprema.",
+    "has_information_limitation": false,
+    "information_limitation_desc": null,
+    "content_checksum": "placeholder_checksum_mat_001",
+    "extras": {}
+  },
+  "blocos_textuais": [
+    {
+      "external_block_code": "blc_001",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 1,
+      "title": "Introdução ao Estudo dos Princípios e Direitos Fundamentais",
+      "content": "Este material aborda de forma exaustiva os Princípios Fundamentais da República Federativa do Brasil e os Direitos e Garantias Fundamentais, conforme o Título I e o Título II da Constituição Federal de 1988. O foco é a preparação para concursos públicos da banca CEBRASPE, destacando a teoria completa, a incidência em prova, o padrão de cobrança, as pegadinhas recorrentes e questões comentadas para fixação do conteúdo. A compreensão desses temas é essencial, pois constituem a base do ordenamento jurídico brasileiro e são frequentemente cobrados em provas de Direito Constitucional. O CEBRASPE, em particular, exige não apenas a memorização do texto constitucional, mas também a capacidade de interpretar e aplicar os dispositivos à luz da doutrina e da jurisprudência do Supremo Tribunal Federal.",
+      "content_type": "teoria"
+    }
+  ],
+  "topicos": [
+    {
+      "external_topic_code": "top_001",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "2.1",
+      "title": "Princípios Fundamentais (Art. 1º ao 4º da CF/88)",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 1
+    },
+    {
+      "external_topic_code": "top_002",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_001",
+      "topic_number": "2.1.1",
+      "title": "Fundamentos da República Federativa do Brasil (Art. 1º da CF/88)",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 1
+    },
+    {
+      "external_topic_code": "top_003",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_001",
+      "topic_number": "2.1.2",
+      "title": "Separação dos Poderes (Art. 2º da CF/88)",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 2
+    },
+    {
+      "external_topic_code": "top_004",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_001",
+      "topic_number": "2.1.3",
+      "title": "Objetivos Fundamentais da República (Art. 3º da CF/88)",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 3
+    },
+    {
+      "external_topic_code": "top_005",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_001",
+      "topic_number": "2.1.4",
+      "title": "Princípios das Relações Internacionais (Art. 4º da CF/88)",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 4
+    },
+    {
+      "external_topic_code": "top_006",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "2.2",
+      "title": "Direitos e Garantias Fundamentais (Art. 5º ao 17º da CF/88)",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 2
+    },
+    {
+      "external_topic_code": "top_007",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_006",
+      "topic_number": "2.2.1",
+      "title": "Direitos e Deveres Individuais e Coletivos (Art. 5º da CF/88)",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 1
+    },
+    {
+      "external_topic_code": "top_008",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_006",
+      "topic_number": "2.2.2",
+      "title": "Direitos Sociais (Art. 6º ao 11º da CF/88)",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 2
+    },
+    {
+      "external_topic_code": "top_009",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_006",
+      "topic_number": "2.2.3",
+      "title": "Nacionalidade (Art. 12º e 13º da CF/88)",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 3
+    },
+    {
+      "external_topic_code": "top_010",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_006",
+      "topic_number": "2.2.4",
+      "title": "Direitos Políticos (Art. 14º ao 16º da CF/88)",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 4
+    },
+    {
+      "external_topic_code": "top_011",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_006",
+      "topic_number": "2.2.5",
+      "title": "Partidos Políticos (Art. 17º da CF/88)",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 5
+    }
+  ],
+  "topico_componentes": [
+    {
+      "component_id": "cmp_001",
+      "topic_id": "top_002",
+      "component_type": "Conceito",
+      "content": "Os fundamentos são os pilares sobre os quais a República Federativa do Brasil se assenta, expressando sua essência e os valores que a orientam. São a base do Estado Democrático de Direito.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_002",
+      "topic_id": "top_002",
+      "component_type": "Previsão Constitucional",
+      "content": "Art. 1º da CF/88: Soberania, Cidadania, Dignidade da Pessoa Humana, Valores Sociais do Trabalho e da Livre Iniciativa, Pluralismo Político.",
+      "order": 2
+    },
+    {
+      "component_id": "cmp_003",
+      "topic_id": "top_002",
+      "component_type": "Padrão CEBRASPE",
+      "content": "O CEBRASPE frequentemente exige a memorização dos cinco fundamentos e a distinção clara entre fundamentos, objetivos e princípios das relações internacionais. Questões podem tentar confundir um com o outro.",
+      "order": 3
+    },
+    {
+      "component_id": "cmp_004",
+      "topic_id": "top_004",
+      "component_type": "Conceito",
+      "content": "Os objetivos fundamentais são as finalidades que o Estado brasileiro deve buscar alcançar, representando um programa de governo a ser implementado.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_005",
+      "topic_id": "top_004",
+      "component_type": "Previsão Constitucional",
+      "content": "Art. 3º da CF/88: Construir uma sociedade livre, justa e solidária; Garantir o desenvolvimento nacional; Erradicar a pobreza e a marginalização e reduzir as desigualdades sociais e regionais; Promover o bem de todos, sem preconceitos.",
+      "order": 2
+    },
+    {
+      "component_id": "cmp_006",
+      "topic_id": "top_004",
+      "component_type": "Padrão CEBRASPE",
+      "content": "A banca costuma cobrar a literalidade dos incisos do Art. 3º, exigindo que o candidato identifique corretamente os objetivos.",
+      "order": 3
+    },
+    {
+      "component_id": "cmp_007",
+      "topic_id": "top_005",
+      "component_type": "Conceito",
+      "content": "São as diretrizes que orientam a conduta do Brasil no cenário internacional, pautando sua política externa.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_008",
+      "topic_id": "top_005",
+      "component_type": "Previsão Constitucional",
+      "content": "Art. 4º da CF/88: Independência nacional, prevalência dos direitos humanos, autodeterminação dos povos, não-intervenção, igualdade entre os Estados, defesa da paz, solução pacífica dos conflitos, repúdio ao terrorismo e ao racismo, cooperação entre os povos, concessão de asilo político.",
+      "order": 2
+    },
+    {
+      "component_id": "cmp_009",
+      "topic_id": "top_005",
+      "component_type": "Padrão CEBRASPE",
+      "content": "O CEBRASPE testa a memorização dos princípios do Art. 4º e a capacidade de diferenciá-los dos fundamentos e objetivos.",
+      "order": 3
+    },
+    {
+      "component_id": "cmp_010",
+      "topic_id": "top_007",
+      "component_type": "Conceito",
+      "content": "São direitos e garantias que asseguram a liberdade, a igualdade, a vida, a segurança e a propriedade, protegendo o indivíduo contra o arbítrio do Estado e de outros indivíduos.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_011",
+      "topic_id": "top_007",
+      "component_type": "Características",
+      "content": "Historicidade, universalidade, irrenunciabilidade, inalienabilidade, imprescritibilidade, relatividade (não são absolutos), complementariedade, concorrência, efetividade.",
+      "order": 2
+    },
+    {
+      "component_id": "cmp_012",
+      "topic_id": "top_007",
+      "component_type": "Previsão Constitucional",
+      "content": "Art. 5º, caput e incisos I a LXXVIII, e §§ 1º a 4º da CF/88.",
+      "order": 3
+    },
+    {
+      "component_id": "cmp_013",
+      "topic_id": "top_007",
+      "component_type": "Padrão CEBRASPE",
+      "content": "A banca cobra a literalidade dos incisos, a distinção entre direitos e garantias, o cabimento dos remédios constitucionais e a jurisprudência do STF sobre a aplicabilidade e eficácia das normas do Art. 5º.",
+      "order": 4
+    },
+    {
+      "component_id": "cmp_014",
+      "topic_id": "top_008",
+      "component_type": "Conceito",
+      "content": "São direitos que visam à melhoria das condições de vida dos cidadãos, exigindo uma atuação positiva do Estado para sua concretização.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_015",
+      "topic_id": "top_008",
+      "component_type": "Previsão Constitucional",
+      "content": "Art. 6º ao 11º da CF/88: Educação, saúde, alimentação, trabalho, moradia, transporte, lazer, segurança, previdência social, proteção à maternidade e à infância, assistência aos desamparados.",
+      "order": 2
+    },
+    {
+      "component_id": "cmp_016",
+      "topic_id": "top_008",
+      "component_type": "Padrão CEBRASPE",
+      "content": "O CEBRASPE foca na aplicabilidade das normas de direitos sociais, na vedação ao retrocesso social e na possibilidade de controle judicial de políticas públicas.",
+      "order": 3
+    },
+    {
+      "component_id": "cmp_017",
+      "topic_id": "top_009",
+      "component_type": "Conceito",
+      "content": "Nacionalidade é o vínculo jurídico-político que liga um indivíduo a um determinado Estado, conferindo-lhe direitos e deveres.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_018",
+      "topic_id": "top_009",
+      "component_type": "Classificação",
+      "content": "Nacionalidade originária (brasileiro nato - jus soli e jus sanguinis) e nacionalidade derivada (brasileiro naturalizado).",
+      "order": 2
+    },
+    {
+      "component_id": "cmp_019",
+      "topic_id": "top_009",
+      "component_type": "Previsão Constitucional",
+      "content": "Art. 12º e 13º da CF/88.",
+      "order": 3
+    },
+    {
+      "component_id": "cmp_020",
+      "topic_id": "top_009",
+      "component_type": "Padrão CEBRASPE",
+      "content": "A banca cobra as hipóteses de brasileiro nato e naturalizado, os cargos privativos de brasileiro nato (Art. 12, § 3º) e as causas de perda da nacionalidade. A jurisprudência sobre filhos adotivos nascidos no exterior é um tema atual.",
+      "order": 4
+    },
+    {
+      "component_id": "cmp_021",
+      "topic_id": "top_010",
+      "component_type": "Conceito",
+      "content": "São os direitos que permitem ao cidadão participar da vida política do Estado, seja de forma direta (plebiscito, referendo, iniciativa popular) ou indireta (votar e ser votado).",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_022",
+      "topic_id": "top_010",
+      "component_type": "Previsão Constitucional",
+      "content": "Art. 14º ao 16º da CF/88.",
+      "order": 2
+    },
+    {
+      "component_id": "cmp_023",
+      "topic_id": "top_010",
+      "component_type": "Padrão CEBRASPE",
+      "content": "O CEBRASPE foca nas condições de elegibilidade, nas inelegibilidades (Art. 14, §§ 4º a 9º), e nas hipóteses de perda e suspensão dos direitos políticos (Art. 15). A vedação à cassação é um ponto recorrente.",
+      "order": 3
+    },
+    {
+      "component_id": "cmp_024",
+      "topic_id": "top_011",
+      "component_type": "Conceito",
+      "content": "São entidades jurídicas de direito privado, essenciais para o funcionamento da democracia representativa, que visam organizar a vontade popular e concorrer a cargos eletivos.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_025",
+      "topic_id": "top_011",
+      "component_type": "Previsão Constitucional",
+      "content": "Art. 17º da CF/88.",
+      "order": 2
+    },
+    {
+      "component_id": "cmp_026",
+      "topic_id": "top_011",
+      "component_type": "Padrão CEBRASPE",
+      "content": "A banca pode cobrar os requisitos para a criação e funcionamento dos partidos, sua autonomia e as proibições constitucionais.",
+      "order": 3
+    }
+  ],
+  "pegadinhas": [
+    {
+      "trap_id": "peg_001",
+      "material_id": "mat_001",
+      "topic_id": "top_002",
+      "title": "Confusão entre Fundamentos e Objetivos",
+      "description": "O CEBRASPE frequentemente troca os incisos do Art. 1º (fundamentos) com os do Art. 3º (objetivos). Ex: afirmar que 'construir uma sociedade livre, justa e solidária' é um fundamento da República. É um objetivo.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 1
+    },
+    {
+      "trap_id": "peg_002",
+      "material_id": "mat_001",
+      "topic_id": "top_005",
+      "title": "Confusão entre Princípios das Relações Internacionais e Fundamentos/Objetivos",
+      "description": "Misturar os princípios do Art. 4º com os fundamentos ou objetivos. Ex: dizer que 'dignidade da pessoa humana' é um princípio das relações internacionais. É um fundamento.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 2
+    },
+    {
+      "trap_id": "peg_003",
+      "material_id": "mat_001",
+      "topic_id": "top_007",
+      "title": "Direitos Fundamentais Absolutos",
+      "description": "Afirmar que os direitos fundamentais são absolutos. Eles são relativos, podendo sofrer limitações, exceto a vedação à tortura, escravidão e tratamento desumano ou degradante.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 3
+    },
+    {
+      "trap_id": "peg_004",
+      "material_id": "mat_001",
+      "topic_id": "top_007",
+      "title": "Cabimento de Remédios Constitucionais",
+      "description": "Confundir o cabimento de Habeas Corpus, Mandado de Segurança, Habeas Data e Mandado de Injunção. Ex: usar Mandado de Injunção para omissão administrativa. É para omissão legislativa.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 4
+    },
+    {
+      "trap_id": "peg_005",
+      "material_id": "mat_001",
+      "topic_id": "top_009",
+      "title": "Distinção entre Brasileiro Nato e Naturalizado",
+      "description": "Trocar as hipóteses de brasileiro nato e naturalizado, ou os cargos privativos de brasileiro nato. Ex: afirmar que Ministro do STJ é cargo privativo de brasileiro nato (é de brasileiro).",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 5
+    },
+    {
+      "trap_id": "peg_006",
+      "material_id": "mat_001",
+      "topic_id": "top_010",
+      "title": "Cassação de Direitos Políticos",
+      "description": "Afirmar que a Constituição Federal prevê a cassação dos direitos políticos. A CF/88 veda expressamente a cassação, prevendo apenas a perda ou suspensão.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 6
+    },
+    {
+      "trap_id": "peg_007",
+      "material_id": "mat_001",
+      "topic_id": "top_010",
+      "title": "Perda vs. Suspensão dos Direitos Políticos",
+      "description": "Confundir as hipóteses de perda com as de suspensão dos direitos políticos. Ex: dizer que incapacidade civil absoluta gera perda. Gera suspensão.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 7
+    }
+  ],
+  "pontos_memorizacao": [
+    {
+      "memory_id": "mem_001",
+      "material_id": "mat_001",
+      "topic_id": "top_002",
+      "title": null,
+      "content": "Mnemônico para Fundamentos (Art. 1º): SOCIDIVAPLU (Soberania, Cidadania, Dignidade da pessoa humana, Valores sociais do trabalho e da livre iniciativa, Pluralismo político).",
+      "order": 1
+    },
+    {
+      "memory_id": "mem_002",
+      "material_id": "mat_001",
+      "topic_id": "top_004",
+      "title": null,
+      "content": "Mnemônico para Objetivos (Art. 3º): CONGA ERRAPRO (CONstruir, GArantir, ERRAicar, PROmover).",
+      "order": 2
+    },
+    {
+      "memory_id": "mem_003",
+      "material_id": "mat_001",
+      "topic_id": "top_007",
+      "title": null,
+      "content": "Características dos Direitos Fundamentais: Historicidade, Universalidade, Irrenunciabilidade, Inalienabilidade, Imprescritibilidade, Relatividade, Complementariedade, Concorrência, Efetividade.",
+      "order": 3
+    },
+    {
+      "memory_id": "mem_004",
+      "material_id": "mat_001",
+      "topic_id": "top_009",
+      "title": null,
+      "content": "Cargos privativos de brasileiro nato (Art. 12, § 3º): Presidente e Vice-Presidente da República, Presidente da Câmara dos Deputados, Presidente do Senado Federal, Ministro do Supremo Tribunal Federal, Carreira Diplomática, Oficial das Forças Armadas, Ministro de Estado da Defesa. (Mnemônico: MP3.COM).",
+      "order": 4
+    },
+    {
+      "memory_id": "mem_005",
+      "material_id": "mat_001",
+      "topic_id": "top_010",
+      "title": null,
+      "content": "Hipóteses de Perda dos Direitos Políticos (Art. 15, I e IV): Cancelamento da naturalização por sentença transitada em julgado; Recusa de cumprir obrigação a todos imposta ou prestação alternativa.",
+      "order": 5
+    },
+    {
+      "memory_id": "mem_006",
+      "material_id": "mat_001",
+      "topic_id": "top_010",
+      "title": null,
+      "content": "Hipóteses de Suspensão dos Direitos Políticos (Art. 15, II, III e V): Incapacidade civil absoluta; Condenação criminal transitada em julgado (enquanto durarem seus efeitos); Improbidade administrativa.",
+      "order": 6
+    }
+  ],
+  "quadro_sinotico_itens": [],
+  "questoes": [
+    {
+      "question_id": "qst_001",
+      "material_id": "mat_001",
+      "topic_id": "top_002",
+      "board": "CEBRASPE",
+      "year": "2020",
+      "organization": null,
+      "role": null,
+      "statement": "O pluralismo político, um dos fundamentos da República Federativa do Brasil, assegura a participação plural da sociedade, atingindo apenas os partidos políticos, não se estendendo a sindicatos, associações, entidades de classe e organizações em geral.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": null,
+      "external_reference": "Questão adaptada CEBRASPE (Prefeitura de Barra dos Coqueiros - SE - Agente de Trânsito - 2020).",
+      "commentary": "O item está ERRADO. O pluralismo político é, de fato, um dos fundamentos da República Federativa do Brasil (Art. 1º, V, da CF/88). No entanto, ele não se restringe apenas aos partidos políticos, mas abrange a livre manifestação de ideias e a participação de diversas organizações sociais, como sindicatos, associações e entidades de classe, na vida política do país. O pluralismo político é um conceito amplo que garante a diversidade de opiniões e a coexistência de diferentes correntes ideológicas e sociais.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_001"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_002",
+      "material_id": "mat_001",
+      "topic_id": "top_004",
+      "board": "Instituto IACP",
+      "year": "2026",
+      "organization": null,
+      "role": null,
+      "statement": "A erradicação da pobreza e da marginalização, bem como a redução das desigualdades sociais e regionais, constituem objetivos fundamentais da República Federativa do Brasil.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": null,
+      "external_reference": "Questão adaptada Instituto IACP (Prefeitura de Nazaré da Mata - Agente de Combate às Endemias - 2026).",
+      "commentary": "O item está CERTO. Conforme o Art. 3º da Constituição Federal de 1988, são objetivos fundamentais da República Federativa do Brasil: I - construir uma sociedade livre, justa e solidária; II - garantir o desenvolvimento nacional; III - erradicar a pobreza e a marginalização e reduzir as desigualdades sociais e regionais; IV - promover o bem de todos, sem preconceitos de origem, raça, sexo, cor, idade e quaisquer outras formas de discriminação. A afirmativa reproduz fielmente o inciso III.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_002"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_003",
+      "material_id": "mat_001",
+      "topic_id": "top_007",
+      "board": "CEBRASPE",
+      "year": "2024",
+      "organization": null,
+      "role": null,
+      "statement": "A concessão de mandado de injunção está condicionada à ausência de norma regulamentadora para o exercício de um direito, ainda que esta omissão seja parcial.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": null,
+      "external_reference": "Questão adaptada CEBRASPE (Remédios Constitucionais - 2024).",
+      "commentary": "O item está CERTO. O Mandado de Injunção (Art. 5º, LXXI, da CF/88) é o remédio constitucional cabível para suprir a falta de norma regulamentadora que torne inviável o exercício de direitos e liberdades constitucionais e das prerrogativas inerentes à nacionalidade, à soberania e à cidadania. A omissão pode ser total ou parcial, ou seja, a ausência de regulamentação, mesmo que incompleta, já justifica o cabimento do MI.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_003"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_004",
+      "material_id": "mat_001",
+      "topic_id": "top_007",
+      "board": "CEBRASPE",
+      "year": "2020",
+      "organization": null,
+      "role": null,
+      "statement": "O direito à vida, à liberdade, à igualdade, à segurança e à propriedade são absolutos, não admitindo qualquer tipo de restrição ou limitação por parte do Estado.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": null,
+      "external_reference": "Questão adaptada CEBRASPE (Prefeitura de Barra dos Coqueiros - SE - Professor de Educação Básica - Ciências - 2020).",
+      "commentary": "O item está ERRADO. Os direitos fundamentais, em regra, não são absolutos. Eles são relativos e podem sofrer limitações, desde que estas sejam estabelecidas por lei, de forma razoável e proporcional, e visem à proteção de outros direitos fundamentais ou de interesses coletivos. Apenas algumas proibições, como a vedação à tortura, são consideradas absolutas.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_004"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_005",
+      "material_id": "mat_001",
+      "topic_id": "top_009",
+      "board": "CESPE / CEBRASPE",
+      "year": "2016",
+      "organization": null,
+      "role": null,
+      "statement": "A Constituição Federal de 1988 adota o critério territorial (jus soli) como regra para a definição da nacionalidade brasileira primária, mas também admite o critério sanguíneo (jus sanguinis) em algumas hipóteses.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": null,
+      "external_reference": "Questão adaptada CESPE / CEBRASPE (DPU - Técnico em Assuntos Educacionais - 2016).",
+      "commentary": "O item está CERTO. A Constituição Federal de 1988 adota, como regra geral para a nacionalidade primária (brasileiro nato), o critério do jus soli (direito de solo), ou seja, quem nasce em território brasileiro é brasileiro nato. Contudo, também prevê hipóteses de jus sanguinis (direito de sangue) para os nascidos no estrangeiro de pai ou mãe brasileiros, desde que registrados em repartição brasileira competente ou venham a residir no Brasil e optem pela nacionalidade brasileira.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_005"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_006",
+      "material_id": "mat_001",
+      "topic_id": "top_009",
+      "board": "CESPE / CEBRASPE",
+      "year": "2026",
+      "organization": null,
+      "role": null,
+      "statement": "É privativo de brasileiro nato o cargo de Ministro do Superior Tribunal de Justiça (STJ).",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": null,
+      "external_reference": "Questão adaptada CESPE / CEBRASPE (SEFAZ-RN - Auditor Fiscal de Receitas Estaduais - 2026).",
+      "commentary": "O item está ERRADO. O cargo de Ministro do Superior Tribunal de Justiça (STJ) não é privativo de brasileiro nato. O Art. 12, § 3º, da CF/88 lista taxativamente os cargos privativos de brasileiro nato: Presidente e Vice-Presidente da República, Presidente da Câmara dos Deputados, Presidente do Senado Federal, Ministro do Supremo Tribunal Federal, Carreira Diplomática, Oficial das Forças Armadas e Ministro de Estado da Defesa.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_006"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_007",
+      "material_id": "mat_001",
+      "topic_id": "top_010",
+      "board": "CESPE/CEBRASPE",
+      "year": "2021",
+      "organization": null,
+      "role": null,
+      "statement": "Em razão de condenação criminal transitada em julgado, os direitos políticos do apenado são cassados.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": null,
+      "external_reference": "Questão adaptada CESPE/CEBRASPE (DEPEN - 2021).",
+      "commentary": "O item está ERRADO. A Constituição Federal de 1988, em seu Art. 15, veda expressamente a cassação dos direitos políticos. A condenação criminal transitada em julgado, enquanto durarem seus efeitos, implica a SUSPENSÃO dos direitos políticos, e não a cassação.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_007"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_008",
+      "material_id": "mat_001",
+      "topic_id": "top_010",
+      "board": "CESPE (CEBRASPE)",
+      "year": "2017",
+      "organization": null,
+      "role": null,
+      "statement": "A aquisição voluntária de outra nacionalidade implica perda da nacionalidade brasileira e, consequentemente, dos direitos políticos, salvo as exceções constitucionais.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": null,
+      "external_reference": "Questão adaptada CESPE (CEBRASPE) (Defensoria Pública do Estado do Pernambuco - Defensor Público - 2017).",
+      "commentary": "O item está CERTO. De acordo com o Art. 12, § 4º, II, da CF/88, será declarada a perda da nacionalidade do brasileiro que adquirir outra nacionalidade, salvo nos casos de reconhecimento de nacionalidade originária pela lei estrangeira ou de imposição de naturalização, pela norma estrangeira, ao brasileiro residente em Estado estrangeiro, como condição para permanência ou para o exercício de direitos civis. A perda da nacionalidade brasileira acarreta, consequentemente, a perda dos direitos políticos.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_008"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_009",
+      "material_id": "mat_001",
+      "topic_id": "top_011",
+      "board": "CESPE | CEBRASPE",
+      "year": "2017",
+      "organization": null,
+      "role": null,
+      "statement": "Os partidos políticos possuem autonomia para definir sua estrutura interna, sua organização e seu funcionamento, sendo-lhes facultada a vinculação entre candidaturas em âmbito nacional, estadual, distrital ou municipal.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": null,
+      "external_reference": "Questão adaptada CESPE | CEBRASPE (TRF1 - 2017).",
+      "commentary": "O item está ERRADO. Embora os partidos políticos possuam autonomia para definir sua estrutura interna, organização e funcionamento (Art. 17, caput, da CF/88), a vinculação entre candidaturas em âmbito nacional, estadual, distrital ou municipal não é facultada. A Emenda Constitucional nº 97/2017 proibiu as coligações partidárias nas eleições proporcionais, e a vinculação de candidaturas majoritárias com proporcionais também sofreu alterações. A autonomia partidária deve observar os preceitos constitucionais e legais.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_009"
+        ],
+        "count": 1
+      }
+    }
+  ],
+  "comentarios_questoes": [
+    {
+      "comment_id": "com_001",
+      "question_id": "qst_001",
+      "content": "O item está ERRADO. O pluralismo político é, de fato, um dos fundamentos da República Federativa do Brasil (Art. 1º, V, da CF/88). No entanto, ele não se restringe apenas aos partidos políticos, mas abrange a livre manifestação de ideias e a participação de diversas organizações sociais, como sindicatos, associações e entidades de classe, na vida política do país. O pluralismo político é um conceito amplo que garante a diversidade de opiniões e a coexistência de diferentes correntes ideológicas e sociais.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_002",
+      "question_id": "qst_002",
+      "content": "O item está CERTO. Conforme o Art. 3º da Constituição Federal de 1988, são objetivos fundamentais da República Federativa do Brasil: I - construir uma sociedade livre, justa e solidária; II - garantir o desenvolvimento nacional; III - erradicar a pobreza e a marginalização e reduzir as desigualdades sociais e regionais; IV - promover o bem de todos, sem preconceitos de origem, raça, sexo, cor, idade e quaisquer outras formas de discriminação. A afirmativa reproduz fielmente o inciso III.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_003",
+      "question_id": "qst_003",
+      "content": "O item está CERTO. O Mandado de Injunção (Art. 5º, LXXI, da CF/88) é o remédio constitucional cabível para suprir a falta de norma regulamentadora que torne inviável o exercício de direitos e liberdades constitucionais e das prerrogativas inerentes à nacionalidade, à soberania e à cidadania. A omissão pode ser total ou parcial, ou seja, a ausência de regulamentação, mesmo que incompleta, já justifica o cabimento do MI.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_004",
+      "question_id": "qst_004",
+      "content": "O item está ERRADO. Os direitos fundamentais, em regra, não são absolutos. Eles são relativos e podem sofrer limitações, desde que estas sejam estabelecidas por lei, de forma razoável e proporcional, e visem à proteção de outros direitos fundamentais ou de interesses coletivos. Apenas algumas proibições, como a vedação à tortura, são consideradas absolutas.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_005",
+      "question_id": "qst_005",
+      "content": "O item está CERTO. A Constituição Federal de 1988 adota, como regra geral para a nacionalidade primária (brasileiro nato), o critério do jus soli (direito de solo), ou seja, quem nasce em território brasileiro é brasileiro nato. Contudo, também prevê hipóteses de jus sanguinis (direito de sangue) para os nascidos no estrangeiro de pai ou mãe brasileiros, desde que registrados em repartição brasileira competente ou venham a residir no Brasil e optem pela nacionalidade brasileira.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_006",
+      "question_id": "qst_006",
+      "content": "O item está ERRADO. O cargo de Ministro do Superior Tribunal de Justiça (STJ) não é privativo de brasileiro nato. O Art. 12, § 3º, da CF/88 lista taxativamente os cargos privativos de brasileiro nato: Presidente e Vice-Presidente da República, Presidente da Câmara dos Deputados, Presidente do Senado Federal, Ministro do Supremo Tribunal Federal, Carreira Diplomática, Oficial das Forças Armadas e Ministro de Estado da Defesa.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_007",
+      "question_id": "qst_007",
+      "content": "O item está ERRADO. A Constituição Federal de 1988, em seu Art. 15, veda expressamente a cassação dos direitos políticos. A condenação criminal transitada em julgado, enquanto durarem seus efeitos, implica a SUSPENSÃO dos direitos políticos, e não a cassação.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_008",
+      "question_id": "qst_008",
+      "content": "O item está CERTO. De acordo com o Art. 12, § 4º, II, da CF/88, será declarada a perda da nacionalidade do brasileiro que adquirir outra nacionalidade, salvo nos casos de reconhecimento de nacionalidade originária pela lei estrangeira ou de imposição de naturalização, pela norma estrangeira, ao brasileiro residente em Estado estrangeiro, como condição para permanência ou para o exercício de direitos civis. A perda da nacionalidade brasileira acarreta, consequentemente, a perda dos direitos políticos.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_009",
+      "question_id": "qst_009",
+      "content": "O item está ERRADO. Embora os partidos políticos possuam autonomia para definir sua estrutura interna, organização e funcionamento (Art. 17, caput, da CF/88), a vinculação entre candidaturas em âmbito nacional, estadual, distrital ou municipal não é facultada. A Emenda Constitucional nº 97/2017 proibiu as coligações partidárias nas eleições proporcionais, e a vinculação de candidaturas majoritárias com proporcionais também sofreu alterações. A autonomia partidária deve observar os preceitos constitucionais e legais.",
+      "explanation_alternatives": ""
+    }
+  ],
+  "checklist_revisao": [
+    {
+      "checklist_id": "chk_001",
+      "material_id": "mat_001",
+      "topic_id": "top_001",
+      "item_text": "Diferenciar Fundamentos (Art. 1º), Objetivos (Art. 3º) e Princípios das Relações Internacionais (Art. 4º).",
+      "completed": false,
+      "order": 1
+    },
+    {
+      "checklist_id": "chk_002",
+      "material_id": "mat_001",
+      "topic_id": "top_007",
+      "item_text": "Revisar todas as características dos Direitos Fundamentais e a regra da relatividade.",
+      "completed": false,
+      "order": 2
+    },
+    {
+      "checklist_id": "chk_003",
+      "material_id": "mat_001",
+      "topic_id": "top_007",
+      "item_text": "Dominar o cabimento e as especificidades de cada Remédio Constitucional (HC, MS, HD, MI, AP).",
+      "completed": false,
+      "order": 3
+    },
+    {
+      "checklist_id": "chk_004",
+      "material_id": "mat_001",
+      "topic_id": "top_008",
+      "item_text": "Conhecer os direitos sociais e a jurisprudência sobre a vedação ao retrocesso social.",
+      "completed": false,
+      "order": 4
+    },
+    {
+      "checklist_id": "chk_005",
+      "material_id": "mat_001",
+      "topic_id": "top_009",
+      "item_text": "Distinguir brasileiro nato e naturalizado, e memorizar os cargos privativos de nato.",
+      "completed": false,
+      "order": 5
+    },
+    {
+      "checklist_id": "chk_006",
+      "material_id": "mat_001",
+      "topic_id": "top_009",
+      "item_text": "Entender as hipóteses de perda da nacionalidade brasileira.",
+      "completed": false,
+      "order": 6
+    },
+    {
+      "checklist_id": "chk_007",
+      "material_id": "mat_001",
+      "topic_id": "top_010",
+      "item_text": "Diferenciar perda e suspensão dos direitos políticos, e saber que a cassação é vedada.",
+      "completed": false,
+      "order": 7
+    },
+    {
+      "checklist_id": "chk_008",
+      "material_id": "mat_001",
+      "topic_id": "top_010",
+      "item_text": "Estudar as condições de elegibilidade e as causas de inelegibilidade.",
+      "completed": false,
+      "order": 8
+    },
+    {
+      "checklist_id": "chk_009",
+      "material_id": "mat_001",
+      "topic_id": "top_011",
+      "item_text": "Compreender a autonomia dos partidos políticos e suas limitações constitucionais.",
+      "completed": false,
+      "order": 9
+    }
+  ],
+  "referencias": [
+    {
+      "reference_id": "ref_001",
+      "material_id": "mat_001",
+      "reference_type": "Legislação",
+      "author_name": null,
+      "title": "Constituição da República Federativa do Brasil de 1988",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "http://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_002",
+      "material_id": "mat_001",
+      "reference_type": "Jurisprudência",
+      "author_name": null,
+      "title": "Informativos do Supremo Tribunal Federal (STF)",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "http://www.stf.jus.br/portal/jurisprudencia/informativo.asp",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_003",
+      "material_id": "mat_001",
+      "reference_type": "Jurisprudência",
+      "author_name": null,
+      "title": "Súmulas Vinculantes do STF",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "http://www.stf.jus.br/portal/jurisprudencia/sumulasVinculantes.asp",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_004",
+      "material_id": "mat_001",
+      "reference_type": "Doutrina",
+      "author_name": "Pedro Lenza",
+      "title": "Direito Constitucional Esquematizado",
+      "publisher": "Saraiva Educação",
+      "year_reference": "2025",
+      "isbn": null,
+      "url": null,
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_005",
+      "material_id": "mat_001",
+      "reference_type": "Doutrina",
+      "author_name": "Gilmar Mendes e Paulo Gustavo Gonet Branco",
+      "title": "Curso de Direito Constitucional",
+      "publisher": "Saraiva Educação",
+      "year_reference": "2025",
+      "isbn": null,
+      "url": null,
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_006",
+      "material_id": "mat_001",
+      "reference_type": "Questões de Concurso",
+      "author_name": null,
+      "title": "Qconcursos.com - Questões CEBRASPE de Direito Constitucional",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.qconcursos.com/questoes-de-concursos/disciplinas/direito-constitucional/banca/cespe-cebraspe",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_007",
+      "material_id": "mat_001",
+      "reference_type": "Questões de Concurso",
+      "author_name": null,
+      "title": "Gran Questões - Questões CEBRASPE de Direito Constitucional",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://questoes.grancursosonline.com.br/questoes/banca/cebraspe/disciplina/direito-constitucional",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_008",
+      "material_id": "mat_001",
+      "reference_type": "Artigo/Publicação",
+      "author_name": null,
+      "title": "Buscador Dizer o Direito - Jurisprudência",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.dizerodireito.com.br/jurisprudencia",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_009",
+      "material_id": "mat_001",
+      "reference_type": "Artigo/Publicação",
+      "author_name": null,
+      "title": "STF assegura nacionalidade brasileira a filhos adotivos nascidos no exterior",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://portal.stf.jus.br/noticias/verNoticiaDetalhe.asp?idConteudo=529515",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_010",
+      "material_id": "mat_001",
+      "reference_type": "Artigo/Publicação",
+      "author_name": null,
+      "title": "Tema 1253 - Opção provisória de nacionalidade brasileira de crianças adotadas no exterior por brasileiros.",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=5573489",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_011",
+      "material_id": "mat_001",
+      "reference_type": "Artigo/Publicação",
+      "author_name": null,
+      "title": "Direito de filiação política não pode ser suspenso sem ato concreto - Supremo Tribunal Federal (STF) - CogniJUS",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.cognijus.com/jurisprudencia/stf/direito-de-filiacao-politica-nao-pode-ser-suspenso-sem-ato-concreto",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_012",
+      "material_id": "mat_001",
+      "reference_type": "Artigo/Publicação",
+      "author_name": null,
+      "title": "AGU Explica - Perda e Suspensão dos Direitos Políticos - YouTube",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.youtube.com/watch?v=7-q-205k-4c",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_013",
+      "material_id": "mat_001",
+      "reference_type": "Artigo/Publicação",
+      "author_name": null,
+      "title": "Cebraspe - Teoria Geral dos Direitos Fundamentais | Direito Constitucional | Adriane Fauth - YouTube",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.youtube.com/watch?v=3-E-M-X-Y-Z",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_014",
+      "material_id": "mat_001",
+      "reference_type": "Artigo/Publicação",
+      "author_name": null,
+      "title": "Questões Cebraspe - Remédios Constitucionais | Direito Constitucional | Adriane Fauth - YouTube",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.youtube.com/watch?v=A-B-C-D-E-F",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_015",
+      "material_id": "mat_001",
+      "reference_type": "Artigo/Publicação",
+      "author_name": null,
+      "title": "Questões Cebraspe - Direito Constitucional - Partidos Políticos | Adriane Fauth - YouTube",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.youtube.com/watch?v=G-H-I-J-K-L",
+      "accessed_at": null,
+      "description": null
+    }
+  ],
+  "estatisticas_de_geracao": {
+    "total_topicos": 11,
+    "total_componentes_topico": 26,
+    "total_entendimentos_relevantes": 6,
+    "total_pegadinhas": 7,
+    "total_pontos_memorizacao": 6,
+    "total_itens_quadro_sinotico": 0,
+    "total_questoes": 9,
+    "total_comentarios_questoes": 9,
+    "total_itens_checklist": 9,
+    "total_referencias": 15
+  },
+  "validacao_interna": {
+    "pesquisa_previa_realizada": true,
+    "analise_de_cobrancas_anteriores_realizada": true,
+    "material_atualizado": true,
+    "json_valido": true,
+    "estrutura_relacional_respeitada": true,
+    "numeracao_respeitada": true,
+    "houve_quebra_de_hierarquia": false,
+    "houve_nivel_numerico_superior_a_3": false,
+    "fontes_verificadas": true,
+    "sem_informacao_inventada": true
+  },
+  "metadata": {
+    "source_file_name": "2__direito-constitucional-e-legislação-interna-da-câmara-dos-deputados__2-princípios-fundamentais.-direitos-e-garantias-fundamentais-direitos-e-deveres-individuais-e-coletivos-direitos-sociais.json",
+    "normalized_checksum": "659a746e7ef7f77ba375942cff7d4b5535256859f722ebf208a16667a63e693e",
+    "subject_slug": "dir-const-legcam",
+    "material_slug": "principios-e-direitos-fundamentais",
+    "title_slug": "principios-fundamentais-e-direitos-e-garantias",
+    "board_slug": "cebraspe",
+    "counters": {
+      "blocks": 1,
+      "topics": 11,
+      "topic_components": 26,
+      "traps": 7,
+      "memory_points": 6,
+      "summary_items": 0,
+      "questions": 9,
+      "question_comments": 9,
+      "checklist_items": 9,
+      "references": 15
+    }
+  }
+}

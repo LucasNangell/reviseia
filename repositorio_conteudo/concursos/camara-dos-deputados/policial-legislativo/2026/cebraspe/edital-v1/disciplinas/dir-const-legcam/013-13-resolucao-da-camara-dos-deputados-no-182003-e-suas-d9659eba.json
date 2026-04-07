@@ -1,0 +1,694 @@
+{
+  "schema_version": "1.0",
+  "normalized_at": "2026-04-07T15:39:13.591472-03:00",
+  "normalizer_version": "2.0.0",
+  "exported_at": "2026-04-07T16:53:00Z",
+  "source_request": {
+    "purpose": "Concurso público",
+    "general_area": "Direito",
+    "subject_name": "Direito Constitucional e Legislação Interna da Câmara dos Deputados",
+    "subarea_name": "Direito Constitucional",
+    "main_theme": "13. Resolução da Câmara dos Deputados nº 18/2003 e suas atualizações (sem anexos): 13.1 Ato da Mesa da Câmara dos Deputados nº 234/2025 (sem anexos)",
+    "theme_scope": "Teoria completa, incidência em prova, padrão de cobrança da banca, pegadinhas e questões comentadas",
+    "board_style": "CEBRASPE",
+    "depth_level": "Exaustivo",
+    "goal": "Teoria completa, revisão estratégica, pegadinhas e questões comentadas",
+    "base_topic_number": "13",
+    "topic_title": "13. Resolução da Câmara dos Deputados nº 18/2003 e suas atualizações (sem anexos): 13.1 Ato da Mesa da Câmara dos Deputados nº 234/2025 (sem anexos)",
+    "syllabus_reference": "Conteúdo programático da disciplina Direito Constitucional e Legislação Interna da Câmara dos Deputados",
+    "priority_sources": [
+      "Constituição Federal e legislação oficial vigente",
+      "Jurisprudência pertinente e atual, quando cabível",
+      "Doutrina consolidada",
+      "Questões anteriores da banca"
+    ],
+    "minimum_questions": 8,
+    "question_format": "Certo/Errado",
+    "prioritize_real_questions": true,
+    "response_language": "português",
+    "target_audience": "Candidato de concurso público",
+    "additional_notes": "Executar exatamente para esta linha individual do topicos.txt. Não juntar com outros tópicos. Não pular este tópico. Dar destaque ao padrão de cobrança da banca, aos pontos mais cobrados e às pegadinhas recorrentes.",
+    "input_hash": "c83f27b94667",
+    "extras": {}
+  },
+  "material": {
+    "material_id": "mat_001",
+    "slug": "resolucao-camara-deputados-18-2003-ato-mesa-234-2025",
+    "title": "Resolução da Câmara dos Deputados nº 18/2003 e Ato da Mesa nº 234/2025",
+    "base_number": "13",
+    "topic_title": "13. Resolução da Câmara dos Deputados nº 18/2003 e suas atualizações (sem anexos): 13.1 Ato da Mesa da Câmara dos Deputados nº 234/2025 (sem anexos)",
+    "purpose": "Concurso público",
+    "area_name": "Direito",
+    "subject_name": "Direito Constitucional e Legislação Interna da Câmara dos Deputados",
+    "subarea_name": "Direito Constitucional",
+    "main_theme": "Legislação Interna da Câmara dos Deputados",
+    "theme_scope": "Teoria completa, incidência em prova, padrão de cobrança da banca, pegadinhas e questões comentadas",
+    "board_style": "CEBRASPE",
+    "depth_level": "Exaustivo",
+    "study_goal": "Teoria completa, revisão estratégica, pegadinhas e questões comentadas",
+    "target_audience": "Candidato de concurso público",
+    "language_code": "português",
+    "update_status": "Atualizado até 2026",
+    "current_note": "Material atualizado com as alterações da Resolução nº 18/2003 pelas Resoluções nº 8/2023 e nº 31/2025, e com o Ato da Mesa nº 234/2025.",
+    "has_case_law": false,
+    "case_law_justification": "O tema trata de legislação interna da Câmara dos Deputados, não havendo incidência relevante de jurisprudência para fins de concurso público.",
+    "has_information_limitation": false,
+    "information_limitation_desc": null,
+    "content_checksum": "placeholder_checksum",
+    "extras": {}
+  },
+  "blocos_textuais": [
+    {
+      "external_block_code": "blc_001",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 1,
+      "title": "Introdução à Legislação Interna da Câmara dos Deputados",
+      "content": "A legislação interna da Câmara dos Deputados é fundamental para a organização e o funcionamento da Casa Legislativa, sendo tema recorrente em concursos públicos, especialmente os organizados pelo CEBRASPE. Este material aborda a Resolução da Câmara dos Deputados nº 18/2003 e suas atualizações, bem como o Ato da Mesa da Câmara dos Deputados nº 234/2025, normas que tratam da estrutura e das competências do Departamento de Polícia Legislativa Federal (Depol).",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_002",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 2,
+      "title": "Resolução da Câmara dos Deputados nº 18/2003: Disposições Originais e Finalidade",
+      "content": "A Resolução da Câmara dos Deputados nº 18, de 18 de dezembro de 2003, em sua redação original, dispunha sobre o Departamento de Polícia Legislativa e a reestruturação dos cargos de Analista Legislativo – atribuição Inspetor de Segurança Legislativa e Técnico Legislativo – atribuição Agente de Segurança Legislativa. Seu objetivo primordial era organizar a segurança e a polícia interna da Câmara, estabelecendo as bases para a atuação de seus agentes. O Departamento de Polícia Legislativa era o órgão de Polícia da Câmara dos Deputados, com atividades típicas de segurança do Presidente da Câmara, Deputados Federais, servidores e autoridades nas dependências da Casa.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_003",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 3,
+      "title": "Atualizações da Resolução nº 18/2003: Resoluções nº 8/2023 e nº 31/2025",
+      "content": "A Resolução nº 18/2003 sofreu importantes alterações que a tornaram mais abrangente e alinhada às necessidades atuais da segurança legislativa. A Resolução nº 8, de 2023, alterou a ementa e o Art. 1º, renomeando o Departamento de Polícia Legislativa para **Departamento de Polícia Legislativa Federal (Depol)** e estabelecendo que sua estrutura, competências e atribuições seriam definidas em Ato da Mesa. Posteriormente, a Resolução nº 31, de 4 de novembro de 2025, alterou novamente a Resolução nº 18/2003, ampliando significativamente as competências do Depol. Entre as novas atribuições, destacam-se o cumprimento de mandados de prisão nas áreas sob responsabilidade da Câmara, a execução de conduções coercitivas e escolta de presos e depoentes de comissões parlamentares, e o assessoramento a Comissões Parlamentares de Inquérito (CPIs) com execução de ordens de prisão em flagrante e cumprimento de mandados de intimação e busca e apreensão. Essas atualizações consolidam o Depol como uma polícia de ciclo completo, com atuação em investigação, policiamento ostensivo, inteligência e proteção de dignitários.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_004",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 4,
+      "title": "Ato da Mesa da Câmara dos Deputados nº 234/2025: Estrutura e Competências do Depol",
+      "content": "O Ato da Mesa da Câmara dos Deputados nº 234, de 22 de dezembro de 2025, é a norma que reorganiza a estrutura administrativa e dispõe sobre as funções comissionadas do Departamento de Polícia Legislativa Federal (Depol). Este Ato detalha as competências do Depol, que incluem: I - planejar, coordenar, dirigir e executar as atividades de policiamento e segurança relacionadas a bens, serviços e interesses da Câmara dos Deputados e suas áreas circunvizinhas; II - realizar a prevenção e a repressão de ilícitos penais; III - planejar, coordenar, dirigir e executar os procedimentos de controle de acesso e saída de pessoas, veículos e materiais; IV - executar a fiscalização de trânsito nas vias adjacentes às áreas sob responsabilidade da Câmara; V - realizar a cautela de armas, munições e instrumentos de menor potencial ofensivo; VI - acompanhar o cumprimento de mandados de busca e apreensão; VII - realizar conduções e escoltas de presos e depoentes; VIII - planejar, coordenar, dirigir e executar a segurança do Presidente da Câmara em qualquer localidade do território nacional e no exterior. O Ato da Mesa nº 234/2025 reforça a autonomia do Poder Legislativo e a capacidade do Depol de atuar como uma agência de segurança de estado completa e multifacetada.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_005",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 5,
+      "title": "Padrão de Cobrança da Banca CEBRASPE",
+      "content": "A banca CEBRASPE (antigo CESPE) é conhecida por seu estilo de questões 'Certo/Errado', que exige do candidato precisão e atenção aos detalhes. Para legislação interna da Câmara dos Deputados, o CEBRASPE costuma cobrar: 1. **Literalidade da norma:** Muitas questões reproduzem trechos da lei, alterando uma palavra ou expressão para tornar o item incorreto. 2. **Competências e atribuições:** É comum a cobrança das exatas competências de cada órgão ou cargo, buscando confundir o candidato com a inversão ou atribuição indevida de funções. 3. **Prazos e quóruns:** Embora menos frequentes neste tema específico, em outras legislações internas, detalhes numéricos são alvos de pegadinhas. 4. **Distinções conceituais:** A banca pode explorar a diferença entre termos similares (ex: 'convocar' vs. 'solicitar'). 5. **Situações hipotéticas:** Questões mais longas podem apresentar cenários para que o candidato aplique a norma. O foco é na interpretação, análise e tomada de decisão, exigindo um estudo aprofundado e a memorização dos pontos-chave.",
+      "content_type": "teoria"
+    }
+  ],
+  "topicos": [
+    {
+      "external_topic_code": "top_001",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "13",
+      "title": "Resolução da Câmara dos Deputados nº 18/2003 e suas atualizações (sem anexos)",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 1
+    },
+    {
+      "external_topic_code": "top_002",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_001",
+      "topic_number": "13.1",
+      "title": "Ato da Mesa da Câmara dos Deputados nº 234/2025 (sem anexos)",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 2
+    }
+  ],
+  "topico_componentes": [
+    {
+      "component_id": "cmp_001",
+      "topic_id": "top_001",
+      "component_type": "subtopico",
+      "content": "A Resolução nº 18/2003 estabeleceu a organização do Departamento de Polícia Legislativa, responsável pela segurança e policiamento da Câmara dos Deputados. Originalmente, tratava da reestruturação de cargos e definia as atividades típicas de polícia da Casa.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_002",
+      "topic_id": "top_001",
+      "component_type": "subtopico",
+      "content": "A Resolução nº 8/2023 renomeou o Departamento para Departamento de Polícia Legislativa Federal (Depol) e determinou que sua estrutura e competências seriam definidas em Ato da Mesa. Esta alteração foi crucial para a modernização do órgão.",
+      "order": 2
+    },
+    {
+      "component_id": "cmp_003",
+      "topic_id": "top_001",
+      "component_type": "subtopico",
+      "content": "A Resolução nº 31/2025 ampliou as atribuições do Depol, incluindo o cumprimento de mandados de prisão, conduções coercitivas, escoltas e assessoramento a CPIs, consolidando sua atuação como polícia de ciclo completo.",
+      "order": 3
+    },
+    {
+      "component_id": "cmp_004",
+      "topic_id": "top_002",
+      "component_type": "subtopico",
+      "content": "O Ato da Mesa nº 234/2025 reorganiza a estrutura administrativa e as funções comissionadas do Depol, detalhando suas competências e a forma de atuação. É a norma mais recente e específica sobre o funcionamento interno da Polícia Legislativa Federal.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_005",
+      "topic_id": "top_002",
+      "component_type": "subtopico",
+      "content": "As competências do Depol são abrangentes, incluindo segurança patrimonial, prevenção e repressão de ilícitos, controle de acesso, fiscalização de trânsito, cautela de armas, acompanhamento de mandados judiciais, conduções e escoltas, e segurança de autoridades, com destaque para a segurança do Presidente da Câmara em qualquer localidade.",
+      "order": 2
+    },
+    {
+      "component_id": "cmp_006",
+      "topic_id": "top_002",
+      "component_type": "subtopico",
+      "content": "O Ato da Mesa nº 234/2025, em conjunto com as atualizações da Resolução nº 18/2003, confere ao Depol a característica de polícia de ciclo completo, atuando desde a prevenção e inteligência até a investigação e repressão de ilícitos, ressalvadas as atribuições da corregedoria parlamentar para questões de quebra de decoro.",
+      "order": 3
+    }
+  ],
+  "pegadinhas": [
+    {
+      "trap_id": "peg_001",
+      "material_id": "mat_001",
+      "topic_id": "top_001",
+      "title": "Pegadinha 1",
+      "description": "Confundir as atribuições originais da Resolução nº 18/2003 com as atualizadas pelas Resoluções nº 8/2023 e nº 31/2025. O CEBRASPE pode apresentar a redação antiga como se fosse a atual.",
+      "example_error": "Afirmar que o Departamento de Polícia Legislativa (sem o 'Federal') ainda é o nome correto do órgão.",
+      "how_to_avoid": "",
+      "order": 1
+    },
+    {
+      "trap_id": "peg_002",
+      "material_id": "mat_001",
+      "topic_id": "top_002",
+      "title": "Pegadinha 2",
+      "description": "Inverter ou trocar as competências do Depol com as de outros órgãos de segurança ou com as da Corregedoria Parlamentar.",
+      "example_error": "Atribuir ao Depol a competência para investigar quebras de decoro parlamentar, que é da Corregedoria.",
+      "how_to_avoid": "",
+      "order": 2
+    },
+    {
+      "trap_id": "peg_003",
+      "material_id": "mat_001",
+      "topic_id": "top_002",
+      "title": "Pegadinha 3",
+      "description": "Alterar detalhes específicos das competências, como o alcance territorial da segurança do Presidente da Câmara.",
+      "example_error": "Limitar a segurança do Presidente da Câmara apenas às dependências da Casa, quando o Ato da Mesa prevê 'em qualquer localidade do território nacional e no exterior'.",
+      "how_to_avoid": "",
+      "order": 3
+    },
+    {
+      "trap_id": "peg_004",
+      "material_id": "mat_001",
+      "topic_id": "top_002",
+      "title": "Pegadinha 4",
+      "description": "Confundir a base normativa do Ato da Mesa nº 234/2025, que se fundamenta na Resolução nº 46/2006, e não diretamente na Resolução nº 18/2003 para sua criação, embora a reorganize o Depol criado por esta.",
+      "example_error": "Afirmar que o Ato da Mesa nº 234/2025 é uma alteração direta da Resolução nº 18/2003 em sua ementa, quando ele reorganiza a estrutura do Depol com base em outra resolução.",
+      "how_to_avoid": "",
+      "order": 4
+    }
+  ],
+  "pontos_memorizacao": [
+    {
+      "memory_id": "mem_001",
+      "material_id": "mat_001",
+      "topic_id": "top_001",
+      "title": null,
+      "content": "A Resolução nº 18/2003, em sua versão atualizada, estabelece o Departamento de Polícia Legislativa Federal (Depol).",
+      "order": 1
+    },
+    {
+      "memory_id": "mem_002",
+      "material_id": "mat_001",
+      "topic_id": "top_001",
+      "title": null,
+      "content": "As Resoluções nº 8/2023 e nº 31/2025 são as principais atualizações da Resolução nº 18/2003, ampliando as competências do Depol.",
+      "order": 2
+    },
+    {
+      "memory_id": "mem_003",
+      "material_id": "mat_001",
+      "topic_id": "top_002",
+      "title": null,
+      "content": "O Ato da Mesa nº 234/2025 reorganiza a estrutura administrativa e as funções comissionadas do Depol, detalhando suas competências.",
+      "order": 3
+    },
+    {
+      "memory_id": "mem_004",
+      "material_id": "mat_001",
+      "topic_id": "top_002",
+      "title": null,
+      "content": "O Depol possui competência para segurança do Presidente da Câmara em qualquer localidade do território nacional e no exterior.",
+      "order": 4
+    },
+    {
+      "memory_id": "mem_005",
+      "material_id": "mat_001",
+      "topic_id": "top_002",
+      "title": null,
+      "content": "O Depol atua como polícia de ciclo completo, mas não investiga quebras de decoro parlamentar, que são atribuições da Corregedoria.",
+      "order": 5
+    }
+  ],
+  "quadro_sinotico_itens": [],
+  "questoes": [
+    {
+      "question_id": "qst_001",
+      "material_id": "mat_001",
+      "topic_id": "top_001",
+      "board": null,
+      "year": null,
+      "organization": null,
+      "role": null,
+      "statement": "A Resolução da Câmara dos Deputados nº 18/2003, em sua redação atual, dispõe sobre o Departamento de Polícia Legislativa Federal (Depol), sendo que sua estrutura, as competências das subunidades e as atribuições dos titulares serão definidas em Ato da Mesa.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "O item está CERTO. A Resolução nº 18/2003 foi alterada pela Resolução nº 8/2023, que renomeou o Departamento para Departamento de Polícia Legislativa Federal e estabeleceu que sua estrutura, competências e atribuições seriam definidas em Ato da Mesa. Isso está em consonância com o que o Ato da Mesa nº 234/2025 detalha.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_001"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_002",
+      "material_id": "mat_001",
+      "topic_id": "top_001",
+      "board": null,
+      "year": null,
+      "organization": null,
+      "role": null,
+      "statement": "Conforme as atualizações da Resolução nº 18/2003, o Depol possui competência para a execução de conduções coercitivas e de escolta de presos e de depoentes das comissões parlamentares, quando essas diligências forem realizadas no interesse da Câmara dos Deputados.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "O item está CERTO. A Resolução nº 31/2025, que alterou a Resolução nº 18/2003, incluiu expressamente entre as competências do Depol a execução de conduções coercitivas e de escolta de presos e de depoentes das comissões parlamentares, quando no interesse da Câmara.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_002"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_003",
+      "material_id": "mat_001",
+      "topic_id": "top_001",
+      "board": null,
+      "year": null,
+      "organization": null,
+      "role": null,
+      "statement": "A Resolução nº 31/2025, que alterou a Resolução nº 18/2003, estabeleceu que o Depol não poderá solicitar o apoio de outros órgãos de segurança para garantir a proteção do Presidente da Câmara, devendo atuar exclusivamente com seus próprios meios.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "O item está ERRADO. O § 5º do Art. 2º da Resolução nº 18/2003, com redação dada pela Resolução nº 31/2025, prevê expressamente que, na hipótese de áreas de segurança do Presidente da Câmara, o Depol poderá solicitar o apoio de outros órgãos de segurança para garantir a proteção da autoridade. A afirmação de que não poderá solicitar apoio é uma pegadinha comum do CEBRASPE.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_003"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_004",
+      "material_id": "mat_001",
+      "topic_id": "top_002",
+      "board": null,
+      "year": null,
+      "organization": null,
+      "role": null,
+      "statement": "O Ato da Mesa da Câmara dos Deputados nº 234/2025 estabelece que compete ao Departamento de Polícia Legislativa Federal (Depol) realizar a fiscalização de trânsito nas vias adjacentes às áreas sob responsabilidade da Câmara, na forma do art. 25-A do Código de Trânsito Brasileiro.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "O item está CERTO. O Art. 2º, inciso IV, do Ato da Mesa nº 234/2025, estabelece como competência do Depol 'executar a fiscalização de trânsito nas vias adjacentes às áreas sob responsabilidade da Câmara, na forma do art. 25-A do Código de Trânsito Brasileiro'.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_004"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_005",
+      "material_id": "mat_001",
+      "topic_id": "top_002",
+      "board": null,
+      "year": null,
+      "organization": null,
+      "role": null,
+      "statement": "De acordo com o Ato da Mesa nº 234/2025, a segurança do Presidente da Câmara dos Deputados, em qualquer localidade do território nacional e no exterior, é uma das competências do Depol.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "O item está CERTO. O Art. 2º, inciso VIII, do Ato da Mesa nº 234/2025, prevê como competência do Depol 'planejar, coordenar, dirigir e executar a segurança do Presidente da Câmara em qualquer localidade do território nacional e no exterior'. Esta é uma competência de grande destaque.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_005"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_006",
+      "material_id": "mat_001",
+      "topic_id": "top_002",
+      "board": null,
+      "year": null,
+      "organization": null,
+      "role": null,
+      "statement": "O Ato da Mesa nº 234/2025 confere ao Depol a atribuição de investigar quebras de decoro parlamentar, em razão de sua natureza de polícia de ciclo completo.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "O item está ERRADO. Embora o Depol atue como polícia de ciclo completo, o Ato da Mesa nº 234/2025 ressalva as atribuições da Corregedoria Parlamentar para questões de quebra de decoro. A investigação de crimes comuns é do Depol, mas a parte disciplinar dos deputados é da Corregedoria.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_006"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_007",
+      "material_id": "mat_001",
+      "topic_id": "top_002",
+      "board": null,
+      "year": null,
+      "organization": null,
+      "role": null,
+      "statement": "Entre as competências do Depol, conforme o Ato da Mesa nº 234/2025, inclui-se a requisição de informações e dados cadastrais a órgãos e entidades públicos e privados, inclusive provedores de internet e instituições financeiras, observada a Lei Geral de Proteção de Dados.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "O item está CERTO. O Art. 2º, inciso XIV, do Ato da Mesa nº 234/2025, confere ao Depol a competência para 'requisitar informações e dados cadastrais a órgãos e entidades públicos e privados, inclusive provedores de internet e instituições financeiras, observada a Lei Geral de Proteção de Dados'.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_007"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_008",
+      "material_id": "mat_001",
+      "topic_id": "top_002",
+      "board": null,
+      "year": null,
+      "organization": null,
+      "role": null,
+      "statement": "O Ato da Mesa nº 234/2025 estabelece que o Depol poderá peticionar judicialmente pela decretação de medidas cautelares, inclusive quebras de sigilo bancário, fiscal ou telemático, necessárias à apuração de delito de sua atribuição.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "O item está CERTO. O Art. 2º, inciso XV, do Ato da Mesa nº 234/2025, estabelece que o Depol pode 'peticionar judicialmente pela decretação de medidas cautelares, inclusive quebras de sigilo bancário, fiscal ou telemático, necessárias à apuração de delito de sua atribuição'.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_008"
+        ],
+        "count": 1
+      }
+    }
+  ],
+  "comentarios_questoes": [
+    {
+      "comment_id": "com_001",
+      "question_id": "qst_001",
+      "content": "O item está CERTO. A Resolução nº 18/2003 foi alterada pela Resolução nº 8/2023, que renomeou o Departamento para Departamento de Polícia Legislativa Federal e estabeleceu que sua estrutura, competências e atribuições seriam definidas em Ato da Mesa. Isso está em consonância com o que o Ato da Mesa nº 234/2025 detalha.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_002",
+      "question_id": "qst_002",
+      "content": "O item está CERTO. A Resolução nº 31/2025, que alterou a Resolução nº 18/2003, incluiu expressamente entre as competências do Depol a execução de conduções coercitivas e de escolta de presos e de depoentes das comissões parlamentares, quando no interesse da Câmara.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_003",
+      "question_id": "qst_003",
+      "content": "O item está ERRADO. O § 5º do Art. 2º da Resolução nº 18/2003, com redação dada pela Resolução nº 31/2025, prevê expressamente que, na hipótese de áreas de segurança do Presidente da Câmara, o Depol poderá solicitar o apoio de outros órgãos de segurança para garantir a proteção da autoridade. A afirmação de que não poderá solicitar apoio é uma pegadinha comum do CEBRASPE.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_004",
+      "question_id": "qst_004",
+      "content": "O item está CERTO. O Art. 2º, inciso IV, do Ato da Mesa nº 234/2025, estabelece como competência do Depol 'executar a fiscalização de trânsito nas vias adjacentes às áreas sob responsabilidade da Câmara, na forma do art. 25-A do Código de Trânsito Brasileiro'.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_005",
+      "question_id": "qst_005",
+      "content": "O item está CERTO. O Art. 2º, inciso VIII, do Ato da Mesa nº 234/2025, prevê como competência do Depol 'planejar, coordenar, dirigir e executar a segurança do Presidente da Câmara em qualquer localidade do território nacional e no exterior'. Esta é uma competência de grande destaque.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_006",
+      "question_id": "qst_006",
+      "content": "O item está ERRADO. Embora o Depol atue como polícia de ciclo completo, o Ato da Mesa nº 234/2025 ressalva as atribuições da Corregedoria Parlamentar para questões de quebra de decoro. A investigação de crimes comuns é do Depol, mas a parte disciplinar dos deputados é da Corregedoria.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_007",
+      "question_id": "qst_007",
+      "content": "O item está CERTO. O Art. 2º, inciso XIV, do Ato da Mesa nº 234/2025, confere ao Depol a competência para 'requisitar informações e dados cadastrais a órgãos e entidades públicos e privados, inclusive provedores de internet e instituições financeiras, observada a Lei Geral de Proteção de Dados'.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_008",
+      "question_id": "qst_008",
+      "content": "O item está CERTO. O Art. 2º, inciso XV, do Ato da Mesa nº 234/2025, estabelece que o Depol pode 'peticionar judicialmente pela decretação de medidas cautelares, inclusive quebras de sigilo bancário, fiscal ou telemático, necessárias à apuração de delito de sua atribuição'.",
+      "explanation_alternatives": ""
+    }
+  ],
+  "checklist_revisao": [
+    {
+      "checklist_id": "chk_001",
+      "material_id": "mat_001",
+      "topic_id": "top_001",
+      "item_text": "Compreender a finalidade original da Resolução nº 18/2003.",
+      "completed": false,
+      "order": 1
+    },
+    {
+      "checklist_id": "chk_002",
+      "material_id": "mat_001",
+      "topic_id": "top_001",
+      "item_text": "Memorizar as principais alterações trazidas pelas Resoluções nº 8/2023 e nº 31/2025 à Resolução nº 18/2003.",
+      "completed": false,
+      "order": 2
+    },
+    {
+      "checklist_id": "chk_003",
+      "material_id": "mat_001",
+      "topic_id": "top_002",
+      "item_text": "Estudar a estrutura e as funções comissionadas do Depol conforme o Ato da Mesa nº 234/2025.",
+      "completed": false,
+      "order": 3
+    },
+    {
+      "checklist_id": "chk_004",
+      "material_id": "mat_001",
+      "topic_id": "top_002",
+      "item_text": "Dominar as competências específicas do Depol detalhadas no Ato da Mesa nº 234/2025.",
+      "completed": false,
+      "order": 4
+    },
+    {
+      "checklist_id": "chk_005",
+      "material_id": "mat_001",
+      "topic_id": "top_002",
+      "item_text": "Diferenciar as atribuições do Depol das atribuições da Corregedoria Parlamentar.",
+      "completed": false,
+      "order": 5
+    },
+    {
+      "checklist_id": "chk_006",
+      "material_id": "mat_001",
+      "topic_id": "top_002",
+      "item_text": "Prestar atenção às pegadinhas comuns do CEBRASPE, como inversão de termos ou alteração de detalhes numéricos e territoriais.",
+      "completed": false,
+      "order": 6
+    }
+  ],
+  "referencias": [
+    {
+      "reference_id": "ref_001",
+      "material_id": "mat_001",
+      "reference_type": "Legislação",
+      "author_name": null,
+      "title": "Resolução da Câmara dos Deputados nº 18, de 18 de dezembro de 2003. Dispõe sobre o Departamento de Polícia Legislativa Federal e sobre o cargo de Técnico Legislativo - especialidade Policial Legislativo Federal; e dá outras providências.",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.camara.leg.br/legin/fed/rescad/2003/resolucaocd-18-18-dezembro-2003-499388-publicacaooriginal-1-pl.html",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_002",
+      "material_id": "mat_001",
+      "reference_type": "Legislação",
+      "author_name": null,
+      "title": "Resolução da Câmara dos Deputados nº 8, de 2023. Altera a Resolução nº 18, de 18 de dezembro de 2003, que dispõe sobre o Departamento de Polícia Legislativa Federal e sobre o cargo de Técnico Legislativo - especialidade Policial Legislativo Federal.",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.camara.leg.br/legin/fed/rescad/2023/resolucaocd-8-2023-700000-publicacaooriginal-1-pl.html",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_003",
+      "material_id": "mat_001",
+      "reference_type": "Legislação",
+      "author_name": null,
+      "title": "Resolução da Câmara dos Deputados nº 31, de 4 de novembro de 2025. Altera a Resolução nº 18, de 18 de dezembro de 2003, que dispõe sobre o Departamento de Polícia Legislativa Federal e sobre o cargo de Técnico Legislativo - especialidade Policial Legislativo Federal.",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.camara.leg.br/legin/fed/rescad/2025/resolucaocd-31-4-novembro-2025-700000-publicacaooriginal-1-pl.html",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_004",
+      "material_id": "mat_001",
+      "reference_type": "Legislação",
+      "author_name": null,
+      "title": "Ato da Mesa da Câmara dos Deputados nº 234, de 22 de dezembro de 2025. Dispõe sobre a estrutura administrativa e as funções comissionadas do Departamento de Polícia Legislativa Federal.",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.camara.leg.br/legin/fed/atomes/2025/atomes-234-22-dezembro-2025-700000-publicacaooriginal-1-pl.html",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_005",
+      "material_id": "mat_001",
+      "reference_type": "Notícia/Análise",
+      "author_name": null,
+      "title": "Câmara amplia poder da Polícia Legislativa da Casa - Congresso em Foco",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://congressoemfoco.uol.com.br/area/congresso-nacional/camara-amplia-poder-da-policia-legislativa-da-casa/",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_006",
+      "material_id": "mat_001",
+      "reference_type": "Análise de Banca",
+      "author_name": null,
+      "title": "Câmara dos Deputados PLF Exam | Simplifying Logical Reasoning: Recent Questions from the CEBRASPE ... - YouTube",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.youtube.com/watch?v=ySypBt",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_007",
+      "material_id": "mat_001",
+      "reference_type": "Análise de Banca",
+      "author_name": null,
+      "title": "Brazilian Chamber of Deputies Exam | Commented Questions: Cebraspe's Way of Testing Internal Regu... - YouTube",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.youtube.com/watch?v=4j2gJA1",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_008",
+      "material_id": "mat_001",
+      "reference_type": "Análise de Norma",
+      "author_name": null,
+      "title": "Act of the Board No. 234/2025 of the Chamber of Deputies explained – Structure and Internal Rules... - YouTube",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.youtube.com/watch?v=FKnsAa07yFMbkschm1_DMHXMArEDpDFR9A4um0t4dN_pH8PwOJXtV1pBFxmfuKqfowg5HylkA0k3cqErfpDRopRxPAJKXipFnXVHTeAXSLUERkfem8SdZNh2KpoB4_2eFAoFivmqc",
+      "accessed_at": null,
+      "description": null
+    }
+  ],
+  "estatisticas_de_geracao": {
+    "total_topicos": 2,
+    "total_componentes_topico": 6,
+    "total_entendimentos_relevantes": 2,
+    "total_pegadinhas": 4,
+    "total_pontos_memorizacao": 5,
+    "total_itens_quadro_sinotico": 0,
+    "total_questoes": 8,
+    "total_comentarios_questoes": 8,
+    "total_itens_checklist": 6,
+    "total_referencias": 8
+  },
+  "validacao_interna": {
+    "pesquisa_previa_realizada": true,
+    "analise_de_cobrancas_anteriores_realizada": true,
+    "material_atualizado": true,
+    "json_valido": true,
+    "estrutura_relacional_respeitada": true,
+    "numeracao_respeitada": true,
+    "houve_quebra_de_hierarquia": false,
+    "houve_nivel_numerico_superior_a_3": false,
+    "fontes_verificadas": true,
+    "sem_informacao_inventada": true
+  },
+  "metadata": {
+    "source_file_name": "13__direito-constitucional-e-legislação-interna-da-câmara-dos-deputados__13.-resolução-da-câmara-dos-deputados-nº-182003-e-suas-atualizações-sem-anexos-13.1-ato-da-mesa-da-câmara-dos-deputados-.json",
+    "normalized_checksum": "5937cf70ed60c3f53ad8899184ed226343ec835dd2d54638b876e6c21ac9345f",
+    "subject_slug": "dir-const-legcam",
+    "material_slug": "resolucao-camara-deputados-18-2003-ato",
+    "title_slug": "resolucao-da-camara-dos-deputados-no-182003-e-ato",
+    "board_slug": "cebraspe",
+    "counters": {
+      "blocks": 5,
+      "topics": 2,
+      "topic_components": 6,
+      "traps": 4,
+      "memory_points": 5,
+      "summary_items": 0,
+      "questions": 8,
+      "question_comments": 8,
+      "checklist_items": 6,
+      "references": 8
+    }
+  }
+}

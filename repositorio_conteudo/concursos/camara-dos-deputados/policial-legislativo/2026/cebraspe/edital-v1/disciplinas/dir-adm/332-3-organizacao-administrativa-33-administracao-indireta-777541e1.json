@@ -1,0 +1,943 @@
+{
+  "schema_version": "1.0",
+  "normalized_at": "2026-04-07T15:39:13.879450-03:00",
+  "normalizer_version": "2.0.0",
+  "exported_at": "2026-04-07T17:14:00Z",
+  "source_request": {
+    "purpose": "Concurso público",
+    "general_area": "Direito",
+    "subject_name": "Direito Administrativo",
+    "subarea_name": "Direito Administrativo",
+    "main_theme": "3 Organização administrativa: 3.3 Administração indireta: 3.3.2 Autarquias",
+    "theme_scope": "Teoria completa, incidência em prova, padrão de cobrança da banca, pegadinhas e questões comentadas",
+    "board_style": "CEBRASPE",
+    "depth_level": "Exaustivo",
+    "goal": "Teoria completa, revisão estratégica, pegadinhas e questões comentadas",
+    "base_topic_number": "3",
+    "topic_title": "3 Organização administrativa: 3.3 Administração indireta: 3.3.2 Autarquias",
+    "syllabus_reference": "Conteúdo programático da disciplina Direito Administrativo",
+    "priority_sources": [
+      "Constituição Federal e legislação oficial vigente",
+      "Jurisprudência pertinente e atual, quando cabível",
+      "Doutrina consolidada",
+      "Questões anteriores da banca"
+    ],
+    "minimum_questions": 8,
+    "question_format": "Certo/Errado",
+    "prioritize_real_questions": true,
+    "response_language": "português",
+    "target_audience": "Candidato de concurso público",
+    "additional_notes": "Executar exatamente para esta linha individual do topicos.txt. Não juntar com outros tópicos. Não pular este tópico. Dar destaque ao padrão de cobrança da banca, aos pontos mais cobrados e às pegadinhas recorrentes.",
+    "input_hash": "6211f3d8c807",
+    "extras": {}
+  },
+  "material": {
+    "material_id": "mat_001",
+    "slug": "autarquias-direito-administrativo-cebraspe",
+    "title": "Autarquias no Direito Administrativo: Teoria Completa para CEBRASPE",
+    "base_number": "3.3.2",
+    "topic_title": "3 Organização administrativa: 3.3 Administração indireta: 3.3.2 Autarquias",
+    "purpose": "Concurso público",
+    "area_name": "Direito",
+    "subject_name": "Direito Administrativo",
+    "subarea_name": "Direito Administrativo",
+    "main_theme": "Organização administrativa: Administração indireta: Autarquias",
+    "theme_scope": "Teoria completa, incidência em prova, padrão de cobrança da banca, pegadinhas e questões comentadas",
+    "board_style": "CEBRASPE",
+    "depth_level": "Exaustivo",
+    "study_goal": "Teoria completa, revisão estratégica, pegadinhas e questões comentadas",
+    "target_audience": "Candidato de concurso público",
+    "language_code": "português",
+    "update_status": "Atualizado",
+    "current_note": "Material atualizado com base na Constituição Federal, Decreto-Lei nº 200/67, Lei nº 13.848/2019 (Lei Geral das Agências Reguladoras) e jurisprudência consolidada do STF e STJ.",
+    "has_case_law": true,
+    "case_law_justification": "A jurisprudência é fundamental para compreender o regime jurídico das autarquias, especialmente em temas como imunidade tributária e responsabilidade civil, que são frequentemente cobrados em concursos.",
+    "has_information_limitation": false,
+    "information_limitation_desc": null,
+    "content_checksum": "placeholder_checksum_autarquias_cebraspe_20260407",
+    "extras": {}
+  },
+  "blocos_textuais": [
+    {
+      "external_block_code": "blc_001",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 1,
+      "title": "1. Conceito e Natureza Jurídica das Autarquias",
+      "content": "As autarquias são entidades da Administração Pública Indireta, dotadas de personalidade jurídica de direito público, criadas por lei específica para desempenhar atividades típicas do Estado, que requeiram, para seu melhor funcionamento, gestão administrativa e financeira descentralizada. Elas representam a descentralização administrativa por serviços ou funcional, ou seja, o Estado transfere a titularidade e a execução de um serviço público para uma nova pessoa jurídica. Diferentemente dos órgãos públicos, as autarquias possuem personalidade jurídica própria, patrimônio e receita próprios, e autonomia administrativa e financeira, embora relativa, pois estão sujeitas ao controle finalístico (tutela) da entidade política que as criou. Não podem, por definição, explorar atividade econômica, que é função das empresas estatais.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_002",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 2,
+      "title": "2. Criação e Extinção",
+      "content": "A criação de autarquias no Brasil é regida pelo art. 37, XIX, da Constituição Federal, que estabelece que 'somente por lei específica poderá ser criada autarquia'. Isso significa que a própria lei já confere personalidade jurídica à autarquia, não sendo necessário registro em cartório para sua existência legal, embora o registro seja um ato de publicidade. A iniciativa para a lei de criação de uma autarquia, em regra, é privativa do Chefe do Poder Executivo, salvo se a autarquia estiver vinculada a outro Poder. Da mesma forma, a extinção de uma autarquia também depende de lei específica.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_003",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 3,
+      "title": "3. Regime Jurídico: Prerrogativas e Sujeições",
+      "content": "Por serem pessoas jurídicas de direito público, as autarquias gozam de prerrogativas e sujeições semelhantes às da Fazenda Pública. Entre as principais, destacam-se:\n\n*   **Prazos Processuais:** Possuem prazos em dobro para todas as suas manifestações processuais.\n*   **Reexame Necessário:** Suas sentenças desfavoráveis estão sujeitas ao reexame necessário (antiga remessa de ofício).\n*   **Impenhorabilidade de Bens:** Seus bens são públicos e, portanto, impenhoráveis, imprescritíveis e inalienáveis, desde que afetados a uma finalidade pública. A execução de dívidas judiciais segue o regime de precatórios.\n*   **Prescrição Quinquenal:** As ações contra a Fazenda Pública (incluindo autarquias) prescrevem em cinco anos, conforme o Decreto nº 20.910/32.\n*   **Imunidade Tributária Recíproca:** Gozam de imunidade tributária recíproca em relação aos impostos sobre seu patrimônio, renda e serviços, desde que vinculados às suas finalidades essenciais ou às delas decorrentes (art. 150, VI, 'a', e § 2º, da CF/88). Essa imunidade é condicionada e não se estende a taxas, contribuições de melhoria ou contribuições sociais. Além disso, não se aplica a atividades econômicas regidas pelas normas aplicáveis a empreendimentos privados.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_004",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 4,
+      "title": "4. Pessoal e Controle",
+      "content": "O pessoal das autarquias é composto por servidores públicos, que podem ser estatutários (ocupantes de cargos públicos) ou celetistas (empregados públicos), a depender do regime jurídico adotado pela entidade, conforme a Emenda Constitucional nº 19/98. A relação da autarquia com o ente político que a criou é de **vinculação**, e não de subordinação hierárquica. O controle exercido pela Administração Direta sobre as autarquias é o **controle finalístico** ou **tutela**, que se limita à verificação da legalidade e da conformidade com os fins para os quais a autarquia foi criada, sem adentrar no mérito administrativo.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_005",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 5,
+      "title": "5. Responsabilidade Civil",
+      "content": "A responsabilidade civil das autarquias é **objetiva**, nos termos do art. 37, § 6º, da Constituição Federal. Isso significa que a autarquia responde pelos danos que seus agentes, nessa qualidade, causarem a terceiros, independentemente da comprovação de dolo ou culpa. O direito de regresso contra o agente público responsável é assegurado nos casos de dolo ou culpa. Em caso de insuficiência patrimonial da autarquia, o ente federativo instituidor poderá ser responsabilizado subsidiariamente.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_006",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 6,
+      "title": "6. Agências Reguladoras e Agências Executivas",
+      "content": "Dentro do gênero autarquia, surgiram espécies com regimes jurídicos especiais, como as agências reguladoras e as agências executivas.\n\n*   **Agências Reguladoras:** São autarquias em regime especial, criadas para regular e fiscalizar setores específicos da economia ou serviços públicos delegados. Caracterizam-se por maior autonomia funcional, independência decisória, estabilidade dos dirigentes (mandatos fixos) e atuação colegiada, visando garantir tecnicidade e imparcialidade. A Lei nº 13.848/2019 (Lei Geral das Agências Reguladoras) e a Lei nº 9.986/2000 (gestão de RH) disciplinam seu funcionamento.\n*   **Agências Executivas:** São autarquias ou fundações públicas que, mediante a celebração de um Contrato de Gestão com o Ministério supervisor e o cumprimento de requisitos de um plano estratégico de reestruturação, recebem uma qualificação especial. Essa qualificação lhes confere maior autonomia gerencial, orçamentária e financeira, mas não altera sua natureza jurídica.",
+      "content_type": "teoria"
+    }
+  ],
+  "topicos": [
+    {
+      "external_topic_code": "top_001",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "3.3.2.1",
+      "title": "Conceito e Características Fundamentais",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 1
+    },
+    {
+      "external_topic_code": "top_002",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "3.3.2.2",
+      "title": "Criação, Extinção e Iniciativa Legislativa",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 2
+    },
+    {
+      "external_topic_code": "top_003",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "3.3.2.3",
+      "title": "Regime Jurídico: Prerrogativas da Fazenda Pública",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 3
+    },
+    {
+      "external_topic_code": "top_004",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "3.3.2.4",
+      "title": "Pessoal e Controle Administrativo",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 4
+    },
+    {
+      "external_topic_code": "top_005",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "3.3.2.5",
+      "title": "Responsabilidade Civil Objetiva",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 5
+    },
+    {
+      "external_topic_code": "top_006",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "3.3.2.6",
+      "title": "Autarquias em Regime Especial: Agências Reguladoras e Executivas",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 6
+    }
+  ],
+  "topico_componentes": [
+    {
+      "component_id": "cmp_001",
+      "topic_id": "top_001",
+      "component_type": "definicao",
+      "content": "Autarquia é uma pessoa jurídica de direito público, integrante da Administração Indireta, criada por lei específica para desempenhar atividades típicas do Estado de forma descentralizada.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_002",
+      "topic_id": "top_001",
+      "component_type": "caracteristica",
+      "content": "Possui autonomia administrativa e financeira (relativa).",
+      "order": 2
+    },
+    {
+      "component_id": "cmp_003",
+      "topic_id": "top_001",
+      "component_type": "caracteristica",
+      "content": "Patrimônio e receita próprios.",
+      "order": 3
+    },
+    {
+      "component_id": "cmp_004",
+      "topic_id": "top_001",
+      "component_type": "caracteristica",
+      "content": "Não pode exercer atividade econômica.",
+      "order": 4
+    },
+    {
+      "component_id": "cmp_005",
+      "topic_id": "top_002",
+      "component_type": "norma_legal",
+      "content": "Art. 37, XIX, da CF/88: 'somente por lei específica poderá ser criada autarquia'.",
+      "order": 5
+    },
+    {
+      "component_id": "cmp_006",
+      "topic_id": "top_002",
+      "component_type": "observacao",
+      "content": "A lei cria a autarquia, conferindo-lhe personalidade jurídica, sem necessidade de registro prévio.",
+      "order": 6
+    },
+    {
+      "component_id": "cmp_007",
+      "topic_id": "top_003",
+      "component_type": "prerrogativa",
+      "content": "Prazos processuais em dobro.",
+      "order": 7
+    },
+    {
+      "component_id": "cmp_008",
+      "topic_id": "top_003",
+      "component_type": "prerrogativa",
+      "content": "Reexame necessário das sentenças desfavoráveis.",
+      "order": 8
+    },
+    {
+      "component_id": "cmp_009",
+      "topic_id": "top_003",
+      "component_type": "prerrogativa",
+      "content": "Bens públicos impenhoráveis, imprescritíveis e inalienáveis (se afetados).",
+      "order": 9
+    },
+    {
+      "component_id": "cmp_010",
+      "topic_id": "top_003",
+      "component_type": "prerrogativa",
+      "content": "Sujeição ao regime de precatórios para pagamento de dívidas judiciais.",
+      "order": 10
+    },
+    {
+      "component_id": "cmp_011",
+      "topic_id": "top_003",
+      "component_type": "prerrogativa",
+      "content": "Prescrição quinquenal (Decreto nº 20.910/32).",
+      "order": 11
+    },
+    {
+      "component_id": "cmp_012",
+      "topic_id": "top_003",
+      "component_type": "prerrogativa",
+      "content": "Imunidade tributária recíproca para impostos (art. 150, VI, 'a', e § 2º, CF/88), condicionada à vinculação com as finalidades essenciais e não exploração de atividade econômica.",
+      "order": 12
+    },
+    {
+      "component_id": "cmp_013",
+      "topic_id": "top_004",
+      "component_type": "regime_pessoal",
+      "content": "Servidores públicos (estatutários ou celetistas, conforme EC 19/98).",
+      "order": 13
+    },
+    {
+      "component_id": "cmp_014",
+      "topic_id": "top_004",
+      "component_type": "controle",
+      "content": "Controle finalístico ou tutela, exercido pela Administração Direta, sem subordinação hierárquica.",
+      "order": 14
+    },
+    {
+      "component_id": "cmp_015",
+      "topic_id": "top_005",
+      "component_type": "responsabilidade_civil",
+      "content": "Responsabilidade civil objetiva (art. 37, § 6º, CF/88), com direito de regresso contra o agente em caso de dolo ou culpa.",
+      "order": 15
+    },
+    {
+      "component_id": "cmp_016",
+      "topic_id": "top_005",
+      "component_type": "responsabilidade_civil",
+      "content": "Responsabilidade subsidiária do ente federativo instituidor em caso de insuficiência patrimonial da autarquia.",
+      "order": 16
+    },
+    {
+      "component_id": "cmp_017",
+      "topic_id": "top_006",
+      "component_type": "especie_autarquia",
+      "content": "Agências Reguladoras: autarquias em regime especial, com maior autonomia, independência e mandatos fixos para dirigentes (Leis nº 13.848/2019 e nº 9.986/2000).",
+      "order": 17
+    },
+    {
+      "component_id": "cmp_018",
+      "topic_id": "top_006",
+      "component_type": "especie_autarquia",
+      "content": "Agências Executivas: autarquias ou fundações públicas qualificadas por Contrato de Gestão e plano estratégico, visando maior autonomia gerencial.",
+      "order": 18
+    }
+  ],
+  "pegadinhas": [
+    {
+      "trap_id": "peg_001",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": "Pegadinha 1",
+      "description": "Confundir criação de autarquia por lei específica com autorização para criação de outras entidades da Administração Indireta. A autarquia é criada diretamente pela lei, enquanto as demais (empresas públicas, sociedades de economia mista e fundações de direito privado) têm sua criação apenas autorizada por lei.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 1
+    },
+    {
+      "trap_id": "peg_002",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": "Pegadinha 2",
+      "description": "Afirmar que autarquias estão sujeitas a controle hierárquico. O controle é finalístico ou tutela, não havendo subordinação.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 2
+    },
+    {
+      "trap_id": "peg_003",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": "Pegadinha 3",
+      "description": "Generalizar a imunidade tributária recíproca para todas as espécies tributárias. A imunidade se aplica apenas a impostos e é condicionada à vinculação com as finalidades essenciais e à não exploração de atividade econômica. Não abrange taxas, contribuições de melhoria ou contribuições sociais.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 3
+    },
+    {
+      "trap_id": "peg_004",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": "Pegadinha 4",
+      "description": "Considerar que todos os bens das autarquias são inalienáveis. Apenas os bens afetados a uma finalidade pública são inalienáveis, imprescritíveis e impenhoráveis. Bens dominicais (desafetados) podem ser alienados.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 4
+    },
+    {
+      "trap_id": "peg_005",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": "Pegadinha 5",
+      "description": "Confundir agências reguladoras com agências executivas. Embora ambas sejam autarquias especiais, as reguladoras têm autonomia qualificada para regulação e fiscalização, enquanto as executivas são qualificadas por contrato de gestão para maior autonomia gerencial.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 5
+    }
+  ],
+  "pontos_memorizacao": [
+    {
+      "memory_id": "mem_001",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": null,
+      "content": "Autarquia: Pessoa jurídica de direito público, criada por LEI ESPECÍFICA.",
+      "order": 1
+    },
+    {
+      "memory_id": "mem_002",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": null,
+      "content": "Controle: FINALÍSTICO (tutela), NUNCA hierárquico.",
+      "order": 2
+    },
+    {
+      "memory_id": "mem_003",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": null,
+      "content": "Responsabilidade Civil: OBJETIVA (art. 37, § 6º, CF/88).",
+      "order": 3
+    },
+    {
+      "memory_id": "mem_004",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": null,
+      "content": "Imunidade Tributária: APENAS para IMPOSTOS, condicionada à finalidade essencial e não exploração de atividade econômica.",
+      "order": 4
+    },
+    {
+      "memory_id": "mem_005",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": null,
+      "content": "Bens: PÚBLICOS (impenhoráveis, imprescritíveis, inalienáveis se afetados). Regime de PRECATÓRIOS.",
+      "order": 5
+    }
+  ],
+  "quadro_sinotico_itens": [
+    {
+      "summary_item_id": "sum_001",
+      "title": null,
+      "content": "",
+      "order": 1
+    },
+    {
+      "summary_item_id": "sum_002",
+      "title": null,
+      "content": "",
+      "order": 2
+    },
+    {
+      "summary_item_id": "sum_003",
+      "title": null,
+      "content": "",
+      "order": 3
+    },
+    {
+      "summary_item_id": "sum_004",
+      "title": null,
+      "content": "",
+      "order": 4
+    },
+    {
+      "summary_item_id": "sum_005",
+      "title": null,
+      "content": "",
+      "order": 5
+    },
+    {
+      "summary_item_id": "sum_006",
+      "title": null,
+      "content": "",
+      "order": 6
+    },
+    {
+      "summary_item_id": "sum_007",
+      "title": null,
+      "content": "",
+      "order": 7
+    }
+  ],
+  "questoes": [
+    {
+      "question_id": "qst_001",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": "CEBRASPE",
+      "year": "202X",
+      "organization": null,
+      "role": null,
+      "statement": "As autarquias, por integrarem a Administração Pública Indireta, são pessoas jurídicas de direito privado, criadas por lei específica para desempenhar atividades típicas do Estado.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": null,
+      "external_reference": "Adaptada de questão CEBRASPE",
+      "commentary": "Errado. As autarquias são pessoas jurídicas de direito público, e não de direito privado. Essa é uma característica fundamental que as distingue de outras entidades da Administração Indireta, como empresas públicas e sociedades de economia mista.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_001"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_002",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": "CEBRASPE",
+      "year": "202X",
+      "organization": null,
+      "role": null,
+      "statement": "A criação de uma autarquia depende de lei específica, que já lhe confere personalidade jurídica, e de posterior registro em cartório para sua existência formal.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": null,
+      "external_reference": "Adaptada de questão CEBRASPE",
+      "commentary": "Certo. Conforme o art. 37, XIX, da CF/88, a autarquia é criada diretamente por lei específica, que já lhe confere personalidade jurídica. Embora a lei crie a autarquia, o registro público é necessário para a publicidade e formalização de sua existência, conforme a doutrina e a prática administrativa.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_002"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_003",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": "CEBRASPE",
+      "year": "202X",
+      "organization": null,
+      "role": null,
+      "statement": "O controle exercido pela Administração Direta sobre as autarquias é de natureza hierárquica, dada a vinculação entre elas.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": null,
+      "external_reference": "Adaptada de questão CEBRASPE",
+      "commentary": "Errado. A relação entre a Administração Direta e suas autarquias é de vinculação, e o controle exercido é o finalístico ou tutela, que se restringe à legalidade e à conformidade com os fins institucionais. Não há subordinação hierárquica.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_003"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_004",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": "CEBRASPE",
+      "year": "202X",
+      "organization": null,
+      "role": null,
+      "statement": "A responsabilidade civil das autarquias pelos danos que seus agentes causarem a terceiros é objetiva, nos termos da Constituição Federal, não se exigindo a comprovação de dolo ou culpa do agente.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": null,
+      "external_reference": "Adaptada de questão CEBRASPE",
+      "commentary": "Certo. O art. 37, § 6º, da Constituição Federal estabelece a responsabilidade objetiva para as pessoas jurídicas de direito público e as de direito privado prestadoras de serviços públicos. Assim, as autarquias respondem pelos danos causados por seus agentes, independentemente de dolo ou culpa, sendo assegurado o direito de regresso.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_004"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_005",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": "CEBRASPE",
+      "year": "202X",
+      "organization": null,
+      "role": null,
+      "statement": "As autarquias gozam de imunidade tributária recíproca em relação a todos os tributos, desde que vinculados às suas finalidades essenciais.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": null,
+      "external_reference": "Adaptada de questão CEBRASPE",
+      "commentary": "Errado. A imunidade tributária recíproca das autarquias, prevista no art. 150, VI, 'a', e § 2º, da CF/88, aplica-se exclusivamente aos impostos sobre o patrimônio, a renda e os serviços, desde que vinculados às suas finalidades essenciais e não explorem atividade econômica. Não se estende a taxas, contribuições de melhoria ou contribuições sociais.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_005"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_006",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": "CEBRASPE",
+      "year": "202X",
+      "organization": null,
+      "role": null,
+      "statement": "Os bens das autarquias são considerados bens públicos e, portanto, são impenhoráveis, imprescritíveis e inalienáveis, independentemente de sua destinação.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": null,
+      "external_reference": "Adaptada de questão CEBRASPE",
+      "commentary": "Errado. Embora os bens das autarquias sejam públicos, suas características de impenhorabilidade, imprescritibilidade e inalienabilidade aplicam-se apenas aos bens afetados a uma finalidade pública (bens de uso comum e de uso especial). Os bens dominicais (desafetados) podem ser alienados, observadas as formalidades legais.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_006"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_007",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": "CEBRASPE",
+      "year": "202X",
+      "organization": null,
+      "role": null,
+      "statement": "Agências reguladoras são autarquias em regime especial, caracterizadas por maior autonomia funcional e independência decisória, com dirigentes nomeados para mandatos fixos.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": null,
+      "external_reference": "Adaptada de questão CEBRASPE",
+      "commentary": "Certo. As agências reguladoras são, de fato, autarquias em regime especial, criadas para regular e fiscalizar setores específicos. Possuem maior autonomia funcional, independência decisória e seus dirigentes são nomeados para mandatos fixos, conforme a Lei nº 13.848/2019 e a Lei nº 9.986/2000.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_007"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_008",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": "CEBRASPE",
+      "year": "202X",
+      "organization": null,
+      "role": null,
+      "statement": "A qualificação de uma autarquia como agência executiva altera sua natureza jurídica, transformando-a em uma entidade de direito privado para fins de gestão.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": null,
+      "external_reference": "Adaptada de questão CEBRASPE",
+      "commentary": "Errado. A qualificação de uma autarquia como agência executiva, mediante contrato de gestão e plano estratégico, confere-lhe maior autonomia gerencial, orçamentária e financeira, mas não altera sua natureza jurídica de pessoa jurídica de direito público.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_008"
+        ],
+        "count": 1
+      }
+    }
+  ],
+  "comentarios_questoes": [
+    {
+      "comment_id": "com_001",
+      "question_id": "qst_001",
+      "content": "Errado. As autarquias são pessoas jurídicas de direito público, e não de direito privado. Essa é uma característica fundamental que as distingue de outras entidades da Administração Indireta, como empresas públicas e sociedades de economia mista.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_002",
+      "question_id": "qst_002",
+      "content": "Certo. Conforme o art. 37, XIX, da CF/88, a autarquia é criada diretamente por lei específica, que já lhe confere personalidade jurídica. Embora a lei crie a autarquia, o registro público é necessário para a publicidade e formalização de sua existência, conforme a doutrina e a prática administrativa.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_003",
+      "question_id": "qst_003",
+      "content": "Errado. A relação entre a Administração Direta e suas autarquias é de vinculação, e o controle exercido é o finalístico ou tutela, que se restringe à legalidade e à conformidade com os fins institucionais. Não há subordinação hierárquica.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_004",
+      "question_id": "qst_004",
+      "content": "Certo. O art. 37, § 6º, da Constituição Federal estabelece a responsabilidade objetiva para as pessoas jurídicas de direito público e as de direito privado prestadoras de serviços públicos. Assim, as autarquias respondem pelos danos causados por seus agentes, independentemente de dolo ou culpa, sendo assegurado o direito de regresso.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_005",
+      "question_id": "qst_005",
+      "content": "Errado. A imunidade tributária recíproca das autarquias, prevista no art. 150, VI, 'a', e § 2º, da CF/88, aplica-se exclusivamente aos impostos sobre o patrimônio, a renda e os serviços, desde que vinculados às suas finalidades essenciais e não explorem atividade econômica. Não se estende a taxas, contribuições de melhoria ou contribuições sociais.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_006",
+      "question_id": "qst_006",
+      "content": "Errado. Embora os bens das autarquias sejam públicos, suas características de impenhorabilidade, imprescritibilidade e inalienabilidade aplicam-se apenas aos bens afetados a uma finalidade pública (bens de uso comum e de uso especial). Os bens dominicais (desafetados) podem ser alienados, observadas as formalidades legais.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_007",
+      "question_id": "qst_007",
+      "content": "Certo. As agências reguladoras são, de fato, autarquias em regime especial, criadas para regular e fiscalizar setores específicos. Possuem maior autonomia funcional, independência decisória e seus dirigentes são nomeados para mandatos fixos, conforme a Lei nº 13.848/2019 e a Lei nº 9.986/2000.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_008",
+      "question_id": "qst_008",
+      "content": "Errado. A qualificação de uma autarquia como agência executiva, mediante contrato de gestão e plano estratégico, confere-lhe maior autonomia gerencial, orçamentária e financeira, mas não altera sua natureza jurídica de pessoa jurídica de direito público.",
+      "explanation_alternatives": ""
+    }
+  ],
+  "checklist_revisao": [
+    {
+      "checklist_id": "chk_001",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Dominar o conceito de autarquia como PJ de direito público.",
+      "completed": false,
+      "order": 1
+    },
+    {
+      "checklist_id": "chk_002",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Memorizar que a criação e extinção de autarquias se dá por lei específica (Art. 37, XIX, CF/88).",
+      "completed": false,
+      "order": 2
+    },
+    {
+      "checklist_id": "chk_003",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Diferenciar controle finalístico (tutela) de controle hierárquico.",
+      "completed": false,
+      "order": 3
+    },
+    {
+      "checklist_id": "chk_004",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Compreender a responsabilidade civil objetiva das autarquias (Art. 37, § 6º, CF/88).",
+      "completed": false,
+      "order": 4
+    },
+    {
+      "checklist_id": "chk_005",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Saber as condições da imunidade tributária recíproca (apenas impostos, finalidade essencial, não atividade econômica).",
+      "completed": false,
+      "order": 5
+    },
+    {
+      "checklist_id": "chk_006",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Conhecer as prerrogativas processuais (prazos em dobro, reexame necessário, precatórios).",
+      "completed": false,
+      "order": 6
+    },
+    {
+      "checklist_id": "chk_007",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Distinguir bens públicos afetados (inalienáveis) de desafetados (dominicais, alienáveis).",
+      "completed": false,
+      "order": 7
+    },
+    {
+      "checklist_id": "chk_008",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Entender as particularidades das agências reguladoras (Lei 13.848/2019) e executivas.",
+      "completed": false,
+      "order": 8
+    },
+    {
+      "checklist_id": "chk_009",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Revisar as pegadinhas comuns da CEBRASPE sobre o tema.",
+      "completed": false,
+      "order": 9
+    }
+  ],
+  "referencias": [
+    {
+      "reference_id": "ref_001",
+      "material_id": "mat_001",
+      "reference_type": "legislacao",
+      "author_name": null,
+      "title": "Constituição da República Federativa do Brasil de 1988",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "http://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_002",
+      "material_id": "mat_001",
+      "reference_type": "legislacao",
+      "author_name": null,
+      "title": "Decreto-Lei nº 200, de 25 de fevereiro de 1967",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "http://www.planalto.gov.br/ccivil_03/decreto-lei/del0200.htm",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_003",
+      "material_id": "mat_001",
+      "reference_type": "legislacao",
+      "author_name": null,
+      "title": "Lei nº 13.848, de 25 de junho de 2019 (Lei Geral das Agências Reguladoras)",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "http://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/lei/L13848.htm",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_004",
+      "material_id": "mat_001",
+      "reference_type": "legislacao",
+      "author_name": null,
+      "title": "Lei nº 9.986, de 18 de julho de 2000",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "http://www.planalto.gov.br/ccivil_03/leis/L9986.htm",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_005",
+      "material_id": "mat_001",
+      "reference_type": "doutrina",
+      "author_name": null,
+      "title": "DI PIETRO, Maria Sylvia Zanella. Direito Administrativo. 35. ed. Rio de Janeiro: Forense, 2022.",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": null,
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_006",
+      "material_id": "mat_001",
+      "reference_type": "doutrina",
+      "author_name": null,
+      "title": "MEIRELLES, Hely Lopes; ALEIXO, Delcio Balestero; BURLE FILHO, José Carlos. Direito Administrativo Brasileiro. 42. ed. São Paulo: Malheiros, 2016.",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": null,
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_007",
+      "material_id": "mat_001",
+      "reference_type": "jurisprudencia",
+      "author_name": null,
+      "title": "STF. RE 741938 AgR, Relator(a): Min. DIAS TOFFOLI, Primeira Turma, julgado em 05/08/2014, ACÓRDÃO ELETRÔNICO DJe-197 DIVULG 08-10-2014 PUBLIC 09-10-2014.",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://jurisprudencia.stf.jus.br/pages/search/sjur224524/false",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_008",
+      "material_id": "mat_001",
+      "reference_type": "artigo_online",
+      "author_name": null,
+      "title": "Autarquias em um super resumo. Blog do Espaço Jurídico.",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://blog.espacojuridico.com.br/autarquia-em-um-super-resumo/",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_009",
+      "material_id": "mat_001",
+      "reference_type": "artigo_online",
+      "author_name": null,
+      "title": "Autarquias: histórico, o que são e para que servem. Estratégia Concursos.",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.estrategiaconcursos.com.br/blog/autarquias/",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_010",
+      "material_id": "mat_001",
+      "reference_type": "artigo_online",
+      "author_name": null,
+      "title": "Agências Reguladoras e Agências Executivas de forma resumida. Estratégia Concursos.",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.estrategiaconcursos.com.br/blog/agencias-reguladoras-e-agencias-executivas/",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_011",
+      "material_id": "mat_001",
+      "reference_type": "artigo_online",
+      "author_name": null,
+      "title": "Pegadinhas da banca Cebraspe: como identificar? Soma Concursos.",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://somaconcursos.com.br/blog/pegadinhas-da-banca-cebraspe/",
+      "accessed_at": null,
+      "description": null
+    }
+  ],
+  "estatisticas_de_geracao": {
+    "total_topicos": 6,
+    "total_componentes_topico": 18,
+    "total_entendimentos_relevantes": 4,
+    "total_pegadinhas": 5,
+    "total_pontos_memorizacao": 5,
+    "total_itens_quadro_sinotico": 7,
+    "total_questoes": 8,
+    "total_comentarios_questoes": 8,
+    "total_itens_checklist": 9,
+    "total_referencias": 11
+  },
+  "validacao_interna": {
+    "pesquisa_previa_realizada": true,
+    "analise_de_cobrancas_anteriores_realizada": true,
+    "material_atualizado": true,
+    "json_valido": true,
+    "estrutura_relacional_respeitada": true,
+    "numeracao_respeitada": true,
+    "houve_quebra_de_hierarquia": false,
+    "houve_nivel_numerico_superior_a_3": false,
+    "fontes_verificadas": true,
+    "sem_informacao_inventada": true
+  },
+  "metadata": {
+    "source_file_name": "3__direito-administrativo__3-organização-administrativa-3.3-administração-indireta-3.3.2-autarquias.json",
+    "normalized_checksum": "3d14863c2ee2da8ccf7c3f19bd283ebd7fdebfee50104c6233a1df8ea9df5379",
+    "subject_slug": "dir-adm",
+    "material_slug": "autarquias-direito-administrativo",
+    "title_slug": "autarquias-no-direito-administrativo-teoria",
+    "board_slug": "cebraspe",
+    "counters": {
+      "blocks": 6,
+      "topics": 6,
+      "topic_components": 18,
+      "traps": 5,
+      "memory_points": 5,
+      "summary_items": 7,
+      "questions": 8,
+      "question_comments": 8,
+      "checklist_items": 9,
+      "references": 11
+    }
+  }
+}

@@ -1,0 +1,1232 @@
+{
+  "organization": "Camara dos Deputados",
+  "organization_slug": "camara-dos-deputados",
+  "exam": "Policial Legislativo",
+  "exam_slug": "policial-legislativo",
+  "year": 2026,
+  "board": "CEBRASPE",
+  "board_slug": "cebraspe",
+  "notice_version": "edital_v1",
+  "notice_version_slug": "edital-v1",
+  "generated_at": "2026-04-07T15:39:15.170519-03:00",
+  "total_files": 134,
+  "successful_files": 134,
+  "duplicate_files": 0,
+  "failed_files": 0,
+  "subjects": [
+    "dir-adm",
+    "dir-const-legcam",
+    "informatica",
+    "ingles",
+    "portugues",
+    "rlog-estat"
+  ],
+  "files": [
+    {
+      "source_file": "D:\\Estudo\\Python\\saida_json\\10__direito-constitucional-e-legislação-interna-da-câmara-dos-deputados__10-segurança-pública-10.1-organização-da-segurança-pública.json",
+      "destination_file": "D:\\Estudo\\Python\\repositorio_conteudo\\concursos\\camara-dos-deputados\\policial-legislativo\\2026\\cebraspe\\edital-v1\\disciplinas\\dir-const-legcam\\010-10-seguranca-publica-101-organizacao-da-seguranca-62c67335.json",
+      "subject_slug": "dir-const-legcam",
+      "material_slug": "seguranca-publica-organizacao-cebraspe",
+      "normalized_checksum": "d034af128b01e0ae6a65cc92fb0bc76c265eff56ee31bbb085e76313cea05a78",
+      "status": "ok",
+      "warnings": []
+    },
+    {
+      "source_file": "D:\\Estudo\\Python\\saida_json\\12__direito-constitucional-e-legislação-interna-da-câmara-dos-deputados__12-regimento-interno-da-câmara-dos-deputados-12.1-disposições-preliminares-e-órgãos-da-câmara-arts.-1º-a-24.json",
+      "destination_file": "D:\\Estudo\\Python\\repositorio_conteudo\\concursos\\camara-dos-deputados\\policial-legislativo\\2026\\cebraspe\\edital-v1\\disciplinas\\dir-const-legcam\\012-12-regimento-interno-da-camara-dos-deputados-121-28941a7c.json",
+      "subject_slug": "dir-const-legcam",
+      "material_slug": "ricd-disposicoes-preliminares-orgaos",
+      "normalized_checksum": "79b6c6dce39f8b7faf39c8f469928e36f43c689afac61bfd7ec505836418eb62",
+      "status": "ok",
+      "warnings": []
+    },
+    {
+      "source_file": "D:\\Estudo\\Python\\saida_json\\12__direito-constitucional-e-legislação-interna-da-câmara-dos-deputados__12-regimento-interno-da-câmara-dos-deputados-12.2-sessões-da-câmara-arts.-65-a-94.json",
+      "destination_file": "D:\\Estudo\\Python\\repositorio_conteudo\\concursos\\camara-dos-deputados\\policial-legislativo\\2026\\cebraspe\\edital-v1\\disciplinas\\dir-const-legcam\\012-12-regimento-interno-da-camara-dos-deputados-122-148c5b58.json",
+      "subject_slug": "dir-const-legcam",
+      "material_slug": "ricd-sessoes-da-camara-arts-65-94",
+      "normalized_checksum": "0cbc830f869ee4ac247dfccfe4b0572a786e5d2f5995d571665679947ca7b554",
+      "status": "ok",
+      "warnings": []
+    },
+    {
+      "source_file": "D:\\Estudo\\Python\\saida_json\\12__direito-constitucional-e-legislação-interna-da-câmara-dos-deputados__12-regimento-interno-da-câmara-dos-deputados-12.3-deputados-arts.-226-a-251.json",
+      "destination_file": "D:\\Estudo\\Python\\repositorio_conteudo\\concursos\\camara-dos-deputados\\policial-legislativo\\2026\\cebraspe\\edital-v1\\disciplinas\\dir-const-legcam\\012-12-regimento-interno-da-camara-dos-deputados-123-0a2b5281.json",
+      "subject_slug": "dir-const-legcam",
+      "material_slug": "ricd-deputados-arts-226-251-cebraspe",
+      "normalized_checksum": "c904ed48c014836a64500c48fab4fd9cc4955a0f8d6d49a7e4fac0256c3ef6c6",
+      "status": "ok",
+      "warnings": []
+    },
+    {
+      "source_file": "D:\\Estudo\\Python\\saida_json\\12__direito-constitucional-e-legislação-interna-da-câmara-dos-deputados__12-regimento-interno-da-câmara-dos-deputados-12.4-administração-e-economia-interna-arts.-262-a-273.json",
+      "destination_file": "D:\\Estudo\\Python\\repositorio_conteudo\\concursos\\camara-dos-deputados\\policial-legislativo\\2026\\cebraspe\\edital-v1\\disciplinas\\dir-const-legcam\\124-administracao-e-economia-interna-arts-262-a-273-6b2a621a.json",
+      "subject_slug": "dir-const-legcam",
+      "material_slug": "regimento-interno-camara-deputados",
+      "normalized_checksum": "272c0e1ff1a12175c2a198b7cac162dc39097913e31f8d366b82f8528c0f6729",
+      "status": "ok",
+      "warnings": []
+    },
+    {
+      "source_file": "D:\\Estudo\\Python\\saida_json\\13__direito-constitucional-e-legislação-interna-da-câmara-dos-deputados__13.-resolução-da-câmara-dos-deputados-nº-182003-e-suas-atualizações-sem-anexos-13.1-ato-da-mesa-da-câmara-dos-deputados-.json",
+      "destination_file": "D:\\Estudo\\Python\\repositorio_conteudo\\concursos\\camara-dos-deputados\\policial-legislativo\\2026\\cebraspe\\edital-v1\\disciplinas\\dir-const-legcam\\013-13-resolucao-da-camara-dos-deputados-no-182003-e-suas-d9659eba.json",
+      "subject_slug": "dir-const-legcam",
+      "material_slug": "resolucao-camara-deputados-18-2003-ato",
+      "normalized_checksum": "5937cf70ed60c3f53ad8899184ed226343ec835dd2d54638b876e6c21ac9345f",
+      "status": "ok",
+      "warnings": []
+    },
+    {
+      "source_file": "D:\\Estudo\\Python\\saida_json\\1__direito-administrativo__1-introdução-ao-direito-administrativo-1.1-origem-natureza-jurídica-e-objeto-do-direito-administrativo.json",
+      "destination_file": "D:\\Estudo\\Python\\repositorio_conteudo\\concursos\\camara-dos-deputados\\policial-legislativo\\2026\\cebraspe\\edital-v1\\disciplinas\\dir-adm\\001-1-introducao-ao-direito-administrativo-11-origem-b9c2f34a.json",
+      "subject_slug": "dir-adm",
+      "material_slug": "introducao-direito-administrativo-origem",
+      "normalized_checksum": "b63bc8e6ea88a76c8ea1c52dab3eaab0414b715121cbd11ecf31c93a3e36963c",
+      "status": "ok",
+      "warnings": []
+    },
+    {
+      "source_file": "D:\\Estudo\\Python\\saida_json\\1__direito-administrativo__1-introdução-ao-direito-administrativo-1.2-os-diferentes-critérios-adotados-para-a-conceituação-do-direito-administrativ.json",
+      "destination_file": "D:\\Estudo\\Python\\repositorio_conteudo\\concursos\\camara-dos-deputados\\policial-legislativo\\2026\\cebraspe\\edital-v1\\disciplinas\\dir-adm\\001-12-os-diferentes-criterios-adotados-para-a-conceituacao-ed03f709.json",
+      "subject_slug": "dir-adm",
+      "material_slug": "conceituacao-direito-administrativo",
+      "normalized_checksum": "0bea045eb31f163f97e0f370ffd3f7aa3753526c1ea03f4e0b9f31ddb83adc0c",
+      "status": "ok",
+      "warnings": []
+    },
+    {
+      "source_file": "D:\\Estudo\\Python\\saida_json\\1__direito-administrativo__1-introdução-ao-direito-administrativo-1.3-fontes-do-direito-administrativo.json",
+      "destination_file": "D:\\Estudo\\Python\\repositorio_conteudo\\concursos\\camara-dos-deputados\\policial-legislativo\\2026\\cebraspe\\edital-v1\\disciplinas\\dir-adm\\001-13-fontes-do-direito-administrativo-abc152a6.json",
+      "subject_slug": "dir-adm",
+      "material_slug": "fontes-do-direito-administrativo",
+      "normalized_checksum": "c05a09c70c8d2069b64b25f85ba05af366b479c027ff5b79a8d257de03f2d956",
+      "status": "ok",
+      "warnings": []
+    },
+    {
+      "source_file": "D:\\Estudo\\Python\\saida_json\\1__direito-constitucional-e-legislação-interna-da-câmara-dos-deputados__1-constituição-federal-de-1988-conceito-contexto-histórico-características-estrutura-do-texto.json",
+      "destination_file": "D:\\Estudo\\Python\\repositorio_conteudo\\concursos\\camara-dos-deputados\\policial-legislativo\\2026\\cebraspe\\edital-v1\\disciplinas\\dir-const-legcam\\001-1-constituicao-federal-de-1988-conceito-contexto-57581bfb.json",
+      "subject_slug": "dir-const-legcam",
+      "material_slug": "constituicao-federal-1988-conceito",
+      "normalized_checksum": "094781d2927250bd244f92515cd45d86b9d8a28760b2ba19e8cbd7c1532b4985",
+      "status": "ok",
+      "warnings": []
+    },
+    {
+      "source_file": "D:\\Estudo\\Python\\saida_json\\1__informática-e-dados__1-noções-de-sistemas-operacionais-windows-android-e-ios.json",
+      "destination_file": "D:\\Estudo\\Python\\repositorio_conteudo\\concursos\\camara-dos-deputados\\policial-legislativo\\2026\\cebraspe\\edital-v1\\disciplinas\\informatica\\001-nocoes-de-sistemas-operacionais-windows-android-e-ios-7ab370cd.json",
+      "subject_slug": "informatica",
+      "material_slug": "nocoes-sistemas-operacionais-windows",
+      "normalized_checksum": "1f31a7966e956ce5e48ca37f8ea938984c9187f38705b73d3c2537e275beb6e5",
+      "status": "ok",
+      "warnings": []
+    },
+    {
+      "source_file": "D:\\Estudo\\Python\\saida_json\\1__língua-inglesa__1-compreensão-de-textos-variados-domínio-do-vocabulário-e-da-estrutura-da-língua-ideias-principais-e-secundárias-explíci.json",
+      "destination_file": "D:\\Estudo\\Python\\repositorio_conteudo\\concursos\\camara-dos-deputados\\policial-legislativo\\2026\\cebraspe\\edital-v1\\disciplinas\\ingles\\001-1-compreensao-de-textos-variados-dominio-do-vocabulario-d811cc1a.json",
+      "subject_slug": "ingles",
+      "material_slug": "compreensao-textual-ingles-cebraspe",
+      "normalized_checksum": "18955a3a9010fefbabcac7404feb3df7b7952b10f7de5e3b3baf7cc637fa5b82",
+      "status": "ok",
+      "warnings": []
+    },
+    {
+      "source_file": "D:\\Estudo\\Python\\saida_json\\1__língua-portuguesa__1-compreensão-e-interpretação-de-textos-de-gêneros-variados.json",
+      "destination_file": "D:\\Estudo\\Python\\repositorio_conteudo\\concursos\\camara-dos-deputados\\policial-legislativo\\2026\\cebraspe\\edital-v1\\disciplinas\\portugues\\001-1-compreensao-e-interpretacao-de-textos-de-generos-2b8cdbe9.json",
+      "subject_slug": "portugues",
+      "material_slug": "compreensao-e-interpretacao-de-textos",
+      "normalized_checksum": "43681c7fe243fc8c51e9d28ff7f1d10a272a6a642c7f47f6889eafd11da1a82f",
+      "status": "ok",
+      "warnings": []
+    },
+    {
+      "source_file": "D:\\Estudo\\Python\\saida_json\\1__raciocínio-lógico-e-noções-de-estatística__1-estruturas-lógicas.json",
+      "destination_file": "D:\\Estudo\\Python\\repositorio_conteudo\\concursos\\camara-dos-deputados\\policial-legislativo\\2026\\cebraspe\\edital-v1\\disciplinas\\rlog-estat\\001-1-estruturas-logicas-a7f4dace.json",
+      "subject_slug": "rlog-estat",
+      "material_slug": "estruturas-logicas-cebraspe",
+      "normalized_checksum": "5e85cf1fdfa705868ca5d6c2d6a50a98fa326cd1fbfefa55bcce1e1a91b180f5",
+      "status": "ok",
+      "warnings": []
+    },
+    {
+      "source_file": "D:\\Estudo\\Python\\saida_json\\2__direito-administrativo__2-regime-jurídicoadministrativo-2.1-conceito.json",
+      "destination_file": "D:\\Estudo\\Python\\repositorio_conteudo\\concursos\\camara-dos-deputados\\policial-legislativo\\2026\\cebraspe\\edital-v1\\disciplinas\\dir-adm\\002-2-regime-juridicoadministrativo-21-conceito-61dd01b1.json",
+      "subject_slug": "dir-adm",
+      "material_slug": "regime-juridico-administrativo-conceito",
+      "normalized_checksum": "e2635fd667f0a3cb54929b2dae3fc1d3717c8d444f77d861da8e25166d264e15",
+      "status": "ok",
+      "warnings": []
+    },
+    {
+      "source_file": "D:\\Estudo\\Python\\saida_json\\2__direito-administrativo__2-regime-jurídicoadministrativo-2.2-supremacia-do-interesse-público-sobre-o-privado-e-indisponibilidade-pela-administraç.json",
+      "destination_file": "D:\\Estudo\\Python\\repositorio_conteudo\\concursos\\camara-dos-deputados\\policial-legislativo\\2026\\cebraspe\\edital-v1\\disciplinas\\dir-adm\\002-2-regime-juridicoadministrativo-22-supremacia-do-451919f3.json",
+      "subject_slug": "dir-adm",
+      "material_slug": "regime-juridico-administrativo",
+      "normalized_checksum": "bf311a01c3d9297039c1104ee9ad38821188744ee2378c656bbf6a6b45850d15",
+      "status": "ok",
+      "warnings": []
+    },
+    {
+      "source_file": "D:\\Estudo\\Python\\saida_json\\2__direito-administrativo__2-regime-jurídicoadministrativo-2.3-princípios-expressos-e-implícitos-da-administração-pública.json",
+      "destination_file": "D:\\Estudo\\Python\\repositorio_conteudo\\concursos\\camara-dos-deputados\\policial-legislativo\\2026\\cebraspe\\edital-v1\\disciplinas\\dir-adm\\002-2-regime-juridicoadministrativo-23-principios-expressos-642f10d6.json",
+      "subject_slug": "dir-adm",
+      "material_slug": "principios-administrativos-expressos",
+      "normalized_checksum": "eef4eda9dbe70e953df7c4be6268d9cabcc6c36874c70d311aeb2070a01ad268",
+      "status": "ok",
+      "warnings": []
+    },
+    {
+      "source_file": "D:\\Estudo\\Python\\saida_json\\2__direito-constitucional-e-legislação-interna-da-câmara-dos-deputados__2-princípios-fundamentais.-direitos-e-garantias-fundamentais-direitos-e-deveres-individuais-e-coletivos-direitos-sociais.json",
+      "destination_file": "D:\\Estudo\\Python\\repositorio_conteudo\\concursos\\camara-dos-deputados\\policial-legislativo\\2026\\cebraspe\\edital-v1\\disciplinas\\dir-const-legcam\\002-2-principios-fundamentais-direitos-e-garantias-420e084f.json",
+      "subject_slug": "dir-const-legcam",
+      "material_slug": "principios-e-direitos-fundamentais",
+      "normalized_checksum": "659a746e7ef7f77ba375942cff7d4b5535256859f722ebf208a16667a63e693e",
+      "status": "ok",
+      "warnings": []
+    },
+    {
+      "source_file": "D:\\Estudo\\Python\\saida_json\\2__informática-e-dados__2-navegadores-de-internet-webmail-e-ferramentas-de-produtividade.json",
+      "destination_file": "D:\\Estudo\\Python\\repositorio_conteudo\\concursos\\camara-dos-deputados\\policial-legislativo\\2026\\cebraspe\\edital-v1\\disciplinas\\informatica\\002-navegadores-de-internet-webmail-e-ferramentas-de-a8967f84.json",
+      "subject_slug": "informatica",
+      "material_slug": "navegadores-webmail-produtividade",
+      "normalized_checksum": "f3ac1e7d14a8c81880325e87b39e9bab548326118fd41ea83fad880b44c94194",
+      "status": "ok",
+      "warnings": []
+    },
+    {
+      "source_file": "D:\\Estudo\\Python\\saida_json\\2__língua-inglesa__2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos.json",
+      "destination_file": "D:\\Estudo\\Python\\repositorio_conteudo\\concursos\\camara-dos-deputados\\policial-legislativo\\2026\\cebraspe\\edital-v1\\disciplinas\\ingles\\002-2-itens-gramaticais-relevantes-para-compreensao-de-b36e9ffc.json",
+      "subject_slug": "ingles",
+      "material_slug": "itens-gramaticais-compreensao-semantica",
+      "normalized_checksum": "11a689b6c3f1170634fd6be469c8fda3023e824e6ee291ed2202b60c7ea14d9f",
+      "status": "ok",
+      "warnings": []
+    },
+    {
+      "source_file": "D:\\Estudo\\Python\\saida_json\\2__língua-portuguesa__2-reconhecimento-de-tipos-e-gêneros-textuais.json",
+      "destination_file": "D:\\Estudo\\Python\\repositorio_conteudo\\concursos\\camara-dos-deputados\\policial-legislativo\\2026\\cebraspe\\edital-v1\\disciplinas\\portugues\\002-2-reconhecimento-de-tipos-e-generos-textuais-2ca37568.json",
+      "subject_slug": "portugues",
+      "material_slug": "reconhecimento-tipos-generos-textuais",
+      "normalized_checksum": "7809981e8fcfd61dc615daf74910a1b0a751148bbf7ed4fed2273c57ca728571",
+      "status": "ok",
+      "warnings": []
+    },
+    {
+      "source_file": "D:\\Estudo\\Python\\saida_json\\2__raciocínio-lógico-e-noções-de-estatística__2-lógica-de-argumentação-analogias-inferências-deduções-e-conclusões.json",
+      "destination_file": "D:\\Estudo\\Python\\repositorio_conteudo\\concursos\\camara-dos-deputados\\policial-legislativo\\2026\\cebraspe\\edital-v1\\disciplinas\\rlog-estat\\002-2-logica-de-argumentacao-analogias-inferencias-deducoes-c90e53a7.json",
+      "subject_slug": "rlog-estat",
+      "material_slug": "logica-argumentacao-cebraspe-concurso",
+      "normalized_checksum": "780f8302d0d892c6cb1cd6b9232d0043ca80f2cf0a4a49aae472a5734f0c2054",
+      "status": "ok",
+      "warnings": []
+    },
+    {
+      "source_file": "D:\\Estudo\\Python\\saida_json\\3__direito-administrativo__3-organização-administrativa-3.1-centralização-descentralização-concentração-e-desconcentração.json",
+      "destination_file": "D:\\Estudo\\Python\\repositorio_conteudo\\concursos\\camara-dos-deputados\\policial-legislativo\\2026\\cebraspe\\edital-v1\\disciplinas\\dir-adm\\003-3-organizacao-administrativa-31-centralizacao-29404e0b.json",
+      "subject_slug": "dir-adm",
+      "material_slug": "organizacao-administrativa-centralizacao",
+      "normalized_checksum": "bfcf3a3f945a85b0dd5eed81415b4fa3620d080259a6e4e18e1a24fff762132f",
+      "status": "ok",
+      "warnings": []
+    },
+    {
+      "source_file": "D:\\Estudo\\Python\\saida_json\\3__direito-administrativo__3-organização-administrativa-3.2-administração-direta-3.2.1-conceito.json",
+      "destination_file": "D:\\Estudo\\Python\\repositorio_conteudo\\concursos\\camara-dos-deputados\\policial-legislativo\\2026\\cebraspe\\edital-v1\\disciplinas\\dir-adm\\003-3-organizacao-administrativa-32-administracao-direta-6adbab97.json",
+      "subject_slug": "dir-adm",
+      "material_slug": "organizacao-administrativa-administracao",
+      "normalized_checksum": "98dfb6770a094429af46f66369b49142114abd833e40f687d39a97b5fdc928f3",
+      "status": "ok",
+      "warnings": []
+    },
+    {
+      "source_file": "D:\\Estudo\\Python\\saida_json\\3__direito-administrativo__3-organização-administrativa-3.2-administração-direta-3.2.2-órgão-público-3.2.2.1-conceito.json",
+      "destination_file": "D:\\Estudo\\Python\\repositorio_conteudo\\concursos\\camara-dos-deputados\\policial-legislativo\\2026\\cebraspe\\edital-v1\\disciplinas\\dir-adm\\003-3-organizacao-administrativa-32-administracao-direta-2a8722f0.json",
+      "subject_slug": "dir-adm",
+      "material_slug": "organizacao-administrativa-orgao-publico",
+      "normalized_checksum": "638121e029abe095d4526a90199f05e501ae194bce19e92a49a9d44881aada2c",
+      "status": "ok",
+      "warnings": []
+    },
+    {
+      "source_file": "D:\\Estudo\\Python\\saida_json\\3__direito-administrativo__3-organização-administrativa-3.2-administração-direta-3.2.2-órgão-público-3.2.2.2-teorias-sobre-as-relações-do-estado-co.json",
+      "destination_file": "D:\\Estudo\\Python\\repositorio_conteudo\\concursos\\camara-dos-deputados\\policial-legislativo\\2026\\cebraspe\\edital-v1\\disciplinas\\dir-adm\\3222-3-organizacao-administrativa-32-administracao-direta-02766c42.json",
+      "subject_slug": "dir-adm",
+      "material_slug": "teorias-relacoes-estado-agentes-publicos",
+      "normalized_checksum": "77948035cc155c19777964ffa00e3ab59607e14db3ab48545ace11e27189c355",
+      "status": "ok",
+      "warnings": []
+    },
+    {
+      "source_file": "D:\\Estudo\\Python\\saida_json\\3__direito-administrativo__3-organização-administrativa-3.2-administração-direta-3.2.2-órgão-público-3.2.2.3-características-e-classificação.json",
+      "destination_file": "D:\\Estudo\\Python\\repositorio_conteudo\\concursos\\camara-dos-deputados\\policial-legislativo\\2026\\cebraspe\\edital-v1\\disciplinas\\dir-adm\\003-3-organizacao-administrativa-32-administracao-direta-e023c797.json",
+      "subject_slug": "dir-adm",
+      "material_slug": "organizacao-administrativa-orgao-publico",
+      "normalized_checksum": "293a8fbc9f42b6cc3c36426295b155b071ee5d9049832d941617ef4d70455a03",
+      "status": "ok",
+      "warnings": []
+    },
+    {
+      "source_file": "D:\\Estudo\\Python\\saida_json\\3__direito-administrativo__3-organização-administrativa-3.3-administração-indireta-3.3.1-conceito.json",
+      "destination_file": "D:\\Estudo\\Python\\repositorio_conteudo\\concursos\\camara-dos-deputados\\policial-legislativo\\2026\\cebraspe\\edital-v1\\disciplinas\\dir-adm\\003-3-organizacao-administrativa-33-administracao-indireta-21524fc0.json",
+      "subject_slug": "dir-adm",
+      "material_slug": "administracao-indireta-conceito-cebraspe",
+      "normalized_checksum": "f17e1e78cf2d650710b677136baedf401b9c5483b3add7da021660ff63b0a6ca",
+      "status": "ok",
+      "warnings": []
+    },
+    {
+      "source_file": "D:\\Estudo\\Python\\saida_json\\3__direito-administrativo__3-organização-administrativa-3.3-administração-indireta-3.3.2-autarquias.json",
+      "destination_file": "D:\\Estudo\\Python\\repositorio_conteudo\\concursos\\camara-dos-deputados\\policial-legislativo\\2026\\cebraspe\\edital-v1\\disciplinas\\dir-adm\\332-3-organizacao-administrativa-33-administracao-indireta-777541e1.json",
+      "subject_slug": "dir-adm",
+      "material_slug": "autarquias-direito-administrativo",
+      "normalized_checksum": "3d14863c2ee2da8ccf7c3f19bd283ebd7fdebfee50104c6233a1df8ea9df5379",
+      "status": "ok",
+      "warnings": []
+    },
+    {
+      "source_file": "D:\\Estudo\\Python\\saida_json\\3__direito-administrativo__3-organização-administrativa-3.3-administração-indireta-3.3.3-agências-reguladoras.json",
+      "destination_file": "D:\\Estudo\\Python\\repositorio_conteudo\\concursos\\camara-dos-deputados\\policial-legislativo\\2026\\cebraspe\\edital-v1\\disciplinas\\dir-adm\\003-3-organizacao-administrativa-33-administracao-indireta-bb5c2148.json",
+      "subject_slug": "dir-adm",
+      "material_slug": "agencias-reguladoras-direito",
+      "normalized_checksum": "19ca122eb1385563ceef4a5c760a84f40070168573235ede08b472da0bf5c125",
+      "status": "ok",
+      "warnings": []
+    },
+    {
+      "source_file": "D:\\Estudo\\Python\\saida_json\\3__direito-administrativo__3-organização-administrativa-3.3-administração-indireta-3.3.4-agências-executivas.json",
+      "destination_file": "D:\\Estudo\\Python\\repositorio_conteudo\\concursos\\camara-dos-deputados\\policial-legislativo\\2026\\cebraspe\\edital-v1\\disciplinas\\dir-adm\\003-3-organizacao-administrativa-33-administracao-indireta-e3e1303a.json",
+      "subject_slug": "dir-adm",
+      "material_slug": "agencias-executivas-direito",
+      "normalized_checksum": "6c0f365ccabcd890ad3a8d1c76c3461ba57d24f6ae4853af1c4a334313d9f8d0",
+      "status": "ok",
+      "warnings": []
+    },
+    {
+      "source_file": "D:\\Estudo\\Python\\saida_json\\3__direito-administrativo__3-organização-administrativa-3.3-administração-indireta-3.3.5-fundações-públicas.json",
+      "destination_file": "D:\\Estudo\\Python\\repositorio_conteudo\\concursos\\camara-dos-deputados\\policial-legislativo\\2026\\cebraspe\\edital-v1\\disciplinas\\dir-adm\\003-3-organizacao-administrativa-33-administracao-indireta-d2fd7b3b.json",
+      "subject_slug": "dir-adm",
+      "material_slug": "fundacoes-publicas-direito",
+      "normalized_checksum": "bcf2c1c14b9b0b91e6e14a61a1a6fed1b287128c9e3fa44221751b4615526ab1",
+      "status": "ok",
+      "warnings": []
+    },
+    {
+      "source_file": "D:\\Estudo\\Python\\saida_json\\3__direito-administrativo__3-organização-administrativa-3.3-administração-indireta-3.3.6-empresas-públicas.json",
+      "destination_file": "D:\\Estudo\\Python\\repositorio_conteudo\\concursos\\camara-dos-deputados\\policial-legislativo\\2026\\cebraspe\\edital-v1\\disciplinas\\dir-adm\\336-3-organizacao-administrativa-33-administracao-indireta-f7b728cb.json",
+      "subject_slug": "dir-adm",
+      "material_slug": "empresas-publicas-direito-administrativo",
+      "normalized_checksum": "e99af575f2b0516775cc7efd0ce416f776810be81c706fb624b26926c8738fa2",
+      "status": "ok",
+      "warnings": []
+    },
+    {
+      "source_file": "D:\\Estudo\\Python\\saida_json\\3__direito-administrativo__3-organização-administrativa-3.3-administração-indireta-3.3.7-sociedades-de-economia-mista.json",
+      "destination_file": "D:\\Estudo\\Python\\repositorio_conteudo\\concursos\\camara-dos-deputados\\policial-legislativo\\2026\\cebraspe\\edital-v1\\disciplinas\\dir-adm\\337-3-organizacao-administrativa-33-administracao-indireta-fada1ed1.json",
+      "subject_slug": "dir-adm",
+      "material_slug": "sociedades-economia-mista-direito",
+      "normalized_checksum": "672d88a1ee2256305aeab371fb21124da4e5a09a23d42f33ecec0e787b82e166",
+      "status": "ok",
+      "warnings": []
+    },
+    {
+      "source_file": "D:\\Estudo\\Python\\saida_json\\3__direito-administrativo__3-organização-administrativa-3.3-administração-indireta-3.3.8-consórcios-públicos.json",
+      "destination_file": "D:\\Estudo\\Python\\repositorio_conteudo\\concursos\\camara-dos-deputados\\policial-legislativo\\2026\\cebraspe\\edital-v1\\disciplinas\\dir-adm\\003-3-organizacao-administrativa-33-administracao-indireta-c6abcb9f.json",
+      "subject_slug": "dir-adm",
+      "material_slug": "consorcios-publicos-direito",
+      "normalized_checksum": "e6961f79da16ffa046bbe7f68a99d7849277dac775b4cafb3e1b13751543fffd",
+      "status": "ok",
+      "warnings": []
+    },
+    {
+      "source_file": "D:\\Estudo\\Python\\saida_json\\3__direito-administrativo__3-organização-administrativa-3.4-entidades-paraestatais-e-terceiro-setor-3.4.1-serviços-sociais-autônomos.json",
+      "destination_file": "D:\\Estudo\\Python\\repositorio_conteudo\\concursos\\camara-dos-deputados\\policial-legislativo\\2026\\cebraspe\\edital-v1\\disciplinas\\dir-adm\\003-3-organizacao-administrativa-34-entidades-paraestatais-28c17328.json",
+      "subject_slug": "dir-adm",
+      "material_slug": "servicos-sociais-autonomos-direito",
+      "normalized_checksum": "4fcffec2c738cbb52fa22f84d59416286451e83e4e8892771a90c533a70e8cb3",
+      "status": "ok",
+      "warnings": []
+    },
+    {
+      "source_file": "D:\\Estudo\\Python\\saida_json\\3__direito-administrativo__3-organização-administrativa-3.4-entidades-paraestatais-e-terceiro-setor-3.4.2-entidades-de-apoio.json",
+      "destination_file": "D:\\Estudo\\Python\\repositorio_conteudo\\concursos\\camara-dos-deputados\\policial-legislativo\\2026\\cebraspe\\edital-v1\\disciplinas\\dir-adm\\003-3-organizacao-administrativa-34-entidades-paraestatais-92c09c87.json",
+      "subject_slug": "dir-adm",
+      "material_slug": "organizacao-administrativa-entidades",
+      "normalized_checksum": "f1205089e3f03d71f3b48ea840efd5d149851560ce3e8a131af229b130d0583d",
+      "status": "ok",
+      "warnings": []
+    },
+    {
+      "source_file": "D:\\Estudo\\Python\\saida_json\\3__direito-administrativo__3-organização-administrativa-3.4-entidades-paraestatais-e-terceiro-setor-3.4.3-organizações-sociais.json",
+      "destination_file": "D:\\Estudo\\Python\\repositorio_conteudo\\concursos\\camara-dos-deputados\\policial-legislativo\\2026\\cebraspe\\edital-v1\\disciplinas\\dir-adm\\003-3-organizacao-administrativa-34-entidades-paraestatais-29577ef2.json",
+      "subject_slug": "dir-adm",
+      "material_slug": "organizacoes-sociais-direito",
+      "normalized_checksum": "0cb68a76b2c60fc1ff635018cc0b576530758d26502994734be170d0532832ad",
+      "status": "ok",
+      "warnings": []
+    },
+    {
+      "source_file": "D:\\Estudo\\Python\\saida_json\\3__direito-administrativo__3-organização-administrativa-3.4-entidades-paraestatais-e-terceiro-setor-3.4.4-organizações-da-sociedade-civil-de-intere.json",
+      "destination_file": "D:\\Estudo\\Python\\repositorio_conteudo\\concursos\\camara-dos-deputados\\policial-legislativo\\2026\\cebraspe\\edital-v1\\disciplinas\\dir-adm\\344-344-organizacoes-da-sociedade-civil-de-interesse-b4df8a86.json",
+      "subject_slug": "dir-adm",
+      "material_slug": "organizacoes-sociedade-civil-interesse",
+      "normalized_checksum": "3cc3222ca565cfbc217f6af5b44f8198b9b1b08f4068bd3bb1ba29f9de267ada",
+      "status": "ok",
+      "warnings": []
+    },
+    {
+      "source_file": "D:\\Estudo\\Python\\saida_json\\3__direito-constitucional-e-legislação-interna-da-câmara-dos-deputados__3-organização-do-estado-organização-político-administrativa-união-estados-municípios-distrito-federal-e-territórios.-int.json",
+      "destination_file": "D:\\Estudo\\Python\\repositorio_conteudo\\concursos\\camara-dos-deputados\\policial-legislativo\\2026\\cebraspe\\edital-v1\\disciplinas\\dir-const-legcam\\003-3-organizacao-do-estado-organizacao-politico-8132a759.json",
+      "subject_slug": "dir-const-legcam",
+      "material_slug": "organizacao-estado-intervencao-federal",
+      "normalized_checksum": "e09f4e3b1b4ea6be39222f2ba1853f72d8491ebecc6858f1fbe22014cb13b531",
+      "status": "ok",
+      "warnings": []
+    },
+    {
+      "source_file": "D:\\Estudo\\Python\\saida_json\\3__informática-e-dados__3-noções-de-segurança-da-informação-3.1-responsabilidades-e-deveres-dos-usuários-de-serviços-de-ti.json",
+      "destination_file": "D:\\Estudo\\Python\\repositorio_conteudo\\concursos\\camara-dos-deputados\\policial-legislativo\\2026\\cebraspe\\edital-v1\\disciplinas\\informatica\\003-3-nocoes-de-seguranca-da-informacao-31-ae1ebd0f.json",
+      "subject_slug": "informatica",
+      "material_slug": "seguranca-informacao-responsabilidades",
+      "normalized_checksum": "7f210575bc03f63925265e8d99121bc59005ceaedffbb4e56150a3ca71552ea4",
+      "status": "ok",
+      "warnings": []
+    },
+    {
+      "source_file": "D:\\Estudo\\Python\\saida_json\\3__informática-e-dados__3-noções-de-segurança-da-informação-3.2-malware-vírus-worms-cavalos-de-troia-trojans-spyware-ransomware-backdoor-zero-da.json",
+      "destination_file": "D:\\Estudo\\Python\\repositorio_conteudo\\concursos\\camara-dos-deputados\\policial-legislativo\\2026\\cebraspe\\edital-v1\\disciplinas\\informatica\\003-3-nocoes-de-seguranca-da-informacao-32-malware-virus-5516d80c.json",
+      "subject_slug": "informatica",
+      "material_slug": "seguranca-informacao-malware-cebraspe",
+      "normalized_checksum": "b768dd2a117191ecfa7c22e538eeaff5e7bc63e5df7f63e80f3364cdee3b5e39",
+      "status": "ok",
+      "warnings": []
+    },
+    {
+      "source_file": "D:\\Estudo\\Python\\saida_json\\3__informática-e-dados__3-noções-de-segurança-da-informação-3.3-phishing-vishing-e-engenharia-social-métodos-e-canais-utilizados.json",
+      "destination_file": "D:\\Estudo\\Python\\repositorio_conteudo\\concursos\\camara-dos-deputados\\policial-legislativo\\2026\\cebraspe\\edital-v1\\disciplinas\\informatica\\003-3-nocoes-de-seguranca-da-informacao-33-phishing-vishing-367cac0e.json",
+      "subject_slug": "informatica",
+      "material_slug": "seguranca-informacao-phishing-vishing",
+      "normalized_checksum": "b63a0a433f80a6303dae9879b58b2a34200994ac916c4ec1f3187ba53fea399b",
+      "status": "ok",
+      "warnings": []
+    },
+    {
+      "source_file": "D:\\Estudo\\Python\\saida_json\\3__informática-e-dados__3-noções-de-segurança-da-informação-3.4-aplicativos-para-segurança-antivírus-endpoint-detection-and-response-edr-firewal.json",
+      "destination_file": "D:\\Estudo\\Python\\repositorio_conteudo\\concursos\\camara-dos-deputados\\policial-legislativo\\2026\\cebraspe\\edital-v1\\disciplinas\\informatica\\003-3-nocoes-de-seguranca-da-informacao-34-aplicativos-para-08acb0e2.json",
+      "subject_slug": "informatica",
+      "material_slug": "seguranca-informacao-aplicativos",
+      "normalized_checksum": "31ea39571f4b5f1f737f7ace0bc6a76f274f0555fafa7b6717c1fe188b52a88e",
+      "status": "ok",
+      "warnings": []
+    },
+    {
+      "source_file": "D:\\Estudo\\Python\\saida_json\\3__informática-e-dados__3-noções-de-segurança-da-informação-3.5-assinatura-e-certificação-digital.json",
+      "destination_file": "D:\\Estudo\\Python\\repositorio_conteudo\\concursos\\camara-dos-deputados\\policial-legislativo\\2026\\cebraspe\\edital-v1\\disciplinas\\informatica\\003-3-nocoes-de-seguranca-da-informacao-35-assinatura-e-058ec01a.json",
+      "subject_slug": "informatica",
+      "material_slug": "assinatura-e-certificacao-digital",
+      "normalized_checksum": "c46f68f9d67c1b4e467f489dae2cf79a80fec19d15d24ce860a70105e5746745",
+      "status": "ok",
+      "warnings": []
+    },
+    {
+      "source_file": "D:\\Estudo\\Python\\saida_json\\3__língua-inglesa__3-conhecimento-e-uso-das-formas-contemporâneas-da-linguagem-inglesa.json",
+      "destination_file": "D:\\Estudo\\Python\\repositorio_conteudo\\concursos\\camara-dos-deputados\\policial-legislativo\\2026\\cebraspe\\edital-v1\\disciplinas\\ingles\\003-3-conhecimento-e-uso-das-formas-contemporaneas-da-0699bcbc.json",
+      "subject_slug": "ingles",
+      "material_slug": "conhecimento-uso-formas-contemporaneas",
+      "normalized_checksum": "1e5313570abf38b908d3fb4066aa7a99d33b4cf4181ae9cc82c749f37bacca84",
+      "status": "ok",
+      "warnings": []
+    },
+    {
+      "source_file": "D:\\Estudo\\Python\\saida_json\\3__língua-portuguesa__3-domínio-da-ortografia.json",
+      "destination_file": "D:\\Estudo\\Python\\repositorio_conteudo\\concursos\\camara-dos-deputados\\policial-legislativo\\2026\\cebraspe\\edital-v1\\disciplinas\\portugues\\003-3-dominio-da-ortografia-900aa3e1.json",
+      "subject_slug": "portugues",
+      "material_slug": "dominio-da-ortografia-cebraspe",
+      "normalized_checksum": "cf82268c34195f2bc78e9cb697b99b90b1578a8b9d26aafe159211771c22914b",
+      "status": "ok",
+      "warnings": []
+    },
+    {
+      "source_file": "D:\\Estudo\\Python\\saida_json\\3__raciocínio-lógico-e-noções-de-estatística__3-lógica-sentencial-ou-proposicional-3.1-proposições-simples-e-compostas.json",
+      "destination_file": "D:\\Estudo\\Python\\repositorio_conteudo\\concursos\\camara-dos-deputados\\policial-legislativo\\2026\\cebraspe\\edital-v1\\disciplinas\\rlog-estat\\003-3-logica-sentencial-ou-proposicional-31-proposicoes-06f3707d.json",
+      "subject_slug": "rlog-estat",
+      "material_slug": "logica-sentencial-proposicoes-simples",
+      "normalized_checksum": "5da7a8ecb7be1bbe0283acd520aecac5bf609365b1855f564078650d15033daa",
+      "status": "ok",
+      "warnings": []
+    },
+    {
+      "source_file": "D:\\Estudo\\Python\\saida_json\\3__raciocínio-lógico-e-noções-de-estatística__3-lógica-sentencial-ou-proposicional-3.2-tabelas-verdade.json",
+      "destination_file": "D:\\Estudo\\Python\\repositorio_conteudo\\concursos\\camara-dos-deputados\\policial-legislativo\\2026\\cebraspe\\edital-v1\\disciplinas\\rlog-estat\\003-3-logica-sentencial-ou-proposicional-32-tabelas-verdade-e653804f.json",
+      "subject_slug": "rlog-estat",
+      "material_slug": "logica-sentencial-tabelas-verdade",
+      "normalized_checksum": "60c3f0250a89320241a183e191f81af31fdd3c5fb3ca8b46629c93015d50df4a",
+      "status": "ok",
+      "warnings": []
+    },
+    {
+      "source_file": "D:\\Estudo\\Python\\saida_json\\3__raciocínio-lógico-e-noções-de-estatística__3-lógica-sentencial-ou-proposicional-3.3-equivalências.json",
+      "destination_file": "D:\\Estudo\\Python\\repositorio_conteudo\\concursos\\camara-dos-deputados\\policial-legislativo\\2026\\cebraspe\\edital-v1\\disciplinas\\rlog-estat\\003-3-logica-sentencial-ou-proposicional-33-equivalencias-5dd3b7f0.json",
+      "subject_slug": "rlog-estat",
+      "material_slug": "logica-sentencial-equivalencias-cebraspe",
+      "normalized_checksum": "4fd1633ba585c178c88387af881943ee5fa1da3fc4ce191e9a002cb26d06b161",
+      "status": "ok",
+      "warnings": []
+    },
+    {
+      "source_file": "D:\\Estudo\\Python\\saida_json\\3__raciocínio-lógico-e-noções-de-estatística__3-lógica-sentencial-ou-proposicional-3.4-leis-de-morgan.json",
+      "destination_file": "D:\\Estudo\\Python\\repositorio_conteudo\\concursos\\camara-dos-deputados\\policial-legislativo\\2026\\cebraspe\\edital-v1\\disciplinas\\rlog-estat\\034-3-logica-sentencial-ou-proposicional-34-leis-de-morgan-f5ce468c.json",
+      "subject_slug": "rlog-estat",
+      "material_slug": "leis-de-morgan-raciocinio-logico",
+      "normalized_checksum": "72e10e2e7b8aad85502103bcd2c59639d6287f971d31abb6dd74564cdd0f8077",
+      "status": "ok",
+      "warnings": []
+    },
+    {
+      "source_file": "D:\\Estudo\\Python\\saida_json\\3__raciocínio-lógico-e-noções-de-estatística__3-lógica-sentencial-ou-proposicional-3.5-diagramas-lógicos.json",
+      "destination_file": "D:\\Estudo\\Python\\repositorio_conteudo\\concursos\\camara-dos-deputados\\policial-legislativo\\2026\\cebraspe\\edital-v1\\disciplinas\\rlog-estat\\003-3-logica-sentencial-ou-proposicional-35-diagramas-d804b7f5.json",
+      "subject_slug": "rlog-estat",
+      "material_slug": "diagramas-logicos-cebraspe",
+      "normalized_checksum": "0daea218362c0ef07991cb7b54808b63fbf833c865db8f22abb0127a5ccf6a80",
+      "status": "ok",
+      "warnings": []
+    },
+    {
+      "source_file": "D:\\Estudo\\Python\\saida_json\\4__direito-administrativo__4-atos-administrativos-4.1-conceito.json",
+      "destination_file": "D:\\Estudo\\Python\\repositorio_conteudo\\concursos\\camara-dos-deputados\\policial-legislativo\\2026\\cebraspe\\edital-v1\\disciplinas\\dir-adm\\004-4-atos-administrativos-41-conceito-039af386.json",
+      "subject_slug": "dir-adm",
+      "material_slug": "atos-administrativos-conceito-cebraspe",
+      "normalized_checksum": "61e62e6d1f99767f44672b90edebcc6a6797dc9ffd0f8a977dbc11f464b83d0e",
+      "status": "ok",
+      "warnings": []
+    },
+    {
+      "source_file": "D:\\Estudo\\Python\\saida_json\\4__direito-administrativo__4-atos-administrativos-4.10-atos-administrativos-nulos-anuláveis-e-inexistentes.json",
+      "destination_file": "D:\\Estudo\\Python\\repositorio_conteudo\\concursos\\camara-dos-deputados\\policial-legislativo\\2026\\cebraspe\\edital-v1\\disciplinas\\dir-adm\\004-4-atos-administrativos-410-atos-administrativos-nulos-2b5e3a81.json",
+      "subject_slug": "dir-adm",
+      "material_slug": "atos-administrativos-nulos-anulaveis",
+      "normalized_checksum": "e28b8588b1b02434f8918e492c93afe9ee61868243a87e33a67867ef641d94f1",
+      "status": "ok",
+      "warnings": []
+    },
+    {
+      "source_file": "D:\\Estudo\\Python\\saida_json\\4__direito-administrativo__4-atos-administrativos-4.11-decadência-administrativa.json",
+      "destination_file": "D:\\Estudo\\Python\\repositorio_conteudo\\concursos\\camara-dos-deputados\\policial-legislativo\\2026\\cebraspe\\edital-v1\\disciplinas\\dir-adm\\004-4-atos-administrativos-411-decadencia-administrativa-bd95d7bd.json",
+      "subject_slug": "dir-adm",
+      "material_slug": "decadencia-administrativa",
+      "normalized_checksum": "28f02e30c7817bc5a66abefe29940009e4f5c8f2e1825ba3997798471494835a",
+      "status": "ok",
+      "warnings": []
+    },
+    {
+      "source_file": "D:\\Estudo\\Python\\saida_json\\4__direito-administrativo__4-atos-administrativos-4.2-fatos-da-administração-atos-da-administração-e-atos-administrativos.json",
+      "destination_file": "D:\\Estudo\\Python\\repositorio_conteudo\\concursos\\camara-dos-deputados\\policial-legislativo\\2026\\cebraspe\\edital-v1\\disciplinas\\dir-adm\\004-4-atos-administrativos-42-fatos-da-administracao-atos-2935e151.json",
+      "subject_slug": "dir-adm",
+      "material_slug": "atos-administrativos-fatos-atos-da",
+      "normalized_checksum": "7eb1cc797499125cd6e46aa6a8172241967d6c63eeddfbe94e348e13849587de",
+      "status": "ok",
+      "warnings": []
+    },
+    {
+      "source_file": "D:\\Estudo\\Python\\saida_json\\4__direito-administrativo__4-atos-administrativos-4.3-requisitos-ou-elementos.json",
+      "destination_file": "D:\\Estudo\\Python\\repositorio_conteudo\\concursos\\camara-dos-deputados\\policial-legislativo\\2026\\cebraspe\\edital-v1\\disciplinas\\dir-adm\\004-4-atos-administrativos-43-requisitos-ou-elementos-1bff6f70.json",
+      "subject_slug": "dir-adm",
+      "material_slug": "atos-administrativos-requisitos",
+      "normalized_checksum": "0b05857f9cd0e61e7b3d7fd5f83ef0f7b282dd665b8e5e7706b44f1c312aa18a",
+      "status": "ok",
+      "warnings": []
+    },
+    {
+      "source_file": "D:\\Estudo\\Python\\saida_json\\4__direito-administrativo__4-atos-administrativos-4.4-atributos.json",
+      "destination_file": "D:\\Estudo\\Python\\repositorio_conteudo\\concursos\\camara-dos-deputados\\policial-legislativo\\2026\\cebraspe\\edital-v1\\disciplinas\\dir-adm\\004-4-atos-administrativos-44-atributos-90fd7a18.json",
+      "subject_slug": "dir-adm",
+      "material_slug": "atos-administrativos-atributos-cebraspe",
+      "normalized_checksum": "baa1bd824124f20caa8454254754b5d08cf6d996c5e06403024917067c29c61d",
+      "status": "ok",
+      "warnings": []
+    },
+    {
+      "source_file": "D:\\Estudo\\Python\\saida_json\\4__direito-administrativo__4-atos-administrativos-4.5-classificação.json",
+      "destination_file": "D:\\Estudo\\Python\\repositorio_conteudo\\concursos\\camara-dos-deputados\\policial-legislativo\\2026\\cebraspe\\edital-v1\\disciplinas\\dir-adm\\004-4-atos-administrativos-45-classificacao-5f0b67bc.json",
+      "subject_slug": "dir-adm",
+      "material_slug": "atos-administrativos-classificacao",
+      "normalized_checksum": "20c4f339ec8ad5a2364a894f9501ed7883a8826a07ba05f6e691d58c8956af97",
+      "status": "ok",
+      "warnings": []
+    },
+    {
+      "source_file": "D:\\Estudo\\Python\\saida_json\\4__direito-administrativo__4-atos-administrativos-4.6-atos-administrativos-em-espécie.json",
+      "destination_file": "D:\\Estudo\\Python\\repositorio_conteudo\\concursos\\camara-dos-deputados\\policial-legislativo\\2026\\cebraspe\\edital-v1\\disciplinas\\dir-adm\\004-46-atos-administrativos-em-especie-cf7f3336.json",
+      "subject_slug": "dir-adm",
+      "material_slug": "atos-administrativos-em-especie-cebraspe",
+      "normalized_checksum": "a13f89c099bf8821c26ac7e25436ece9936a6974e241ff0f707702ed4c284ead",
+      "status": "ok",
+      "warnings": []
+    },
+    {
+      "source_file": "D:\\Estudo\\Python\\saida_json\\4__direito-administrativo__4-atos-administrativos-4.7-extinção-dos-atos-administrativos-4.7.1-revogação-anulação-e-cassação.json",
+      "destination_file": "D:\\Estudo\\Python\\repositorio_conteudo\\concursos\\camara-dos-deputados\\policial-legislativo\\2026\\cebraspe\\edital-v1\\disciplinas\\dir-adm\\004-4-atos-administrativos-47-extincao-dos-atos-8c8a5bbd.json",
+      "subject_slug": "dir-adm",
+      "material_slug": "atos-administrativos-extincao-revogacao",
+      "normalized_checksum": "5849430f01ea13c6b94fccf0e28fad71decaf7f674ce4b477d05d42e6b40e6e5",
+      "status": "ok",
+      "warnings": []
+    },
+    {
+      "source_file": "D:\\Estudo\\Python\\saida_json\\4__direito-administrativo__4-atos-administrativos-4.8-convalidação.json",
+      "destination_file": "D:\\Estudo\\Python\\repositorio_conteudo\\concursos\\camara-dos-deputados\\policial-legislativo\\2026\\cebraspe\\edital-v1\\disciplinas\\dir-adm\\004-4-atos-administrativos-48-convalidacao-7ca52889.json",
+      "subject_slug": "dir-adm",
+      "material_slug": "atos-administrativos-convalidacao",
+      "normalized_checksum": "4b3ee6af54496ac7ec39bee018348466fe128f2b95f41bd469fea27bddceb103",
+      "status": "ok",
+      "warnings": []
+    },
+    {
+      "source_file": "D:\\Estudo\\Python\\saida_json\\4__direito-administrativo__4-atos-administrativos-4.9-vinculação-e-discricionariedade.json",
+      "destination_file": "D:\\Estudo\\Python\\repositorio_conteudo\\concursos\\camara-dos-deputados\\policial-legislativo\\2026\\cebraspe\\edital-v1\\disciplinas\\dir-adm\\004-4-atos-administrativos-49-vinculacao-e-a509aa89.json",
+      "subject_slug": "dir-adm",
+      "material_slug": "atos-administrativos-vinculacao-e",
+      "normalized_checksum": "0b30ca64901c5612b6b2b59c6f1984c7e34ff0b1cf075923ac44ef68b77157d7",
+      "status": "ok",
+      "warnings": []
+    },
+    {
+      "source_file": "D:\\Estudo\\Python\\saida_json\\4__direito-constitucional-e-legislação-interna-da-câmara-dos-deputados__4-administração-pública-disposições-gerais-servidores-públicos-civis-e-militares.json",
+      "destination_file": "D:\\Estudo\\Python\\repositorio_conteudo\\concursos\\camara-dos-deputados\\policial-legislativo\\2026\\cebraspe\\edital-v1\\disciplinas\\dir-const-legcam\\004-administracao-publica-disposicoes-gerais-servidores-3d82404b.json",
+      "subject_slug": "dir-const-legcam",
+      "material_slug": "administracao-publica-servidores",
+      "normalized_checksum": "8f612d70a655b5eb3070ff545a1eec4e6413fc1317389c67c6edcd3367177ebb",
+      "status": "ok",
+      "warnings": []
+    },
+    {
+      "source_file": "D:\\Estudo\\Python\\saida_json\\4__informática-e-dados__4-noções-de-bancos-de-dados-4.1-conceitos-básicos-e-características.json",
+      "destination_file": "D:\\Estudo\\Python\\repositorio_conteudo\\concursos\\camara-dos-deputados\\policial-legislativo\\2026\\cebraspe\\edital-v1\\disciplinas\\informatica\\004-4-nocoes-de-bancos-de-dados-41-conceitos-basicos-e-128a75af.json",
+      "subject_slug": "informatica",
+      "material_slug": "bancos-de-dados-conceitos-basicos",
+      "normalized_checksum": "31316082b898f0e69a4e2ec40a33598453edce70b00ee33f81c227250a341330",
+      "status": "ok",
+      "warnings": []
+    },
+    {
+      "source_file": "D:\\Estudo\\Python\\saida_json\\4__informática-e-dados__4-noções-de-bancos-de-dados-4.2-dados-estruturados-e-não-estruturados.json",
+      "destination_file": "D:\\Estudo\\Python\\repositorio_conteudo\\concursos\\camara-dos-deputados\\policial-legislativo\\2026\\cebraspe\\edital-v1\\disciplinas\\informatica\\004-4-nocoes-de-bancos-de-dados-42-dados-estruturados-e-nao-1c3c7388.json",
+      "subject_slug": "informatica",
+      "material_slug": "bancos-de-dados-dados-estruturados-nao",
+      "normalized_checksum": "85b95e4c0ed8013df365e93523210d892780cbe5a0d0344a9df4ad9d303e77ad",
+      "status": "ok",
+      "warnings": []
+    },
+    {
+      "source_file": "D:\\Estudo\\Python\\saida_json\\4__informática-e-dados__4-noções-de-bancos-de-dados-4.3-chaves-e-relacionamentos.json",
+      "destination_file": "D:\\Estudo\\Python\\repositorio_conteudo\\concursos\\camara-dos-deputados\\policial-legislativo\\2026\\cebraspe\\edital-v1\\disciplinas\\informatica\\004-4-nocoes-de-bancos-de-dados-43-chaves-e-relacionamentos-fe7feebe.json",
+      "subject_slug": "informatica",
+      "material_slug": "nocoes-bancos-dados-chaves",
+      "normalized_checksum": "341f5a78c91e0c8c7861f3741da91b701b8477ff84404329eb8c824bfc179f2d",
+      "status": "ok",
+      "warnings": []
+    },
+    {
+      "source_file": "D:\\Estudo\\Python\\saida_json\\4__língua-portuguesa__4-domínio-dos-mecanismos-de-coesão-textual-4.1-emprego-de-elementos-de-referenciação-substituição-e-repetição-de-conecto.json",
+      "destination_file": "D:\\Estudo\\Python\\repositorio_conteudo\\concursos\\camara-dos-deputados\\policial-legislativo\\2026\\cebraspe\\edital-v1\\disciplinas\\portugues\\004-4-dominio-dos-mecanismos-de-coesao-textual-41-emprego-013b904d.json",
+      "subject_slug": "portugues",
+      "material_slug": "coesao-textual-cebraspe-referenciacao",
+      "normalized_checksum": "9fe2c44e791e4d7175d0d71d80274553314ed5ddad417f57faac4aeeaceceaf1",
+      "status": "ok",
+      "warnings": []
+    },
+    {
+      "source_file": "D:\\Estudo\\Python\\saida_json\\4__língua-portuguesa__4-domínio-dos-mecanismos-de-coesão-textual-4.2-emprego-de-tempos-e-modos-verbais.json",
+      "destination_file": "D:\\Estudo\\Python\\repositorio_conteudo\\concursos\\camara-dos-deputados\\policial-legislativo\\2026\\cebraspe\\edital-v1\\disciplinas\\portugues\\004-4-dominio-dos-mecanismos-de-coesao-textual-42-emprego-bb6a84dd.json",
+      "subject_slug": "portugues",
+      "material_slug": "emprego-tempos-modos-verbais-cebraspe",
+      "normalized_checksum": "61869ce650dd36cf85f01dfb8cc8a94421a3fdd6a611d55cadd9c1894f26f50d",
+      "status": "ok",
+      "warnings": []
+    },
+    {
+      "source_file": "D:\\Estudo\\Python\\saida_json\\4__raciocínio-lógico-e-noções-de-estatística__4-lógica-de-primeira-ordem.json",
+      "destination_file": "D:\\Estudo\\Python\\repositorio_conteudo\\concursos\\camara-dos-deputados\\policial-legislativo\\2026\\cebraspe\\edital-v1\\disciplinas\\rlog-estat\\004-logica-de-primeira-ordem-d09cc5e8.json",
+      "subject_slug": "rlog-estat",
+      "material_slug": "logica-primeira-ordem-cebraspe-concurso",
+      "normalized_checksum": "83e6e80aa955e64e5acb7b62f91f0f8d23957803df5f856714167936f66c9cd5",
+      "status": "ok",
+      "warnings": []
+    },
+    {
+      "source_file": "D:\\Estudo\\Python\\saida_json\\5__direito-constitucional-e-legislação-interna-da-câmara-dos-deputados__5-poder-legislativo-o-congresso-nacional-e-suas-casas-atribuições-competências-reuniões-e-comissões.json",
+      "destination_file": "D:\\Estudo\\Python\\repositorio_conteudo\\concursos\\camara-dos-deputados\\policial-legislativo\\2026\\cebraspe\\edital-v1\\disciplinas\\dir-const-legcam\\005-5-poder-legislativo-o-congresso-nacional-e-suas-casas-d3e7039d.json",
+      "subject_slug": "dir-const-legcam",
+      "material_slug": "poder-legislativo-congresso-nacional-e",
+      "normalized_checksum": "f97c3d592ad623bf7ce45191185145da3d6f1cb1aa09c7b4772ea12ae1596c13",
+      "status": "ok",
+      "warnings": []
+    },
+    {
+      "source_file": "D:\\Estudo\\Python\\saida_json\\5__informática-e-dados__5-noções-de-redes-de-computadores-5.1-tipos-locais-lan-metropolitanas-man-e-de-longa-distância-wan.json",
+      "destination_file": "D:\\Estudo\\Python\\repositorio_conteudo\\concursos\\camara-dos-deputados\\policial-legislativo\\2026\\cebraspe\\edital-v1\\disciplinas\\informatica\\005-5-nocoes-de-redes-de-computadores-51-tipos-locais-lan-2796ca00.json",
+      "subject_slug": "informatica",
+      "material_slug": "redes-computadores-lan-man-wan-cebraspe",
+      "normalized_checksum": "2f75aa4af41b8fbd10f7099206c93aeba3ae27460af0786c7bab9b97b2b7fba9",
+      "status": "ok",
+      "warnings": []
+    },
+    {
+      "source_file": "D:\\Estudo\\Python\\saida_json\\5__informática-e-dados__5-noções-de-redes-de-computadores-5.2-internet-e-intranet.json",
+      "destination_file": "D:\\Estudo\\Python\\repositorio_conteudo\\concursos\\camara-dos-deputados\\policial-legislativo\\2026\\cebraspe\\edital-v1\\disciplinas\\informatica\\005-5-nocoes-de-redes-de-computadores-52-internet-e-075bfc19.json",
+      "subject_slug": "informatica",
+      "material_slug": "redes-computadores-internet-intranet",
+      "normalized_checksum": "7d201e11f2a5de5f55cb07c0006e35894ecfc217025bd9ea5bdd73712f44aa6f",
+      "status": "ok",
+      "warnings": []
+    },
+    {
+      "source_file": "D:\\Estudo\\Python\\saida_json\\5__informática-e-dados__5-noções-de-redes-de-computadores-5.3-arquitetura-tcpip-nat.json",
+      "destination_file": "D:\\Estudo\\Python\\repositorio_conteudo\\concursos\\camara-dos-deputados\\policial-legislativo\\2026\\cebraspe\\edital-v1\\disciplinas\\informatica\\005-5-nocoes-de-redes-de-computadores-53-arquitetura-tcpip-3e1f3a2f.json",
+      "subject_slug": "informatica",
+      "material_slug": "arquitetura-tcp-ip-nat-cebraspe-concurso",
+      "normalized_checksum": "0984fadc4db9e4468106743cf33fae127c51f254c0dcb496bd0656400658b416",
+      "status": "ok",
+      "warnings": []
+    },
+    {
+      "source_file": "D:\\Estudo\\Python\\saida_json\\5__informática-e-dados__5-noções-de-redes-de-computadores-5.4-acesso-remoto-a-computadores-vpn-rdp.json",
+      "destination_file": "D:\\Estudo\\Python\\repositorio_conteudo\\concursos\\camara-dos-deputados\\policial-legislativo\\2026\\cebraspe\\edital-v1\\disciplinas\\informatica\\005-5-nocoes-de-redes-de-computadores-54-acesso-remoto-a-b4ca18ae.json",
+      "subject_slug": "informatica",
+      "material_slug": "acesso-remoto-vpn-rdp-cebraspe",
+      "normalized_checksum": "532ebba6fb9c73791eb9efc8365c51f77d6826c4edc4abb0b8e7d20bb00ed404",
+      "status": "ok",
+      "warnings": []
+    },
+    {
+      "source_file": "D:\\Estudo\\Python\\saida_json\\5__língua-portuguesa__5-domínio-da-estrutura-morfossintática-do-período-5.1-emprego-das-classes-de-palavras.json",
+      "destination_file": "D:\\Estudo\\Python\\repositorio_conteudo\\concursos\\camara-dos-deputados\\policial-legislativo\\2026\\cebraspe\\edital-v1\\disciplinas\\portugues\\005-5-dominio-da-estrutura-morfossintatica-do-periodo-51-f178843c.json",
+      "subject_slug": "portugues",
+      "material_slug": "emprego-classes-palavras-cebraspe",
+      "normalized_checksum": "d456396fb34090ee6a648c8436bfdfe437bddebab1e869d152a8b36e08da041b",
+      "status": "ok",
+      "warnings": []
+    },
+    {
+      "source_file": "D:\\Estudo\\Python\\saida_json\\5__língua-portuguesa__5-domínio-da-estrutura-morfossintática-do-período-5.2-relações-de-coordenação-entre-orações-e-entre-termos-da-oração.json",
+      "destination_file": "D:\\Estudo\\Python\\repositorio_conteudo\\concursos\\camara-dos-deputados\\policial-legislativo\\2026\\cebraspe\\edital-v1\\disciplinas\\portugues\\052-52-relacoes-de-coordenacao-entre-oracoes-e-entre-termos-5aeeb427.json",
+      "subject_slug": "portugues",
+      "material_slug": "coordenacao-oracoes-termos-cebraspe",
+      "normalized_checksum": "c5423f30fe11a58a8b16e016f517a58573b506da25ee4af983638777f6ebfa9d",
+      "status": "ok",
+      "warnings": []
+    },
+    {
+      "source_file": "D:\\Estudo\\Python\\saida_json\\5__língua-portuguesa__5-domínio-da-estrutura-morfossintática-do-período-5.3-relações-de-subordinação-entre-orações-e-entre-termos-da-oração.json",
+      "destination_file": "D:\\Estudo\\Python\\repositorio_conteudo\\concursos\\camara-dos-deputados\\policial-legislativo\\2026\\cebraspe\\edital-v1\\disciplinas\\portugues\\005-5-dominio-da-estrutura-morfossintatica-do-periodo-53-5d4061db.json",
+      "subject_slug": "portugues",
+      "material_slug": "dominio-estrutura-morfossintatica",
+      "normalized_checksum": "8b475905d2323554233bc59482b0840eae7bb1c4712de68cefc6542b6f9dfe62",
+      "status": "ok",
+      "warnings": []
+    },
+    {
+      "source_file": "D:\\Estudo\\Python\\saida_json\\5__língua-portuguesa__5-domínio-da-estrutura-morfossintática-do-período-5.4-emprego-dos-sinais-de-pontuação.json",
+      "destination_file": "D:\\Estudo\\Python\\repositorio_conteudo\\concursos\\camara-dos-deputados\\policial-legislativo\\2026\\cebraspe\\edital-v1\\disciplinas\\portugues\\054-54-emprego-dos-sinais-de-pontuacao-148f1591.json",
+      "subject_slug": "portugues",
+      "material_slug": "emprego-sinais-pontuacao-cebraspe",
+      "normalized_checksum": "91dfdc54cc853a883ba99ae0e3895b986ca6e018622fa1c143c6aba5ceade11b",
+      "status": "ok",
+      "warnings": []
+    },
+    {
+      "source_file": "D:\\Estudo\\Python\\saida_json\\5__língua-portuguesa__5-domínio-da-estrutura-morfossintática-do-período-5.5-concordância-verbal-e-nominal.json",
+      "destination_file": "D:\\Estudo\\Python\\repositorio_conteudo\\concursos\\camara-dos-deputados\\policial-legislativo\\2026\\cebraspe\\edital-v1\\disciplinas\\portugues\\005-5-dominio-da-estrutura-morfossintatica-do-periodo-55-d84e6b65.json",
+      "subject_slug": "portugues",
+      "material_slug": "concordancia-verbal-e-nominal-cebraspe",
+      "normalized_checksum": "fd42334436f79c9bb2c424da4c88ff8c8c38e9b855d856f76ec6250689aeeaf5",
+      "status": "ok",
+      "warnings": []
+    },
+    {
+      "source_file": "D:\\Estudo\\Python\\saida_json\\5__língua-portuguesa__5-domínio-da-estrutura-morfossintática-do-período-5.6-regência-verbal-e-nominal.json",
+      "destination_file": "D:\\Estudo\\Python\\repositorio_conteudo\\concursos\\camara-dos-deputados\\policial-legislativo\\2026\\cebraspe\\edital-v1\\disciplinas\\portugues\\005-5-dominio-da-estrutura-morfossintatica-do-periodo-56-03dd5a69.json",
+      "subject_slug": "portugues",
+      "material_slug": "regencia-verbal-e-nominal-cebraspe",
+      "normalized_checksum": "ed27395a743d41c186b86ada5c5e893bcfb0a9644d28c684e7f3c6d1e76afa02",
+      "status": "ok",
+      "warnings": []
+    },
+    {
+      "source_file": "D:\\Estudo\\Python\\saida_json\\5__língua-portuguesa__5-domínio-da-estrutura-morfossintática-do-período-5.7-emprego-do-sinal-indicativo-de-crase.json",
+      "destination_file": "D:\\Estudo\\Python\\repositorio_conteudo\\concursos\\camara-dos-deputados\\policial-legislativo\\2026\\cebraspe\\edital-v1\\disciplinas\\portugues\\005-5-dominio-da-estrutura-morfossintatica-do-periodo-57-b5782f89.json",
+      "subject_slug": "portugues",
+      "material_slug": "crase-cebraspe-completo",
+      "normalized_checksum": "4eac6dc5f9d3d80c8d82d5cdcdfdc18e08c57a126af358eb436c9f2138e882e9",
+      "status": "ok",
+      "warnings": []
+    },
+    {
+      "source_file": "D:\\Estudo\\Python\\saida_json\\5__língua-portuguesa__5-domínio-da-estrutura-morfossintática-do-período-5.8-colocação-dos-pronomes-átonos.json",
+      "destination_file": "D:\\Estudo\\Python\\repositorio_conteudo\\concursos\\camara-dos-deputados\\policial-legislativo\\2026\\cebraspe\\edital-v1\\disciplinas\\portugues\\005-58-colocacao-dos-pronomes-atonos-5ad6db5d.json",
+      "subject_slug": "portugues",
+      "material_slug": "colocacao-pronomes-atonos-cebraspe",
+      "normalized_checksum": "36f4289de84b0e169d6c347a05083707dfde9ff0bc12c29df3bda516c0c76488",
+      "status": "ok",
+      "warnings": []
+    },
+    {
+      "source_file": "D:\\Estudo\\Python\\saida_json\\6__direito-constitucional-e-legislação-interna-da-câmara-dos-deputados__6-regime-jurídico-constitucional-dos-parlamentares.json",
+      "destination_file": "D:\\Estudo\\Python\\repositorio_conteudo\\concursos\\camara-dos-deputados\\policial-legislativo\\2026\\cebraspe\\edital-v1\\disciplinas\\dir-const-legcam\\006-6-regime-juridico-constitucional-dos-parlamentares-dc085b2d.json",
+      "subject_slug": "dir-const-legcam",
+      "material_slug": "regime-juridico-constitucional",
+      "normalized_checksum": "96e3430b1777825883a09bba234109c134204b6eb70f4ac032cdf12ab34b47b2",
+      "status": "ok",
+      "warnings": []
+    },
+    {
+      "source_file": "D:\\Estudo\\Python\\saida_json\\6__informática-e-dados__6-noções-de-aprendizado-de-máquina-6.1-mineração-de-dados-conceituação-e-características.json",
+      "destination_file": "D:\\Estudo\\Python\\repositorio_conteudo\\concursos\\camara-dos-deputados\\policial-legislativo\\2026\\cebraspe\\edital-v1\\disciplinas\\informatica\\006-6-nocoes-de-aprendizado-de-maquina-61-mineracao-de-8b96bf78.json",
+      "subject_slug": "informatica",
+      "material_slug": "mineracao-de-dados-conceituacao-e",
+      "normalized_checksum": "e27328e038d587757f53cc29da0a81635ef455769492284ba23d07d9859ac79b",
+      "status": "ok",
+      "warnings": []
+    },
+    {
+      "source_file": "D:\\Estudo\\Python\\saida_json\\6__informática-e-dados__6-noções-de-aprendizado-de-máquina-6.2-big-data-conceito-premissas-e-aplicação.json",
+      "destination_file": "D:\\Estudo\\Python\\repositorio_conteudo\\concursos\\camara-dos-deputados\\policial-legislativo\\2026\\cebraspe\\edital-v1\\disciplinas\\informatica\\006-6-nocoes-de-aprendizado-de-maquina-62-big-data-conceito-2ce4a0ac.json",
+      "subject_slug": "informatica",
+      "material_slug": "big-data-conceito-premissas-aplicacao",
+      "normalized_checksum": "a809312fde2ed5546edeaae3e728d147fe978c205e45bb853aa44a0b2a37b727",
+      "status": "ok",
+      "warnings": []
+    },
+    {
+      "source_file": "D:\\Estudo\\Python\\saida_json\\6__informática-e-dados__6-noções-de-aprendizado-de-máquina-6.3-ia-generativa-principais-características.json",
+      "destination_file": "D:\\Estudo\\Python\\repositorio_conteudo\\concursos\\camara-dos-deputados\\policial-legislativo\\2026\\cebraspe\\edital-v1\\disciplinas\\informatica\\006-6-nocoes-de-aprendizado-de-maquina-63-ia-generativa-ca0721e9.json",
+      "subject_slug": "informatica",
+      "material_slug": "ia-generativa-caracteristicas-cebraspe",
+      "normalized_checksum": "74d0ed381c0b46b882ae6438732d55005301e63d8ce0049c08c5e8601b7f60d9",
+      "status": "ok",
+      "warnings": []
+    },
+    {
+      "source_file": "D:\\Estudo\\Python\\saida_json\\6__língua-portuguesa__6-reescrita-de-frases-e-parágrafos-do-texto-6.1-significação-das-palavras.json",
+      "destination_file": "D:\\Estudo\\Python\\repositorio_conteudo\\concursos\\camara-dos-deputados\\policial-legislativo\\2026\\cebraspe\\edital-v1\\disciplinas\\portugues\\006-6-reescrita-de-frases-e-paragrafos-do-texto-61-90eb84e1.json",
+      "subject_slug": "portugues",
+      "material_slug": "reescrita-significacao-palavras-cebraspe",
+      "normalized_checksum": "e5942e0337df37d067f06899890dc6eeb7cf0fad1367afb904d220bc217140d0",
+      "status": "ok",
+      "warnings": []
+    },
+    {
+      "source_file": "D:\\Estudo\\Python\\saida_json\\6__língua-portuguesa__6-reescrita-de-frases-e-parágrafos-do-texto-6.2-substituição-de-palavras-ou-de-trechos-de-texto.json",
+      "destination_file": "D:\\Estudo\\Python\\repositorio_conteudo\\concursos\\camara-dos-deputados\\policial-legislativo\\2026\\cebraspe\\edital-v1\\disciplinas\\portugues\\062-6-reescrita-de-frases-e-paragrafos-do-texto-62-9542232c.json",
+      "subject_slug": "portugues",
+      "material_slug": "reescrita-substituicao-palavras-cebraspe",
+      "normalized_checksum": "08a77623a97d64e88d20463d711308b87c84b41e64969c5ca6756b47b5712fdb",
+      "status": "ok",
+      "warnings": []
+    },
+    {
+      "source_file": "D:\\Estudo\\Python\\saida_json\\6__língua-portuguesa__6-reescrita-de-frases-e-parágrafos-do-texto-6.3-reorganização-da-estrutura-de-orações-e-de-períodos-do-texto.json",
+      "destination_file": "D:\\Estudo\\Python\\repositorio_conteudo\\concursos\\camara-dos-deputados\\policial-legislativo\\2026\\cebraspe\\edital-v1\\disciplinas\\portugues\\006-6-reescrita-de-frases-e-paragrafos-do-texto-63-6b45c374.json",
+      "subject_slug": "portugues",
+      "material_slug": "reescrita-frases-paragrafos",
+      "normalized_checksum": "239e90eaf7cca5d03bcf9c3fa98be1e268f21c79b3d2c1393cde4bb317e984ec",
+      "status": "ok",
+      "warnings": []
+    },
+    {
+      "source_file": "D:\\Estudo\\Python\\saida_json\\6__língua-portuguesa__6-reescrita-de-frases-e-parágrafos-do-texto-6.4-reescrita-de-textos-de-diferentes-gêneros-e-níveis-de-formalidade.json",
+      "destination_file": "D:\\Estudo\\Python\\repositorio_conteudo\\concursos\\camara-dos-deputados\\policial-legislativo\\2026\\cebraspe\\edital-v1\\disciplinas\\portugues\\006-6-reescrita-de-frases-e-paragrafos-do-texto-64-cbb9c396.json",
+      "subject_slug": "portugues",
+      "material_slug": "reescrita-frases-paragrafos-generos",
+      "normalized_checksum": "2fdac1d94ba74a59101ffaddc4939119f284a92e21655550932e0a43156bcee1",
+      "status": "ok",
+      "warnings": []
+    },
+    {
+      "source_file": "D:\\Estudo\\Python\\saida_json\\6__raciocínio-lógico-e-noções-de-estatística__6-operações-com-conjuntos.json",
+      "destination_file": "D:\\Estudo\\Python\\repositorio_conteudo\\concursos\\camara-dos-deputados\\policial-legislativo\\2026\\cebraspe\\edital-v1\\disciplinas\\rlog-estat\\006-6-operacoes-com-conjuntos-cb73aba8.json",
+      "subject_slug": "rlog-estat",
+      "material_slug": "operacoes-com-conjuntos-cebraspe",
+      "normalized_checksum": "689b76faff38780783a0eb60a2c0543e1a0c6f690c404cac9b97861c00cb1686",
+      "status": "ok",
+      "warnings": []
+    },
+    {
+      "source_file": "D:\\Estudo\\Python\\saida_json\\7__direito-constitucional-e-legislação-interna-da-câmara-dos-deputados__7-processo-legislativo.json",
+      "destination_file": "D:\\Estudo\\Python\\repositorio_conteudo\\concursos\\camara-dos-deputados\\policial-legislativo\\2026\\cebraspe\\edital-v1\\disciplinas\\dir-const-legcam\\007-7-processo-legislativo-a4b385ae.json",
+      "subject_slug": "dir-const-legcam",
+      "material_slug": "processo-legislativo-cebraspe",
+      "normalized_checksum": "3cd4db468a6e361d55ca8bd9dae48704092975a5fe94493a6b4300050dd6c09c",
+      "status": "ok",
+      "warnings": []
+    },
+    {
+      "source_file": "D:\\Estudo\\Python\\saida_json\\7__informática-e-dados__7-noções-de-forense-computacional-7.1-principais-técnicas-de-recuperação-de-arquivos-apagados-em-sistemas-de-arquivos.json",
+      "destination_file": "D:\\Estudo\\Python\\repositorio_conteudo\\concursos\\camara-dos-deputados\\policial-legislativo\\2026\\cebraspe\\edital-v1\\disciplinas\\informatica\\007-7-nocoes-de-forense-computacional-71-principais-74ca47fc.json",
+      "subject_slug": "informatica",
+      "material_slug": "forense-computacional-recuperacao",
+      "normalized_checksum": "97e2a48748205dfa2f618c1e154892b8c1f33c054ef083ca23cfe144eba7c261",
+      "status": "ok",
+      "warnings": []
+    },
+    {
+      "source_file": "D:\\Estudo\\Python\\saida_json\\7__informática-e-dados__7-noções-de-forense-computacional-7.2-identificação-isolamento-preservação-e-coleta-de-vestígio-cibernético.json",
+      "destination_file": "D:\\Estudo\\Python\\repositorio_conteudo\\concursos\\camara-dos-deputados\\policial-legislativo\\2026\\cebraspe\\edital-v1\\disciplinas\\informatica\\007-7-nocoes-de-forense-computacional-72-identificacao-c08cc8d2.json",
+      "subject_slug": "informatica",
+      "material_slug": "forense-computacional-identificacao",
+      "normalized_checksum": "b24ddc46d6f77d6366963d924445b38f95d68cdd07a3445eb156bcd1e45a1900",
+      "status": "ok",
+      "warnings": []
+    },
+    {
+      "source_file": "D:\\Estudo\\Python\\saida_json\\7__informática-e-dados__7-noções-de-forense-computacional-7.3-cadeia-de-custódia.json",
+      "destination_file": "D:\\Estudo\\Python\\repositorio_conteudo\\concursos\\camara-dos-deputados\\policial-legislativo\\2026\\cebraspe\\edital-v1\\disciplinas\\informatica\\007-7-nocoes-de-forense-computacional-73-cadeia-de-custodia-11992894.json",
+      "subject_slug": "informatica",
+      "material_slug": "forense-computacional-cadeia-de-custodia",
+      "normalized_checksum": "ca37bc49277b83f9bf34ceb809995689e71b04aedefc8decd3ac8a6cb6ab5415",
+      "status": "ok",
+      "warnings": []
+    },
+    {
+      "source_file": "D:\\Estudo\\Python\\saida_json\\7__informática-e-dados__7-noções-de-forense-computacional-7.4-log-de-eventos-do-windows.json",
+      "destination_file": "D:\\Estudo\\Python\\repositorio_conteudo\\concursos\\camara-dos-deputados\\policial-legislativo\\2026\\cebraspe\\edital-v1\\disciplinas\\informatica\\007-7-nocoes-de-forense-computacional-74-log-de-eventos-do-17e235c9.json",
+      "subject_slug": "informatica",
+      "material_slug": "forense-computacional-log-eventos",
+      "normalized_checksum": "12b69d6c70366b88558e8ebf0af9a2fa7c1aff34b52e1dd1fcee45163ea1cd68",
+      "status": "ok",
+      "warnings": []
+    },
+    {
+      "source_file": "D:\\Estudo\\Python\\saida_json\\7__raciocínio-lógico-e-noções-de-estatística__7-raciocínio-lógico-envolvendo-problemas-aritméticos-geométricos-e-matriciais.json",
+      "destination_file": "D:\\Estudo\\Python\\repositorio_conteudo\\concursos\\camara-dos-deputados\\policial-legislativo\\2026\\cebraspe\\edital-v1\\disciplinas\\rlog-estat\\007-7-raciocinio-logico-envolvendo-problemas-aritmeticos-3f575743.json",
+      "subject_slug": "rlog-estat",
+      "material_slug": "raciocinio-logico-problemas-aritmeticos",
+      "normalized_checksum": "f0e8b77707ee438e0ec096b8dcf427848212a1d9d3dd6f6a5d855aafef54d815",
+      "status": "ok",
+      "warnings": []
+    },
+    {
+      "source_file": "D:\\Estudo\\Python\\saida_json\\8__direito-constitucional-e-legislação-interna-da-câmara-dos-deputados__8-defesa-do-estado-e-das-instituições-democráticas.json",
+      "destination_file": "D:\\Estudo\\Python\\repositorio_conteudo\\concursos\\camara-dos-deputados\\policial-legislativo\\2026\\cebraspe\\edital-v1\\disciplinas\\dir-const-legcam\\008-8-defesa-do-estado-e-das-instituicoes-democraticas-04643a22.json",
+      "subject_slug": "dir-const-legcam",
+      "material_slug": "defesa-do-estado-e-instituicoes",
+      "normalized_checksum": "16dd81b043b65e608e6cec84c5197d11bee49dbf94aa9a4755389a529edd2fb3",
+      "status": "ok",
+      "warnings": []
+    },
+    {
+      "source_file": "D:\\Estudo\\Python\\saida_json\\8__raciocínio-lógico-e-noções-de-estatística__8-estatística-e-probabilidade-básicas-8.1-medidas-de-tendência-central.json",
+      "destination_file": "D:\\Estudo\\Python\\repositorio_conteudo\\concursos\\camara-dos-deputados\\policial-legislativo\\2026\\cebraspe\\edital-v1\\disciplinas\\rlog-estat\\008-8-estatistica-e-probabilidade-basicas-81-medidas-de-9590ab5f.json",
+      "subject_slug": "rlog-estat",
+      "material_slug": "estatistica-medidas-tendencia-central",
+      "normalized_checksum": "481b5d0dc70a3a36a7755e434ba769edb6bb6589c19804410d19bba5c60939d9",
+      "status": "ok",
+      "warnings": []
+    },
+    {
+      "source_file": "D:\\Estudo\\Python\\saida_json\\8__raciocínio-lógico-e-noções-de-estatística__8-estatística-e-probabilidade-básicas-8.2-medidas-de-dispersão.json",
+      "destination_file": "D:\\Estudo\\Python\\repositorio_conteudo\\concursos\\camara-dos-deputados\\policial-legislativo\\2026\\cebraspe\\edital-v1\\disciplinas\\rlog-estat\\008-8-estatistica-e-probabilidade-basicas-82-medidas-de-28cacd0e.json",
+      "subject_slug": "rlog-estat",
+      "material_slug": "medidas-de-dispersao-raciocinio-logico",
+      "normalized_checksum": "20c8c7cd324aca031d27793631192f18d98338baba722e2bc481b990a3ddbf11",
+      "status": "ok",
+      "warnings": []
+    },
+    {
+      "source_file": "D:\\Estudo\\Python\\saida_json\\8__raciocínio-lógico-e-noções-de-estatística__8-estatística-e-probabilidade-básicas-8.3-formulação-e-validação-de-hipóteses.json",
+      "destination_file": "D:\\Estudo\\Python\\repositorio_conteudo\\concursos\\camara-dos-deputados\\policial-legislativo\\2026\\cebraspe\\edital-v1\\disciplinas\\rlog-estat\\008-8-estatistica-e-probabilidade-basicas-83-formulacao-e-a6369e23.json",
+      "subject_slug": "rlog-estat",
+      "material_slug": "estatistica-probabilidade-basicas",
+      "normalized_checksum": "6a2f9d5466b5510a808828c71f4fd4a14f4f9c04b6c6ddeac5a8a7cbc443435c",
+      "status": "ok",
+      "warnings": []
+    },
+    {
+      "source_file": "D:\\Estudo\\Python\\saida_json\\8__raciocínio-lógico-e-noções-de-estatística__8-estatística-e-probabilidade-básicas-8.4-amostragem-viés-e-erro.json",
+      "destination_file": "D:\\Estudo\\Python\\repositorio_conteudo\\concursos\\camara-dos-deputados\\policial-legislativo\\2026\\cebraspe\\edital-v1\\disciplinas\\rlog-estat\\008-8-estatistica-e-probabilidade-basicas-84-amostragem-9e1474e3.json",
+      "subject_slug": "rlog-estat",
+      "material_slug": "estatistica-probabilidade-amostragem",
+      "normalized_checksum": "ecd739a0064e9373bf0518daccfb0d130465cafb538b9889ceaefcdc97812f03",
+      "status": "ok",
+      "warnings": []
+    },
+    {
+      "source_file": "D:\\Estudo\\Python\\saida_json\\8__raciocínio-lógico-e-noções-de-estatística__8-estatística-e-probabilidade-básicas-8.5-normalização-e-padronização.json",
+      "destination_file": "D:\\Estudo\\Python\\repositorio_conteudo\\concursos\\camara-dos-deputados\\policial-legislativo\\2026\\cebraspe\\edital-v1\\disciplinas\\rlog-estat\\008-8-estatistica-e-probabilidade-basicas-85-normalizacao-e-c9483234.json",
+      "subject_slug": "rlog-estat",
+      "material_slug": "normalizacao-e-padronizacao-estatistica",
+      "normalized_checksum": "a5a08356040261a378b35304a80912a755f23f0d02ef4e06ee3dd8f0df34c3e1",
+      "status": "ok",
+      "warnings": []
+    },
+    {
+      "source_file": "D:\\Estudo\\Python\\saida_json\\8__raciocínio-lógico-e-noções-de-estatística__8-estatística-e-probabilidade-básicas-8.6-outliers.json",
+      "destination_file": "D:\\Estudo\\Python\\repositorio_conteudo\\concursos\\camara-dos-deputados\\policial-legislativo\\2026\\cebraspe\\edital-v1\\disciplinas\\rlog-estat\\086-8-estatistica-e-probabilidade-basicas-86-outliers-1558f9dc.json",
+      "subject_slug": "rlog-estat",
+      "material_slug": "outliers-raciocinio-logico-estatistica",
+      "normalized_checksum": "7c59c683564f2c9e5be7ba1a6bd83ac16e63578edce3ec974f5e24a5aeceb251",
+      "status": "ok",
+      "warnings": []
+    },
+    {
+      "source_file": "D:\\Estudo\\Python\\saida_json\\9__direito-constitucional-e-legislação-interna-da-câmara-dos-deputados__9-forças-armadas.json",
+      "destination_file": "D:\\Estudo\\Python\\repositorio_conteudo\\concursos\\camara-dos-deputados\\policial-legislativo\\2026\\cebraspe\\edital-v1\\disciplinas\\dir-const-legcam\\009-forcas-armadas-0e140e70.json",
+      "subject_slug": "dir-const-legcam",
+      "material_slug": "forcas-armadas-direito-constitucional",
+      "normalized_checksum": "2f9fc6111b745d6cf2e2dfbc2e60d256776aca0f5d9e83cafdf6c794e90f0613",
+      "status": "ok",
+      "warnings": []
+    },
+    {
+      "source_file": "D:\\Estudo\\Python\\saida_json\\sanitizado\\1__língua-inglesa__1-compreensão-de-textos-variados-domínio-do-vocabulário-e-da-estrutura-da-língua-ideias-principais-e-secundárias-explíci.json",
+      "destination_file": "D:\\Estudo\\Python\\repositorio_conteudo\\concursos\\camara-dos-deputados\\policial-legislativo\\2026\\cebraspe\\edital-v1\\disciplinas\\ingles\\001-1-compreensao-de-textos-variados-dominio-do-vocabulario-d419be59.json",
+      "subject_slug": "ingles",
+      "material_slug": "compreensao-textual-ingles-cebraspe",
+      "normalized_checksum": "38130eb8742b427ece037502797e6815361cf3aa3224bcfd3d6f7c39dc6dc984",
+      "status": "ok",
+      "warnings": []
+    },
+    {
+      "source_file": "D:\\Estudo\\Python\\saida_json\\sanitizado\\1__língua-portuguesa__1-compreensão-e-interpretação-de-textos-de-gêneros-variados.json",
+      "destination_file": "D:\\Estudo\\Python\\repositorio_conteudo\\concursos\\camara-dos-deputados\\policial-legislativo\\2026\\cebraspe\\edital-v1\\disciplinas\\portugues\\001-1-compreensao-e-interpretacao-de-textos-de-generos-1a3e661e.json",
+      "subject_slug": "portugues",
+      "material_slug": "compreensao-e-interpretacao-de-textos",
+      "normalized_checksum": "c1bfe7fc10236245b967223c66a56af90c65788c1ef24031a61ecd31a994586f",
+      "status": "ok",
+      "warnings": []
+    },
+    {
+      "source_file": "D:\\Estudo\\Python\\saida_json\\sanitizado\\1__raciocínio-lógico-e-noções-de-estatística__1-estruturas-lógicas.json",
+      "destination_file": "D:\\Estudo\\Python\\repositorio_conteudo\\concursos\\camara-dos-deputados\\policial-legislativo\\2026\\cebraspe\\edital-v1\\disciplinas\\rlog-estat\\001-1-estruturas-logicas-1de27d8c.json",
+      "subject_slug": "rlog-estat",
+      "material_slug": "estruturas-logicas-cebraspe",
+      "normalized_checksum": "cf1b36beeabf3abd3c6cd25682d8d7cd254648aa9f10f7118d4abfa0ba9dd238",
+      "status": "ok",
+      "warnings": []
+    },
+    {
+      "source_file": "D:\\Estudo\\Python\\saida_json\\sanitizado\\2__língua-inglesa__2-itens-gramaticais-relevantes-para-compreensão-de-conteúdos-semânticos.json",
+      "destination_file": "D:\\Estudo\\Python\\repositorio_conteudo\\concursos\\camara-dos-deputados\\policial-legislativo\\2026\\cebraspe\\edital-v1\\disciplinas\\ingles\\002-2-itens-gramaticais-relevantes-para-compreensao-de-7bb3753f.json",
+      "subject_slug": "ingles",
+      "material_slug": "itens-gramaticais-compreensao-semantica",
+      "normalized_checksum": "49b72d1cd54ac23fe2eae71ac422beeb9dcc07b9a78434c0400727818f6a3696",
+      "status": "ok",
+      "warnings": []
+    },
+    {
+      "source_file": "D:\\Estudo\\Python\\saida_json\\sanitizado\\2__língua-portuguesa__2-reconhecimento-de-tipos-e-gêneros-textuais.json",
+      "destination_file": "D:\\Estudo\\Python\\repositorio_conteudo\\concursos\\camara-dos-deputados\\policial-legislativo\\2026\\cebraspe\\edital-v1\\disciplinas\\portugues\\002-2-reconhecimento-de-tipos-e-generos-textuais-d787d7a3.json",
+      "subject_slug": "portugues",
+      "material_slug": "reconhecimento-tipos-generos-textuais",
+      "normalized_checksum": "c925278d05f2ce14424f3d7c075e3003cc18b9d71430299b60f3cd03e85fecfc",
+      "status": "ok",
+      "warnings": []
+    },
+    {
+      "source_file": "D:\\Estudo\\Python\\saida_json\\sanitizado\\2__raciocínio-lógico-e-noções-de-estatística__2-lógica-de-argumentação-analogias-inferências-deduções-e-conclusões.json",
+      "destination_file": "D:\\Estudo\\Python\\repositorio_conteudo\\concursos\\camara-dos-deputados\\policial-legislativo\\2026\\cebraspe\\edital-v1\\disciplinas\\rlog-estat\\002-2-logica-de-argumentacao-analogias-inferencias-deducoes-0a2256a8.json",
+      "subject_slug": "rlog-estat",
+      "material_slug": "logica-argumentacao-cebraspe-concurso",
+      "normalized_checksum": "a73c7dbe5575f51fea34cf44a31adf23ab72d325b0be4bc9d7bb7a97a123f4bf",
+      "status": "ok",
+      "warnings": []
+    },
+    {
+      "source_file": "D:\\Estudo\\Python\\saida_json\\sanitizado\\3__língua-inglesa__3-conhecimento-e-uso-das-formas-contemporâneas-da-linguagem-inglesa.json",
+      "destination_file": "D:\\Estudo\\Python\\repositorio_conteudo\\concursos\\camara-dos-deputados\\policial-legislativo\\2026\\cebraspe\\edital-v1\\disciplinas\\ingles\\003-3-conhecimento-e-uso-das-formas-contemporaneas-da-036eaccc.json",
+      "subject_slug": "ingles",
+      "material_slug": "conhecimento-uso-formas-contemporaneas",
+      "normalized_checksum": "41408017f7ef26486b5fc700778c23686e29af11e5a1368355d773d27e842967",
+      "status": "ok",
+      "warnings": []
+    },
+    {
+      "source_file": "D:\\Estudo\\Python\\saida_json\\sanitizado\\3__língua-portuguesa__3-domínio-da-ortografia.json",
+      "destination_file": "D:\\Estudo\\Python\\repositorio_conteudo\\concursos\\camara-dos-deputados\\policial-legislativo\\2026\\cebraspe\\edital-v1\\disciplinas\\portugues\\003-3-dominio-da-ortografia-42ce1e9e.json",
+      "subject_slug": "portugues",
+      "material_slug": "dominio-da-ortografia-cebraspe",
+      "normalized_checksum": "41953f3d5e049ae92f6d75e54bdde4a62cd470e45e287eee7db23213af9eee30",
+      "status": "ok",
+      "warnings": []
+    },
+    {
+      "source_file": "D:\\Estudo\\Python\\saida_json\\sanitizado\\3__raciocínio-lógico-e-noções-de-estatística__3-lógica-sentencial-ou-proposicional-3.1-proposições-simples-e-compostas.json",
+      "destination_file": "D:\\Estudo\\Python\\repositorio_conteudo\\concursos\\camara-dos-deputados\\policial-legislativo\\2026\\cebraspe\\edital-v1\\disciplinas\\rlog-estat\\003-3-logica-sentencial-ou-proposicional-31-proposicoes-e5c1fdef.json",
+      "subject_slug": "rlog-estat",
+      "material_slug": "logica-sentencial-proposicoes-simples",
+      "normalized_checksum": "957056a42fe94e0133e39965b56ec414c8a28f250ea4ac06355294233c5810a6",
+      "status": "ok",
+      "warnings": []
+    },
+    {
+      "source_file": "D:\\Estudo\\Python\\saida_json\\sanitizado\\3__raciocínio-lógico-e-noções-de-estatística__3-lógica-sentencial-ou-proposicional-3.2-tabelas-verdade.json",
+      "destination_file": "D:\\Estudo\\Python\\repositorio_conteudo\\concursos\\camara-dos-deputados\\policial-legislativo\\2026\\cebraspe\\edital-v1\\disciplinas\\rlog-estat\\003-3-logica-sentencial-ou-proposicional-32-tabelas-verdade-6269c17c.json",
+      "subject_slug": "rlog-estat",
+      "material_slug": "logica-sentencial-tabelas-verdade",
+      "normalized_checksum": "14ce9b15c3d6ac24786b4946c0e8c3f5e38dc89d9ead60f8eac80b1532daa73c",
+      "status": "ok",
+      "warnings": []
+    },
+    {
+      "source_file": "D:\\Estudo\\Python\\saida_json\\sanitizado\\3__raciocínio-lógico-e-noções-de-estatística__3-lógica-sentencial-ou-proposicional-3.3-equivalências.json",
+      "destination_file": "D:\\Estudo\\Python\\repositorio_conteudo\\concursos\\camara-dos-deputados\\policial-legislativo\\2026\\cebraspe\\edital-v1\\disciplinas\\rlog-estat\\003-3-logica-sentencial-ou-proposicional-33-equivalencias-0f19f50c.json",
+      "subject_slug": "rlog-estat",
+      "material_slug": "logica-sentencial-equivalencias-cebraspe",
+      "normalized_checksum": "de8cbdd42b2dcf2b6ce670283c24eb142fadb4c1eb628568180a3bea4c0bd59a",
+      "status": "ok",
+      "warnings": []
+    },
+    {
+      "source_file": "D:\\Estudo\\Python\\saida_json\\sanitizado\\3__raciocínio-lógico-e-noções-de-estatística__3-lógica-sentencial-ou-proposicional-3.4-leis-de-morgan.json",
+      "destination_file": "D:\\Estudo\\Python\\repositorio_conteudo\\concursos\\camara-dos-deputados\\policial-legislativo\\2026\\cebraspe\\edital-v1\\disciplinas\\rlog-estat\\034-3-logica-sentencial-ou-proposicional-34-leis-de-morgan-5d0231ee.json",
+      "subject_slug": "rlog-estat",
+      "material_slug": "leis-de-morgan-raciocinio-logico",
+      "normalized_checksum": "2f8b2f8b6450cd05908b60cf84ab12d5987fa57c0420a667077f964322befb74",
+      "status": "ok",
+      "warnings": []
+    },
+    {
+      "source_file": "D:\\Estudo\\Python\\saida_json\\sanitizado\\3__raciocínio-lógico-e-noções-de-estatística__3-lógica-sentencial-ou-proposicional-3.5-diagramas-lógicos.json",
+      "destination_file": "D:\\Estudo\\Python\\repositorio_conteudo\\concursos\\camara-dos-deputados\\policial-legislativo\\2026\\cebraspe\\edital-v1\\disciplinas\\rlog-estat\\003-3-logica-sentencial-ou-proposicional-35-diagramas-f51fa171.json",
+      "subject_slug": "rlog-estat",
+      "material_slug": "diagramas-logicos-cebraspe",
+      "normalized_checksum": "b1919320c255fc0fdaf13311c626713b1940c2b20dcdce649ebe49724fda48c7",
+      "status": "ok",
+      "warnings": []
+    },
+    {
+      "source_file": "D:\\Estudo\\Python\\saida_json\\sanitizado\\4__língua-portuguesa__4-domínio-dos-mecanismos-de-coesão-textual-4.1-emprego-de-elementos-de-referenciação-substituição-e-repetição-de-conecto.json",
+      "destination_file": "D:\\Estudo\\Python\\repositorio_conteudo\\concursos\\camara-dos-deputados\\policial-legislativo\\2026\\cebraspe\\edital-v1\\disciplinas\\portugues\\004-4-dominio-dos-mecanismos-de-coesao-textual-41-emprego-2fc4f893.json",
+      "subject_slug": "portugues",
+      "material_slug": "coesao-textual-cebraspe-referenciacao",
+      "normalized_checksum": "a28a8bbe8ca06d51d7e4ede01e127ae078d7ed2c831aff03cd49a572d146a50a",
+      "status": "ok",
+      "warnings": []
+    },
+    {
+      "source_file": "D:\\Estudo\\Python\\saida_json\\sanitizado\\4__língua-portuguesa__4-domínio-dos-mecanismos-de-coesão-textual-4.2-emprego-de-tempos-e-modos-verbais.json",
+      "destination_file": "D:\\Estudo\\Python\\repositorio_conteudo\\concursos\\camara-dos-deputados\\policial-legislativo\\2026\\cebraspe\\edital-v1\\disciplinas\\portugues\\004-4-dominio-dos-mecanismos-de-coesao-textual-42-emprego-717d2b48.json",
+      "subject_slug": "portugues",
+      "material_slug": "emprego-tempos-modos-verbais-cebraspe",
+      "normalized_checksum": "e2ba0a4d2bd26dff55d10d209966b95da4cb60cae85ef37e2fb7dba9e3a39b5e",
+      "status": "ok",
+      "warnings": []
+    },
+    {
+      "source_file": "D:\\Estudo\\Python\\saida_json\\sanitizado\\4__raciocínio-lógico-e-noções-de-estatística__4-lógica-de-primeira-ordem.json",
+      "destination_file": "D:\\Estudo\\Python\\repositorio_conteudo\\concursos\\camara-dos-deputados\\policial-legislativo\\2026\\cebraspe\\edital-v1\\disciplinas\\rlog-estat\\004-logica-de-primeira-ordem-27e2d487.json",
+      "subject_slug": "rlog-estat",
+      "material_slug": "logica-primeira-ordem-cebraspe-concurso",
+      "normalized_checksum": "c06f4dc2be945d24f1b721a64ba997cbb8c542bf3b7b9d480841b61162940ba6",
+      "status": "ok",
+      "warnings": []
+    },
+    {
+      "source_file": "D:\\Estudo\\Python\\saida_json\\sanitizado\\5__língua-portuguesa__5-domínio-da-estrutura-morfossintática-do-período-5.1-emprego-das-classes-de-palavras.json",
+      "destination_file": "D:\\Estudo\\Python\\repositorio_conteudo\\concursos\\camara-dos-deputados\\policial-legislativo\\2026\\cebraspe\\edital-v1\\disciplinas\\portugues\\005-5-dominio-da-estrutura-morfossintatica-do-periodo-51-b0ebd99e.json",
+      "subject_slug": "portugues",
+      "material_slug": "emprego-classes-palavras-cebraspe",
+      "normalized_checksum": "7085a3151ff8a03a9217945675a4cf3182fed47f1529a82ff58967e0fecdec65",
+      "status": "ok",
+      "warnings": []
+    },
+    {
+      "source_file": "D:\\Estudo\\Python\\saida_json\\sanitizado\\5__língua-portuguesa__5-domínio-da-estrutura-morfossintática-do-período-5.2-relações-de-coordenação-entre-orações-e-entre-termos-da-oração.json",
+      "destination_file": "D:\\Estudo\\Python\\repositorio_conteudo\\concursos\\camara-dos-deputados\\policial-legislativo\\2026\\cebraspe\\edital-v1\\disciplinas\\portugues\\052-52-relacoes-de-coordenacao-entre-oracoes-e-entre-termos-0b632ffa.json",
+      "subject_slug": "portugues",
+      "material_slug": "coordenacao-oracoes-termos-cebraspe",
+      "normalized_checksum": "1c954a9faa1d203625dbedb4c3408f00b780666bd1f10373086bea14a1eb52a6",
+      "status": "ok",
+      "warnings": []
+    },
+    {
+      "source_file": "D:\\Estudo\\Python\\saida_json\\sanitizado\\5__língua-portuguesa__5-domínio-da-estrutura-morfossintática-do-período-5.3-relações-de-subordinação-entre-orações-e-entre-termos-da-oração.json",
+      "destination_file": "D:\\Estudo\\Python\\repositorio_conteudo\\concursos\\camara-dos-deputados\\policial-legislativo\\2026\\cebraspe\\edital-v1\\disciplinas\\portugues\\005-5-dominio-da-estrutura-morfossintatica-do-periodo-53-9dd2e4f0.json",
+      "subject_slug": "portugues",
+      "material_slug": "dominio-estrutura-morfossintatica",
+      "normalized_checksum": "b1a5fd8cb358befdada094554e60f65b4f984e98a249d8e2a5fb054864c18e98",
+      "status": "ok",
+      "warnings": []
+    },
+    {
+      "source_file": "D:\\Estudo\\Python\\saida_json\\sanitizado\\5__língua-portuguesa__5-domínio-da-estrutura-morfossintática-do-período-5.4-emprego-dos-sinais-de-pontuação.json",
+      "destination_file": "D:\\Estudo\\Python\\repositorio_conteudo\\concursos\\camara-dos-deputados\\policial-legislativo\\2026\\cebraspe\\edital-v1\\disciplinas\\portugues\\054-54-emprego-dos-sinais-de-pontuacao-dcbfdcee.json",
+      "subject_slug": "portugues",
+      "material_slug": "emprego-sinais-pontuacao-cebraspe",
+      "normalized_checksum": "dcaa9d7fa9d8b907853114df0d4581587701a1277eace6bf2b5445ed5b8825ab",
+      "status": "ok",
+      "warnings": []
+    },
+    {
+      "source_file": "D:\\Estudo\\Python\\saida_json\\sanitizado\\5__língua-portuguesa__5-domínio-da-estrutura-morfossintática-do-período-5.5-concordância-verbal-e-nominal.json",
+      "destination_file": "D:\\Estudo\\Python\\repositorio_conteudo\\concursos\\camara-dos-deputados\\policial-legislativo\\2026\\cebraspe\\edital-v1\\disciplinas\\portugues\\005-5-dominio-da-estrutura-morfossintatica-do-periodo-55-563349ca.json",
+      "subject_slug": "portugues",
+      "material_slug": "concordancia-verbal-e-nominal-cebraspe",
+      "normalized_checksum": "909c02e3f94537e85ddeb37400cb57dae804b59db2a1cd68d3b45fc3d9fdc9b2",
+      "status": "ok",
+      "warnings": []
+    },
+    {
+      "source_file": "D:\\Estudo\\Python\\saida_json\\sanitizado\\5__língua-portuguesa__5-domínio-da-estrutura-morfossintática-do-período-5.6-regência-verbal-e-nominal.json",
+      "destination_file": "D:\\Estudo\\Python\\repositorio_conteudo\\concursos\\camara-dos-deputados\\policial-legislativo\\2026\\cebraspe\\edital-v1\\disciplinas\\portugues\\005-5-dominio-da-estrutura-morfossintatica-do-periodo-56-70837fda.json",
+      "subject_slug": "portugues",
+      "material_slug": "regencia-verbal-e-nominal-cebraspe",
+      "normalized_checksum": "74fcb5db5fbd112b3036a53eb180d228cb57a64673dcdd4299186a84d89fdb47",
+      "status": "ok",
+      "warnings": []
+    },
+    {
+      "source_file": "D:\\Estudo\\Python\\saida_json\\sanitizado\\5__língua-portuguesa__5-domínio-da-estrutura-morfossintática-do-período-5.7-emprego-do-sinal-indicativo-de-crase.json",
+      "destination_file": "D:\\Estudo\\Python\\repositorio_conteudo\\concursos\\camara-dos-deputados\\policial-legislativo\\2026\\cebraspe\\edital-v1\\disciplinas\\portugues\\005-5-dominio-da-estrutura-morfossintatica-do-periodo-57-2c04f542.json",
+      "subject_slug": "portugues",
+      "material_slug": "crase-cebraspe-completo",
+      "normalized_checksum": "748b7f09f837652382c045578dc75580a34c833bdc38bd14446331e94484f068",
+      "status": "ok",
+      "warnings": []
+    },
+    {
+      "source_file": "D:\\Estudo\\Python\\saida_json\\sanitizado\\5__língua-portuguesa__5-domínio-da-estrutura-morfossintática-do-período-5.8-colocação-dos-pronomes-átonos.json",
+      "destination_file": "D:\\Estudo\\Python\\repositorio_conteudo\\concursos\\camara-dos-deputados\\policial-legislativo\\2026\\cebraspe\\edital-v1\\disciplinas\\portugues\\005-58-colocacao-dos-pronomes-atonos-85ee75bd.json",
+      "subject_slug": "portugues",
+      "material_slug": "colocacao-pronomes-atonos-cebraspe",
+      "normalized_checksum": "a0cd56870d8ad3d37ccaedfebd0585283458268f6c16723b8de6dc2cd49e6749",
+      "status": "ok",
+      "warnings": []
+    },
+    {
+      "source_file": "D:\\Estudo\\Python\\saida_json\\sanitizado\\6__língua-portuguesa__6-reescrita-de-frases-e-parágrafos-do-texto-6.1-significação-das-palavras.json",
+      "destination_file": "D:\\Estudo\\Python\\repositorio_conteudo\\concursos\\camara-dos-deputados\\policial-legislativo\\2026\\cebraspe\\edital-v1\\disciplinas\\portugues\\006-6-reescrita-de-frases-e-paragrafos-do-texto-61-67e01177.json",
+      "subject_slug": "portugues",
+      "material_slug": "reescrita-significacao-palavras-cebraspe",
+      "normalized_checksum": "ec82204cd2c9f06c587e0077fa42b6de8709c5ccc078a6625dee5765b3f6e2d2",
+      "status": "ok",
+      "warnings": []
+    },
+    {
+      "source_file": "D:\\Estudo\\Python\\saida_json\\sanitizado\\6__língua-portuguesa__6-reescrita-de-frases-e-parágrafos-do-texto-6.2-substituição-de-palavras-ou-de-trechos-de-texto.json",
+      "destination_file": "D:\\Estudo\\Python\\repositorio_conteudo\\concursos\\camara-dos-deputados\\policial-legislativo\\2026\\cebraspe\\edital-v1\\disciplinas\\portugues\\062-6-reescrita-de-frases-e-paragrafos-do-texto-62-c420aa5c.json",
+      "subject_slug": "portugues",
+      "material_slug": "reescrita-substituicao-palavras-cebraspe",
+      "normalized_checksum": "bd7c57719b7589e3116347478e48125aee20d44671037d908b4568b228384ad3",
+      "status": "ok",
+      "warnings": []
+    },
+    {
+      "source_file": "D:\\Estudo\\Python\\saida_json\\sanitizado\\6__língua-portuguesa__6-reescrita-de-frases-e-parágrafos-do-texto-6.3-reorganização-da-estrutura-de-orações-e-de-períodos-do-texto.json",
+      "destination_file": "D:\\Estudo\\Python\\repositorio_conteudo\\concursos\\camara-dos-deputados\\policial-legislativo\\2026\\cebraspe\\edital-v1\\disciplinas\\portugues\\006-6-reescrita-de-frases-e-paragrafos-do-texto-63-e3d2b11f.json",
+      "subject_slug": "portugues",
+      "material_slug": "reescrita-frases-paragrafos",
+      "normalized_checksum": "5c4b106ead37a07df445b13b528a9a63d773db28d64f74ea7e16d236bb9f63ee",
+      "status": "ok",
+      "warnings": []
+    },
+    {
+      "source_file": "D:\\Estudo\\Python\\saida_json\\sanitizado\\6__língua-portuguesa__6-reescrita-de-frases-e-parágrafos-do-texto-6.4-reescrita-de-textos-de-diferentes-gêneros-e-níveis-de-formalidade.json",
+      "destination_file": "D:\\Estudo\\Python\\repositorio_conteudo\\concursos\\camara-dos-deputados\\policial-legislativo\\2026\\cebraspe\\edital-v1\\disciplinas\\portugues\\006-6-reescrita-de-frases-e-paragrafos-do-texto-64-62ebf8db.json",
+      "subject_slug": "portugues",
+      "material_slug": "reescrita-frases-paragrafos-generos",
+      "normalized_checksum": "6b951b3589acb6baa3f76b65bbb7a30734c5eafb961b82c2d01edacc64b5b96a",
+      "status": "ok",
+      "warnings": []
+    }
+  ]
+}

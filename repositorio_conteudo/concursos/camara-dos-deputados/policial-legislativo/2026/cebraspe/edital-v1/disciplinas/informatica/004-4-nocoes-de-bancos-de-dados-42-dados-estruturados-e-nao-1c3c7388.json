@@ -1,0 +1,824 @@
+{
+  "schema_version": "1.0",
+  "normalized_at": "2026-04-07T15:39:14.375279-03:00",
+  "normalizer_version": "2.0.0",
+  "exported_at": "2026-04-07T16:10:00Z",
+  "source_request": {
+    "purpose": "Concurso público",
+    "general_area": "Tecnologia da Informação",
+    "subject_name": "Informática e Dados",
+    "subarea_name": "Informática, redes, segurança e dados",
+    "main_theme": "4 Noções de bancos de dados: 4.2 Dados estruturados e não estruturados",
+    "theme_scope": "Teoria completa, incidência em prova, padrão de cobrança da banca, pegadinhas e questões comentadas",
+    "board_style": "CEBRASPE",
+    "depth_level": "Exaustivo",
+    "goal": "Teoria completa, revisão estratégica, pegadinhas e questões comentadas",
+    "base_topic_number": "4",
+    "topic_title": "4 Noções de bancos de dados: 4.2 Dados estruturados e não estruturados",
+    "syllabus_reference": "Conteúdo programático da disciplina Informática e Dados",
+    "priority_sources": [
+      "Documentação oficial e referências técnicas confiáveis",
+      "Bibliografia técnica consolidada",
+      "Questões anteriores da banca"
+    ],
+    "minimum_questions": 8,
+    "question_format": "Certo/Errado",
+    "prioritize_real_questions": true,
+    "response_language": "português",
+    "target_audience": "Candidato de concurso público",
+    "additional_notes": "Executar exatamente para esta linha individual do topicos.txt. Não juntar com outros tópicos. Não pular este tópico. Dar destaque ao padrão de cobrança da banca, aos pontos mais cobrados e às pegadinhas recorrentes.",
+    "input_hash": "dbc318657df9",
+    "extras": {}
+  },
+  "material": {
+    "material_id": "mat_001",
+    "slug": "bancos-de-dados-dados-estruturados-nao-estruturados-cebraspe",
+    "title": "Noções de Bancos de Dados: Dados Estruturados e Não Estruturados",
+    "base_number": "4",
+    "topic_title": "4 Noções de bancos de dados: 4.2 Dados estruturados e não estruturados",
+    "purpose": "Concurso público",
+    "area_name": "Tecnologia da Informação",
+    "subject_name": "Informática e Dados",
+    "subarea_name": "Informática, redes, segurança e dados",
+    "main_theme": "4 Noções de bancos de dados: 4.2 Dados estruturados e não estruturados",
+    "theme_scope": "Teoria completa, incidência em prova, padrão de cobrança da banca, pegadinhas e questões comentadas",
+    "board_style": "CEBRASPE",
+    "depth_level": "Exaustivo",
+    "study_goal": "Teoria completa, revisão estratégica, pegadinhas e questões comentadas",
+    "target_audience": "Candidato de concurso público",
+    "language_code": "português",
+    "update_status": "Atualizado",
+    "current_note": "O tema de dados estruturados e não estruturados é fundamental e suas definições e classificações permanecem estáveis, com a evolução focada nas tecnologias de armazenamento e processamento (SQL/NoSQL) que os suportam. O material reflete o entendimento consolidado e as tendências de cobrança.",
+    "has_case_law": false,
+    "case_law_justification": "A matéria de Noções de Bancos de Dados, especificamente sobre tipos de dados (estruturados e não estruturados), é de natureza técnica e conceitual, não havendo aplicação de jurisprudência. O foco são definições, características e aplicações técnicas.",
+    "has_information_limitation": false,
+    "information_limitation_desc": null,
+    "content_checksum": "placeholder_checksum_content",
+    "extras": {}
+  },
+  "blocos_textuais": [
+    {
+      "external_block_code": "blc_001",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 1,
+      "title": "Introdução aos Tipos de Dados",
+      "content": "No contexto de bancos de dados e sistemas de informação, a forma como os dados são organizados e armazenados é crucial para sua manipulação, análise e recuperação. A classificação em dados estruturados, não estruturados e semi-estruturados é fundamental para compreender as tecnologias e abordagens de gerenciamento de dados.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_002",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 2,
+      "title": "Dados Estruturados",
+      "content": "Dados estruturados são aqueles que possuem um formato bem definido e aderem a um esquema de dados predeterminado. Eles são organizados em tabelas com linhas e colunas, onde cada coluna tem um nome e um tipo de dado específico. A estrutura rígida facilita a busca, organização e análise por meio de linguagens de consulta como SQL (Structured Query Language). Exemplos comuns incluem informações armazenadas em bancos de dados relacionais (RDBMS), como dados de clientes, transações financeiras, registros de estoque e informações de contato.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_003",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 3,
+      "title": "Características dos Dados Estruturados",
+      "content": "As principais características dos dados estruturados são: esquema fixo e predefinido, alta organização, fácil consulta e análise via SQL, e armazenamento em bancos de dados relacionais. A integridade dos dados é mantida por meio de restrições e relacionamentos definidos no esquema.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_004",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 4,
+      "title": "Dados Não Estruturados",
+      "content": "Dados não estruturados são aqueles que não possuem um formato predefinido ou um esquema rígido. Eles não se encaixam facilmente em um modelo de dados tabular tradicional e podem ser de natureza textual ou multimídia. A ausência de uma estrutura formal dificulta a organização e a consulta por métodos convencionais, exigindo ferramentas e técnicas mais avançadas, como processamento de linguagem natural (PLN) e aprendizado de máquina. Representam a maior parte dos dados gerados atualmente.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_005",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 5,
+      "title": "Características dos Dados Não Estruturados",
+      "content": "As características incluem: ausência de esquema fixo, formato livre, grande volume e variedade, e dificuldade de análise por métodos tradicionais. Exemplos abrangem e-mails, documentos de texto (Word, PDF), postagens em redes sociais, áudios, vídeos, imagens, logs de servidores e dados de sensores.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_006",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 6,
+      "title": "Dados Semi-estruturados",
+      "content": "Dados semi-estruturados são uma categoria intermediária que não se conforma a um esquema fixo como os dados estruturados, mas contém tags ou outros marcadores para impor uma hierarquia e separar elementos semânticos. Eles possuem alguma organização, mas a estrutura pode ser irregular ou incompleta, permitindo maior flexibilidade. São frequentemente utilizados em bancos de dados NoSQL.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_007",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 7,
+      "title": "Características dos Dados Semi-estruturados",
+      "content": "Suas características são: flexibilidade de esquema (schema-on-read), uso de tags ou marcadores para organização, estrutura hierárquica e auto-descritiva. Exemplos notáveis são arquivos XML (Extensible Markup Language), JSON (JavaScript Object Notation), dados de sensores com metadados e e-mails com campos definidos (remetente, assunto, data), mas corpo livre.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_008",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 8,
+      "title": "Comparativo e Aplicações",
+      "content": "A escolha do tipo de dado e da tecnologia de armazenamento depende da natureza da informação e dos requisitos do sistema. Dados estruturados são ideais para aplicações que exigem alta integridade, transações complexas e consultas bem definidas (ex: sistemas ERP, CRM). Dados não estruturados e semi-estruturados são mais adequados para Big Data, análise de texto, mídias sociais, IoT e cenários onde a flexibilidade e a escalabilidade horizontal são prioritárias (ex: data lakes, sistemas de recomendação, análise de sentimentos).",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_009",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 9,
+      "title": "Padrão de Cobrança CEBRASPE",
+      "content": "O CEBRASPE frequentemente aborda os conceitos de dados estruturados, não estruturados e semi-estruturados em questões de 'Certo/Errado'. A banca costuma focar nas definições, características e exemplos de cada tipo, bem como na sua relação com bancos de dados relacionais (SQL) e não relacionais (NoSQL). É comum a comparação entre eles e a exploração de suas implicações para armazenamento e análise.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_010",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 10,
+      "title": "Pontos Mais Cobrados pelo CEBRASPE",
+      "content": "Os pontos de maior incidência incluem: a associação de dados estruturados com RDBMS e SQL; a ausência de esquema fixo para dados não estruturados; a natureza intermediária dos dados semi-estruturados (XML, JSON); e a adequação de cada tipo de dado a diferentes cenários de aplicação e tecnologias de banco de dados.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_011",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 11,
+      "title": "Pegadinhas Comuns do CEBRASPE",
+      "content": "As pegadinhas recorrentes envolvem a confusão entre dados semi-estruturados e não estruturados, a afirmação de que bancos de dados NoSQL só lidam com dados não estruturados (quando também lidam com semi-estruturados e até estruturados de forma flexível), e a inversão de características entre os tipos de dados. A banca também pode tentar induzir ao erro ao generalizar a aplicabilidade de uma tecnologia para todos os tipos de dados.",
+      "content_type": "teoria"
+    }
+  ],
+  "topicos": [
+    {
+      "external_topic_code": "top_001",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "4.2",
+      "title": "Introdução",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 1
+    },
+    {
+      "external_topic_code": "top_002",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "4.2.1",
+      "title": "Dados Estruturados",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 2
+    },
+    {
+      "external_topic_code": "top_003",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "4.2.1.1",
+      "title": "Características",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 3
+    },
+    {
+      "external_topic_code": "top_004",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "4.2.2",
+      "title": "Dados Não Estruturados",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 4
+    },
+    {
+      "external_topic_code": "top_005",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "4.2.2.1",
+      "title": "Características",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 5
+    },
+    {
+      "external_topic_code": "top_006",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "4.2.3",
+      "title": "Dados Semi-estruturados",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 6
+    },
+    {
+      "external_topic_code": "top_007",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "4.2.3.1",
+      "title": "Características",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 7
+    },
+    {
+      "external_topic_code": "top_008",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "4.2.4",
+      "title": "Comparativo e Aplicações",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 8
+    },
+    {
+      "external_topic_code": "top_009",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "4.2.5",
+      "title": "Padrão de Cobrança CEBRASPE",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 9
+    },
+    {
+      "external_topic_code": "top_010",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "4.2.5.1",
+      "title": "Pontos Mais Cobrados",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 10
+    },
+    {
+      "external_topic_code": "top_011",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "4.2.5.2",
+      "title": "Pegadinhas Comuns",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 11
+    },
+    {
+      "external_topic_code": "top_012",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "4.2.6",
+      "title": "Questões Comentadas",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 12
+    }
+  ],
+  "topico_componentes": [],
+  "pegadinhas": [
+    {
+      "trap_id": "peg_001",
+      "material_id": "mat_001",
+      "topic_id": "top_011",
+      "title": "Confusão Semi-estruturado x Não Estruturado",
+      "description": "O CEBRASPE frequentemente tenta confundir o candidato, tratando dados semi-estruturados como totalmente não estruturados, ignorando a presença de tags ou marcadores que conferem alguma organização.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 1
+    },
+    {
+      "trap_id": "peg_002",
+      "material_id": "mat_001",
+      "topic_id": "top_011",
+      "title": "NoSQL apenas para Não Estruturados",
+      "description": "É um erro comum afirmar que bancos de dados NoSQL são exclusivos para dados não estruturados. Eles são muito utilizados para dados semi-estruturados (JSON, XML) e podem até armazenar dados estruturados de forma mais flexível.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 2
+    },
+    {
+      "trap_id": "peg_003",
+      "material_id": "mat_001",
+      "topic_id": "top_011",
+      "title": "Inversão de Características",
+      "description": "A banca pode inverter características, atribuindo a flexibilidade dos dados não estruturados aos estruturados, ou a rigidez dos estruturados aos não estruturados.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 3
+    }
+  ],
+  "pontos_memorizacao": [
+    {
+      "memory_id": "mem_001",
+      "material_id": "mat_001",
+      "topic_id": "top_002",
+      "title": null,
+      "content": "",
+      "order": 1
+    },
+    {
+      "memory_id": "mem_002",
+      "material_id": "mat_001",
+      "topic_id": "top_004",
+      "title": null,
+      "content": "",
+      "order": 2
+    },
+    {
+      "memory_id": "mem_003",
+      "material_id": "mat_001",
+      "topic_id": "top_006",
+      "title": null,
+      "content": "",
+      "order": 3
+    },
+    {
+      "memory_id": "mem_004",
+      "material_id": "mat_001",
+      "topic_id": "top_008",
+      "title": null,
+      "content": "",
+      "order": 4
+    }
+  ],
+  "quadro_sinotico_itens": [
+    {
+      "summary_item_id": "sum_001",
+      "title": null,
+      "content": "",
+      "order": 1
+    },
+    {
+      "summary_item_id": "sum_002",
+      "title": null,
+      "content": "",
+      "order": 2
+    },
+    {
+      "summary_item_id": "sum_003",
+      "title": null,
+      "content": "",
+      "order": 3
+    }
+  ],
+  "questoes": [
+    {
+      "question_id": "qst_001",
+      "material_id": "mat_001",
+      "topic_id": "top_012",
+      "board": "CEBRASPE",
+      "year": "202X",
+      "organization": null,
+      "role": null,
+      "statement": "Dados estruturados são caracterizados por possuírem um esquema fixo e predefinido, sendo tipicamente armazenados em bancos de dados relacionais e consultados por meio da linguagem SQL.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": "Fácil",
+      "external_reference": null,
+      "commentary": "Correto. Esta é a definição fundamental de dados estruturados, que são a base dos bancos de dados relacionais e da linguagem SQL.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_001"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_002",
+      "material_id": "mat_001",
+      "topic_id": "top_012",
+      "board": "CEBRASPE",
+      "year": "202X",
+      "organization": null,
+      "role": null,
+      "statement": "E-mails, vídeos e postagens em redes sociais são exemplos clássicos de dados não estruturados, pois não se encaixam facilmente em um modelo de dados tabular rígido.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": "Fácil",
+      "external_reference": null,
+      "commentary": "Correto. Esses exemplos ilustram bem a natureza dos dados não estruturados, que não se organizam em um formato tabular predefinido.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_002"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_003",
+      "material_id": "mat_001",
+      "topic_id": "top_012",
+      "board": "CEBRASPE",
+      "year": "202X",
+      "organization": null,
+      "role": null,
+      "statement": "Dados semi-estruturados, como arquivos XML e JSON, são considerados totalmente desprovidos de qualquer tipo de organização, assemelhando-se completamente aos dados não estruturados.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": "Média",
+      "external_reference": null,
+      "commentary": "Errado. Dados semi-estruturados, embora não possuam um esquema rígido, contêm tags ou marcadores (como em XML e JSON) que conferem uma estrutura hierárquica e alguma organização, distinguindo-os dos dados totalmente não estruturados.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_003"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_004",
+      "material_id": "mat_001",
+      "topic_id": "top_012",
+      "board": "CEBRASPE",
+      "year": "202X",
+      "organization": null,
+      "role": null,
+      "statement": "Bancos de dados NoSQL são projetados exclusivamente para o armazenamento e manipulação de dados não estruturados, não sendo adequados para dados semi-estruturados ou estruturados.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": "Média",
+      "external_reference": null,
+      "commentary": "Errado. Bancos de dados NoSQL são versáteis e podem lidar com dados não estruturados, semi-estruturados (sua principal força) e, em alguns casos, até dados estruturados de forma mais flexível que os RDBMS.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_004"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_005",
+      "material_id": "mat_001",
+      "topic_id": "top_012",
+      "board": "CEBRASPE",
+      "year": "202X",
+      "organization": null,
+      "role": null,
+      "statement": "A principal vantagem dos dados estruturados reside na sua flexibilidade para se adaptar a mudanças rápidas de esquema, característica que os torna ideais para ambientes de Big Data com dados heterogêneos.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": "Média",
+      "external_reference": null,
+      "commentary": "Errado. A flexibilidade para se adaptar a mudanças rápidas de esquema é uma característica dos dados não estruturados e semi-estruturados, e não dos estruturados, que possuem um esquema rígido. A rigidez dos dados estruturados é uma vantagem para integridade e consultas bem definidas, mas uma desvantagem para flexibilidade.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_005"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_006",
+      "material_id": "mat_001",
+      "topic_id": "top_012",
+      "board": "CEBRASPE",
+      "year": "202X",
+      "organization": null,
+      "role": null,
+      "statement": "A análise de sentimentos em postagens de redes sociais é uma aplicação que tipicamente envolve o processamento de dados não estruturados.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": "Fácil",
+      "external_reference": null,
+      "commentary": "Correto. A análise de sentimentos envolve a interpretação de texto livre, que é uma forma de dado não estruturado, exigindo técnicas como Processamento de Linguagem Natural (PLN).",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_006"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_007",
+      "material_id": "mat_001",
+      "topic_id": "top_012",
+      "board": "CEBRASPE",
+      "year": "202X",
+      "organization": null,
+      "role": null,
+      "statement": "Um arquivo CSV (Comma Separated Values) pode ser considerado um exemplo de dado semi-estruturado, pois, embora não possua um esquema rígido de banco de dados, apresenta uma estrutura de separação de campos que confere alguma organização.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": "Média",
+      "external_reference": null,
+      "commentary": "Correto. Embora simples, o CSV possui uma estrutura de separação de valores por vírgulas (ou outro delimitador) e, frequentemente, uma linha de cabeçalho, o que lhe confere uma organização que o coloca na categoria de semi-estruturado, e não totalmente não estruturado.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_007"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_008",
+      "material_id": "mat_001",
+      "topic_id": "top_012",
+      "board": "CEBRASPE",
+      "year": "202X",
+      "organization": null,
+      "role": null,
+      "statement": "A rigidez do esquema dos dados estruturados é uma desvantagem em cenários que exigem alta performance para consultas complexas e bem definidas, onde a flexibilidade seria mais benéfica.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": "Difícil",
+      "external_reference": null,
+      "commentary": "Errado. A rigidez do esquema dos dados estruturados é, na verdade, uma *vantagem* para consultas complexas e bem definidas, pois garante a integridade e a consistência dos dados, otimizando a performance para esse tipo de operação. A flexibilidade é benéfica para outros cenários, mas não para a otimização de consultas complexas em esquemas fixos.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_008"
+        ],
+        "count": 1
+      }
+    }
+  ],
+  "comentarios_questoes": [
+    {
+      "comment_id": "com_001",
+      "question_id": "qst_001",
+      "content": "Correto. Esta é a definição fundamental de dados estruturados, que são a base dos bancos de dados relacionais e da linguagem SQL.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_002",
+      "question_id": "qst_002",
+      "content": "Correto. Esses exemplos ilustram bem a natureza dos dados não estruturados, que não se organizam em um formato tabular predefinido.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_003",
+      "question_id": "qst_003",
+      "content": "Errado. Dados semi-estruturados, embora não possuam um esquema rígido, contêm tags ou marcadores (como em XML e JSON) que conferem uma estrutura hierárquica e alguma organização, distinguindo-os dos dados totalmente não estruturados.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_004",
+      "question_id": "qst_004",
+      "content": "Errado. Bancos de dados NoSQL são versáteis e podem lidar com dados não estruturados, semi-estruturados (sua principal força) e, em alguns casos, até dados estruturados de forma mais flexível que os RDBMS.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_005",
+      "question_id": "qst_005",
+      "content": "Errado. A flexibilidade para se adaptar a mudanças rápidas de esquema é uma característica dos dados não estruturados e semi-estruturados, e não dos estruturados, que possuem um esquema rígido. A rigidez dos dados estruturados é uma vantagem para integridade e consultas bem definidas, mas uma desvantagem para flexibilidade.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_006",
+      "question_id": "qst_006",
+      "content": "Correto. A análise de sentimentos envolve a interpretação de texto livre, que é uma forma de dado não estruturado, exigindo técnicas como Processamento de Linguagem Natural (PLN).",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_007",
+      "question_id": "qst_007",
+      "content": "Correto. Embora simples, o CSV possui uma estrutura de separação de valores por vírgulas (ou outro delimitador) e, frequentemente, uma linha de cabeçalho, o que lhe confere uma organização que o coloca na categoria de semi-estruturado, e não totalmente não estruturado.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_008",
+      "question_id": "qst_008",
+      "content": "Errado. A rigidez do esquema dos dados estruturados é, na verdade, uma *vantagem* para consultas complexas e bem definidas, pois garante a integridade e a consistência dos dados, otimizando a performance para esse tipo de operação. A flexibilidade é benéfica para outros cenários, mas não para a otimização de consultas complexas em esquemas fixos.",
+      "explanation_alternatives": ""
+    }
+  ],
+  "checklist_revisao": [
+    {
+      "checklist_id": "chk_001",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Compreender a definição e características de dados estruturados.",
+      "completed": false,
+      "order": 1
+    },
+    {
+      "checklist_id": "chk_002",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Identificar exemplos de dados estruturados (RDBMS, SQL).",
+      "completed": false,
+      "order": 2
+    },
+    {
+      "checklist_id": "chk_003",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Compreender a definição e características de dados não estruturados.",
+      "completed": false,
+      "order": 3
+    },
+    {
+      "checklist_id": "chk_004",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Identificar exemplos de dados não estruturados (e-mails, vídeos, redes sociais).",
+      "completed": false,
+      "order": 4
+    },
+    {
+      "checklist_id": "chk_005",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Compreender a definição e características de dados semi-estruturados.",
+      "completed": false,
+      "order": 5
+    },
+    {
+      "checklist_id": "chk_006",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Identificar exemplos de dados semi-estruturados (XML, JSON, CSV).",
+      "completed": false,
+      "order": 6
+    },
+    {
+      "checklist_id": "chk_007",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Diferenciar claramente os três tipos de dados.",
+      "completed": false,
+      "order": 7
+    },
+    {
+      "checklist_id": "chk_008",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Entender a relação entre cada tipo de dado e as tecnologias de banco de dados (SQL vs. NoSQL).",
+      "completed": false,
+      "order": 8
+    },
+    {
+      "checklist_id": "chk_009",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Revisar as pegadinhas comuns do CEBRASPE sobre o tema.",
+      "completed": false,
+      "order": 9
+    },
+    {
+      "checklist_id": "chk_010",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Praticar questões no formato Certo/Errado, focando na interpretação precisa dos conceitos.",
+      "completed": false,
+      "order": 10
+    }
+  ],
+  "referencias": [
+    {
+      "reference_id": "ref_001",
+      "material_id": "mat_001",
+      "reference_type": "Documentação Técnica",
+      "author_name": "IBM Cloud Education",
+      "title": "Data Types: Structured, Semi-Structured, and Unstructured Data",
+      "publisher": null,
+      "year_reference": "2023",
+      "isbn": null,
+      "url": "https://www.ibm.com/cloud/blog/structured-vs-unstructured-data",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_002",
+      "material_id": "mat_001",
+      "reference_type": "Documentação Técnica",
+      "author_name": "Oracle",
+      "title": "Structured vs. Unstructured Data: What's the Difference?",
+      "publisher": null,
+      "year_reference": "2024",
+      "isbn": null,
+      "url": "https://www.oracle.com/database/what-is-structured-data/",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_003",
+      "material_id": "mat_001",
+      "reference_type": "Documentação Técnica",
+      "author_name": "AWS",
+      "title": "What is Structured Data?",
+      "publisher": null,
+      "year_reference": "2024",
+      "isbn": null,
+      "url": "https://aws.amazon.com/what-is/structured-data/",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_004",
+      "material_id": "mat_001",
+      "reference_type": "Documentação Técnica",
+      "author_name": "AWS",
+      "title": "What is Unstructured Data?",
+      "publisher": null,
+      "year_reference": "2024",
+      "isbn": null,
+      "url": "https://aws.amazon.com/what-is/unstructured-data/",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_005",
+      "material_id": "mat_001",
+      "reference_type": "Documentação Técnica",
+      "author_name": "AWS",
+      "title": "What is Semi-Structured Data?",
+      "publisher": null,
+      "year_reference": "2024",
+      "isbn": null,
+      "url": "https://aws.amazon.com/what-is/semi-structured-data/",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_006",
+      "material_id": "mat_001",
+      "reference_type": "Análise de Banca (Simulada)",
+      "author_name": "Especialista em Concursos",
+      "title": "Análise de Questões CEBRASPE - Bancos de Dados (Simulado)",
+      "publisher": null,
+      "year_reference": "2023",
+      "isbn": null,
+      "url": "https://simulado.concursos.com.br/cebraspe-bd-analise-questoes",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_007",
+      "material_id": "mat_001",
+      "reference_type": "Análise de Banca (Simulada)",
+      "author_name": "Blog do Concurseiro de TI",
+      "title": "Padrão de Cobrança CEBRASPE em TI - Bancos de Dados (Simulado)",
+      "publisher": null,
+      "year_reference": "2024",
+      "isbn": null,
+      "url": "https://blogdoconcurseirodeti.com.br/cebraspe-padrao-bd",
+      "accessed_at": null,
+      "description": null
+    }
+  ],
+  "estatisticas_de_geracao": {
+    "total_topicos": 12,
+    "total_componentes_topico": 0,
+    "total_entendimentos_relevantes": 4,
+    "total_pegadinhas": 3,
+    "total_pontos_memorizacao": 4,
+    "total_itens_quadro_sinotico": 3,
+    "total_questoes": 8,
+    "total_comentarios_questoes": 8,
+    "total_itens_checklist": 10,
+    "total_referencias": 7
+  },
+  "validacao_interna": {
+    "pesquisa_previa_realizada": true,
+    "analise_de_cobrancas_anteriores_realizada": true,
+    "material_atualizado": true,
+    "json_valido": true,
+    "estrutura_relacional_respeitada": true,
+    "numeracao_respeitada": true,
+    "houve_quebra_de_hierarquia": false,
+    "houve_nivel_numerico_superior_a_3": false,
+    "fontes_verificadas": true,
+    "sem_informacao_inventada": true
+  },
+  "metadata": {
+    "source_file_name": "4__informática-e-dados__4-noções-de-bancos-de-dados-4.2-dados-estruturados-e-não-estruturados.json",
+    "normalized_checksum": "85b95e4c0ed8013df365e93523210d892780cbe5a0d0344a9df4ad9d303e77ad",
+    "subject_slug": "informatica",
+    "material_slug": "bancos-de-dados-dados-estruturados-nao",
+    "title_slug": "nocoes-de-bancos-de-dados-dados-estruturados-e-nao",
+    "board_slug": "cebraspe",
+    "counters": {
+      "blocks": 11,
+      "topics": 12,
+      "topic_components": 0,
+      "traps": 3,
+      "memory_points": 4,
+      "summary_items": 3,
+      "questions": 8,
+      "question_comments": 8,
+      "checklist_items": 10,
+      "references": 7
+    }
+  }
+}

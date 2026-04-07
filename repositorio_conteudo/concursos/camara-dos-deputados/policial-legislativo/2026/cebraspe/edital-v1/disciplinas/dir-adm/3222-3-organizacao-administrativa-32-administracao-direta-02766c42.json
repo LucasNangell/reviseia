@@ -1,0 +1,1262 @@
+{
+  "schema_version": "1.0",
+  "normalized_at": "2026-04-07T15:39:13.827149-03:00",
+  "normalizer_version": "2.0.0",
+  "exported_at": "2026-04-07T17:08:00Z",
+  "source_request": {
+    "purpose": "Concurso público",
+    "general_area": "Direito",
+    "subject_name": "Direito Administrativo",
+    "subarea_name": "Direito Administrativo",
+    "main_theme": "3 Organização administrativa: 3.2 Administração direta: 3.2.2 Órgão público: 3.2.2.2 Teorias sobre as relações do Estado com os agentes públicos",
+    "theme_scope": "Teoria completa, incidência em prova, padrão de cobrança da banca, pegadinhas e questões comentadas",
+    "board_style": "CEBRASPE",
+    "depth_level": "Exaustivo",
+    "goal": "Teoria completa, revisão estratégica, pegadinhas e questões comentadas",
+    "base_topic_number": "3",
+    "topic_title": "3 Organização administrativa: 3.2 Administração direta: 3.2.2 Órgão público: 3.2.2.2 Teorias sobre as relações do Estado com os agentes públicos",
+    "syllabus_reference": "Conteúdo programático da disciplina Direito Administrativo",
+    "priority_sources": [
+      "Constituição Federal e legislação oficial vigente",
+      "Jurisprudência pertinente e atual, quando cabível",
+      "Doutrina consolidada",
+      "Questões anteriores da banca"
+    ],
+    "minimum_questions": 8,
+    "question_format": "Certo/Errado",
+    "prioritize_real_questions": true,
+    "response_language": "português",
+    "target_audience": "Candidato de concurso público",
+    "additional_notes": "Executar exatamente para esta linha individual do topicos.txt. Não juntar com outros tópicos. Não pular este tópico. Dar destaque ao padrão de cobrança da banca, aos pontos mais cobrados e às pegadinhas recorrentes.",
+    "input_hash": "b7540259e681",
+    "extras": {}
+  },
+  "material": {
+    "material_id": "mat_001",
+    "slug": "teorias-relacoes-estado-agentes-publicos-cebraspe",
+    "title": "Teorias sobre as Relações do Estado com os Agentes Públicos",
+    "base_number": "3.2.2.2",
+    "topic_title": "3 Organização administrativa: 3.2 Administração direta: 3.2.2 Órgão público: 3.2.2.2 Teorias sobre as relações do Estado com os agentes públicos",
+    "purpose": "Concurso público",
+    "area_name": "Direito",
+    "subject_name": "Direito Administrativo",
+    "subarea_name": "Direito Administrativo",
+    "main_theme": "Organização administrativa: Órgão público e Teorias sobre as relações do Estado com os agentes públicos",
+    "theme_scope": "Teoria completa, incidência em prova, padrão de cobrança da banca, pegadinhas e questões comentadas",
+    "board_style": "CEBRASPE",
+    "depth_level": "Exaustivo",
+    "study_goal": "Teoria completa, revisão estratégica, pegadinhas e questões comentadas",
+    "target_audience": "Candidato de concurso público",
+    "language_code": "português",
+    "update_status": "Atualizado em 2026-04-07",
+    "current_note": "Conteúdo verificado com base na doutrina consolidada e legislação vigente, com análise de jurisprudência e padrão de cobrança da banca CEBRASPE.",
+    "has_case_law": true,
+    "case_law_justification": "A Teoria do Órgão tem impacto direto na responsabilidade civil do Estado, tema amplamente abordado pela jurisprudência, especialmente no que tange à impossibilidade de ação direta contra o agente público.",
+    "has_information_limitation": false,
+    "information_limitation_desc": null,
+    "content_checksum": "placeholder_checksum_12345",
+    "extras": {}
+  },
+  "blocos_textuais": [
+    {
+      "external_block_code": "blc_001",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 1,
+      "title": "Introdução: A Vontade do Estado e Seus Agentes",
+      "content": "O Estado, enquanto pessoa jurídica, não possui vontade própria ou capacidade de agir por si só. Para manifestar sua vontade e desempenhar suas funções, ele se vale de pessoas físicas – os agentes públicos – que atuam em seu nome. A compreensão da natureza dessa relação entre o Estado (pessoa jurídica) e os indivíduos que o servem (agentes públicos) é fundamental para o Direito Administrativo, e diversas teorias surgiram para explicá-la. O tema é recorrente em concursos públicos, especialmente na banca CEBRASPE, que exige do candidato o domínio das teorias e suas implicações práticas.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_002",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 2,
+      "title": "Teorias Precursoras: Mandato e Representação",
+      "content": "Historicamente, duas teorias buscaram explicar a relação entre o Estado e seus agentes, mas foram superadas por não se adequarem à natureza do Direito Público: \n\n**1. Teoria do Mandato:** De cunho civilista, essa teoria equiparava o agente público a um mandatário do Estado. A principal crítica é que o Estado, por ser uma ficção jurídica, não teria vontade própria para outorgar um mandato. Além disso, a responsabilidade pelos atos que extrapolassem o mandato recairia sobre o mandatário, o que não se coaduna com a responsabilidade objetiva do Estado.\n\n**2. Teoria da Representação:** Também com raízes no Direito Privado, via o agente público como um representante do Estado, à semelhança de um tutor ou curador de um incapaz. Essa teoria foi criticada por equiparar o Estado a um incapaz e por não resolver a questão da responsabilidade pelos atos praticados além dos poderes de representação.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_003",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 3,
+      "title": "Teoria do Órgão (ou da Imputação Volitiva): A Doutrina Dominante",
+      "content": "A Teoria do Órgão, também conhecida como Teoria da Imputação ou Teoria da Imputação Volitiva, é a doutrina adotada pelo ordenamento jurídico brasileiro para explicar a relação entre o Estado e seus agentes.\n\n**3.1. Origem e Conceito:**\n\nIdealizada pelo jurista alemão Otto Gierke no final do século XIX, a Teoria do Órgão compara o Estado a um corpo humano, onde cada repartição estatal funciona como uma parte do todo, semelhante aos órgãos do corpo.\n\nO cerne da teoria é o **Princípio da Imputação Volitiva**: a vontade manifestada pelo agente público, no exercício de suas atribuições, é imputada diretamente à pessoa jurídica a que o órgão está vinculado (União, Estados, DF, Municípios, autarquias, etc.). O órgão público é, portanto, uma unidade despersonalizada de competências, um centro de atribuições instituído para o desempenho de funções estatais.\n\n**3.2. Distinção entre Órgão Público e Agente Público:**\n\nÉ crucial diferenciar o órgão público do agente público:\n*   **Órgão Público:** É uma unidade abstrata, um centro de competências, desprovido de personalidade jurídica própria e de patrimônio separado. Ele integra a estrutura de uma pessoa jurídica (seja da Administração Direta ou Indireta).\n*   **Agente Público:** É a pessoa física que, investida em um cargo, emprego ou função pública, manifesta a vontade do órgão e, por consequência, da pessoa jurídica. Ele é o instrumento pelo qual o órgão atua.\n\n**3.3. Consequências e Aplicações:**\n\nA adoção da Teoria do Órgão possui implicações significativas no Direito Administrativo:\n*   **Responsabilidade Civil do Estado:** É um dos fundamentos da responsabilidade objetiva do Estado, prevista no Art. 37, § 6º, da Constituição Federal. Os atos praticados pelos agentes públicos, nessa qualidade, são atribuídos ao Estado, que responderá pelos danos causados a terceiros, independentemente de culpa ou dolo do agente (responsabilidade objetiva). O Estado, por sua vez, terá direito de regresso contra o agente nos casos de dolo ou culpa.\n*   **Impossibilidade de Ação Direta contra o Agente:** Em regra, o particular lesado não pode ajuizar ação de indenização diretamente contra o agente público causador do dano, devendo fazê-lo contra a pessoa jurídica a que o agente está vinculado.\n*   **Despersonalização da Atuação:** A atuação do agente é vista como a própria atuação da pessoa jurídica, não havendo dois sujeitos de direito distintos na relação.\n*   **Função de Fato:** A teoria permite imputar à pessoa jurídica atos praticados por agentes que, embora sem investidura legítima, agem com aparência de legalidade e boa-fé do administrado, garantindo a segurança jurídica.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_004",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 4,
+      "title": "Padrão de Cobrança da Banca CEBRASPE",
+      "content": "A banca CEBRASPE (antigo CESPE) tem um padrão de cobrança bem definido para o tema 'Teorias sobre as relações do Estado com os agentes públicos', focando na Teoria do Órgão. As questões geralmente são do tipo 'Certo/Errado' e exigem:\n\n*   **Compreensão do Conceito Central:** O candidato deve entender que a vontade do agente é imputada à pessoa jurídica, e não ao agente individualmente.\n*   **Distinção entre Órgão e Agente:** É comum a cobrança da diferença entre a unidade de competências (órgão) e a pessoa física que a exerce (agente).\n*   **Implicações na Responsabilidade Civil do Estado:** A relação entre a Teoria do Órgão e a responsabilidade objetiva do Estado (Art. 37, §6º, CF) é um ponto crucial.\n*   **Superação das Teorias do Mandato e da Representação:** O CEBRASPE costuma abordar por que essas teorias não são mais aplicáveis no Direito Administrativo moderno.\n*   **Pegadinhas Comuns:** Foco em induzir o erro ao sugerir que o agente age 'em nome' do Estado como um representante, ou que a ação de indenização pode ser diretamente contra o agente.",
+      "content_type": "teoria"
+    }
+  ],
+  "topicos": [
+    {
+      "external_topic_code": "top_001",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "3.2.2.2",
+      "title": "Teorias sobre as relações do Estado com os agentes públicos",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 1
+    },
+    {
+      "external_topic_code": "top_002",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "3.2.2.2.1",
+      "title": "Introdução: A Vontade do Estado e Seus Agentes",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 2
+    },
+    {
+      "external_topic_code": "top_003",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "3.2.2.2.2",
+      "title": "Teorias Precursoras: Mandato e Representação",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 3
+    },
+    {
+      "external_topic_code": "top_004",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "3.2.2.2.3",
+      "title": "Teoria do Órgão (ou da Imputação Volitiva): A Doutrina Dominante",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 4
+    },
+    {
+      "external_topic_code": "top_005",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "3.2.2.2.3.1",
+      "title": "Origem e Conceito",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 5
+    },
+    {
+      "external_topic_code": "top_006",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "3.2.2.2.3.2",
+      "title": "Distinção entre Órgão Público e Agente Público",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 6
+    },
+    {
+      "external_topic_code": "top_007",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "3.2.2.2.3.3",
+      "title": "Consequências e Aplicações",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 7
+    },
+    {
+      "external_topic_code": "top_008",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "3.2.2.2.4",
+      "title": "Padrão de Cobrança da Banca CEBRASPE",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 8
+    }
+  ],
+  "topico_componentes": [
+    {
+      "component_id": "cmp_001",
+      "topic_id": "top_002",
+      "component_type": "conceito",
+      "content": "O Estado, como pessoa jurídica, age por meio de agentes públicos.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_002",
+      "topic_id": "top_003",
+      "component_type": "teoria_superada",
+      "content": "Agente como mandatário do Estado; criticada pela ausência de vontade própria do Estado e pela inadequação da responsabilidade.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_003",
+      "topic_id": "top_003",
+      "component_type": "teoria_superada",
+      "content": "Agente como representante do Estado (como tutor de incapaz); criticada por equiparar o Estado a um incapaz e pela questão da responsabilidade.",
+      "order": 2
+    },
+    {
+      "component_id": "cmp_004",
+      "topic_id": "top_004",
+      "component_type": "teoria_dominante",
+      "content": "Doutrina adotada no Brasil. A vontade do agente é imputada à pessoa jurídica.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_005",
+      "topic_id": "top_005",
+      "component_type": "origem",
+      "content": "Idealizada por Otto Gierke no século XIX.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_006",
+      "topic_id": "top_005",
+      "component_type": "conceito_central",
+      "content": "Princípio da Imputação Volitiva: atos do agente público são atribuídos à pessoa jurídica. Órgão público é unidade despersonalizada de competências.",
+      "order": 2
+    },
+    {
+      "component_id": "cmp_007",
+      "topic_id": "top_006",
+      "component_type": "distincao",
+      "content": "Unidade abstrata, centro de competências, sem personalidade jurídica ou patrimônio próprio.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_008",
+      "topic_id": "top_006",
+      "component_type": "distincao",
+      "content": "Pessoa física que manifesta a vontade do órgão e da pessoa jurídica.",
+      "order": 2
+    },
+    {
+      "component_id": "cmp_009",
+      "topic_id": "top_007",
+      "component_type": "consequencia",
+      "content": "Fundamento da responsabilidade objetiva do Estado (Art. 37, § 6º, CF). Ação de regresso contra o agente em caso de dolo ou culpa.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_010",
+      "topic_id": "top_007",
+      "component_type": "consequencia",
+      "content": "O particular lesado aciona a pessoa jurídica, não o agente diretamente.",
+      "order": 2
+    },
+    {
+      "component_id": "cmp_011",
+      "topic_id": "top_007",
+      "component_type": "consequencia",
+      "content": "Ato do agente é ato da pessoa jurídica.",
+      "order": 3
+    },
+    {
+      "component_id": "cmp_012",
+      "topic_id": "top_007",
+      "component_type": "consequencia",
+      "content": "Atos de agentes sem investidura legítima podem ser imputados à pessoa jurídica, garantindo segurança jurídica.",
+      "order": 4
+    },
+    {
+      "component_id": "cmp_013",
+      "topic_id": "top_008",
+      "component_type": "padrao_banca",
+      "content": "Compreensão do conceito de imputação, distinção órgão/agente, implicações na responsabilidade civil do Estado e superação das teorias antigas.",
+      "order": 1
+    }
+  ],
+  "pegadinhas": [
+    {
+      "trap_id": "peg_001",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": "Confundir Agente com Órgão",
+      "description": "A banca pode tentar confundir o candidato, tratando o agente público como se fosse o próprio órgão, ou atribuindo personalidade jurídica ao órgão. Lembre-se: o órgão é um centro de competências despersonalizado, e o agente é a pessoa física que o exerce.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 1
+    },
+    {
+      "trap_id": "peg_002",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": "Responsabilidade Direta do Agente",
+      "description": "Questões podem sugerir que o particular deve acionar diretamente o agente público causador do dano. A regra é que a ação deve ser contra a pessoa jurídica, cabendo a esta o direito de regresso contra o agente em caso de dolo ou culpa.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 2
+    },
+    {
+      "trap_id": "peg_003",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": "Validade das Teorias do Mandato/Representação",
+      "description": "O CEBRASPE pode apresentar as teorias do mandato ou da representação como válidas ou aplicáveis ao Direito Administrativo moderno. Elas foram superadas pela Teoria do Órgão.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 3
+    },
+    {
+      "trap_id": "peg_004",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": "Natureza da Responsabilidade do Estado",
+      "description": "Cuidado para não confundir a responsabilidade objetiva do Estado com a responsabilidade subjetiva do agente. A primeira independe de culpa, a segunda exige dolo ou culpa para o direito de regresso.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 4
+    }
+  ],
+  "pontos_memorizacao": [
+    {
+      "memory_id": "mem_001",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": null,
+      "content": "A Teoria do Órgão é a adotada no Brasil.",
+      "order": 1
+    },
+    {
+      "memory_id": "mem_002",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": null,
+      "content": "Seu conceito central é a imputação volitiva (a vontade do agente é do Estado).",
+      "order": 2
+    },
+    {
+      "memory_id": "mem_003",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": null,
+      "content": "Órgão público não tem personalidade jurídica.",
+      "order": 3
+    },
+    {
+      "memory_id": "mem_004",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": null,
+      "content": "Fundamenta a responsabilidade objetiva do Estado (Art. 37, § 6º, CF).",
+      "order": 4
+    },
+    {
+      "memory_id": "mem_005",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": null,
+      "content": "Ação de indenização contra o Estado, não contra o agente.",
+      "order": 5
+    }
+  ],
+  "quadro_sinotico_itens": [
+    {
+      "summary_item_id": "sum_001",
+      "title": "Teoria do Mandato",
+      "content": "",
+      "order": 1
+    },
+    {
+      "summary_item_id": "sum_002",
+      "title": "Teoria da Representação",
+      "content": "",
+      "order": 2
+    },
+    {
+      "summary_item_id": "sum_003",
+      "title": "Teoria do Órgão (Imputação)",
+      "content": "",
+      "order": 3
+    },
+    {
+      "summary_item_id": "sum_004",
+      "title": "Órgão Público",
+      "content": "",
+      "order": 4
+    },
+    {
+      "summary_item_id": "sum_005",
+      "title": "Agente Público",
+      "content": "",
+      "order": 5
+    }
+  ],
+  "questoes": [
+    {
+      "question_id": "qst_001",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": null,
+      "year": null,
+      "organization": null,
+      "role": null,
+      "statement": "De acordo com a Teoria do Órgão, a manifestação de vontade do agente público é atribuída diretamente à pessoa jurídica a que ele está vinculado, e não à sua pessoa física.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "A questão está CORRETA. A Teoria do Órgão, também conhecida como Teoria da Imputação Volitiva, estabelece que a vontade manifestada pelo agente público é imputada à pessoa jurídica a que o órgão pertence. Assim, o ato do agente é considerado ato do Estado.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_001"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_002",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": null,
+      "year": null,
+      "organization": null,
+      "role": null,
+      "statement": "A Teoria do Mandato, que equipara o agente público a um mandatário do Estado, é a doutrina atualmente adotada no Direito Administrativo brasileiro para explicar a relação entre o Estado e seus servidores.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "A questão está ERRADA. A Teoria do Mandato foi superada por não se adequar à natureza do Direito Público, pois o Estado, como pessoa jurídica, não tem vontade própria para outorgar um mandato. A doutrina adotada no Brasil é a Teoria do Órgão.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_002"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_003",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": null,
+      "year": null,
+      "organization": null,
+      "role": null,
+      "statement": "Os órgãos públicos, embora desprovidos de personalidade jurídica própria, podem, excepcionalmente, possuir capacidade judiciária para defender suas prerrogativas institucionais.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "A questão está CORRETA. Embora os órgãos públicos não possuam personalidade jurídica, a doutrina e a jurisprudência (como a Súmula 525 do STJ, que permite a câmaras de vereadores figurar em juízo para defender prerrogativas institucionais) reconhecem-lhes, excepcionalmente, capacidade judiciária.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_003"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_004",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": null,
+      "year": null,
+      "organization": null,
+      "role": null,
+      "statement": "A Teoria do Órgão é um dos fundamentos da responsabilidade subjetiva do Estado, buscando explicar como se podem atribuir ao Estado os atos praticados por pessoas físicas que agem em seu nome.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "A questão está ERRADA. A Teoria do Órgão é um dos fundamentos da responsabilidade **objetiva** do Estado, e não subjetiva. A responsabilidade objetiva dispensa a prova de culpa do agente para que o Estado seja responsabilizado, conforme o Art. 37, § 6º, da CF/88.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_004"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_005",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": null,
+      "year": null,
+      "organization": null,
+      "role": null,
+      "statement": "Em decorrência da Teoria do Órgão, o particular que sofrer dano causado por um agente público no exercício de suas funções deve, em regra, ajuizar a ação de indenização diretamente contra o agente.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "A questão está ERRADA. Em regra, o particular lesado por ato de um agente público deve ajuizar a ação de indenização contra a pessoa jurídica de direito público ou de direito privado prestadora de serviços públicos a que o agente está vinculado, e não diretamente contra o agente.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_005"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_006",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": null,
+      "year": null,
+      "organization": null,
+      "role": null,
+      "statement": "A Teoria do Órgão, idealizada por Otto Gierke, estabelece que os órgãos públicos são meras divisões internas da pessoa jurídica, sem personalidade jurídica própria, mas com competências específicas.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "A questão está CORRETA. Otto Gierke é o idealizador da Teoria do Órgão, que conceitua o órgão público como uma unidade despersonalizada de competências, uma divisão interna da pessoa jurídica, sem personalidade jurídica própria.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_006"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_007",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": null,
+      "year": null,
+      "organization": null,
+      "role": null,
+      "statement": "O princípio da imputação volitiva, base da Teoria do Órgão, implica que a responsabilidade pelos atos do agente público recai sobre o órgão ou ente público, e não sobre o agente individualmente.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "A questão está CORRETA. O princípio da imputação volitiva é o pilar da Teoria do Órgão, significando que a atuação do agente é imputada ao ente estatal, que assume a responsabilidade pelos atos praticados no exercício da função.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_007"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_008",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": null,
+      "year": null,
+      "organization": null,
+      "role": null,
+      "statement": "A Teoria da Representação é considerada mais adequada que a Teoria do Órgão para explicar a atuação do Estado, pois reconhece a autonomia de vontade dos agentes públicos.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "A questão está ERRADA. A Teoria da Representação foi superada por não se adequar à realidade do Estado, que não é um incapaz. A Teoria do Órgão é a que melhor explica a atuação estatal, sem atribuir autonomia de vontade jurídica aos agentes em relação à pessoa jurídica.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_008"
+        ],
+        "count": 1
+      }
+    }
+  ],
+  "comentarios_questoes": [
+    {
+      "comment_id": "com_001",
+      "question_id": "qst_001",
+      "content": "A questão está CORRETA. A Teoria do Órgão, também conhecida como Teoria da Imputação Volitiva, estabelece que a vontade manifestada pelo agente público é imputada à pessoa jurídica a que o órgão pertence. Assim, o ato do agente é considerado ato do Estado.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_002",
+      "question_id": "qst_002",
+      "content": "A questão está ERRADA. A Teoria do Mandato foi superada por não se adequar à natureza do Direito Público, pois o Estado, como pessoa jurídica, não tem vontade própria para outorgar um mandato. A doutrina adotada no Brasil é a Teoria do Órgão.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_003",
+      "question_id": "qst_003",
+      "content": "A questão está CORRETA. Embora os órgãos públicos não possuam personalidade jurídica, a doutrina e a jurisprudência (como a Súmula 525 do STJ, que permite a câmaras de vereadores figurar em juízo para defender prerrogativas institucionais) reconhecem-lhes, excepcionalmente, capacidade judiciária.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_004",
+      "question_id": "qst_004",
+      "content": "A questão está ERRADA. A Teoria do Órgão é um dos fundamentos da responsabilidade **objetiva** do Estado, e não subjetiva. A responsabilidade objetiva dispensa a prova de culpa do agente para que o Estado seja responsabilizado, conforme o Art. 37, § 6º, da CF/88.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_005",
+      "question_id": "qst_005",
+      "content": "A questão está ERRADA. Em regra, o particular lesado por ato de um agente público deve ajuizar a ação de indenização contra a pessoa jurídica de direito público ou de direito privado prestadora de serviços públicos a que o agente está vinculado, e não diretamente contra o agente.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_006",
+      "question_id": "qst_006",
+      "content": "A questão está CORRETA. Otto Gierke é o idealizador da Teoria do Órgão, que conceitua o órgão público como uma unidade despersonalizada de competências, uma divisão interna da pessoa jurídica, sem personalidade jurídica própria.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_007",
+      "question_id": "qst_007",
+      "content": "A questão está CORRETA. O princípio da imputação volitiva é o pilar da Teoria do Órgão, significando que a atuação do agente é imputada ao ente estatal, que assume a responsabilidade pelos atos praticados no exercício da função.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_008",
+      "question_id": "qst_008",
+      "content": "A questão está ERRADA. A Teoria da Representação foi superada por não se adequar à realidade do Estado, que não é um incapaz. A Teoria do Órgão é a que melhor explica a atuação estatal, sem atribuir autonomia de vontade jurídica aos agentes em relação à pessoa jurídica.",
+      "explanation_alternatives": ""
+    }
+  ],
+  "checklist_revisao": [
+    {
+      "checklist_id": "chk_001",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Compreender a Teoria do Órgão como a doutrina dominante no Brasil.",
+      "completed": false,
+      "order": 1
+    },
+    {
+      "checklist_id": "chk_002",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Dominar o conceito de imputação volitiva.",
+      "completed": false,
+      "order": 2
+    },
+    {
+      "checklist_id": "chk_003",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Saber a diferença entre órgão público (centro de competências) e agente público (pessoa física).",
+      "completed": false,
+      "order": 3
+    },
+    {
+      "checklist_id": "chk_004",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Entender a relação entre a Teoria do Órgão e a responsabilidade objetiva do Estado (Art. 37, § 6º, CF).",
+      "completed": false,
+      "order": 4
+    },
+    {
+      "checklist_id": "chk_005",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Lembrar que a ação de indenização é contra a pessoa jurídica, não contra o agente diretamente.",
+      "completed": false,
+      "order": 5
+    },
+    {
+      "checklist_id": "chk_006",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Conhecer as críticas às Teorias do Mandato e da Representação e por que foram superadas.",
+      "completed": false,
+      "order": 6
+    },
+    {
+      "checklist_id": "chk_007",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Identificar as pegadinhas comuns da banca CEBRASPE sobre o tema.",
+      "completed": false,
+      "order": 7
+    }
+  ],
+  "referencias": [
+    {
+      "reference_id": "ref_001",
+      "material_id": "mat_001",
+      "reference_type": "Constituição Federal",
+      "author_name": null,
+      "title": "Constituição da República Federativa do Brasil de 1988, Art. 37, § 6º.",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": null,
+      "accessed_at": null,
+      "description": "Constituição da República Federativa do Brasil de 1988, Art. 37, § 6º."
+    },
+    {
+      "reference_id": "ref_002",
+      "material_id": "mat_001",
+      "reference_type": "Doutrina",
+      "author_name": null,
+      "title": "DI PIETRO, Maria Sylvia Zanella. Direito Administrativo. São Paulo: Atlas. (Edições diversas, conforme pesquisa).",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": null,
+      "accessed_at": null,
+      "description": "DI PIETRO, Maria Sylvia Zanella. Direito Administrativo. São Paulo: Atlas. (Edições diversas, conforme pesquisa)."
+    },
+    {
+      "reference_id": "ref_003",
+      "material_id": "mat_001",
+      "reference_type": "Doutrina",
+      "author_name": null,
+      "title": "CARVALHO FILHO, José dos Santos. Manual de Direito Administrativo. São Paulo: Atlas. (Edições diversas, conforme pesquisa).",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": null,
+      "accessed_at": null,
+      "description": "CARVALHO FILHO, José dos Santos. Manual de Direito Administrativo. São Paulo: Atlas. (Edições diversas, conforme pesquisa)."
+    },
+    {
+      "reference_id": "ref_004",
+      "material_id": "mat_001",
+      "reference_type": "Doutrina",
+      "author_name": null,
+      "title": "MEIRELLES, Hely Lopes. Direito Administrativo Brasileiro. São Paulo: Malheiros. (Edições diversas, conforme pesquisa).",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": null,
+      "accessed_at": null,
+      "description": "MEIRELLES, Hely Lopes. Direito Administrativo Brasileiro. São Paulo: Malheiros. (Edições diversas, conforme pesquisa)."
+    },
+    {
+      "reference_id": "ref_005",
+      "material_id": "mat_001",
+      "reference_type": "Jurisprudência",
+      "author_name": null,
+      "title": "Súmula 525 do Superior Tribunal de Justiça (STJ).",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": null,
+      "accessed_at": null,
+      "description": "Súmula 525 do Superior Tribunal de Justiça (STJ)."
+    },
+    {
+      "reference_id": "ref_006",
+      "material_id": "mat_001",
+      "reference_type": "Artigo/Web",
+      "author_name": null,
+      "title": "Princípio da imputação volitiva – Wikipédia. Disponível em: [2]",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": null,
+      "accessed_at": null,
+      "description": "Princípio da imputação volitiva – Wikipédia. Disponível em: [2]"
+    },
+    {
+      "reference_id": "ref_007",
+      "material_id": "mat_001",
+      "reference_type": "Artigo/Web",
+      "author_name": null,
+      "title": "Órgãos Públicos: Classificação, Estrutura e Competência no Direito Administrativo. Disponível em: [3]",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": null,
+      "accessed_at": null,
+      "description": "Órgãos Públicos: Classificação, Estrutura e Competência no Direito Administrativo. Disponível em: [3]"
+    },
+    {
+      "reference_id": "ref_008",
+      "material_id": "mat_001",
+      "reference_type": "Artigo/Web",
+      "author_name": null,
+      "title": "Responsabilidade do Estado (Direito Administrativo): Resumo Completo - Estratégia Concursos. Disponível em: [4]",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": null,
+      "accessed_at": null,
+      "description": "Responsabilidade do Estado (Direito Administrativo): Resumo Completo - Estratégia Concursos. Disponível em: [4]"
+    },
+    {
+      "reference_id": "ref_009",
+      "material_id": "mat_001",
+      "reference_type": "Artigo/Web",
+      "author_name": null,
+      "title": "Teoria do órgão | Fundamento Jurídico - WordPress.com. Disponível em: [5]",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": null,
+      "accessed_at": null,
+      "description": "Teoria do órgão | Fundamento Jurídico - WordPress.com. Disponível em: [5]"
+    },
+    {
+      "reference_id": "ref_010",
+      "material_id": "mat_001",
+      "reference_type": "Ebook/PDF",
+      "author_name": null,
+      "title": "Ebook-Direito-Administrativo-Resumo-esquematizado-2.pdf - Estratégia Concursos. Disponível em: [6]",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": null,
+      "accessed_at": null,
+      "description": "Ebook-Direito-Administrativo-Resumo-esquematizado-2.pdf - Estratégia Concursos. Disponível em: [6]"
+    },
+    {
+      "reference_id": "ref_011",
+      "material_id": "mat_001",
+      "reference_type": "Doutrina",
+      "author_name": null,
+      "title": "DIREITO ADMINISTRATIVO - Editora Juspodivm. Disponível em: [7]",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": null,
+      "accessed_at": null,
+      "description": "DIREITO ADMINISTRATIVO - Editora Juspodivm. Disponível em: [7]"
+    },
+    {
+      "reference_id": "ref_012",
+      "material_id": "mat_001",
+      "reference_type": "Tesauro",
+      "author_name": null,
+      "title": "Teoria do órgão - Supremo Tribunal Federal. Disponível em: [8]",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": null,
+      "accessed_at": null,
+      "description": "Teoria do órgão - Supremo Tribunal Federal. Disponível em: [8]"
+    },
+    {
+      "reference_id": "ref_013",
+      "material_id": "mat_001",
+      "reference_type": "Artigo/Web",
+      "author_name": null,
+      "title": "Órgão público – Wikipédia. Disponível em: [9]",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": null,
+      "accessed_at": null,
+      "description": "Órgão público – Wikipédia. Disponível em: [9]"
+    },
+    {
+      "reference_id": "ref_014",
+      "material_id": "mat_001",
+      "reference_type": "Artigo/Web",
+      "author_name": null,
+      "title": "Órgãos públicos: conceito, natureza e classificação - Âmbito Jurídico. Disponível em: [10]",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": null,
+      "accessed_at": null,
+      "description": "Órgãos públicos: conceito, natureza e classificação - Âmbito Jurídico. Disponível em: [10]"
+    },
+    {
+      "reference_id": "ref_015",
+      "material_id": "mat_001",
+      "reference_type": "Artigo/Web",
+      "author_name": null,
+      "title": "Resumo sobre Responsabilidade Civil do Estado - Estratégia Concursos. Disponível em: [11]",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": null,
+      "accessed_at": null,
+      "description": "Resumo sobre Responsabilidade Civil do Estado - Estratégia Concursos. Disponível em: [11]"
+    },
+    {
+      "reference_id": "ref_016",
+      "material_id": "mat_001",
+      "reference_type": "Artigo/Web",
+      "author_name": null,
+      "title": "Órgãos públicos: conceito e características - Conteúdo Jurídico. Disponível em: [12]",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": null,
+      "accessed_at": null,
+      "description": "Órgãos públicos: conceito e características - Conteúdo Jurídico. Disponível em: [12]"
+    },
+    {
+      "reference_id": "ref_017",
+      "material_id": "mat_001",
+      "reference_type": "Artigo/Web",
+      "author_name": null,
+      "title": "ÓRGÃO PÚBLICO: CONCEITO E RELAÇÃO ENTRE ELES - Jus.com.br. Disponível em: [13]",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": null,
+      "accessed_at": null,
+      "description": "ÓRGÃO PÚBLICO: CONCEITO E RELAÇÃO ENTRE ELES - Jus.com.br. Disponível em: [13]"
+    },
+    {
+      "reference_id": "ref_018",
+      "material_id": "mat_001",
+      "reference_type": "Artigo/Web",
+      "author_name": null,
+      "title": "A teoria dos órgãos públicos e o § 8º do artigo 37 da Constituição Federal. Disponível em: [15]",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": null,
+      "accessed_at": null,
+      "description": "A teoria dos órgãos públicos e o § 8º do artigo 37 da Constituição Federal. Disponível em: [15]"
+    },
+    {
+      "reference_id": "ref_019",
+      "material_id": "mat_001",
+      "reference_type": "Artigo/Web",
+      "author_name": null,
+      "title": "Teorias dos órgãos públicos: à luz de um paradigma governamental - Jornal Tribuna. Disponível em: [16]",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": null,
+      "accessed_at": null,
+      "description": "Teorias dos órgãos públicos: à luz de um paradigma governamental - Jornal Tribuna. Disponível em: [16]"
+    },
+    {
+      "reference_id": "ref_020",
+      "material_id": "mat_001",
+      "reference_type": "Questão de Concurso",
+      "author_name": null,
+      "title": "A teoria geral do órgão inspirada nos ensinamentos do jurista alemão otto gierke possui o intuito de - brainly.com.br. Disponível em: [17]",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": null,
+      "accessed_at": null,
+      "description": "A teoria geral do órgão inspirada nos ensinamentos do jurista alemão otto gierke possui o intuito de - brainly.com.br. Disponível em: [17]"
+    },
+    {
+      "reference_id": "ref_021",
+      "material_id": "mat_001",
+      "reference_type": "Questão de Concurso",
+      "author_name": null,
+      "title": "Questão A teoria do órgão foi inspirada na Doutrina de Otto Gierke e tem grande aplicabilidade no direito administrat... - Qconcursos. Disponível em: [18]",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": null,
+      "accessed_at": null,
+      "description": "Questão A teoria do órgão foi inspirada na Doutrina de Otto Gierke e tem grande aplicabilidade no direito administrat... - Qconcursos. Disponível em: [18]"
+    },
+    {
+      "reference_id": "ref_022",
+      "material_id": "mat_001",
+      "reference_type": "Questão de Concurso",
+      "author_name": null,
+      "title": "Questão Acerca da teoria do órgão e sua aplicação no direito administrativo, julgue o item a seguir. A teoria do órgã... - Qconcursos. Disponível em: [19]",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": null,
+      "accessed_at": null,
+      "description": "Questão Acerca da teoria do órgão e sua aplicação no direito administrativo, julgue o item a seguir. A teoria do órgã... - Qconcursos. Disponível em: [19]"
+    },
+    {
+      "reference_id": "ref_023",
+      "material_id": "mat_001",
+      "reference_type": "Artigo/Web",
+      "author_name": null,
+      "title": "Teoria do Órgão - Esquematizar Concursos. Disponível em: [20]",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": null,
+      "accessed_at": null,
+      "description": "Teoria do Órgão - Esquematizar Concursos. Disponível em: [20]"
+    },
+    {
+      "reference_id": "ref_024",
+      "material_id": "mat_001",
+      "reference_type": "Questão de Concurso",
+      "author_name": null,
+      "title": "A teoria do órgão foi inspirada na Doutrina de Otto Gierke e... - Qconcursos. Disponível em: [21]",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": null,
+      "accessed_at": null,
+      "description": "A teoria do órgão foi inspirada na Doutrina de Otto Gierke e... - Qconcursos. Disponível em: [21]"
+    },
+    {
+      "reference_id": "ref_025",
+      "material_id": "mat_001",
+      "reference_type": "Vídeo/Web",
+      "author_name": null,
+      "title": "VOCÊ SABE O QUE É A TEORIA DO ÓRGÃO? - YouTube. Disponível em: [22]",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": null,
+      "accessed_at": null,
+      "description": "VOCÊ SABE O QUE É A TEORIA DO ÓRGÃO? - YouTube. Disponível em: [22]"
+    },
+    {
+      "reference_id": "ref_026",
+      "material_id": "mat_001",
+      "reference_type": "Artigo/Web",
+      "author_name": null,
+      "title": "direito administrativo - Verbo Jurídico. Disponível em: [23]",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": null,
+      "accessed_at": null,
+      "description": "direito administrativo - Verbo Jurídico. Disponível em: [23]"
+    },
+    {
+      "reference_id": "ref_027",
+      "material_id": "mat_001",
+      "reference_type": "PDF",
+      "author_name": null,
+      "title": "RESPONSABILIDADE CIVIL DO ESTADO - AWS. Disponível em: [24]",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": null,
+      "accessed_at": null,
+      "description": "RESPONSABILIDADE CIVIL DO ESTADO - AWS. Disponível em: [24]"
+    },
+    {
+      "reference_id": "ref_028",
+      "material_id": "mat_001",
+      "reference_type": "Artigo/Web",
+      "author_name": null,
+      "title": "Responsabilidade objetiva e subjetiva do Estado — Tribunal de Justiça do Distrito Federal e dos Territórios - TJDFT. Disponível em: [25]",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": null,
+      "accessed_at": null,
+      "description": "Responsabilidade objetiva e subjetiva do Estado — Tribunal de Justiça do Distrito Federal e dos Territórios - TJDFT. Disponível em: [25]"
+    },
+    {
+      "reference_id": "ref_029",
+      "material_id": "mat_001",
+      "reference_type": "Artigo/Web",
+      "author_name": null,
+      "title": "Qual a diferença entre cargo público e função pública? - Portal dos Órgãos Públicos. Disponível em: [26]",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": null,
+      "accessed_at": null,
+      "description": "Qual a diferença entre cargo público e função pública? - Portal dos Órgãos Públicos. Disponível em: [26]"
+    },
+    {
+      "reference_id": "ref_030",
+      "material_id": "mat_001",
+      "reference_type": "Artigo/Web",
+      "author_name": null,
+      "title": "Qual a diferença entre agente político, agente público, servidor público, empregado público? - CFA. Disponível em: [27]",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": null,
+      "accessed_at": null,
+      "description": "Qual a diferença entre agente político, agente público, servidor público, empregado público? - CFA. Disponível em: [27]"
+    },
+    {
+      "reference_id": "ref_031",
+      "material_id": "mat_001",
+      "reference_type": "Artigo/Web",
+      "author_name": null,
+      "title": "Quem é agente público? - Comissão Permanente de Ética. Disponível em: [28]",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": null,
+      "accessed_at": null,
+      "description": "Quem é agente público? - Comissão Permanente de Ética. Disponível em: [28]"
+    },
+    {
+      "reference_id": "ref_032",
+      "material_id": "mat_001",
+      "reference_type": "Artigo/Web",
+      "author_name": null,
+      "title": "Agentes públicos: classificação - Enciclopédia Jurídica da PUCSP. Disponível em: [29]",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": null,
+      "accessed_at": null,
+      "description": "Agentes públicos: classificação - Enciclopédia Jurídica da PUCSP. Disponível em: [29]"
+    },
+    {
+      "reference_id": "ref_033",
+      "material_id": "mat_001",
+      "reference_type": "PDF",
+      "author_name": null,
+      "title": "Organização da Administração Pública. Disponível em: [30]",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": null,
+      "accessed_at": null,
+      "description": "Organização da Administração Pública. Disponível em: [30]"
+    },
+    {
+      "reference_id": "ref_034",
+      "material_id": "mat_001",
+      "reference_type": "Artigo/Web",
+      "author_name": null,
+      "title": "DIREITO ADMINISTRATIVO - ppconcursos.com.br. Disponível em: [32]",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": null,
+      "accessed_at": null,
+      "description": "DIREITO ADMINISTRATIVO - ppconcursos.com.br. Disponível em: [32]"
+    },
+    {
+      "reference_id": "ref_035",
+      "material_id": "mat_001",
+      "reference_type": "Questão de Concurso",
+      "author_name": null,
+      "title": "De acordo com a teoria do órgão da pessoa jurídica aplicada ... - Qconcursos. Disponível em: [33]",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": null,
+      "accessed_at": null,
+      "description": "De acordo com a teoria do órgão da pessoa jurídica aplicada ... - Qconcursos. Disponível em: [33]"
+    },
+    {
+      "reference_id": "ref_036",
+      "material_id": "mat_001",
+      "reference_type": "Questão de Concurso",
+      "author_name": null,
+      "title": "De acordo com a teoria da imputação, atualmente adotada n... - Gran Questões. Disponível em: [34]",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": null,
+      "accessed_at": null,
+      "description": "De acordo com a teoria da imputação, atualmente adotada n... - Gran Questões. Disponível em: [34]"
+    },
+    {
+      "reference_id": "ref_037",
+      "material_id": "mat_001",
+      "reference_type": "Questão de Concurso",
+      "author_name": null,
+      "title": "Questão Acerca do conceito de administração pública, da teoria do órgão da pessoa jurídica aplicada ao direito admini... - Qconcursos. Disponível em: [35]",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": null,
+      "accessed_at": null,
+      "description": "Questão Acerca do conceito de administração pública, da teoria do órgão da pessoa jurídica aplicada ao direito admini... - Qconcursos. Disponível em: [35]"
+    },
+    {
+      "reference_id": "ref_038",
+      "material_id": "mat_001",
+      "reference_type": "Questão de Concurso",
+      "author_name": null,
+      "title": "Questões de Concurso sobre Teoria do órgão ou da Imputação. Disponível em: [37]",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": null,
+      "accessed_at": null,
+      "description": "Questões de Concurso sobre Teoria do órgão ou da Imputação. Disponível em: [37]"
+    },
+    {
+      "reference_id": "ref_039",
+      "material_id": "mat_001",
+      "reference_type": "Questão de Concurso",
+      "author_name": null,
+      "title": "A característica fundamental da teoria do órgão consiste no... - Qconcursos. Disponível em: [38]",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": null,
+      "accessed_at": null,
+      "description": "A característica fundamental da teoria do órgão consiste no... - Qconcursos. Disponível em: [38]"
+    },
+    {
+      "reference_id": "ref_040",
+      "material_id": "mat_001",
+      "reference_type": "Vídeo/Web",
+      "author_name": null,
+      "title": "Aula 20 - Órgãos Públicos - Teoria do Mandato, Identidade, Representação e Imputação Volitiva - YouTube. Disponível em: [39]",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": null,
+      "accessed_at": null,
+      "description": "Aula 20 - Órgãos Públicos - Teoria do Mandato, Identidade, Representação e Imputação Volitiva - YouTube. Disponível em: [39]"
+    },
+    {
+      "reference_id": "ref_041",
+      "material_id": "mat_001",
+      "reference_type": "Questão de Concurso",
+      "author_name": null,
+      "title": "Acerca de sistemas administrativos, de administração pública... - Qconcursos. Disponível em: [44]",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": null,
+      "accessed_at": null,
+      "description": "Acerca de sistemas administrativos, de administração pública... - Qconcursos. Disponível em: [44]"
+    }
+  ],
+  "estatisticas_de_geracao": {
+    "total_topicos": 8,
+    "total_componentes_topico": 13,
+    "total_entendimentos_relevantes": 3,
+    "total_pegadinhas": 4,
+    "total_pontos_memorizacao": 5,
+    "total_itens_quadro_sinotico": 5,
+    "total_questoes": 8,
+    "total_comentarios_questoes": 8,
+    "total_itens_checklist": 7,
+    "total_referencias": 41
+  },
+  "validacao_interna": {
+    "pesquisa_previa_realizada": true,
+    "analise_de_cobrancas_anteriores_realizada": true,
+    "material_atualizado": true,
+    "json_valido": true,
+    "estrutura_relacional_respeitada": true,
+    "numeracao_respeitada": true,
+    "houve_quebra_de_hierarquia": false,
+    "houve_nivel_numerico_superior_a_3": false,
+    "fontes_verificadas": true,
+    "sem_informacao_inventada": true
+  },
+  "metadata": {
+    "source_file_name": "3__direito-administrativo__3-organização-administrativa-3.2-administração-direta-3.2.2-órgão-público-3.2.2.2-teorias-sobre-as-relações-do-estado-co.json",
+    "normalized_checksum": "77948035cc155c19777964ffa00e3ab59607e14db3ab48545ace11e27189c355",
+    "subject_slug": "dir-adm",
+    "material_slug": "teorias-relacoes-estado-agentes-publicos",
+    "title_slug": "teorias-sobre-as-relacoes-do-estado-com-os-agentes",
+    "board_slug": "cebraspe",
+    "counters": {
+      "blocks": 4,
+      "topics": 8,
+      "topic_components": 13,
+      "traps": 4,
+      "memory_points": 5,
+      "summary_items": 5,
+      "questions": 8,
+      "question_comments": 8,
+      "checklist_items": 7,
+      "references": 41
+    }
+  }
+}

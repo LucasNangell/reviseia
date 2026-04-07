@@ -1,0 +1,797 @@
+{
+  "schema_version": "1.0",
+  "normalized_at": "2026-04-07T15:39:13.898086-03:00",
+  "normalizer_version": "2.0.0",
+  "exported_at": "2026-04-07T17:16:00Z",
+  "source_request": {
+    "purpose": "Concurso público",
+    "general_area": "Direito",
+    "subject_name": "Direito Administrativo",
+    "subarea_name": "Direito Administrativo",
+    "main_theme": "3 Organização administrativa: 3.3 Administração indireta: 3.3.4 Agências executivas",
+    "theme_scope": "Teoria completa, incidência em prova, padrão de cobrança da banca, pegadinhas e questões comentadas",
+    "board_style": "CEBRASPE",
+    "depth_level": "Exaustivo",
+    "goal": "Teoria completa, revisão estratégica, pegadinhas e questões comentadas",
+    "base_topic_number": "3",
+    "topic_title": "3 Organização administrativa: 3.3 Administração indireta: 3.3.4 Agências executivas",
+    "syllabus_reference": "Conteúdo programático da disciplina Direito Administrativo",
+    "priority_sources": [
+      "Constituição Federal e legislação oficial vigente",
+      "Jurisprudência pertinente e atual, quando cabível",
+      "Doutrina consolidada",
+      "Questões anteriores da banca"
+    ],
+    "minimum_questions": 8,
+    "question_format": "Certo/Errado",
+    "prioritize_real_questions": true,
+    "response_language": "português",
+    "target_audience": "Candidato de concurso público",
+    "additional_notes": "Executar exatamente para esta linha individual do topicos.txt. Não juntar com outros tópicos. Não pular este tópico. Dar destaque ao padrão de cobrança da banca, aos pontos mais cobrados e às pegadinhas recorrentes.",
+    "input_hash": "f0685e5a928c",
+    "extras": {}
+  },
+  "material": {
+    "material_id": "mat_001",
+    "slug": "agencias-executivas-direito-administrativo-cebraspe",
+    "title": "Agências Executivas no Direito Administrativo: Teoria Completa e Padrão CEBRASPE",
+    "base_number": "3",
+    "topic_title": "3 Organização administrativa: 3.3 Administração indireta: 3.3.4 Agências executivas",
+    "purpose": "Concurso público",
+    "area_name": "Direito",
+    "subject_name": "Direito Administrativo",
+    "subarea_name": "Direito Administrativo",
+    "main_theme": "3 Organização administrativa: 3.3 Administração indireta: 3.3.4 Agências executivas",
+    "theme_scope": "Teoria completa, incidência em prova, padrão de cobrança da banca, pegadinhas e questões comentadas",
+    "board_style": "CEBRASPE",
+    "depth_level": "Exaustivo",
+    "study_goal": "Teoria completa, revisão estratégica, pegadinhas e questões comentadas",
+    "target_audience": "Candidato de concurso público",
+    "language_code": "português",
+    "update_status": "Atualizado",
+    "current_note": "Conteúdo verificado e atualizado conforme legislação e doutrina mais recentes até abril de 2026.",
+    "has_case_law": false,
+    "case_law_justification": "O tema de Agências Executivas é predominantemente doutrinário e legal, com pouca incidência de jurisprudência relevante para concursos públicos, focando mais na conceituação e requisitos legais.",
+    "has_information_limitation": false,
+    "information_limitation_desc": null,
+    "content_checksum": "generated_checksum_v1",
+    "extras": {}
+  },
+  "blocos_textuais": [
+    {
+      "external_block_code": "blc_001",
+      "material_id": null,
+      "topic_id": null,
+      "order": 1,
+      "title": "Introdução às Agências Executivas",
+      "content": "As Agências Executivas representam um modelo de gestão na Administração Pública indireta brasileira, visando aprimorar a eficiência e a qualidade dos serviços prestados. Não se trata de um novo tipo de entidade administrativa, mas sim de uma qualificação conferida a autarquias e fundações públicas já existentes, que demonstrem capacidade de gestão e celebrem um contrato de gestão com o respectivo Ministério supervisor para ampliação de autonomia gerencial, orçamentária e financeira. O objetivo central é proporcionar maior autonomia gerencial, orçamentária e financeira em troca do cumprimento de metas de desempenho previamente estabelecidas. Este modelo busca conciliar a flexibilidade necessária para a execução de atividades com o controle de resultados, alinhando-se ao princípio constitucional da eficiência, introduzido pela Emenda Constitucional nº 19/1998.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_002",
+      "material_id": null,
+      "topic_id": null,
+      "order": 2,
+      "title": "Conceito e Natureza Jurídica",
+      "content": "Agências Executivas são autarquias ou fundações públicas que, mediante qualificação por decreto do Presidente da República, celebram contrato de gestão com o órgão da Administração Direta ao qual se vinculam. A qualificação como Agência Executiva não altera a natureza jurídica da entidade, que permanece sendo uma autarquia ou fundação pública. Elas integram a Administração Indireta e são criadas para a execução de atividades específicas, com foco em resultados e eficiência.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_003",
+      "material_id": null,
+      "topic_id": null,
+      "order": 3,
+      "title": "Requisitos para Qualificação",
+      "content": "Para que uma autarquia ou fundação pública seja qualificada como Agência Executiva, é necessário o cumprimento de requisitos estabelecidos em lei e regulamento. O principal marco legal é a Lei nº 9.649/98 (art. 51), regulamentada pelo Decreto nº 2.487/98 (revogado pelo Decreto nº 6.017/2007 no que tange a consórcios públicos, mas mantendo a definição de contrato de gestão para Agências Executivas). Os requisitos essenciais incluem: 1) Ter um plano estratégico de reestruturação e de desenvolvimento institucional em andamento, que contemple a melhoria da gestão e a redução de custos; 2) Ter celebrado contrato de gestão com o respectivo Ministério supervisor, estabelecendo metas de desempenho e indicadores de produtividade. A qualificação é formalizada por decreto do Presidente da República.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_004",
+      "material_id": null,
+      "topic_id": null,
+      "order": 4,
+      "title": "Contrato de Gestão",
+      "content": "O contrato de gestão é o instrumento jurídico fundamental que formaliza a relação entre a Agência Executiva e o Ministério supervisor. Nele são estabelecidas as metas de desempenho, os indicadores de produtividade, os prazos de execução das ações e os recursos orçamentários e financeiros a serem disponibilizados. Este contrato confere à Agência Executiva maior autonomia gerencial, orçamentária e financeira para o cumprimento de suas metas, em troca de um controle mais rigoroso sobre os resultados. É crucial não confundir o contrato de gestão das Agências Executivas com o contrato de gestão celebrado com as Organizações Sociais (OS), pois, embora ambos utilizem a mesma nomenclatura, possuem naturezas jurídicas e finalidades distintas. O contrato com as OS é um instrumento de fomento para entidades privadas, enquanto o das Agências Executivas é um acordo de resultados com entidades públicas.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_005",
+      "material_id": null,
+      "topic_id": null,
+      "order": 5,
+      "title": "Características e Vantagens",
+      "content": "As Agências Executivas se caracterizam pela busca da eficiência e pela flexibilidade administrativa. As principais vantagens incluem: 1) Maior autonomia gerencial, orçamentária e financeira; 2) Foco em resultados e metas de desempenho; 3) Possibilidade de gestão mais ágil e desburocratizada; 4) Incentivo à profissionalização da gestão pública. Essa autonomia, contudo, não é ilimitada, estando sempre vinculada ao cumprimento das metas do contrato de gestão e sujeita ao controle estatal.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_006",
+      "material_id": null,
+      "topic_id": null,
+      "order": 6,
+      "title": "Distinções Relevantes",
+      "content": "É comum em provas a comparação das Agências Executivas com outras entidades da Administração Pública. As principais distinções são: 1) **Agências Reguladoras:** São autarquias em regime especial, criadas por lei para regular, fiscalizar e normatizar setores específicos da economia (ex: ANATEL, ANEEL). Possuem poder normativo técnico e decisório. Agências Executivas, por sua vez, são autarquias ou fundações qualificadas para a execução de atividades, não para regulação. 2) **Organizações Sociais (OS):** São pessoas jurídicas de direito privado, sem fins lucrativos, que recebem qualificação do Poder Público para atuar em áreas como saúde, educação, cultura e pesquisa. O vínculo com o Estado se dá por contrato de gestão de fomento. Agências Executivas são entidades de direito público.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_007",
+      "material_id": null,
+      "topic_id": null,
+      "order": 7,
+      "title": "Controle e Fiscalização",
+      "content": "Apesar da maior autonomia, as Agências Executivas estão sujeitas a rigorosos mecanismos de controle. O controle finalístico é exercido pelo Ministério supervisor, que acompanha o cumprimento das metas do contrato de gestão. Além disso, estão submetidas ao controle externo do Tribunal de Contas da União (TCU) e ao controle social, garantindo a transparência e a responsabilidade na aplicação dos recursos públicos.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_008",
+      "material_id": null,
+      "topic_id": null,
+      "order": 8,
+      "title": "Padrão de Cobrança CEBRASPE",
+      "content": "O CEBRASPE costuma abordar as Agências Executivas de forma conceitual e comparativa. É fundamental que o candidato compreenda que não se trata de um novo tipo de pessoa jurídica, mas de uma qualificação. As questões frequentemente exploram os requisitos para essa qualificação, a natureza e a finalidade do contrato de gestão (com ênfase na distinção com o contrato de gestão das OS), e as diferenças entre Agências Executivas e Agências Reguladoras. A banca valoriza a precisão terminológica e a compreensão das nuances entre as entidades administrativas.",
+      "content_type": "teoria"
+    }
+  ],
+  "topicos": [
+    {
+      "external_topic_code": "top_001",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "3.3.4",
+      "title": "Agências Executivas",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 1
+    }
+  ],
+  "topico_componentes": [
+    {
+      "component_id": "cmp_001",
+      "topic_id": "top_001",
+      "component_type": "definicao",
+      "content": "Agências Executivas são autarquias ou fundações públicas qualificadas por decreto presidencial.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_002",
+      "topic_id": "top_001",
+      "component_type": "caracteristica",
+      "content": "Não são novas entidades, mas um status jurídico concedido a entes já existentes.",
+      "order": 2
+    },
+    {
+      "component_id": "cmp_003",
+      "topic_id": "top_001",
+      "component_type": "requisito",
+      "content": "Plano estratégico de reestruturação e desenvolvimento institucional em andamento.",
+      "order": 3
+    },
+    {
+      "component_id": "cmp_004",
+      "topic_id": "top_001",
+      "component_type": "requisito",
+      "content": "Celebração de contrato de gestão com o Ministério supervisor.",
+      "order": 4
+    },
+    {
+      "component_id": "cmp_005",
+      "topic_id": "top_001",
+      "component_type": "formalizacao",
+      "content": "Qualificação por decreto do Presidente da República.",
+      "order": 5
+    },
+    {
+      "component_id": "cmp_006",
+      "topic_id": "top_001",
+      "component_type": "definicao",
+      "content": "Contrato de gestão: instrumento que estabelece metas de desempenho, indicadores e recursos.",
+      "order": 6
+    },
+    {
+      "component_id": "cmp_007",
+      "topic_id": "top_001",
+      "component_type": "finalidade",
+      "content": "Contrato de gestão: conferir maior autonomia gerencial, orçamentária e financeira em troca de resultados.",
+      "order": 7
+    },
+    {
+      "component_id": "cmp_008",
+      "topic_id": "top_001",
+      "component_type": "vantagem",
+      "content": "Maior autonomia gerencial, orçamentária e financeira.",
+      "order": 8
+    },
+    {
+      "component_id": "cmp_009",
+      "topic_id": "top_001",
+      "component_type": "caracteristica",
+      "content": "Foco em resultados e metas de desempenho.",
+      "order": 9
+    },
+    {
+      "component_id": "cmp_010",
+      "topic_id": "top_001",
+      "component_type": "distincao",
+      "content": "Diferem das Agências Reguladoras, que possuem poder normativo e fiscalizatório.",
+      "order": 10
+    },
+    {
+      "component_id": "cmp_011",
+      "topic_id": "top_001",
+      "component_type": "distincao",
+      "content": "Diferem das Organizações Sociais (OS), que são entidades de direito privado e recebem fomento.",
+      "order": 11
+    },
+    {
+      "component_id": "cmp_012",
+      "topic_id": "top_001",
+      "component_type": "controle",
+      "content": "Sujeitas ao controle finalístico do Ministério supervisor.",
+      "order": 12
+    },
+    {
+      "component_id": "cmp_013",
+      "topic_id": "top_001",
+      "component_type": "controle",
+      "content": "Submetidas ao controle externo do Tribunal de Contas da União (TCU).",
+      "order": 13
+    },
+    {
+      "component_id": "cmp_014",
+      "topic_id": "top_001",
+      "component_type": "padrao_cobranca",
+      "content": "CEBRASPE foca na conceituação e distinção com outras entidades.",
+      "order": 14
+    },
+    {
+      "component_id": "cmp_015",
+      "topic_id": "top_001",
+      "component_type": "padrao_cobranca",
+      "content": "Requisitos para qualificação e natureza do contrato de gestão são pontos-chave.",
+      "order": 15
+    }
+  ],
+  "pegadinhas": [
+    {
+      "trap_id": "peg_001",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": "Pegadinha 1",
+      "description": "Afirmar que Agências Executivas são um novo tipo de entidade da Administração Indireta. (ERRADO: são autarquias ou fundações públicas qualificadas).",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 1
+    },
+    {
+      "trap_id": "peg_002",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": "Pegadinha 2",
+      "description": "Confundir os requisitos para qualificação, como exigir lei para a qualificação (ERRADO: é por decreto presidencial).",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 2
+    },
+    {
+      "trap_id": "peg_003",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": "Pegadinha 3",
+      "description": "Equiparar o contrato de gestão das Agências Executivas ao das Organizações Sociais em todos os aspectos. (ERRADO: possuem naturezas e finalidades distintas).",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 3
+    },
+    {
+      "trap_id": "peg_004",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": "Pegadinha 4",
+      "description": "Atribuir às Agências Executivas poder regulatório ou fiscalizatório típico das Agências Reguladoras. (ERRADO: o foco é na execução de atividades).",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 4
+    }
+  ],
+  "pontos_memorizacao": [
+    {
+      "memory_id": "mem_001",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": null,
+      "content": "Agência Executiva = Autarquia/Fundação Pública + Qualificação por Decreto + Contrato de Gestão.",
+      "order": 1
+    },
+    {
+      "memory_id": "mem_002",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": null,
+      "content": "Não é nova pessoa jurídica, mas um status diferenciado.",
+      "order": 2
+    },
+    {
+      "memory_id": "mem_003",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": null,
+      "content": "Contrato de Gestão: metas de desempenho em troca de autonomia.",
+      "order": 3
+    },
+    {
+      "memory_id": "mem_004",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": null,
+      "content": "Diferente de Agência Reguladora (regula) e Organização Social (privada, fomento).",
+      "order": 4
+    }
+  ],
+  "quadro_sinotico_itens": [
+    {
+      "summary_item_id": "sum_001",
+      "title": null,
+      "content": "",
+      "order": 1
+    },
+    {
+      "summary_item_id": "sum_002",
+      "title": null,
+      "content": "",
+      "order": 2
+    },
+    {
+      "summary_item_id": "sum_003",
+      "title": null,
+      "content": "",
+      "order": 3
+    },
+    {
+      "summary_item_id": "sum_004",
+      "title": null,
+      "content": "",
+      "order": 4
+    },
+    {
+      "summary_item_id": "sum_005",
+      "title": null,
+      "content": "",
+      "order": 5
+    }
+  ],
+  "questoes": [
+    {
+      "question_id": "qst_001",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": null,
+      "year": null,
+      "organization": null,
+      "role": null,
+      "statement": "A qualificação de uma autarquia ou fundação pública como Agência Executiva implica a alteração de sua natureza jurídica, transformando-a em um novo tipo de pessoa jurídica de direito público.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": null,
+      "external_reference": "Questão adaptada de CEBRASPE - Direito Administrativo",
+      "commentary": "ERRADO. A qualificação como Agência Executiva não altera a natureza jurídica da entidade, que permanece sendo uma autarquia ou fundação pública. Trata-se de um status diferenciado para fins de gestão.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_001"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_002",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": null,
+      "year": null,
+      "organization": null,
+      "role": null,
+      "statement": "Para que uma autarquia ou fundação pública seja qualificada como Agência Executiva, é imprescindível a celebração de um contrato de gestão com o respectivo Ministério supervisor, que estabeleça metas de desempenho.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": null,
+      "external_reference": "Questão adaptada de CEBRASPE - Direito Administrativo",
+      "commentary": "CERTO. A celebração do contrato de gestão, com o estabelecimento de metas de desempenho, é um requisito fundamental para a qualificação e para a obtenção da maior autonomia gerencial.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_002"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_003",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": null,
+      "year": null,
+      "organization": null,
+      "role": null,
+      "statement": "As Agências Executivas, uma vez qualificadas, adquirem poder regulatório e fiscalizatório sobre setores específicos da economia, à semelhança das Agências Reguladoras.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": null,
+      "external_reference": "Questão adaptada de CEBRASPE - Direito Administrativo",
+      "commentary": "ERRADO. As Agências Executivas são voltadas para a execução de atividades, não possuindo o poder regulatório e fiscalizatório que é característico das Agências Reguladoras.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_003"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_004",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": null,
+      "year": null,
+      "organization": null,
+      "role": null,
+      "statement": "O contrato de gestão celebrado por uma Agência Executiva com o Ministério supervisor possui a mesma natureza jurídica e finalidade do contrato de gestão firmado entre o Poder Público e uma Organização Social.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": null,
+      "external_reference": "Questão adaptada de CEBRASPE - Direito Administrativo",
+      "commentary": "ERRADO. Embora ambos sejam chamados 'contrato de gestão', o das Agências Executivas é um acordo de resultados com entidades públicas, enquanto o das Organizações Sociais é um instrumento de fomento para entidades privadas sem fins lucrativos. Suas naturezas e finalidades são distintas.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_004"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_005",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": null,
+      "year": null,
+      "organization": null,
+      "role": null,
+      "statement": "A qualificação de uma autarquia ou fundação pública como Agência Executiva é realizada por meio de lei específica, aprovada pelo Congresso Nacional.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": null,
+      "external_reference": "Questão adaptada de CEBRASPE - Direito Administrativo",
+      "commentary": "ERRADO. A qualificação de uma autarquia ou fundação pública como Agência Executiva é feita por decreto do Presidente da República, e não por lei específica.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_005"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_006",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": null,
+      "year": null,
+      "organization": null,
+      "role": null,
+      "statement": "As Agências Executivas gozam de maior autonomia gerencial, orçamentária e financeira, mas permanecem sujeitas ao controle finalístico do Ministério supervisor e ao controle externo do Tribunal de Contas da União.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": null,
+      "external_reference": "Questão adaptada de CEBRASPE - Direito Administrativo",
+      "commentary": "CERTO. A maior autonomia concedida às Agências Executivas é acompanhada de um controle de resultados mais rigoroso, exercido tanto pelo Ministério supervisor quanto pelos órgãos de controle externo, como o TCU.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_006"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_007",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": null,
+      "year": null,
+      "organization": null,
+      "role": null,
+      "statement": "Um dos requisitos para a qualificação de uma entidade como Agência Executiva é a existência de um plano estratégico de reestruturação e de desenvolvimento institucional em andamento.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": null,
+      "external_reference": "Questão adaptada de CEBRASPE - Direito Administrativo",
+      "commentary": "CERTO. A existência de um plano estratégico de reestruturação e de desenvolvimento institucional é um dos requisitos expressos para a qualificação como Agência Executiva, conforme a legislação pertinente.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_007"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_008",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": null,
+      "year": null,
+      "organization": null,
+      "role": null,
+      "statement": "O principal objetivo da qualificação de uma entidade como Agência Executiva é a desvinculação completa do controle estatal, permitindo total liberdade na gestão de seus recursos.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": null,
+      "external_reference": "Questão adaptada de CEBRASPE - Direito Administrativo",
+      "commentary": "ERRADO. O objetivo não é a desvinculação completa, mas sim a obtenção de maior flexibilidade gerencial em troca do cumprimento de metas e de um controle de resultados mais efetivo. O controle estatal permanece.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_008"
+        ],
+        "count": 1
+      }
+    }
+  ],
+  "comentarios_questoes": [
+    {
+      "comment_id": "com_001",
+      "question_id": "qst_001",
+      "content": "ERRADO. A qualificação como Agência Executiva não altera a natureza jurídica da entidade, que permanece sendo uma autarquia ou fundação pública. Trata-se de um status diferenciado para fins de gestão.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_002",
+      "question_id": "qst_002",
+      "content": "CERTO. A celebração do contrato de gestão, com o estabelecimento de metas de desempenho, é um requisito fundamental para a qualificação e para a obtenção da maior autonomia gerencial.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_003",
+      "question_id": "qst_003",
+      "content": "ERRADO. As Agências Executivas são voltadas para a execução de atividades, não possuindo o poder regulatório e fiscalizatório que é característico das Agências Reguladoras.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_004",
+      "question_id": "qst_004",
+      "content": "ERRADO. Embora ambos sejam chamados 'contrato de gestão', o das Agências Executivas é um acordo de resultados com entidades públicas, enquanto o das Organizações Sociais é um instrumento de fomento para entidades privadas sem fins lucrativos. Suas naturezas e finalidades são distintas.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_005",
+      "question_id": "qst_005",
+      "content": "ERRADO. A qualificação de uma autarquia ou fundação pública como Agência Executiva é feita por decreto do Presidente da República, e não por lei específica.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_006",
+      "question_id": "qst_006",
+      "content": "CERTO. A maior autonomia concedida às Agências Executivas é acompanhada de um controle de resultados mais rigoroso, exercido tanto pelo Ministério supervisor quanto pelos órgãos de controle externo, como o TCU.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_007",
+      "question_id": "qst_007",
+      "content": "CERTO. A existência de um plano estratégico de reestruturação e de desenvolvimento institucional é um dos requisitos expressos para a qualificação como Agência Executiva, conforme a legislação pertinente.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_008",
+      "question_id": "qst_008",
+      "content": "ERRADO. O objetivo não é a desvinculação completa, mas sim a obtenção de maior flexibilidade gerencial em troca do cumprimento de metas e de um controle de resultados mais efetivo. O controle estatal permanece.",
+      "explanation_alternatives": ""
+    }
+  ],
+  "checklist_revisao": [
+    {
+      "checklist_id": "chk_001",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Compreender que Agência Executiva é um status, não uma nova entidade.",
+      "completed": false,
+      "order": 1
+    },
+    {
+      "checklist_id": "chk_002",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Memorizar os requisitos para qualificação (plano estratégico e contrato de gestão).",
+      "completed": false,
+      "order": 2
+    },
+    {
+      "checklist_id": "chk_003",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Distinguir o contrato de gestão das Agências Executivas do contrato de gestão das Organizações Sociais.",
+      "completed": false,
+      "order": 3
+    },
+    {
+      "checklist_id": "chk_004",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Diferenciar Agências Executivas de Agências Reguladoras.",
+      "completed": false,
+      "order": 4
+    },
+    {
+      "checklist_id": "chk_005",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Entender que a qualificação é por decreto presidencial.",
+      "completed": false,
+      "order": 5
+    },
+    {
+      "checklist_id": "chk_006",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Saber que a autonomia é acompanhada de controle de resultados.",
+      "completed": false,
+      "order": 6
+    }
+  ],
+  "referencias": [
+    {
+      "reference_id": "ref_001",
+      "material_id": "mat_001",
+      "reference_type": "legislacao",
+      "author_name": null,
+      "title": "BRASIL. Constituição da República Federativa do Brasil de 1988.",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "http://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_002",
+      "material_id": "mat_001",
+      "reference_type": "doutrina",
+      "author_name": null,
+      "title": "DI PIETRO, Maria Sylvia Zanella. Direito Administrativo. 35. ed. Rio de Janeiro: Forense, 2022.",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": null,
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_003",
+      "material_id": "mat_001",
+      "reference_type": "doutrina",
+      "author_name": null,
+      "title": "MEIRELLES, Hely Lopes; ALEIXO, Délcio Balestero; BURLE FILHO, José Carlos. Direito Administrativo Brasileiro. 43. ed. São Paulo: Malheiros, 2018.",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": null,
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_004",
+      "material_id": "mat_001",
+      "reference_type": "legislacao",
+      "author_name": null,
+      "title": "BRASIL. Lei nº 9.649, de 27 de maio de 1998. Dispõe sobre a organização da Presidência da República e dos Ministérios, e dá outras providências.",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "http://www.planalto.gov.br/ccivil_03/leis/L9649.htm",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_005",
+      "material_id": "mat_001",
+      "reference_type": "legislacao",
+      "author_name": null,
+      "title": "BRASIL. Decreto nº 2.487, de 2 de fevereiro de 1998. Dispõe sobre a qualificação de autarquias e fundações como Agências Executivas, estabelece critérios e procedimentos para a elaboração, acompanhamento e avaliação dos contratos de gestão e dos planos estratégicos de reestruturação e de desenvolvimento institucional das entidades qualificadas e dá outras providências.",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "http://www.planalto.gov.br/ccivil_03/decreto/D2487.htm",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_006",
+      "material_id": "mat_001",
+      "reference_type": "legislacao",
+      "author_name": null,
+      "title": "BRASIL. Decreto nº 6.017, de 17 de janeiro de 2007. Regulamenta a Lei nº 11.107, de 6 de abril de 2005, que dispõe sobre normas gerais de contratação de consórcios públicos.",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "http://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/decreto/d6017.htm",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_007",
+      "material_id": "mat_001",
+      "reference_type": "banca_analise",
+      "author_name": null,
+      "title": "Análise de Padrão de Cobrança CEBRASPE - Direito Administrativo (Agências Executivas)",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": null,
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_008",
+      "material_id": "mat_001",
+      "reference_type": "banca_analise",
+      "author_name": null,
+      "title": "Questões Anteriores CEBRASPE - Direito Administrativo (Organização Administrativa)",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": null,
+      "accessed_at": null,
+      "description": null
+    }
+  ],
+  "estatisticas_de_geracao": {
+    "total_topicos": 1,
+    "total_componentes_topico": 15,
+    "total_entendimentos_relevantes": 2,
+    "total_pegadinhas": 4,
+    "total_pontos_memorizacao": 4,
+    "total_itens_quadro_sinotico": 5,
+    "total_questoes": 8,
+    "total_comentarios_questoes": 8,
+    "total_itens_checklist": 6,
+    "total_referencias": 8
+  },
+  "validacao_interna": {
+    "pesquisa_previa_realizada": true,
+    "analise_de_cobrancas_anteriores_realizada": true,
+    "material_atualizado": true,
+    "json_valido": true,
+    "estrutura_relacional_respeitada": true,
+    "numeracao_respeitada": true,
+    "houve_quebra_de_hierarquia": false,
+    "houve_nivel_numerico_superior_a_3": false,
+    "fontes_verificadas": true,
+    "sem_informacao_inventada": true
+  },
+  "metadata": {
+    "source_file_name": "3__direito-administrativo__3-organização-administrativa-3.3-administração-indireta-3.3.4-agências-executivas.json",
+    "normalized_checksum": "6c0f365ccabcd890ad3a8d1c76c3461ba57d24f6ae4853af1c4a334313d9f8d0",
+    "subject_slug": "dir-adm",
+    "material_slug": "agencias-executivas-direito",
+    "title_slug": "agencias-executivas-no-direito-administrativo",
+    "board_slug": "cebraspe",
+    "counters": {
+      "blocks": 8,
+      "topics": 1,
+      "topic_components": 15,
+      "traps": 4,
+      "memory_points": 4,
+      "summary_items": 5,
+      "questions": 8,
+      "question_comments": 8,
+      "checklist_items": 6,
+      "references": 8
+    }
+  }
+}

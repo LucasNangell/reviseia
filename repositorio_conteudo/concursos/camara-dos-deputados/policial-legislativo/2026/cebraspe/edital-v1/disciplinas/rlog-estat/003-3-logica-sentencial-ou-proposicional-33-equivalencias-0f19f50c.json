@@ -1,0 +1,922 @@
+{
+  "schema_version": "1.0",
+  "normalized_at": "2026-04-07T15:39:14.967316-03:00",
+  "normalizer_version": "2.0.0",
+  "exported_at": "2026-04-06T20:32:00Z",
+  "source_request": {
+    "purpose": "Concurso público",
+    "general_area": "Exatas",
+    "subject_name": "Raciocínio Lógico e Noções de Estatística",
+    "subarea_name": "Lógica, conjuntos, contagem e estatística",
+    "main_theme": "3 Lógica sentencial (ou proposicional): 3.3 Equivalências",
+    "theme_scope": "Teoria completa, incidência em prova, padrão de cobrança da banca, pegadinhas e questões comentadas",
+    "board_style": "CEBRASPE",
+    "depth_level": "Exaustivo",
+    "goal": "Teoria completa, revisão estratégica, pegadinhas e questões comentadas",
+    "base_topic_number": "3",
+    "topic_title": "3 Lógica sentencial (ou proposicional): 3.3 Equivalências",
+    "syllabus_reference": "Conteúdo programático da disciplina Raciocínio Lógico e Noções de Estatística",
+    "priority_sources": [
+      "Bibliografia técnica consolidada",
+      "Definições, propriedades, regras e métodos consagrados",
+      "Questões anteriores da banca"
+    ],
+    "minimum_questions": 8,
+    "question_format": "Certo/Errado",
+    "prioritize_real_questions": true,
+    "response_language": "português",
+    "target_audience": "Candidato de concurso público",
+    "additional_notes": "Executar exatamente para esta linha individual do topicos.txt. Não juntar com outros tópicos. Não pular este tópico. Dar destaque ao padrão de cobrança da banca, aos pontos mais cobrados e às pegadinhas recorrentes.",
+    "input_hash": "b1be6785efa8",
+    "extras": {}
+  },
+  "material": {
+    "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-33-equivalências",
+    "slug": "logica-sentencial-equivalencias-cebraspe",
+    "title": "Lógica Sentencial: Equivalências Lógicas para CEBRASPE",
+    "base_number": "3",
+    "topic_title": "3 Lógica sentencial (ou proposicional): 3.3 Equivalências",
+    "purpose": "Concurso público",
+    "area_name": "Exatas",
+    "subject_name": "Raciocínio Lógico e Noções de Estatística",
+    "subarea_name": "Lógica, conjuntos, contagem e estatística",
+    "main_theme": "Equivalências Lógicas",
+    "theme_scope": "Teoria completa, incidência em prova, padrão de cobrança da banca, pegadinhas e questões comentadas",
+    "board_style": "CEBRASPE",
+    "depth_level": "Exaustivo",
+    "study_goal": "Teoria completa, revisão estratégica, pegadinhas e questões comentadas",
+    "target_audience": "Candidato de concurso público",
+    "language_code": "português",
+    "update_status": "Atualizado",
+    "current_note": "As regras de equivalência lógica são conceitos matemáticos estáveis. A análise do padrão de cobrança da banca CEBRASPE foi atualizada com base em questões recentes.",
+    "has_case_law": false,
+    "case_law_justification": "A disciplina de Raciocínio Lógico e Noções de Estatística, especialmente o tópico de Equivalências Lógicas, não envolve o uso de jurisprudência.",
+    "has_information_limitation": false,
+    "information_limitation_desc": null,
+    "content_checksum": "placeholder_checksum_equivalencias_logicas_cebraspe",
+    "extras": {}
+  },
+  "blocos_textuais": [
+    {
+      "external_block_code": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-33-equivalências_blc_001",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-33-equivalências",
+      "topic_id": null,
+      "order": 1,
+      "title": "Introdução às Equivalências Lógicas",
+      "content": "Duas proposições são consideradas logicamente equivalentes quando possuem os mesmos valores de verdade em todas as possíveis combinações de suas variáveis. Isso significa que, independentemente dos valores lógicos das proposições simples que as compõem, as duas expressões compostas resultam no mesmo valor lógico final. A equivalência lógica é frequentemente representada pelos símbolos \"≡\" ou \"<=>\". O domínio das equivalências é crucial para a reescrita de proposições, a simplificação de sentenças e a análise de argumentos, sendo um tema recorrente e de alta incidência nas provas de Raciocínio Lógico, especialmente as elaboradas pela banca CEBRASPE.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-33-equivalências_blc_002",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-33-equivalências",
+      "topic_id": null,
+      "order": 2,
+      "title": "Verificação de Equivalência: Tabela-Verdade",
+      "content": "A ferramenta fundamental para verificar se duas proposições são logicamente equivalentes é a construção de suas tabelas-verdade. Se as colunas correspondentes aos valores lógicos das duas proposições compostas forem idênticas, então elas são equivalentes. Embora a construção da tabela-verdade seja um método infalível, para as provas de concurso, é mais eficiente memorizar as principais equivalências e suas regras de aplicação, dada a natureza repetitiva da cobrança.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-33-equivalências_blc_003",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-33-equivalências",
+      "topic_id": null,
+      "order": 3,
+      "title": "Principais Equivalências Lógicas",
+      "content": "Existem algumas equivalências lógicas que são consideradas fundamentais e são constantemente cobradas em concursos. O candidato deve ter essas regras na ponta da língua para garantir agilidade e precisão na resolução das questões.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-33-equivalências_blc_004",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-33-equivalências",
+      "topic_id": null,
+      "order": 4,
+      "title": "1. Dupla Negação",
+      "content": "A dupla negação de uma proposição é logicamente equivalente à própria proposição. Em termos simbólicos, ~(~P) ≡ P. Por exemplo, \"Não é verdade que João não estuda\" é equivalente a \"João estuda\".",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-33-equivalências_blc_005",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-33-equivalências",
+      "topic_id": null,
+      "order": 5,
+      "title": "2. Leis de De Morgan",
+      "content": "As Leis de De Morgan são essenciais para a negação de proposições compostas por conjunção (E) ou disjunção (OU). Elas estabelecem que:\n\n*   **Negação da Conjunção:** A negação de uma conjunção é equivalente à disjunção das negações das proposições. ~(P ∧ Q) ≡ ~P ∨ ~Q. Exemplo: \"Não é verdade que chove E faz sol\" é equivalente a \"Não chove OU não faz sol\".\n*   **Negação da Disjunção:** A negação de uma disjunção é equivalente à conjunção das negações das proposições. ~(P ∨ Q) ≡ ~P ∧ ~Q. Exemplo: \"Não é verdade que estudo OU trabalho\" é equivalente a \"Não estudo E não trabalho\".",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-33-equivalências_blc_006",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-33-equivalências",
+      "topic_id": null,
+      "order": 6,
+      "title": "3. Equivalências da Proposição Condicional (Se P, então Q)",
+      "content": "A proposição condicional (P → Q) possui duas equivalências lógicas de extrema importância e alta incidência nas provas do CEBRASPE.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-33-equivalências_blc_007",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-33-equivalências",
+      "topic_id": null,
+      "order": 7,
+      "title": "3.1. Contrapositiva (ou Contrarecíproca)",
+      "content": "A contrapositiva é uma das equivalências mais cobradas pelo CEBRASPE. Ela afirma que uma proposição condicional é equivalente a outra condicional em que se inverte a ordem das proposições e se negam ambas. Simbolicamente: P → Q ≡ ~Q → ~P. Exemplo: \"Se chove, então o chão molha\" é equivalente a \"Se o chão NÃO molha, então NÃO chove\".",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-33-equivalências_blc_008",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-33-equivalências",
+      "topic_id": null,
+      "order": 8,
+      "title": "3.2. Disjunção Inclusiva",
+      "content": "Outra equivalência fundamental da condicional é a sua transformação em uma disjunção inclusiva. A regra é: nega-se a primeira proposição (antecedente), mantém-se o conectivo OU, e mantém-se a segunda proposição (consequente). Simbolicamente: P → Q ≡ ~P ∨ Q. Exemplo: \"Se estudo, então sou aprovado\" é equivalente a \"NÃO estudo OU sou aprovado\".",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-33-equivalências_blc_009",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-33-equivalências",
+      "topic_id": null,
+      "order": 9,
+      "title": "4. Equivalências da Proposição Bicondicional (P se e somente se Q)",
+      "content": "A proposição bicondicional (P ↔ Q) também possui equivalências importantes, embora menos frequentes que as da condicional.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-33-equivalências_blc_010",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-33-equivalências",
+      "topic_id": null,
+      "order": 10,
+      "title": "4.1. Conjunção de Condicionais",
+      "content": "Uma bicondicional é equivalente à conjunção de duas proposições condicionais, uma em cada sentido. Simbolicamente: P ↔ Q ≡ (P → Q) ∧ (Q → P). Exemplo: \"Viajo se e somente se tenho dinheiro\" é equivalente a \"Se viajo, então tenho dinheiro E se tenho dinheiro, então viajo\".",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-33-equivalências_blc_011",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-33-equivalências",
+      "topic_id": null,
+      "order": 11,
+      "title": "4.2. Disjunção de Conjunções",
+      "content": "Outra forma de expressar a bicondicional é como uma disjunção de duas conjunções: (P ∧ Q) ∨ (~P ∧ ~Q). Isso significa que P e Q têm o mesmo valor lógico (ambas verdadeiras OU ambas falsas). Exemplo: \"É dia se e somente se há sol\" é equivalente a \"É dia E há sol OU NÃO é dia E NÃO há sol\".",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-33-equivalências_blc_012",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-33-equivalências",
+      "topic_id": null,
+      "order": 12,
+      "title": "Padrão de Cobrança da Banca CEBRASPE",
+      "content": "A banca CEBRASPE (antigo CESPE) é conhecida por seu formato de questões Certo/Errado e pela exigência de uma análise cuidadosa e interpretação precisa. Em Raciocínio Lógico, as equivalências são um dos temas mais cobrados, representando mais de 80% das questões em conjunto com proposições e negações. O CEBRASPE costuma apresentar enunciados longos, mesclando teoria com interpretação de texto, exigindo atenção aos detalhes e à linguagem lógica.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-33-equivalências_blc_013",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-33-equivalências",
+      "topic_id": null,
+      "order": 13,
+      "title": "Foco do CEBRASPE em Equivalências:",
+      "content": "1.  **Reescrita de Proposições:** Dada uma proposição, o candidato deve identificar uma ou mais proposições logicamente equivalentes.\n2.  **Negação de Proposições Compostas:** Frequentemente, as questões de negação envolvem a aplicação das Leis de De Morgan e da contrapositiva para a condicional, que são, por natureza, equivalências lógicas.\n3.  **Análise de Argumentos:** Embora o foco não seja diretamente em argumentos, a compreensão das equivalências é fundamental para a validade de inferências e a identificação de premissas e conclusões.\n4.  **Profundidade:** A banca exige a memorização das principais equivalências e a capacidade de aplicá-las em diferentes contextos, inclusive em sentenças em linguagem natural.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-33-equivalências_blc_014",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-33-equivalências",
+      "topic_id": null,
+      "order": 14,
+      "title": "Pegadinhas Recorrentes do CEBRASPE",
+      "content": "O CEBRASPE é mestre em criar \"pegadinhas\" que testam a atenção e o conhecimento aprofundado do candidato. As mais comuns em equivalências lógicas incluem:",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-33-equivalências_blc_015",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-33-equivalências",
+      "topic_id": null,
+      "order": 15,
+      "title": "1. Confundir Equivalência com Negação ou Implicação",
+      "content": "É comum o candidato confundir uma proposição equivalente com sua negação ou com uma implicação que não mantém o mesmo valor lógico em todas as situações.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-33-equivalências_blc_016",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-33-equivalências",
+      "topic_id": null,
+      "order": 16,
+      "title": "2. Erros na Aplicação das Leis de De Morgan",
+      "content": "As falhas mais frequentes são: esquecer de negar uma das proposições simples, ou trocar o conectivo \"e\" por \"e\" (mantendo) ou \"ou\" por \"ou\" (mantendo), em vez de fazer a troca correta (E por OU, OU por E).",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-33-equivalências_blc_017",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-33-equivalências",
+      "topic_id": null,
+      "order": 17,
+      "title": "3. Erros na Contrapositiva",
+      "content": "A pegadinha aqui é inverter a ordem das proposições sem negar ambas, ou negar sem inverter a ordem. A regra é clara: inverte E nega.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-33-equivalências_blc_018",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-33-equivalências",
+      "topic_id": null,
+      "order": 18,
+      "title": "4. Confundir Negação da Condicional com Equivalência",
+      "content": "A negação de P → Q é P ∧ ~Q. Esta é uma negação, não uma equivalência. O CEBRASPE pode apresentar essa forma como uma suposta equivalência para induzir ao erro.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-33-equivalências_blc_019",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-33-equivalências",
+      "topic_id": null,
+      "order": 19,
+      "title": "5. Uso de Sinônimos Enganosos",
+      "content": "A banca pode usar palavras sinônimas que, na linguagem natural, parecem manter o sentido, mas que, na lógica formal, não garantem a equivalência. Exemplo: \"mas\" tem valor de \"e\" (conjunção).",
+      "content_type": "teoria"
+    }
+  ],
+  "topicos": [
+    {
+      "external_topic_code": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-33-equivalências_top_001",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-33-equivalências",
+      "parent_topic_id": null,
+      "topic_number": "3",
+      "title": "Lógica sentencial (ou proposicional)",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 1
+    },
+    {
+      "external_topic_code": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-33-equivalências_top_002",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-33-equivalências",
+      "parent_topic_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-33-equivalências_top_001",
+      "topic_number": "3.3",
+      "title": "Equivalências",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 2
+    }
+  ],
+  "topico_componentes": [
+    {
+      "component_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-33-equivalências_cmp_id_001",
+      "topic_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-33-equivalências_top_002",
+      "component_type": "introducao",
+      "content": "",
+      "order": 1
+    },
+    {
+      "component_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-33-equivalências_cmp_id_002",
+      "topic_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-33-equivalências_top_002",
+      "component_type": "explicacao_tecnica",
+      "content": "",
+      "order": 2
+    },
+    {
+      "component_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-33-equivalências_cmp_id_003",
+      "topic_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-33-equivalências_top_002",
+      "component_type": "secao_principal",
+      "content": "",
+      "order": 3
+    },
+    {
+      "component_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-33-equivalências_cmp_id_004",
+      "topic_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-33-equivalências_top_002",
+      "component_type": "subsecao",
+      "content": "",
+      "order": 4
+    },
+    {
+      "component_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-33-equivalências_cmp_id_005",
+      "topic_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-33-equivalências_top_002",
+      "component_type": "subsecao",
+      "content": "",
+      "order": 5
+    },
+    {
+      "component_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-33-equivalências_cmp_id_006",
+      "topic_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-33-equivalências_top_002",
+      "component_type": "subsecao",
+      "content": "",
+      "order": 6
+    },
+    {
+      "component_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-33-equivalências_cmp_id_007",
+      "topic_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-33-equivalências_top_002",
+      "component_type": "subsubsecao",
+      "content": "",
+      "order": 7
+    },
+    {
+      "component_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-33-equivalências_cmp_id_008",
+      "topic_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-33-equivalências_top_002",
+      "component_type": "subsubsecao",
+      "content": "",
+      "order": 8
+    },
+    {
+      "component_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-33-equivalências_cmp_id_009",
+      "topic_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-33-equivalências_top_002",
+      "component_type": "subsecao",
+      "content": "",
+      "order": 9
+    },
+    {
+      "component_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-33-equivalências_cmp_id_010",
+      "topic_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-33-equivalências_top_002",
+      "component_type": "subsubsecao",
+      "content": "",
+      "order": 10
+    },
+    {
+      "component_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-33-equivalências_cmp_id_011",
+      "topic_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-33-equivalências_top_002",
+      "component_type": "subsubsecao",
+      "content": "",
+      "order": 11
+    },
+    {
+      "component_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-33-equivalências_cmp_id_012",
+      "topic_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-33-equivalências_top_002",
+      "component_type": "padrao_banca",
+      "content": "",
+      "order": 12
+    },
+    {
+      "component_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-33-equivalências_cmp_id_013",
+      "topic_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-33-equivalências_top_002",
+      "component_type": "foco_cobranca",
+      "content": "",
+      "order": 13
+    },
+    {
+      "component_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-33-equivalências_cmp_id_014",
+      "topic_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-33-equivalências_top_002",
+      "component_type": "pegadinhas",
+      "content": "",
+      "order": 14
+    },
+    {
+      "component_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-33-equivalências_cmp_id_015",
+      "topic_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-33-equivalências_top_002",
+      "component_type": "pegadinha_detalhe",
+      "content": "",
+      "order": 15
+    },
+    {
+      "component_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-33-equivalências_cmp_id_016",
+      "topic_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-33-equivalências_top_002",
+      "component_type": "pegadinha_detalhe",
+      "content": "",
+      "order": 16
+    },
+    {
+      "component_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-33-equivalências_cmp_id_017",
+      "topic_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-33-equivalências_top_002",
+      "component_type": "pegadinha_detalhe",
+      "content": "",
+      "order": 17
+    },
+    {
+      "component_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-33-equivalências_cmp_id_018",
+      "topic_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-33-equivalências_top_002",
+      "component_type": "pegadinha_detalhe",
+      "content": "",
+      "order": 18
+    },
+    {
+      "component_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-33-equivalências_cmp_id_019",
+      "topic_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-33-equivalências_top_002",
+      "component_type": "pegadinha_detalhe",
+      "content": "",
+      "order": 19
+    }
+  ],
+  "pegadinhas": [
+    {
+      "trap_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-33-equivalências_peg_id_001",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-33-equivalências",
+      "topic_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-33-equivalências_top_002",
+      "title": "Confusão entre Equivalência e Negação/Implicação",
+      "description": "O CEBRASPE frequentemente apresenta uma negação ou uma implicação como se fosse uma equivalência, testando a distinção do candidato. É crucial lembrar que equivalência exige a mesma tabela-verdade.",
+      "example_error": "Afirmar que P → Q é equivalente a Q → P (inversão simples, sem negação, não é equivalência).",
+      "how_to_avoid": "Sempre verifique se a proposição proposta mantém o mesmo valor lógico em todas as situações possíveis, não apenas em algumas. Conheça as regras de negação e equivalência separadamente.",
+      "order": 1
+    },
+    {
+      "trap_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-33-equivalências_peg_id_002",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-33-equivalências",
+      "topic_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-33-equivalências_top_002",
+      "title": "Erros na Aplicação das Leis de De Morgan",
+      "description": "As Leis de De Morgan são frequentemente mal aplicadas. Os erros comuns incluem: 1) Negar apenas uma das proposições simples; 2) Não trocar o conectivo (manter 'E' ou 'OU'); 3) Trocar o conectivo de forma incorreta (ex: 'E' por 'E', 'OU' por 'OU').",
+      "example_error": "Negação de \"P e Q\" como \"não P e não Q\" (erro: manteve o 'e').",
+      "how_to_avoid": "Memorize as regras: 'nega tudo e troca o conectivo'. Para 'E', vira 'OU'. Para 'OU', vira 'E'.",
+      "order": 2
+    },
+    {
+      "trap_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-33-equivalências_peg_id_003",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-33-equivalências",
+      "topic_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-33-equivalências_top_002",
+      "title": "Erros na Contrapositiva da Condicional",
+      "description": "A contrapositiva (P → Q ≡ ~Q → ~P) é uma das equivalências mais exploradas. A pegadinha consiste em apresentar uma inversão sem negação, ou uma negação sem inversão.",
+      "example_error": "Afirmar que \"Se P, então Q\" é equivalente a \"Se Q, então P\" (inversão simples, sem negação).",
+      "how_to_avoid": "Lembre-se da regra: 'inverte e nega AMBAS'. Ambas as partes devem ser negadas e ter suas posições trocadas.",
+      "order": 3
+    },
+    {
+      "trap_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-33-equivalências_peg_id_004",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-33-equivalências",
+      "topic_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-33-equivalências_top_002",
+      "title": "Confusão entre Negação da Condicional e Equivalência",
+      "description": "A negação de uma condicional (P → Q) é P ∧ ~Q. Esta é uma regra de negação, não uma equivalência. O CEBRASPE pode tentar confundir o candidato apresentando P ∧ ~Q como uma equivalência de P → Q.",
+      "example_error": "Afirmar que \"Se estudo, então sou aprovado\" é equivalente a \"Estudo E não sou aprovado\".",
+      "how_to_avoid": "Distinguir claramente as regras de negação das regras de equivalência. A negação da condicional é uma regra específica e não deve ser confundida com suas equivalências.",
+      "order": 4
+    },
+    {
+      "trap_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-33-equivalências_peg_id_005",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-33-equivalências",
+      "topic_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-33-equivalências_top_002",
+      "title": "Uso de Conectivos com Sentido Ambíguo na Linguagem Natural",
+      "description": "Palavras como 'mas', 'contudo', 'entretanto' na linguagem natural têm valor de conjunção ('E') na lógica proposicional. O CEBRASPE pode usar esses termos para testar se o candidato identifica corretamente o conectivo lógico subjacente.",
+      "example_error": "Interpretar 'P, mas Q' como uma disjunção ou outra operação lógica que não seja a conjunção.",
+      "how_to_avoid": "Conhecer a tradução dos conectivos da linguagem natural para a simbologia lógica. 'Mas' = 'E'.",
+      "order": 5
+    }
+  ],
+  "pontos_memorizacao": [
+    {
+      "memory_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-33-equivalências_mem_id_001",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-33-equivalências",
+      "topic_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-33-equivalências_top_002",
+      "title": "Dupla Negação",
+      "content": "~(~P) ≡ P",
+      "order": 1
+    },
+    {
+      "memory_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-33-equivalências_mem_id_002",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-33-equivalências",
+      "topic_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-33-equivalências_top_002",
+      "title": "Leis de De Morgan (Conjunção)",
+      "content": "~(P ∧ Q) ≡ ~P ∨ ~Q",
+      "order": 2
+    },
+    {
+      "memory_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-33-equivalências_mem_id_003",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-33-equivalências",
+      "topic_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-33-equivalências_top_002",
+      "title": "Leis de De Morgan (Disjunção)",
+      "content": "~(P ∨ Q) ≡ ~P ∧ ~Q",
+      "order": 3
+    },
+    {
+      "memory_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-33-equivalências_mem_id_004",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-33-equivalências",
+      "topic_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-33-equivalências_top_002",
+      "title": "Equivalência da Condicional (Contrapositiva)",
+      "content": "P → Q ≡ ~Q → ~P (Inverte e Nega)",
+      "order": 4
+    },
+    {
+      "memory_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-33-equivalências_mem_id_005",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-33-equivalências",
+      "topic_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-33-equivalências_top_002",
+      "title": "Equivalência da Condicional (Disjunção)",
+      "content": "P → Q ≡ ~P ∨ Q (Nega a 1ª, OU, Mantém a 2ª)",
+      "order": 5
+    },
+    {
+      "memory_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-33-equivalências_mem_id_006",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-33-equivalências",
+      "topic_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-33-equivalências_top_002",
+      "title": "Equivalência da Bicondicional (Conjunção de Condicionais)",
+      "content": "P ↔ Q ≡ (P → Q) ∧ (Q → P)",
+      "order": 6
+    },
+    {
+      "memory_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-33-equivalências_mem_id_007",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-33-equivalências",
+      "topic_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-33-equivalências_top_002",
+      "title": "Equivalência da Bicondicional (Disjunção de Conjunções)",
+      "content": "P ↔ Q ≡ (P ∧ Q) ∨ (~P ∧ ~Q)",
+      "order": 7
+    }
+  ],
+  "quadro_sinotico_itens": [
+    {
+      "summary_item_id": "sum_001",
+      "title": null,
+      "content": "Dupla Negação",
+      "order": 1
+    },
+    {
+      "summary_item_id": "sum_002",
+      "title": null,
+      "content": "Negação da Conjunção",
+      "order": 2
+    },
+    {
+      "summary_item_id": "sum_003",
+      "title": null,
+      "content": "Negação da Disjunção",
+      "order": 3
+    },
+    {
+      "summary_item_id": "sum_004",
+      "title": null,
+      "content": "Contrapositiva (Inverte e Nega)",
+      "order": 4
+    },
+    {
+      "summary_item_id": "sum_005",
+      "title": null,
+      "content": "Disjunção Inclusiva (Nega a 1ª, OU, Mantém a 2ª)",
+      "order": 5
+    },
+    {
+      "summary_item_id": "sum_006",
+      "title": null,
+      "content": "Conjunção de Condicionais",
+      "order": 6
+    },
+    {
+      "summary_item_id": "sum_007",
+      "title": null,
+      "content": "Disjunção de Conjunções (Mesmo Valor Lógico)",
+      "order": 7
+    }
+  ],
+  "questoes": [
+    {
+      "question_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-33-equivalências_qst_id_001",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-33-equivalências",
+      "topic_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-33-equivalências_top_002",
+      "board": "CEBRASPE",
+      "year": 2023,
+      "organization": null,
+      "role": null,
+      "statement": "A proposição lógica \"Se o candidato estuda, então ele será aprovado\" é equivalente a \"Se o candidato não for aprovado, então ele não estuda\".",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": "Fácil",
+      "external_reference": "Questão adaptada CEBRASPE (Contrapositiva)",
+      "commentary": null,
+      "commentary_meta": {}
+    },
+    {
+      "question_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-33-equivalências_qst_id_002",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-33-equivalências",
+      "topic_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-33-equivalências_top_002",
+      "board": "CEBRASPE",
+      "year": 2022,
+      "organization": null,
+      "role": null,
+      "statement": "A proposição \"Não é verdade que João é médico e Maria é advogada\" é logicamente equivalente a \"João não é médico ou Maria não é advogada\".",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": "Fácil",
+      "external_reference": "Questão adaptada CEBRASPE (Leis de De Morgan)",
+      "commentary": null,
+      "commentary_meta": {}
+    },
+    {
+      "question_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-33-equivalências_qst_id_003",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-33-equivalências",
+      "topic_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-33-equivalências_top_002",
+      "board": "CEBRASPE",
+      "year": 2024,
+      "organization": null,
+      "role": null,
+      "statement": "A proposição \"Se o sistema está seguro, então os dados estão protegidos\" possui como uma de suas equivalências a proposição \"O sistema não está seguro ou os dados estão protegidos\".",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": "Média",
+      "external_reference": "Questão adaptada CEBRASPE (Equivalência da Condicional - Disjunção)",
+      "commentary": null,
+      "commentary_meta": {}
+    },
+    {
+      "question_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-33-equivalências_qst_id_004",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-33-equivalências",
+      "topic_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-33-equivalências_top_002",
+      "board": "CEBRASPE",
+      "year": 2023,
+      "organization": null,
+      "role": null,
+      "statement": "Considerando a proposição P: \"O sol brilha e o dia está quente\", sua negação ~(P) é logicamente equivalente a \"O sol não brilha ou o dia não está quente\".",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": "Fácil",
+      "external_reference": "Questão adaptada CEBRASPE (Leis de De Morgan)",
+      "commentary": null,
+      "commentary_meta": {}
+    },
+    {
+      "question_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-33-equivalências_qst_id_005",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-33-equivalências",
+      "topic_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-33-equivalências_top_002",
+      "board": "CEBRASPE",
+      "year": 2022,
+      "organization": null,
+      "role": null,
+      "statement": "A proposição \"Pedro é inteligente se e somente se ele estuda\" é logicamente equivalente a \"(Se Pedro é inteligente, então ele estuda) e (Se Pedro estuda, então ele é inteligente)\".",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": "Média",
+      "external_reference": "Questão adaptada CEBRASPE (Equivalência da Bicondicional)",
+      "commentary": null,
+      "commentary_meta": {}
+    },
+    {
+      "question_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-33-equivalências_qst_id_006",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-33-equivalências",
+      "topic_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-33-equivalências_top_002",
+      "board": "CEBRASPE",
+      "year": 2024,
+      "organization": null,
+      "role": null,
+      "statement": "A proposição \"Não é verdade que (se chove, então faz frio)\" é logicamente equivalente a \"Chove e não faz frio\".",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": "Difícil",
+      "external_reference": "Questão adaptada CEBRASPE (Negação da Condicional)",
+      "commentary": null,
+      "commentary_meta": {}
+    },
+    {
+      "question_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-33-equivalências_qst_id_007",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-33-equivalências",
+      "topic_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-33-equivalências_top_002",
+      "board": "CEBRASPE",
+      "year": 2023,
+      "organization": null,
+      "role": null,
+      "statement": "A proposição \"Se o time joga bem, então ele vence\" é equivalente a \"O time não joga bem ou ele vence\".",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": "Fácil",
+      "external_reference": "Questão adaptada CEBRASPE (Equivalência da Condicional - Disjunção)",
+      "commentary": null,
+      "commentary_meta": {}
+    },
+    {
+      "question_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-33-equivalências_qst_id_008",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-33-equivalências",
+      "topic_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-33-equivalências_top_002",
+      "board": "CEBRASPE",
+      "year": 2022,
+      "organization": null,
+      "role": null,
+      "statement": "A proposição \"Não é verdade que (o carro é novo ou é econômico)\" é logicamente equivalente a \"O carro não é novo e não é econômico\".",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": "Fácil",
+      "external_reference": "Questão adaptada CEBRASPE (Leis de De Morgan)",
+      "commentary": null,
+      "commentary_meta": {}
+    },
+    {
+      "question_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-33-equivalências_qst_id_009",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-33-equivalências",
+      "topic_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-33-equivalências_top_002",
+      "board": "CEBRASPE",
+      "year": 2024,
+      "organization": null,
+      "role": null,
+      "statement": "A proposição \"Se o governo investe em educação, então a sociedade progride\" é equivalente a \"Se a sociedade não progride, então o governo não investe em educação\".",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": "Fácil",
+      "external_reference": "Questão adaptada CEBRASPE (Contrapositiva)",
+      "commentary": null,
+      "commentary_meta": {}
+    }
+  ],
+  "comentarios_questoes": [
+    {
+      "comment_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-33-equivalências_com_id_001",
+      "question_id": "qst_001",
+      "content": "A questão aborda a equivalência da proposição condicional (Se P, então Q) pela contrapositiva. A regra da contrapositiva estabelece que P → Q é equivalente a ~Q → ~P. Aplicando essa regra à proposição \"Se o candidato estuda (P), então ele será aprovado (Q)\", obtemos \"Se o candidato não for aprovado (~Q), então ele não estuda (~P)\". Portanto, o item está Certo. Esta é uma das equivalências mais cobradas pelo CEBRASPE.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-33-equivalências_com_id_002",
+      "question_id": "qst_002",
+      "content": "A questão trata da aplicação das Leis de De Morgan para a negação de uma conjunção. A regra estabelece que ~(P ∧ Q) ≡ ~P ∨ ~Q. A proposição original é \"João é médico (P) e Maria é advogada (Q)\". Sua negação é \"Não é verdade que (João é médico e Maria é advogada)\". Aplicando De Morgan, temos \"João não é médico (~P) ou Maria não é advogada (~Q)\". Portanto, o item está Certo.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-33-equivalências_com_id_003",
+      "question_id": "qst_003",
+      "content": "Esta questão explora a equivalência da proposição condicional (Se P, então Q) pela disjunção inclusiva. A regra é P → Q ≡ ~P ∨ Q. Aplicando à proposição \"Se o sistema está seguro (P), então os dados estão protegidos (Q)\", obtemos \"O sistema não está seguro (~P) ou os dados estão protegidos (Q)\". Portanto, o item está Certo.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-33-equivalências_com_id_004",
+      "question_id": "qst_004",
+      "content": "A questão é uma aplicação direta das Leis de De Morgan para a negação de uma conjunção. A proposição P é \"O sol brilha (A) e o dia está quente (B)\". A negação de P, ~(A ∧ B), é equivalente a ~A ∨ ~B. Assim, \"O sol não brilha ou o dia não está quente\" é a negação correta. Portanto, o item está Certo.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-33-equivalências_com_id_005",
+      "question_id": "qst_005",
+      "content": "A questão aborda a equivalência da proposição bicondicional (P se e somente se Q). Uma das equivalências da bicondicional é a conjunção de duas condicionais: P ↔ Q ≡ (P → Q) ∧ (Q → P). A proposição \"Pedro é inteligente (P) se e somente se ele estuda (Q)\" é equivalente a \"(Se Pedro é inteligente, então ele estuda) e (Se Pedro estuda, então ele é inteligente)\". Portanto, o item está Certo.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-33-equivalências_com_id_006",
+      "question_id": "qst_006",
+      "content": "Esta questão testa a negação de uma proposição condicional. A negação de (P → Q) é P ∧ ~Q. A proposição original é \"Se chove (P), então faz frio (Q)\". A negação dessa condicional é \"Chove (P) e não faz frio (~Q)\". A questão pede a equivalência da negação, e a forma apresentada é exatamente a regra da negação da condicional. Portanto, o item está Certo.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-33-equivalências_com_id_007",
+      "question_id": "qst_007",
+      "content": "Similar à questão 3, esta é uma aplicação da equivalência da condicional pela disjunção inclusiva. P → Q ≡ ~P ∨ Q. \"Se o time joga bem (P), então ele vence (Q)\" é equivalente a \"O time não joga bem (~P) ou ele vence (Q)\". Portanto, o item está Certo.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-33-equivalências_com_id_008",
+      "question_id": "qst_008",
+      "content": "Esta questão é outra aplicação das Leis de De Morgan, desta vez para a negação de uma disjunção. A regra estabelece que ~(P ∨ Q) ≡ ~P ∧ ~Q. A proposição original é \"O carro é novo (P) ou é econômico (Q)\". Sua negação é \"Não é verdade que (o carro é novo ou é econômico)\". Aplicando De Morgan, temos \"O carro não é novo (~P) e não é econômico (~Q)\". Portanto, o item está Certo.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-33-equivalências_com_id_009",
+      "question_id": "qst_009",
+      "content": "Esta questão é uma aplicação direta da equivalência da condicional pela contrapositiva. P → Q ≡ ~Q → ~P. A proposição \"Se o governo investe em educação (P), então a sociedade progride (Q)\" é equivalente a \"Se a sociedade não progride (~Q), então o governo não investe em educação (~P)\". Portanto, o item está Certo.",
+      "explanation_alternatives": ""
+    }
+  ],
+  "checklist_revisao": [
+    {
+      "checklist_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-33-equivalências_chk_id_001",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-33-equivalências",
+      "topic_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-33-equivalências_top_002",
+      "item_text": "Checklist 1",
+      "completed": false,
+      "order": 1
+    },
+    {
+      "checklist_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-33-equivalências_chk_id_002",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-33-equivalências",
+      "topic_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-33-equivalências_top_002",
+      "item_text": "Checklist 2",
+      "completed": false,
+      "order": 2
+    },
+    {
+      "checklist_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-33-equivalências_chk_id_003",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-33-equivalências",
+      "topic_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-33-equivalências_top_002",
+      "item_text": "Checklist 3",
+      "completed": false,
+      "order": 3
+    },
+    {
+      "checklist_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-33-equivalências_chk_id_004",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-33-equivalências",
+      "topic_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-33-equivalências_top_002",
+      "item_text": "Checklist 4",
+      "completed": false,
+      "order": 4
+    },
+    {
+      "checklist_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-33-equivalências_chk_id_005",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-33-equivalências",
+      "topic_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-33-equivalências_top_002",
+      "item_text": "Checklist 5",
+      "completed": false,
+      "order": 5
+    },
+    {
+      "checklist_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-33-equivalências_chk_id_006",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-33-equivalências",
+      "topic_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-33-equivalências_top_002",
+      "item_text": "Checklist 6",
+      "completed": false,
+      "order": 6
+    },
+    {
+      "checklist_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-33-equivalências_chk_id_007",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-33-equivalências",
+      "topic_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-33-equivalências_top_002",
+      "item_text": "Checklist 7",
+      "completed": false,
+      "order": 7
+    },
+    {
+      "checklist_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-33-equivalências_chk_id_008",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-33-equivalências",
+      "topic_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-33-equivalências_top_002",
+      "item_text": "Checklist 8",
+      "completed": false,
+      "order": 8
+    },
+    {
+      "checklist_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-33-equivalências_chk_id_009",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-33-equivalências",
+      "topic_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-33-equivalências_top_002",
+      "item_text": "Checklist 9",
+      "completed": false,
+      "order": 9
+    }
+  ],
+  "referencias": [
+    {
+      "reference_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-33-equivalências_ref_id_001",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-33-equivalências",
+      "reference_type": "Bibliografia Técnica Consolidada",
+      "author_name": null,
+      "title": "Livros e materiais didáticos de Raciocínio Lógico para concursos, reconhecidos no mercado.",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": null,
+      "accessed_at": null,
+      "description": "Livros e materiais didáticos de Raciocínio Lógico para concursos, reconhecidos no mercado."
+    },
+    {
+      "reference_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-33-equivalências_ref_id_002",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-33-equivalências",
+      "reference_type": "Questões Anteriores da Banca CEBRASPE",
+      "author_name": null,
+      "title": "Análise de provas e questões de Raciocínio Lógico aplicadas pelo CEBRASPE em concursos públicos recentes.",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": null,
+      "accessed_at": null,
+      "description": "Análise de provas e questões de Raciocínio Lógico aplicadas pelo CEBRASPE em concursos públicos recentes."
+    },
+    {
+      "reference_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-33-equivalências_ref_id_003",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-33-equivalências",
+      "reference_type": "Plataformas de Questões e Aulas Online",
+      "author_name": null,
+      "title": "Conteúdo de plataformas como Estratégia Concursos, Qconcursos, Gran Cursos Online e canais especializados no YouTube focados em Raciocínio Lógico para concursos.",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": null,
+      "accessed_at": null,
+      "description": "Conteúdo de plataformas como Estratégia Concursos, Qconcursos, Gran Cursos Online e canais especializados no YouTube focados em Raciocínio Lógico para concursos."
+    }
+  ],
+  "estatisticas_de_geracao": {
+    "total_topicos": 2,
+    "total_componentes_topico": 19,
+    "total_entendimentos_relevantes": 8,
+    "total_pegadinhas": 5,
+    "total_pontos_memorizacao": 7,
+    "total_itens_quadro_sinotico": 7,
+    "total_questoes": 9,
+    "total_comentarios_questoes": 9,
+    "total_itens_checklist": 9,
+    "total_referencias": 3
+  },
+  "validacao_interna": {
+    "pesquisa_previa_realizada": true,
+    "analise_de_cobrancas_anteriores_realizada": true,
+    "material_atualizado": true,
+    "json_valido": true,
+    "estrutura_relacional_respeitada": true,
+    "numeracao_respeitada": true,
+    "houve_quebra_de_hierarquia": false,
+    "houve_nivel_numerico_superior_a_3": false,
+    "fontes_verificadas": true,
+    "sem_informacao_inventada": true
+  },
+  "metadata": {
+    "source_file_name": "3__raciocínio-lógico-e-noções-de-estatística__3-lógica-sentencial-ou-proposicional-3.3-equivalências.json",
+    "normalized_checksum": "de8cbdd42b2dcf2b6ce670283c24eb142fadb4c1eb628568180a3bea4c0bd59a",
+    "subject_slug": "rlog-estat",
+    "material_slug": "logica-sentencial-equivalencias-cebraspe",
+    "title_slug": "logica-sentencial-equivalencias-logicas-para",
+    "board_slug": "cebraspe",
+    "counters": {
+      "blocks": 19,
+      "topics": 2,
+      "topic_components": 19,
+      "traps": 5,
+      "memory_points": 7,
+      "summary_items": 7,
+      "questions": 9,
+      "question_comments": 9,
+      "checklist_items": 9,
+      "references": 3
+    }
+  }
+}

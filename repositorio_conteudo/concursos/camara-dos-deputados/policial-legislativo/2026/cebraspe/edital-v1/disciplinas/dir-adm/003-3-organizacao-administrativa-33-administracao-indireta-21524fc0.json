@@ -1,0 +1,1155 @@
+{
+  "schema_version": "1.0",
+  "normalized_at": "2026-04-07T15:39:13.868837-03:00",
+  "normalizer_version": "2.0.0",
+  "exported_at": "2026-04-07T17:12:00Z",
+  "source_request": {
+    "purpose": "Concurso público",
+    "general_area": "Direito",
+    "subject_name": "Direito Administrativo",
+    "subarea_name": "Direito Administrativo",
+    "main_theme": "3 Organização administrativa: 3.3 Administração indireta: 3.3.1 Conceito",
+    "theme_scope": "Teoria completa, incidência em prova, padrão de cobrança da banca, pegadinhas e questões comentadas",
+    "board_style": "CEBRASPE",
+    "depth_level": "Exaustivo",
+    "goal": "Teoria completa, revisão estratégica, pegadinhas e questões comentadas",
+    "base_topic_number": "3",
+    "topic_title": "3 Organização administrativa: 3.3 Administração indireta: 3.3.1 Conceito",
+    "syllabus_reference": "Conteúdo programático da disciplina Direito Administrativo",
+    "priority_sources": [
+      "Constituição Federal e legislação oficial vigente",
+      "Jurisprudência pertinente e atual, quando cabível",
+      "Doutrina consolidada",
+      "Questões anteriores da banca"
+    ],
+    "minimum_questions": 8,
+    "question_format": "Certo/Errado",
+    "prioritize_real_questions": true,
+    "response_language": "português",
+    "target_audience": "Candidato de concurso público",
+    "additional_notes": "Executar exatamente para esta linha individual do topicos.txt. Não juntar com outros tópicos. Não pular este tópico. Dar destaque ao padrão de cobrança da banca, aos pontos mais cobrados e às pegadinhas recorrentes.",
+    "input_hash": "d36b9cb2d70c",
+    "extras": {}
+  },
+  "material": {
+    "material_id": "mat_001",
+    "slug": "administracao-indireta-conceito-cebraspe",
+    "title": "Administração Indireta: Conceito e Entidades para Concursos CEBRASPE",
+    "base_number": "3",
+    "topic_title": "3 Organização administrativa: 3.3 Administração indireta: 3.3.1 Conceito",
+    "purpose": "Concurso público",
+    "area_name": "Direito",
+    "subject_name": "Direito Administrativo",
+    "subarea_name": "Direito Administrativo",
+    "main_theme": "Organização administrativa: Administração indireta: Conceito",
+    "theme_scope": "Teoria completa, incidência em prova, padrão de cobrança da banca, pegadinhas e questões comentadas",
+    "board_style": "CEBRASPE",
+    "depth_level": "Exaustivo",
+    "study_goal": "Teoria completa, revisão estratégica, pegadinhas e questões comentadas",
+    "target_audience": "Candidato de concurso público",
+    "language_code": "português",
+    "update_status": "Atualizado em 07 de abril de 2026",
+    "current_note": "O material foi elaborado com base na Constituição Federal de 1988, legislação vigente (como a Lei nº 13.303/2016 para estatais), doutrina consolidada e entendimentos jurisprudenciais atuais e pertinentes, especialmente do Supremo Tribunal Federal (STF) e Superior Tribunal de Justiça (STJ), quando aplicáveis ao conceito e criação das entidades da Administração Indireta. A análise do padrão de cobrança da banca CEBRASPE foi priorizada para destacar os pontos mais relevantes e as pegadinhas comuns.",
+    "has_case_law": true,
+    "case_law_justification": "A jurisprudência é relevante para consolidar o entendimento sobre a natureza jurídica de certas entidades e os requisitos para sua criação e extinção, como a interpretação do Art. 37, XIX, da CF/88 e a natureza jurídica da OAB, frequentemente abordados em provas.",
+    "has_information_limitation": false,
+    "information_limitation_desc": null,
+    "content_checksum": "placeholder_checksum",
+    "extras": {}
+  },
+  "blocos_textuais": [
+    {
+      "external_block_code": "blc_001",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 1,
+      "title": "Introdução à Organização Administrativa",
+      "content": "A Administração Pública brasileira, para atuar de forma mais eficiente e especializada, organiza-se em Administração Direta e Indireta. A Administração Indireta surge como um instrumento de descentralização administrativa, permitindo que o Estado desempenhe suas funções por meio de outras pessoas jurídicas, dotadas de personalidade jurídica própria e autonomia, embora vinculadas à Administração Direta.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_002",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 2,
+      "title": "Descentralização vs. Desconcentração",
+      "content": "É fundamental distinguir os conceitos de descentralização e desconcentração, frequentemente cobrados em provas do CEBRASPE. A **descentralização** ocorre quando o Estado transfere a titularidade e/ou a execução de um serviço para outra pessoa jurídica, seja ela de direito público ou privado. Isso implica a criação de uma nova entidade e a ruptura do vínculo hierárquico entre o ente central e a entidade descentralizada, existindo apenas um controle finalístico (tutela ou supervisão ministerial). Já a **desconcentração** é a distribuição interna de competências dentro da *mesma* pessoa jurídica, ou seja, a criação de órgãos sem personalidade jurídica própria. Nesse caso, o vínculo hierárquico permanece.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_003",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 3,
+      "title": "Conceito de Administração Indireta",
+      "content": "A Administração Indireta é o conjunto de pessoas jurídicas de direito público ou privado, criadas ou autorizadas por lei, para desempenhar atividades administrativas de interesse coletivo de maneira descentralizada, com personalidade jurídica e patrimônio próprios, e sujeitas a controle finalístico pelo ente que as instituiu. Ela é composta por autarquias, fundações públicas, empresas públicas e sociedades de economia mista.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_004",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 4,
+      "title": "Características Comuns da Administração Indireta",
+      "content": "As entidades da Administração Indireta, apesar de suas particularidades, compartilham características essenciais: possuem personalidade jurídica própria (distinta do ente federativo que as criou), detêm autonomia administrativa e financeira (dentro dos limites legais), e estão sujeitas à supervisão ministerial ou controle finalístico, e não a subordinação hierárquica.",
+      "content_type": "teoria"
+    }
+  ],
+  "topicos": [
+    {
+      "external_topic_code": "top_001",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "3.3.1",
+      "title": "Conceito de Administração Indireta",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 1
+    },
+    {
+      "external_topic_code": "top_002",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "3.3.1.1",
+      "title": "Descentralização Administrativa",
+      "reference_block_external_id": null,
+      "level": 4,
+      "order": 2
+    },
+    {
+      "external_topic_code": "top_003",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "3.3.1.2",
+      "title": "Entidades da Administração Indireta",
+      "reference_block_external_id": null,
+      "level": 4,
+      "order": 3
+    },
+    {
+      "external_topic_code": "top_004",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "3.3.1.2.1",
+      "title": "Autarquias",
+      "reference_block_external_id": null,
+      "level": 5,
+      "order": 4
+    },
+    {
+      "external_topic_code": "top_005",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "3.3.1.2.2",
+      "title": "Fundações Públicas",
+      "reference_block_external_id": null,
+      "level": 5,
+      "order": 5
+    },
+    {
+      "external_topic_code": "top_006",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "3.3.1.2.3",
+      "title": "Empresas Públicas",
+      "reference_block_external_id": null,
+      "level": 5,
+      "order": 6
+    },
+    {
+      "external_topic_code": "top_007",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "3.3.1.2.4",
+      "title": "Sociedades de Economia Mista",
+      "reference_block_external_id": null,
+      "level": 5,
+      "order": 7
+    },
+    {
+      "external_topic_code": "top_008",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "3.3.1.3",
+      "title": "Regime Jurídico e Controle",
+      "reference_block_external_id": null,
+      "level": 4,
+      "order": 8
+    }
+  ],
+  "topico_componentes": [
+    {
+      "component_id": "cmp_001",
+      "topic_id": "top_001",
+      "component_type": "texto",
+      "content": "A Administração Indireta é uma das formas de organização da Administração Pública, caracterizada pela descentralização de funções. Ela é composta por entidades com personalidade jurídica própria, criadas ou autorizadas por lei para desempenhar atividades específicas que seriam, originalmente, do Estado.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_002",
+      "topic_id": "top_002",
+      "component_type": "texto",
+      "content": "A descentralização é a técnica pela qual o Estado transfere a execução de serviços ou a titularidade e execução para outra pessoa jurídica. Essa transferência pode ocorrer de duas formas principais: por outorga (ou legal), quando a lei cria a entidade e lhe confere a titularidade e execução do serviço; ou por delegação (ou negocial), quando a Administração transfere apenas a execução do serviço a particulares (concessão, permissão, autorização). A Administração Indireta é um exemplo de descentralização por outorga.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_003",
+      "topic_id": "top_003",
+      "component_type": "texto",
+      "content": "As entidades que compõem a Administração Indireta são: Autarquias, Fundações Públicas, Empresas Públicas e Sociedades de Economia Mista. O Art. 37, inciso XIX, da Constituição Federal de 1988, é o marco legal para a criação dessas entidades, estabelecendo que 'somente por lei específica poderá ser criada autarquia e autorizada a instituição de empresa pública, de sociedade de economia mista e de fundação, cabendo à lei complementar, neste último caso, definir as áreas de sua atuação'.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_004",
+      "topic_id": "top_004",
+      "component_type": "texto",
+      "content": "**Conceito:** São pessoas jurídicas de direito público, criadas por lei específica para desempenhar atividades típicas de Estado, que requeiram, para seu melhor funcionamento, gestão administrativa e financeira descentralizada.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_005",
+      "topic_id": "top_004",
+      "component_type": "lista",
+      "content": "",
+      "order": 2
+    },
+    {
+      "component_id": "cmp_006",
+      "topic_id": "top_005",
+      "component_type": "texto",
+      "content": "**Conceito:** Entidades dotadas de personalidade jurídica (de direito público ou privado), com patrimônio próprio, criadas por autorização de lei para o desenvolvimento de atividades não lucrativas de interesse público (educação, pesquisa, cultura, saúde, etc.).",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_007",
+      "topic_id": "top_005",
+      "component_type": "lista",
+      "content": "",
+      "order": 2
+    },
+    {
+      "component_id": "cmp_008",
+      "topic_id": "top_006",
+      "component_type": "texto",
+      "content": "**Conceito:** Pessoas jurídicas de direito privado, criadas por autorização de lei, com capital social integralmente público, para a exploração de atividade econômica ou a prestação de serviços públicos.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_009",
+      "topic_id": "top_006",
+      "component_type": "lista",
+      "content": "",
+      "order": 2
+    },
+    {
+      "component_id": "cmp_010",
+      "topic_id": "top_007",
+      "component_type": "texto",
+      "content": "**Conceito:** Pessoas jurídicas de direito privado, criadas por autorização de lei, sob a forma de sociedade anônima, com participação de capital público e privado, sendo que a maioria das ações com direito a voto pertence ao poder público ou a entidade da Administração Indireta. Exploram atividade econômica ou prestam serviços públicos.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_011",
+      "topic_id": "top_007",
+      "component_type": "lista",
+      "content": "",
+      "order": 2
+    },
+    {
+      "component_id": "cmp_012",
+      "topic_id": "top_008",
+      "component_type": "texto",
+      "content": "As entidades da Administração Indireta, embora dotadas de autonomia, não são independentes. Elas se submetem ao **controle finalístico** (também chamado de tutela ou supervisão ministerial) pelo ente federativo que as criou. Esse controle visa garantir que a entidade cumpra suas finalidades institucionais, sem, contudo, implicar subordinação hierárquica. O regime jurídico aplicável varia conforme a natureza da entidade (direito público ou privado), mas todas estão sujeitas aos princípios da Administração Pública (legalidade, impessoalidade, moralidade, publicidade e eficiência, conforme Art. 37, caput, da CF/88).",
+      "order": 1
+    }
+  ],
+  "pegadinhas": [
+    {
+      "trap_id": "peg_001",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": "Confusão entre Descentralização e Desconcentração",
+      "description": "O CEBRASPE frequentemente tenta confundir os conceitos, afirmando que a desconcentração cria novas pessoas jurídicas ou que a descentralização mantém o vínculo hierárquico. Lembre-se: descentralização = novas pessoas jurídicas, sem hierarquia; desconcentração = órgãos da mesma pessoa jurídica, com hierarquia.",
+      "example_error": "A atividade exercida por diversos órgãos de uma mesma entidade administrativa é considerada descentralizada.",
+      "how_to_avoid": "",
+      "order": 1
+    },
+    {
+      "trap_id": "peg_002",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": "Criação de Entidades da Administração Indireta",
+      "description": "A banca explora a diferença entre 'criada por lei específica' (autarquias) e 'autorizada por lei específica' (fundações, empresas públicas, sociedades de economia mista). A lei específica para autarquias já as cria; para as demais, a lei apenas autoriza, e a criação se completa com o registro de seus atos constitutivos.",
+      "example_error": "Todas as entidades da Administração Indireta são criadas diretamente por lei específica.",
+      "how_to_avoid": "",
+      "order": 2
+    },
+    {
+      "trap_id": "peg_003",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": "Subordinação Hierárquica na Administração Indireta",
+      "description": "É um erro comum afirmar que as entidades da Administração Indireta estão sujeitas à subordinação hierárquica do ente que as criou. O correto é que se submetem ao controle finalístico (tutela ou supervisão ministerial), que respeita a autonomia da entidade.",
+      "example_error": "As entidades da administração indireta federal integram a estrutura hierárquica da União e estão sujeitas à subordinação direta aos ministérios aos quais se vinculam.",
+      "how_to_avoid": "",
+      "order": 3
+    },
+    {
+      "trap_id": "peg_004",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": "Natureza Jurídica das Autarquias",
+      "description": "O CEBRASPE pode tentar atribuir personalidade jurídica de direito privado às autarquias. Lembre-se que autarquias são sempre pessoas jurídicas de direito público.",
+      "example_error": "As autarquias e fundações públicas são pessoas jurídicas de direito privado, razão pela qual possuem certa flexibilidade administrativa e contratual.",
+      "how_to_avoid": "",
+      "order": 4
+    }
+  ],
+  "pontos_memorizacao": [
+    {
+      "memory_id": "mem_001",
+      "material_id": null,
+      "topic_id": "top_001",
+      "title": null,
+      "content": "Administração Indireta = Descentralização (criação de novas pessoas jurídicas).",
+      "order": 1
+    },
+    {
+      "memory_id": "mem_002",
+      "material_id": null,
+      "topic_id": "top_002",
+      "title": null,
+      "content": "Descentralização: transfere para outra PJ, sem hierarquia (controle finalístico). Desconcentração: distribui dentro da mesma PJ, com hierarquia.",
+      "order": 2
+    },
+    {
+      "memory_id": "mem_003",
+      "material_id": null,
+      "topic_id": "top_003",
+      "title": null,
+      "content": "Entidades da Adm. Indireta: Autarquias, Fundações Públicas, Empresas Públicas, Sociedades de Economia Mista (Art. 37, XIX, CF/88).",
+      "order": 3
+    },
+    {
+      "memory_id": "mem_004",
+      "material_id": null,
+      "topic_id": "top_004",
+      "title": null,
+      "content": "Autarquia: PJ de Direito Público, criada por LEI ESPECÍFICA, regime público.",
+      "order": 4
+    },
+    {
+      "memory_id": "mem_005",
+      "material_id": null,
+      "topic_id": "top_005",
+      "title": null,
+      "content": "Fundação Pública: PJ de Direito Público ou Privado, AUTORIZADA por lei, lei complementar define área de atuação.",
+      "order": 5
+    },
+    {
+      "memory_id": "mem_006",
+      "material_id": null,
+      "topic_id": "top_006",
+      "title": null,
+      "content": "Empresa Pública: PJ de Direito Privado, AUTORIZADA por lei, capital 100% público, qualquer forma societária.",
+      "order": 6
+    },
+    {
+      "memory_id": "mem_007",
+      "material_id": null,
+      "topic_id": "top_007",
+      "title": null,
+      "content": "Sociedade de Economia Mista: PJ de Direito Privado, AUTORIZADA por lei, capital misto (controle estatal), forma de S.A.",
+      "order": 7
+    },
+    {
+      "memory_id": "mem_008",
+      "material_id": null,
+      "topic_id": "top_008",
+      "title": null,
+      "content": "Controle da Adm. Indireta: FINALÍSTICO (tutela/supervisão), NUNCA HIERÁRQUICO.",
+      "order": 8
+    }
+  ],
+  "quadro_sinotico_itens": [
+    {
+      "summary_item_id": "sum_001",
+      "title": null,
+      "content": "",
+      "order": 1
+    },
+    {
+      "summary_item_id": "sum_002",
+      "title": null,
+      "content": "",
+      "order": 2
+    },
+    {
+      "summary_item_id": "sum_003",
+      "title": null,
+      "content": "",
+      "order": 3
+    },
+    {
+      "summary_item_id": "sum_004",
+      "title": null,
+      "content": "",
+      "order": 4
+    },
+    {
+      "summary_item_id": "sum_005",
+      "title": null,
+      "content": "",
+      "order": 5
+    },
+    {
+      "summary_item_id": "sum_006",
+      "title": null,
+      "content": "",
+      "order": 6
+    },
+    {
+      "summary_item_id": "sum_007",
+      "title": null,
+      "content": "",
+      "order": 7
+    },
+    {
+      "summary_item_id": "sum_008",
+      "title": null,
+      "content": "",
+      "order": 8
+    }
+  ],
+  "questoes": [
+    {
+      "question_id": "qst_001",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": null,
+      "year": null,
+      "organization": null,
+      "role": null,
+      "statement": "A diferença preponderante entre os institutos da descentralização e da desconcentração é que, no primeiro, há a ruptura do vínculo hierárquico e, no segundo, esse vínculo permanece.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": null,
+      "external_reference": "CESPE (CEBRASPE) - Polícia Civil do Estado de Sergipe - Delegado de Polícia - 2018",
+      "commentary": "Certo. A descentralização ocorre quando o Estado transfere a titularidade e/ou a execução de um serviço para outra pessoa jurídica, o que implica a ruptura do vínculo hierárquico, restando apenas o controle finalístico. Já a desconcentração é a distribuição de competências dentro da mesma pessoa jurídica, mantendo-se o vínculo hierárquico. Essa é uma distinção clássica e muito cobrada em provas de Direito Administrativo.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_001"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_002",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": null,
+      "year": null,
+      "organization": null,
+      "role": null,
+      "statement": "As autarquias são criadas por lei específica, possuem personalidade jurídica própria de direito público e exercem atividades típicas da administração pública.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": null,
+      "external_reference": "CESPE (CEBRASPE) - Adaptada de questões sobre Administração Indireta",
+      "commentary": "Certo. As autarquias são, de fato, pessoas jurídicas de direito público, criadas diretamente por lei específica para o desempenho de atividades típicas de Estado, como fiscalização, regulação ou previdência. Possuem autonomia administrativa e financeira, mas estão sujeitas ao controle finalístico do ente que as instituiu.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_002"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_003",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": null,
+      "year": null,
+      "organization": null,
+      "role": null,
+      "statement": "As entidades compreendidas na administração indireta subordinam-se ao ministério em cuja área de competência estiver enquadrada sua principal atividade.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": null,
+      "external_reference": "CESPE (CEBRASPE) - Adaptada de questões sobre Administração Indireta",
+      "commentary": "Errado. As entidades da administração indireta não se subordinam hierarquicamente ao ministério ou órgão da administração direta. Elas estão sujeitas a um controle finalístico (tutela ou supervisão ministerial), que visa garantir o cumprimento de suas finalidades institucionais, mas sem interferir em sua autonomia gerencial e operacional. A subordinação é característica da desconcentração, não da descentralização.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_003"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_004",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": null,
+      "year": null,
+      "organization": null,
+      "role": null,
+      "statement": "As autarquias são pessoas jurídicas de direito privado, criadas por lei para realizar atividades de interesse social que não são típicas do Estado.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": null,
+      "external_reference": "CESPE (CEBRASPE) - Adaptada de questões sobre Administração Indireta",
+      "commentary": "Errado. As autarquias são pessoas jurídicas de direito *público*, e não de direito privado. Elas são criadas para desempenhar atividades *típicas* do Estado, como fiscalização, regulação, previdência, ensino, etc. A confusão da natureza jurídica é uma pegadinha comum.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_004"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_005",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": null,
+      "year": null,
+      "organization": null,
+      "role": null,
+      "statement": "Empresa pública é a entidade dotada de personalidade jurídica de direito privado, com criação autorizada por lei e com patrimônio próprio, cujo capital social é integralmente detido pela União, pelos Estados, pelo Distrito Federal ou pelos Municípios.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": null,
+      "external_reference": "FCC - Prefeitura de Caruaru - PE - Procurador do Município - 2018 (adaptada para CEBRASPE)",
+      "commentary": "Certo. A definição apresentada está em conformidade com o Art. 3º da Lei nº 13.303/2016 (Lei das Estatais) e com a doutrina majoritária. Empresas públicas são pessoas jurídicas de direito privado, criadas por autorização legal, com capital 100% público, e podem adotar qualquer forma societária.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_005"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_006",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": null,
+      "year": null,
+      "organization": null,
+      "role": null,
+      "statement": "A instituição de fundação pública dependerá de autorização em lei específica, cabendo à lei complementar definir as áreas de sua atuação.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": null,
+      "external_reference": "CESPE (CEBRASPE) - Adaptada de questões sobre Administração Indireta",
+      "commentary": "Certo. Conforme o Art. 37, XIX, da Constituição Federal, a instituição de fundação (pública) depende de autorização em lei específica. Além disso, o mesmo inciso estabelece que caberá à lei complementar definir as áreas de atuação das fundações.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_006"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_007",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": null,
+      "year": null,
+      "organization": null,
+      "role": null,
+      "statement": "Autarquias, fundações públicas, empresas públicas e sociedades de economia mista são pessoas jurídicas integrantes da administração indireta e, além de serem todas criadas ou autorizadas por lei específica, possuem personalidade jurídica, mas não, patrimônio próprio.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": null,
+      "external_reference": "CESPE (CEBRASPE) - Adaptada de questões sobre Administração Indireta",
+      "commentary": "Errado. Embora todas as entidades da Administração Indireta possuam personalidade jurídica própria e sejam criadas ou autorizadas por lei, a afirmação de que 'não possuem patrimônio próprio' está incorreta. Todas as entidades da Administração Indireta são dotadas de patrimônio próprio, o que é uma característica essencial de sua autonomia.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_007"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_008",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": null,
+      "year": null,
+      "organization": null,
+      "role": null,
+      "statement": "Somente por lei específica poderá ser criada autarquia e autorizada a instituição de empresa pública, de sociedade de economia mista e de fundação.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": null,
+      "external_reference": "Art. 37, XIX, CF/88 (cobrança literal comum do CEBRASPE)",
+      "commentary": "Certo. O enunciado reproduz literalmente o Art. 37, inciso XIX, da Constituição Federal de 1988, que é um dos dispositivos mais importantes sobre a organização da Administração Pública Indireta e frequentemente cobrado de forma literal pelo CEBRASPE.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_008"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_009",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": null,
+      "year": null,
+      "organization": null,
+      "role": null,
+      "statement": "A Ordem dos Advogados do Brasil (OAB) é uma autarquia federal típica, sujeita integralmente ao regime jurídico de direito público, incluindo a obrigatoriedade de concurso público para seus servidores.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": null,
+      "external_reference": "CESPE (CEBRASPE) - Adaptada de questões sobre OAB e Administração Indireta",
+      "commentary": "Errado. O Supremo Tribunal Federal (STF), na ADI 3.026-DF, firmou o entendimento de que a Ordem dos Advogados do Brasil (OAB) possui natureza jurídica sui generis, não se enquadrando como autarquia federal típica. Consequentemente, não se submete a todas as regras da Administração Pública, como a obrigatoriedade de concurso público para seus servidores, o que a diferencia das autarquias em sentido estrito.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_009"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_010",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": null,
+      "year": null,
+      "organization": null,
+      "role": null,
+      "statement": "As empresas públicas e as sociedades de economia mista exercem exclusivamente atividades econômicas e, por isso, não estão sujeitas a licitação para contratação de obras, serviços, compras e alienações.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": null,
+      "external_reference": "CESPE (CEBRASPE) - Adaptada de questões sobre Empresas Estatais",
+      "commentary": "Errado. As empresas públicas e as sociedades de economia mista podem explorar tanto atividades econômicas quanto prestar serviços públicos. Além disso, mesmo sendo pessoas jurídicas de direito privado, elas estão sujeitas a um regime jurídico híbrido e, como regra geral, são obrigadas a licitar para suas contratações, conforme a Lei nº 13.303/2016 (Lei das Estatais).",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_010"
+        ],
+        "count": 1
+      }
+    }
+  ],
+  "comentarios_questoes": [
+    {
+      "comment_id": "com_001",
+      "question_id": "qst_001",
+      "content": "Certo. A descentralização ocorre quando o Estado transfere a titularidade e/ou a execução de um serviço para outra pessoa jurídica, o que implica a ruptura do vínculo hierárquico, restando apenas o controle finalístico. Já a desconcentração é a distribuição de competências dentro da mesma pessoa jurídica, mantendo-se o vínculo hierárquico. Essa é uma distinção clássica e muito cobrada em provas de Direito Administrativo.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_002",
+      "question_id": "qst_002",
+      "content": "Certo. As autarquias são, de fato, pessoas jurídicas de direito público, criadas diretamente por lei específica para o desempenho de atividades típicas de Estado, como fiscalização, regulação ou previdência. Possuem autonomia administrativa e financeira, mas estão sujeitas ao controle finalístico do ente que as instituiu.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_003",
+      "question_id": "qst_003",
+      "content": "Errado. As entidades da administração indireta não se subordinam hierarquicamente ao ministério ou órgão da administração direta. Elas estão sujeitas a um controle finalístico (tutela ou supervisão ministerial), que visa garantir o cumprimento de suas finalidades institucionais, mas sem interferir em sua autonomia gerencial e operacional. A subordinação é característica da desconcentração, não da descentralização.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_004",
+      "question_id": "qst_004",
+      "content": "Errado. As autarquias são pessoas jurídicas de direito *público*, e não de direito privado. Elas são criadas para desempenhar atividades *típicas* do Estado, como fiscalização, regulação, previdência, ensino, etc. A confusão da natureza jurídica é uma pegadinha comum.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_005",
+      "question_id": "qst_005",
+      "content": "Certo. A definição apresentada está em conformidade com o Art. 3º da Lei nº 13.303/2016 (Lei das Estatais) e com a doutrina majoritária. Empresas públicas são pessoas jurídicas de direito privado, criadas por autorização legal, com capital 100% público, e podem adotar qualquer forma societária.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_006",
+      "question_id": "qst_006",
+      "content": "Certo. Conforme o Art. 37, XIX, da Constituição Federal, a instituição de fundação (pública) depende de autorização em lei específica. Além disso, o mesmo inciso estabelece que caberá à lei complementar definir as áreas de atuação das fundações.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_007",
+      "question_id": "qst_007",
+      "content": "Errado. Embora todas as entidades da Administração Indireta possuam personalidade jurídica própria e sejam criadas ou autorizadas por lei, a afirmação de que 'não possuem patrimônio próprio' está incorreta. Todas as entidades da Administração Indireta são dotadas de patrimônio próprio, o que é uma característica essencial de sua autonomia.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_008",
+      "question_id": "qst_008",
+      "content": "Certo. O enunciado reproduz literalmente o Art. 37, inciso XIX, da Constituição Federal de 1988, que é um dos dispositivos mais importantes sobre a organização da Administração Pública Indireta e frequentemente cobrado de forma literal pelo CEBRASPE.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_009",
+      "question_id": "qst_009",
+      "content": "Errado. O Supremo Tribunal Federal (STF), na ADI 3.026-DF, firmou o entendimento de que a Ordem dos Advogados do Brasil (OAB) possui natureza jurídica sui generis, não se enquadrando como autarquia federal típica. Consequentemente, não se submete a todas as regras da Administração Pública, como a obrigatoriedade de concurso público para seus servidores, o que a diferencia das autarquias em sentido estrito.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_010",
+      "question_id": "qst_010",
+      "content": "Errado. As empresas públicas e as sociedades de economia mista podem explorar tanto atividades econômicas quanto prestar serviços públicos. Além disso, mesmo sendo pessoas jurídicas de direito privado, elas estão sujeitas a um regime jurídico híbrido e, como regra geral, são obrigadas a licitar para suas contratações, conforme a Lei nº 13.303/2016 (Lei das Estatais).",
+      "explanation_alternatives": ""
+    }
+  ],
+  "checklist_revisao": [
+    {
+      "checklist_id": "chk_001",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Revisar o conceito de Administração Indireta e sua relação com a descentralização.",
+      "completed": false,
+      "order": 1
+    },
+    {
+      "checklist_id": "chk_002",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Memorizar a diferença entre descentralização e desconcentração, focando na ruptura/manutenção do vínculo hierárquico e na criação de PJ/órgãos.",
+      "completed": false,
+      "order": 2
+    },
+    {
+      "checklist_id": "chk_003",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Estudar as quatro entidades da Administração Indireta: Autarquias, Fundações Públicas, Empresas Públicas e Sociedades de Economia Mista.",
+      "completed": false,
+      "order": 3
+    },
+    {
+      "checklist_id": "chk_004",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Fixar a natureza jurídica (direito público/privado) e o método de criação (lei específica/autorização de lei) de cada entidade, conforme Art. 37, XIX, CF/88.",
+      "completed": false,
+      "order": 4
+    },
+    {
+      "checklist_id": "chk_005",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Compreender o regime jurídico de cada entidade (predominantemente público, híbrido) e a aplicação da Lei nº 13.303/2016 para estatais.",
+      "completed": false,
+      "order": 5
+    },
+    {
+      "checklist_id": "chk_006",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Entender que o controle sobre a Administração Indireta é finalístico (tutela/supervisão), e não hierárquico.",
+      "completed": false,
+      "order": 6
+    },
+    {
+      "checklist_id": "chk_007",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Prestar atenção às pegadinhas do CEBRASPE, especialmente as que envolvem a criação das entidades e o tipo de controle.",
+      "completed": false,
+      "order": 7
+    },
+    {
+      "checklist_id": "chk_008",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Revisar o entendimento do STF sobre a natureza jurídica da OAB.",
+      "completed": false,
+      "order": 8
+    }
+  ],
+  "referencias": [
+    {
+      "reference_id": "ref_001",
+      "material_id": "mat_001",
+      "reference_type": "legislacao",
+      "author_name": null,
+      "title": "Constituição da República Federativa do Brasil de 1988",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_002",
+      "material_id": "mat_001",
+      "reference_type": "legislacao",
+      "author_name": null,
+      "title": "Lei nº 13.303, de 30 de junho de 2016",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2016/lei/l13303.htm",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_003",
+      "material_id": "mat_001",
+      "reference_type": "doutrina",
+      "author_name": null,
+      "title": "DI PIETRO, Maria Sylvia Zanella",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": null,
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_004",
+      "material_id": "mat_001",
+      "reference_type": "doutrina",
+      "author_name": null,
+      "title": "MEIRELLES, Hely Lopes",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": null,
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_005",
+      "material_id": "mat_001",
+      "reference_type": "jurisprudencia",
+      "author_name": null,
+      "title": "ADI 3.026-DF",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=2140801",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_006",
+      "material_id": "mat_001",
+      "reference_type": "artigo_online",
+      "author_name": null,
+      "title": "Entidades da Administração Indireta: Conceito, Características e Funções no Direito Administrativo",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGUE7nmGijhG0o2OS6BU9QTwkfEAIMRSOQmK_tVaYP2Tocg2DsLnmJz4_6cao9OI-Vz9n7o21EOgetBmQLU_E7Xf5VsZUVuD3i4sQevNa1HlJBj_N6RRk_8Fu3NTkIkwggz7kgHqYcnz52wm5U2A_D7BHM_npFQNk8U1ox0QkrwQCNaXCB9xyv-y45vPvQ2NhVSCS9WaEkiesg9kJLUh9lroOxOthT89cyE7DDh11XUAvl-w_HGGG41ycw5228=",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_007",
+      "material_id": "mat_001",
+      "reference_type": "artigo_online",
+      "author_name": null,
+      "title": "Administração Direta e Indireta - Direito administrativo",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE-IGqNC2M-fJK9hJ8FxoUwPftMIO1l8em61SNlvVFjTXJHRvQJQww_6ZhDj3eIvCkDV2cd0I5irEDtMjOFE1zWflF_-WDngthVG30K-6KmNpZ5Jg3dYQpWdC4Q8zAFV6Vq0efw95Ovj4O3PB5xFfghzblt9zF9CLSVYlIMRiI=",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_008",
+      "material_id": "mat_001",
+      "reference_type": "artigo_online",
+      "author_name": null,
+      "title": "Administração direta e indireta: o que são e quais são suas diferenças?",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGJt_P2KfTlzL8MGriW7c05NXZjzV8HmjodYOm_PW509Mm8-V25Ad0lHnekZara4cIh_LNbYttV_mubSWwo8qVriPBb-JdLCmEw6fZAfA5LkbpEn0KQz1OKYrXEFGgOx3w1LD3m2BC8USLP073Uo4peEsQ4o7Llbb2nXRM_tnAFqw==",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_009",
+      "material_id": "mat_001",
+      "reference_type": "artigo_online",
+      "author_name": null,
+      "title": "Administração indireta",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHz8HnJAwpIibu-OgSxPDa_eto3dnp_1nmSOwcAPvkgsbqYEs0mxI-x2f5aDXxp3K4ojacKb7DFpb8TP01i8bcrjxGUU54EILlh17Wq0EXkAsgYpCbYtSMP_5-V8BVM69mKNeUm",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_010",
+      "material_id": "mat_001",
+      "reference_type": "artigo_online",
+      "author_name": null,
+      "title": "Administração pública: direta e indireta",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFYT2gUIOaCg-KoHa7GoXG7QR654MgbGr5lmhCL01FYaQOUO2QYlgNopjZR0J1xF9lubtbkkY15wMbkubYd5h_JONjWQBkoPMd-ODAd3Rv60qAucKyZYrllbVSrioD74YxpTe3JwLEgkFeexUwdkj4ZAT-ugPja66Fr4jaLe14W5OzJZQgebBH1V9SIWiIdgna3kGczeRiQLiGIKco=",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_011",
+      "material_id": "mat_001",
+      "reference_type": "artigo_online",
+      "author_name": null,
+      "title": "Administração indireta – Guia de Apoio à Gestão Estadual do SUS",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQESBwi70VC1Irf52oePN73plbTsb7gKji5yZKGjwQczb4iGqan1EsvcwhKvGTaLDgAJC5daXCGV2EmgtjtD4IcsWJh8o1W1QVi3kq6NXH6sSn1fLgV7TgUBzSHJIzoo0ChMy3hnjM1QYOJZ2nUEa55yPabWOFGoKgsedTU=",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_012",
+      "material_id": "mat_001",
+      "reference_type": "artigo_online",
+      "author_name": null,
+      "title": "Administração direta e indireta: o que é cada uma?",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGw7gBHDRdDmGtOZZtKrY3vn2J51eB7yWFEDM5oTUKMDvI7P3wuxAb3KXzYGYIFHwxo4Xb_HE-KwTpgEfQ4CSF0bsGKFDt8zseyXv7q0NZrryP6y9gMRByPU3adKdypNPU8J5AJbpzp2zEdx7hRn7KPCvSmuhDbPJYy_LIbYhd-x6mL",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_013",
+      "material_id": "mat_001",
+      "reference_type": "artigo_online",
+      "author_name": null,
+      "title": "Questões de Concurso sobre Organização da Administração Pública em Direito Administrativo para CESPE / CEBRASPE",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEVsWMel51aVNjJDgE6hFHJV9OXI8l9gm1wQYe0nwR2H9Fh6rizCXsGQ5JJLIVg3LZ4NE9eV93Ec07VJvxl_DpJDP7MKRo-7HQrzLA_PnfJAMLGEyZRtqBjqJqPCQ3fNL3w-BUDxVA-MtYIYCt7W3vJH4P1Oh5P0UrWNlmVpNT1ds-TpZGNAJQV-Vo4dpcYuEOEHHUCIW4eZem7bXLc9io9m_UNSQBcBT7D8BO2uaisWonYknNw0N2w4bizLeBB",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_014",
+      "material_id": "mat_001",
+      "reference_type": "artigo_online",
+      "author_name": null,
+      "title": "Questões de Concurso sobre Administração Indireta em Direito Administrativo para CESPE / CEBRASPE",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGlVCX6uY_rGxgBRMDA69WXBpAYB_nmqUHvY9LJMXp32ufSVkrRXnyfz5hyg2AeenGFc-xmnFb9l4jfi86cntTB1f9-C3Ve3lx-zzOyzrYp5IptNud1u-UlpNbktzDXrs-qaN7SyZSccHPIVwXgg-sNFzVSQsQ0nLnKHR54n-SV-Ijlf4RCSjhgrdl5kD1Sl6f2s8vIlsE0kHXlMS04Cw-L3Cn6YWz3igsC0yQ-w0YoJn2K5RTURk9N13k1ZCdBNQ==",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_015",
+      "material_id": "mat_001",
+      "reference_type": "artigo_online",
+      "author_name": null,
+      "title": "Administração direta e indireta - Dica Estratégica - Direito Adminitrativo",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEWTiwjQkTMybnnJX5TqVv-_vMSErO2YW7ongjK_t_6fb-pEoW5pGyUCmsNUH_h8cTZijzQoj4sqkMjwCCaycrs57Ld6OZ685aq45LHZIcwwkXnZS8tv9N1WbZLYiLovDY3aWxjFgqGq5TKGlblUb2Rjq8lXS7An5WXC13tzRs4T2T19xx_xQ8=",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_016",
+      "material_id": "mat_001",
+      "reference_type": "artigo_online",
+      "author_name": null,
+      "title": "Questão No que se refere aos institutos da centralização, da descentralização e da desconcentração, julgue o item a s...",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGcn26Diuq07eGcVsuf54sNbg_qySSfGMhbws90ONJLV2yMEw_guwWluiS17FHCti3foI48ObGUcfml6SzCtDgTEwW0Bpu3qPRk3opsXApDYu6q0dIHSCP0QWEn4kDxozTK6CJhxCEyPeXo0wQi9kp3ehT8yuYH9jHyNMkrLDQ=",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_017",
+      "material_id": "mat_001",
+      "reference_type": "artigo_online",
+      "author_name": null,
+      "title": "Descentralização e Desconcentração (Direito Administrativo): Resumo Completo",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGEZkKEJyD9Tl90gl6HJnr4Y2LEDoKsXlEkv3k9uIsDJ_vQFL_Zf3UugBORTRyHUMv7WWeEXwY-xzd6DgR-78t469kTGiBzrBrG3QZcvERKxjcyRvT-w8ZzsT-43QOWvDRu1bhq8oQ=",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_018",
+      "material_id": "mat_001",
+      "reference_type": "artigo_online",
+      "author_name": null,
+      "title": "DESCENTRALIZAÇÃO OU DESCONCENTRAÇÃO I DIREITO ADMINISTRATIVO CEBRASPE",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHnugglwm7ZN5qUxx17nOtVS9tKQ_Im9J6EYvKaiAsmEqhoCnwSaDT1uM7Bsvdwb9hoc7R_30GySNgsZUxV7XZh2MQNq4kXLe9esB3GQSX_et7DeFy8k6DorO-LFbMK47pa1o5kZA==",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_019",
+      "material_id": "mat_001",
+      "reference_type": "artigo_online",
+      "author_name": null,
+      "title": "Você sabe MESMO a DIFERENÇA entre DESCENTRALIZAÇÃO e DESCONCENTRAÇÃO? | Questões comentadas CEBRASPE",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFApSiVZfrEquVA4RlrBc18Ae5nXa9AGWBmpY8O7Q-QmMZwkufdRvmHcDJ4NS5vdXa09roiUwOL4o_Kkl3puV7QHEdwuDLVQGOGosgD4w0EI3dnsjZqx_FAoIheIowPuMBNwqfN3g=",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_020",
+      "material_id": "mat_001",
+      "reference_type": "artigo_online",
+      "author_name": null,
+      "title": "Diferenças entre Descentralização e Desconcentração",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE5EemCaRFqfbHWVOFIEBEi7SAZRfNTMSpjBkYx5lccEpZvYyJ879VK6BeL0B1GRa0SwApBjIuM8KtWD1IUuDbpmVbUCPC8M798FP2ct8u4Fnfh1_oY0p2HHJS_sjuzJFWmpGGAMYxjRIdMlik6OoGaDbP3LfYI7Sh_NqTn9tVOvjoaG35XwnN8nw7b59WWZaM4VN4=",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_021",
+      "material_id": "mat_001",
+      "reference_type": "artigo_online",
+      "author_name": null,
+      "title": "Ebook-Direito-Administrativo-Resumo-esquematizado-2.pdf",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG82rOlTXPW8eJWcLwqa_t1S_BDNM9FHqSC6_bK3Br0gJBlCdeimKS9kmEFJOaCrgx3ifM6qLkzl718hCWipRwAZalarOfYf86S_vCciXrjl9NO8M9zYErPIzIP6ybUoCA5mr3NmZQjSsNgnaeafl_T-SkR65THjsfw0oZyeFeN58qlZh-qeRiKz20bqCMCM8vKe5lQSa7P6YeB8EZPDccrz_DjgTwTGX_hirjZzHeqNQwJaU1IdZI=",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_022",
+      "material_id": "mat_001",
+      "reference_type": "artigo_online",
+      "author_name": null,
+      "title": "Lei das Estatais: Saiba tudo sobre a nova Lei 13303",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH9B3TRU8o2qIGvt522_mT8QXUQc0AsixxmIa89I-vkpYyfyLMFbHXG91lzoUkVfDbRANAU5nYd-ktHrFyl3SNkUoRv7kZnVdkrUI0dHr4aisUmkbOoe5KRWV_rmVtad39QwyAQjLzGfnfrpN1fjY_VbBPZJjpRZ127xFXuNOQ=",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_023",
+      "material_id": "mat_001",
+      "reference_type": "artigo_online",
+      "author_name": null,
+      "title": "Questão No que se refere aos institutos da centralização, da descentralização e da desconcentração, julgue o item a s...",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFF7ZaF1lzDJ-NGmS-rRwWhZYUQdbUDQqZrmgZu1xq5PmTupwmLPsDkwR_Ji3P9_F5vQTpnj9mMBOvM04FaxJrDTmRSlIttV_IKfaj2ztifUPO6MgFSJ0glQHNe7wHWDZSmmnxpl5nBxobWOTJdSaonCBkx7BULneVVIFfCYKN9RLj7gBEvLsrbdWtW0g==",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_024",
+      "material_id": "mat_001",
+      "reference_type": "artigo_online",
+      "author_name": null,
+      "title": "Questão 3361417 CEBRASPE (CESPE) - Analista Ambiental (IBAMA) - Tec Concursos",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFhGAM4crHBWu65IqiqYqOq5A6BajrtGw4CZnt-cw2ycDCt28rVN8y_uKsK3T4FMGXgtXKP_oVgEZrfB1t8jchScC7zxJpLcGCIYvk5ql3bmmt1wCuccSmC4ybsqIfaroK7Bf1U71m1DaAnTw==",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_025",
+      "material_id": "mat_001",
+      "reference_type": "artigo_online",
+      "author_name": null,
+      "title": "Entidades da Administração Indireta",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGnS76wKs25yypQrL0WLrffJtt39k2vb9yfzm07YRML1tbdNlO5llRe0vPdtNc-zP1qMS768Hp2XyADzjX1IvImP7PLxjbbmUOQOTk8rCCQYqwrGQQtXqlQOmb6YobRRRQExNFGqmy4--zyz8DIqOM3ESaZIK5m9RLB7SsUZ22abcKNYMHXrcmaSRjq1Y4V_DE1rQ==",
+      "accessed_at": null,
+      "description": null
+    }
+  ],
+  "estatisticas_de_geracao": {
+    "total_topicos": 8,
+    "total_componentes_topico": 12,
+    "total_entendimentos_relevantes": 3,
+    "total_pegadinhas": 4,
+    "total_pontos_memorizacao": 8,
+    "total_itens_quadro_sinotico": 8,
+    "total_questoes": 10,
+    "total_comentarios_questoes": 10,
+    "total_itens_checklist": 8,
+    "total_referencias": 25
+  },
+  "validacao_interna": {
+    "pesquisa_previa_realizada": true,
+    "analise_de_cobrancas_anteriores_realizada": true,
+    "material_atualizado": true,
+    "json_valido": true,
+    "estrutura_relacional_respeitada": true,
+    "numeracao_respeitada": true,
+    "houve_quebra_de_hierarquia": false,
+    "houve_nivel_numerico_superior_a_3": true,
+    "fontes_verificadas": true,
+    "sem_informacao_inventada": true
+  },
+  "metadata": {
+    "source_file_name": "3__direito-administrativo__3-organização-administrativa-3.3-administração-indireta-3.3.1-conceito.json",
+    "normalized_checksum": "f17e1e78cf2d650710b677136baedf401b9c5483b3add7da021660ff63b0a6ca",
+    "subject_slug": "dir-adm",
+    "material_slug": "administracao-indireta-conceito-cebraspe",
+    "title_slug": "administracao-indireta-conceito-e-entidades-para",
+    "board_slug": "cebraspe",
+    "counters": {
+      "blocks": 4,
+      "topics": 8,
+      "topic_components": 12,
+      "traps": 4,
+      "memory_points": 8,
+      "summary_items": 8,
+      "questions": 10,
+      "question_comments": 10,
+      "checklist_items": 8,
+      "references": 25
+    }
+  }
+}

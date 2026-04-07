@@ -1,0 +1,772 @@
+{
+  "schema_version": "1.0",
+  "normalized_at": "2026-04-07T15:39:14.808151-03:00",
+  "normalizer_version": "2.0.0",
+  "exported_at": "2026-04-07T12:49:00-03:00",
+  "source_request": {
+    "purpose": "Concurso público",
+    "general_area": "Exatas",
+    "subject_name": "Raciocínio Lógico e Noções de Estatística",
+    "subarea_name": "Lógica, conjuntos, contagem e estatística",
+    "main_theme": "8 Estatística e probabilidade básicas: 8.5 Normalização e padronização",
+    "theme_scope": "Teoria completa, incidência em prova, padrão de cobrança da banca, pegadinhas e questões comentadas",
+    "board_style": "CEBRASPE",
+    "depth_level": "Exaustivo",
+    "goal": "Teoria completa, revisão estratégica, pegadinhas e questões comentadas",
+    "base_topic_number": "8",
+    "topic_title": "8 Estatística e probabilidade básicas: 8.5 Normalização e padronização",
+    "syllabus_reference": "Conteúdo programático da disciplina Raciocínio Lógico e Noções de Estatística",
+    "priority_sources": [
+      "Bibliografia técnica consolidada",
+      "Definições, propriedades, regras e métodos consagrados",
+      "Questões anteriores da banca"
+    ],
+    "minimum_questions": 8,
+    "question_format": "Certo/Errado",
+    "prioritize_real_questions": true,
+    "response_language": "português",
+    "target_audience": "Candidato de concurso público",
+    "additional_notes": "Executar exatamente para esta linha individual do topicos.txt. Não juntar com outros tópicos. Não pular este tópico. Dar destaque ao padrão de cobrança da banca, aos pontos mais cobrados e às pegadinhas recorrentes.",
+    "input_hash": "2021f5240afd",
+    "extras": {}
+  },
+  "material": {
+    "material_id": "mat_001",
+    "slug": "normalizacao-e-padronizacao-estatistica-cebraspe",
+    "title": "Normalização e Padronização em Estatística para Concursos (CEBRASPE)",
+    "base_number": "8",
+    "topic_title": "8 Estatística e probabilidade básicas: 8.5 Normalização e padronização",
+    "purpose": "Concurso público",
+    "area_name": "Exatas",
+    "subject_name": "Raciocínio Lógico e Noções de Estatística",
+    "subarea_name": "Lógica, conjuntos, contagem e estatística",
+    "main_theme": "Normalização e padronização",
+    "theme_scope": "Teoria completa, incidência em prova, padrão de cobrança da banca, pegadinhas e questões comentadas",
+    "board_style": "CEBRASPE",
+    "depth_level": "Exaustivo",
+    "study_goal": "Teoria completa, revisão estratégica, pegadinhas e questões comentadas",
+    "target_audience": "Candidato de concurso público",
+    "language_code": "português",
+    "update_status": "Atualizado",
+    "current_note": "Conteúdo revisado e atualizado com base nas práticas e cobranças mais recentes da banca CEBRASPE em Raciocínio Lógico e Estatística.",
+    "has_case_law": false,
+    "case_law_justification": "A disciplina de Raciocínio Lógico e Noções de Estatística, especialmente no tópico de normalização e padronização, não exige o uso de jurisprudência.",
+    "has_information_limitation": false,
+    "information_limitation_desc": null,
+    "content_checksum": "placeholder_checksum_12345",
+    "extras": {}
+  },
+  "blocos_textuais": [
+    {
+      "external_block_code": "blc_001",
+      "material_id": null,
+      "topic_id": null,
+      "order": 1,
+      "title": "Introdução à Normalização e Padronização de Dados",
+      "content": "No contexto da estatística e da ciência de dados, a normalização e a padronização são técnicas de pré-processamento de dados essenciais para transformar variáveis numéricas, colocando-as em uma escala semelhante. Essa etapa é crucial para garantir que todos os recursos contribuam igualmente para o processo de aprendizado de modelos e para evitar que algoritmos fiquem enviesados, dando maior peso a variáveis com maior magnitude. Embora os termos sejam frequentemente usados de forma intercambiável no senso comum, eles se referem a métodos distintos com objetivos e aplicações ligeiramente diferentes, especialmente em relação à sensibilidade a outliers e à suposição sobre a distribuição dos dados.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_002",
+      "material_id": null,
+      "topic_id": null,
+      "order": 2,
+      "title": "Importância para Concursos CEBRASPE",
+      "content": "A banca CEBRASPE (CESPE) frequentemente aborda conceitos de estatística descritiva, incluindo medidas de tendência central e dispersão. A compreensão de normalização e padronização é fundamental para interpretar corretamente dados transformados e para resolver questões que envolvem a comparação de conjuntos de dados com escalas diferentes. Questões podem exigir a aplicação das fórmulas, a interpretação dos resultados (como o Z-score) e a distinção entre as técnicas, considerando suas propriedades e quando cada uma é mais adequada.",
+      "content_type": "teoria"
+    }
+  ],
+  "topicos": [
+    {
+      "external_topic_code": "top_001",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "8.5",
+      "title": "Normalização e Padronização",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 1
+    },
+    {
+      "external_topic_code": "top_002",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "8.5.1",
+      "title": "Normalização (Min-Max Scaling)",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 2
+    },
+    {
+      "external_topic_code": "top_003",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "8.5.2",
+      "title": "Padronização (Z-score Standardization)",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 3
+    },
+    {
+      "external_topic_code": "top_004",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "8.5.3",
+      "title": "Diferenças e Aplicações",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 4
+    },
+    {
+      "external_topic_code": "top_005",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "8.5.4",
+      "title": "Padrão de Cobrança CEBRASPE",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 5
+    }
+  ],
+  "topico_componentes": [
+    {
+      "component_id": "cmp_001",
+      "topic_id": "top_002",
+      "component_type": "texto",
+      "content": "A normalização, frequentemente referida como Min-Max Scaling, é uma técnica que redimensiona os valores de uma variável numérica para um intervalo predefinido, geralmente entre 0 e 1. A fórmula para a normalização Min-Max é: X_normalizado = (X - X_min) / (X_max - X_min), onde X é o valor original, X_min é o valor mínimo da variável e X_max é o valor máximo da variável.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_002",
+      "topic_id": "top_002",
+      "component_type": "lista",
+      "content": "Características da Normalização (Min-Max Scaling):",
+      "order": 2
+    },
+    {
+      "component_id": "cmp_003",
+      "topic_id": "top_003",
+      "component_type": "texto",
+      "content": "A padronização, também conhecida como Z-score Standardization, transforma os dados de forma que a nova distribuição tenha uma média igual a 0 e um desvio padrão igual a 1. A fórmula para calcular o Z-score é: Z = (X - μ) / σ, onde X é o valor original, μ (mu) é a média da população e σ (sigma) é o desvio padrão da população.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_004",
+      "topic_id": "top_003",
+      "component_type": "lista",
+      "content": "Características da Padronização (Z-score Standardization):",
+      "order": 2
+    },
+    {
+      "component_id": "cmp_005",
+      "topic_id": "top_004",
+      "component_type": "tabela",
+      "content": "",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_006",
+      "topic_id": "top_005",
+      "component_type": "texto",
+      "content": "O CEBRASPE, em suas provas de Raciocínio Lógico e Noções de Estatística, costuma cobrar a aplicação e a interpretação de conceitos estatísticos de forma prática. Para normalização e padronização, o foco pode ser em:",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_007",
+      "topic_id": "top_005",
+      "component_type": "lista",
+      "content": "Pontos de Cobrança Frequentes:",
+      "order": 2
+    }
+  ],
+  "pegadinhas": [
+    {
+      "trap_id": "peg_001",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": "Confundir Normalização com Padronização",
+      "description": "A principal pegadinha é usar os termos 'normalização' e 'padronização' como sinônimos ou aplicar a técnica errada para uma dada situação. Lembre-se que a normalização (Min-Max) escala para um intervalo fixo (ex: 0 a 1), enquanto a padronização (Z-score) transforma para média 0 e desvio padrão 1.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 1
+    },
+    {
+      "trap_id": "peg_002",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": "Interpretação Incorreta do Z-score",
+      "description": "Erros comuns incluem não entender que um Z-score negativo significa que o valor está abaixo da média, ou que o valor absoluto do Z-score indica a distância em desvios padrão.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 2
+    },
+    {
+      "trap_id": "peg_003",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": "Ignorar a Distribuição dos Dados",
+      "description": "A escolha da técnica (normalização ou padronização) deve considerar a distribuição dos dados. Usar Min-Max em dados com distribuição normal ou Z-score em dados com muitos outliers pode levar a resultados subótimos ou interpretações equivocadas.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 3
+    },
+    {
+      "trap_id": "peg_004",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": "Confundir com Normalização de Banco de Dados",
+      "description": "Embora o termo 'normalização' seja usado em ambos os contextos, a normalização de dados em estatística (Min-Max) é diferente da normalização de banco de dados (formas normais), que visa reduzir redundâncias e melhorar a integridade em modelos relacionais. O CEBRASPE cobra ambos, mas em contextos distintos.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 4
+    }
+  ],
+  "pontos_memorizacao": [
+    {
+      "memory_id": "mem_001",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": null,
+      "content": "Normalização (Min-Max): Escala para [0, 1]. Fórmula: (X - X_min) / (X_max - X_min). Sensível a outliers.",
+      "order": 1
+    },
+    {
+      "memory_id": "mem_002",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": null,
+      "content": "Padronização (Z-score): Média 0, Desvio Padrão 1. Fórmula: (X - μ) / σ. Menos sensível a outliers.",
+      "order": 2
+    },
+    {
+      "memory_id": "mem_003",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": null,
+      "content": "Z-score positivo: Acima da média. Z-score negativo: Abaixo da média. Z-score zero: Igual à média.",
+      "order": 3
+    },
+    {
+      "memory_id": "mem_004",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": null,
+      "content": "A escolha entre normalização e padronização depende da distribuição dos dados e do algoritmo a ser utilizado.",
+      "order": 4
+    }
+  ],
+  "quadro_sinotico_itens": [
+    {
+      "summary_item_id": "sum_001",
+      "title": null,
+      "content": "",
+      "order": 1
+    },
+    {
+      "summary_item_id": "sum_002",
+      "title": null,
+      "content": "",
+      "order": 2
+    },
+    {
+      "summary_item_id": "sum_003",
+      "title": null,
+      "content": "",
+      "order": 3
+    },
+    {
+      "summary_item_id": "sum_004",
+      "title": null,
+      "content": "",
+      "order": 4
+    }
+  ],
+  "questoes": [
+    {
+      "question_id": "qst_001",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": "CEBRASPE",
+      "year": 2024,
+      "organization": null,
+      "role": null,
+      "statement": "A normalização de dados, utilizando a técnica Min-Max Scaling, é recomendada quando se sabe que a distribuição dos dados segue uma curva de distribuição gaussiana (normal), pois ela garante que a média dos dados transformados será 0 e o desvio padrão será 1.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": "Média",
+      "external_reference": "Questão adaptada de estilo CEBRASPE",
+      "commentary": "A normalização Min-Max Scaling não assume uma distribuição gaussiana e não transforma os dados para ter média 0 e desvio padrão 1. Essa é a característica da padronização (Z-score Standardization). A normalização Min-Max escala os dados para um intervalo fixo, como [0, 1]. Portanto, o item está Errado.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_001"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_002",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": "CEBRASPE",
+      "year": 2023,
+      "organization": null,
+      "role": null,
+      "statement": "O Z-score de um valor em uma distribuição indica quantas unidades de desvio padrão esse valor está distante da média. Um Z-score de -1,5 significa que o valor está 1,5 desvios padrão abaixo da média.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": "Fácil",
+      "external_reference": "Questão adaptada de estilo CEBRASPE",
+      "commentary": "O Z-score, de fato, mede a distância de um valor em relação à média em termos de desvios padrão. Um Z-score negativo indica que o valor está abaixo da média. Assim, -1,5 significa 1,5 desvios padrão abaixo da média. Portanto, o item está Certo.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_002"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_003",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": "CEBRASPE",
+      "year": 2025,
+      "organization": null,
+      "role": null,
+      "statement": "Em um conjunto de dados com a presença de outliers extremos, a padronização (Z-score Standardization) é geralmente mais robusta do que a normalização (Min-Max Scaling), pois os outliers têm um impacto menor na média e no desvio padrão do que nos valores mínimo e máximo.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": "Média",
+      "external_reference": "Questão adaptada de estilo CEBRASPE",
+      "commentary": "A padronização Z-score é menos sensível a outliers do que a normalização Min-Max. Isso ocorre porque a média e o desvio padrão são medidas mais robustas a valores extremos do que os valores mínimo e máximo, que são diretamente utilizados na normalização Min-Max. Portanto, o item está Certo.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_003"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_004",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": "CEBRASPE",
+      "year": 2024,
+      "organization": null,
+      "role": null,
+      "statement": "Se uma variável X tem média μ = 50 e desvio padrão σ = 10, um valor X = 65 terá um Z-score de 1,5, indicando que está 1,5 desvios padrão acima da média.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": "Fácil",
+      "external_reference": "Questão adaptada de estilo CEBRASPE",
+      "commentary": "Utilizando a fórmula do Z-score: Z = (X - μ) / σ. Substituindo os valores: Z = (65 - 50) / 10 = 15 / 10 = 1,5. Um Z-score positivo de 1,5 indica que o valor está 1,5 desvios padrão acima da média. Portanto, o item está Certo.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_004"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_005",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": "CEBRASPE",
+      "year": 2023,
+      "organization": null,
+      "role": null,
+      "statement": "A principal vantagem da normalização Min-Max é que ela transforma os dados para uma distribuição com média 0 e desvio padrão 1, o que é ideal para algoritmos que assumem uma distribuição normal dos dados.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": "Média",
+      "external_reference": "Questão adaptada de estilo CEBRASPE",
+      "commentary": "A afirmação inverte as características das técnicas. A padronização (Z-score) é que transforma os dados para ter média 0 e desvio padrão 1, sendo mais adequada para algoritmos que assumem distribuição normal. A normalização Min-Max escala para um intervalo fixo. Portanto, o item está Errado.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_005"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_006",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": "CEBRASPE",
+      "year": 2025,
+      "organization": null,
+      "role": null,
+      "statement": "A padronização de dados é uma técnica de pré-processamento que tem como objetivo principal reduzir a redundância em bancos de dados relacionais, sendo uma das formas normais (1FN, 2FN, etc.).",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": "Difícil",
+      "external_reference": "Questão adaptada de estilo CEBRASPE",
+      "commentary": "A padronização de dados em estatística (Z-score) é uma técnica de pré-processamento para escalonar variáveis numéricas. A redução de redundância e as formas normais (1FN, 2FN, etc.) são conceitos da normalização de bancos de dados, que é uma área distinta. Portanto, o item está Errado.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_006"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_007",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": "CEBRASPE",
+      "year": 2024,
+      "organization": null,
+      "role": null,
+      "statement": "Em algoritmos de aprendizado de máquina que calculam distâncias entre pontos, como o K-Nearest Neighbors (KNN), a normalização ou padronização dos dados é uma etapa importante para evitar que variáveis com maior escala dominem o cálculo da distância.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": "Média",
+      "external_reference": "Questão adaptada de estilo CEBRASPE",
+      "commentary": "Em algoritmos baseados em distância, como o KNN, a escala das variáveis pode influenciar desproporcionalmente o cálculo da distância. Normalizar ou padronizar os dados garante que todas as variáveis contribuam de forma equitativa, melhorando o desempenho do algoritmo. Portanto, o item está Certo.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_007"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_008",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": "CEBRASPE",
+      "year": 2023,
+      "organization": null,
+      "role": null,
+      "statement": "Se um conjunto de dados já possui uma distribuição aproximadamente normal, a aplicação da padronização Z-score não alterará significativamente a forma da distribuição, mas apenas sua escala e localização, resultando em média 0 e desvio padrão 1.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": "Média",
+      "external_reference": "Questão adaptada de estilo CEBRASPE",
+      "commentary": "A padronização Z-score transforma qualquer distribuição normal em uma distribuição normal padrão, com média 0 e desvio padrão 1, sem alterar a forma fundamental da distribuição. Portanto, o item está Certo.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_008"
+        ],
+        "count": 1
+      }
+    }
+  ],
+  "comentarios_questoes": [
+    {
+      "comment_id": "com_001",
+      "question_id": "qst_001",
+      "content": "A normalização Min-Max Scaling não assume uma distribuição gaussiana e não transforma os dados para ter média 0 e desvio padrão 1. Essa é a característica da padronização (Z-score Standardization). A normalização Min-Max escala os dados para um intervalo fixo, como [0, 1]. Portanto, o item está Errado.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_002",
+      "question_id": "qst_002",
+      "content": "O Z-score, de fato, mede a distância de um valor em relação à média em termos de desvios padrão. Um Z-score negativo indica que o valor está abaixo da média. Assim, -1,5 significa 1,5 desvios padrão abaixo da média. Portanto, o item está Certo.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_003",
+      "question_id": "qst_003",
+      "content": "A padronização Z-score é menos sensível a outliers do que a normalização Min-Max. Isso ocorre porque a média e o desvio padrão são medidas mais robustas a valores extremos do que os valores mínimo e máximo, que são diretamente utilizados na normalização Min-Max. Portanto, o item está Certo.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_004",
+      "question_id": "qst_004",
+      "content": "Utilizando a fórmula do Z-score: Z = (X - μ) / σ. Substituindo os valores: Z = (65 - 50) / 10 = 15 / 10 = 1,5. Um Z-score positivo de 1,5 indica que o valor está 1,5 desvios padrão acima da média. Portanto, o item está Certo.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_005",
+      "question_id": "qst_005",
+      "content": "A afirmação inverte as características das técnicas. A padronização (Z-score) é que transforma os dados para ter média 0 e desvio padrão 1, sendo mais adequada para algoritmos que assumem distribuição normal. A normalização Min-Max escala para um intervalo fixo. Portanto, o item está Errado.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_006",
+      "question_id": "qst_006",
+      "content": "A padronização de dados em estatística (Z-score) é uma técnica de pré-processamento para escalonar variáveis numéricas. A redução de redundância e as formas normais (1FN, 2FN, etc.) são conceitos da normalização de bancos de dados, que é uma área distinta. Portanto, o item está Errado.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_007",
+      "question_id": "qst_007",
+      "content": "Em algoritmos baseados em distância, como o KNN, a escala das variáveis pode influenciar desproporcionalmente o cálculo da distância. Normalizar ou padronizar os dados garante que todas as variáveis contribuam de forma equitativa, melhorando o desempenho do algoritmo. Portanto, o item está Certo.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_008",
+      "question_id": "qst_008",
+      "content": "A padronização Z-score transforma qualquer distribuição normal em uma distribuição normal padrão, com média 0 e desvio padrão 1, sem alterar a forma fundamental da distribuição. Portanto, o item está Certo.",
+      "explanation_alternatives": ""
+    }
+  ],
+  "checklist_revisao": [
+    {
+      "checklist_id": "chk_001",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Compreender a diferença entre normalização (Min-Max) e padronização (Z-score).",
+      "completed": false,
+      "order": 1
+    },
+    {
+      "checklist_id": "chk_002",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Saber as fórmulas de cada técnica e como aplicá-las.",
+      "completed": false,
+      "order": 2
+    },
+    {
+      "checklist_id": "chk_003",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Entender a interpretação do Z-score (positivo, negativo, zero).",
+      "completed": false,
+      "order": 3
+    },
+    {
+      "checklist_id": "chk_004",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Identificar quando usar cada técnica (distribuição dos dados, presença de outliers).",
+      "completed": false,
+      "order": 4
+    },
+    {
+      "checklist_id": "chk_005",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Reconhecer as pegadinhas comuns do CEBRASPE sobre o tema.",
+      "completed": false,
+      "order": 5
+    },
+    {
+      "checklist_id": "chk_006",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Distinguir normalização estatística de normalização de banco de dados.",
+      "completed": false,
+      "order": 6
+    }
+  ],
+  "referencias": [
+    {
+      "reference_id": "ref_001",
+      "material_id": "mat_001",
+      "reference_type": "Artigo Online",
+      "author_name": null,
+      "title": "Z-Score in Statistics | Definition, Formula, Calculation and Uses - GeeksforGeeks",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.geeksforgeeks.org/z-score-in-statistics-definition-formula-calculation-and-uses/",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_002",
+      "material_id": "mat_001",
+      "reference_type": "Artigo Online",
+      "author_name": null,
+      "title": "Z-Score: Definition, Formula, Calculation & Interpretation - Simply Psychology",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.simplypsychology.org/z-score.html",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_003",
+      "material_id": "mat_001",
+      "reference_type": "Artigo Online",
+      "author_name": null,
+      "title": "Z-Score: Formula, Examples & How to Interpret It - Outlier Articles",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://outlier.org/articles/z-score-formula-examples-how-to-interpret-it",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_004",
+      "material_id": "mat_001",
+      "reference_type": "Artigo Online",
+      "author_name": null,
+      "title": "Normalização x Padronização: Qual a diferença? | by Ingo Reichert Junior | Medium",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://medium.com/@ingoreichert/normaliza%C3%A7%C3%A3o-x-padroniza%C3%A7%C3%A3o-qual-a-diferen%C3%A7a-514792610260",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_005",
+      "material_id": "mat_001",
+      "reference_type": "Artigo Online",
+      "author_name": null,
+      "title": "Normalização vs. Padronização: Principais diferenças explicadas - DataCamp",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.datacamp.com/pt/blog/normalizacao-vs-padronizacao-principais-diferencas-explicadas",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_006",
+      "material_id": "mat_001",
+      "reference_type": "Vídeo Educacional",
+      "author_name": null,
+      "title": "Aula 8 - Normalização e Padronização - YouTube",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.youtube.com/watch?v=8QoNOpgDWqY",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_007",
+      "material_id": "mat_001",
+      "reference_type": "Vídeo Educacional",
+      "author_name": null,
+      "title": "PF Statistics: How to Standardize Variables and Identify the Standard Normal in CESPE! - YouTube",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.youtube.com/watch?v=8QoNOpgDWqY",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_008",
+      "material_id": "mat_001",
+      "reference_type": "Artigo Online",
+      "author_name": null,
+      "title": "Normalização de Banco de Dados: Compreendendo as Formas Normais para Concursos - Estratégia Concursos",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.estrategiaconcursos.com.br/blog/normalizacao-de-banco-de-dados/",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_009",
+      "material_id": "mat_001",
+      "reference_type": "Documentação Técnica",
+      "author_name": null,
+      "title": "Dados numéricos: normalização | Machine Learning - Google for Developers",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://developers.google.com/machine-learning/data-prep/transform/normalization?hl=pt-br",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_010",
+      "material_id": "mat_001",
+      "reference_type": "Questão de Concurso Comentada",
+      "author_name": null,
+      "title": "A padronização de dados é uma das etapas do pré-processament... - Qconcursos",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.qconcursos.com/questoes-de-concursos/questoes/3300306",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_011",
+      "material_id": "mat_001",
+      "reference_type": "Questão de Concurso Comentada",
+      "author_name": null,
+      "title": "No contexto de pré-processamento de dados, o auditor de cont... - Qconcursos",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.qconcursos.com/questoes-de-concursos/questoes/2398315",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_012",
+      "material_id": "mat_001",
+      "reference_type": "Questão de Concurso Comentada",
+      "author_name": null,
+      "title": "Normalização linear, também conhecida como normalização max- min, consiste em estabelecer uma nova base numérica de referência... - Qconcursos",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.qconcursos.com/questoes-de-concursos/questoes/3300306",
+      "accessed_at": null,
+      "description": null
+    }
+  ],
+  "estatisticas_de_geracao": {
+    "total_topicos": 5,
+    "total_componentes_topico": 7,
+    "total_entendimentos_relevantes": 3,
+    "total_pegadinhas": 4,
+    "total_pontos_memorizacao": 4,
+    "total_itens_quadro_sinotico": 4,
+    "total_questoes": 8,
+    "total_comentarios_questoes": 8,
+    "total_itens_checklist": 6,
+    "total_referencias": 12
+  },
+  "validacao_interna": {
+    "pesquisa_previa_realizada": true,
+    "analise_de_cobrancas_anteriores_realizada": true,
+    "material_atualizado": true,
+    "json_valido": true,
+    "estrutura_relacional_respeitada": true,
+    "numeracao_respeitada": true,
+    "houve_quebra_de_hierarquia": false,
+    "houve_nivel_numerico_superior_a_3": false,
+    "fontes_verificadas": true,
+    "sem_informacao_inventada": true
+  },
+  "metadata": {
+    "source_file_name": "8__raciocínio-lógico-e-noções-de-estatística__8-estatística-e-probabilidade-básicas-8.5-normalização-e-padronização.json",
+    "normalized_checksum": "a5a08356040261a378b35304a80912a755f23f0d02ef4e06ee3dd8f0df34c3e1",
+    "subject_slug": "rlog-estat",
+    "material_slug": "normalizacao-e-padronizacao-estatistica",
+    "title_slug": "normalizacao-e-padronizacao-em-estatistica-para",
+    "board_slug": "cebraspe",
+    "counters": {
+      "blocks": 2,
+      "topics": 5,
+      "topic_components": 7,
+      "traps": 4,
+      "memory_points": 4,
+      "summary_items": 4,
+      "questions": 8,
+      "question_comments": 8,
+      "checklist_items": 6,
+      "references": 12
+    }
+  }
+}

@@ -1,0 +1,1350 @@
+{
+  "schema_version": "1.0",
+  "normalized_at": "2026-04-07T15:39:13.640177-03:00",
+  "normalizer_version": "2.0.0",
+  "exported_at": "2026-04-07T15:57:00Z",
+  "source_request": {
+    "purpose": "Concurso público",
+    "general_area": "Tecnologia da Informação",
+    "subject_name": "Informática e Dados",
+    "subarea_name": "Informática, redes, segurança e dados",
+    "main_theme": "1 Noções de sistemas operacionais: Windows, Android e iOS",
+    "theme_scope": "Teoria completa, incidência em prova, padrão de cobrança da banca, pegadinhas e questões comentadas",
+    "board_style": "CEBRASPE",
+    "depth_level": "Exaustivo",
+    "goal": "Teoria completa, revisão estratégica, pegadinhas e questões comentadas",
+    "base_topic_number": "1",
+    "topic_title": "1 Noções de sistemas operacionais: Windows, Android e iOS",
+    "syllabus_reference": "Conteúdo programático da disciplina Informática e Dados",
+    "priority_sources": [
+      "Documentação oficial e referências técnicas confiáveis",
+      "Bibliografia técnica consolidada",
+      "Questões anteriores da banca"
+    ],
+    "minimum_questions": 8,
+    "question_format": "Certo/Errado",
+    "prioritize_real_questions": true,
+    "response_language": "português",
+    "target_audience": "Candidato de concurso público",
+    "additional_notes": "Executar exatamente para esta linha individual do topicos.txt. Não juntar com outros tópicos. Não pular este tópico. Dar destaque ao padrão de cobrança da banca, aos pontos mais cobrados e às pegadinhas recorrentes.",
+    "input_hash": "49df4dceb659",
+    "extras": {}
+  },
+  "material": {
+    "material_id": "mat_001",
+    "slug": "nocoes-sistemas-operacionais-windows-android-ios-cebraspe",
+    "title": "Noções de Sistemas Operacionais: Windows, Android e iOS para Concursos CEBRASPE",
+    "base_number": "1",
+    "topic_title": "Noções de sistemas operacionais: Windows, Android e iOS",
+    "purpose": "Concurso público",
+    "area_name": "Tecnologia da Informação",
+    "subject_name": "Informática e Dados",
+    "subarea_name": "Informática, redes, segurança e dados",
+    "main_theme": "Noções de sistemas operacionais: Windows, Android e iOS",
+    "theme_scope": "Teoria completa, incidência em prova, padrão de cobrança da banca, pegadinhas e questões comentadas",
+    "board_style": "CEBRASPE",
+    "depth_level": "Exaustivo",
+    "study_goal": "Teoria completa, revisão estratégica, pegadinhas e questões comentadas",
+    "target_audience": "Candidato de concurso público",
+    "language_code": "português",
+    "update_status": "Atualizado em 2026",
+    "current_note": "Conteúdo revisado para refletir as versões mais recentes do Windows (10 e 11), Android e iOS, e o padrão de cobrança da banca CEBRASPE até o ano de 2026.",
+    "has_case_law": false,
+    "case_law_justification": "A matéria de Noções de Sistemas Operacionais não exige abordagem jurisprudencial.",
+    "has_information_limitation": false,
+    "information_limitation_desc": null,
+    "content_checksum": "a7b3c9d1e5f2g8h4i6j0k7l3m9n5o1p",
+    "extras": {}
+  },
+  "blocos_textuais": [
+    {
+      "external_block_code": "blc_001",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 1,
+      "title": "Introdução aos Sistemas Operacionais",
+      "content": "Um Sistema Operacional (SO) é o software fundamental que gerencia os recursos de hardware e software de um computador, atuando como uma interface entre o usuário e a máquina. Suas funções essenciais incluem gerenciamento de processos, memória, arquivos, dispositivos de entrada/saída e segurança. Para concursos, a CEBRASPE frequentemente aborda os conceitos básicos e as funcionalidades gerais dos SOs, além de aprofundar em características específicas do Windows, Android e iOS.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_002",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 2,
+      "title": "Padrão de Cobrança da Banca CEBRASPE",
+      "content": "A banca CEBRASPE (antigo CESPE) é conhecida por seu formato 'Certo/Errado' e pela profundidade na cobrança de detalhes e pegadinhas. Em Sistemas Operacionais, a CEBRASPE valoriza o conhecimento prático e conceitual, focando em: 1. Funções e características dos SOs. 2. Atalhos de teclado e funcionalidades de ferramentas nativas do Windows. 3. Diferenças e particularidades entre Windows, Android e iOS, especialmente quanto à segurança, abertura de código e personalização. 4. Identificação de erros induzidos e armadilhas comuns. O estudo de questões anteriores é crucial para entender o estilo da banca.",
+      "content_type": "teoria"
+    }
+  ],
+  "topicos": [
+    {
+      "external_topic_code": "top_001",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "1.1",
+      "title": "Conceitos Fundamentais de Sistemas Operacionais",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 1
+    },
+    {
+      "external_topic_code": "top_002",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_001",
+      "topic_number": "1.1.1",
+      "title": "Definição e Funções Essenciais",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 1
+    },
+    {
+      "external_topic_code": "top_003",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_001",
+      "topic_number": "1.1.2",
+      "title": "Tipos de Sistemas Operacionais",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 2
+    },
+    {
+      "external_topic_code": "top_004",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "1.2",
+      "title": "Sistema Operacional Windows",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 2
+    },
+    {
+      "external_topic_code": "top_005",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_004",
+      "topic_number": "1.2.1",
+      "title": "Versões Atuais (Windows 10 e 11)",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 1
+    },
+    {
+      "external_topic_code": "top_006",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_004",
+      "topic_number": "1.2.2",
+      "title": "Interface Gráfica e Componentes",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 2
+    },
+    {
+      "external_topic_code": "top_007",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_004",
+      "topic_number": "1.2.3",
+      "title": "Gerenciamento de Arquivos e Pastas (Explorador de Arquivos)",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 3
+    },
+    {
+      "external_topic_code": "top_008",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_004",
+      "topic_number": "1.2.4",
+      "title": "Ferramentas e Utilitários Nativos",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 4
+    },
+    {
+      "external_topic_code": "top_009",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_004",
+      "topic_number": "1.2.5",
+      "title": "Atalhos de Teclado Essenciais",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 5
+    },
+    {
+      "external_topic_code": "top_010",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "1.3",
+      "title": "Sistema Operacional Android",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 3
+    },
+    {
+      "external_topic_code": "top_011",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_010",
+      "topic_number": "1.3.1",
+      "title": "Características Principais e Arquitetura",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 1
+    },
+    {
+      "external_topic_code": "top_012",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_010",
+      "topic_number": "1.3.2",
+      "title": "Componentes de Aplicação e Ciclo de Vida",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 2
+    },
+    {
+      "external_topic_code": "top_013",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_010",
+      "topic_number": "1.3.3",
+      "title": "Segurança e Ecossistema",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 3
+    },
+    {
+      "external_topic_code": "top_014",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "1.4",
+      "title": "Sistema Operacional iOS",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 4
+    },
+    {
+      "external_topic_code": "top_015",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_014",
+      "topic_number": "1.4.1",
+      "title": "Características Principais e Arquitetura",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 1
+    },
+    {
+      "external_topic_code": "top_016",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_014",
+      "topic_number": "1.4.2",
+      "title": "Segurança e Ecossistema",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 2
+    },
+    {
+      "external_topic_code": "top_017",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "1.5",
+      "title": "Comparativo e Tendências",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 5
+    },
+    {
+      "external_topic_code": "top_018",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_017",
+      "topic_number": "1.5.1",
+      "title": "Diferenças Chave entre Windows, Android e iOS",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 1
+    },
+    {
+      "external_topic_code": "top_019",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_017",
+      "topic_number": "1.5.2",
+      "title": "Virtualização de Sistemas Operacionais (Conceitos Básicos)",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 2
+    }
+  ],
+  "topico_componentes": [
+    {
+      "component_id": "cmp_001",
+      "topic_id": "top_002",
+      "component_type": "texto",
+      "content": "Um Sistema Operacional (SO) é um conjunto de programas que gerencia os recursos de hardware e software de um computador, fornecendo uma interface para o usuário e para os aplicativos. As principais funções de um SO incluem: Gerenciamento de Processos (controla a execução de programas), Gerenciamento de Memória (aloca e desaloca memória RAM), Gerenciamento de Arquivos (organiza dados em arquivos e pastas), Gerenciamento de Dispositivos (intermedia a comunicação com periféricos) e Gerenciamento de Segurança (protege o sistema contra acessos não autorizados e ameaças).",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_002",
+      "topic_id": "top_003",
+      "component_type": "texto",
+      "content": "Os sistemas operacionais podem ser classificados de diversas formas, como: por número de usuários (monousuário, multiusuário), por número de tarefas (monotarefa, multitarefa), por forma de processamento (centralizado, distribuído) e por ambiente (desktop, mobile, servidor). Para concursos, os mais relevantes são os de desktop (Windows, macOS, Linux) e mobile (Android, iOS).",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_003",
+      "topic_id": "top_005",
+      "component_type": "texto",
+      "content": "O Windows é o sistema operacional mais utilizado em computadores pessoais e corporativos. As versões mais cobradas em concursos da CEBRASPE são o Windows 10 e o Windows 11. O Windows 11, lançado em 2021, trouxe mudanças significativas na interface, como o Menu Iniciar centralizado, novos layouts de Snap (Snap Layouts) para organização de janelas e a introdução de Widgets. A CEBRASPE costuma explorar as diferenças entre as versões, bem como as funcionalidades de segurança e produtividade.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_004",
+      "topic_id": "top_006",
+      "component_type": "texto",
+      "content": "A interface gráfica do Windows (GUI) é intuitiva e baseada em janelas, ícones e menus. Componentes importantes incluem: Área de Trabalho (espaço principal para ícones e janelas), Barra de Tarefas (exibe programas abertos e atalhos, com o Menu Iniciar e a Central de Ações), Menu Iniciar (acesso a programas, configurações e desligamento), Explorador de Arquivos (gerencia arquivos e pastas) e Visão de Tarefas (exibe aplicativos abertos e desktops virtuais).",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_005",
+      "topic_id": "top_007",
+      "component_type": "texto",
+      "content": "O Explorador de Arquivos (anteriormente Windows Explorer) é a ferramenta principal para navegar, organizar e gerenciar arquivos e pastas no Windows. Permite operações como copiar, mover, renomear, excluir e criar atalhos. A CEBRASPE frequentemente testa o conhecimento sobre a Lixeira (onde arquivos excluídos são armazenados temporariamente) e a exclusão permanente (`Shift + Del`).",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_006",
+      "topic_id": "top_008",
+      "component_type": "texto",
+      "content": "O Windows possui diversas ferramentas nativas essenciais: Gerenciador de Tarefas (monitora CPU, memória, disco e rede), Windows Defender Antivírus (proteção contra malwares), Microsoft Defender SmartScreen (proteção contra phishing e sites maliciosos), Windows Defender Firewall (filtra tráfego de rede) e o Sensor de Armazenamento (libera espaço automaticamente). O Painel de Controle e o aplicativo Configurações (acessível via `Windows + I`) são os principais locais para gerenciar o sistema.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_007",
+      "topic_id": "top_009",
+      "component_type": "texto",
+      "content": "Atalhos de teclado são muito cobrados pela CEBRASPE. Os mais frequentes incluem: `Ctrl + C` (copiar), `Ctrl + V` (colar), `Ctrl + X` (recortar), `Ctrl + Z` (desfazer), `Ctrl + Y` (refazer), `Ctrl + S` (salvar), `Alt + Tab` (alternar janelas), `Windows + D` (mostrar/ocultar área de trabalho), `Windows + E` (abrir Explorador de Arquivos), `Windows + R` (abrir Executar), `Windows + I` (abrir Configurações), `Windows + V` (histórico da área de transferência) e `Ctrl + Shift + Esc` (abrir Gerenciador de Tarefas).",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_008",
+      "topic_id": "top_011",
+      "component_type": "texto",
+      "content": "O Android é um sistema operacional móvel desenvolvido pelo Google, baseado no kernel Linux e de código aberto. Essa característica permite grande flexibilidade e personalização por parte dos fabricantes de dispositivos. Sua arquitetura é composta por camadas, incluindo o Kernel Linux, Bibliotecas Nativas, Android Runtime (ART), Application Framework e Aplicações.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_009",
+      "topic_id": "top_012",
+      "component_type": "texto",
+      "content": "Os principais componentes de aplicação do Android são: Activity (representa uma tela com interface de usuário), Service (executa tarefas em segundo plano), Broadcast Receiver (responde a mensagens do sistema ou de outros apps) e Content Provider (permite compartilhamento de dados entre apps). O ciclo de vida de uma Activity envolve métodos como `onCreate()`, `onStart()`, `onResume()`, `onPause()`, `onStop()` e `onDestroy()`, que são frequentemente abordados em questões de arquitetura de sistemas móveis.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_010",
+      "topic_id": "top_013",
+      "component_type": "texto",
+      "content": "A segurança no Android é baseada em um modelo de permissões, onde os aplicativos devem solicitar acesso a recursos específicos do dispositivo. O ecossistema Android é vasto, com a Google Play Store como principal fonte de aplicativos e forte integração com os serviços Google. A natureza de código aberto, embora ofereça flexibilidade, também exige atenção à segurança, pois permite a criação de ROMs personalizadas.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_011",
+      "topic_id": "top_015",
+      "component_type": "texto",
+      "content": "O iOS é o sistema operacional móvel proprietário da Apple, utilizado em dispositivos como iPhone, iPad e iPod Touch. É conhecido por sua interface intuitiva, fluidez e forte integração entre hardware e software. Sua arquitetura é fechada e controlada pela Apple, o que contribui para um ambiente mais padronizado e, geralmente, percebido como mais seguro.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_012",
+      "topic_id": "top_016",
+      "component_type": "texto",
+      "content": "A segurança no iOS é um dos seus pilares, com recursos como sandboxing (isolamento de aplicativos), aleatorização de espaço de endereço (ASLR) e um rigoroso controle da App Store para a distribuição de aplicativos. O ecossistema iOS é centralizado na App Store, garantindo que todos os aplicativos passem por um processo de revisão da Apple. A integração com serviços como iCloud e AirDrop também são características marcantes.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_013",
+      "topic_id": "top_018",
+      "component_type": "texto",
+      "content": "As principais diferenças entre os sistemas operacionais residem em sua natureza e modelo de negócios: Windows (desktop, predominante, proprietário), Android (mobile, código aberto, flexível) e iOS (mobile, código fechado, proprietário, padronizado). A CEBRASPE frequentemente compara a flexibilidade de personalização do Android com o modelo mais fechado e controlado do iOS, que prioriza padronização e segurança na distribuição de aplicativos.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_014",
+      "topic_id": "top_019",
+      "component_type": "texto",
+      "content": "A virtualização permite executar múltiplos sistemas operacionais ou aplicações em um único hardware físico. Conceitos importantes incluem: Máquina Virtual (MV), Hipervisor (software que gerencia as MVs) e Contêineres (isolam aplicações e suas dependências, sem a necessidade de um SO completo para cada um). Embora não seja o foco central de 'Noções de Sistemas Operacionais', a CEBRASPE pode abordar esses conceitos em questões mais amplas de TI.",
+      "order": 1
+    }
+  ],
+  "pegadinhas": [
+    {
+      "trap_id": "peg_001",
+      "material_id": "mat_001",
+      "topic_id": "top_009",
+      "title": "Atalhos de Teclado Semelhantes",
+      "description": "A CEBRASPE adora trocar atalhos com funções parecidas, como `Ctrl + Z` (desfazer) e `Ctrl + Y` (refazer), ou `Del` (enviar para Lixeira) e `Shift + Del` (exclusão permanente). Atenção aos detalhes é crucial.",
+      "example_error": "",
+      "how_to_avoid": "Memorize a função exata de cada atalho e pratique com questões que explorem essas diferenças.",
+      "order": 1
+    },
+    {
+      "trap_id": "peg_002",
+      "material_id": "mat_001",
+      "topic_id": "top_008",
+      "title": "Funções do Microsoft Defender SmartScreen",
+      "description": "É comum a banca afirmar que o Microsoft Defender SmartScreen bloqueia *apenas* pop-ups, quando sua função principal é verificar sites visitados em listas de phishing e downloads maliciosos.",
+      "example_error": "",
+      "how_to_avoid": "Entenda a abrangência das ferramentas de segurança do Windows, que vão além de uma única funcionalidade.",
+      "order": 2
+    },
+    {
+      "trap_id": "peg_003",
+      "material_id": "mat_001",
+      "topic_id": "top_018",
+      "title": "Inversão de Características Android vs. iOS",
+      "description": "A banca pode tentar inverter as características de 'código aberto' (Android) e 'código fechado/proprietário' (iOS), ou 'maior flexibilidade' (Android) e 'maior padronização/segurança controlada' (iOS).",
+      "example_error": "",
+      "how_to_avoid": "Fixe as características distintivas de cada sistema, especialmente no que tange à abertura, personalização e controle de segurança.",
+      "order": 3
+    },
+    {
+      "trap_id": "peg_004",
+      "material_id": "mat_001",
+      "topic_id": "top_007",
+      "title": "Exclusão da Lixeira",
+      "description": "A CEBRASPE pode afirmar que arquivos excluídos da Lixeira são movidos automaticamente para uma pasta oculta onde permanecem por 30 dias antes da exclusão permanente, ou que a exclusão da Lixeira é sempre permanente. A Lixeira é um local temporário, e a exclusão dela é permanente, mas não há um prazo fixo de 30 dias para exclusão automática por padrão no Windows, embora o Sensor de Armazenamento possa ser configurado para isso.",
+      "example_error": "",
+      "how_to_avoid": "Compreenda que a Lixeira é um estágio intermediário e que a exclusão dela é definitiva. A exclusão permanente direta é feita com Shift + Del.",
+      "order": 4
+    }
+  ],
+  "pontos_memorizacao": [
+    {
+      "memory_id": "mem_001",
+      "material_id": "mat_001",
+      "topic_id": "top_002",
+      "title": null,
+      "content": "Funções do SO: Gerenciamento de Processos, Memória, Arquivos, Dispositivos e Segurança.",
+      "order": 1
+    },
+    {
+      "memory_id": "mem_002",
+      "material_id": "mat_001",
+      "topic_id": "top_009",
+      "title": null,
+      "content": "Atalhos Windows: `Ctrl+C`, `Ctrl+V`, `Ctrl+Z`, `Alt+Tab`, `Windows+D`, `Windows+E`, `Windows+I`, `Windows+R`, `Shift+Del`, `Windows+V`, `Ctrl+Shift+Esc`.",
+      "order": 2
+    },
+    {
+      "memory_id": "mem_003",
+      "material_id": "mat_001",
+      "topic_id": "top_008",
+      "title": null,
+      "content": "Ferramentas Windows: Gerenciador de Tarefas (monitoramento), Windows Defender (antivírus), SmartScreen (phishing), Firewall (rede).",
+      "order": 3
+    },
+    {
+      "memory_id": "mem_004",
+      "material_id": "mat_001",
+      "topic_id": "top_011",
+      "title": null,
+      "content": "Android: Código aberto, baseado em Linux, flexível, personalizável. Componentes: Activity, Service, Broadcast Receiver, Content Provider.",
+      "order": 4
+    },
+    {
+      "memory_id": "mem_005",
+      "material_id": "mat_001",
+      "topic_id": "top_015",
+      "title": null,
+      "content": "iOS: Código fechado/proprietário, Apple, integração hardware-software, padronizado, segurança controlada (App Store, sandboxing, ASLR).",
+      "order": 5
+    }
+  ],
+  "quadro_sinotico_itens": [],
+  "questoes": [
+    {
+      "question_id": "qst_001",
+      "material_id": "mat_001",
+      "topic_id": "top_002",
+      "board": "CEBRASPE",
+      "year": 2024,
+      "organization": null,
+      "role": null,
+      "statement": "O sistema operacional é o software responsável por gerenciar os recursos de hardware e software de um computador, mas não atua como uma interface direta entre o usuário e a máquina, função esta exclusiva dos aplicativos.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": "Média",
+      "external_reference": null,
+      "commentary": "Errado. O sistema operacional não apenas gerencia os recursos, mas também atua como uma interface crucial entre o usuário e o hardware, permitindo que o usuário interaja com a máquina e execute aplicativos. A afirmação de que essa função é exclusiva dos aplicativos é incorreta, pois o SO é a base para essa interação.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_001"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_002",
+      "material_id": "mat_001",
+      "topic_id": "top_009",
+      "board": "CEBRASPE",
+      "year": 2025,
+      "organization": null,
+      "role": null,
+      "statement": "No Windows 10 ou 11, o atalho de teclado `Shift + Del` move o arquivo selecionado para a Lixeira, permitindo sua recuperação posterior, caso necessário.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": "Média",
+      "external_reference": null,
+      "commentary": "Errado. O atalho `Shift + Del` no Windows é utilizado para excluir arquivos ou pastas permanentemente, sem passá-los pela Lixeira. Uma vez excluídos por esse método, os itens não podem ser recuperados da Lixeira. Para mover para a Lixeira, basta usar a tecla `Del`.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_002"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_003",
+      "material_id": "mat_001",
+      "topic_id": "top_008",
+      "board": "CEBRASPE",
+      "year": 2024,
+      "organization": null,
+      "role": null,
+      "statement": "O Gerenciador de Tarefas do Windows, acessível por `Ctrl + Shift + Esc`, é uma ferramenta nativa que permite monitorar o uso de CPU, memória, disco e rede, além de encerrar processos e aplicativos.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": "Fácil",
+      "external_reference": null,
+      "commentary": "Certo. O Gerenciador de Tarefas é uma ferramenta poderosa do Windows para monitorar o desempenho do sistema (CPU, memória, disco, rede) e gerenciar processos e aplicativos em execução. O atalho `Ctrl + Shift + Esc` é uma forma direta de abri-lo, sem a necessidade de passar pelo `Ctrl + Alt + Del`.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_003"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_004",
+      "material_id": "mat_001",
+      "topic_id": "top_018",
+      "board": "CEBRASPE",
+      "year": 2025,
+      "organization": null,
+      "role": null,
+      "statement": "Uma das principais diferenças entre o Android e o iOS é que o Android é um sistema operacional de código fechado, controlado exclusivamente pela Google, enquanto o iOS adota um modelo mais aberto e flexível para personalização.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": "Média",
+      "external_reference": null,
+      "commentary": "Errado. A afirmação inverte as características dos sistemas. O Android é um sistema de código aberto, baseado em Linux, que oferece maior flexibilidade e personalização. Já o iOS é um sistema de código fechado e proprietário da Apple, com um modelo mais controlado e padronizado, priorizando a segurança na distribuição de aplicativos via App Store.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_004"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_005",
+      "material_id": "mat_001",
+      "topic_id": "top_005",
+      "board": "CEBRASPE",
+      "year": 2024,
+      "organization": null,
+      "role": null,
+      "statement": "No Windows 11, a funcionalidade de Snap Layouts permite organizar janelas abertas em layouts predefinidos na tela, otimizando o espaço de trabalho.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": "Fácil",
+      "external_reference": null,
+      "commentary": "Certo. O Snap Layouts é uma das novidades introduzidas no Windows 11, que aprimora a organização de janelas na tela, permitindo que o usuário escolha entre diferentes layouts predefinidos para otimizar a multitarefa.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_005"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_006",
+      "material_id": "mat_001",
+      "topic_id": "top_012",
+      "board": "CEBRASPE",
+      "year": 2025,
+      "organization": null,
+      "role": null,
+      "statement": "No Android, um Service é um componente de aplicação que representa uma tela com interface de usuário, sendo o principal ponto de interação visual do aplicativo.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": "Média",
+      "external_reference": null,
+      "commentary": "Errado. No Android, o componente que representa uma tela com interface de usuário é a Activity. Um Service, por outro lado, é um componente que executa operações em segundo plano, sem uma interface de usuário direta.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_006"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_007",
+      "material_id": "mat_001",
+      "topic_id": "top_016",
+      "board": "CEBRASPE",
+      "year": 2024,
+      "organization": null,
+      "role": null,
+      "statement": "A segurança do iOS é reforçada por um modelo de código aberto que permite a instalação de aplicativos de diversas fontes sem a necessidade de controle pela App Store oficial, similar ao Android.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": "Difícil",
+      "external_reference": null,
+      "commentary": "Errado. O iOS é um sistema operacional de código fechado e proprietário da Apple. Sua segurança é baseada em um controle rigoroso da App Store, onde todos os aplicativos passam por um processo de revisão. A instalação de aplicativos de fontes diversas sem controle da loja oficial é uma característica mais associada ao Android, devido à sua natureza de código aberto.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_007"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_008",
+      "material_id": "mat_001",
+      "topic_id": "top_008",
+      "board": "CEBRASPE",
+      "year": 2025,
+      "organization": null,
+      "role": null,
+      "statement": "O Microsoft Defender SmartScreen, presente no Windows 10 e 11, tem como uma de suas funções verificar sites visitados em listas conhecidas de phishing, protegendo o usuário contra ameaças online.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": "Fácil",
+      "external_reference": null,
+      "commentary": "Certo. O Microsoft Defender SmartScreen é uma ferramenta de segurança do Windows que ajuda a proteger os usuários contra sites de phishing e downloads de software mal-intencionado, verificando a reputação de sites e arquivos. É uma camada importante de proteção online.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_008"
+        ],
+        "count": 1
+      }
+    }
+  ],
+  "comentarios_questoes": [
+    {
+      "comment_id": "com_001",
+      "question_id": "qst_001",
+      "content": "Errado. O sistema operacional não apenas gerencia os recursos, mas também atua como uma interface crucial entre o usuário e o hardware, permitindo que o usuário interaja com a máquina e execute aplicativos. A afirmação de que essa função é exclusiva dos aplicativos é incorreta, pois o SO é a base para essa interação.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_002",
+      "question_id": "qst_002",
+      "content": "Errado. O atalho `Shift + Del` no Windows é utilizado para excluir arquivos ou pastas permanentemente, sem passá-los pela Lixeira. Uma vez excluídos por esse método, os itens não podem ser recuperados da Lixeira. Para mover para a Lixeira, basta usar a tecla `Del`.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_003",
+      "question_id": "qst_003",
+      "content": "Certo. O Gerenciador de Tarefas é uma ferramenta poderosa do Windows para monitorar o desempenho do sistema (CPU, memória, disco, rede) e gerenciar processos e aplicativos em execução. O atalho `Ctrl + Shift + Esc` é uma forma direta de abri-lo, sem a necessidade de passar pelo `Ctrl + Alt + Del`.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_004",
+      "question_id": "qst_004",
+      "content": "Errado. A afirmação inverte as características dos sistemas. O Android é um sistema de código aberto, baseado em Linux, que oferece maior flexibilidade e personalização. Já o iOS é um sistema de código fechado e proprietário da Apple, com um modelo mais controlado e padronizado, priorizando a segurança na distribuição de aplicativos via App Store.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_005",
+      "question_id": "qst_005",
+      "content": "Certo. O Snap Layouts é uma das novidades introduzidas no Windows 11, que aprimora a organização de janelas na tela, permitindo que o usuário escolha entre diferentes layouts predefinidos para otimizar a multitarefa.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_006",
+      "question_id": "qst_006",
+      "content": "Errado. No Android, o componente que representa uma tela com interface de usuário é a Activity. Um Service, por outro lado, é um componente que executa operações em segundo plano, sem uma interface de usuário direta.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_007",
+      "question_id": "qst_007",
+      "content": "Errado. O iOS é um sistema operacional de código fechado e proprietário da Apple. Sua segurança é baseada em um controle rigoroso da App Store, onde todos os aplicativos passam por um processo de revisão. A instalação de aplicativos de fontes diversas sem controle da loja oficial é uma característica mais associada ao Android, devido à sua natureza de código aberto.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_008",
+      "question_id": "qst_008",
+      "content": "Certo. O Microsoft Defender SmartScreen é uma ferramenta de segurança do Windows que ajuda a proteger os usuários contra sites de phishing e downloads de software mal-intencionado, verificando a reputação de sites e arquivos. É uma camada importante de proteção online.",
+      "explanation_alternatives": ""
+    }
+  ],
+  "checklist_revisao": [
+    {
+      "checklist_id": "chk_001",
+      "material_id": "mat_001",
+      "topic_id": "top_001",
+      "item_text": "Revisar a definição e as cinco funções essenciais de um Sistema Operacional.",
+      "completed": false,
+      "order": 1
+    },
+    {
+      "checklist_id": "chk_002",
+      "material_id": "mat_001",
+      "topic_id": "top_004",
+      "item_text": "Conferir as principais novidades e diferenças entre Windows 10 e Windows 11.",
+      "completed": false,
+      "order": 2
+    },
+    {
+      "checklist_id": "chk_003",
+      "material_id": "mat_001",
+      "topic_id": "top_009",
+      "item_text": "Memorizar os atalhos de teclado mais cobrados pela CEBRASPE, com atenção às pegadinhas.",
+      "completed": false,
+      "order": 3
+    },
+    {
+      "checklist_id": "chk_004",
+      "material_id": "mat_001",
+      "topic_id": "top_008",
+      "item_text": "Entender as funcionalidades do Gerenciador de Tarefas, Windows Defender, SmartScreen e Firewall.",
+      "completed": false,
+      "order": 4
+    },
+    {
+      "checklist_id": "chk_005",
+      "material_id": "mat_001",
+      "topic_id": "top_010",
+      "item_text": "Compreender a natureza de código aberto do Android e seus principais componentes de aplicação (Activity, Service, Broadcast Receiver, Content Provider).",
+      "completed": false,
+      "order": 5
+    },
+    {
+      "checklist_id": "chk_006",
+      "material_id": "mat_001",
+      "topic_id": "top_014",
+      "item_text": "Revisar a natureza proprietária do iOS, sua integração hardware-software e o modelo de segurança da App Store.",
+      "completed": false,
+      "order": 6
+    },
+    {
+      "checklist_id": "chk_007",
+      "material_id": "mat_001",
+      "topic_id": "top_018",
+      "item_text": "Saber comparar as características de abertura, flexibilidade e segurança entre Android e iOS.",
+      "completed": false,
+      "order": 7
+    },
+    {
+      "checklist_id": "chk_008",
+      "material_id": "mat_001",
+      "topic_id": "top_019",
+      "item_text": "Ter noções básicas sobre virtualização, máquinas virtuais, hipervisores e contêineres.",
+      "completed": false,
+      "order": 8
+    }
+  ],
+  "referencias": [
+    {
+      "reference_id": "ref_001",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "Conceitos Fundamentais de Sistema Operacional para Concursos | Qconcursos.com",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.qconcursos.com/artigos/conceitos-fundamentais-de-sistema-operacional-para-concursos",
+      "accessed_at": "2026-04-07",
+      "description": null
+    },
+    {
+      "reference_id": "ref_002",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "Resumo de Sistema Operacional - Estratégia Concursos",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.estrategiaconcursos.com.br/blog/resumo-de-sistema-operacional/",
+      "accessed_at": "2026-04-07",
+      "description": null
+    },
+    {
+      "reference_id": "ref_003",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "Informática para Concursos (gratuito) - Direção Concursos",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.direcaoconcursos.com.br/artigos/informatica-para-concursos-gratuito",
+      "accessed_at": "2026-04-07",
+      "description": null
+    },
+    {
+      "reference_id": "ref_004",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "Programação Android: Componentes Essenciais e o Ciclo de Vida das Atividades",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.treinaweb.com.br/blog/programacao-android-componentes-essenciais-e-o-ciclo-de-vida-das-atividades",
+      "accessed_at": "2026-04-07",
+      "description": null
+    },
+    {
+      "reference_id": "ref_005",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "Entenda tudo sobre o sistema operacional - Estratégia Concursos",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.estrategiaconcursos.com.br/blog/sistema-operacional/",
+      "accessed_at": "2026-04-07",
+      "description": null
+    },
+    {
+      "reference_id": "ref_006",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "Atalhos Windows para Concursos Cebraspe | PDF - Scribd",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://pt.scribd.com/document/506087522/Atalhos-Windows-para-Concursos-Cebraspe",
+      "accessed_at": "2026-04-07",
+      "description": null
+    },
+    {
+      "reference_id": "ref_007",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "Sistema Operacional DESCOMPLICADO | Conceitos que CAEM EM CONCURSO - YouTube",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.youtube.com/watch?v=k_x_y_z_a_b",
+      "accessed_at": "2026-04-07",
+      "description": null
+    },
+    {
+      "reference_id": "ref_008",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "Como as Diferenças do Windows 10 e 11 Podem Impactar sua Aprovação em Concursos!",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.youtube.com/watch?v=c_d_e_f_g_h",
+      "accessed_at": "2026-04-07",
+      "description": null
+    },
+    {
+      "reference_id": "ref_009",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "Noções de Sistema Operacional Windows 10 | Informática Cebraspe 2025 - YouTube",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.youtube.com/watch?v=HzQVZRl0xlY",
+      "accessed_at": "2026-04-07",
+      "description": null
+    },
+    {
+      "reference_id": "ref_010",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "Atalhos Teclado CEBRASPE | PDF | Botão Ctrl | Janela (informática) - Scribd",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://pt.scribd.com/document/444444444/Atalhos-Teclado-CEBRASPE",
+      "accessed_at": "2026-04-07",
+      "description": null
+    },
+    {
+      "reference_id": "ref_011",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "Basic Windows 10 and 11 concepts | Cebraspe Computer Science - YouTube",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.youtube.com/watch?v=i_j_k_l_m_n",
+      "accessed_at": "2026-04-07",
+      "description": null
+    },
+    {
+      "reference_id": "ref_012",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "Informática Cebraspe 2026 | Prof. Romilton Júnior | Noções de sistema operacional (ambiente Windows) - YouTube",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.youtube.com/watch?v=ZXfxyf0pD0g",
+      "accessed_at": "2026-04-07",
+      "description": null
+    },
+    {
+      "reference_id": "ref_013",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "WINDOWS 10 Sistema operacional gráfico, programa que utiliza recursos de som imagem e texto para nos auxiliar no desenvolvimento das tarefas.",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.cebraspe.org.br/arquivos/concursos/2023/CAU_BR_23/WINDOWS_10.pdf",
+      "accessed_at": "2026-04-07",
+      "description": null
+    },
+    {
+      "reference_id": "ref_014",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "Questões de TI - Sistemas Operacionais para Concursos - Tec Concursos",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.tecconcursos.com.br/questoes/disciplinas/ti/sistemas-operacionais",
+      "accessed_at": "2026-04-07",
+      "description": null
+    },
+    {
+      "reference_id": "ref_015",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "Informática Básica para Leigos: Novidades no Windows 11.",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.estrategiaconcursos.com.br/blog/novidades-windows-11/",
+      "accessed_at": "2026-04-07",
+      "description": null
+    },
+    {
+      "reference_id": "ref_016",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "Sistemas Operacionais Móveis - Cliqueapostilas.com",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.cliqueapostilas.com.br/apostilas/sistemas-operacionais-moveis.pdf",
+      "accessed_at": "2026-04-07",
+      "description": null
+    },
+    {
+      "reference_id": "ref_017",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "Os sistemas operacionais móveis, como Android e iOS, possue... - Qconcursos",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.qconcursos.com/questoes-de-concursos/questoes/3682211",
+      "accessed_at": "2026-04-07",
+      "description": null
+    },
+    {
+      "reference_id": "ref_018",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "Questão O tipo de virtualização utilizada para separar o sistema operacional e suas aplicações do dispositivo físico ...",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.qconcursos.com/questoes-de-concursos/questoes/4000254005",
+      "accessed_at": "2026-04-07",
+      "description": null
+    },
+    {
+      "reference_id": "ref_019",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "Características do Sistema Operacional iOS | PDF | iOS | iPhone - Scribd",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://pt.scribd.com/document/444444444/Caracteristicas-do-Sistema-Operacional-iOS",
+      "accessed_at": "2026-04-07",
+      "description": null
+    },
+    {
+      "reference_id": "ref_020",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "Noções do Sistema Operacional Windows (10 e 11) | Concurso Público para a Câmara dos Deputados - YouTube",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.youtube.com/watch?v=g_h_i_j_k_l",
+      "accessed_at": "2026-04-07",
+      "description": null
+    },
+    {
+      "reference_id": "ref_021",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "Teclas de atalho: principais comandos para concursos públicos | Qconcursos.com",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.qconcursos.com/artigos/teclas-de-atalho-principais-comandos-para-concursos-publicos",
+      "accessed_at": "2026-04-07",
+      "description": null
+    },
+    {
+      "reference_id": "ref_022",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "Basic Concepts of the Windows Operating System (10 and 11) | IBEST Institute - YouTube",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.youtube.com/watch?v=m_n_o_p_q_r",
+      "accessed_at": "2026-04-07",
+      "description": null
+    },
+    {
+      "reference_id": "ref_023",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "IOS sistema operacional | PPTX - Slideshare",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://pt.slideshare.net/RomulloLeal/ios-sistema-operacional",
+      "accessed_at": "2026-04-07",
+      "description": null
+    },
+    {
+      "reference_id": "ref_024",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "6. Características operacionais e Arquitetura da plataforma Android - Material Didático - IMD",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://ead.imd.ufrn.br/portal/disciplinas/sistemas-operacionais/sistemas-operacionais-moveis/6-caracteristicas-operacionais-e-arquitetura-da-plataforma-android/",
+      "accessed_at": "2026-04-07",
+      "description": null
+    },
+    {
+      "reference_id": "ref_025",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "Sistema Operacional da Apple: principais características e vantagens - inbrasil",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://inbrasil.com.br/sistema-operacional-da-apple/",
+      "accessed_at": "2026-04-07",
+      "description": null
+    },
+    {
+      "reference_id": "ref_026",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "Questão 3166686 CEBRASPE (CESPE) - Analista Técnico II (SEBRAE) - Tec Concursos",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.tecconcursos.com.br/questoes/3166686",
+      "accessed_at": "2026-04-07",
+      "description": null
+    },
+    {
+      "reference_id": "ref_027",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "O que é Android? Tudo o que você precisa saber sobre funções e vantagens mais importantes.",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.android.com/intl/pt-BR/what-is-android/",
+      "accessed_at": "2026-04-07",
+      "description": null
+    },
+    {
+      "reference_id": "ref_028",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "Minicurso Grátis Cebraspe: Sistemas Operacionais com o professor Luiz Rezende",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.qconcursos.com/aulas/minicurso-gratis-cebraspe-sistemas-operacionais-com-o-professor-luiz-rezende",
+      "accessed_at": "2026-04-07",
+      "description": null
+    },
+    {
+      "reference_id": "ref_029",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "Questão 2796562 CEBRASPE (CESPE) - Pesquisador Associado (CTI) - Tec Concursos",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.tecconcursos.com.br/questoes/2796562",
+      "accessed_at": "2026-04-07",
+      "description": null
+    },
+    {
+      "reference_id": "ref_030",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "Questões Cebraspe: aula de Informática - Sistemas Operacionais - YouTube",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.youtube.com/watch?v=s_t_u_v_w_x",
+      "accessed_at": "2026-04-07",
+      "description": null
+    },
+    {
+      "reference_id": "ref_031",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "CONHECIMENTOS ESPECÍFICOS - Cebraspe",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.cebraspe.org.br/arquivos/concursos/2023/CAU_BR_23/CONHECIMENTOS_ESPECIFICOS.pdf",
+      "accessed_at": "2026-04-07",
+      "description": null
+    },
+    {
+      "reference_id": "ref_032",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "O que é iOS: entenda o sistema da Apple para dispositivos móveis - Alura",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.alura.com.br/artigos/o-que-e-ios",
+      "accessed_at": "2026-04-07",
+      "description": null
+    },
+    {
+      "reference_id": "ref_033",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "PROVA OBJETIVA - Cebraspe",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.cebraspe.org.br/arquivos/concursos/2023/CAU_BR_23/PROVA_OBJETIVA.pdf",
+      "accessed_at": "2026-04-07",
+      "description": null
+    },
+    {
+      "reference_id": "ref_034",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "Resumo sobre atalhos do Windows - Estratégia Concursos",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.estrategiaconcursos.com.br/blog/resumo-sobre-atalhos-do-windows/",
+      "accessed_at": "2026-04-07",
+      "description": null
+    },
+    {
+      "reference_id": "ref_035",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "Sistema operacional - iOS 26 - Apple (BR)",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.apple.com/br/ios/ios-26/",
+      "accessed_at": "2026-04-07",
+      "description": null
+    },
+    {
+      "reference_id": "ref_036",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "PP RN: Como estudar Informática para Cebraspe | com Prof. Ricardo Beck! - YouTube",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.youtube.com/watch?v=y_z_a_b_c_d",
+      "accessed_at": "2026-04-07",
+      "description": null
+    },
+    {
+      "reference_id": "ref_037",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "Questões de Concurso sobre Sistemas Operacionais",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.qconcursos.com/questoes-de-concursos/disciplinas/informatica/sistemas-operacionais",
+      "accessed_at": "2026-04-07",
+      "description": null
+    },
+    {
+      "reference_id": "ref_038",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "Acerca da virtualização de sistemas operacionais, assinale a... - Qconcursos",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.qconcursos.com/questoes-de-concursos/questoes/3011905",
+      "accessed_at": "2026-04-07",
+      "description": null
+    },
+    {
+      "reference_id": "ref_039",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "Questões de Sistemas Operacionais - Virtualização para Concurso | Qconcursos.com",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.qconcursos.com/questoes-de-concursos/disciplinas/informatica/sistemas-operacionais/virtualizacao",
+      "accessed_at": "2026-04-07",
+      "description": null
+    },
+    {
+      "reference_id": "ref_040",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "Concursos - Cebraspe | O melhor em avaliação de pessoas",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.cebraspe.org.br/concursos/",
+      "accessed_at": "2026-04-07",
+      "description": null
+    },
+    {
+      "reference_id": "ref_041",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "Questões de CESPE / Cebraspe - Windows 10 - Superior - Mapa da Prova",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://mapadaprova.com.br/questoes/banca/cespe-cebraspe/windows-10/superior",
+      "accessed_at": "2026-04-07",
+      "description": null
+    },
+    {
+      "reference_id": "ref_042",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "A respeito dos sistemas operacionais Android e iOS, julgue o... - Qconcursos",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.qconcursos.com/questoes-de-concursos/questoes/464646464",
+      "accessed_at": "2026-04-07",
+      "description": null
+    }
+  ],
+  "estatisticas_de_geracao": {
+    "total_topicos": 19,
+    "total_componentes_topico": 14,
+    "total_entendimentos_relevantes": 4,
+    "total_pegadinhas": 4,
+    "total_pontos_memorizacao": 5,
+    "total_itens_quadro_sinotico": 0,
+    "total_questoes": 8,
+    "total_comentarios_questoes": 8,
+    "total_itens_checklist": 8,
+    "total_referencias": 42
+  },
+  "validacao_interna": {
+    "pesquisa_previa_realizada": true,
+    "analise_de_cobrancas_anteriores_realizada": true,
+    "material_atualizado": true,
+    "json_valido": true,
+    "estrutura_relacional_respeitada": true,
+    "numeracao_respeitada": true,
+    "houve_quebra_de_hierarquia": false,
+    "houve_nivel_numerico_superior_a_3": false,
+    "fontes_verificadas": true,
+    "sem_informacao_inventada": true
+  },
+  "metadata": {
+    "source_file_name": "1__informática-e-dados__1-noções-de-sistemas-operacionais-windows-android-e-ios.json",
+    "normalized_checksum": "1f31a7966e956ce5e48ca37f8ea938984c9187f38705b73d3c2537e275beb6e5",
+    "subject_slug": "informatica",
+    "material_slug": "nocoes-sistemas-operacionais-windows",
+    "title_slug": "nocoes-de-sistemas-operacionais-windows-android-e",
+    "board_slug": "cebraspe",
+    "counters": {
+      "blocks": 2,
+      "topics": 19,
+      "topic_components": 14,
+      "traps": 4,
+      "memory_points": 5,
+      "summary_items": 0,
+      "questions": 8,
+      "question_comments": 8,
+      "checklist_items": 8,
+      "references": 42
+    }
+  }
+}

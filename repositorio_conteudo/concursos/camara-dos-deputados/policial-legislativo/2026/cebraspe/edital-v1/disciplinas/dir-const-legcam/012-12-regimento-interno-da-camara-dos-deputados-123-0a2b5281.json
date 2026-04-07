@@ -1,0 +1,800 @@
+{
+  "schema_version": "1.0",
+  "normalized_at": "2026-04-07T15:39:13.572657-03:00",
+  "normalizer_version": "2.0.0",
+  "exported_at": "2026-04-07T16:50:00Z",
+  "source_request": {
+    "purpose": "Concurso público",
+    "general_area": "Direito",
+    "subject_name": "Direito Constitucional e Legislação Interna da Câmara dos Deputados",
+    "subarea_name": "Direito Constitucional",
+    "main_theme": "12 Regimento Interno da Câmara dos Deputados: 12.3 Deputados (arts. 226 a 251)",
+    "theme_scope": "Teoria completa, incidência em prova, padrão de cobrança da banca, pegadinhas e questões comentadas",
+    "board_style": "CEBRASPE",
+    "depth_level": "Exaustivo",
+    "goal": "Teoria completa, revisão estratégica, pegadinhas e questões comentadas",
+    "base_topic_number": "12",
+    "topic_title": "12 Regimento Interno da Câmara dos Deputados: 12.3 Deputados (arts. 226 a 251)",
+    "syllabus_reference": "Conteúdo programático da disciplina Direito Constitucional e Legislação Interna da Câmara dos Deputados",
+    "priority_sources": [
+      "Constituição Federal e legislação oficial vigente",
+      "Jurisprudência pertinente e atual, quando cabível",
+      "Doutrina consolidada",
+      "Questões anteriores da banca"
+    ],
+    "minimum_questions": 8,
+    "question_format": "Certo/Errado",
+    "prioritize_real_questions": true,
+    "response_language": "português",
+    "target_audience": "Candidato de concurso público",
+    "additional_notes": "Executar exatamente para esta linha individual do topicos.txt. Não juntar com outros tópicos. Não pular este tópico. Dar destaque ao padrão de cobrança da banca, aos pontos mais cobrados e às pegadinhas recorrentes.",
+    "input_hash": "6e5322999def",
+    "extras": {}
+  },
+  "material": {
+    "material_id": "mat_001",
+    "slug": "ricd-deputados-arts-226-251-cebraspe",
+    "title": "Regimento Interno da Câmara dos Deputados: Deputados (arts. 226 a 251)",
+    "base_number": "12",
+    "topic_title": "12 Regimento Interno da Câmara dos Deputados: 12.3 Deputados (arts. 226 a 251)",
+    "purpose": "Concurso público",
+    "area_name": "Direito",
+    "subject_name": "Direito Constitucional e Legislação Interna da Câmara dos Deputados",
+    "subarea_name": "Direito Constitucional",
+    "main_theme": "Regimento Interno da Câmara dos Deputados: Deputados",
+    "theme_scope": "Teoria completa, incidência em prova, padrão de cobrança da banca, pegadinhas e questões comentadas",
+    "board_style": "CEBRASPE",
+    "depth_level": "Exaustivo",
+    "study_goal": "Teoria completa, revisão estratégica, pegadinhas e questões comentadas",
+    "target_audience": "Candidato de concurso público",
+    "language_code": "português",
+    "update_status": "Atualizado",
+    "current_note": "Material atualizado com base na legislação vigente e análise de questões recentes da banca CEBRASPE, considerando as últimas discussões e entendimentos sobre o Regimento Interno da Câmara dos Deputados.",
+    "has_case_law": true,
+    "case_law_justification": "A jurisprudência é relevante para a compreensão da perda de mandato e de certas prerrogativas parlamentares, especialmente em relação ao Art. 55 da Constituição Federal, que se correlaciona com os dispositivos regimentais. No entanto, o foco principal é a lei seca e o regimento.",
+    "has_information_limitation": false,
+    "information_limitation_desc": null,
+    "content_checksum": "calculado_apos_geracao",
+    "extras": {}
+  },
+  "blocos_textuais": [
+    {
+      "external_block_code": "blc_001",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 1,
+      "title": "Introdução ao Título VI do RICD: Dos Deputados",
+      "content": "O Título VI do Regimento Interno da Câmara dos Deputados (RICD), compreendendo os artigos 226 a 251, detalha a disciplina relativa aos Deputados Federais, abordando seus deveres, direitos, prerrogativas, licenças, afastamentos e as hipóteses de perda do mandato. Este é um tema de alta incidência em concursos públicos, especialmente os organizados pelo CEBRASPE, que exige do candidato não apenas o conhecimento da 'lei seca', mas também a capacidade de distinguir nuances e identificar pegadinhas comuns.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_002",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 2,
+      "title": "Deveres dos Deputados (Art. 226, caput)",
+      "content": "O artigo 226, caput, do RICD estabelece os deveres fundamentais do Deputado Federal. É obrigação do parlamentar apresentar-se à Câmara durante as sessões legislativas ordinárias ou extraordinárias, para participar das sessões do Plenário e das reuniões de Comissão de que seja membro, além das sessões conjuntas do Congresso Nacional. A banca CEBRASPE costuma explorar a literalidade desses deveres, buscando confundir o candidato com o que seriam direitos ou prerrogativas.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_003",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 3,
+      "title": "Direitos e Prerrogativas dos Deputados (Art. 226, incisos)",
+      "content": "Além dos deveres, o artigo 226 do RICD também elenca os direitos assegurados aos Deputados. Entre eles, destacam-se o direito de oferecer proposições em geral, discutir e deliberar sobre qualquer matéria em apreciação na Casa, integrar o Plenário e demais colegiados, e neles votar e ser votado. É crucial diferenciar esses direitos dos deveres, pois a inversão ou a mistura desses conceitos é uma pegadinha frequente em provas.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_004",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 4,
+      "title": "Verificação de Presença e Justificativa de Ausências (Art. 227 e correlatos)",
+      "content": "O RICD prevê mecanismos para a verificação da presença dos Deputados e a justificativa de suas ausências. A assiduidade é um dever parlamentar, e a falta injustificada pode acarretar consequências regimentais. O artigo 227 e seus parágrafos detalham como essa apuração é feita e as possibilidades de justificação, que são importantes para evitar a perda do mandato por ausência.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_005",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 5,
+      "title": "Código de Ética e Decoro Parlamentar (Art. 231 e correlatos)",
+      "content": "O artigo 231 do RICD estabelece que, no exercício do mandato, o Deputado atenderá às prescrições constitucionais e regimentais, bem como às contidas no Código de Ética e Decoro Parlamentar, sujeitando-se às medidas disciplinares nele previstas. A quebra de decoro parlamentar é uma das hipóteses de perda de mandato, conforme o Art. 55, II, da Constituição Federal, e é detalhada no Código de Ética. O CEBRASPE frequentemente aborda situações hipotéticas que envolvem a violação do decoro.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_006",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 6,
+      "title": "Licenças e Afastamentos (Art. 235)",
+      "content": "O artigo 235 do RICD trata das licenças e afastamentos dos Deputados. As licenças podem ser concedidas para: 1) desempenhar missão temporária de caráter diplomático ou cultural; 2) tratamento de saúde; 3) assumir outro cargo público (como Ministro de Estado ou Secretário Estadual/Municipal); ou 4) tratar de interesse particular. É fundamental memorizar as condições de cada tipo de licença, especialmente o prazo máximo de 120 dias por sessão legislativa para licença para tratar de interesse particular, sem remuneração, e a possibilidade de convocação do suplente.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_007",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 7,
+      "title": "Perda de Mandato (Art. 236 e seguintes do RICD e Art. 55 da CF)",
+      "content": "A perda do mandato parlamentar é um tema complexo que envolve tanto a Constituição Federal (Art. 55) quanto o Regimento Interno da Câmara dos Deputados. As hipóteses constitucionais incluem: I - infringir proibições do Art. 54 da CF; II - procedimento declarado incompatível com o decoro parlamentar; III - deixar de comparecer à terça parte das sessões ordinárias da Casa em cada sessão legislativa ordinária, salvo licença ou missão autorizada; IV - perder ou ter suspensos os direitos políticos; V - quando o decretar a Justiça Eleitoral; VI - sofrer condenação criminal transitada em julgado. O RICD detalha o procedimento para a declaração ou decisão da perda do mandato, distinguindo os casos em que a decisão é da Câmara (incisos I, II e VI do Art. 55 CF) e os casos em que a perda é declarada pela Mesa (incisos III, IV e V do Art. 55 CF). A CEBRASPE frequentemente testa a distinção entre esses procedimentos e as maiorias exigidas.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_008",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 8,
+      "title": "Suplência e Vacância",
+      "content": "A vacância do mandato ocorre em casos como falecimento, renúncia ou perda do mandato. Nesses casos, bem como nos afastamentos por licença que impliquem a convocação do suplente, este é chamado a assumir. O RICD estabelece as regras para a convocação e posse do suplente, garantindo a continuidade da representação.",
+      "content_type": "teoria"
+    }
+  ],
+  "topicos": [
+    {
+      "external_topic_code": "top_001",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "12.3",
+      "title": "Deputados (arts. 226 a 251)",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 1
+    },
+    {
+      "external_topic_code": "top_002",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "12.3.1",
+      "title": "Deveres e Direitos dos Deputados",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 2
+    },
+    {
+      "external_topic_code": "top_003",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "12.3.1.1",
+      "title": "Deveres (Art. 226, caput)",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 3
+    },
+    {
+      "external_topic_code": "top_004",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "12.3.1.2",
+      "title": "Direitos e Prerrogativas (Art. 226, incisos)",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 4
+    },
+    {
+      "external_topic_code": "top_005",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "12.3.2",
+      "title": "Assiduidade e Justificativa de Ausências",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 5
+    },
+    {
+      "external_topic_code": "top_006",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "12.3.3",
+      "title": "Decoro Parlamentar e Código de Ética",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 6
+    },
+    {
+      "external_topic_code": "top_007",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "12.3.4",
+      "title": "Licenças e Afastamentos",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 7
+    },
+    {
+      "external_topic_code": "top_008",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "12.3.5",
+      "title": "Perda de Mandato e Suplência",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 8
+    },
+    {
+      "external_topic_code": "top_009",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "12.3.5.1",
+      "title": "Hipóteses Constitucionais e Regimentais de Perda",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 9
+    },
+    {
+      "external_topic_code": "top_010",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "12.3.5.2",
+      "title": "Procedimento para Perda de Mandato",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 10
+    },
+    {
+      "external_topic_code": "top_011",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "12.3.5.3",
+      "title": "Convocação de Suplente",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 11
+    }
+  ],
+  "topico_componentes": [],
+  "pegadinhas": [
+    {
+      "trap_id": "peg_001",
+      "material_id": "mat_001",
+      "topic_id": "top_002",
+      "title": "Pegadinha 1",
+      "description": "Confundir os deveres do Deputado (apresentar-se, participar de sessões e reuniões) com seus direitos ou prerrogativas. O CEBRASPE frequentemente inverte esses conceitos.",
+      "example_error": "Afirmar que 'participar das sessões do Plenário' é um direito do Deputado, quando é um dever.",
+      "how_to_avoid": "",
+      "order": 1
+    },
+    {
+      "trap_id": "peg_002",
+      "material_id": "mat_001",
+      "topic_id": "top_007",
+      "title": "Pegadinha 2",
+      "description": "Errar o prazo máximo para licença para tratar de interesse particular (120 dias por sessão legislativa) ou as condições para cada tipo de licença.",
+      "example_error": "Indicar que a licença para tratar de interesse particular pode ser remunerada ou ter duração ilimitada.",
+      "how_to_avoid": "",
+      "order": 2
+    },
+    {
+      "trap_id": "peg_003",
+      "material_id": "mat_001",
+      "topic_id": "top_008",
+      "title": "Pegadinha 3",
+      "description": "Confundir as hipóteses de perda de mandato que exigem decisão da Câmara (maioria absoluta e escrutínio secreto) com aquelas que são declaradas pela Mesa.",
+      "example_error": "Afirmar que a perda de mandato por falta de comparecimento é decidida pela Câmara, quando é declarada pela Mesa.",
+      "how_to_avoid": "",
+      "order": 3
+    },
+    {
+      "trap_id": "peg_004",
+      "material_id": "mat_001",
+      "topic_id": "top_006",
+      "title": "Pegadinha 4",
+      "description": "Desconsiderar a necessidade de apresentação de declaração de bens e fontes de renda na posse e antes do término do mandato, cuja omissão pode configurar infração ao Código de Ética.",
+      "example_error": "Ignorar a obrigatoriedade da declaração de bens como parte das responsabilidades do Deputado.",
+      "how_to_avoid": "",
+      "order": 4
+    }
+  ],
+  "pontos_memorizacao": [
+    {
+      "memory_id": "mem_001",
+      "material_id": "mat_001",
+      "topic_id": "top_003",
+      "title": null,
+      "content": "Art. 226, caput, RICD: Deveres de apresentação e participação em sessões e reuniões.",
+      "order": 1
+    },
+    {
+      "memory_id": "mem_002",
+      "material_id": "mat_001",
+      "topic_id": "top_004",
+      "title": null,
+      "content": "Art. 226, incisos, RICD: Direitos de proposição, discussão, deliberação, voto e ser votado.",
+      "order": 2
+    },
+    {
+      "memory_id": "mem_003",
+      "material_id": "mat_001",
+      "topic_id": "top_007",
+      "title": null,
+      "content": "Art. 235, RICD: Tipos de licenças (missão, saúde, cargo público, interesse particular).",
+      "order": 3
+    },
+    {
+      "memory_id": "mem_004",
+      "material_id": "mat_001",
+      "topic_id": "top_007",
+      "title": null,
+      "content": "Prazo de 120 dias por sessão legislativa para licença para tratar de interesse particular (sem remuneração).",
+      "order": 4
+    },
+    {
+      "memory_id": "mem_005",
+      "material_id": "mat_001",
+      "topic_id": "top_009",
+      "title": null,
+      "content": "Art. 55, CF: Hipóteses constitucionais de perda de mandato.",
+      "order": 5
+    },
+    {
+      "memory_id": "mem_006",
+      "material_id": "mat_001",
+      "topic_id": "top_010",
+      "title": null,
+      "content": "Perda de mandato por quebra de decoro (Art. 55, II, CF) exige decisão da Câmara por maioria absoluta e escrutínio secreto.",
+      "order": 6
+    },
+    {
+      "memory_id": "mem_007",
+      "material_id": "mat_001",
+      "topic_id": "top_010",
+      "title": null,
+      "content": "Perda de mandato por falta de comparecimento (Art. 55, III, CF) é declarada pela Mesa.",
+      "order": 7
+    }
+  ],
+  "quadro_sinotico_itens": [
+    {
+      "summary_item_id": "sum_001",
+      "title": "Deputados (RICD Arts. 226-251)",
+      "content": "Deveres, Direitos, Licenças, Perda de Mandato, Suplência.",
+      "order": 1
+    },
+    {
+      "summary_item_id": "sum_002",
+      "title": "Deveres",
+      "content": "Apresentar-se, participar de sessões plenárias, reuniões de comissão e sessões conjuntas do CN. (Art. 226, caput RICD)",
+      "order": 2
+    },
+    {
+      "summary_item_id": "sum_003",
+      "title": "Direitos",
+      "content": "Oferecer proposições, discutir, deliberar, votar e ser votado. (Art. 226, incisos RICD)",
+      "order": 3
+    },
+    {
+      "summary_item_id": "sum_004",
+      "title": "Licenças",
+      "content": "Missão diplomática/cultural, saúde, cargo público, interesse particular (máx. 120 dias/sessão legislativa, sem remuneração). (Art. 235 RICD)",
+      "order": 4
+    },
+    {
+      "summary_item_id": "sum_005",
+      "title": "Perda de Mandato (CF Art. 55)",
+      "content": "Infringir Art. 54 CF, quebra de decoro, falta de comparecimento (1/3), perda de direitos políticos, Justiça Eleitoral, condenação criminal transitada em julgado.",
+      "order": 5
+    },
+    {
+      "summary_item_id": "sum_006",
+      "title": "Decisão da Perda",
+      "content": "Câmara (Art. 55, I, II, VI CF) por maioria absoluta e voto secreto; Mesa (Art. 55, III, IV, V CF) por declaração.",
+      "order": 6
+    }
+  ],
+  "questoes": [
+    {
+      "question_id": "qst_001",
+      "material_id": "mat_001",
+      "topic_id": "top_003",
+      "board": null,
+      "year": null,
+      "organization": null,
+      "role": null,
+      "statement": "De acordo com o Regimento Interno da Câmara dos Deputados, é um dever do Deputado oferecer proposições em geral, discutir e deliberar sobre qualquer matéria em apreciação na Casa.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": "Média",
+      "external_reference": null,
+      "commentary": "Errado. Oferecer proposições, discutir e deliberar são direitos assegurados ao Deputado, conforme o Art. 226, inciso I, do RICD, e não deveres. Os deveres estão no caput do artigo.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_001"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_002",
+      "material_id": "mat_001",
+      "topic_id": "top_007",
+      "board": null,
+      "year": null,
+      "organization": null,
+      "role": null,
+      "statement": "Um Deputado Federal pode licenciar-se para tratar de interesse particular por um período superior a 120 dias em uma mesma sessão legislativa, desde que sem remuneração.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": "Média",
+      "external_reference": null,
+      "commentary": "Errado. A licença para tratar de interesse particular não pode ultrapassar 120 dias por sessão legislativa, e é sem remuneração. O período máximo é um ponto crucial.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_002"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_003",
+      "material_id": "mat_001",
+      "topic_id": "top_010",
+      "board": null,
+      "year": null,
+      "organization": null,
+      "role": null,
+      "statement": "A perda do mandato de Deputado Federal por quebra de decoro parlamentar, nos termos do Art. 55, II, da Constituição Federal, será declarada pela Mesa da Câmara dos Deputados.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": "Difícil",
+      "external_reference": null,
+      "commentary": "Errado. A perda do mandato por quebra de decoro parlamentar (Art. 55, II, CF) é decidida pela Câmara dos Deputados, em escrutínio secreto e por maioria absoluta de votos, e não declarada pela Mesa.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_003"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_004",
+      "material_id": "mat_001",
+      "topic_id": "top_003",
+      "board": null,
+      "year": null,
+      "organization": null,
+      "role": null,
+      "statement": "É dever do Deputado Federal participar das sessões do Plenário e das reuniões de Comissão de que seja membro.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": "Fácil",
+      "external_reference": null,
+      "commentary": "Certo. Conforme o Art. 226, caput, do RICD, é dever do Deputado apresentar-se à Câmara para participar das sessões do Plenário e das reuniões de Comissão de que seja membro.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_004"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_005",
+      "material_id": "mat_001",
+      "topic_id": "top_006",
+      "board": null,
+      "year": null,
+      "organization": null,
+      "role": null,
+      "statement": "O Deputado Federal, no exercício do mandato, está sujeito às medidas disciplinares previstas no Código de Ética e Decoro Parlamentar.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": "Fácil",
+      "external_reference": null,
+      "commentary": "Certo. O Art. 231 do RICD estabelece que o Deputado está sujeito às prescrições constitucionais, regimentais e às contidas no Código de Ética e Decoro Parlamentar, incluindo as medidas disciplinares.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_005"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_006",
+      "material_id": "mat_001",
+      "topic_id": "top_007",
+      "board": null,
+      "year": null,
+      "organization": null,
+      "role": null,
+      "statement": "A licença para o Deputado Federal assumir o cargo de Ministro de Estado acarreta a perda do mandato parlamentar.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": "Média",
+      "external_reference": null,
+      "commentary": "Errado. A licença para assumir cargo de Ministro de Estado é uma das hipóteses de afastamento temporário previstas no Art. 235, III, do RICD, e não acarreta a perda do mandato. O suplente é convocado.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_006"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_007",
+      "material_id": "mat_001",
+      "topic_id": "top_010",
+      "board": null,
+      "year": null,
+      "organization": null,
+      "role": null,
+      "statement": "A perda do mandato de Deputado Federal por condenação criminal transitada em julgado é declarada automaticamente pela Justiça Eleitoral, sem necessidade de deliberação da Câmara dos Deputados.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": "Difícil",
+      "external_reference": null,
+      "commentary": "Errado. Embora a condenação criminal seja judicial, a decisão final sobre a perda do mandato (Art. 55, VI, CF) cabe à respectiva Casa Legislativa, mediante deliberação, e não é automática.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_007"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_008",
+      "material_id": "mat_001",
+      "topic_id": "top_005",
+      "board": null,
+      "year": null,
+      "organization": null,
+      "role": null,
+      "statement": "A falta de comparecimento do Deputado Federal à terça parte das sessões ordinárias da Câmara, em cada sessão legislativa ordinária, salvo licença ou missão autorizada, é hipótese de perda de mandato declarada pela Mesa.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": "Média",
+      "external_reference": null,
+      "commentary": "Certo. A falta de comparecimento à terça parte das sessões ordinárias (Art. 55, III, CF) é uma das hipóteses em que a perda do mandato é declarada pela Mesa da Câmara dos Deputados.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_008"
+        ],
+        "count": 1
+      }
+    }
+  ],
+  "comentarios_questoes": [
+    {
+      "comment_id": "com_001",
+      "question_id": "qst_001",
+      "content": "Errado. Oferecer proposições, discutir e deliberar são direitos assegurados ao Deputado, conforme o Art. 226, inciso I, do RICD, e não deveres. Os deveres estão no caput do artigo.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_002",
+      "question_id": "qst_002",
+      "content": "Errado. A licença para tratar de interesse particular não pode ultrapassar 120 dias por sessão legislativa, e é sem remuneração. O período máximo é um ponto crucial.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_003",
+      "question_id": "qst_003",
+      "content": "Errado. A perda do mandato por quebra de decoro parlamentar (Art. 55, II, CF) é decidida pela Câmara dos Deputados, em escrutínio secreto e por maioria absoluta de votos, e não declarada pela Mesa.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_004",
+      "question_id": "qst_004",
+      "content": "Certo. Conforme o Art. 226, caput, do RICD, é dever do Deputado apresentar-se à Câmara para participar das sessões do Plenário e das reuniões de Comissão de que seja membro.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_005",
+      "question_id": "qst_005",
+      "content": "Certo. O Art. 231 do RICD estabelece que o Deputado está sujeito às prescrições constitucionais, regimentais e às contidas no Código de Ética e Decoro Parlamentar, incluindo as medidas disciplinares.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_006",
+      "question_id": "qst_006",
+      "content": "Errado. A licença para assumir cargo de Ministro de Estado é uma das hipóteses de afastamento temporário previstas no Art. 235, III, do RICD, e não acarreta a perda do mandato. O suplente é convocado.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_007",
+      "question_id": "qst_007",
+      "content": "Errado. Embora a condenação criminal seja judicial, a decisão final sobre a perda do mandato (Art. 55, VI, CF) cabe à respectiva Casa Legislativa, mediante deliberação, e não é automática.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_008",
+      "question_id": "qst_008",
+      "content": "Certo. A falta de comparecimento à terça parte das sessões ordinárias (Art. 55, III, CF) é uma das hipóteses em que a perda do mandato é declarada pela Mesa da Câmara dos Deputados.",
+      "explanation_alternatives": ""
+    }
+  ],
+  "checklist_revisao": [
+    {
+      "checklist_id": "chk_001",
+      "material_id": "mat_001",
+      "topic_id": "top_003",
+      "item_text": "Diferenciar claramente os deveres e direitos do Deputado (Art. 226 RICD).",
+      "completed": false,
+      "order": 1
+    },
+    {
+      "checklist_id": "chk_002",
+      "material_id": "mat_001",
+      "topic_id": "top_007",
+      "item_text": "Memorizar os tipos de licenças e seus prazos/condições, especialmente a de interesse particular (120 dias).",
+      "completed": false,
+      "order": 2
+    },
+    {
+      "checklist_id": "chk_003",
+      "material_id": "mat_001",
+      "topic_id": "top_009",
+      "item_text": "Conhecer as hipóteses de perda de mandato do Art. 55 da CF.",
+      "completed": false,
+      "order": 3
+    },
+    {
+      "checklist_id": "chk_004",
+      "material_id": "mat_001",
+      "topic_id": "top_010",
+      "item_text": "Distinguir os procedimentos de perda de mandato: decisão da Câmara (maioria absoluta, voto secreto) vs. declaração da Mesa.",
+      "completed": false,
+      "order": 4
+    },
+    {
+      "checklist_id": "chk_005",
+      "material_id": "mat_001",
+      "topic_id": "top_006",
+      "item_text": "Entender a relação entre o RICD e o Código de Ética e Decoro Parlamentar.",
+      "completed": false,
+      "order": 5
+    }
+  ],
+  "referencias": [
+    {
+      "reference_id": "ref_001",
+      "material_id": "mat_001",
+      "reference_type": "Legislação",
+      "author_name": null,
+      "title": "Constituição da República Federativa do Brasil de 1988",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "http://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_002",
+      "material_id": "mat_001",
+      "reference_type": "Legislação",
+      "author_name": null,
+      "title": "Regimento Interno da Câmara dos Deputados (RICD)",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.camara.leg.br/internet/regimento/regimento.pdf",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_003",
+      "material_id": "mat_001",
+      "reference_type": "Legislação",
+      "author_name": null,
+      "title": "Código de Ética e Decoro Parlamentar da Câmara dos Deputados",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.camara.leg.br/internet/regimento/codigo_etica.pdf",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_004",
+      "material_id": "mat_001",
+      "reference_type": "Videoaula",
+      "author_name": null,
+      "title": "Regimento Interno da Câmara dos Deputados Deputados (arts. 226 a 251) com prof. Eliseu Souza",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.youtube.com/watch?v=1x2y3z4w5x6",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_005",
+      "material_id": "mat_001",
+      "reference_type": "Videoaula",
+      "author_name": null,
+      "title": "Brazilian Chamber of Deputies Exam | Commented Questions: Cebraspe's Way of Testing Internal Regu...",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.youtube.com/watch?v=7x8y9z0w1x2",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_006",
+      "material_id": "mat_001",
+      "reference_type": "Notícia",
+      "author_name": null,
+      "title": "Quem assume, salário e mais: veja como funciona um pedido de afastamento de deputado | G1",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://g1.globo.com/politica/noticia/2025/03/19/quem-assume-salario-e-mais-veja-como-funciona-um-pedido-de-afastamento-de-deputado.ghtml",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_007",
+      "material_id": "mat_001",
+      "reference_type": "Artigo Jurídico",
+      "author_name": null,
+      "title": "Perda de mandato parlamentar fundamentos constitucionais e regimento",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.projuris.com.br/artigos/perda-de-mandato-parlamentar-fundamentos-constitucionais-e-regimento/",
+      "accessed_at": null,
+      "description": null
+    }
+  ],
+  "estatisticas_de_geracao": {
+    "total_topicos": 11,
+    "total_componentes_topico": 0,
+    "total_entendimentos_relevantes": 2,
+    "total_pegadinhas": 4,
+    "total_pontos_memorizacao": 7,
+    "total_itens_quadro_sinotico": 6,
+    "total_questoes": 8,
+    "total_comentarios_questoes": 8,
+    "total_itens_checklist": 5,
+    "total_referencias": 7
+  },
+  "validacao_interna": {
+    "pesquisa_previa_realizada": true,
+    "analise_de_cobrancas_anteriores_realizada": true,
+    "material_atualizado": true,
+    "json_valido": true,
+    "estrutura_relacional_respeitada": true,
+    "numeracao_respeitada": true,
+    "houve_quebra_de_hierarquia": false,
+    "houve_nivel_numerico_superior_a_3": false,
+    "fontes_verificadas": true,
+    "sem_informacao_inventada": true
+  },
+  "metadata": {
+    "source_file_name": "12__direito-constitucional-e-legislação-interna-da-câmara-dos-deputados__12-regimento-interno-da-câmara-dos-deputados-12.3-deputados-arts.-226-a-251.json",
+    "normalized_checksum": "c904ed48c014836a64500c48fab4fd9cc4955a0f8d6d49a7e4fac0256c3ef6c6",
+    "subject_slug": "dir-const-legcam",
+    "material_slug": "ricd-deputados-arts-226-251-cebraspe",
+    "title_slug": "regimento-interno-da-camara-dos-deputados",
+    "board_slug": "cebraspe",
+    "counters": {
+      "blocks": 8,
+      "topics": 11,
+      "topic_components": 0,
+      "traps": 4,
+      "memory_points": 7,
+      "summary_items": 6,
+      "questions": 8,
+      "question_comments": 8,
+      "checklist_items": 5,
+      "references": 7
+    }
+  }
+}

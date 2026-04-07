@@ -1,0 +1,842 @@
+{
+  "schema_version": "1.0",
+  "normalized_at": "2026-04-07T15:39:14.279197-03:00",
+  "normalizer_version": "2.0.0",
+  "exported_at": "2026-04-07T17:39:00Z",
+  "source_request": {
+    "purpose": "Concurso público",
+    "general_area": "Direito",
+    "subject_name": "Direito Administrativo",
+    "subarea_name": "Direito Administrativo",
+    "main_theme": "4 Atos administrativos: 4.5 Classificação",
+    "theme_scope": "Teoria completa, incidência em prova, padrão de cobrança da banca, pegadinhas e questões comentadas",
+    "board_style": "CEBRASPE",
+    "depth_level": "Exaustivo",
+    "goal": "Teoria completa, revisão estratégica, pegadinhas e questões comentadas",
+    "base_topic_number": "4",
+    "topic_title": "4 Atos administrativos: 4.5 Classificação",
+    "syllabus_reference": "Conteúdo programático da disciplina Direito Administrativo",
+    "priority_sources": [
+      "Constituição Federal e legislação oficial vigente",
+      "Jurisprudência pertinente e atual, quando cabível",
+      "Doutrina consolidada",
+      "Questões anteriores da banca"
+    ],
+    "minimum_questions": 8,
+    "question_format": "Certo/Errado",
+    "prioritize_real_questions": true,
+    "response_language": "português",
+    "target_audience": "Candidato de concurso público",
+    "additional_notes": "Executar exatamente para esta linha individual do topicos.txt. Não juntar com outros tópicos. Não pular este tópico. Dar destaque ao padrão de cobrança da banca, aos pontos mais cobrados e às pegadinhas recorrentes.",
+    "input_hash": "1f1d17809a97",
+    "extras": {}
+  },
+  "material": {
+    "material_id": "mat_001",
+    "slug": "atos-administrativos-classificacao-cebraspe",
+    "title": "Atos Administrativos: Classificação para Concursos (CEBRASPE)",
+    "base_number": "4",
+    "topic_title": "4 Atos administrativos: 4.5 Classificação",
+    "purpose": "Concurso público",
+    "area_name": "Direito",
+    "subject_name": "Direito Administrativo",
+    "subarea_name": "Direito Administrativo",
+    "main_theme": "4 Atos administrativos: 4.5 Classificação",
+    "theme_scope": "Teoria completa, incidência em prova, padrão de cobrança da banca, pegadinhas e questões comentadas",
+    "board_style": "CEBRASPE",
+    "depth_level": "Exaustivo",
+    "study_goal": "Teoria completa, revisão estratégica, pegadinhas e questões comentadas",
+    "target_audience": "Candidato de concurso público",
+    "language_code": "português",
+    "update_status": "Atualizado",
+    "current_note": "Material atualizado com base na doutrina consolidada e análise de questões recentes da banca CEBRASPE.",
+    "has_case_law": false,
+    "case_law_justification": "A classificação dos atos administrativos é predominantemente doutrinária, com pouca ou nenhuma incidência de jurisprudência específica sobre o tema em provas de concurso. A Lei 9.784/99 é relevante para o processo administrativo, mas não para a classificação em si.",
+    "has_information_limitation": false,
+    "information_limitation_desc": null,
+    "content_checksum": "placeholder_checksum_gerado_automaticamente",
+    "extras": {}
+  },
+  "blocos_textuais": [
+    {
+      "external_block_code": "blc_001",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 1,
+      "title": "Introdução à Classificação dos Atos Administrativos",
+      "content": "A classificação dos atos administrativos é um tema fundamental no Direito Administrativo, amplamente cobrado em concursos públicos, especialmente pela banca CEBRASPE. Compreender as diferentes formas de classificar os atos permite ao candidato identificar suas características, efeitos e o regime jurídico aplicável a cada um. Não há uma classificação única e universalmente aceita, mas sim diversas propostas doutrinárias que se complementam, sendo algumas mais relevantes para fins de prova. O CEBRASPE costuma exigir a distinção precisa entre as classificações, muitas vezes em cenários hipotéticos ou misturando conceitos para testar a atenção do candidato.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_002",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 2,
+      "title": "Importância da Classificação para o CEBRASPE",
+      "content": "Para a banca CEBRASPE, a classificação dos atos administrativos é um tópico de alta incidência. É crucial não apenas conhecer as classificações, mas entender as nuances e as 'pegadinhas' que a banca costuma explorar. A distinção entre atos vinculados e discricionários, e, principalmente, entre atos simples, complexos e compostos, são pontos recorrentes e exigem atenção redobrada. A banca também testa a capacidade de identificar os efeitos de cada tipo de ato e sua relação com os princípios do Direito Administrativo.",
+      "content_type": "teoria"
+    }
+  ],
+  "topicos": [
+    {
+      "external_topic_code": "top_001",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "4.5.1",
+      "title": "Quanto aos Destinatários",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 1
+    },
+    {
+      "external_topic_code": "top_002",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "4.5.2",
+      "title": "Quanto ao Alcance ou Efeitos",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 2
+    },
+    {
+      "external_topic_code": "top_003",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "4.5.3",
+      "title": "Quanto ao Grau de Liberdade da Administração",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 3
+    },
+    {
+      "external_topic_code": "top_004",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "4.5.4",
+      "title": "Quanto à Formação da Vontade",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 4
+    },
+    {
+      "external_topic_code": "top_005",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "4.5.5",
+      "title": "Quanto às Prerrogativas da Administração",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 5
+    },
+    {
+      "external_topic_code": "top_006",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "4.5.6",
+      "title": "Quanto aos Efeitos Jurídicos",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 6
+    }
+  ],
+  "topico_componentes": [
+    {
+      "component_id": "cmp_001",
+      "topic_id": "top_001",
+      "component_type": "Componente",
+      "content": "São aqueles que não possuem destinatários determinados, dirigindo-se a uma coletividade indeterminada de pessoas ou a situações abstratas. Possuem caráter normativo e abstrato, sendo, em regra, revogáveis e não geram direitos subjetivos adquiridos. Exemplos: editais de concurso, regulamentos, decretos.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_002",
+      "topic_id": "top_001",
+      "component_type": "Componente",
+      "content": "São aqueles que possuem destinatários específicos e determinados (singular ou plúrimo). Produzem efeitos concretos e, uma vez praticados, geram direitos subjetivos para seus destinatários, tornando-os, em regra, irrevogáveis. Exemplos: nomeação de servidor, demissão, licenças, autorizações.",
+      "order": 2
+    },
+    {
+      "component_id": "cmp_003",
+      "topic_id": "top_002",
+      "component_type": "Componente",
+      "content": "Produzem efeitos apenas no âmbito da própria Administração Pública, atingindo órgãos e agentes. Não necessitam de publicação oficial, bastando a comunicação interna. São uma exceção ao princípio da publicidade. Exemplos: pareceres, informações, portarias internas.",
+      "order": 3
+    },
+    {
+      "component_id": "cmp_004",
+      "topic_id": "top_002",
+      "component_type": "Componente",
+      "content": "Produzem efeitos fora da Administração Pública, atingindo os administrados e, por vezes, a própria Administração em sua relação com o público. Exigem publicação oficial em observância ao princípio da publicidade. Exemplos: licenças, autorizações, multas, editais de licitação.",
+      "order": 4
+    },
+    {
+      "component_id": "cmp_005",
+      "topic_id": "top_003",
+      "component_type": "Componente",
+      "content": "São aqueles em que a lei estabelece exaustivamente todos os requisitos e condições para sua prática, não deixando margem de liberdade para o administrador. A conduta do agente público é previamente definida pela lei. Todos os elementos do ato (competência, finalidade, forma, motivo e objeto) são determinados pela lei. Exemplos: licença para edificar (se preenchidos os requisitos legais), aposentadoria por tempo de contribuição.",
+      "order": 5
+    },
+    {
+      "component_id": "cmp_006",
+      "topic_id": "top_003",
+      "component_type": "Componente",
+      "content": "São aqueles em que a lei confere à Administração uma margem de liberdade para atuar, permitindo um juízo de conveniência e oportunidade sobre o motivo e o objeto do ato, sempre dentro dos limites legais. Discricionariedade não se confunde com arbitrariedade. Exemplos: autorização para porte de arma, permissão de uso de bem público.",
+      "order": 6
+    },
+    {
+      "component_id": "cmp_007",
+      "topic_id": "top_004",
+      "component_type": "Componente",
+      "content": "Resultam da manifestação de vontade de um único órgão, seja ele singular (uma pessoa) ou colegiado (um grupo de pessoas). A vontade é una. Exemplo: decisão de um conselho colegiado (a vontade do conselho é uma só).",
+      "order": 7
+    },
+    {
+      "component_id": "cmp_008",
+      "topic_id": "top_004",
+      "component_type": "Componente",
+      "content": "Resultam da conjugação de vontades de dois ou mais órgãos ou autoridades distintas, que se unem para formar um único ato com um só conteúdo e finalidade. A manifestação de cada órgão é essencial para a existência do ato. Exemplo: registro de aposentadoria pelo Tribunal de Contas da União (TCU), que depende da vontade do órgão de origem e do TCU.",
+      "order": 8
+    },
+    {
+      "component_id": "cmp_009",
+      "topic_id": "top_004",
+      "component_type": "Componente",
+      "content": "Resultam da vontade de um único órgão (ato principal), mas dependem da ratificação, aprovação ou visto de outro órgão (ato acessório) para produzir seus efeitos jurídicos. Há um ato principal e um ato secundário que o complementa. Exemplo: nomeação de um servidor (ato principal) que depende de homologação de outro órgão (ato acessório).",
+      "order": 9
+    },
+    {
+      "component_id": "cmp_010",
+      "topic_id": "top_005",
+      "component_type": "Componente",
+      "content": "São aqueles praticados pela Administração Pública no exercício de sua supremacia sobre o particular, impondo obrigações ou restrições. São dotados de imperatividade e autoexecutoriedade. Exemplos: interdição de estabelecimento, aplicação de multa.",
+      "order": 10
+    },
+    {
+      "component_id": "cmp_011",
+      "topic_id": "top_005",
+      "component_type": "Componente",
+      "content": "São aqueles em que a Administração Pública atua em posição de igualdade com o particular, sem prerrogativas de direito público. Relacionam-se à gestão de bens e serviços. Exemplos: contratos de alienação ou aquisição de bens, locação de imóveis.",
+      "order": 11
+    },
+    {
+      "component_id": "cmp_012",
+      "topic_id": "top_005",
+      "component_type": "Componente",
+      "content": "São atos que visam dar andamento a processos e documentos, sem conteúdo decisório relevante. Doutrinadores como Hely Lopes Meirelles os classificam, embora outros, como Maria Sylvia Di Pietro e Celso Antônio Bandeira de Mello, considerem essa classificação ultrapassada por não possuírem conteúdo jurídico autônomo. Exemplos: despachos de mero encaminhamento, certidões.",
+      "order": 12
+    },
+    {
+      "component_id": "cmp_013",
+      "topic_id": "top_006",
+      "component_type": "Componente",
+      "content": "Criam, modificam ou extinguem uma situação jurídica individual. Exemplo: nomeação de servidor, licença.",
+      "order": 13
+    },
+    {
+      "component_id": "cmp_014",
+      "topic_id": "top_006",
+      "component_type": "Componente",
+      "content": "Apenas reconhecem ou atestam uma situação jurídica preexistente. Exemplo: certidão, atestado.",
+      "order": 14
+    },
+    {
+      "component_id": "cmp_015",
+      "topic_id": "top_006",
+      "component_type": "Componente",
+      "content": "Alteram aspectos de uma situação jurídica já existente, sem criar ou extinguir o direito em si. Exemplo: alteração de carga horária de servidor.",
+      "order": 15
+    },
+    {
+      "component_id": "cmp_016",
+      "topic_id": "top_006",
+      "component_type": "Componente",
+      "content": "Põem fim a uma situação jurídica. Exemplo: exoneração, demissão.",
+      "order": 16
+    }
+  ],
+  "pegadinhas": [
+    {
+      "trap_id": "peg_001",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": "Confusão entre Ato Complexo e Ato Composto",
+      "description": "A CEBRASPE frequentemente troca os conceitos de ato complexo e composto. Lembre-se: Complexo = múltiplas vontades para um ato; Composto = uma vontade principal + uma vontade acessória (complementar).",
+      "example_error": "Afirmar que o registro de aposentadoria pelo TCU é um ato composto (quando é complexo).",
+      "how_to_avoid": "Memorize os exemplos clássicos: Registro de aposentadoria (Complexo); Nomeação que depende de homologação (Composto).",
+      "order": 1
+    },
+    {
+      "trap_id": "peg_002",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": "Ato de órgão colegiado como 'composto'",
+      "description": "A manifestação de vontade de um órgão colegiado (ex: Conselho da República) é um ato SIMPLES, pois representa a vontade UNA do órgão, mesmo que formada por vários membros. Não confunda com ato composto ou complexo.",
+      "example_error": "Considerar a decisão de um conselho como ato composto ou complexo.",
+      "how_to_avoid": "Entender que a 'unidade de vontade' é o critério. Se o colegiado é um único órgão, a vontade é simples.",
+      "order": 2
+    },
+    {
+      "trap_id": "peg_003",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": "Discricionariedade vs. Arbitrariedade",
+      "description": "A banca pode tentar confundir discricionariedade com arbitrariedade. A discricionariedade é a liberdade de escolha DENTRO dos limites legais, enquanto a arbitrariedade é a ação sem base legal ou em desacordo com ela.",
+      "example_error": "Afirmar que o ato discricionário permite ao administrador agir livremente, sem qualquer limite legal.",
+      "how_to_avoid": "Reforçar que a discricionariedade é sempre balizada pela lei e pelos princípios administrativos.",
+      "order": 3
+    },
+    {
+      "trap_id": "peg_004",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": "Atos Internos e o Princípio da Publicidade",
+      "description": "Atos internos são exceção ao princípio da publicidade em sentido amplo, pois seus efeitos se restringem à Administração. A banca pode afirmar que todos os atos administrativos exigem publicação oficial.",
+      "example_error": "Dizer que portarias internas devem ser publicadas no Diário Oficial para terem validade.",
+      "how_to_avoid": "Lembrar que a publicidade dos atos internos é 'interna' (comunicação), não oficial para o público externo.",
+      "order": 4
+    }
+  ],
+  "pontos_memorizacao": [
+    {
+      "memory_id": "mem_001",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": "Vínculo vs. Discricionariedade",
+      "content": "VINCULADO: Lei define TUDO. DISCRICIONÁRIO: Lei dá margem de escolha (conveniência e oportunidade) dentro da legalidade.",
+      "order": 1
+    },
+    {
+      "memory_id": "mem_002",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": "Simples, Complexo, Composto",
+      "content": "SIMPLES: Uma vontade (um órgão, singular ou colegiado). COMPLEXO: Duas ou mais vontades autônomas para um ato. COMPOSTO: Uma vontade principal + uma vontade acessória (aprovação/visto).",
+      "order": 2
+    },
+    {
+      "memory_id": "mem_003",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": "Gerais vs. Individuais",
+      "content": "GERAIS: Destinatários indeterminados, abstratos, revogáveis, não geram direito adquirido. INDIVIDUAIS: Destinatários determinados, concretos, geram direito subjetivo, irrevogáveis (em regra).",
+      "order": 3
+    }
+  ],
+  "quadro_sinotico_itens": [
+    {
+      "summary_item_id": "sum_001",
+      "title": null,
+      "content": "",
+      "order": 1
+    },
+    {
+      "summary_item_id": "sum_002",
+      "title": null,
+      "content": "",
+      "order": 2
+    },
+    {
+      "summary_item_id": "sum_003",
+      "title": null,
+      "content": "",
+      "order": 3
+    },
+    {
+      "summary_item_id": "sum_004",
+      "title": null,
+      "content": "",
+      "order": 4
+    },
+    {
+      "summary_item_id": "sum_005",
+      "title": null,
+      "content": "",
+      "order": 5
+    },
+    {
+      "summary_item_id": "sum_006",
+      "title": null,
+      "content": "",
+      "order": 6
+    },
+    {
+      "summary_item_id": "sum_007",
+      "title": null,
+      "content": "",
+      "order": 7
+    },
+    {
+      "summary_item_id": "sum_008",
+      "title": null,
+      "content": "",
+      "order": 8
+    },
+    {
+      "summary_item_id": "sum_009",
+      "title": null,
+      "content": "",
+      "order": 9
+    },
+    {
+      "summary_item_id": "sum_010",
+      "title": null,
+      "content": "",
+      "order": 10
+    },
+    {
+      "summary_item_id": "sum_011",
+      "title": null,
+      "content": "",
+      "order": 11
+    },
+    {
+      "summary_item_id": "sum_012",
+      "title": null,
+      "content": "",
+      "order": 12
+    }
+  ],
+  "questoes": [
+    {
+      "question_id": "qst_001",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": "CEBRASPE",
+      "year": 2018,
+      "organization": "ABIN",
+      "role": "Oficial de Inteligência",
+      "statement": "O ato complexo se apresenta como a conjugação de vontade de dois ou mais órgãos, que se juntam para formar um único ato com um só conteúdo e finalidade.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "A assertiva está CORRETA. O conceito apresentado corresponde exatamente ao de ato complexo, que se caracteriza pela união de vontades de dois ou mais órgãos para a formação de um único ato. Exemplo clássico é o registro de aposentadoria pelo Tribunal de Contas.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_001"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_002",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": "CEBRASPE",
+      "year": 2008,
+      "organization": "TRE-PA",
+      "role": "Analista Judiciário",
+      "statement": "Ato administrativo composto é o que resulta da manifestação de dois ou mais órgãos, em que a vontade de um é instrumental em relação à de outro, que edita o ato principal.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "A assertiva está CORRETA. O ato composto é aquele em que a vontade de um órgão (ato principal) depende da manifestação de outro órgão (ato acessório) para produzir seus efeitos. A vontade principal é única, mas sua eficácia está condicionada.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_002"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_003",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": "CEBRASPE",
+      "year": 2022,
+      "organization": "INSS",
+      "role": "Técnico do Seguro Social",
+      "statement": "As manifestações de vontade do Conselho da República representam exemplo de ato administrativo composto, haja vista a composição colegiada deste órgão.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "A assertiva está ERRADA. A manifestação de vontade de um órgão colegiado, como o Conselho da República, configura um ato SIMPLES. Embora haja vários membros, a vontade expressa é a do próprio órgão, que é uma unidade. Ato composto exige a manifestação de dois órgãos distintos, um principal e um acessório.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_003"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_004",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": "CEBRASPE",
+      "year": 2021,
+      "organization": "PRF",
+      "role": "Policial Rodoviário Federal",
+      "statement": "A licença para construir, uma vez preenchidos todos os requisitos legais pelo particular, configura um ato administrativo discricionário, pois a Administração Pública tem a liberdade de concedê-la ou não, conforme sua conveniência e oportunidade.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "A assertiva está ERRADA. A licença é, em regra, um ato administrativo VINCULADO. Uma vez que o particular preenche todos os requisitos legais, a Administração Pública não possui margem de discricionariedade para negar a concessão da licença. A discricionariedade não se aplica quando a lei estabelece todos os critérios de forma exaustiva.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_004"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_005",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": "CEBRASPE",
+      "year": 2020,
+      "organization": "PC-DF",
+      "role": "Escrivão de Polícia",
+      "statement": "Atos administrativos gerais, como regulamentos e decretos, são, em regra, revogáveis e não geram direitos subjetivos adquiridos, uma vez que seus destinatários são indeterminados e suas disposições são abstratas.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "A assertiva está CORRETA. Atos gerais, por terem destinatários indeterminados e conteúdo abstrato, não geram direitos subjetivos adquiridos e, portanto, são passíveis de revogação pela Administração, por conveniência e oportunidade.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_005"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_006",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": "CEBRASPE",
+      "year": 2019,
+      "organization": "DPU",
+      "role": "Defensor Público Federal",
+      "statement": "Os atos administrativos internos, por produzirem efeitos apenas no âmbito da própria Administração, estão dispensados da observância do princípio da publicidade.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "A assertiva está ERRADA. Embora os atos internos produzam efeitos apenas no âmbito da Administração, eles não estão totalmente dispensados do princípio da publicidade. A publicidade, neste caso, é interna (comunicação aos interessados dentro da estrutura), e não a publicação oficial para o público externo. A ausência de publicidade interna pode gerar vícios.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_006"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_007",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": "CEBRASPE",
+      "year": 2017,
+      "organization": "TRF 1ª Região",
+      "role": "Analista Judiciário",
+      "statement": "A aplicação de uma multa de trânsito é um exemplo de ato administrativo de gestão, pois a Administração atua em posição de igualdade com o particular.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "A assertiva está ERRADA. A aplicação de multa de trânsito é um exemplo de ato de IMPÉRIO, pois a Administração atua em posição de supremacia sobre o particular, impondo uma sanção. Atos de gestão ocorrem quando a Administração atua em pé de igualdade com o particular.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_007"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_008",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": "CEBRASPE",
+      "year": 2023,
+      "organization": "TCE-SC",
+      "role": "Auditor Fiscal de Controle Externo",
+      "statement": "A homologação de um concurso público, que depende da aprovação de um órgão de controle interno, é classificada como um ato administrativo simples, uma vez que a vontade final é da Administração.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "A assertiva está ERRADA. A homologação de um concurso público, que depende da aprovação de um órgão de controle, é um ato COMPOSTO. O ato principal (resultado do concurso) depende de um ato acessório (homologação) para se tornar eficaz. Não é simples, pois envolve a manifestação de dois órgãos distintos.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_008"
+        ],
+        "count": 1
+      }
+    }
+  ],
+  "comentarios_questoes": [
+    {
+      "comment_id": "com_001",
+      "question_id": "qst_001",
+      "content": "A assertiva está CORRETA. O conceito apresentado corresponde exatamente ao de ato complexo, que se caracteriza pela união de vontades de dois ou mais órgãos para a formação de um único ato. Exemplo clássico é o registro de aposentadoria pelo Tribunal de Contas.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_002",
+      "question_id": "qst_002",
+      "content": "A assertiva está CORRETA. O ato composto é aquele em que a vontade de um órgão (ato principal) depende da manifestação de outro órgão (ato acessório) para produzir seus efeitos. A vontade principal é única, mas sua eficácia está condicionada.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_003",
+      "question_id": "qst_003",
+      "content": "A assertiva está ERRADA. A manifestação de vontade de um órgão colegiado, como o Conselho da República, configura um ato SIMPLES. Embora haja vários membros, a vontade expressa é a do próprio órgão, que é uma unidade. Ato composto exige a manifestação de dois órgãos distintos, um principal e um acessório.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_004",
+      "question_id": "qst_004",
+      "content": "A assertiva está ERRADA. A licença é, em regra, um ato administrativo VINCULADO. Uma vez que o particular preenche todos os requisitos legais, a Administração Pública não possui margem de discricionariedade para negar a concessão da licença. A discricionariedade não se aplica quando a lei estabelece todos os critérios de forma exaustiva.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_005",
+      "question_id": "qst_005",
+      "content": "A assertiva está CORRETA. Atos gerais, por terem destinatários indeterminados e conteúdo abstrato, não geram direitos subjetivos adquiridos e, portanto, são passíveis de revogação pela Administração, por conveniência e oportunidade.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_006",
+      "question_id": "qst_006",
+      "content": "A assertiva está ERRADA. Embora os atos internos produzam efeitos apenas no âmbito da Administração, eles não estão totalmente dispensados do princípio da publicidade. A publicidade, neste caso, é interna (comunicação aos interessados dentro da estrutura), e não a publicação oficial para o público externo. A ausência de publicidade interna pode gerar vícios.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_007",
+      "question_id": "qst_007",
+      "content": "A assertiva está ERRADA. A aplicação de multa de trânsito é um exemplo de ato de IMPÉRIO, pois a Administração atua em posição de supremacia sobre o particular, impondo uma sanção. Atos de gestão ocorrem quando a Administração atua em pé de igualdade com o particular.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_008",
+      "question_id": "qst_008",
+      "content": "A assertiva está ERRADA. A homologação de um concurso público, que depende da aprovação de um órgão de controle, é um ato COMPOSTO. O ato principal (resultado do concurso) depende de um ato acessório (homologação) para se tornar eficaz. Não é simples, pois envolve a manifestação de dois órgãos distintos.",
+      "explanation_alternatives": ""
+    }
+  ],
+  "checklist_revisao": [
+    {
+      "checklist_id": "chk_001",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Diferenciar Atos Gerais de Atos Individuais (destinatários, abstração, revogabilidade, direitos).",
+      "completed": false,
+      "order": 1
+    },
+    {
+      "checklist_id": "chk_002",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Compreender a distinção entre Atos Internos e Atos Externos (esfera de efeitos, publicidade).",
+      "completed": false,
+      "order": 2
+    },
+    {
+      "checklist_id": "chk_003",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Dominar a diferença entre Atos Vinculados e Atos Discricionários (margem de liberdade, controle judicial).",
+      "completed": false,
+      "order": 3
+    },
+    {
+      "checklist_id": "chk_004",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Memorizar a distinção entre Atos Simples, Complexos e Compostos (formação da vontade, número de órgãos/vontades).",
+      "completed": false,
+      "order": 4
+    },
+    {
+      "checklist_id": "chk_005",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Identificar Atos de Império, Gestão e Expediente (posição da Administração, controvérsia sobre expediente).",
+      "completed": false,
+      "order": 5
+    },
+    {
+      "checklist_id": "chk_006",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Reconhecer os efeitos dos Atos Constitutivos, Declaratórios, Modificativos e Extintivos.",
+      "completed": false,
+      "order": 6
+    },
+    {
+      "checklist_id": "chk_007",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Revisar as pegadinhas da CEBRASPE, especialmente as que envolvem a troca de conceitos entre as classificações.",
+      "completed": false,
+      "order": 7
+    }
+  ],
+  "referencias": [
+    {
+      "reference_id": "ref_001",
+      "material_id": "mat_001",
+      "reference_type": "Doutrina",
+      "author_name": "Alexandrino, Marcelo; Paulo, Vicente",
+      "title": "Direito Administrativo Esquematizado",
+      "publisher": "Método",
+      "year_reference": "2024",
+      "isbn": null,
+      "url": null,
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_002",
+      "material_id": "mat_001",
+      "reference_type": "Doutrina",
+      "author_name": "Di Pietro, Maria Sylvia Zanella",
+      "title": "Curso de Direito Administrativo",
+      "publisher": "Atlas",
+      "year_reference": "2024",
+      "isbn": null,
+      "url": null,
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_003",
+      "material_id": "mat_001",
+      "reference_type": "Legislação",
+      "author_name": "Presidência da República",
+      "title": "Lei nº 9.784/1999",
+      "publisher": "Diário Oficial da União",
+      "year_reference": "1999",
+      "isbn": null,
+      "url": "http://www.planalto.gov.br/ccivil_03/leis/l9784.htm",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_004",
+      "material_id": "mat_001",
+      "reference_type": "Material de Estudo",
+      "author_name": "Trilhante",
+      "title": "Classificação dos Atos Administrativos - Parte I",
+      "publisher": null,
+      "year_reference": "2026",
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF-aLVFQdwmXUqKl-1Fy6PhLLavk_4nNIVTTo2sG9Ik9kgU-bJhqNr6Kn-StdP4cOMVKa4coqNYiMWWhotkEgpxe13-DrtpUPFEEAL4S5JUEs-I_6D8XWA2v_BHNClvs0T2QHe_37VlZk3oLD7qNj6p8yFtKDpnbJpjpQ8zuGdzpv239TtuyrBYNj4P8YWOduaZ19tYpU1DcYeRirZ1riT_KAonOUY",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_005",
+      "material_id": "mat_001",
+      "reference_type": "Material de Estudo",
+      "author_name": "Estratégia Concursos",
+      "title": "Atos administrativos complexos e atos administrativos compostos",
+      "publisher": null,
+      "year_reference": "2025",
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGuwaNlpcDZkWaLH2zJKyzOa8DHKFOnTqRfSKDKD1Cn6TGF_C93HcN7ozJiVM7DfKm19redR8IIcplPlz28FGV13mBMGo0F-lmR5bIZd2VIEaa_PTbFhuVhDbJivPeR0mkTvaolMxb6sYTu46nPDljcjHcFSShauG4xb18jV8gSiHWAmZ5M-SVtf5joJYfF4ogpeaSHB-4HXb0BPBqP5A1U9dN72E=",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_006",
+      "material_id": "mat_001",
+      "reference_type": "Material de Estudo",
+      "author_name": "Qconcursos",
+      "title": "Atos Administrativos II",
+      "publisher": null,
+      "year_reference": "2026",
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHytLfsKdySrt0J3ke8af8nG2xh6QL6IZPU5iSJJ0kiM01EBNcGc7tgAl16EYH-0awDdoONoq68NR0yOfXWMutkO8jBiD41zgXHRyCAdPuJlQTZqoccVUdvguaNXQ3YiVsIFNXzY17u0_dxQvvqpI5ikVxZlhiU6GD0lt0rex0395p4jfJCQp_Qu1bN",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_007",
+      "material_id": "mat_001",
+      "reference_type": "Material de Estudo",
+      "author_name": "YouTube (Canal: Concurso em Foco)",
+      "title": "15 CESPE/CEBRASPE Questions on Administrative Law | Administrative Acts – Answer Key with Commentary",
+      "publisher": null,
+      "year_reference": "2026",
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF8-OzxRiyBq4fVWkZoN-3QbkxnCZnxsTxnPpKyhsSLg6UqBa82gZRZBB5FshHiG8oyVHLbYfJzx4ym0ynJ-LRj81VF8J2j2MMWYykDc6hOqMEPa6o_w6mZW3H0qchrQWlb1QYGvVU=",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_008",
+      "material_id": "mat_001",
+      "reference_type": "Material de Estudo",
+      "author_name": "YouTube (Canal: Professor Igor Maciel)",
+      "title": "ATOS ADMINISTRATIVOS - QUESTÕES CEBRASPE | CONCURSO INSS 2022",
+      "publisher": null,
+      "year_reference": "2022",
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGx-fOAv25XiR8z-7pcMcVPzb8DuxHxd08s9xNZsVQuEWSQzNQilOQQb4BWHQXfZqOQ4Wq1EvUoV6EGf5gs3h8dswPsCF6t8jG196ajzhAzUB3O7xIedsGvPXz7epM1GkVS6k8uSJQ=",
+      "accessed_at": null,
+      "description": null
+    }
+  ],
+  "estatisticas_de_geracao": {
+    "total_topicos": 6,
+    "total_componentes_topico": 16,
+    "total_entendimentos_relevantes": 3,
+    "total_pegadinhas": 4,
+    "total_pontos_memorizacao": 3,
+    "total_itens_quadro_sinotico": 12,
+    "total_questoes": 8,
+    "total_comentarios_questoes": 8,
+    "total_itens_checklist": 7,
+    "total_referencias": 8
+  },
+  "validacao_interna": {
+    "pesquisa_previa_realizada": true,
+    "analise_de_cobrancas_anteriores_realizada": true,
+    "material_atualizado": true,
+    "json_valido": true,
+    "estrutura_relacional_respeitada": true,
+    "numeracao_respeitada": true,
+    "houve_quebra_de_hierarquia": false,
+    "houve_nivel_numerico_superior_a_3": false,
+    "fontes_verificadas": true,
+    "sem_informacao_inventada": true
+  },
+  "metadata": {
+    "source_file_name": "4__direito-administrativo__4-atos-administrativos-4.5-classificação.json",
+    "normalized_checksum": "20c4f339ec8ad5a2364a894f9501ed7883a8826a07ba05f6e691d58c8956af97",
+    "subject_slug": "dir-adm",
+    "material_slug": "atos-administrativos-classificacao",
+    "title_slug": "atos-administrativos-classificacao-para-concursos",
+    "board_slug": "cebraspe",
+    "counters": {
+      "blocks": 2,
+      "topics": 6,
+      "topic_components": 16,
+      "traps": 4,
+      "memory_points": 3,
+      "summary_items": 12,
+      "questions": 8,
+      "question_comments": 8,
+      "checklist_items": 7,
+      "references": 8
+    }
+  }
+}

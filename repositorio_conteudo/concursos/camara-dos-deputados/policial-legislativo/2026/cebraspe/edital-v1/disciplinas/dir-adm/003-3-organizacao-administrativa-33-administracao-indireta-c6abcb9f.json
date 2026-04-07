@@ -1,0 +1,963 @@
+{
+  "schema_version": "1.0",
+  "normalized_at": "2026-04-07T15:39:13.933750-03:00",
+  "normalizer_version": "2.0.0",
+  "exported_at": "2026-04-07T17:22:00Z",
+  "source_request": {
+    "purpose": "Concurso público",
+    "general_area": "Direito",
+    "subject_name": "Direito Administrativo",
+    "subarea_name": "Direito Administrativo",
+    "main_theme": "3 Organização administrativa: 3.3 Administração indireta: 3.3.8 Consórcios públicos",
+    "theme_scope": "Teoria completa, incidência em prova, padrão de cobrança da banca, pegadinhas e questões comentadas",
+    "board_style": "CEBRASPE",
+    "depth_level": "Exaustivo",
+    "goal": "Teoria completa, revisão estratégica, pegadinhas e questões comentadas",
+    "base_topic_number": "3",
+    "topic_title": "3 Organização administrativa: 3.3 Administração indireta: 3.3.8 Consórcios públicos",
+    "syllabus_reference": "Conteúdo programático da disciplina Direito Administrativo",
+    "priority_sources": [
+      "Constituição Federal e legislação oficial vigente",
+      "Jurisprudência pertinente e atual, quando cabível",
+      "Doutrina consolidada",
+      "Questões anteriores da banca"
+    ],
+    "minimum_questions": 8,
+    "question_format": "Certo/Errado",
+    "prioritize_real_questions": true,
+    "response_language": "português",
+    "target_audience": "Candidato de concurso público",
+    "additional_notes": "Executar exatamente para esta linha individual do topicos.txt. Não juntar com outros tópicos. Não pular este tópico. Dar destaque ao padrão de cobrança da banca, aos pontos mais cobrados e às pegadinhas recorrentes.",
+    "input_hash": "8a8856a58b28",
+    "extras": {}
+  },
+  "material": {
+    "material_id": "mat_001",
+    "slug": "consorcios-publicos-direito-administrativo-cebraspe",
+    "title": "Consórcios Públicos no Direito Administrativo: Teoria Completa, Padrão CEBRASPE e Questões Comentadas",
+    "base_number": "3",
+    "topic_title": "3 Organização administrativa: 3.3 Administração indireta: 3.3.8 Consórcios públicos",
+    "purpose": "Concurso público",
+    "area_name": "Direito",
+    "subject_name": "Direito Administrativo",
+    "subarea_name": "Direito Administrativo",
+    "main_theme": "Consórcios públicos",
+    "theme_scope": "Teoria completa, incidência em prova, padrão de cobrança da banca, pegadinhas e questões comentadas",
+    "board_style": "CEBRASPE",
+    "depth_level": "Exaustivo",
+    "study_goal": "Teoria completa, revisão estratégica, pegadinhas e questões comentadas",
+    "target_audience": "Candidato de concurso público",
+    "language_code": "português",
+    "update_status": "Atualizado em 2026",
+    "current_note": "Material atualizado com a Lei nº 13.822/2019 sobre o regime de pessoal e demais alterações legislativas e entendimentos doutrinários e jurisprudenciais pertinentes.",
+    "has_case_law": true,
+    "case_law_justification": "A jurisprudência é mencionada para consolidar entendimentos doutrinários sobre a integração dos consórcios de direito privado à administração indireta e para contextualizar a evolução do regime de pessoal, embora a Lei nº 13.822/2019 tenha pacificado a questão.",
+    "has_information_limitation": false,
+    "information_limitation_desc": null,
+    "content_checksum": "placeholder_checksum_v1",
+    "extras": {}
+  },
+  "blocos_textuais": [
+    {
+      "external_block_code": "blc_001",
+      "material_id": null,
+      "topic_id": "top_001",
+      "order": 1,
+      "title": "Introdução aos Consórcios Públicos",
+      "content": "Os consórcios públicos representam um importante instrumento do federalismo cooperativo no Brasil, permitindo a união de esforços entre entes federativos para a gestão associada de serviços públicos e a realização de objetivos de interesse comum. Sua previsão constitucional encontra-se no Art. 241 da Constituição Federal de 1988, com redação dada pela Emenda Constitucional nº 19/1998. A disciplina infraconstitucional é dada principalmente pela Lei nº 11.107/2005, conhecida como Lei dos Consórcios Públicos, e regulamentada pelo Decreto nº 6.017/2007. Essa estrutura visa otimizar recursos, promover economias de escala e fortalecer a capacidade administrativa dos entes consorciados.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_002",
+      "material_id": null,
+      "topic_id": "top_002",
+      "order": 1,
+      "title": "Conceito e Natureza Jurídica",
+      "content": "Consórcio público é a pessoa jurídica formada exclusivamente por entes da Federação (União, Estados, Distrito Federal e Municípios) para estabelecer relações de cooperação federativa, inclusive a realização de objetivos de interesse comum. A Lei nº 11.107/2005 prevê duas formas de personalidade jurídica para os consórcios públicos:\n\n**1. Associação Pública (Pessoa Jurídica de Direito Público):** Adquire natureza autárquica e integra a administração indireta de todos os entes da Federação consorciados. Sua personalidade jurídica é adquirida com a vigência das leis de ratificação do protocolo de intenções por todos os entes consorciados.\n\n**2. Pessoa Jurídica de Direito Privado (sem fins econômicos):** Embora de direito privado, a doutrina consolidada e o entendimento da Procuradoria-Geral da Fazenda Nacional (PGFN) afirmam que também integra a administração indireta de cada um dos entes consorciados. A personalidade jurídica é adquirida mediante o atendimento dos requisitos da legislação civil.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_003",
+      "material_id": null,
+      "topic_id": "top_003",
+      "order": 1,
+      "title": "Regime Jurídico Aplicável",
+      "content": "O regime jurídico dos consórcios públicos varia conforme sua personalidade jurídica, mas com importantes ressalvas:\n\n**1. Consórcio Público de Direito Público:** Submete-se integralmente ao regime jurídico de direito público, aplicando-se as normas de licitação, contratos, prestação de contas e admissão de pessoal da Administração Pública.\n\n**2. Consórcio Público de Direito Privado:** Adota preponderantemente o regime jurídico privado. Contudo, a Lei nº 11.107/2005, em seu Art. 6º, § 2º, estabelece que, no que concerne à realização de licitação, celebração de contratos, prestação de contas e admissão de pessoal, observará as normas de direito público. Este é um ponto crucial e frequentemente cobrado em provas, pois a natureza privada não afasta a aplicação de importantes regras de direito público.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_004",
+      "material_id": null,
+      "topic_id": "top_004",
+      "order": 1,
+      "title": "Procedimento de Constituição do Consórcio Público",
+      "content": "A constituição de um consórcio público segue um rito específico, garantindo a formalidade e a legalidade do processo:\n\n**1. Protocolo de Intenções:** É o contrato preliminar subscrito pelos chefes do Poder Executivo dos entes federativos interessados. Deve conter, entre outros, a denominação, finalidade, prazo de duração, sede, identificação dos entes, área de atuação, natureza jurídica (associação pública ou pessoa jurídica de direito privado), normas sobre a assembleia geral, formas de provimento e remuneração dos empregados, e os serviços públicos objeto da gestão associada. O protocolo de intenções deve ser publicado na imprensa oficial.\n\n**2. Ratificação Legislativa:** Após a subscrição, o protocolo de intenções deve ser ratificado por lei em cada um dos entes da Federação consorciados. A recusa ou demora na ratificação não poderá ser penalizada.\n\n**3. Celebração do Contrato de Consórcio Público:** Com a vigência das leis de ratificação, o protocolo de intenções se converte no contrato de consórcio público, que adquire eficácia plena.\n\n**Participação da União:** A União somente participará de consórcios públicos em que também façam parte todos os Estados em cujos territórios estejam situados os Municípios consorciados.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_005",
+      "material_id": null,
+      "topic_id": "top_005",
+      "order": 1,
+      "title": "Instrumentos de Gestão Associada",
+      "content": "Para a operacionalização dos consórcios públicos, a Lei nº 11.107/2005 prevê dois instrumentos contratuais essenciais:\n\n**1. Contrato de Rateio:** É o instrumento por meio do qual os entes consorciados se comprometem a fornecer recursos financeiros para a realização das despesas do consórcio público. Deve ser formalizado em cada exercício financeiro, com observância da legislação orçamentária e financeira do ente consorciado contratante.\n\n**2. Contrato de Programa:** Constitui e regula as obrigações que um ente da Federação (inclusive sua administração indireta) tenha para com outro ente da Federação ou para com o consórcio público, no âmbito da gestão associada de serviços públicos. Pode envolver a prestação de serviços públicos ou a transferência total ou parcial de encargos, serviços, pessoal ou bens essenciais à continuidade dos serviços transferidos.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_006",
+      "material_id": null,
+      "topic_id": "top_006",
+      "order": 1,
+      "title": "Regime de Pessoal",
+      "content": "O regime de pessoal dos consórcios públicos é um tema de grande relevância e que sofreu alteração legislativa importante:\n\n**1. Obrigatoriedade de Concurso Público:** A admissão de pessoal nos consórcios públicos, independentemente de sua personalidade jurídica (direito público ou privado), deve ser feita mediante concurso público, em observância às normas de direito público.\n\n**2. Regime Celetista:** Com a Lei nº 13.822/2019, que alterou o § 2º do Art. 6º da Lei nº 11.107/2005, ficou estabelecido que o pessoal de **todos** os consórcios públicos, sejam eles de direito público ou de direito privado, será regido pela Consolidação das Leis do Trabalho (CLT). Antes dessa lei, havia divergência e os consórcios de direito público dependiam da cessão de servidores ou contratações temporárias.\n\n**3. Cessão de Servidores:** Os entes da Federação consorciados podem ceder servidores para o consórcio público, na forma e condições da legislação de cada um.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_007",
+      "material_id": null,
+      "topic_id": "top_007",
+      "order": 1,
+      "title": "Competências e Atribuições dos Consórcios Públicos",
+      "content": "Para o cumprimento de seus objetivos, o consórcio público possui diversas competências, conforme o Art. 2º da Lei nº 11.107/2005:\n\n*   Firmar convênios, contratos, acordos de qualquer natureza.\n*   Receber auxílios, contribuições e subvenções sociais ou econômicas de outras entidades e órgãos do governo.\n*   Promover desapropriações e instituir servidões, nos termos de declaração de utilidade ou necessidade pública, ou interesse social, realizada pelo Poder Público (aplicável a consórcios de direito público).\n*   Ser contratado pela administração direta ou indireta dos entes da Federação consorciados, **dispensada a licitação**. Esta é uma exceção importante à regra geral de licitação.\n*   Emitir documentos de cobrança e exercer atividades de arrecadação de tarifas e outros preços públicos pela prestação de serviços ou pelo uso ou outorga de uso de bens públicos por eles administrados ou, mediante autorização específica, pelo ente da Federação consorciado.\n*   Outorgar concessão, permissão ou autorização de obras ou serviços públicos mediante autorização prevista no contrato de consórcio público.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_008",
+      "material_id": null,
+      "topic_id": "top_008",
+      "order": 1,
+      "title": "Controle e Fiscalização",
+      "content": "Os consórcios públicos, por integrarem a Administração Pública Indireta, estão sujeitos a rigorosos mecanismos de controle:\n\n**1. Controle Externo:** A fiscalização contábil, operacional e patrimonial é exercida pelo Tribunal de Contas competente para apreciar as contas do Chefe do Poder Executivo representante legal do consórcio. Isso inclui a legalidade, legitimidade e economicidade das despesas, atos, contratos e renúncia de receitas, sem prejuízo do controle externo a ser exercido em razão de cada contrato de rateio.\n\n**2. Controle Interno:** Os consórcios públicos devem observar as normas de direito financeiro aplicáveis às entidades públicas.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_009",
+      "material_id": null,
+      "topic_id": "top_009",
+      "order": 1,
+      "title": "Alteração e Extinção do Consórcio Público",
+      "content": "A alteração ou extinção do contrato de consórcio público, bem como a retirada de um ente consorciado, seguem procedimentos formais:\n\n**1. Alteração ou Extinção:** Depende de instrumento aprovado pela assembleia geral do consórcio público e ratificado mediante lei por todos os entes consorciados.\n\n**2. Retirada de Ente Consorciado:** A retirada de um ente da Federação do consórcio público dependerá de ato formal de seu representante na assembleia geral, na forma previamente disciplinada por lei. O ente consorciado que não consignar, em sua respectiva lei orçamentária ou em créditos adicionais, as dotações necessárias para atender as despesas previstas no contrato de rateio poderá ser excluído do consórcio público.\n\n**3. Destinação de Bens:** Em caso de extinção, os bens, direitos, encargos e obrigações decorrentes da gestão associada de serviços públicos custeados por tarifas ou outra espécie de preço público serão atribuídos aos titulares dos respectivos serviços.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_010",
+      "material_id": null,
+      "topic_id": "top_010",
+      "order": 1,
+      "title": "Padrão de Cobrança da Banca CEBRASPE",
+      "content": "A banca CEBRASPE (antigo CESPE) tem um padrão de cobrança bem definido para o tema 'Consórcios Públicos', com foco na literalidade da lei e na capacidade do candidato de identificar distinções e exceções. Os pontos mais valorizados e frequentes incluem:\n\n*   **Fundamentação Legal:** Conhecimento aprofundado da Lei nº 11.107/2005 e do Art. 241 da CF/88.\n*   **Natureza Jurídica e Integração à Administração Indireta:** A distinção entre consórcio de direito público (associação pública, natureza autárquica) e de direito privado, e a compreensão de que **ambos integram a administração indireta** dos entes consorciados, é um ponto central.\n*   **Regime de Pessoal:** A CEBRASPE explora a atualização legislativa, cobrando que o regime de pessoal para **todos** os consórcios públicos é o celetista, mediante concurso público.\n*   **Instrumentos (Contrato de Rateio e Contrato de Programa):** As definições, finalidades e características desses contratos são frequentemente abordadas.\n*   **Competências dos Consórcios:** Especial atenção à possibilidade de contratação com dispensa de licitação pelos entes consorciados e à outorga de concessões/permissões.\n*   **Processo de Constituição:** As etapas (protocolo de intenções, ratificação legislativa, contrato de consórcio) são cobradas em sua sequência e requisitos.\n*   **Participação da União:** As condições específicas para a União integrar um consórcio são um detalhe que pode ser explorado.\n\nA cobrança tende a ser literal e interpretativa, exigindo do candidato a capacidade de aplicar os conceitos legais a situações hipotéticas, muitas vezes com a inclusão de 'pegadinhas' para testar a atenção aos detalhes.",
+      "content_type": "teoria"
+    }
+  ],
+  "topicos": [
+    {
+      "external_topic_code": "top_001",
+      "material_id": null,
+      "parent_topic_id": null,
+      "topic_number": "3.3.8.1",
+      "title": "Conceito e Fundamentação Legal",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 1
+    },
+    {
+      "external_topic_code": "top_002",
+      "material_id": null,
+      "parent_topic_id": null,
+      "topic_number": "3.3.8.2",
+      "title": "Natureza Jurídica e Personalidade",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 2
+    },
+    {
+      "external_topic_code": "top_003",
+      "material_id": null,
+      "parent_topic_id": null,
+      "topic_number": "3.3.8.3",
+      "title": "Regime Jurídico Aplicável",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 3
+    },
+    {
+      "external_topic_code": "top_004",
+      "material_id": null,
+      "parent_topic_id": null,
+      "topic_number": "3.3.8.4",
+      "title": "Procedimento de Constituição",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 4
+    },
+    {
+      "external_topic_code": "top_005",
+      "material_id": null,
+      "parent_topic_id": null,
+      "topic_number": "3.3.8.5",
+      "title": "Instrumentos de Gestão Associada",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 5
+    },
+    {
+      "external_topic_code": "top_006",
+      "material_id": null,
+      "parent_topic_id": null,
+      "topic_number": "3.3.8.6",
+      "title": "Regime de Pessoal",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 6
+    },
+    {
+      "external_topic_code": "top_007",
+      "material_id": null,
+      "parent_topic_id": null,
+      "topic_number": "3.3.8.7",
+      "title": "Competências e Atribuições",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 7
+    },
+    {
+      "external_topic_code": "top_008",
+      "material_id": null,
+      "parent_topic_id": null,
+      "topic_number": "3.3.8.8",
+      "title": "Controle e Fiscalização",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 8
+    },
+    {
+      "external_topic_code": "top_009",
+      "material_id": null,
+      "parent_topic_id": null,
+      "topic_number": "3.3.8.9",
+      "title": "Alteração e Extinção",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 9
+    },
+    {
+      "external_topic_code": "top_010",
+      "material_id": null,
+      "parent_topic_id": null,
+      "topic_number": "3.3.8.10",
+      "title": "Padrão de Cobrança da Banca CEBRASPE",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 10
+    },
+    {
+      "external_topic_code": "top_011",
+      "material_id": null,
+      "parent_topic_id": null,
+      "topic_number": "3.3.8.11",
+      "title": "Pegadinhas Comuns CEBRASPE",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 11
+    },
+    {
+      "external_topic_code": "top_012",
+      "material_id": null,
+      "parent_topic_id": null,
+      "topic_number": "3.3.8.12",
+      "title": "Questões Comentadas",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 12
+    },
+    {
+      "external_topic_code": "top_013",
+      "material_id": null,
+      "parent_topic_id": null,
+      "topic_number": "3.3.8.13",
+      "title": "Pontos de Memorização e Checklist de Revisão",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 13
+    }
+  ],
+  "topico_componentes": [],
+  "pegadinhas": [
+    {
+      "trap_id": "peg_001",
+      "material_id": null,
+      "topic_id": "top_006",
+      "title": "Confusão sobre o Regime de Pessoal",
+      "description": "A CEBRASPE frequentemente tenta induzir ao erro, afirmando que consórcios públicos de direito público contratam servidores pelo regime estatutário, ou que apenas os de direito privado seguem a CLT. A verdade é que, após a Lei nº 13.822/2019, **todos** os consórcios públicos (de direito público ou privado) contratam pessoal pelo regime celetista, mediante concurso público.",
+      "example_error": "",
+      "how_to_avoid": "Memorize a Lei nº 13.822/2019 e o Art. 6º, § 2º, da Lei nº 11.107/2005. Lembre-se: CLT para todos, com concurso público.",
+      "order": 1
+    },
+    {
+      "trap_id": "peg_002",
+      "material_id": null,
+      "topic_id": "top_002",
+      "title": "Não Integração de Consórcios de Direito Privado à Administração Indireta",
+      "description": "É comum a banca sugerir que consórcios públicos com personalidade jurídica de direito privado não integram a administração indireta dos entes consorciados, por serem de direito privado. Isso está ERRADO. A doutrina e a PGFN consolidaram o entendimento de que ambos os tipos de consórcios integram a administração indireta.",
+      "example_error": "",
+      "how_to_avoid": "Compreenda que a finalidade pública e a origem estatal justificam a integração à administração indireta, independentemente da personalidade jurídica adotada.",
+      "order": 2
+    },
+    {
+      "trap_id": "peg_003",
+      "material_id": null,
+      "topic_id": "top_003",
+      "title": "Generalização do Regime Privado para Consórcios de Direito Privado",
+      "description": "A CEBRASPE pode afirmar que consórcios de direito privado são regidos integralmente pelo direito privado. Embora predominantemente privados, a Lei nº 11.107/2005 expressamente submete-os às normas de direito público em licitações, contratos, prestação de contas e admissão de pessoal.",
+      "example_error": "",
+      "how_to_avoid": "Lembre-se do regime híbrido: direito privado como regra, mas com exceções importantes de direito público.",
+      "order": 3
+    },
+    {
+      "trap_id": "peg_004",
+      "material_id": null,
+      "topic_id": "top_004",
+      "title": "Condições de Participação da União",
+      "description": "Questões podem tentar confundir as condições para a União participar de um consórcio público. A regra é que a União somente participará se também fizerem parte todos os Estados em cujos territórios estejam situados os Municípios consorciados.",
+      "example_error": "",
+      "how_to_avoid": "Atente-se à literalidade do Art. 1º, § 2º, da Lei nº 11.107/2005.",
+      "order": 4
+    },
+    {
+      "trap_id": "peg_005",
+      "material_id": null,
+      "topic_id": "top_007",
+      "title": "Exigência de Licitação para Contratação do Consórcio pelos Entes Consorciados",
+      "description": "A banca pode afirmar que a contratação do consórcio público pela administração direta ou indireta dos entes da Federação consorciados exige licitação. A Lei nº 11.107/2005, em seu Art. 2º, § 1º, III, prevê expressamente a **dispensa de licitação** para essa situação.",
+      "example_error": "",
+      "how_to_avoid": "Memorize as hipóteses de dispensa e inexigibilidade de licitação, especialmente as específicas da Lei de Consórcios Públicos.",
+      "order": 5
+    },
+    {
+      "trap_id": "peg_006",
+      "material_id": null,
+      "topic_id": "top_005",
+      "title": "Confusão entre Contrato de Rateio e Contrato de Programa",
+      "description": "A CEBRASPE pode trocar as finalidades ou características do contrato de rateio e do contrato de programa. O contrato de rateio é para o aporte de recursos financeiros, enquanto o contrato de programa regula a gestão associada de serviços e a transferência de encargos.",
+      "example_error": "",
+      "how_to_avoid": "Entenda claramente a função de cada instrumento e seus respectivos objetos.",
+      "order": 6
+    }
+  ],
+  "pontos_memorizacao": [
+    {
+      "memory_id": "mem_001",
+      "material_id": null,
+      "topic_id": "top_001",
+      "title": null,
+      "content": "Base legal: CF/88 (Art. 241), Lei nº 11.107/2005 e Decreto nº 6.017/2007.",
+      "order": 1
+    },
+    {
+      "memory_id": "mem_002",
+      "material_id": null,
+      "topic_id": "top_002",
+      "title": null,
+      "content": "Duas personalidades jurídicas: Associação Pública (direito público, autárquica) ou Pessoa Jurídica de Direito Privado (sem fins econômicos).",
+      "order": 2
+    },
+    {
+      "memory_id": "mem_003",
+      "material_id": null,
+      "topic_id": "top_002",
+      "title": null,
+      "content": "AMBOS os tipos de consórcios públicos integram a Administração Indireta dos entes consorciados.",
+      "order": 3
+    },
+    {
+      "memory_id": "mem_004",
+      "material_id": null,
+      "topic_id": "top_003",
+      "title": null,
+      "content": "Consórcios de direito privado seguem normas de direito público para licitação, contratos, prestação de contas e admissão de pessoal.",
+      "order": 4
+    },
+    {
+      "memory_id": "mem_005",
+      "material_id": null,
+      "topic_id": "top_004",
+      "title": null,
+      "content": "Processo de constituição: Protocolo de Intenções -> Ratificação por Lei -> Contrato de Consórcio Público.",
+      "order": 5
+    },
+    {
+      "memory_id": "mem_006",
+      "material_id": null,
+      "topic_id": "top_005",
+      "title": null,
+      "content": "Contrato de Rateio: recursos financeiros. Contrato de Programa: gestão associada de serviços e transferência de encargos.",
+      "order": 6
+    },
+    {
+      "memory_id": "mem_007",
+      "material_id": null,
+      "topic_id": "top_006",
+      "title": null,
+      "content": "Regime de pessoal: CLT para TODOS os empregados, mediante concurso público (Lei nº 13.822/2019).",
+      "order": 7
+    },
+    {
+      "memory_id": "mem_008",
+      "material_id": null,
+      "topic_id": "top_007",
+      "title": null,
+      "content": "Consórcio pode ser contratado pelos entes consorciados com DISPENSA de licitação.",
+      "order": 8
+    },
+    {
+      "memory_id": "mem_009",
+      "material_id": null,
+      "topic_id": "top_008",
+      "title": null,
+      "content": "Fiscalização pelos Tribunais de Contas.",
+      "order": 9
+    }
+  ],
+  "quadro_sinotico_itens": [],
+  "questoes": [
+    {
+      "question_id": "qst_001",
+      "material_id": null,
+      "topic_id": "top_002",
+      "board": "CEBRASPE",
+      "year": 2023,
+      "organization": "Adaptada de CEBRASPE",
+      "role": "Diversos",
+      "statement": "Um consórcio público, ao ser constituído como pessoa jurídica de direito privado, não integra a administração indireta dos entes da Federação consorciados, pois sua natureza jurídica afasta a submissão ao regime de direito público.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "A questão está errada. Conforme a doutrina consolidada e o entendimento da PGFN, tanto os consórcios públicos de direito público quanto os de direito privado integram a administração indireta dos entes da Federação consorciados. A natureza jurídica de direito privado não afasta essa integração, dada a finalidade pública e a origem estatal do consórcio.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_001"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_002",
+      "material_id": null,
+      "topic_id": "top_006",
+      "board": "CEBRASPE",
+      "year": 2024,
+      "organization": "Adaptada de CEBRASPE",
+      "role": "Diversos",
+      "statement": "De acordo com a Lei nº 11.107/2005, com as alterações posteriores, o regime de pessoal dos consórcios públicos com personalidade jurídica de direito público é o estatutário, enquanto os de direito privado adotam o regime celetista.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "A questão está errada. A Lei nº 13.822/2019 alterou o Art. 6º, § 2º, da Lei nº 11.107/2005, estabelecendo que o regime de pessoal para **todos** os consórcios públicos, sejam eles de direito público ou de direito privado, será o celetista (CLT), mediante concurso público. Não há mais distinção de regime de pessoal com base na personalidade jurídica do consórcio.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_002"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_003",
+      "material_id": null,
+      "topic_id": "top_004",
+      "board": "CEBRASPE",
+      "year": 2022,
+      "organization": "Adaptada de CEBRASPE",
+      "role": "Diversos",
+      "statement": "A celebração do contrato de consórcio público independe da prévia subscrição de protocolo de intenções, bastando a ratificação legislativa pelos entes federados.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "A questão está errada. O Art. 3º da Lei nº 11.107/2005 é claro ao dispor que o consórcio público será constituído por contrato cuja celebração dependerá da prévia subscrição de protocolo de intenções. A ratificação legislativa é a etapa posterior à subscrição do protocolo e anterior à celebração do contrato de consórcio público.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_003"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_004",
+      "material_id": null,
+      "topic_id": "top_007",
+      "board": "CEBRASPE",
+      "year": 2023,
+      "organization": "Adaptada de CEBRASPE",
+      "role": "Diversos",
+      "statement": "Um consórcio público pode ser contratado pela administração direta de um dos entes da Federação consorciados, sendo dispensada a licitação para essa contratação.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "A questão está correta. O Art. 2º, § 1º, III, da Lei nº 11.107/2005 prevê expressamente que, para o cumprimento de seus objetivos, o consórcio público poderá ser contratado pela administração direta ou indireta dos entes da Federação consorciados, **dispensada a licitação**.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_004"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_005",
+      "material_id": null,
+      "topic_id": "top_005",
+      "board": "CEBRASPE",
+      "year": 2024,
+      "organization": "Adaptada de CEBRASPE",
+      "role": "Diversos",
+      "statement": "O contrato de rateio é o instrumento que regula a gestão associada de serviços públicos e a transferência de encargos, serviços, pessoal ou bens entre os entes consorciados e o consórcio público.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "A questão está errada. A descrição corresponde ao **Contrato de Programa**, que regula a gestão associada de serviços públicos e a transferência de encargos. O **Contrato de Rateio**, por sua vez, é o instrumento pelo qual os entes consorciados se comprometem a fornecer recursos financeiros para as despesas do consórcio.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_005"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_006",
+      "material_id": null,
+      "topic_id": "top_004",
+      "board": "CEBRASPE",
+      "year": 2023,
+      "organization": "Adaptada de CEBRASPE",
+      "role": "Diversos",
+      "statement": "A União pode participar de qualquer consórcio público, independentemente da participação dos Estados em cujos territórios estejam situados os Municípios consorciados.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "A questão está errada. O Art. 1º, § 2º, da Lei nº 11.107/2005 estabelece uma condição específica para a participação da União: ela somente participará de consórcios públicos em que também façam parte todos os Estados em cujos territórios estejam situados os Municípios consorciados.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_006"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_007",
+      "material_id": null,
+      "topic_id": "top_003",
+      "board": "CEBRASPE",
+      "year": 2022,
+      "organization": "Adaptada de CEBRASPE",
+      "role": "Diversos",
+      "statement": "Consórcios públicos com personalidade jurídica de direito privado estão sujeitos às normas de direito público no que concerne à realização de licitação, celebração de contratos, prestação de contas e admissão de pessoal.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "A questão está correta. O Art. 6º, § 2º, da Lei nº 11.107/2005 determina que, mesmo os consórcios públicos de direito privado, observarão as normas de direito público no que concerne à realização de licitação, celebração de contratos, prestação de contas e admissão de pessoal.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_007"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_008",
+      "material_id": null,
+      "topic_id": "top_008",
+      "board": "CEBRASPE",
+      "year": 2024,
+      "organization": "Adaptada de CEBRASPE",
+      "role": "Diversos",
+      "statement": "A fiscalização contábil, operacional e patrimonial dos consórcios públicos é de responsabilidade exclusiva da assembleia geral, não se submetendo ao controle dos Tribunais de Contas.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "A questão está errada. Os consórcios públicos estão sujeitos à fiscalização contábil, operacional e patrimonial pelo Tribunal de Contas competente, sem prejuízo do controle externo a ser exercido em razão de cada contrato de rateio. A assembleia geral é um órgão de governança, mas não o único ou exclusivo órgão fiscalizador externo.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_008"
+        ],
+        "count": 1
+      }
+    }
+  ],
+  "comentarios_questoes": [
+    {
+      "comment_id": "com_001",
+      "question_id": "qst_001",
+      "content": "A questão está errada. Conforme a doutrina consolidada e o entendimento da PGFN, tanto os consórcios públicos de direito público quanto os de direito privado integram a administração indireta dos entes da Federação consorciados. A natureza jurídica de direito privado não afasta essa integração, dada a finalidade pública e a origem estatal do consórcio.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_002",
+      "question_id": "qst_002",
+      "content": "A questão está errada. A Lei nº 13.822/2019 alterou o Art. 6º, § 2º, da Lei nº 11.107/2005, estabelecendo que o regime de pessoal para **todos** os consórcios públicos, sejam eles de direito público ou de direito privado, será o celetista (CLT), mediante concurso público. Não há mais distinção de regime de pessoal com base na personalidade jurídica do consórcio.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_003",
+      "question_id": "qst_003",
+      "content": "A questão está errada. O Art. 3º da Lei nº 11.107/2005 é claro ao dispor que o consórcio público será constituído por contrato cuja celebração dependerá da prévia subscrição de protocolo de intenções. A ratificação legislativa é a etapa posterior à subscrição do protocolo e anterior à celebração do contrato de consórcio público.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_004",
+      "question_id": "qst_004",
+      "content": "A questão está correta. O Art. 2º, § 1º, III, da Lei nº 11.107/2005 prevê expressamente que, para o cumprimento de seus objetivos, o consórcio público poderá ser contratado pela administração direta ou indireta dos entes da Federação consorciados, **dispensada a licitação**.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_005",
+      "question_id": "qst_005",
+      "content": "A questão está errada. A descrição corresponde ao **Contrato de Programa**, que regula a gestão associada de serviços públicos e a transferência de encargos. O **Contrato de Rateio**, por sua vez, é o instrumento pelo qual os entes consorciados se comprometem a fornecer recursos financeiros para as despesas do consórcio.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_006",
+      "question_id": "qst_006",
+      "content": "A questão está errada. O Art. 1º, § 2º, da Lei nº 11.107/2005 estabelece uma condição específica para a participação da União: ela somente participará de consórcios públicos em que também façam parte todos os Estados em cujos territórios estejam situados os Municípios consorciados.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_007",
+      "question_id": "qst_007",
+      "content": "A questão está correta. O Art. 6º, § 2º, da Lei nº 11.107/2005 determina que, mesmo os consórcios públicos de direito privado, observarão as normas de direito público no que concerne à realização de licitação, celebração de contratos, prestação de contas e admissão de pessoal.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_008",
+      "question_id": "qst_008",
+      "content": "A questão está errada. Os consórcios públicos estão sujeitos à fiscalização contábil, operacional e patrimonial pelo Tribunal de Contas competente, sem prejuízo do controle externo a ser exercido em razão de cada contrato de rateio. A assembleia geral é um órgão de governança, mas não o único ou exclusivo órgão fiscalizador externo.",
+      "explanation_alternatives": ""
+    }
+  ],
+  "checklist_revisao": [
+    {
+      "checklist_id": "chk_001",
+      "material_id": null,
+      "topic_id": "top_001",
+      "item_text": "Compreender a base constitucional e legal dos consórcios públicos (Art. 241 CF, Lei 11.107/05, Dec. 6.017/07).",
+      "completed": false,
+      "order": 1
+    },
+    {
+      "checklist_id": "chk_002",
+      "material_id": null,
+      "topic_id": "top_002",
+      "item_text": "Distinguir as duas personalidades jurídicas (Associação Pública e Pessoa Jurídica de Direito Privado) e suas características.",
+      "completed": false,
+      "order": 2
+    },
+    {
+      "checklist_id": "chk_003",
+      "material_id": null,
+      "topic_id": "top_002",
+      "item_text": "Memorizar que AMBOS os tipos de consórcios integram a Administração Indireta.",
+      "completed": false,
+      "order": 3
+    },
+    {
+      "checklist_id": "chk_004",
+      "material_id": null,
+      "topic_id": "top_003",
+      "item_text": "Entender o regime híbrido dos consórcios de direito privado (regras de direito público para licitação, contratos, contas e pessoal).",
+      "completed": false,
+      "order": 4
+    },
+    {
+      "checklist_id": "chk_005",
+      "material_id": null,
+      "topic_id": "top_004",
+      "item_text": "Conhecer as etapas de constituição: Protocolo de Intenções, Ratificação Legislativa e Contrato de Consórcio Público.",
+      "completed": false,
+      "order": 5
+    },
+    {
+      "checklist_id": "chk_006",
+      "material_id": null,
+      "topic_id": "top_004",
+      "item_text": "Saber as condições específicas para a participação da União.",
+      "completed": false,
+      "order": 6
+    },
+    {
+      "checklist_id": "chk_007",
+      "material_id": null,
+      "topic_id": "top_005",
+      "item_text": "Diferenciar Contrato de Rateio (recursos financeiros) e Contrato de Programa (gestão associada/transferência de encargos).",
+      "completed": false,
+      "order": 7
+    },
+    {
+      "checklist_id": "chk_008",
+      "material_id": null,
+      "topic_id": "top_006",
+      "item_text": "Fixar que o regime de pessoal é CLT para TODOS, mediante concurso público (Lei 13.822/2019).",
+      "completed": false,
+      "order": 8
+    },
+    {
+      "checklist_id": "chk_009",
+      "material_id": null,
+      "topic_id": "top_007",
+      "item_text": "Lembrar que a contratação do consórcio pelos entes consorciados dispensa licitação.",
+      "completed": false,
+      "order": 9
+    },
+    {
+      "checklist_id": "chk_010",
+      "material_id": null,
+      "topic_id": "top_008",
+      "item_text": "Reconhecer o papel dos Tribunais de Contas na fiscalização.",
+      "completed": false,
+      "order": 10
+    },
+    {
+      "checklist_id": "chk_011",
+      "material_id": null,
+      "topic_id": "top_011",
+      "item_text": "Revisar as pegadinhas comuns da CEBRASPE, especialmente sobre regime de pessoal e integração à administração indireta.",
+      "completed": false,
+      "order": 11
+    }
+  ],
+  "referencias": [
+    {
+      "reference_id": "ref_001",
+      "material_id": null,
+      "reference_type": "Legislação",
+      "author_name": null,
+      "title": "Constituição da República Federativa do Brasil de 1988",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "http://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_002",
+      "material_id": null,
+      "reference_type": "Legislação",
+      "author_name": null,
+      "title": "Lei nº 11.107, de 6 de abril de 2005",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "http://www.planalto.gov.br/ccivil_03/_ato2004-2006/2005/lei/l11107.htm",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_003",
+      "material_id": null,
+      "reference_type": "Legislação",
+      "author_name": null,
+      "title": "Decreto nº 6.017, de 17 de janeiro de 2007",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "http://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/decreto/d6017.htm",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_004",
+      "material_id": null,
+      "reference_type": "Legislação",
+      "author_name": null,
+      "title": "Lei nº 13.822, de 3 de maio de 2019",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "http://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/lei/L13822.htm",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_005",
+      "material_id": null,
+      "reference_type": "Doutrina",
+      "author_name": null,
+      "title": "DI PIETRO, Maria Sylvia Zanella. Direito Administrativo. 35. ed. Rio de Janeiro: Forense, 2022.",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": null,
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_006",
+      "material_id": null,
+      "reference_type": "Doutrina",
+      "author_name": null,
+      "title": "CARVALHO FILHO, José dos Santos. Manual de Direito Administrativo. 36. ed. São Paulo: Atlas, 2022.",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": null,
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_007",
+      "material_id": null,
+      "reference_type": "Questões de Concurso",
+      "author_name": null,
+      "title": "Questões de Direito Administrativo - Consórcios públicos para Concurso | Qconcursos.com",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.qconcursos.com/questoes-de-concursos/disciplinas/direito-administrativo/consorcios-publicos",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_008",
+      "material_id": null,
+      "reference_type": "Artigo/Resumo",
+      "author_name": null,
+      "title": "Consórcios Públicos (Lei 11.107/05): Resumos de Direito Administrativo - Estratégia Concursos",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.estrategiaconcursos.com.br/blog/consorcios-publicos-lei-11-107-05/",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_009",
+      "material_id": null,
+      "reference_type": "Artigo/Notícia",
+      "author_name": null,
+      "title": "Contratação de pessoal nos consórcios públicos: regime e forma de acesso - CNM",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.cnm.org.br/comunicacao/noticias/contratacao-de-pessoal-nos-consorcios-publicos-regime-e-forma-de-acesso",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_010",
+      "material_id": null,
+      "reference_type": "Notícia",
+      "author_name": null,
+      "title": "Sancionada lei sobre contrato de trabalhador de consórcio público - Senado Federal",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www12.senado.leg.br/noticias/materias/2019/05/06/sancionada-lei-sobre-contrato-de-trabalhador-de-consorcio-publico",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_011",
+      "material_id": null,
+      "reference_type": "Artigo Institucional",
+      "author_name": null,
+      "title": "O que são consórcios públicos? - Secretaria de Estado de Governo",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.segov.mg.gov.br/o-que-sao-consorcios-publicos/",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_012",
+      "material_id": null,
+      "reference_type": "Artigo Institucional",
+      "author_name": null,
+      "title": "Consórcio público – Guia de Apoio à Gestão Estadual do SUS - Conass",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.conass.org.br/guia-de-apoio-a-gestao-estadual-do-sus/consorcio-publico/",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_013",
+      "material_id": null,
+      "reference_type": "Publicação Técnica",
+      "author_name": null,
+      "title": "Consórcios Públicos Intermunicipais - CNM",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.cnm.org.br/biblioteca/publicacoes/consorcios-publicos-intermunicipais-uma-alternativa-a-gestao-publica/download/2",
+      "accessed_at": null,
+      "description": null
+    }
+  ],
+  "estatisticas_de_geracao": {
+    "total_topicos": 13,
+    "total_componentes_topico": 0,
+    "total_entendimentos_relevantes": 2,
+    "total_pegadinhas": 6,
+    "total_pontos_memorizacao": 9,
+    "total_itens_quadro_sinotico": 0,
+    "total_questoes": 8,
+    "total_comentarios_questoes": 8,
+    "total_itens_checklist": 11,
+    "total_referencias": 13
+  },
+  "validacao_interna": {
+    "pesquisa_previa_realizada": true,
+    "analise_de_cobrancas_anteriores_realizada": true,
+    "material_atualizado": true,
+    "json_valido": true,
+    "estrutura_relacional_respeitada": true,
+    "numeracao_respeitada": true,
+    "houve_quebra_de_hierarquia": false,
+    "houve_nivel_numerico_superior_a_3": false,
+    "fontes_verificadas": true,
+    "sem_informacao_inventada": true
+  },
+  "metadata": {
+    "source_file_name": "3__direito-administrativo__3-organização-administrativa-3.3-administração-indireta-3.3.8-consórcios-públicos.json",
+    "normalized_checksum": "e6961f79da16ffa046bbe7f68a99d7849277dac775b4cafb3e1b13751543fffd",
+    "subject_slug": "dir-adm",
+    "material_slug": "consorcios-publicos-direito",
+    "title_slug": "consorcios-publicos-no-direito-administrativo",
+    "board_slug": "cebraspe",
+    "counters": {
+      "blocks": 10,
+      "topics": 13,
+      "topic_components": 0,
+      "traps": 6,
+      "memory_points": 9,
+      "summary_items": 0,
+      "questions": 8,
+      "question_comments": 8,
+      "checklist_items": 11,
+      "references": 13
+    }
+  }
+}

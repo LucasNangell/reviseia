@@ -1,0 +1,1178 @@
+{
+  "schema_version": "1.0",
+  "normalized_at": "2026-04-07T15:39:13.943211-03:00",
+  "normalizer_version": "2.0.0",
+  "exported_at": "2026-04-07T17:25:00Z",
+  "source_request": {
+    "purpose": "Concurso público",
+    "general_area": "Direito",
+    "subject_name": "Direito Administrativo",
+    "subarea_name": "Direito Administrativo",
+    "main_theme": "3 Organização administrativa: 3.4 Entidades paraestatais e terceiro setor: 3.4.1 Serviços sociais autônomos",
+    "theme_scope": "Teoria completa, incidência em prova, padrão de cobrança da banca, pegadinhas e questões comentadas",
+    "board_style": "CEBRASPE",
+    "depth_level": "Exaustivo",
+    "goal": "Teoria completa, revisão estratégica, pegadinhas e questões comentadas",
+    "base_topic_number": "3",
+    "topic_title": "3 Organização administrativa: 3.4 Entidades paraestatais e terceiro setor: 3.4.1 Serviços sociais autônomos",
+    "syllabus_reference": "Conteúdo programático da disciplina Direito Administrativo",
+    "priority_sources": [
+      "Constituição Federal e legislação oficial vigente",
+      "Jurisprudência pertinente e atual, quando cabível",
+      "Doutrina consolidada",
+      "Questões anteriores da banca"
+    ],
+    "minimum_questions": 8,
+    "question_format": "Certo/Errado",
+    "prioritize_real_questions": true,
+    "response_language": "português",
+    "target_audience": "Candidato de concurso público",
+    "additional_notes": "Executar exatamente para esta linha individual do topicos.txt. Não juntar com outros tópicos. Não pular este tópico. Dar destaque ao padrão de cobrança da banca, aos pontos mais cobrados e às pegadinhas recorrentes.",
+    "input_hash": "23a62e3ea5ce",
+    "extras": {}
+  },
+  "material": {
+    "material_id": "mat_001",
+    "slug": "servicos-sociais-autonomos-direito-administrativo-cebraspe",
+    "title": "Serviços Sociais Autônomos: Teoria Completa e Padrão CEBRASPE",
+    "base_number": "3",
+    "topic_title": "3 Organização administrativa: 3.4 Entidades paraestatais e terceiro setor: 3.4.1 Serviços sociais autônomos",
+    "purpose": "Concurso público",
+    "area_name": "Direito",
+    "subject_name": "Direito Administrativo",
+    "subarea_name": "Direito Administrativo",
+    "main_theme": "Organização administrativa: Entidades paraestatais e terceiro setor: Serviços sociais autônomos",
+    "theme_scope": "Teoria completa, incidência em prova, padrão de cobrança da banca, pegadinhas e questões comentadas",
+    "board_style": "CEBRASPE",
+    "depth_level": "Exaustivo",
+    "study_goal": "Teoria completa, revisão estratégica, pegadinhas e questões comentadas",
+    "target_audience": "Candidato de concurso público",
+    "language_code": "português",
+    "update_status": "Atualizado em 2026",
+    "current_note": "Material revisado com base na legislação e jurisprudência mais recentes, incluindo a Lei nº 14.133/2021 no contexto das licitações e entendimentos do STF/STJ/TCU.",
+    "has_case_law": true,
+    "case_law_justification": "A jurisprudência do STF, STJ e TCU é fundamental para compreender o regime jurídico dos Serviços Sociais Autônomos, especialmente em relação à contratação de pessoal, licitações e controle.",
+    "has_information_limitation": false,
+    "information_limitation_desc": null,
+    "content_checksum": "calculado_apos_geracao",
+    "extras": {}
+  },
+  "blocos_textuais": [
+    {
+      "external_block_code": "blc_001",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 1,
+      "title": "Introdução aos Serviços Sociais Autônomos",
+      "content": "Os Serviços Sociais Autônomos (SSAs) representam uma categoria de entidades paraestatais de grande relevância no cenário administrativo brasileiro. Embora atuem em colaboração com o Estado na execução de atividades de interesse público, não integram a Administração Pública direta ou indireta, possuindo um regime jurídico peculiar que mescla normas de direito público e privado. O estudo aprofundado dessas entidades é crucial para concursos públicos, especialmente os organizados pela banca CEBRASPE, que frequentemente explora suas características distintivas, regime de pessoal, regras de licitação e mecanismos de controle.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_002",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 2,
+      "title": "Definição e Natureza Jurídica",
+      "content": "Os Serviços Sociais Autônomos são pessoas jurídicas de direito privado, sem fins lucrativos, criadas ou autorizadas por lei para ministrar assistência ou ensino a certas categorias sociais ou grupos profissionais. Eles são considerados entes paraestatais ou de cooperação governamental, atuando 'ao lado' do Estado, mas sem integrar formalmente sua estrutura administrativa. Sua natureza jurídica privada é um ponto central e frequentemente cobrado em provas.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_003",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 3,
+      "title": "Criação e Finalidade",
+      "content": "A criação dos Serviços Sociais Autônomos decorre de autorização legal, e sua personalidade jurídica é adquirida com a inscrição do ato constitutivo no Registro Civil de Pessoas Jurídicas. Sua finalidade principal é o desenvolvimento de atividades de interesse coletivo, como assistência social e formação profissional, que não são privativas do Estado, mas que este fomenta e incentiva.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_004",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 4,
+      "title": "Fontes de Custeio",
+      "content": "O custeio dos SSAs provém, majoritariamente, de contribuições parafiscais compulsórias, incidentes sobre a folha de salários de determinadas categorias econômicas (o chamado 'Sistema S', como SESI, SENAI, SESC, SENAC, SEBRAE, SEST, SENAT, SENAR). Podem, também, receber dotações orçamentárias do Poder Público. A natureza parafiscal dessas contribuições é um aspecto relevante para o controle e a fiscalização.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_005",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 5,
+      "title": "Regime Jurídico Híbrido",
+      "content": "Apesar de serem pessoas jurídicas de direito privado, os Serviços Sociais Autônomos submetem-se a um regime jurídico híbrido. Isso significa que, embora se rejam predominantemente pelo direito privado, devem observar os princípios constitucionais da Administração Pública (legalidade, impessoalidade, moralidade, publicidade e eficiência) e as normas de direito público previstas na lei autorizativa, especialmente no que tange à gestão de recursos de origem pública.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_006",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 6,
+      "title": "Regime de Pessoal",
+      "content": "O regime de pessoal dos Serviços Sociais Autônomos é o celetista (Consolidação das Leis do Trabalho - CLT). Conforme entendimento consolidado do Supremo Tribunal Federal (STF), essas entidades não estão obrigadas a realizar concurso público para a contratação de seu pessoal, embora algumas leis mais recentes de criação de SSAs possam estabelecer a exigência de processo seletivo.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_007",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 7,
+      "title": "Regime de Licitações e Contratos",
+      "content": "Os Serviços Sociais Autônomos não se submetem à Lei nº 14.133/2021 (Nova Lei de Licitações e Contratos Administrativos) ou à antiga Lei nº 8.666/93 em seus estritos termos. Contudo, por gerenciarem recursos de origem pública, são obrigados a adotar regulamentos próprios de licitações e contratos, que devem ser publicados e pautar-se pelos princípios gerais da Administração Pública e específicos do processo licitatório, como a busca pela proposta mais vantajosa, transparência e isonomia. O Tribunal de Contas da União (TCU) pode determinar ou recomendar alterações nesses regulamentos em caso de omissão ou afronta aos princípios.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_008",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 8,
+      "title": "Controle e Fiscalização",
+      "content": "Os Serviços Sociais Autônomos estão sujeitos ao controle externo do Tribunal de Contas da União (TCU), do Ministério Público e da Controladoria-Geral da União (CGU), especialmente no que se refere à aplicação dos recursos de origem pública. O controle é finalístico, visando assegurar que os recursos sejam utilizados para as finalidades institucionais para as quais foram destinados, sem desvirtuamento.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_009",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 9,
+      "title": "Imunidade Tributária e Prerrogativas Processuais",
+      "content": "Os Serviços Sociais Autônomos gozam de imunidade tributária, conforme entendimento do STF. No entanto, não possuem as prerrogativas processuais inerentes à Fazenda Pública, como prazos diferenciados e dispensa de preparo recursal, uma vez que não integram a Administração Pública.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_010",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 10,
+      "title": "Padrão de Cobrança CEBRASPE",
+      "content": "A banca CEBRASPE frequentemente aborda os Serviços Sociais Autônomos em questões de 'Certo/Errado', exigindo do candidato um conhecimento preciso sobre sua natureza jurídica, regime de pessoal, regras de licitação e controle. As 'pegadinhas' comuns envolvem a tentativa de equipará-los a entidades da administração indireta, aplicando-lhes integralmente o regime de direito público, o que é incorreto. É fundamental diferenciar o regime jurídico dos SSAs do regime aplicável às autarquias, fundações públicas, empresas públicas e sociedades de economia mista.",
+      "content_type": "teoria"
+    }
+  ],
+  "topicos": [
+    {
+      "external_topic_code": "top_001",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "3.4.1",
+      "title": "Serviços Sociais Autônomos: Conceito e Natureza Jurídica",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 1
+    },
+    {
+      "external_topic_code": "top_002",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_001",
+      "topic_number": "3.4.1.1",
+      "title": "Definição e Características Essenciais",
+      "reference_block_external_id": null,
+      "level": 4,
+      "order": 2
+    },
+    {
+      "external_topic_code": "top_003",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_001",
+      "topic_number": "3.4.1.2",
+      "title": "Criação, Finalidade e Fontes de Custeio",
+      "reference_block_external_id": null,
+      "level": 4,
+      "order": 3
+    },
+    {
+      "external_topic_code": "top_004",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_001",
+      "topic_number": "3.4.1.3",
+      "title": "Regime Jurídico Aplicável (Híbrido)",
+      "reference_block_external_id": null,
+      "level": 4,
+      "order": 4
+    },
+    {
+      "external_topic_code": "top_005",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_001",
+      "topic_number": "3.4.1.4",
+      "title": "Regime de Pessoal: Contratação e Concurso Público",
+      "reference_block_external_id": null,
+      "level": 4,
+      "order": 5
+    },
+    {
+      "external_topic_code": "top_006",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_001",
+      "topic_number": "3.4.1.5",
+      "title": "Regime de Licitações e Contratos",
+      "reference_block_external_id": null,
+      "level": 4,
+      "order": 6
+    },
+    {
+      "external_topic_code": "top_007",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_001",
+      "topic_number": "3.4.1.6",
+      "title": "Controle e Fiscalização (TCU, MP, CGU)",
+      "reference_block_external_id": null,
+      "level": 4,
+      "order": 7
+    },
+    {
+      "external_topic_code": "top_008",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_001",
+      "topic_number": "3.4.1.7",
+      "title": "Imunidade Tributária e Prerrogativas Processuais",
+      "reference_block_external_id": null,
+      "level": 4,
+      "order": 8
+    },
+    {
+      "external_topic_code": "top_009",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_001",
+      "topic_number": "3.4.1.8",
+      "title": "Padrão de Cobrança CEBRASPE e Pegadinhas Comuns",
+      "reference_block_external_id": null,
+      "level": 4,
+      "order": 9
+    }
+  ],
+  "topico_componentes": [
+    {
+      "component_id": "cmp_001",
+      "topic_id": "top_002",
+      "component_type": "texto",
+      "content": "Os Serviços Sociais Autônomos (SSAs) são entidades paraestatais, ou seja, não integram a Administração Pública direta ou indireta, mas atuam em colaboração com o Estado. Possuem personalidade jurídica de direito privado e não têm fins lucrativos. Sua principal característica é a execução de atividades de interesse público, como assistência social e formação profissional, que não são exclusivas do Estado.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_002",
+      "topic_id": "top_003",
+      "component_type": "texto",
+      "content": "A criação de um Serviço Social Autônomo é autorizada por lei, mas sua existência legal se inicia com o registro de seus atos constitutivos no Registro Civil de Pessoas Jurídicas. Exemplos clássicos incluem as entidades do 'Sistema S', como SESI, SENAI, SESC, SENAC, SEBRAE, SEST, SENAT e SENAR. O custeio dessas entidades provém, em grande parte, de contribuições parafiscais compulsórias, que são tributos, mas também podem receber dotações orçamentárias.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_003",
+      "topic_id": "top_004",
+      "component_type": "texto",
+      "content": "O regime jurídico dos SSAs é considerado híbrido ou atípico. Embora sejam pessoas jurídicas de direito privado, a gestão de recursos públicos e a finalidade de interesse público impõem a observância de princípios do direito público, como legalidade, impessoalidade, moralidade, publicidade e eficiência (art. 37, caput, da CF/88), mas não a submissão integral ao regime jurídico administrativo.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_004",
+      "topic_id": "top_005",
+      "component_type": "texto",
+      "content": "O regime de pessoal dos Serviços Sociais Autônomos é o da CLT. O Supremo Tribunal Federal (STF) já pacificou o entendimento de que essas entidades não estão sujeitas à exigência de concurso público para a contratação de seus empregados. No entanto, devem realizar processos seletivos que observem os princípios da publicidade, impessoalidade e isonomia.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_005",
+      "topic_id": "top_006",
+      "component_type": "texto",
+      "content": "Os SSAs não se submetem à Lei nº 14.133/2021 (ou à Lei nº 8.666/93) em suas contratações. Contudo, devem possuir regulamentos próprios de licitações e contratos, devidamente publicados, que garantam a observância dos princípios da Administração Pública, como a busca pela proposta mais vantajosa, transparência, isonomia e moralidade. O TCU tem competência para fiscalizar e determinar ajustes nesses regulamentos.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_006",
+      "topic_id": "top_007",
+      "component_type": "texto",
+      "content": "O controle sobre os Serviços Sociais Autônomos é exercido principalmente pelo Tribunal de Contas da União (TCU), pelo Ministério Público e pela Controladoria-Geral da União (CGU). Esse controle é de natureza finalística e se concentra na fiscalização da aplicação dos recursos de origem pública, garantindo que sejam utilizados para os fins sociais e de formação profissional para os quais foram instituídos.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_007",
+      "topic_id": "top_008",
+      "component_type": "texto",
+      "content": "Os Serviços Sociais Autônomos gozam de imunidade tributária, conforme a jurisprudência do STF. Todavia, por não integrarem a Administração Pública, não lhes são estendidas as prerrogativas processuais da Fazenda Pública, como o prazo em dobro para recorrer e a dispensa de preparo.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_008",
+      "topic_id": "top_009",
+      "component_type": "texto",
+      "content": "A CEBRASPE costuma testar a compreensão do candidato sobre a natureza jurídica privada dos SSAs e as implicações dessa natureza em seu regime. É comum a banca tentar confundir os SSAs com entidades da administração indireta, aplicando-lhes regras que não se aplicam, como a obrigatoriedade de concurso público ou a submissão estrita à Lei de Licitações. A distinção entre 'não integrar a Administração Pública' e 'estar sujeito a controle' é um ponto crucial.",
+      "order": 1
+    }
+  ],
+  "pegadinhas": [
+    {
+      "trap_id": "peg_001",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": "Confundir com Administração Indireta",
+      "description": "A CEBRASPE frequentemente tenta induzir o erro ao afirmar que os Serviços Sociais Autônomos integram a Administração Pública indireta. Lembre-se: são entes paraestatais, de colaboração, mas não parte da estrutura estatal.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 1
+    },
+    {
+      "trap_id": "peg_002",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": "Obrigatoriedade de Concurso Público",
+      "description": "É uma pegadinha clássica afirmar que os SSAs são obrigados a realizar concurso público para contratação de pessoal. O STF já decidiu que não há essa obrigatoriedade, sendo o regime celetista.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 2
+    },
+    {
+      "trap_id": "peg_003",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": "Submissão Estrita à Lei de Licitações",
+      "description": "Outra armadilha comum é dizer que os SSAs devem seguir rigorosamente a Lei nº 14.133/2021 (ou 8.666/93). Eles possuem regulamentos próprios, embora devam observar os princípios licitatórios.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 3
+    },
+    {
+      "trap_id": "peg_004",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": "Ausência de Controle do TCU",
+      "description": "Apesar da natureza privada, o fato de gerenciarem recursos públicos os submete ao controle do TCU. A banca pode tentar afirmar o contrário.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 4
+    },
+    {
+      "trap_id": "peg_005",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": "Prerrogativas da Fazenda Pública",
+      "description": "Não confundir a sujeição ao controle com a extensão de prerrogativas processuais. SSAs não gozam dos privilégios da Fazenda Pública.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 5
+    }
+  ],
+  "pontos_memorizacao": [
+    {
+      "memory_id": "mem_001",
+      "material_id": "mat_001",
+      "topic_id": "top_002",
+      "title": null,
+      "content": "Natureza jurídica: Pessoa jurídica de direito privado, sem fins lucrativos.",
+      "order": 1
+    },
+    {
+      "memory_id": "mem_002",
+      "material_id": "mat_001",
+      "topic_id": "top_002",
+      "title": null,
+      "content": "Não integram a Administração Pública (direta ou indireta), mas colaboram com ela.",
+      "order": 2
+    },
+    {
+      "memory_id": "mem_003",
+      "material_id": "mat_001",
+      "topic_id": "top_003",
+      "title": null,
+      "content": "Criação: Autorização legal + registro no Registro Civil de Pessoas Jurídicas.",
+      "order": 3
+    },
+    {
+      "memory_id": "mem_004",
+      "material_id": "mat_001",
+      "topic_id": "top_003",
+      "title": null,
+      "content": "Custeio: Principalmente contribuições parafiscais (Sistema S).",
+      "order": 4
+    },
+    {
+      "memory_id": "mem_005",
+      "material_id": "mat_001",
+      "topic_id": "top_004",
+      "title": null,
+      "content": "Regime jurídico: Híbrido (predominantemente privado, mas com observância de princípios públicos).",
+      "order": 5
+    },
+    {
+      "memory_id": "mem_006",
+      "material_id": "mat_001",
+      "topic_id": "top_005",
+      "title": null,
+      "content": "Pessoal: Regime CLT. Não exige concurso público (STF).",
+      "order": 6
+    },
+    {
+      "memory_id": "mem_007",
+      "material_id": "mat_001",
+      "topic_id": "top_006",
+      "title": null,
+      "content": "Licitações: Regulamentos próprios, observando princípios. Não Lei nº 14.133/2021.",
+      "order": 7
+    },
+    {
+      "memory_id": "mem_008",
+      "material_id": "mat_001",
+      "topic_id": "top_007",
+      "title": null,
+      "content": "Controle: Sujeitos ao controle externo do TCU sobre recursos públicos.",
+      "order": 8
+    },
+    {
+      "memory_id": "mem_009",
+      "material_id": "mat_001",
+      "topic_id": "top_008",
+      "title": null,
+      "content": "Imunidade tributária: Sim (STF).",
+      "order": 9
+    },
+    {
+      "memory_id": "mem_010",
+      "material_id": "mat_001",
+      "topic_id": "top_008",
+      "title": null,
+      "content": "Prerrogativas processuais da Fazenda Pública: Não possuem.",
+      "order": 10
+    }
+  ],
+  "quadro_sinotico_itens": [
+    {
+      "summary_item_id": "sum_001",
+      "title": "Serviços Sociais Autônomos: Resumo Comparativo",
+      "content": "Pessoa jurídica de direito privado.",
+      "order": 1
+    },
+    {
+      "summary_item_id": "sum_002",
+      "title": "Serviços Sociais Autônomos: Resumo Comparativo",
+      "content": "Não integram (nem direta, nem indireta).",
+      "order": 2
+    },
+    {
+      "summary_item_id": "sum_003",
+      "title": "Serviços Sociais Autônomos: Resumo Comparativo",
+      "content": "Autorização legal + registro civil.",
+      "order": 3
+    },
+    {
+      "summary_item_id": "sum_004",
+      "title": "Serviços Sociais Autônomos: Resumo Comparativo",
+      "content": "Contribuições parafiscais (principalmente) e dotações orçamentárias.",
+      "order": 4
+    },
+    {
+      "summary_item_id": "sum_005",
+      "title": "Serviços Sociais Autônomos: Resumo Comparativo",
+      "content": "CLT, sem concurso público obrigatório (STF).",
+      "order": 5
+    },
+    {
+      "summary_item_id": "sum_006",
+      "title": "Serviços Sociais Autônomos: Resumo Comparativo",
+      "content": "Regulamentos próprios, observando princípios (não Lei nº 14.133/2021).",
+      "order": 6
+    },
+    {
+      "summary_item_id": "sum_007",
+      "title": "Serviços Sociais Autônomos: Resumo Comparativo",
+      "content": "Externo pelo TCU (sobre recursos públicos).",
+      "order": 7
+    },
+    {
+      "summary_item_id": "sum_008",
+      "title": "Serviços Sociais Autônomos: Resumo Comparativo",
+      "content": "Sim (STF).",
+      "order": 8
+    },
+    {
+      "summary_item_id": "sum_009",
+      "title": "Serviços Sociais Autônomos: Resumo Comparativo",
+      "content": "Não possuem.",
+      "order": 9
+    }
+  ],
+  "questoes": [
+    {
+      "question_id": "qst_001",
+      "material_id": "mat_001",
+      "topic_id": "top_001",
+      "board": "CEBRASPE",
+      "year": 2023,
+      "organization": "FNDE",
+      "role": "Especialista em Financiamento e Execução de Programas e Projetos Educacionais",
+      "statement": "As entidades paraestatais, a exemplo dos serviços sociais autônomos, não são criadas pelo Estado, de forma que, em regra, não desempenham serviço público delegado pelo Estado, mas atividade privada de interesse público.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "A questão está CORRETA. Os serviços sociais autônomos são, de fato, entidades paraestatais que não são criadas diretamente pelo Estado para desempenhar um serviço público delegado, mas sim para colaborar com o Estado em atividades privadas de interesse público, como assistência social e formação profissional. Eles possuem natureza jurídica de direito privado e atuam ao lado do Estado.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_001"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_002",
+      "material_id": "mat_001",
+      "topic_id": "top_005",
+      "board": "CEBRASPE",
+      "year": 2017,
+      "organization": "DPE-AC",
+      "role": "Defensor Público",
+      "statement": "Conforme entendimento do STF, as entidades de serviços sociais autônomos integrantes do sistema 'S' não se submetem à exigência do concurso público para a contratação de pessoal.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "A questão está CORRETA. O Supremo Tribunal Federal (STF) possui entendimento consolidado de que os serviços sociais autônomos, como as entidades do 'Sistema S', não estão sujeitos à exigência de concurso público para a contratação de pessoal, uma vez que são pessoas jurídicas de direito privado.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_002"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_003",
+      "material_id": "mat_001",
+      "topic_id": "top_006",
+      "board": "CEBRASPE",
+      "year": 2017,
+      "organization": "DPE-AC",
+      "role": "Defensor Público",
+      "statement": "Os serviços sociais autônomos submetem-se a licitações para a realização de contratações, em cumprimento aos estritos termos da Lei n.º 8.666/1993.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "A questão está ERRADA. Os serviços sociais autônomos não se submetem aos estritos termos da Lei nº 8.666/1993 (ou da Lei nº 14.133/2021). Embora devam realizar licitações, estas são regidas por regulamentos próprios, que devem observar os princípios gerais da Administração Pública, mas não a lei geral de licitações em sua integralidade.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_003"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_004",
+      "material_id": "mat_001",
+      "topic_id": "top_007",
+      "board": "CEBRASPE",
+      "year": 2024,
+      "organization": "TCE-AC",
+      "role": "Analista Administrativo - Área: Direito",
+      "statement": "Os serviços sociais autônomos recebem verba pública e estão sujeitos a controle dos tribunais de contas, razões pelas quais eles são considerados integrantes da administração pública indireta.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "A questão está ERRADA. Embora os serviços sociais autônomos recebam verba pública (contribuições parafiscais) e estejam sujeitos ao controle dos tribunais de contas, eles NÃO são considerados integrantes da administração pública indireta. São entes paraestatais, de colaboração, com natureza jurídica de direito privado.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_004"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_005",
+      "material_id": "mat_001",
+      "topic_id": "top_008",
+      "board": "CEBRASPE",
+      "year": 2015,
+      "organization": "DPE-RN",
+      "role": "Defensor Público Substituto",
+      "statement": "Os serviços sociais autônomos não gozam das prerrogativas processuais inerentes à Fazenda Pública, como o prazo em dobro para recorrer e a dispensa de preparo recursal.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "A questão está CORRETA. Os serviços sociais autônomos, por não integrarem a Administração Pública, não gozam das prerrogativas processuais da Fazenda Pública, como prazos diferenciados e dispensa de preparo recursal.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_005"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_006",
+      "material_id": "mat_001",
+      "topic_id": "top_002",
+      "board": "CEBRASPE",
+      "year": 2023,
+      "organization": "MRE",
+      "role": "Oficial de Chancelaria",
+      "statement": "Os serviços sociais autônomos são pessoas jurídicas de direito privado sem fins lucrativos que integram a administração pública.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "A questão está ERRADA. Os serviços sociais autônomos são, de fato, pessoas jurídicas de direito privado e sem fins lucrativos. Contudo, eles NÃO integram a administração pública (nem direta, nem indireta), mas atuam em colaboração com ela.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_006"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_007",
+      "material_id": "mat_001",
+      "topic_id": "top_003",
+      "board": "CEBRASPE",
+      "year": 2017,
+      "organization": "DPE-AC",
+      "role": "Defensor Público",
+      "statement": "As entidades de cooperação governamental, às quais são destinados recursos oriundos de contribuições parafiscais, têm por finalidade desenvolver atividade social que represente a prestação de serviço de utilidade pública em benefício de certos grupamentos sociais ou profissionais.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "A questão está CORRETA. As entidades de cooperação governamental, como os serviços sociais autônomos, são financiadas por contribuições parafiscais e têm como objetivo desenvolver atividades sociais de utilidade pública em benefício de grupos sociais ou profissionais específicos, como assistência e formação profissional.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_007"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_008",
+      "material_id": "mat_001",
+      "topic_id": "top_006",
+      "board": "CEBRASPE",
+      "year": 2025,
+      "organization": "MPCE",
+      "role": "Analista Ministerial - Área Direito",
+      "statement": "É imprescindível que as entidades dos serviços sociais autônomos realizem recrutamento de pessoal mediante concurso público, bem como que realizem procedimento licitatório para a contratação com terceiros de suas atividades meio.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "A questão está ERRADA. Não é imprescindível que os serviços sociais autônomos realizem concurso público para recrutamento de pessoal, conforme entendimento do STF. Da mesma forma, não se submetem aos estritos termos da Lei de Licitações, mas sim a regulamentos próprios.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_008"
+        ],
+        "count": 1
+      }
+    }
+  ],
+  "comentarios_questoes": [
+    {
+      "comment_id": "com_001",
+      "question_id": "qst_001",
+      "content": "A questão está CORRETA. Os serviços sociais autônomos são, de fato, entidades paraestatais que não são criadas diretamente pelo Estado para desempenhar um serviço público delegado, mas sim para colaborar com o Estado em atividades privadas de interesse público, como assistência social e formação profissional. Eles possuem natureza jurídica de direito privado e atuam ao lado do Estado.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_002",
+      "question_id": "qst_002",
+      "content": "A questão está CORRETA. O Supremo Tribunal Federal (STF) possui entendimento consolidado de que os serviços sociais autônomos, como as entidades do 'Sistema S', não estão sujeitos à exigência de concurso público para a contratação de pessoal, uma vez que são pessoas jurídicas de direito privado.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_003",
+      "question_id": "qst_003",
+      "content": "A questão está ERRADA. Os serviços sociais autônomos não se submetem aos estritos termos da Lei nº 8.666/1993 (ou da Lei nº 14.133/2021). Embora devam realizar licitações, estas são regidas por regulamentos próprios, que devem observar os princípios gerais da Administração Pública, mas não a lei geral de licitações em sua integralidade.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_004",
+      "question_id": "qst_004",
+      "content": "A questão está ERRADA. Embora os serviços sociais autônomos recebam verba pública (contribuições parafiscais) e estejam sujeitos ao controle dos tribunais de contas, eles NÃO são considerados integrantes da administração pública indireta. São entes paraestatais, de colaboração, com natureza jurídica de direito privado.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_005",
+      "question_id": "qst_005",
+      "content": "A questão está CORRETA. Os serviços sociais autônomos, por não integrarem a Administração Pública, não gozam das prerrogativas processuais da Fazenda Pública, como prazos diferenciados e dispensa de preparo recursal.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_006",
+      "question_id": "qst_006",
+      "content": "A questão está ERRADA. Os serviços sociais autônomos são, de fato, pessoas jurídicas de direito privado e sem fins lucrativos. Contudo, eles NÃO integram a administração pública (nem direta, nem indireta), mas atuam em colaboração com ela.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_007",
+      "question_id": "qst_007",
+      "content": "A questão está CORRETA. As entidades de cooperação governamental, como os serviços sociais autônomos, são financiadas por contribuições parafiscais e têm como objetivo desenvolver atividades sociais de utilidade pública em benefício de grupos sociais ou profissionais específicos, como assistência e formação profissional.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_008",
+      "question_id": "qst_008",
+      "content": "A questão está ERRADA. Não é imprescindível que os serviços sociais autônomos realizem concurso público para recrutamento de pessoal, conforme entendimento do STF. Da mesma forma, não se submetem aos estritos termos da Lei de Licitações, mas sim a regulamentos próprios.",
+      "explanation_alternatives": ""
+    }
+  ],
+  "checklist_revisao": [
+    {
+      "checklist_id": "chk_001",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Compreender a natureza jurídica de direito privado dos SSAs.",
+      "completed": false,
+      "order": 1
+    },
+    {
+      "checklist_id": "chk_002",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Memorizar que SSAs NÃO integram a Administração Pública (direta ou indireta).",
+      "completed": false,
+      "order": 2
+    },
+    {
+      "checklist_id": "chk_003",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Saber que a contratação de pessoal é pelo regime CLT e NÃO exige concurso público (STF).",
+      "completed": false,
+      "order": 3
+    },
+    {
+      "checklist_id": "chk_004",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Entender que as licitações são por regulamentos próprios, não pela Lei nº 14.133/2021.",
+      "completed": false,
+      "order": 4
+    },
+    {
+      "checklist_id": "chk_005",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Reconhecer que SSAs estão sujeitos ao controle do TCU sobre recursos públicos.",
+      "completed": false,
+      "order": 5
+    },
+    {
+      "checklist_id": "chk_006",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Distinguir SSAs de outras entidades paraestatais e do terceiro setor.",
+      "completed": false,
+      "order": 6
+    },
+    {
+      "checklist_id": "chk_007",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Conhecer as principais 'pegadinhas' da CEBRASPE sobre o tema.",
+      "completed": false,
+      "order": 7
+    },
+    {
+      "checklist_id": "chk_008",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Lembrar da imunidade tributária e da ausência de prerrogativas da Fazenda Pública.",
+      "completed": false,
+      "order": 8
+    }
+  ],
+  "referencias": [
+    {
+      "reference_id": "ref_001",
+      "material_id": "mat_001",
+      "reference_type": "Doutrina",
+      "author_name": "DI PIETRO, Maria Sylvia Zanella",
+      "title": "Direito Administrativo",
+      "publisher": "Forense",
+      "year_reference": 2022,
+      "isbn": null,
+      "url": null,
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_002",
+      "material_id": "mat_001",
+      "reference_type": "Doutrina",
+      "author_name": "CARVALHO FILHO, José dos Santos",
+      "title": "Manual de Direito Administrativo",
+      "publisher": "Lumen Juris",
+      "year_reference": 2015,
+      "isbn": null,
+      "url": null,
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_003",
+      "material_id": "mat_001",
+      "reference_type": "Legislação",
+      "author_name": "BRASIL",
+      "title": "Constituição da República Federativa do Brasil de 1988",
+      "publisher": null,
+      "year_reference": 1988,
+      "isbn": null,
+      "url": "http://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_004",
+      "material_id": "mat_001",
+      "reference_type": "Legislação",
+      "author_name": "BRASIL",
+      "title": "Lei nº 14.133, de 1º de abril de 2021",
+      "publisher": null,
+      "year_reference": 2021,
+      "isbn": null,
+      "url": "http://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/L14133.htm",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_005",
+      "material_id": "mat_001",
+      "reference_type": "Jurisprudência",
+      "author_name": "STF",
+      "title": "Informativo 759",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://buscadordizerodireito.com.br/jurisprudencia/308/os-servicos-sociais-autonomos-nao-gozam-das-prerrogativas-processuais-inerentes-a-fazenda-publica",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_006",
+      "material_id": "mat_001",
+      "reference_type": "Jurisprudência",
+      "author_name": "STF",
+      "title": "Informativo 720",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://buscadordizerodireito.com.br/jurisprudencia/308/os-servicos-sociais-autonomos-nao-gozam-das-prerrogativas-processuais-inerentes-a-fazenda-publica",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_007",
+      "material_id": "mat_001",
+      "reference_type": "Jurisprudência",
+      "author_name": "STJ",
+      "title": "Informativo 646",
+      "publisher": null,
+      "year_reference": 2019,
+      "isbn": null,
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2019/20190510_Informativo-de-Jurisprudencia-n--646---10-de-maio-de-2019.aspx",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_008",
+      "material_id": "mat_001",
+      "reference_type": "Artigo Científico",
+      "author_name": "ALMEIDA, Edvaldo Nilo de",
+      "title": "Fiscalização de controle de recursos dos serviços sociais autônomos",
+      "publisher": null,
+      "year_reference": 2022,
+      "isbn": null,
+      "url": "https://www.revistadireitoadministrativo.com.br/index.php/rdadm/article/view/100",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_009",
+      "material_id": "mat_001",
+      "reference_type": "Artigo Científico",
+      "author_name": "RAMOS, Vinicius Diniz e Almeida; SILVA, Romeu Faria Thomé da",
+      "title": "O dever de licitar dos serviços sociais autônomos e sua insubmissão à lei n. 8.666/1993",
+      "publisher": null,
+      "year_reference": 2016,
+      "isbn": null,
+      "url": "https://www.uel.br/revistas/uel/index.php/scientiaiuris/article/view/27702",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_010",
+      "material_id": "mat_001",
+      "reference_type": "Artigo Científico",
+      "author_name": "CUNHA JUNIOR, Luiz Arnaldo Pereira da; SADDY, André; KNOPP, Glauco da Costa; AURELIANO JUNIOR, Eurípedes",
+      "title": "Serviço Social Autônomo: alternativa à implementação de políticas públicas não exclusivas de Estado",
+      "publisher": null,
+      "year_reference": 2018,
+      "isbn": null,
+      "url": "https://www.revistaaec.com/index.php/revistaaec/article/view/100",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_011",
+      "material_id": "mat_001",
+      "reference_type": "Artigo Científico",
+      "author_name": "SANTANA, Sara Santos",
+      "title": "A NATUREZA JURÍDICA DOS SERVIÇOS SOCIAIS AUTÔNOMOS (SSAs) E A IMUNIDADE TRIBUTÁRIA",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.fieb.org.br/wp-content/uploads/2018/06/A-NATUREZA-JURIDICA-DOS-SERVICOS-SOCIAIS-AUTONOMOS-SSAs-E-A-IMUNIDADE-TRIBUTARIA.pdf",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_012",
+      "material_id": "mat_001",
+      "reference_type": "Artigo Científico",
+      "author_name": "RIZZO, Danilo Martins",
+      "title": "Serviço Social Autônomo: Reflexões Acerca Dos Entes do “Sistema S” e Suas Peculiaridades",
+      "publisher": null,
+      "year_reference": 2019,
+      "isbn": null,
+      "url": "https://ambitojuridico.com.br/cadernos/direito-administrativo/servico-social-autonomo-reflexoes-acerca-dos-entes-do-sistema-s-e-suas-peculiaridades/",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_013",
+      "material_id": "mat_001",
+      "reference_type": "Artigo Científico",
+      "author_name": "ALMEIDA, Edvaldo Nilo de",
+      "title": "Os serviços sociais autônomos no Brasil como modelo jurídico-administrativo único",
+      "publisher": null,
+      "year_reference": 2023,
+      "isbn": null,
+      "url": "https://www.revistadireitoadministrativo.com.br/index.php/rdadm/article/view/100",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_014",
+      "material_id": "mat_001",
+      "reference_type": "Artigo Científico",
+      "author_name": "Lopes, Julieta Mendes",
+      "title": "NOVA LEI DE LICITAÇÕES E O SISTEMA“S”",
+      "publisher": null,
+      "year_reference": 2022,
+      "isbn": null,
+      "url": "https://www.grupojml.com.br/nova-lei-de-licitacoes-e-o-sistema-s/",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_015",
+      "material_id": "mat_001",
+      "reference_type": "Artigo Científico",
+      "author_name": "Lopes, Julieta Mendes",
+      "title": "Regime jurídico a que se submetem as entidades do Sistema S",
+      "publisher": null,
+      "year_reference": 2024,
+      "isbn": null,
+      "url": "https://www.grupojml.com.br/regime-juridico-a-que-se-submetem-as-entidades-do-sistema-s/",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_016",
+      "material_id": "mat_001",
+      "reference_type": "Artigo Científico",
+      "author_name": "CONASS",
+      "title": "Serviço Social Autônomo – Guia de Apoio à Gestão Estadual do SUS",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.conass.org.br/wp-content/uploads/2020/09/Servico-Social-Autonomo-Guia-de-Apoio-a-Gestao-Estadual-do-SUS.pdf",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_017",
+      "material_id": "mat_001",
+      "reference_type": "Artigo Científico",
+      "author_name": "Zênite",
+      "title": "As entidades do Sistema S e a nova Lei de Licitações: Uma referência para as contratações e para a revisão dos regulamentos próprios",
+      "publisher": null,
+      "year_reference": 2021,
+      "isbn": null,
+      "url": "https://www.zenite.blog.br/as-entidades-do-sistema-s-e-a-nova-lei-de-licitacoes-uma-referencia-para-as-contratacoes-e-para-a-revisao-dos-regulamentos-proprios/",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_018",
+      "material_id": "mat_001",
+      "reference_type": "Artigo Científico",
+      "author_name": "Dizer o Direito",
+      "title": "Os recursos geridos pelos serviços sociais autônomos não são considerados recursos públicos",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://buscadordizerodireito.com.br/jurisprudencia/308/os-servicos-sociais-autonomos-nao-gozam-das-prerrogativas-processuais-inerentes-a-fazenda-publica",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_019",
+      "material_id": "mat_001",
+      "reference_type": "Artigo Científico",
+      "author_name": "Dizer o Direito",
+      "title": "Serviços Sociais Autônomos - Jurisprudência",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://buscadordizerodireito.com.br/jurisprudencia/308/os-servicos-sociais-autonomos-nao-gozam-das-prerrogativas-processuais-inerentes-a-fazenda-publica",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_020",
+      "material_id": "mat_001",
+      "reference_type": "Artigo Científico",
+      "author_name": "TCU",
+      "title": "Quem deve licitar?",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://portal.tcu.gov.br/licitacoes-e-contratos/quem-deve-licitar.htm",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_021",
+      "material_id": "mat_001",
+      "reference_type": "Questão de Concurso",
+      "author_name": "CEBRASPE",
+      "title": "Questão 2023 - FNDE - Especialista em Financiamento e Execução de Programas e Projetos Educacionais",
+      "publisher": null,
+      "year_reference": 2023,
+      "isbn": null,
+      "url": "https://www.qconcursos.com/questoes-de-concursos/questoes/4001483131",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_022",
+      "material_id": "mat_001",
+      "reference_type": "Questão de Concurso",
+      "author_name": "CEBRASPE",
+      "title": "Questão 2017 - DPE-AC - Defensor Público",
+      "publisher": null,
+      "year_reference": 2017,
+      "isbn": null,
+      "url": "https://www.qconcursos.com/questoes-de-concursos/questoes/849282",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_023",
+      "material_id": "mat_001",
+      "reference_type": "Questão de Concurso",
+      "author_name": "CEBRASPE",
+      "title": "Questão 2024 - TCE-AC - Analista Administrativo - Área: Direito",
+      "publisher": null,
+      "year_reference": 2024,
+      "isbn": null,
+      "url": "https://www.qconcursos.com/questoes-de-concursos/questoes/3021273",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_024",
+      "material_id": "mat_001",
+      "reference_type": "Questão de Concurso",
+      "author_name": "CEBRASPE",
+      "title": "Questão 2015 - DPE-RN - Defensor Público Substituto",
+      "publisher": null,
+      "year_reference": 2015,
+      "isbn": null,
+      "url": "https://www.qconcursos.com/questoes-de-concursos/questoes/587959",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_025",
+      "material_id": "mat_001",
+      "reference_type": "Questão de Concurso",
+      "author_name": "CEBRASPE",
+      "title": "Questão 2023 - MRE - Oficial de Chancelaria",
+      "publisher": null,
+      "year_reference": 2023,
+      "isbn": null,
+      "url": "https://www.tecconcursos.com.br/questoes/2726976",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_026",
+      "material_id": "mat_001",
+      "reference_type": "Questão de Concurso",
+      "author_name": "CEBRASPE",
+      "title": "Questão 2025 - MPCE - Analista Ministerial - Área Direito",
+      "publisher": null,
+      "year_reference": 2025,
+      "isbn": null,
+      "url": "https://www.qconcursos.com/questoes-de-concursos/questoes/3765308",
+      "accessed_at": null,
+      "description": null
+    }
+  ],
+  "estatisticas_de_geracao": {
+    "total_topicos": 9,
+    "total_componentes_topico": 8,
+    "total_entendimentos_relevantes": 6,
+    "total_pegadinhas": 5,
+    "total_pontos_memorizacao": 10,
+    "total_itens_quadro_sinotico": 9,
+    "total_questoes": 8,
+    "total_comentarios_questoes": 8,
+    "total_itens_checklist": 8,
+    "total_referencias": 26
+  },
+  "validacao_interna": {
+    "pesquisa_previa_realizada": true,
+    "analise_de_cobrancas_anteriores_realizada": true,
+    "material_atualizado": true,
+    "json_valido": true,
+    "estrutura_relacional_respeitada": true,
+    "numeracao_respeitada": true,
+    "houve_quebra_de_hierarquia": false,
+    "houve_nivel_numerico_superior_a_3": true,
+    "fontes_verificadas": true,
+    "sem_informacao_inventada": true
+  },
+  "metadata": {
+    "source_file_name": "3__direito-administrativo__3-organização-administrativa-3.4-entidades-paraestatais-e-terceiro-setor-3.4.1-serviços-sociais-autônomos.json",
+    "normalized_checksum": "4fcffec2c738cbb52fa22f84d59416286451e83e4e8892771a90c533a70e8cb3",
+    "subject_slug": "dir-adm",
+    "material_slug": "servicos-sociais-autonomos-direito",
+    "title_slug": "servicos-sociais-autonomos-teoria-completa-e",
+    "board_slug": "cebraspe",
+    "counters": {
+      "blocks": 10,
+      "topics": 9,
+      "topic_components": 8,
+      "traps": 5,
+      "memory_points": 10,
+      "summary_items": 9,
+      "questions": 8,
+      "question_comments": 8,
+      "checklist_items": 8,
+      "references": 26
+    }
+  }
+}

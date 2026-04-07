@@ -1,0 +1,958 @@
+{
+  "schema_version": "1.0",
+  "normalized_at": "2026-04-07T15:39:14.595697-03:00",
+  "normalizer_version": "2.0.0",
+  "exported_at": "2026-04-07T16:19:00Z",
+  "source_request": {
+    "purpose": "Concurso público",
+    "general_area": "Tecnologia da Informação",
+    "subject_name": "Informática e Dados",
+    "subarea_name": "Informática, redes, segurança e dados",
+    "main_theme": "6 Noções de aprendizado de máquina: 6.1 Mineração de dados: conceituação e características",
+    "theme_scope": "Teoria completa, incidência em prova, padrão de cobrança da banca, pegadinhas e questões comentadas",
+    "board_style": "CEBRASPE",
+    "depth_level": "Exaustivo",
+    "goal": "Teoria completa, revisão estratégica, pegadinhas e questões comentadas",
+    "base_topic_number": "6",
+    "topic_title": "6 Noções de aprendizado de máquina: 6.1 Mineração de dados: conceituação e características",
+    "syllabus_reference": "Conteúdo programático da disciplina Informática e Dados",
+    "priority_sources": [
+      "Documentação oficial e referências técnicas confiáveis",
+      "Bibliografia técnica consolidada",
+      "Questões anteriores da banca"
+    ],
+    "minimum_questions": 8,
+    "question_format": "Certo/Errado",
+    "prioritize_real_questions": true,
+    "response_language": "português",
+    "target_audience": "Candidato de concurso público",
+    "additional_notes": "Executar exatamente para esta linha individual do topicos.txt. Não juntar com outros tópicos. Não pular este tópico. Dar destaque ao padrão de cobrança da banca, aos pontos mais cobrados e às pegadinhas recorrentes.",
+    "input_hash": "7054944db3c5",
+    "extras": {}
+  },
+  "material": {
+    "material_id": "mat_001",
+    "slug": "mineracao-de-dados-conceituacao-e-caracteristicas-cebraspe",
+    "title": "Mineração de Dados: Conceituação e Características para Concursos (CEBRASPE)",
+    "base_number": "6",
+    "topic_title": "6 Noções de aprendizado de máquina: 6.1 Mineração de dados: conceituação e características",
+    "purpose": "Concurso público",
+    "area_name": "Tecnologia da Informação",
+    "subject_name": "Informática e Dados",
+    "subarea_name": "Informática, redes, segurança e dados",
+    "main_theme": "6 Noções de aprendizado de máquina: 6.1 Mineração de dados: conceituação e características",
+    "theme_scope": "Teoria completa, incidência em prova, padrão de cobrança da banca, pegadinhas e questões comentadas",
+    "board_style": "CEBRASPE",
+    "depth_level": "Exaustivo",
+    "study_goal": "Teoria completa, revisão estratégica, pegadinhas e questões comentadas",
+    "target_audience": "Candidato de concurso público",
+    "language_code": "português",
+    "update_status": "Atualizado",
+    "current_note": "Conteúdo verificado com base em bibliografia consolidada e questões recentes da banca CEBRASPE (até 2026).",
+    "has_case_law": false,
+    "case_law_justification": "A disciplina de Mineração de Dados, no contexto de concursos de TI, não exige abordagem jurisprudencial.",
+    "has_information_limitation": false,
+    "information_limitation_desc": null,
+    "content_checksum": "placeholder_checksum_gerado_automaticamente",
+    "extras": {}
+  },
+  "blocos_textuais": [
+    {
+      "external_block_code": "blc_001",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 1,
+      "title": "Introdução à Mineração de Dados",
+      "content": "A Mineração de Dados, ou Data Mining, é um campo multidisciplinar que se situa na intersecção da ciência da computação, estatística e inteligência artificial. Seu objetivo central é extrair informações valiosas, padrões consistentes, correlações e tendências ocultas de grandes volumes de dados, transformando dados brutos em conhecimento útil para a tomada de decisões. É uma etapa crucial no processo de Descoberta de Conhecimento em Bancos de Dados (KDD - Knowledge Discovery in Databases).",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_002",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 2,
+      "title": "Conceituação de Mineração de Dados",
+      "content": "Mineração de Dados pode ser definida como o processo de identificar, em dados, padrões válidos, novos, potencialmente úteis e, ao final, compreensíveis. Não se trata de 'minerar' os dados em si, mas sim de extrair significado ou conhecimento valioso deles. Essa extração é realizada por meio de técnicas avançadas de estatística, inteligência artificial e aprendizado de máquina, que permitem analisar dados e descobrir informações que, de outra forma, poderiam passar despercebidas. O processo pode ser automático ou semiautomático e é indispensável devido ao volume massivo de dados gerados atualmente.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_003",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 3,
+      "title": "Características Essenciais da Mineração de Dados",
+      "content": "As principais características da Mineração de Dados incluem:<ul><li>**Exploração de Grandes Volumes de Dados (Big Data)**: Lida com conjuntos de dados massivos, onde técnicas tradicionais de análise seriam ineficazes.</li><li>**Descoberta de Padrões Ocultos**: O foco é encontrar relações, associações e tendências que não são imediatamente óbvias.</li><li>**Transformação de Dados em Conhecimento**: Converte dados brutos em informações de alto valor e insights acionáveis.</li><li>**Natureza Multidisciplinar**: Integra conceitos e técnicas de estatística, aprendizado de máquina (Machine Learning), inteligência artificial (IA), bancos de dados e visualização de dados.</li><li>**Orientação por Descobertas**: Diferente de consultas SQL ou OLAP que buscam informações conhecidas, a mineração de dados é mais orientada à descoberta de novos conhecimentos.</li><li>**Uso de Algoritmos Complexos**: Emprega diversos algoritmos para classificação, regressão, agrupamento e regras de associação.</li><li>**Iteratividade**: O processo geralmente envolve ciclos de refinamento e reavaliação dos modelos e resultados.</li></ul>",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_004",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 4,
+      "title": "Mineração de Dados no Contexto do KDD (Knowledge Discovery in Databases)",
+      "content": "A Mineração de Dados é uma etapa central do processo de Descoberta de Conhecimento em Bancos de Dados (KDD), que é um processo iterativo e sequencial para transformar dados brutos em informações úteis e conhecimento. As etapas típicas do KDD são:<ul><li>**1. Seleção dos Dados**: Escolha dos dados relevantes para o objetivo da análise.</li><li>**2. Pré-processamento dos Dados**: Limpeza, tratamento de valores ausentes, normalização e remoção de ruídos para garantir a qualidade dos dados.</li><li>**3. Transformação dos Dados**: Conversão ou combinação dos dados em formatos adequados para a mineração, como agregação ou redução de dimensionalidade.</li><li>**4. Mineração de Dados**: Aplicação de técnicas de aprendizado de máquina e estatísticas para identificar padrões, associações e correlações.</li><li>**5. Interpretação e Avaliação**: Análise e validação dos padrões descobertos quanto à sua relevância, utilidade e aplicabilidade.</li></ul>É importante notar que a definição de metadados dos dados manipulados não ocorre na fase de mineração, mas sim em etapas anteriores, como a preparação e transformação.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_005",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 5,
+      "title": "Principais Tarefas e Técnicas de Mineração de Dados",
+      "content": "As tarefas de mineração de dados podem ser divididas em descritivas (que descrevem padrões nos dados) e preditivas (que usam padrões para prever resultados futuros). As principais técnicas incluem:<ul><li>**Classificação**: Atribui itens a categorias predefinidas com base em um conjunto de dados de treinamento. Ex: prever se um cliente comprará um produto.</li><li>**Regressão**: Preveem um valor numérico contínuo com base em outras variáveis. Ex: prever vendas futuras.</li><li>**Agrupamento (Clustering)**: Agrupa dados semelhantes em clusters (grupos) sem rótulos predefinidos, identificando padrões de comportamento. É uma forma de aprendizado não supervisionado.</li><li>**Regras de Associação**: Identificam relações do tipo 'se-então' entre variáveis. Ex: 'clientes que compram pão também compram leite'.</li><li>**Detecção de Anomalias**: Identifica eventos que se destacam dos demais por fugir do padrão esperado.</li></ul>",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_006",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 6,
+      "title": "Padrão de Cobrança da Banca CEBRASPE",
+      "content": "A banca CEBRASPE (antigo CESPE) tem um padrão de cobrança bem definido para Mineração de Dados, geralmente em questões do tipo Certo/Errado. Os pontos mais valorizados são:<ul><li>**Conceituação e Definição**: A CEBRASPE frequentemente cobra a definição exata de Mineração de Dados, focando na descoberta de padrões válidos, novos, úteis e compreensíveis.</li><li>**Relação com KDD**: É comum que as questões abordem a Mineração de Dados como uma etapa do processo KDD, testando o conhecimento sobre as fases e sua ordem.</li><li>**Características Fundamentais**: A multidisciplinaridade (estatística, IA, ML) e a capacidade de extrair conhecimento de grandes volumes de dados são características frequentemente exploradas.</li><li>**Diferenciação de Conceitos Correlatos**: A banca gosta de testar a distinção entre Mineração de Dados e outros conceitos como Data Warehouse, Big Data e Análise de Dados.</li><li>**Aplicações Práticas**: Questões podem apresentar cenários reais e perguntar sobre a aplicabilidade da mineração de dados (ex: detecção de fraudes, retenção de clientes, otimização de processos).</li><li>**Técnicas e Suas Finalidades**: Embora o foco principal seja conceitual, a banca pode mencionar as principais técnicas (classificação, agrupamento, regressão, associação) e suas finalidades.</li></ul>",
+      "content_type": "teoria"
+    }
+  ],
+  "topicos": [
+    {
+      "external_topic_code": "top_001",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "6",
+      "title": "Noções de Aprendizado de Máquina",
+      "reference_block_external_id": "blc_001",
+      "level": 1,
+      "order": 1
+    },
+    {
+      "external_topic_code": "top_002",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "6.1",
+      "title": "Mineração de Dados: Conceituação e Características",
+      "reference_block_external_id": "blc_002",
+      "level": 2,
+      "order": 2
+    },
+    {
+      "external_topic_code": "top_003",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "6.1.1",
+      "title": "Definição de Mineração de Dados",
+      "reference_block_external_id": "blc_002",
+      "level": 3,
+      "order": 3
+    },
+    {
+      "external_topic_code": "top_004",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "6.1.2",
+      "title": "Características Principais",
+      "reference_block_external_id": "blc_003",
+      "level": 3,
+      "order": 4
+    },
+    {
+      "external_topic_code": "top_005",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "6.1.3",
+      "title": "Mineração de Dados no Contexto do KDD",
+      "reference_block_external_id": "blc_004",
+      "level": 3,
+      "order": 5
+    },
+    {
+      "external_topic_code": "top_006",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "6.1.4",
+      "title": "Tarefas e Técnicas Comuns",
+      "reference_block_external_id": "blc_005",
+      "level": 3,
+      "order": 6
+    },
+    {
+      "external_topic_code": "top_007",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "6.1.5",
+      "title": "Padrão de Cobrança CEBRASPE",
+      "reference_block_external_id": "blc_006",
+      "level": 3,
+      "order": 7
+    }
+  ],
+  "topico_componentes": [
+    {
+      "component_id": "cmp_001",
+      "topic_id": "top_003",
+      "component_type": "conceito",
+      "content": "Mineração de Dados é o processo de identificar, em dados, padrões válidos, novos, potencialmente úteis e, ao final, compreensíveis.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_002",
+      "topic_id": "top_003",
+      "component_type": "explicacao",
+      "content": "Não se trata de extrair os dados em si, mas sim o conhecimento e significado valioso contido neles.",
+      "order": 2
+    },
+    {
+      "component_id": "cmp_003",
+      "topic_id": "top_004",
+      "component_type": "caracteristica",
+      "content": "Exploração de grandes volumes de dados (Big Data).",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_004",
+      "topic_id": "top_004",
+      "component_type": "caracteristica",
+      "content": "Descoberta de padrões ocultos, correlações e tendências.",
+      "order": 2
+    },
+    {
+      "component_id": "cmp_005",
+      "topic_id": "top_004",
+      "component_type": "caracteristica",
+      "content": "Transformação de dados brutos em conhecimento acionável.",
+      "order": 3
+    },
+    {
+      "component_id": "cmp_006",
+      "topic_id": "top_004",
+      "component_type": "caracteristica",
+      "content": "Natureza multidisciplinar (estatística, IA, ML, bancos de dados).",
+      "order": 4
+    },
+    {
+      "component_id": "cmp_007",
+      "topic_id": "top_005",
+      "component_type": "etapa_kdd",
+      "content": "Mineração de Dados é a 4ª etapa do processo KDD (Knowledge Discovery in Databases).",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_008",
+      "topic_id": "top_005",
+      "component_type": "etapa_kdd",
+      "content": "As etapas do KDD incluem: Seleção, Pré-processamento, Transformação, Mineração e Interpretação/Avaliação.",
+      "order": 2
+    },
+    {
+      "component_id": "cmp_009",
+      "topic_id": "top_006",
+      "component_type": "tecnica",
+      "content": "Classificação: atribui itens a categorias predefinidas.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_010",
+      "topic_id": "top_006",
+      "component_type": "tecnica",
+      "content": "Regressão: prevê valores numéricos contínuos.",
+      "order": 2
+    },
+    {
+      "component_id": "cmp_011",
+      "topic_id": "top_006",
+      "component_type": "tecnica",
+      "content": "Agrupamento (Clustering): agrupa dados semelhantes em clusters (aprendizado não supervisionado).",
+      "order": 3
+    },
+    {
+      "component_id": "cmp_012",
+      "topic_id": "top_006",
+      "component_type": "tecnica",
+      "content": "Regras de Associação: identifica relações 'se-então' entre variáveis.",
+      "order": 4
+    },
+    {
+      "component_id": "cmp_013",
+      "topic_id": "top_007",
+      "component_type": "foco_banca",
+      "content": "CEBRASPE foca na definição exata e características da Mineração de Dados.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_014",
+      "topic_id": "top_007",
+      "component_type": "foco_banca",
+      "content": "Cobra a Mineração de Dados como etapa do KDD e suas fases.",
+      "order": 2
+    },
+    {
+      "component_id": "cmp_015",
+      "topic_id": "top_007",
+      "component_type": "foco_banca",
+      "content": "Diferenciação entre Mineração de Dados, Data Warehouse, Big Data e Análise de Dados é recorrente.",
+      "order": 3
+    }
+  ],
+  "pegadinhas": [
+    {
+      "trap_id": "peg_001",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": "Confundir Mineração de Dados com Data Warehouse",
+      "description": "A CEBRASPE pode tentar induzir ao erro afirmando que Mineração de Dados é uma evolução ou sinônimo de Data Warehouse, ou que depende exclusivamente dele. Lembre-se que são conceitos distintos, embora complementares.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 1
+    },
+    {
+      "trap_id": "peg_002",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": "Localização da Definição de Metadados no KDD",
+      "description": "A banca pode afirmar que a definição de metadados ocorre na fase de mineração do Data Mining, quando na verdade isso acontece nas etapas de preparação e transformação dos dados.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 2
+    },
+    {
+      "trap_id": "peg_003",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": "Reclassificação em Agrupamento Hierárquico",
+      "description": "Em questões sobre agrupamento hierárquico, a CEBRASPE pode sugerir que é possível realocar um elemento alocado incorretamente no início do processo. No agrupamento hierárquico, uma vez que um elemento é agrupado, ele permanece nesse grupo.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 3
+    },
+    {
+      "trap_id": "peg_004",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": "Tarefas Preditivas vs. Descritivas",
+      "description": "A banca pode trocar as definições de tarefas preditivas e descritivas. As preditivas usam atributos para prever resultados, enquanto as descritivas encontram padrões para descrever os dados de forma interpretável.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 4
+    }
+  ],
+  "pontos_memorizacao": [
+    {
+      "memory_id": "mem_001",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": null,
+      "content": "Mineração de Dados = Descoberta de Padrões (válidos, novos, úteis, compreensíveis).",
+      "order": 1
+    },
+    {
+      "memory_id": "mem_002",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": null,
+      "content": "É uma etapa do KDD (Knowledge Discovery in Databases).",
+      "order": 2
+    },
+    {
+      "memory_id": "mem_003",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": null,
+      "content": "Multidisciplinar: Estatística, IA, Machine Learning.",
+      "order": 3
+    },
+    {
+      "memory_id": "mem_004",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": null,
+      "content": "Objetivo: transformar dados brutos em conhecimento acionável.",
+      "order": 4
+    },
+    {
+      "memory_id": "mem_005",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": null,
+      "content": "Principais tarefas: Classificação, Regressão, Agrupamento, Regras de Associação.",
+      "order": 5
+    }
+  ],
+  "quadro_sinotico_itens": [
+    {
+      "summary_item_id": "sum_001",
+      "title": "Mineração de Dados",
+      "content": "Processo de extrair conhecimento e padrões de grandes volumes de dados.",
+      "order": 1
+    },
+    {
+      "summary_item_id": "sum_002",
+      "title": "Características",
+      "content": "Exploração de Big Data, descoberta de padrões ocultos, transformação de dados em conhecimento, multidisciplinaridade.",
+      "order": 2
+    },
+    {
+      "summary_item_id": "sum_003",
+      "title": "KDD",
+      "content": "Processo de Descoberta de Conhecimento em Bancos de Dados, onde Mineração de Dados é uma etapa.",
+      "order": 3
+    },
+    {
+      "summary_item_id": "sum_004",
+      "title": "Tarefas",
+      "content": "Classificação, Regressão, Agrupamento, Regras de Associação, Detecção de Anomalias.",
+      "order": 4
+    },
+    {
+      "summary_item_id": "sum_005",
+      "title": "Foco CEBRASPE",
+      "content": "Conceitos, KDD, diferenciação de termos, aplicações e pegadinhas sobre etapas e definições.",
+      "order": 5
+    }
+  ],
+  "questoes": [
+    {
+      "question_id": "qst_001",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": "CEBRASPE/CESPE",
+      "year": 2018,
+      "organization": "POLÍCIA FEDERAL",
+      "role": "AGENTE DA POLÍCIA FEDERAL",
+      "statement": "Pode-se definir mineração de dados como o processo de identificar, em dados, padrões válidos, novos, potencialmente úteis e, ao final, compreensíveis.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "A questão apresenta uma definição clássica e completa de mineração de dados, conforme a literatura especializada e o entendimento da banca. A mineração de dados busca, de fato, padrões que sejam válidos (não aleatórios), novos (desconhecidos), potencialmente úteis (com valor prático) e compreensíveis (interpretáveis).",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_001"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_002",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": "CEBRASPE/CESPE",
+      "year": 2018,
+      "organization": "POLÍCIA FEDERAL",
+      "role": "PERITO CRIMINAL",
+      "statement": "Acerca de banco de dados, julgue o seguinte item. Descobrir conexões escondidas e prever tendências futuras é um dos objetivos da mineração de dados, que utiliza a estatística, a inteligência artificial e os algoritmos de aprendizagem de máquina.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "A afirmação está correta. A mineração de dados tem como um de seus principais objetivos a descoberta de relações e tendências ocultas nos dados, utilizando para isso um conjunto de técnicas que englobam estatística, inteligência artificial e aprendizado de máquina, o que reforça seu caráter multidisciplinar.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_002"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_003",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": "CEBRASPE/CESPE",
+      "year": 2024,
+      "organization": "CTI",
+      "role": "Tecnologista Pleno 1",
+      "statement": "A mineração de dados pode ser entendida como um subconjunto da análise de dados, pois é usada para descobrir padrões ocultos em conjuntos de dados brutos, enquanto o enfoque da análise de dados se encontra no exame dos conjuntos de dados para a obtenção de conclusões precisas.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "A questão diferencia corretamente a mineração de dados da análise de dados. A mineração de dados é, de fato, um subconjunto da análise de dados, focando na descoberta de padrões ocultos em grandes volumes de dados, enquanto a análise de dados pode ter um escopo mais amplo, incluindo o exame de dados estruturados para conclusões diretas.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_003"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_004",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": "CEBRASPE/CESPE",
+      "year": 2024,
+      "organization": "CTI Renato Archer",
+      "role": "Tecnologista Pleno 1",
+      "statement": "É na fase de mineração do data mining que são definidos os metadados dos dados manipulados.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "A afirmação está incorreta. A definição de metadados (dados sobre os dados) ocorre nas etapas iniciais do processo KDD, como a seleção, pré-processamento e transformação dos dados, antes da fase de mineração propriamente dita, que se concentra na aplicação de algoritmos para encontrar padrões.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_004"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_005",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": "CEBRASPE/CESPE",
+      "year": 2020,
+      "organization": "Ministério da Economia",
+      "role": "Ciência de Dados",
+      "statement": "Na análise hierárquica de agrupamentos, é possível realocar um elemento que tenha sido alocado incorretamente no início do processo.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "A afirmação está incorreta. Uma característica fundamental do agrupamento hierárquico é que, uma vez que os elementos são agrupados em um cluster, eles não podem ser realocados para outro cluster em etapas posteriores do processo. A estrutura hierárquica é fixa após a formação.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_005"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_006",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": "CEBRASPE/CESPE",
+      "year": 2025,
+      "organization": "TRF – 6ª REGIÃO",
+      "role": "Analista Judiciário – Governança e Gestão de TI",
+      "statement": "O uso de data mining permite, por exemplo, que uma empresa de varejo descubra padrões de compra ocultos em grandes volumes de dados, permitindo que a empresa crie promoções direcionadas ou ajuste o leiaute da loja para aumentar as vendas.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "A questão ilustra uma aplicação prática e correta da mineração de dados. A capacidade de descobrir padrões de compra ocultos em grandes volumes de dados é uma das principais utilidades do Data Mining para empresas de varejo, permitindo estratégias de marketing e otimização de layout.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_006"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_007",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": "CEBRASPE/CESPE",
+      "year": 2024,
+      "organization": "CODEVASF",
+      "role": "Analista em Desenvolvimento Regional - TI",
+      "statement": "Data mining consiste em um processo analítico projetado para explorar grandes quantidades de dados em busca de padrões consistentes e(ou) relacionamentos sistemáticos entre variáveis.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "Esta questão reitera a definição central de mineração de dados, focando na exploração de grandes volumes de dados para encontrar padrões consistentes e relacionamentos sistemáticos. É uma formulação comum e correta da CEBRASPE.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_007"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_008",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": "CEBRASPE/CESPE",
+      "year": 2024,
+      "organization": "CTI",
+      "role": "Tecnologista Pleno 2",
+      "statement": "Entre as tarefas de mineração de dados, as preditivas são aquelas que usam os valores dos atributos descritivos para encontrar padrões que descrevam os dados de maneira que o ser humano possa interpretá-los.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "A afirmação está incorreta. As tarefas preditivas da mineração de dados utilizam atributos para prever resultados futuros (ex: regressão, classificação). As tarefas que usam atributos descritivos para encontrar padrões que descrevam os dados de maneira interpretável são as tarefas descritivas (ex: agrupamento, regras de associação). A questão inverte os conceitos.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_008"
+        ],
+        "count": 1
+      }
+    }
+  ],
+  "comentarios_questoes": [
+    {
+      "comment_id": "com_001",
+      "question_id": "qst_001",
+      "content": "A questão apresenta uma definição clássica e completa de mineração de dados, conforme a literatura especializada e o entendimento da banca. A mineração de dados busca, de fato, padrões que sejam válidos (não aleatórios), novos (desconhecidos), potencialmente úteis (com valor prático) e compreensíveis (interpretáveis).",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_002",
+      "question_id": "qst_002",
+      "content": "A afirmação está correta. A mineração de dados tem como um de seus principais objetivos a descoberta de relações e tendências ocultas nos dados, utilizando para isso um conjunto de técnicas que englobam estatística, inteligência artificial e aprendizado de máquina, o que reforça seu caráter multidisciplinar.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_003",
+      "question_id": "qst_003",
+      "content": "A questão diferencia corretamente a mineração de dados da análise de dados. A mineração de dados é, de fato, um subconjunto da análise de dados, focando na descoberta de padrões ocultos em grandes volumes de dados, enquanto a análise de dados pode ter um escopo mais amplo, incluindo o exame de dados estruturados para conclusões diretas.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_004",
+      "question_id": "qst_004",
+      "content": "A afirmação está incorreta. A definição de metadados (dados sobre os dados) ocorre nas etapas iniciais do processo KDD, como a seleção, pré-processamento e transformação dos dados, antes da fase de mineração propriamente dita, que se concentra na aplicação de algoritmos para encontrar padrões.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_005",
+      "question_id": "qst_005",
+      "content": "A afirmação está incorreta. Uma característica fundamental do agrupamento hierárquico é que, uma vez que os elementos são agrupados em um cluster, eles não podem ser realocados para outro cluster em etapas posteriores do processo. A estrutura hierárquica é fixa após a formação.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_006",
+      "question_id": "qst_006",
+      "content": "A questão ilustra uma aplicação prática e correta da mineração de dados. A capacidade de descobrir padrões de compra ocultos em grandes volumes de dados é uma das principais utilidades do Data Mining para empresas de varejo, permitindo estratégias de marketing e otimização de layout.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_007",
+      "question_id": "qst_007",
+      "content": "Esta questão reitera a definição central de mineração de dados, focando na exploração de grandes volumes de dados para encontrar padrões consistentes e relacionamentos sistemáticos. É uma formulação comum e correta da CEBRASPE.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_008",
+      "question_id": "qst_008",
+      "content": "A afirmação está incorreta. As tarefas preditivas da mineração de dados utilizam atributos para prever resultados futuros (ex: regressão, classificação). As tarefas que usam atributos descritivos para encontrar padrões que descrevam os dados de maneira interpretável são as tarefas descritivas (ex: agrupamento, regras de associação). A questão inverte os conceitos.",
+      "explanation_alternatives": ""
+    }
+  ],
+  "checklist_revisao": [
+    {
+      "checklist_id": "chk_001",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Checklist 1",
+      "completed": false,
+      "order": 1
+    },
+    {
+      "checklist_id": "chk_002",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Checklist 2",
+      "completed": false,
+      "order": 2
+    },
+    {
+      "checklist_id": "chk_003",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Checklist 3",
+      "completed": false,
+      "order": 3
+    },
+    {
+      "checklist_id": "chk_004",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Checklist 4",
+      "completed": false,
+      "order": 4
+    },
+    {
+      "checklist_id": "chk_005",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Checklist 5",
+      "completed": false,
+      "order": 5
+    },
+    {
+      "checklist_id": "chk_006",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Checklist 6",
+      "completed": false,
+      "order": 6
+    },
+    {
+      "checklist_id": "chk_007",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Checklist 7",
+      "completed": false,
+      "order": 7
+    }
+  ],
+  "referencias": [
+    {
+      "reference_id": "ref_001",
+      "material_id": "mat_001",
+      "reference_type": "web",
+      "author_name": null,
+      "title": "O que é mineração de dados? - AWS",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://aws.amazon.com/pt/what-is/data-mining/",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_002",
+      "material_id": "mat_001",
+      "reference_type": "web",
+      "author_name": null,
+      "title": "O que é Data Mining (Mineração de Dados)? - Strong Business School",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://strong.com.br/o-que-e-data-mining-mineracao-de-dados/",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_003",
+      "material_id": "mat_001",
+      "reference_type": "web",
+      "author_name": null,
+      "title": "O que é mineração de dados? - IBM",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.ibm.com/br-pt/topics/data-mining",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_004",
+      "material_id": "mat_001",
+      "reference_type": "web",
+      "author_name": null,
+      "title": "Conceitos de mineração de dados - Microsoft Learn",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://learn.microsoft.com/pt-br/sql/analysis-services/data-mining/data-mining-concepts?view=sql-server-ver16",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_005",
+      "material_id": "mat_001",
+      "reference_type": "web",
+      "author_name": null,
+      "title": "Mineração de dados – Wikipédia, a enciclopédia livre",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://pt.wikipedia.org/wiki/Minera%C3%A7%C3%A3o_de_dados",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_006",
+      "material_id": "mat_001",
+      "reference_type": "blog",
+      "author_name": null,
+      "title": "Mineração de Dados - conceitos e características - Blog Gran Cursos Online",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://blog.grancursosonline.com.br/mineracao-de-dados-conceitos-e-caracteristicas/",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_007",
+      "material_id": "mat_001",
+      "reference_type": "web",
+      "author_name": null,
+      "title": "Definição e explicação da mineração de dados - Kaspersky",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.kaspersky.com.br/resource-center/definitions/what-is-data-mining",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_008",
+      "material_id": "mat_001",
+      "reference_type": "web",
+      "author_name": null,
+      "title": "O que é mineração de dados (Data Mining)? Como funciona, benefícios e técnicas",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.alura.com.br/artigos/data-mining-o-que-e-como-funciona-beneficios-e-tecnicas",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_009",
+      "material_id": "mat_001",
+      "reference_type": "questao_concurso",
+      "author_name": null,
+      "title": "Questão 2798356 CEBRASPE (CESPE) - Tecnologista Pleno 1 (CTI)",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.tecconcursos.com.br/questoes/2798356",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_010",
+      "material_id": "mat_001",
+      "reference_type": "questao_concurso",
+      "author_name": null,
+      "title": "Questão Considerando processos de análise e mineração de dados, julgue o item subsecutivo. É na fase de mineraçã...",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.qconcursos.com/questoes-de-concursos/questoes/4001557045",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_011",
+      "material_id": "mat_001",
+      "reference_type": "questao_concurso",
+      "author_name": null,
+      "title": "Questão No que se refere à mineração de dados, julgue o item a seguir. Na análise hierárquica de agrupamentos, é p...",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.qconcursos.com/questoes-de-concursos/questoes/4000691614",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_012",
+      "material_id": "mat_001",
+      "reference_type": "documento_oficial",
+      "author_name": null,
+      "title": "AGÊNCIA NACIONAL DE MINERAÇÃO (ANM) PADRÃO DE RESPOSTA DEFINITIVO",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.cebraspe.org.br/concursos/ANM_24/arquivos/ANM_2024_PADRAO_DE_RESPOSTA_DEFINITIVO_DISCURSIVA_CARGO_24.pdf",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_013",
+      "material_id": "mat_001",
+      "reference_type": "web",
+      "author_name": null,
+      "title": "Mineração de Dados para Concursos Fiscais: Resumo e Dicas de estudo",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.estrategiaconcursos.com.br/blog/mineracao-de-dados-para-concursos-fiscais/",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_014",
+      "material_id": "mat_001",
+      "reference_type": "blog",
+      "author_name": null,
+      "title": "Mineração de Dados: Transformando Dados em Decisão - Blog Gran Cursos Online",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://blog.grancursosonline.com.br/mineracao-de-dados-transformando-dados-em-decisao/",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_015",
+      "material_id": "mat_001",
+      "reference_type": "questao_concurso",
+      "author_name": null,
+      "title": "Em relação a conceitos, fundamentos, características, técnic... - Qconcursos",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.qconcursos.com/questoes-de-concursos/questoes/3063517",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_016",
+      "material_id": "mat_001",
+      "reference_type": "questao_concurso",
+      "author_name": null,
+      "title": "No que se refere à análise e à mineração de dados, julgue o ... - Qconcursos",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.qconcursos.com/questoes-de-concursos/questoes/2365232",
+      "accessed_at": null,
+      "description": null
+    }
+  ],
+  "estatisticas_de_geracao": {
+    "total_topicos": 7,
+    "total_componentes_topico": 15,
+    "total_entendimentos_relevantes": 3,
+    "total_pegadinhas": 4,
+    "total_pontos_memorizacao": 5,
+    "total_itens_quadro_sinotico": 5,
+    "total_questoes": 8,
+    "total_comentarios_questoes": 8,
+    "total_itens_checklist": 7,
+    "total_referencias": 16
+  },
+  "validacao_interna": {
+    "pesquisa_previa_realizada": true,
+    "analise_de_cobrancas_anteriores_realizada": true,
+    "material_atualizado": true,
+    "json_valido": true,
+    "estrutura_relacional_respeitada": true,
+    "numeracao_respeitada": true,
+    "houve_quebra_de_hierarquia": false,
+    "houve_nivel_numerico_superior_a_3": false,
+    "fontes_verificadas": true,
+    "sem_informacao_inventada": true
+  },
+  "metadata": {
+    "source_file_name": "6__informática-e-dados__6-noções-de-aprendizado-de-máquina-6.1-mineração-de-dados-conceituação-e-características.json",
+    "normalized_checksum": "e27328e038d587757f53cc29da0a81635ef455769492284ba23d07d9859ac79b",
+    "subject_slug": "informatica",
+    "material_slug": "mineracao-de-dados-conceituacao-e",
+    "title_slug": "mineracao-de-dados-conceituacao-e-caracteristicas",
+    "board_slug": "cebraspe",
+    "counters": {
+      "blocks": 6,
+      "topics": 7,
+      "topic_components": 15,
+      "traps": 4,
+      "memory_points": 5,
+      "summary_items": 5,
+      "questions": 8,
+      "question_comments": 8,
+      "checklist_items": 7,
+      "references": 16
+    }
+  }
+}

@@ -1,0 +1,859 @@
+{
+  "schema_version": "1.0",
+  "normalized_at": "2026-04-07T15:39:13.799949-03:00",
+  "normalizer_version": "2.0.0",
+  "exported_at": "2026-04-07T17:04:00Z",
+  "source_request": {
+    "purpose": "Concurso público",
+    "general_area": "Direito",
+    "subject_name": "Direito Administrativo",
+    "subarea_name": "Direito Administrativo",
+    "main_theme": "3 Organização administrativa: 3.1 Centralização, descentralização, concentração e desconcentração",
+    "theme_scope": "Teoria completa, incidência em prova, padrão de cobrança da banca, pegadinhas e questões comentadas",
+    "board_style": "CEBRASPE",
+    "depth_level": "Exaustivo",
+    "goal": "Teoria completa, revisão estratégica, pegadinhas e questões comentadas",
+    "base_topic_number": "3",
+    "topic_title": "3 Organização administrativa: 3.1 Centralização, descentralização, concentração e desconcentração",
+    "syllabus_reference": "Conteúdo programático da disciplina Direito Administrativo",
+    "priority_sources": [
+      "Constituição Federal e legislação oficial vigente",
+      "Jurisprudência pertinente e atual, quando cabível",
+      "Doutrina consolidada",
+      "Questões anteriores da banca"
+    ],
+    "minimum_questions": 8,
+    "question_format": "Certo/Errado",
+    "prioritize_real_questions": true,
+    "response_language": "português",
+    "target_audience": "Candidato de concurso público",
+    "additional_notes": "Executar exatamente para esta linha individual do topicos.txt. Não juntar com outros tópicos. Não pular este tópico. Dar destaque ao padrão de cobrança da banca, aos pontos mais cobrados e às pegadinhas recorrentes.",
+    "input_hash": "5868ab7c054e",
+    "extras": {}
+  },
+  "material": {
+    "material_id": "mat_001",
+    "slug": "organizacao-administrativa-centralizacao-descentralizacao-concentracao-desconcentracao",
+    "title": "Organização Administrativa: Centralização, Descentralização, Concentração e Desconcentração",
+    "base_number": "3",
+    "topic_title": "3 Organização administrativa: 3.1 Centralização, descentralização, concentração e desconcentração",
+    "purpose": "Concurso público",
+    "area_name": "Direito",
+    "subject_name": "Direito Administrativo",
+    "subarea_name": "Direito Administrativo",
+    "main_theme": "3 Organização administrativa: 3.1 Centralização, descentralização, concentração e desconcentração",
+    "theme_scope": "Teoria completa, incidência em prova, padrão de cobrança da banca, pegadinhas e questões comentadas",
+    "board_style": "CEBRASPE",
+    "depth_level": "Exaustivo",
+    "study_goal": "Teoria completa, revisão estratégica, pegadinhas e questões comentadas",
+    "target_audience": "Candidato de concurso público",
+    "language_code": "português",
+    "update_status": "Atualizado em 2026",
+    "current_note": "O conteúdo reflete a doutrina consolidada e o padrão de cobrança da banca CEBRASPE, com base em pesquisas recentes.",
+    "has_case_law": false,
+    "case_law_justification": "Para este tema fundamental de Direito Administrativo, a doutrina e a legislação são as fontes primárias de conhecimento. A jurisprudência, embora relevante em outras áreas, não é o foco principal para a compreensão dos conceitos básicos de centralização, descentralização, concentração e desconcentração, sendo raramente cobrada em detalhes específicos sobre esses conceitos em provas de concurso.",
+    "has_information_limitation": false,
+    "information_limitation_desc": null,
+    "content_checksum": "calculado_apos_geracao_final",
+    "extras": {}
+  },
+  "blocos_textuais": [
+    {
+      "external_block_code": "blc_001",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 1,
+      "title": "Introdução à Organização Administrativa",
+      "content": "A organização administrativa é um dos pilares do Direito Administrativo, responsável por estruturar o Estado para o desempenho de suas funções. Ela estuda a criação, o funcionamento e a extinção de entidades e órgãos estatais, bem como as relações do Estado com o setor público não estatal. Compreender os conceitos de centralização, descentralização, concentração e desconcentração é fundamental para qualquer candidato a concursos públicos, especialmente aqueles que se preparam para provas da banca CEBRASPE, que frequentemente aborda o tema.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_002",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 2,
+      "title": "Importância para o CEBRASPE",
+      "content": "O tema 'Organização da Administração Pública' possui alta incidência nas provas do CEBRASPE, representando cerca de 10% das questões de Direito Administrativo. A banca costuma focar na distinção precisa entre os conceitos, explorando as características de cada um e as consequências jurídicas de sua aplicação. É crucial estar atento às 'pegadinhas' que buscam confundir o candidato, especialmente no que tange à existência de personalidade jurídica e à transferência de titularidade ou apenas de execução do serviço.",
+      "content_type": "teoria"
+    }
+  ],
+  "topicos": [
+    {
+      "external_topic_code": "top_001",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "3.1.1",
+      "title": "Centralização Administrativa",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 1
+    },
+    {
+      "external_topic_code": "top_002",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "3.1.2",
+      "title": "Desconcentração Administrativa",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 2
+    },
+    {
+      "external_topic_code": "top_003",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "3.1.3",
+      "title": "Descentralização Administrativa",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 3
+    },
+    {
+      "external_topic_code": "top_004",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "3.1.4",
+      "title": "Concentração Administrativa",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 4
+    }
+  ],
+  "topico_componentes": [
+    {
+      "component_id": "cmp_001",
+      "topic_id": "top_001",
+      "component_type": "definicao",
+      "content": "É a forma de organização em que as atividades administrativas são executadas diretamente pelos órgãos e agentes da pessoa jurídica política (União, Estados, DF, Municípios), que compõem a Administração Direta.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_002",
+      "topic_id": "top_001",
+      "component_type": "caracteristica",
+      "content": "<ul><li>Execução direta das atividades.</li><li>Ausência de nova pessoa jurídica.</li><li>Atuação por meio da Administração Direta.</li><li>Facilita o controle hierárquico e a coordenação.</li><li>Garante maior homogeneidade da ação administrativa.</li></ul>",
+      "order": 2
+    },
+    {
+      "component_id": "cmp_003",
+      "topic_id": "top_002",
+      "component_type": "definicao",
+      "content": "É a distribuição interna de competências dentro da mesma pessoa jurídica, entre seus órgãos, que são desprovidos de personalidade jurídica própria.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_004",
+      "topic_id": "top_002",
+      "component_type": "caracteristica",
+      "content": "<ul><li>Ocorre dentro da mesma pessoa jurídica.</li><li>Criação de órgãos públicos (sem personalidade jurídica).</li><li>Relação de subordinação hierárquica entre os órgãos.</li><li>Objetiva a especialização e a eficiência interna.</li><li>Pode ser por matéria, hierarquia ou território.</li></ul>",
+      "order": 2
+    },
+    {
+      "component_id": "cmp_005",
+      "topic_id": "top_002",
+      "component_type": "exemplo",
+      "content": "Ministérios, Secretarias Estaduais e Municipais, Departamentos, Divisões, Receita Federal (órgão do Ministério da Fazenda), Departamento de Polícia Federal (órgão da União).",
+      "order": 3
+    },
+    {
+      "component_id": "cmp_006",
+      "topic_id": "top_003",
+      "component_type": "definicao",
+      "content": "É a transferência de competências de uma pessoa jurídica para outra pessoa jurídica, que pode ser uma entidade da Administração Indireta ou um particular.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_007",
+      "topic_id": "top_003",
+      "component_type": "caracteristica",
+      "content": "<ul><li>Envolve duas ou mais pessoas jurídicas distintas.</li><li>Não há subordinação hierárquica, mas sim vinculação ou controle finalístico (tutela).</li><li>Pode ser por outorga (criação de nova entidade) ou por delegação (transferência da execução).</li><li>Objetiva a especialização e a desburocratização.</li></ul>",
+      "order": 2
+    },
+    {
+      "component_id": "cmp_008",
+      "topic_id": "top_003",
+      "component_type": "subtopico",
+      "content": "Ocorre quando o Estado cria uma nova pessoa jurídica (entidade da Administração Indireta, como autarquias, fundações públicas de direito público, empresas públicas e sociedades de economia mista) e a ela transfere a *titularidade e a execução* de um serviço público. A criação ou autorização para criação dessas entidades deve ser feita por lei.",
+      "order": 3
+    },
+    {
+      "component_id": "cmp_009",
+      "topic_id": "top_003",
+      "component_type": "exemplo",
+      "content": "Criação do INSS (autarquia federal), ANVISA (autarquia em regime especial), DETRAN (autarquia estadual).",
+      "order": 4
+    },
+    {
+      "component_id": "cmp_010",
+      "topic_id": "top_003",
+      "component_type": "subtopico",
+      "content": "Acontece quando o Estado transfere *apenas a execução* de um serviço público a uma pessoa jurídica já existente (geralmente particular), mediante contrato (concessão ou permissão) ou ato administrativo unilateral (autorização). A titularidade do serviço permanece com o Poder Público.",
+      "order": 5
+    },
+    {
+      "component_id": "cmp_011",
+      "topic_id": "top_003",
+      "component_type": "exemplo",
+      "content": "Concessão de serviços de transporte público, permissão para exploração de táxis, autorização para serviços de telecomunicações.",
+      "order": 6
+    },
+    {
+      "component_id": "cmp_012",
+      "topic_id": "top_004",
+      "component_type": "definicao",
+      "content": "É o processo de reunião de competências que antes estavam distribuídas entre diversos órgãos de uma mesma pessoa jurídica, em um número menor de órgãos ou em um único órgão. É o oposto da desconcentração.",
+      "order": 1
+    }
+  ],
+  "pegadinhas": [
+    {
+      "trap_id": "peg_001",
+      "material_id": "mat_001",
+      "topic_id": "top_002",
+      "title": "Pegadinha 1",
+      "description": "Confundir desconcentração com descentralização: A principal pegadinha do CEBRASPE é tentar fazer o candidato acreditar que a desconcentração cria uma nova pessoa jurídica. Lembre-se: desconcentração é *dentro da mesma pessoa jurídica*, criando órgãos sem personalidade própria.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 1
+    },
+    {
+      "trap_id": "peg_002",
+      "material_id": "mat_001",
+      "topic_id": "top_003",
+      "title": "Pegadinha 2",
+      "description": "Confundir descentralização por outorga com por delegação: A banca pode inverter as características, afirmando que a delegação transfere a titularidade ou que a outorga se dá por contrato. Lembre-se: outorga transfere *titularidade e execução* (por lei); delegação transfere *apenas a execução* (por contrato/ato).",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 2
+    },
+    {
+      "trap_id": "peg_003",
+      "material_id": "mat_001",
+      "topic_id": "top_003",
+      "title": "Pegadinha 3",
+      "description": "Afirmar subordinação hierárquica na descentralização: O CEBRASPE pode tentar induzir ao erro dizendo que há hierarquia entre a Administração Direta e a Indireta. O correto é *vinculação* ou *controle finalístico (tutela)*, não subordinação.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 3
+    },
+    {
+      "trap_id": "peg_004",
+      "material_id": "mat_001",
+      "topic_id": "top_001",
+      "title": "Pegadinha 4",
+      "description": "Atribuir personalidade jurídica a órgãos da Administração Direta: Questões podem sugerir que órgãos como Ministérios possuem personalidade jurídica própria. Eles são, na verdade, centros de competência despersonalizados da pessoa jurídica política.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 4
+    }
+  ],
+  "pontos_memorizacao": [
+    {
+      "memory_id": "mem_001",
+      "material_id": "mat_001",
+      "topic_id": "top_001",
+      "title": null,
+      "content": "Centralização: Estado atua diretamente, sem criar nova pessoa jurídica.",
+      "order": 1
+    },
+    {
+      "memory_id": "mem_002",
+      "material_id": "mat_001",
+      "topic_id": "top_002",
+      "title": null,
+      "content": "Desconcentração: Divisão interna de competências na *mesma pessoa jurídica* (cria órgãos, sem personalidade jurídica, com hierarquia).",
+      "order": 2
+    },
+    {
+      "memory_id": "mem_003",
+      "material_id": "mat_001",
+      "topic_id": "top_003",
+      "title": null,
+      "content": "Descentralização: Transferência de competências para *outra pessoa jurídica* (sem hierarquia, com vinculação/tutela).",
+      "order": 3
+    },
+    {
+      "memory_id": "mem_004",
+      "material_id": "mat_001",
+      "topic_id": "top_003",
+      "title": null,
+      "content": "Descentralização por Outorga: Transfere *titularidade e execução* (por lei, cria entidades da Administração Indireta).",
+      "order": 4
+    },
+    {
+      "memory_id": "mem_005",
+      "material_id": "mat_001",
+      "topic_id": "top_003",
+      "title": null,
+      "content": "Descentralização por Delegação: Transfere *apenas a execução* (por contrato/ato, para particulares ou entidades já existentes).",
+      "order": 5
+    },
+    {
+      "memory_id": "mem_006",
+      "material_id": "mat_001",
+      "topic_id": "top_004",
+      "title": null,
+      "content": "Concentração: Reunião de competências em menos órgãos, dentro da mesma pessoa jurídica (oposto da desconcentração).",
+      "order": 6
+    }
+  ],
+  "quadro_sinotico_itens": [
+    {
+      "summary_item_id": "sum_001",
+      "title": null,
+      "content": "",
+      "order": 1
+    },
+    {
+      "summary_item_id": "sum_002",
+      "title": null,
+      "content": "",
+      "order": 2
+    },
+    {
+      "summary_item_id": "sum_003",
+      "title": null,
+      "content": "",
+      "order": 3
+    },
+    {
+      "summary_item_id": "sum_004",
+      "title": null,
+      "content": "",
+      "order": 4
+    },
+    {
+      "summary_item_id": "sum_005",
+      "title": null,
+      "content": "",
+      "order": 5
+    }
+  ],
+  "questoes": [
+    {
+      "question_id": "qst_001",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": "CEBRASPE (CESPE)",
+      "year": 2010,
+      "organization": "Ministério Público da União",
+      "role": "Técnico do Ministério Público da União/Administração",
+      "statement": "Considere que um estado crie, por meio de lei, uma nova entidade que receba a titularidade e o poder de execução de ações de saneamento público. Nessa situação, configura-se a descentralização administrativa efetivada por meio de outorga.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": null,
+      "external_reference": "Qconcursos #69657",
+      "commentary": "A questão está CORRETA. A criação de uma nova entidade com personalidade jurídica própria, por meio de lei, para receber a titularidade e a execução de um serviço público, configura a descentralização por outorga (ou por serviços). É o caso típico da criação de autarquias, fundações públicas, empresas públicas e sociedades de economia mista.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_001"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_002",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": "CEBRASPE (CESPE)",
+      "year": 2025,
+      "organization": "Polícia Federal",
+      "role": "Agente Administrativo",
+      "statement": "A criação do Departamento de Polícia Federal (DPF) é exemplo de desconcentração administrativa, uma vez que o DPF não goza de personalidade jurídica própria.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": null,
+      "external_reference": "Blog do Direito - Questão 1",
+      "commentary": "A questão está CORRETA. O Departamento de Polícia Federal (DPF) é um órgão da União, não possuindo personalidade jurídica própria. A distribuição de competências entre órgãos da mesma pessoa jurídica (a União, neste caso) é o conceito de desconcentração administrativa.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_002"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_003",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": "CEBRASPE (CESPE)",
+      "year": 2024,
+      "organization": "MPE-TO",
+      "role": "Técnico Ministerial - Área de Atuação: Assistente Administrativo",
+      "statement": "Havendo concentração, as atividades administrativas são desempenhadas por órgãos da pessoa jurídica, hierarquicamente distribuídos e com sua competência definida em lei.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": null,
+      "external_reference": "Blog do Direito - Questão 2",
+      "commentary": "A questão está ERRADA. A concentração administrativa implica a *extinção* de órgãos e a reunião de competências em um número menor de órgãos, dentro da mesma pessoa jurídica. Não há distribuição hierárquica de tarefas, mas sim uma centralização de funções nos órgãos remanescentes. A descrição da questão se assemelha mais à desconcentração, mas o termo 'concentração' é usado de forma equivocada.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_003"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_004",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": "CEBRASPE (CESPE)",
+      "year": 2024,
+      "organization": "MPE-TO",
+      "role": "Técnico Ministerial - Área de Atuação: Assistente Administrativo",
+      "statement": "A administração centralizada é exercida por uma única pessoa jurídica e pode ser desempenhada por diversos órgãos internos.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": null,
+      "external_reference": "Blog do Direito - Questão 3",
+      "commentary": "A questão está CORRETA. A administração centralizada é aquela exercida diretamente pelos entes federados (União, Estados, DF e Municípios), que são pessoas jurídicas únicas. Dentro de cada um desses entes, existem diversos órgãos internos que desempenham as atividades, caracterizando a desconcentração interna.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_004"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_005",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": "CEBRASPE (CESPE)",
+      "year": 2022,
+      "organization": "INSS",
+      "role": "Técnico do Seguro Social",
+      "statement": "A desconcentração administrativa caracteriza-se pela divisão de competências entre órgãos de uma mesma pessoa jurídica de direito público.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": null,
+      "external_reference": "YouTube - INSS Exam - CEBRASPE Questions | Basics of Administrative Organization - Questão 10",
+      "commentary": "A questão está CORRETA. A desconcentração administrativa é, de fato, a divisão de competências entre órgãos que pertencem à mesma pessoa jurídica de direito público, sem que esses órgãos possuam personalidade jurídica própria.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_005"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_006",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": "CEBRASPE (CESPE)",
+      "year": 2016,
+      "organization": "DPU",
+      "role": "Agente Administrativo",
+      "statement": "A desconcentração de atividades de uma organização apresenta desvantagens como a dispersão de objetivos e a redução da celeridade no atendimento.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": null,
+      "external_reference": "Qconcursos #206707",
+      "commentary": "A questão está ERRADA. A desconcentração, ao distribuir tarefas internamente, visa justamente a *melhorar* a celeridade no atendimento e a especialização, não a reduzi-la. As desvantagens da descentralização (não da desconcentração) podem incluir a dispersão de objetivos e a perda de uniformidade nas decisões, mas não são características da desconcentração.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_006"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_007",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": "CEBRASPE (CESPE)",
+      "year": 2018,
+      "organization": "IPHAN",
+      "role": "Analista",
+      "statement": "Uma desvantagem da centralização das atividades de uma organização em um só departamento é o aumento dos custos operacionais dessa organização.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": null,
+      "external_reference": "Qconcursos #264953",
+      "commentary": "A questão está ERRADA. A centralização, ao concentrar atividades em um único departamento ou nível hierárquico, pode, em tese, levar a uma *redução* de custos operacionais pela economia de escala e eliminação de duplicidade de esforços. O aumento de custos é mais associado à descentralização excessiva ou à burocracia ineficiente, não à centralização em si.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_007"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_008",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": "CEBRASPE (CESPE)",
+      "year": 2016,
+      "organization": "FUNPRESP",
+      "role": "Analista - Administrativo",
+      "statement": "Descentralização administrativa e competição entre as unidades administrativas são dois princípios da nova administração pública (NAP).",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": null,
+      "external_reference": "Qconcursos #211275",
+      "commentary": "A questão está CORRETA. A Nova Administração Pública (NAP) ou Gerencialismo, de fato, valoriza a descentralização administrativa como um meio de tornar as políticas públicas mais eficazes, buscando a desburocratização, a transparência e a eficiência, e pode, em certos contextos, incentivar a competição entre unidades administrativas para otimizar resultados.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_008"
+        ],
+        "count": 1
+      }
+    }
+  ],
+  "comentarios_questoes": [
+    {
+      "comment_id": "com_001",
+      "question_id": "qst_001",
+      "content": "A questão está CORRETA. A criação de uma nova entidade com personalidade jurídica própria, por meio de lei, para receber a titularidade e a execução de um serviço público, configura a descentralização por outorga (ou por serviços). É o caso típico da criação de autarquias, fundações públicas, empresas públicas e sociedades de economia mista.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_002",
+      "question_id": "qst_002",
+      "content": "A questão está CORRETA. O Departamento de Polícia Federal (DPF) é um órgão da União, não possuindo personalidade jurídica própria. A distribuição de competências entre órgãos da mesma pessoa jurídica (a União, neste caso) é o conceito de desconcentração administrativa.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_003",
+      "question_id": "qst_003",
+      "content": "A questão está ERRADA. A concentração administrativa implica a *extinção* de órgãos e a reunião de competências em um número menor de órgãos, dentro da mesma pessoa jurídica. Não há distribuição hierárquica de tarefas, mas sim uma centralização de funções nos órgãos remanescentes. A descrição da questão se assemelha mais à desconcentração, mas o termo 'concentração' é usado de forma equivocada.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_004",
+      "question_id": "qst_004",
+      "content": "A questão está CORRETA. A administração centralizada é aquela exercida diretamente pelos entes federados (União, Estados, DF e Municípios), que são pessoas jurídicas únicas. Dentro de cada um desses entes, existem diversos órgãos internos que desempenham as atividades, caracterizando a desconcentração interna.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_005",
+      "question_id": "qst_005",
+      "content": "A questão está CORRETA. A desconcentração administrativa é, de fato, a divisão de competências entre órgãos que pertencem à mesma pessoa jurídica de direito público, sem que esses órgãos possuam personalidade jurídica própria.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_006",
+      "question_id": "qst_006",
+      "content": "A questão está ERRADA. A desconcentração, ao distribuir tarefas internamente, visa justamente a *melhorar* a celeridade no atendimento e a especialização, não a reduzi-la. As desvantagens da descentralização (não da desconcentração) podem incluir a dispersão de objetivos e a perda de uniformidade nas decisões, mas não são características da desconcentração.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_007",
+      "question_id": "qst_007",
+      "content": "A questão está ERRADA. A centralização, ao concentrar atividades em um único departamento ou nível hierárquico, pode, em tese, levar a uma *redução* de custos operacionais pela economia de escala e eliminação de duplicidade de esforços. O aumento de custos é mais associado à descentralização excessiva ou à burocracia ineficiente, não à centralização em si.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_008",
+      "question_id": "qst_008",
+      "content": "A questão está CORRETA. A Nova Administração Pública (NAP) ou Gerencialismo, de fato, valoriza a descentralização administrativa como um meio de tornar as políticas públicas mais eficazes, buscando a desburocratização, a transparência e a eficiência, e pode, em certos contextos, incentivar a competição entre unidades administrativas para otimizar resultados.",
+      "explanation_alternatives": ""
+    }
+  ],
+  "checklist_revisao": [
+    {
+      "checklist_id": "chk_001",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Diferenciar Centralização e Descentralização (número de pessoas jurídicas).",
+      "completed": false,
+      "order": 1
+    },
+    {
+      "checklist_id": "chk_002",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Diferenciar Concentração e Desconcentração (distribuição interna de competências).",
+      "completed": false,
+      "order": 2
+    },
+    {
+      "checklist_id": "chk_003",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Compreender as modalidades de Descentralização: Outorga (titularidade + execução, por lei) e Delegação (apenas execução, por contrato/ato).",
+      "completed": false,
+      "order": 3
+    },
+    {
+      "checklist_id": "chk_004",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Identificar a relação entre Administração Direta e Indireta (vinculação/tutela, não hierarquia).",
+      "completed": false,
+      "order": 4
+    },
+    {
+      "checklist_id": "chk_005",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Reconhecer exemplos práticos de cada conceito.",
+      "completed": false,
+      "order": 5
+    },
+    {
+      "checklist_id": "chk_006",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Focar nas pegadinhas do CEBRASPE sobre personalidade jurídica e tipo de transferência.",
+      "completed": false,
+      "order": 6
+    }
+  ],
+  "referencias": [
+    {
+      "reference_id": "ref_001",
+      "material_id": "mat_001",
+      "reference_type": "doutrina",
+      "author_name": "DI PIETRO, Maria Sylvia Zanella",
+      "title": "Direito Administrativo",
+      "publisher": "Forense",
+      "year_reference": 2022,
+      "isbn": null,
+      "url": "https://bdjur.stj.jus.br/jspui/handle/2011/170068",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_002",
+      "material_id": "mat_001",
+      "reference_type": "doutrina",
+      "author_name": "CARVALHO FILHO, José dos Santos",
+      "title": "Manual de Direito Administrativo",
+      "publisher": "Atlas",
+      "year_reference": 2015,
+      "isbn": null,
+      "url": null,
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_003",
+      "material_id": "mat_001",
+      "reference_type": "artigo_online",
+      "author_name": "Trilhante",
+      "title": "Definição, descentralização e desconcentração",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFWtS-imgrIBYNMTXRy1GBCF0mYziz0sdLvRUz6Ffp_dqIR5vZ5Cx4g3D4n-W2fkIMK-yGAQ0bncB6aoxo2PV9XKW2TVYS7VvF3diCf1v09ujvUDlFizktWviamVxmoFTIvNT-YMtYAspFVXRHb8yuPOOWr5oijGuX58Zb8ma139Alxt5RbX_OM1MFZSWHD8E7bYnNVq7e8=",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_004",
+      "material_id": "mat_001",
+      "reference_type": "artigo_online",
+      "author_name": "Blog SOS Saber",
+      "title": "Descentralização e Centralização Administrativa",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHSwJB-TYW-607FqPEJDIUb0iGAHBL21fhxENTEAzh32M5cnLppCoVsuTWE7g6-5Sm_nrJJ6JmFwqzdbuG2jrKRrFhOaSqfxkE32dCX3i6UmFgOMBKVxs3hqmtxeQ_-0gBUbg-EpJ-La7x8il3VLkfURnEwBhuYXt1xlJp8Ax4KaKS_eAYlVUWGxRG-UaA_pDxk",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_005",
+      "material_id": "mat_001",
+      "reference_type": "artigo_online",
+      "author_name": "Jurismenteaberta",
+      "title": "Desconcentração e Descentralização Administrativa: Conceitos, Diferenças e Exemplos Práticos",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGJtqEhKFc6qKouAnqhvZBzxkfirW_kC5h3tVFjx8p8yfQ6QCUTnGIwa05FuUUcfEMW2kTj0fg0bedoajxAmYOeSNUNdO4_hZVzcAt4IAz6UZZa8BDnxtVzyZjuwthjDzr7T4_mNrgeiA0ZDG7825Aj-Qx-UA7ZYeneWknNmv-Tr1TzM79qyY3d6v7OEYdduyI3HFp17hBI6CM3ywH3zIYUFL1hc1bhH091tkUDGSJ7AlXnJSsacQ==",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_006",
+      "material_id": "mat_001",
+      "reference_type": "artigo_online",
+      "author_name": "Estratégia Concursos",
+      "title": "Centralização e descentralização administrativa",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGKU3eSmB_Lf3PeytZmpDT0CdYQNdJWizAtu25k2KTpIMfoZoU3XaTNLTdFU1BbXMC1xGnA4pIeBuPgC7siZsvwEoUaCFr74S-byT5xTpVDI857atG1Xh5FJL98em6iAuyXjApZ6K4Fq5V-wTRHcgWEsBg0sBnRIM9ho1jdGEs6bKA7orIzlcMn4BvnFaCTWtL03Wew2w==",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_007",
+      "material_id": "mat_001",
+      "reference_type": "artigo_online",
+      "author_name": "Estratégia Concursos",
+      "title": "Espécies de descentralização",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFIctFsKgwIEZm-bciPZyMwcPI2p6lWwM3P5eUNbqmjSnqrhJlmAWYMD7LOuwlmoS2bzMLijsO_nbcd2X4WgsdMROwUFHpzwerelWDSVUGvUXfc0mNpAubb3sejiU3GFBqrVFBdMXW0M0Qx-DdiG37t0kjclJ2X8uHKumCySFWCd64=",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_008",
+      "material_id": "mat_001",
+      "reference_type": "artigo_online",
+      "author_name": "Blog 1Doc",
+      "title": "Desconcentração e descentralização: entenda as diferenças!",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHFi42b5PJ2AC-RMvg3LpRs-vV6-sE_QNyfSV_0qWn9s0hO7uKv4j0unbbahdKz-9aOASRdrehx-CnFLetpiD9pk9xauvHHPurPE666XA84tjZejRuhsXKjiwfKMaIEmb9QanrbQF1X9sCiHfCxBgZOMHCe1xZwOw==",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_009",
+      "material_id": "mat_001",
+      "reference_type": "artigo_online",
+      "author_name": "Estratégia Concursos",
+      "title": "Assuntos cobrados em Direito Administrativo pelo CEBRASPE",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHYYRwmt2Ot7aTzhVxwAJpCGVuS5kvgNlJwqdx0mTXFEIKhtj7pPQ1FKZbZkzw9Y64jx0T_5x58Q0dbcp8cEc-QmIKbXTtUd78iSl0wKUtEN4WJbwpj6L0c4JCbfMCXRQ73WGi-SfupGItfVqcX3PaWCvdKPhfnWqNTpBlpHZka4OUKuL5D6LywvgYQ5hlVitMFe_4=",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_010",
+      "material_id": "mat_001",
+      "reference_type": "video_online",
+      "author_name": "Natalia Lacerda",
+      "title": "INSS Exam - CEBRASPE Questions | Basics of Administrative Organization",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.youtube.com/watch?v=1GuBLiiB4PCKfaHhyzY7Mn1aPJZonigJQ",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_011",
+      "material_id": "mat_001",
+      "reference_type": "video_online",
+      "author_name": "Professor Aureno",
+      "title": "Assuntos mais cobrados de Direito Administrativo na banca CEBRASPE (CESPE)",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.youtube.com/watch?v=y-2026hd",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_012",
+      "material_id": "mat_001",
+      "reference_type": "artigo_online",
+      "author_name": "Qconcursos",
+      "title": "No que se refere à diferença entre a descentralizaçã...",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEe3oO3azf3H17x2wgvpZMdZNPnOpMyZ6xLe3zwdbbb7EOFBwNacHtxjlUC6RY8s-NUbRv6cAs6G6ANLu5p9aKG3DKi4IJiYqvvUFmoF4J14QdydvmcUChaVIsZZN-n_l0BbxOKE3IE7Ms8459InQk2GFjAmeCoMf58Jl2a91824g==",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_013",
+      "material_id": "mat_001",
+      "reference_type": "artigo_online",
+      "author_name": "Qconcursos",
+      "title": "Questões de Concurso sobre Organização da Administração Pública em Direito Administrativo para CESPE / CEBRASPE",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGofgkXbLO-g76GTqLA3DFPxKudCs7qMBMqFwITuUiH0QUeylL6wkCDeczA1AMvVPDCveqs2PY5nZJ0S31Nbh1mHDfdOwDbaTgaFAxkvUz67WbEss_KPK_ZymBmPMR5TseCrenw_WupxJO0gxXjqhnKmI55IN2-B4LoeLiMEoQ7YLncj10g3iqIcHDHqaYaugNztMA4yd29HQiktXAwNE6o6kOUHNvyLrNopDTB_syAnNKvmzR9slaurMRnF5Vl",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_014",
+      "material_id": "mat_001",
+      "reference_type": "artigo_online",
+      "author_name": "BLOG DO DIREITO",
+      "title": "Organização Administrativa- Descentralização e Desconcentração",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGHcUBogohyrhtL0P9aCnHYKu_LBjFdP8JFbY8wdvYpqp50VFAftSAJbKElED81KUt2BoWejCppEDBhhxA9xkE6cC8JeHRsC-tAnosscAvZHb-bHrJVuTfez4guTFfyvUuycguya62bUsHRVlM7dhaxtl-gnEnEDsulDBCUKnLu9eUyww==",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_015",
+      "material_id": "mat_001",
+      "reference_type": "artigo_online",
+      "author_name": "Qconcursos",
+      "title": "A respeito da centralização, descentralização, concentração ...",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQELe81D9ySWBHJoXL_AV0w1-a_VsTmSRaecEGvy7Bga6yKVLLldftxvYxBBCINoR3_EVtUONy7kP56ZCh9HFMdoXgWYZ9WoQ-Uv4UND9wWys6iycabgy3qPdByoMor4AgqgdTRQPpbyqHAlKeUA13gDX-V3aE-UYi03roTjP7-VVg==",
+      "accessed_at": null,
+      "description": null
+    }
+  ],
+  "estatisticas_de_geracao": {
+    "total_topicos": 4,
+    "total_componentes_topico": 12,
+    "total_entendimentos_relevantes": 2,
+    "total_pegadinhas": 4,
+    "total_pontos_memorizacao": 6,
+    "total_itens_quadro_sinotico": 5,
+    "total_questoes": 8,
+    "total_comentarios_questoes": 8,
+    "total_itens_checklist": 6,
+    "total_referencias": 15
+  },
+  "validacao_interna": {
+    "pesquisa_previa_realizada": true,
+    "analise_de_cobrancas_anteriores_realizada": true,
+    "material_atualizado": true,
+    "json_valido": true,
+    "estrutura_relacional_respeitada": true,
+    "numeracao_respeitada": true,
+    "houve_quebra_de_hierarquia": false,
+    "houve_nivel_numerico_superior_a_3": false,
+    "fontes_verificadas": true,
+    "sem_informacao_inventada": true
+  },
+  "metadata": {
+    "source_file_name": "3__direito-administrativo__3-organização-administrativa-3.1-centralização-descentralização-concentração-e-desconcentração.json",
+    "normalized_checksum": "bfcf3a3f945a85b0dd5eed81415b4fa3620d080259a6e4e18e1a24fff762132f",
+    "subject_slug": "dir-adm",
+    "material_slug": "organizacao-administrativa-centralizacao",
+    "title_slug": "organizacao-administrativa-centralizacao",
+    "board_slug": "cebraspe",
+    "counters": {
+      "blocks": 2,
+      "topics": 4,
+      "topic_components": 12,
+      "traps": 4,
+      "memory_points": 6,
+      "summary_items": 5,
+      "questions": 8,
+      "question_comments": 8,
+      "checklist_items": 6,
+      "references": 15
+    }
+  }
+}

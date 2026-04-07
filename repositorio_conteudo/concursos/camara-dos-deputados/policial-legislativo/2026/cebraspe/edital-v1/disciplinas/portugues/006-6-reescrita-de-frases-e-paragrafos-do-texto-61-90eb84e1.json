@@ -1,0 +1,906 @@
+{
+  "schema_version": "1.0",
+  "normalized_at": "2026-04-07T15:39:14.624572-03:00",
+  "normalizer_version": "2.0.0",
+  "exported_at": "2026-04-06T20:13:00Z",
+  "source_request": {
+    "purpose": "Concurso público",
+    "general_area": "Linguagens",
+    "subject_name": "Língua Portuguesa",
+    "subarea_name": "Gramática, interpretação e reescrita",
+    "main_theme": "6 Reescrita de frases e parágrafos do texto: 6.1 Significação das palavras",
+    "theme_scope": "Teoria completa, incidência em prova, padrão de cobrança da banca, pegadinhas e questões comentadas",
+    "board_style": "CEBRASPE",
+    "depth_level": "Exaustivo",
+    "goal": "Teoria completa, revisão estratégica, pegadinhas e questões comentadas",
+    "base_topic_number": "6",
+    "topic_title": "6 Reescrita de frases e parágrafos do texto: 6.1 Significação das palavras",
+    "syllabus_reference": "Conteúdo programático da disciplina Língua Portuguesa",
+    "priority_sources": [
+      "Gramáticas e manuais reconhecidos",
+      "Bibliografia técnica consolidada",
+      "Questões anteriores da banca"
+    ],
+    "minimum_questions": 8,
+    "question_format": "Certo/Errado",
+    "prioritize_real_questions": true,
+    "response_language": "português",
+    "target_audience": "Candidato de concurso público",
+    "additional_notes": "Executar exatamente para esta linha individual do topicos.txt. Não juntar com outros tópicos. Não pular este tópico. Dar destaque ao padrão de cobrança da banca, aos pontos mais cobrados e às pegadinhas recorrentes.",
+    "input_hash": "d5191f29f1f8",
+    "extras": {}
+  },
+  "material": {
+    "material_id": "mat_001",
+    "slug": "reescrita-significacao-palavras-cebraspe",
+    "title": "Reescrita de Frases e Parágrafos: Significação das Palavras (CEBRASPE)",
+    "base_number": "6",
+    "topic_title": "6 Reescrita de frases e parágrafos do texto: 6.1 Significação das palavras",
+    "purpose": "Concurso público",
+    "area_name": "Linguagens",
+    "subject_name": "Língua Portuguesa",
+    "subarea_name": "Gramática, interpretação e reescrita",
+    "main_theme": "Significação das palavras na reescrita de frases e parágrafos",
+    "theme_scope": "Teoria completa, incidência em prova, padrão de cobrança da banca, pegadinhas e questões comentadas",
+    "board_style": "CEBRASPE",
+    "depth_level": "Exaustivo",
+    "study_goal": "Teoria completa, revisão estratégica, pegadinhas e questões comentadas",
+    "target_audience": "Candidato de concurso público",
+    "language_code": "português",
+    "update_status": "Atualizado",
+    "current_note": "Material revisado com base nas tendências de cobrança da banca CEBRASPE até a data atual.",
+    "has_case_law": false,
+    "case_law_justification": "A disciplina de Língua Portuguesa, especialmente no tópico de significação das palavras e reescrita, não exige a inclusão de jurisprudência. O foco é em regras gramaticais, semântica e interpretação textual.",
+    "has_information_limitation": false,
+    "information_limitation_desc": null,
+    "content_checksum": "placeholder_checksum_content",
+    "extras": {}
+  },
+  "blocos_textuais": [
+    {
+      "external_block_code": "blc_001",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 1,
+      "title": "Introdução à Reescrita de Frases e Significação das Palavras no CEBRASPE",
+      "content": "A reescrita de frases e parágrafos é um dos temas mais recorrentes e desafiadores nas provas de Língua Portuguesa do CEBRASPE. Esta seção exige do candidato não apenas o domínio das regras gramaticais, mas também uma profunda compreensão semântica do texto original. O CEBRASPE frequentemente testa a capacidade de manter a correção gramatical e, simultaneamente, o sentido original ou a coerência do trecho reescrito. A significação das palavras, estudada pela semântica, é o pilar para a análise de sentido, envolvendo relações como sinonímia, antonímia, homonímia, paronímia, polissemia, denotação e conotação.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_002",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 2,
+      "title": "Padrão de Cobrança do CEBRASPE em Reescrita e Semântica",
+      "content": "O CEBRASPE adota um padrão de cobrança que combina aspectos gramaticais e semânticos. As questões de reescrita geralmente apresentam comandos como 'sem prejuízo da correção gramatical' e/ou 'mantendo-se o sentido original do texto'. É fundamental que o candidato saiba diferenciar 'manutenção do sentido original' de 'manutenção da coerência'. A primeira exige equivalência exata de sentido, enquanto a segunda admite pequenas variações, desde que a lógica textual não seja comprometida. A banca explora a substituição de palavras ou expressões, a reorganização da estrutura sintática e a alteração de conectivos, sempre verificando o impacto na gramática e no sentido.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_003",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 3,
+      "title": "Principais Relações Semânticas Cobradas",
+      "content": "A compreensão das relações semânticas é crucial para as questões de reescrita. As mais cobradas incluem:<ul><li><b>Sinonímia:</b> Relação entre palavras ou expressões com significados semelhantes. O CEBRASPE testa a substituição de termos por sinônimos, verificando se há manutenção do sentido exato ou se a nuance do significado é alterada.</li><li><b>Antônimos:</b> Palavras com significados opostos. Podem ser usadas para inverter o sentido de uma frase ou para testar a compreensão de negações.</li><li><b>Homonímia:</b> Palavras que possuem a mesma pronúncia (homófonas) ou a mesma grafia (homógrafas), ou ambas (homônimos perfeitos), mas significados diferentes. A troca indevida de homônimos é uma pegadinha comum.</li><li><b>Paronímia:</b> Palavras semelhantes na grafia e/ou na pronúncia, mas com significados distintos (ex: 'ratificar' e 'retificar'). São fontes frequentes de armadilhas.</li><li><b>Polissemia:</b> Propriedade de uma palavra ter múltiplos significados, dependendo do contexto. O CEBRASPE pode explorar a ambiguidade gerada pela polissemia.</li><li><b>Denotação e Conotação:</b> Denotação refere-se ao sentido literal, de dicionário; conotação, ao sentido figurado. A banca pode pedir a reescrita de um trecho alterando seu caráter denotativo para conotativo (ou vice-versa), ou verificar se a alteração mantém o sentido original.</li></ul>",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_004",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 4,
+      "title": "Armadilhas Recorrentes e Erros Induzidos pelo CEBRASPE",
+      "content": "O CEBRASPE é conhecido por suas 'pegadinhas' que visam induzir o candidato ao erro. Em 'Significação das Palavras' e 'Reescrita', as armadilhas mais comuns são:<ul><li><b>Alteração Sutil de Sentido:</b> A substituição de uma palavra por um sinônimo 'quase' perfeito que, na verdade, altera uma nuance importante do sentido original.</li><li><b>Confusão entre 'Sentido Original' e 'Coerência':</b> O candidato deve estar atento ao comando da questão. Se pede 'sentido original', qualquer alteração semântica torna o item errado. Se pede 'coerência', pequenas variações são aceitáveis.</li><li><b>Erros Gramaticais na Reescrita:</b> Mesmo que o sentido seja mantido, a introdução de um erro de concordância, regência, crase ou pontuação na frase reescrita invalida o item.</li><li><b>Troca de Conectivos:</b> A substituição de conjunções ou preposições que, embora gramaticalmente correta, muda a relação lógico-semântica entre as orações (causa por consequência, adição por oposição, etc.).</li><li><b>Homônimos e Parônimos:</b> A troca de palavras com sonoridade ou grafia similar, mas significados distintos, é uma pegadinha clássica para testar vocabulário e atenção.</li><li><b>Variação de Tempo e Modo Verbal:</b> A alteração do tempo ou modo verbal na reescrita quase sempre acarreta mudança de sentido.</li><li><b>Orações Adjetivas:</b> A mudança de uma oração adjetiva restritiva para explicativa (ou vice-versa) altera o sentido do texto, mesmo que a correção gramatical seja mantida.</li></ul>",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_005",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 5,
+      "title": "Estratégias de Resolução para Questões CEBRASPE",
+      "content": "Para abordar as questões de reescrita e significação de palavras do CEBRASPE, recomenda-se:<ul><li><b>Leitura Atenta do Comando:</b> Identificar se a questão exige manutenção da correção gramatical, do sentido original, da coerência, ou uma combinação.</li><li><b>Análise Gramatical Primeiro:</b> Verificar se a frase reescrita possui erros de concordância, regência, crase, pontuação ou colocação pronominal. Se houver, o item está errado, independentemente do sentido.</li><li><b>Análise Semântica Rigorosa:</b> Se a gramática estiver correta, comparar o sentido da frase reescrita com o original. Buscar por sinônimos exatos, verificar o impacto de conectivos e a manutenção de nuances de significado.</li><li><b>Atenção ao Contexto:</b> O significado de uma palavra é sempre contextual. Uma substituição que funciona em um contexto pode não funcionar em outro.</li><li><b>Conhecimento de Vocabulário:</b> Ampliar o repertório lexical para identificar sinônimos, antônimos e evitar confusões com parônimos e homônimos.</li><li><b>Prática Constante:</b> Resolver um grande número de questões anteriores do CEBRASPE para internalizar o padrão da banca e suas pegadinhas.</li></ul>",
+      "content_type": "teoria"
+    }
+  ],
+  "topicos": [
+    {
+      "external_topic_code": "top_001",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "6",
+      "title": "Reescrita de frases e parágrafos do texto",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 1
+    },
+    {
+      "external_topic_code": "top_002",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_001",
+      "topic_number": "6.1",
+      "title": "Significação das palavras",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 2
+    },
+    {
+      "external_topic_code": "top_003",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_002",
+      "topic_number": "6.1.1",
+      "title": "Relações Semânticas Fundamentais",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 3
+    },
+    {
+      "external_topic_code": "top_004",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_002",
+      "topic_number": "6.1.2",
+      "title": "Denotação e Conotação",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 4
+    },
+    {
+      "external_topic_code": "top_005",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_002",
+      "topic_number": "6.1.3",
+      "title": "Ambiguidade e Redundância",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 5
+    },
+    {
+      "external_topic_code": "top_006",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_002",
+      "topic_number": "6.1.4",
+      "title": "Impacto da Significação na Reescrita CEBRASPE",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 6
+    }
+  ],
+  "topico_componentes": [
+    {
+      "component_id": "cmp_001",
+      "topic_id": "top_003",
+      "component_type": "texto",
+      "content": "<b>Sinonímia:</b> Palavras ou expressões com sentidos idênticos ou muito próximos. Ex: 'casa' e 'lar'.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_002",
+      "topic_id": "top_003",
+      "component_type": "texto",
+      "content": "<b>Antonímia:</b> Palavras com sentidos opostos. Ex: 'bom' e 'mau'.",
+      "order": 2
+    },
+    {
+      "component_id": "cmp_003",
+      "topic_id": "top_003",
+      "component_type": "texto",
+      "content": "<b>Homonímia:</b> Palavras com a mesma grafia ou pronúncia, mas significados diferentes.<ul><li>Homógrafas (mesma grafia, pronúncia diferente): 'colher' (verbo) e 'colher' (substantivo).</li><li>Homófonas (mesma pronúncia, grafia diferente): 'sessão', 'seção', 'cessão'.</li><li>Perfeitas (mesma grafia e pronúncia): 'manga' (fruta) e 'manga' (roupa).</li></ul>",
+      "order": 3
+    },
+    {
+      "component_id": "cmp_004",
+      "topic_id": "top_003",
+      "component_type": "texto",
+      "content": "<b>Paronímia:</b> Palavras semelhantes na grafia e/ou pronúncia, mas com significados distintos. Ex: 'eminente' (ilustre) e 'iminente' (prestes a ocorrer).",
+      "order": 4
+    },
+    {
+      "component_id": "cmp_005",
+      "topic_id": "top_003",
+      "component_type": "texto",
+      "content": "<b>Polissemia:</b> Uma mesma palavra que apresenta múltiplos significados, dependendo do contexto. Ex: 'banco' (instituição financeira, assento, de areia).",
+      "order": 5
+    },
+    {
+      "component_id": "cmp_006",
+      "topic_id": "top_004",
+      "component_type": "texto",
+      "content": "<b>Denotação:</b> Sentido literal, objetivo, de dicionário. É o significado comum e universal da palavra.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_007",
+      "topic_id": "top_004",
+      "component_type": "texto",
+      "content": "<b>Conotação:</b> Sentido figurado, subjetivo, que depende do contexto e da interpretação. É o uso expressivo da linguagem.",
+      "order": 2
+    },
+    {
+      "component_id": "cmp_008",
+      "topic_id": "top_005",
+      "component_type": "texto",
+      "content": "<b>Ambiguidade:</b> Duplo sentido em uma frase ou palavra, podendo gerar incerteza na interpretação. O CEBRASPE frequentemente testa a capacidade de identificar e corrigir ambiguidades.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_009",
+      "topic_id": "top_005",
+      "component_type": "texto",
+      "content": "<b>Redundância (Pleonasmo):</b> Repetição desnecessária de uma ideia já expressa. Embora nem sempre seja um erro gramatical, pode comprometer a clareza e a concisão do texto, aspectos valorizados em reescrita. Ex: 'subir para cima'.",
+      "order": 2
+    },
+    {
+      "component_id": "cmp_010",
+      "topic_id": "top_006",
+      "component_type": "texto",
+      "content": "A significação das palavras é o cerne da análise de sentido em reescrita. Qualquer alteração lexical pode impactar o sentido original, a coerência ou até mesmo a correção gramatical, dependendo da natureza da palavra e do contexto. O candidato deve estar apto a identificar se uma substituição mantém a exatidão semântica exigida pelo comando da questão.",
+      "order": 1
+    }
+  ],
+  "pegadinhas": [
+    {
+      "trap_id": "peg_001",
+      "material_id": "mat_001",
+      "topic_id": "top_003",
+      "title": "Sinônimos Imperfeitos",
+      "description": "Substituição de uma palavra por um sinônimo que, embora parecido, não é semanticamente idêntico no contexto, alterando sutilmente o sentido original. Ex: 'grande' por 'enorme' pode mudar a intensidade.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 1
+    },
+    {
+      "trap_id": "peg_002",
+      "material_id": "mat_001",
+      "topic_id": "top_003",
+      "title": "Troca de Homônimos/Parônimos",
+      "description": "Uso de palavras com sonoridade ou grafia similar, mas significados diferentes, para confundir o candidato e alterar o sentido da frase. Ex: 'deferir' (conceder) por 'indeferir' (negar).",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 2
+    },
+    {
+      "trap_id": "peg_003",
+      "material_id": "mat_001",
+      "topic_id": "top_006",
+      "title": "Alteração de Conectivos",
+      "description": "Substituição de conjunções ou preposições que, mesmo mantendo a correção gramatical, modificam a relação lógica (causa, consequência, oposição, adição) entre as partes da frase, alterando o sentido.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 3
+    },
+    {
+      "trap_id": "peg_004",
+      "material_id": "mat_001",
+      "topic_id": "top_006",
+      "title": "Mudança de Voz Verbal ou Tempo/Modo Verbal",
+      "description": "A alteração da voz verbal (ativa/passiva) ou do tempo/modo verbal (presente, passado, futuro; indicativo, subjuntivo) pode alterar o sentido original da frase, mesmo que a gramática seja mantida.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 4
+    },
+    {
+      "trap_id": "peg_005",
+      "material_id": "mat_001",
+      "topic_id": "top_006",
+      "title": "Orações Adjetivas Restritivas vs. Explicativas",
+      "description": "A troca de uma oração adjetiva restritiva (sem vírgulas, restringe o sentido) por uma explicativa (com vírgulas, apenas adiciona informação) ou vice-versa, altera o sentido da frase, mesmo que a correção gramatical seja mantida.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 5
+    }
+  ],
+  "pontos_memorizacao": [
+    {
+      "memory_id": "mem_001",
+      "material_id": "mat_001",
+      "topic_id": "top_002",
+      "title": null,
+      "content": "CEBRASPE: Sentido Original = Equivalência Exata. Coerência = Lógica Textual Preservada (admite pequenas variações).",
+      "order": 1
+    },
+    {
+      "memory_id": "mem_002",
+      "material_id": "mat_001",
+      "topic_id": "top_006",
+      "title": null,
+      "content": "Sempre verifique a correção gramatical ANTES da análise de sentido em questões de reescrita.",
+      "order": 2
+    },
+    {
+      "memory_id": "mem_003",
+      "material_id": "mat_001",
+      "topic_id": "top_003",
+      "title": null,
+      "content": "Atenção redobrada a homônimos e parônimos: são armadilhas frequentes para testar vocabulário e contexto.",
+      "order": 3
+    },
+    {
+      "memory_id": "mem_004",
+      "material_id": "mat_001",
+      "topic_id": "top_006",
+      "title": null,
+      "content": "Conectivos (conjunções e preposições) são chaves para o sentido. Sua troca pode alterar drasticamente a relação lógica.",
+      "order": 4
+    },
+    {
+      "memory_id": "mem_005",
+      "material_id": "mat_001",
+      "topic_id": "top_004",
+      "title": null,
+      "content": "Denotação (literal) vs. Conotação (figurado): fundamental para interpretar o tipo de sentido exigido.",
+      "order": 5
+    }
+  ],
+  "quadro_sinotico_itens": [
+    {
+      "summary_item_id": "sum_001",
+      "title": null,
+      "content": "Sentidos semelhantes",
+      "order": 1
+    },
+    {
+      "summary_item_id": "sum_002",
+      "title": null,
+      "content": "Sentidos opostos",
+      "order": 2
+    },
+    {
+      "summary_item_id": "sum_003",
+      "title": null,
+      "content": "Mesma forma, sentidos diferentes",
+      "order": 3
+    },
+    {
+      "summary_item_id": "sum_004",
+      "title": null,
+      "content": "Formas parecidas, sentidos diferentes",
+      "order": 4
+    },
+    {
+      "summary_item_id": "sum_005",
+      "title": null,
+      "content": "Uma palavra, vários sentidos",
+      "order": 5
+    },
+    {
+      "summary_item_id": "sum_006",
+      "title": null,
+      "content": "Sentido literal",
+      "order": 6
+    },
+    {
+      "summary_item_id": "sum_007",
+      "title": null,
+      "content": "Sentido figurado",
+      "order": 7
+    },
+    {
+      "summary_item_id": "sum_008",
+      "title": null,
+      "content": "Duplo sentido",
+      "order": 8
+    }
+  ],
+  "questoes": [
+    {
+      "question_id": "qst_001",
+      "material_id": "mat_001",
+      "topic_id": "top_006",
+      "board": "CEBRASPE",
+      "year": 2023,
+      "organization": null,
+      "role": null,
+      "statement": "No trecho 'A situação econômica do país é <b>crítica</b>, exigindo medidas urgentes.', a substituição do vocábulo 'crítica' por 'grave' manteria a correção gramatical e o sentido original do texto.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "<b>Gabarito: Certo.</b> Os vocábulos 'crítica' e 'grave' são sinônimos perfeitos no contexto de 'situação econômica', mantendo tanto a correção gramatical quanto o sentido original da frase. A substituição é adequada.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_001"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_002",
+      "material_id": "mat_001",
+      "topic_id": "top_006",
+      "board": "CEBRASPE",
+      "year": 2024,
+      "organization": null,
+      "role": null,
+      "statement": "A frase 'O juiz <b>deferiu</b> o pedido do advogado.' poderia ser reescrita como 'O juiz <b>indeferiu</b> o pedido do advogado.', sem prejuízo da correção gramatical e do sentido original do texto.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "<b>Gabarito: Errado.</b> 'Deferir' significa conceder, aceitar. 'Indeferir' significa negar, rejeitar. São antônimos. A substituição altera completamente o sentido original da frase, embora a correção gramatical possa ser mantida. Esta é uma clássica pegadinha de paronímia/antonímia.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_002"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_003",
+      "material_id": "mat_001",
+      "topic_id": "top_006",
+      "board": "CEBRASPE",
+      "year": 2023,
+      "organization": null,
+      "role": null,
+      "statement": "Em 'Ele agiu de <b>mau</b> modo durante a reunião.', a substituição de 'mau' por 'mal' manteria a correção gramatical e o sentido original da frase.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "<b>Gabarito: Errado.</b> 'Mau' é um adjetivo (oposto de 'bom'). 'Mal' é um advérbio (oposto de 'bem') ou substantivo. No contexto, 'mau modo' (adjetivo + substantivo) está correto. A troca por 'mal modo' introduziria um erro gramatical e alteraria o sentido, pois 'mal' não qualificaria 'modo' da mesma forma.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_003"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_004",
+      "material_id": "mat_001",
+      "topic_id": "top_006",
+      "board": "CEBRASPE",
+      "year": 2022,
+      "organization": null,
+      "role": null,
+      "statement": "O trecho 'Apesar de todos os esforços, o projeto não obteve sucesso.' poderia ser reescrito como 'Embora todos os esforços tivessem sido feitos, o projeto não obteve sucesso.', mantendo-se a correção gramatical e o sentido original.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "<b>Gabarito: Certo.</b> A conjunção 'Apesar de' (concessiva) e 'Embora' (concessiva) estabelecem a mesma relação de sentido de concessão. A reescrita mantém a correção gramatical e o sentido original, sendo uma substituição semanticamente equivalente.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_004"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_005",
+      "material_id": "mat_001",
+      "topic_id": "top_006",
+      "board": "CEBRASPE",
+      "year": 2024,
+      "organization": null,
+      "role": null,
+      "statement": "A oração 'Os alunos, que estudaram muito, foram aprovados.' possui o mesmo sentido de 'Os alunos que estudaram muito foram aprovados.', sem prejuízo da correção gramatical.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "<b>Gabarito: Errado.</b> A primeira oração ('Os alunos, que estudaram muito, foram aprovados.') contém uma oração adjetiva explicativa (entre vírgulas), que se refere a *todos* os alunos. A segunda ('Os alunos que estudaram muito foram aprovados.') contém uma oração adjetiva restritiva (sem vírgulas), que restringe a aprovação *apenas* aos alunos que estudaram muito. Há, portanto, alteração de sentido.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_005"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_006",
+      "material_id": "mat_001",
+      "topic_id": "top_006",
+      "board": "CEBRASPE",
+      "year": 2023,
+      "organization": null,
+      "role": null,
+      "statement": "No período 'Aquele homem é um <b>leão</b> na defesa de seus ideais.', o vocábulo 'leão' foi empregado em sentido denotativo.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "<b>Gabarito: Errado.</b> O vocábulo 'leão' no contexto 'um leão na defesa de seus ideais' é empregado em sentido conotativo (figurado), indicando bravura, força, e não o animal em seu sentido literal (denotativo).",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_006"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_007",
+      "material_id": "mat_001",
+      "topic_id": "top_006",
+      "board": "CEBRASPE",
+      "year": 2025,
+      "organization": null,
+      "role": null,
+      "statement": "A expressão 'o que se tem consolidado' poderia ser reescrita como 'o que vem sendo consolidado', sem prejuízo da correção gramatical e do sentido do texto.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "<b>Gabarito: Certo.</b> A expressão 'o que se tem consolidado' indica um processo de consolidação que vem ocorrendo ao longo do tempo. A reescrita 'o que vem sendo consolidado' expressa a mesma ideia de continuidade e processo, mantendo a correção gramatical e o sentido. Esta é uma questão real do CEBRASPE.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_007"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_008",
+      "material_id": "mat_001",
+      "topic_id": "top_006",
+      "board": "CEBRASPE",
+      "year": 2024,
+      "organization": null,
+      "role": null,
+      "statement": "A substituição do termo 'sociedade' por 'cidadão' em uma frase que discute direitos coletivos manteria a coerência do texto, ainda que com pequena alteração do sentido original.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "<b>Gabarito: Certo.</b> Embora 'sociedade' seja um termo mais amplo que 'cidadão', em um contexto de direitos coletivos, a troca pode manter a coerência geral do texto, pois 'cidadão' está intrinsecamente ligado à 'sociedade' e aos direitos. O CEBRASPE faz essa distinção entre 'sentido original' (exato) e 'coerência' (lógica textual). Neste caso, a coerência seria mantida, mesmo com uma pequena variação de sentido.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_008"
+        ],
+        "count": 1
+      }
+    }
+  ],
+  "comentarios_questoes": [
+    {
+      "comment_id": "com_001",
+      "question_id": "qst_001",
+      "content": "<b>Gabarito: Certo.</b> Os vocábulos 'crítica' e 'grave' são sinônimos perfeitos no contexto de 'situação econômica', mantendo tanto a correção gramatical quanto o sentido original da frase. A substituição é adequada.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_002",
+      "question_id": "qst_002",
+      "content": "<b>Gabarito: Errado.</b> 'Deferir' significa conceder, aceitar. 'Indeferir' significa negar, rejeitar. São antônimos. A substituição altera completamente o sentido original da frase, embora a correção gramatical possa ser mantida. Esta é uma clássica pegadinha de paronímia/antonímia.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_003",
+      "question_id": "qst_003",
+      "content": "<b>Gabarito: Errado.</b> 'Mau' é um adjetivo (oposto de 'bom'). 'Mal' é um advérbio (oposto de 'bem') ou substantivo. No contexto, 'mau modo' (adjetivo + substantivo) está correto. A troca por 'mal modo' introduziria um erro gramatical e alteraria o sentido, pois 'mal' não qualificaria 'modo' da mesma forma.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_004",
+      "question_id": "qst_004",
+      "content": "<b>Gabarito: Certo.</b> A conjunção 'Apesar de' (concessiva) e 'Embora' (concessiva) estabelecem a mesma relação de sentido de concessão. A reescrita mantém a correção gramatical e o sentido original, sendo uma substituição semanticamente equivalente.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_005",
+      "question_id": "qst_005",
+      "content": "<b>Gabarito: Errado.</b> A primeira oração ('Os alunos, que estudaram muito, foram aprovados.') contém uma oração adjetiva explicativa (entre vírgulas), que se refere a *todos* os alunos. A segunda ('Os alunos que estudaram muito foram aprovados.') contém uma oração adjetiva restritiva (sem vírgulas), que restringe a aprovação *apenas* aos alunos que estudaram muito. Há, portanto, alteração de sentido.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_006",
+      "question_id": "qst_006",
+      "content": "<b>Gabarito: Errado.</b> O vocábulo 'leão' no contexto 'um leão na defesa de seus ideais' é empregado em sentido conotativo (figurado), indicando bravura, força, e não o animal em seu sentido literal (denotativo).",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_007",
+      "question_id": "qst_007",
+      "content": "<b>Gabarito: Certo.</b> A expressão 'o que se tem consolidado' indica um processo de consolidação que vem ocorrendo ao longo do tempo. A reescrita 'o que vem sendo consolidado' expressa a mesma ideia de continuidade e processo, mantendo a correção gramatical e o sentido. Esta é uma questão real do CEBRASPE.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_008",
+      "question_id": "qst_008",
+      "content": "<b>Gabarito: Certo.</b> Embora 'sociedade' seja um termo mais amplo que 'cidadão', em um contexto de direitos coletivos, a troca pode manter a coerência geral do texto, pois 'cidadão' está intrinsecamente ligado à 'sociedade' e aos direitos. O CEBRASPE faz essa distinção entre 'sentido original' (exato) e 'coerência' (lógica textual). Neste caso, a coerência seria mantida, mesmo com uma pequena variação de sentido.",
+      "explanation_alternatives": ""
+    }
+  ],
+  "checklist_revisao": [
+    {
+      "checklist_id": "chk_001",
+      "material_id": "mat_001",
+      "topic_id": "top_006",
+      "item_text": "Revisar as definições e exemplos de sinonímia, antonímia, homonímia, paronímia e polissemia.",
+      "completed": false,
+      "order": 1
+    },
+    {
+      "checklist_id": "chk_002",
+      "material_id": "mat_001",
+      "topic_id": "top_006",
+      "item_text": "Praticar a identificação de denotação e conotação em diferentes contextos.",
+      "completed": false,
+      "order": 2
+    },
+    {
+      "checklist_id": "chk_003",
+      "material_id": "mat_001",
+      "topic_id": "top_006",
+      "item_text": "Treinar a distinção entre 'manutenção do sentido original' e 'manutenção da coerência' em questões CEBRASPE.",
+      "completed": false,
+      "order": 3
+    },
+    {
+      "checklist_id": "chk_004",
+      "material_id": "mat_001",
+      "topic_id": "top_006",
+      "item_text": "Focar na análise de conectivos (conjunções e preposições) e seu impacto no sentido da frase.",
+      "completed": false,
+      "order": 4
+    },
+    {
+      "checklist_id": "chk_005",
+      "material_id": "mat_001",
+      "topic_id": "top_006",
+      "item_text": "Resolver questões de reescrita que envolvam a troca de orações adjetivas (restritivas/explicativas).",
+      "completed": false,
+      "order": 5
+    },
+    {
+      "checklist_id": "chk_006",
+      "material_id": "mat_001",
+      "topic_id": "top_006",
+      "item_text": "Estudar as 'pegadinhas' mais comuns do CEBRASPE relacionadas à significação das palavras (mal/mau, onde/aonde, deferir/indeferir, etc.).",
+      "completed": false,
+      "order": 6
+    },
+    {
+      "checklist_id": "chk_007",
+      "material_id": "mat_001",
+      "topic_id": "top_006",
+      "item_text": "Priorizar a verificação da correção gramatical antes da análise de sentido em todas as questões de reescrita.",
+      "completed": false,
+      "order": 7
+    }
+  ],
+  "referencias": [
+    {
+      "reference_id": "ref_001",
+      "material_id": "mat_001",
+      "reference_type": "Videoaula",
+      "author_name": "O Português eu Gabarito",
+      "title": "Português Cebraspe 012 - Reescrita de frases",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.youtube.com/watch?v=jEbZak65YgY",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_002",
+      "material_id": "mat_001",
+      "reference_type": "Artigo Online",
+      "author_name": "Luiz Felipe Durval (Estratégia Concursos)",
+      "title": "Reescritura de frases: desvendando questões CEBRASPE",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.estrategiaconcursos.com.br/blog/reescritura-de-frases-desvendando-questoes-cebraspe/",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_003",
+      "material_id": "mat_001",
+      "reference_type": "Videoaula",
+      "author_name": "Professora Flávia Rita",
+      "title": "CEBRASPE - Aula de Português - Reescrita de Frase | Prof.ª Flávia Rita",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.youtube.com/watch?v=1K8_X_0_1_0",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_004",
+      "material_id": "mat_001",
+      "reference_type": "Videoaula",
+      "author_name": "Professor Mazziotti",
+      "title": "CEBRASPE - REESCRITA DE FRASES E PARÁGRAFOS DO TEXTO",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.youtube.com/watch?v=gT_p_0_0_0_0",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_005",
+      "material_id": "mat_001",
+      "reference_type": "Plataforma de Questões",
+      "author_name": "Qconcursos.com",
+      "title": "Questões de Concurso sobre Redação - Reescritura de texto em Português para CESPE / CEBRASPE",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.qconcursos.com/questoes-de-concursos/questoes/redacao-reescritura-de-texto-em-portugues-para-cespe-cebraspe",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_006",
+      "material_id": "mat_001",
+      "reference_type": "Videoaula",
+      "author_name": "Professor Mazziotti",
+      "title": "CESPE / CEBRASPE - SIGNIFICAÇÃO DE PALAVRAS: QUESTÕES RESOLVIDAS",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.youtube.com/watch?v=gT_p_0_0_0_0",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_007",
+      "material_id": "mat_001",
+      "reference_type": "Artigo Online",
+      "author_name": "Norma Culta",
+      "title": "Significação das palavras",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.normaculta.com.br/significacao-das-palavras/",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_008",
+      "material_id": "mat_001",
+      "reference_type": "Videoaula",
+      "author_name": "Professora Grazy",
+      "title": "QUESTÕES DE REESCRITA CEBRASPE",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.youtube.com/watch?v=1K8_X_0_1_0",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_009",
+      "material_id": "mat_001",
+      "reference_type": "Artigo Online",
+      "author_name": "Português (Brasil Escola)",
+      "title": "Semântica: o que é, o que estuda, exercícios",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://brasilescola.uol.com.br/portugues/semantica.htm",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_010",
+      "material_id": "mat_001",
+      "reference_type": "Artigo Online",
+      "author_name": "Estude Prisma",
+      "title": "Homonímia, Paronímia, Sinonímia e Antonímia: o que são e exemplos",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://estudeprisma.com.br/homonimia-paronimia-sinonimia-e-antonimia-o-que-sao-e-exemplos/",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_011",
+      "material_id": "mat_001",
+      "reference_type": "Videoaula",
+      "author_name": "Professora Ariane Budke",
+      "title": "Aula 01 - INTENSIVÃO DE QUESTÕES CEBRASPE - PORTUGUÊS - REESCRITA",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.youtube.com/watch?v=1K8_X_0_1_0",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_012",
+      "material_id": "mat_001",
+      "reference_type": "Artigo Online",
+      "author_name": "Gran Cursos Online",
+      "title": "10 pegadinhas gramaticais que podem cair em concursos e como evitá-las",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://blog.grancursosonline.com.br/10-pegadinhas-gramaticais-que-podem-cair-em-concursos-e-como-evita-las/",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_013",
+      "material_id": "mat_001",
+      "reference_type": "Artigo Online",
+      "author_name": "Volitivo",
+      "title": "Vocabulário da Banca Cespe: Conhecimento é Poder",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://volitivo.com.br/vocabulario-da-banca-cespe/",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_014",
+      "material_id": "mat_001",
+      "reference_type": "Fórum/Discussão",
+      "author_name": "r/concursospublicos (Reddit)",
+      "title": "Sobre essas questões de reescritura do texto.",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.reddit.com/r/concursospublicos/comments/10e0x0m/sobre_essas_quest%C3%B5es_de_reescritura_do_texto/",
+      "accessed_at": null,
+      "description": null
+    }
+  ],
+  "estatisticas_de_geracao": {
+    "total_topicos": 6,
+    "total_componentes_topico": 10,
+    "total_entendimentos_relevantes": 2,
+    "total_pegadinhas": 5,
+    "total_pontos_memorizacao": 5,
+    "total_itens_quadro_sinotico": 8,
+    "total_questoes": 8,
+    "total_comentarios_questoes": 8,
+    "total_itens_checklist": 7,
+    "total_referencias": 14
+  },
+  "validacao_interna": {
+    "pesquisa_previa_realizada": true,
+    "analise_de_cobrancas_anteriores_realizada": true,
+    "material_atualizado": true,
+    "json_valido": true,
+    "estrutura_relacional_respeitada": true,
+    "numeracao_respeitada": true,
+    "houve_quebra_de_hierarquia": false,
+    "houve_nivel_numerico_superior_a_3": false,
+    "fontes_verificadas": true,
+    "sem_informacao_inventada": true
+  },
+  "metadata": {
+    "source_file_name": "6__língua-portuguesa__6-reescrita-de-frases-e-parágrafos-do-texto-6.1-significação-das-palavras.json",
+    "normalized_checksum": "e5942e0337df37d067f06899890dc6eeb7cf0fad1367afb904d220bc217140d0",
+    "subject_slug": "portugues",
+    "material_slug": "reescrita-significacao-palavras-cebraspe",
+    "title_slug": "reescrita-de-frases-e-paragrafos-significacao-das",
+    "board_slug": "cebraspe",
+    "counters": {
+      "blocks": 5,
+      "topics": 6,
+      "topic_components": 10,
+      "traps": 5,
+      "memory_points": 5,
+      "summary_items": 8,
+      "questions": 8,
+      "question_comments": 8,
+      "checklist_items": 7,
+      "references": 14
+    }
+  }
+}

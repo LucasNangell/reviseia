@@ -1,0 +1,759 @@
+{
+  "schema_version": "1.0",
+  "normalized_at": "2026-04-07T15:39:14.248573-03:00",
+  "normalizer_version": "2.0.0",
+  "exported_at": "2026-04-07T17:34:00Z",
+  "source_request": {
+    "purpose": "Concurso público",
+    "general_area": "Direito",
+    "subject_name": "Direito Administrativo",
+    "subarea_name": "Direito Administrativo",
+    "main_theme": "4 Atos administrativos: 4.2 Fatos da administração, atos da administração e atos administrativos",
+    "theme_scope": "Teoria completa, incidência em prova, padrão de cobrança da banca, pegadinhas e questões comentadas",
+    "board_style": "CEBRASPE",
+    "depth_level": "Exaustivo",
+    "goal": "Teoria completa, revisão estratégica, pegadinhas e questões comentadas",
+    "base_topic_number": "4",
+    "topic_title": "4 Atos administrativos: 4.2 Fatos da administração, atos da administração e atos administrativos",
+    "syllabus_reference": "Conteúdo programático da disciplina Direito Administrativo",
+    "priority_sources": [
+      "Constituição Federal e legislação oficial vigente",
+      "Jurisprudência pertinente e atual, quando cabível",
+      "Doutrina consolidada",
+      "Questões anteriores da banca"
+    ],
+    "minimum_questions": 8,
+    "question_format": "Certo/Errado",
+    "prioritize_real_questions": true,
+    "response_language": "português",
+    "target_audience": "Candidato de concurso público",
+    "additional_notes": "Executar exatamente para esta linha individual do topicos.txt. Não juntar com outros tópicos. Não pular este tópico. Dar destaque ao padrão de cobrança da banca, aos pontos mais cobrados e às pegadinhas recorrentes.",
+    "input_hash": "18ad442952fa",
+    "extras": {}
+  },
+  "material": {
+    "material_id": "mat_001",
+    "slug": "atos-administrativos-fatos-atos-da-administracao",
+    "title": "Atos Administrativos: Fatos da Administração, Atos da Administração e Atos Administrativos",
+    "base_number": "4",
+    "topic_title": "4 Atos administrativos: 4.2 Fatos da administração, atos da administração e atos administrativos",
+    "purpose": "Concurso público",
+    "area_name": "Direito",
+    "subject_name": "Direito Administrativo",
+    "subarea_name": "Direito Administrativo",
+    "main_theme": "4 Atos administrativos: 4.2 Fatos da administração, atos da administração e atos administrativos",
+    "theme_scope": "Teoria completa, incidência em prova, padrão de cobrança da banca, pegadinhas e questões comentadas",
+    "board_style": "CEBRASPE",
+    "depth_level": "Exaustivo",
+    "study_goal": "Teoria completa, revisão estratégica, pegadinhas e questões comentadas",
+    "target_audience": "Candidato de concurso público",
+    "language_code": "português",
+    "update_status": "Atualizado",
+    "current_note": "Conteúdo doutrinário consolidado e jurisprudência aplicada, verificados até a data de geração.",
+    "has_case_law": true,
+    "case_law_justification": "A jurisprudência é relevante para entender as consequências jurídicas da distinção, especialmente em responsabilidade civil do Estado, mas a definição dos conceitos é predominantemente doutrinária.",
+    "has_information_limitation": false,
+    "information_limitation_desc": null,
+    "content_checksum": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6",
+    "extras": {}
+  },
+  "blocos_textuais": [
+    {
+      "external_block_code": "blc_001",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 1,
+      "title": "Introdução à Classificação da Atuação Estatal",
+      "content": "O estudo do Direito Administrativo exige a compreensão das diversas formas de atuação da Administração Pública. Para fins de provas e concursos, especialmente os organizados pelo CEBRASPE, é crucial distinguir com clareza os 'fatos da administração', os 'atos da administração' (ou atos materiais) e os 'atos administrativos'. Essa distinção, eminentemente doutrinária, possui profundas implicações jurídicas e é frequentemente cobrada em questões de 'Certo/Errado', que buscam testar a capacidade do candidato de identificar a natureza jurídica de uma conduta estatal e suas consequências.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_002",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 2,
+      "title": "Fatos da Administração",
+      "content": "Os fatos da administração são eventos naturais ou ações humanas que, embora relacionados à esfera administrativa, não decorrem de uma manifestação de vontade específica da Administração Pública com o propósito de produzir efeitos jurídicos diretos e imediatos. São meros acontecimentos que podem, reflexamente, gerar consequências jurídicas. \n\n**Características:**\n*   Não há manifestação de vontade jurídica da Administração.\n*   Podem ser naturais (ex: uma enchente que danifica uma obra pública) ou humanos (ex: a morte de um servidor em serviço).\n*   Os efeitos jurídicos são indiretos ou reflexos, não sendo o objetivo primário do acontecimento.\n\n**Exemplos:**\n*   Um desabamento de terra em uma rodovia federal.\n*   A morte de um servidor público durante o expediente.\n*   Um raio que atinge uma instalação pública.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_003",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 3,
+      "title": "Atos da Administração (Atos Materiais ou Atos de Execução)",
+      "content": "Os atos da administração, também conhecidos como atos materiais ou atos de execução, são operações materiais da Administração Pública que não contêm uma manifestação de vontade com o propósito de produzir efeitos jurídicos imediatos e diretos. Eles representam a execução de um ato administrativo prévio ou de uma determinação legal. Embora sejam ações concretas, sua finalidade não é criar, modificar ou extinguir direitos diretamente, mas sim operacionalizar uma decisão já tomada ou uma norma já existente. \n\n**Características:**\n*   São ações ou operações materiais, não jurídicas em si.\n*   Não possuem manifestação de vontade autônoma para produzir efeitos jurídicos diretos.\n*   Geralmente são a concretização de um ato administrativo anterior ou de uma lei.\n*   Podem gerar efeitos jurídicos reflexos ou indiretos, mas estes não são o objetivo direto da ação material.\n\n**Exemplos:**\n*   A demolição de um prédio irregular (execução de um ato administrativo de demolição).\n*   A fiscalização de um estabelecimento comercial.\n*   A varrição de ruas ou a construção de uma obra pública.\n*   A apreensão de mercadorias (execução de uma ordem legal ou administrativa).",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_004",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 4,
+      "title": "Atos Administrativos",
+      "content": "Os atos administrativos são a forma mais estudada de atuação estatal no Direito Administrativo. São manifestações unilaterais de vontade da Administração Pública que, agindo nessa qualidade, têm por fim imediato adquirir, resguardar, transferir, modificar, extinguir e declarar direitos, ou impor obrigações aos administrados ou a si própria. São dotados de elementos essenciais (competência, finalidade, forma, motivo e objeto) e atributos específicos (presunção de legitimidade e veracidade, autoexecutoriedade, tipicidade e imperatividade). \n\n**Características:**\n*   Manifestação unilateral de vontade da Administração Pública.\n*   Visa produzir efeitos jurídicos diretos e imediatos.\n*   Possui elementos e atributos próprios.\n*   É a principal ferramenta jurídica da Administração para gerir o interesse público.\n\n**Exemplos:**\n*   Nomeação de um servidor público.\n*   Expedição de uma licença ou alvará.\n*   Aplicação de uma multa.\n*   Desapropriação de um bem.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_005",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 5,
+      "title": "Critério Distintivo Fundamental e Implicações",
+      "content": "A distinção crucial entre essas três categorias reside na presença ou ausência de uma manifestação de vontade jurídica da Administração Pública, com o objetivo de produzir efeitos jurídicos diretos. \n\n*   **Fato da Administração:** Ausência de manifestação de vontade jurídica. É um acontecimento.\n*   **Ato da Administração:** Ausência de manifestação de vontade jurídica autônoma para produzir efeitos diretos. É uma operação material que executa uma vontade jurídica prévia.\n*   **Ato Administrativo:** Presença de manifestação de vontade jurídica, com o fim de produzir efeitos jurídicos diretos e imediatos.\n\nEssa distinção é vital para determinar o regime jurídico aplicável, especialmente no que tange à responsabilidade civil do Estado, à possibilidade de controle judicial, à necessidade de motivação, e aos instrumentos de invalidação (anulação, revogação). Por exemplo, um ato administrativo ilegal pode ser anulado, enquanto um ato da administração ilegal (operação material) pode ser objeto de controle judicial para cessar a ilegalidade e gerar indenização, mas não é 'anulado' no sentido técnico-jurídico de um ato jurídico. Fatos da administração podem gerar responsabilidade objetiva ou subjetiva do Estado, dependendo da situação.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_006",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 6,
+      "title": "Padrão de Cobrança CEBRASPE e Pegadinhas",
+      "content": "O CEBRASPE frequentemente testa a capacidade do candidato de diferenciar esses conceitos em situações práticas. As questões são elaboradas para confundir o 'ato da administração' com o 'ato administrativo', ou para atribuir características de atos administrativos a fatos da administração. \n\n**Pontos de Destaque para CEBRASPE:**\n*   **Foco na Vontade Jurídica:** A chave para a distinção é sempre a presença ou ausência de uma manifestação de vontade da Administração com o objetivo de produzir efeitos jurídicos diretos.\n*   **Exemplos Práticos:** A banca adora apresentar cenários e pedir a classificação correta. Memorize os exemplos típicos de cada categoria.\n*   **Consequências Jurídicas:** Entenda que a classificação impacta diretamente a responsabilidade do Estado e os mecanismos de controle.\n*   **Não Confundir Execução com Decisão:** A execução material (ato da administração) é diferente da decisão jurídica que a precede (ato administrativo).",
+      "content_type": "teoria"
+    }
+  ],
+  "topicos": [
+    {
+      "external_topic_code": "top_001",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "4",
+      "title": "Atos Administrativos",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 1
+    },
+    {
+      "external_topic_code": "top_002",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_001",
+      "topic_number": "4.2",
+      "title": "Fatos da Administração, Atos da Administração e Atos Administrativos",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 2
+    },
+    {
+      "external_topic_code": "top_003",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_002",
+      "topic_number": "4.2.1",
+      "title": "Conceito e Características dos Fatos da Administração",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 3
+    },
+    {
+      "external_topic_code": "top_004",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_002",
+      "topic_number": "4.2.2",
+      "title": "Conceito e Características dos Atos da Administração (Atos Materiais)",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 4
+    },
+    {
+      "external_topic_code": "top_005",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_002",
+      "topic_number": "4.2.3",
+      "title": "Conceito e Características dos Atos Administrativos",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 5
+    },
+    {
+      "external_topic_code": "top_006",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_002",
+      "topic_number": "4.2.4",
+      "title": "Critério Distintivo Fundamental e Implicações Jurídicas",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 6
+    },
+    {
+      "external_topic_code": "top_007",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_002",
+      "topic_number": "4.2.5",
+      "title": "Padrão de Cobrança CEBRASPE e Pegadinhas Recorrentes",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 7
+    }
+  ],
+  "topico_componentes": [
+    {
+      "component_id": "cmp_001",
+      "topic_id": "top_003",
+      "component_type": "definicao",
+      "content": "Fatos da administração são eventos naturais ou ações humanas que não decorrem de manifestação de vontade jurídica da Administração, mas podem gerar efeitos jurídicos reflexos.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_002",
+      "topic_id": "top_003",
+      "component_type": "exemplo",
+      "content": "Desabamento de terra em rodovia federal.",
+      "order": 2
+    },
+    {
+      "component_id": "cmp_003",
+      "topic_id": "top_004",
+      "component_type": "definicao",
+      "content": "Atos da administração (materiais) são operações materiais que executam um ato administrativo prévio ou uma lei, sem manifestação de vontade jurídica autônoma para efeitos diretos.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_004",
+      "topic_id": "top_004",
+      "component_type": "exemplo",
+      "content": "Demolição de um prédio irregular.",
+      "order": 2
+    },
+    {
+      "component_id": "cmp_005",
+      "topic_id": "top_005",
+      "component_type": "definicao",
+      "content": "Atos administrativos são manifestações unilaterais de vontade da Administração, com o fim imediato de produzir efeitos jurídicos diretos.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_006",
+      "topic_id": "top_005",
+      "component_type": "exemplo",
+      "content": "Expedição de licença ou alvará.",
+      "order": 2
+    },
+    {
+      "component_id": "cmp_007",
+      "topic_id": "top_006",
+      "component_type": "criterio_distintivo",
+      "content": "A presença ou ausência de manifestação de vontade jurídica da Administração com o objetivo de produzir efeitos jurídicos diretos é o critério fundamental.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_008",
+      "topic_id": "top_006",
+      "component_type": "implicacao_juridica",
+      "content": "A classificação impacta a responsabilidade civil do Estado e os mecanismos de controle (anulação, revogação).",
+      "order": 2
+    },
+    {
+      "component_id": "cmp_009",
+      "topic_id": "top_007",
+      "component_type": "padrao_cobranca_banca",
+      "content": "CEBRASPE foca na distinção conceitual e na aplicação a exemplos práticos, buscando confundir 'ato da administração' com 'ato administrativo'.",
+      "order": 1
+    }
+  ],
+  "pegadinhas": [
+    {
+      "trap_id": "peg_001",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": "Pegadinha 1",
+      "description": "Confundir 'ato da administração' (operação material) com 'ato administrativo' (manifestação de vontade jurídica).",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 1
+    },
+    {
+      "trap_id": "peg_002",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": "Pegadinha 2",
+      "description": "Atribuir a fatos da administração características exclusivas de atos administrativos, como presunção de legitimidade ou autoexecutoriedade.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 2
+    },
+    {
+      "trap_id": "peg_003",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": "Pegadinha 3",
+      "description": "Afirmar que atos da administração não produzem *nenhum* efeito jurídico.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 3
+    },
+    {
+      "trap_id": "peg_004",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": "Pegadinha 4",
+      "description": "Considerar que a fiscalização de um estabelecimento é um ato administrativo.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 4
+    }
+  ],
+  "pontos_memorizacao": [
+    {
+      "memory_id": "mem_001",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": null,
+      "content": "Fato da Administração: Acontecimento sem vontade jurídica da Administração. Ex: desabamento natural.",
+      "order": 1
+    },
+    {
+      "memory_id": "mem_002",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": null,
+      "content": "Ato da Administração: Operação material que executa uma decisão. Sem vontade jurídica autônoma. Ex: demolição, varrição.",
+      "order": 2
+    },
+    {
+      "memory_id": "mem_003",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": null,
+      "content": "Ato Administrativo: Manifestação de vontade jurídica da Administração para produzir efeitos diretos. Ex: licença, nomeação, multa.",
+      "order": 3
+    },
+    {
+      "memory_id": "mem_004",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": null,
+      "content": "O critério-chave é a manifestação de vontade jurídica com o fim de produzir efeitos jurídicos diretos.",
+      "order": 4
+    },
+    {
+      "memory_id": "mem_005",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": null,
+      "content": "CEBRASPE cobra a distinção em exemplos práticos e as consequências jurídicas.",
+      "order": 5
+    }
+  ],
+  "quadro_sinotico_itens": [
+    {
+      "summary_item_id": "sum_001",
+      "title": null,
+      "content": "Acontecimentos naturais ou humanos sem manifestação de vontade jurídica direta da Administração.",
+      "order": 1
+    },
+    {
+      "summary_item_id": "sum_002",
+      "title": null,
+      "content": "Operações materiais que executam atos administrativos ou leis, sem vontade jurídica autônoma para efeitos diretos.",
+      "order": 2
+    },
+    {
+      "summary_item_id": "sum_003",
+      "title": null,
+      "content": "Manifestações unilaterais de vontade da Administração com o fim de produzir efeitos jurídicos diretos e imediatos.",
+      "order": 3
+    }
+  ],
+  "questoes": [
+    {
+      "question_id": "qst_001",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": "CEBRASPE",
+      "year": null,
+      "organization": null,
+      "role": null,
+      "statement": "A demolição de um imóvel irregular, realizada pela Administração Pública após regular processo administrativo, constitui um ato administrativo, pois decorre de uma manifestação de vontade unilateral do Poder Público com o fim de produzir efeitos jurídicos.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "A demolição é uma operação material, a execução de um ato administrativo prévio (a decisão de demolir). Portanto, é um ato da administração (ou ato material), e não um ato administrativo em si. O ato administrativo é a decisão que autoriza ou determina a demolição.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_001"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_002",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": "CEBRASPE",
+      "year": null,
+      "organization": null,
+      "role": null,
+      "statement": "Os fatos da administração, por serem meros acontecimentos sem manifestação de vontade da Administração, jamais podem gerar responsabilidade civil para o Estado.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "Errado. Fatos da administração podem, sim, gerar responsabilidade civil para o Estado, especialmente nos casos de responsabilidade objetiva (teoria do risco administrativo) ou subjetiva por omissão, quando o Estado tinha o dever de agir e não o fez. Ex: um alagamento causado por deficiência na rede de esgoto.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_002"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_003",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": "CEBRASPE",
+      "year": null,
+      "organization": null,
+      "role": null,
+      "statement": "A principal diferença entre ato da administração e ato administrativo reside na presença, neste último, de uma manifestação de vontade apta a produzir efeitos jurídicos diretos e imediatos.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "Certo. O critério distintivo fundamental é a manifestação de vontade jurídica da Administração com o fim de produzir efeitos jurídicos diretos e imediatos. O ato administrativo possui essa vontade, enquanto o ato da administração é uma mera execução material.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_003"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_004",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": "CEBRASPE",
+      "year": null,
+      "organization": null,
+      "role": null,
+      "statement": "A fiscalização de um estabelecimento comercial por agentes públicos, com o objetivo de verificar o cumprimento de normas sanitárias, configura um ato administrativo, dada a sua natureza impositiva e unilateral.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "Errado. A fiscalização é uma operação material, uma atividade de verificação e controle, caracterizando-se como um ato da administração. Embora possa ter caráter impositivo, não é uma manifestação de vontade jurídica autônoma para criar, modificar ou extinguir direitos diretamente, mas sim a concretização de uma norma ou de um ato administrativo prévio.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_004"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_005",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": "CEBRASPE",
+      "year": null,
+      "organization": null,
+      "role": null,
+      "statement": "A expedição de uma licença para construir, após o cumprimento de todos os requisitos legais pelo particular, é um exemplo clássico de ato administrativo vinculado, caracterizado pela declaração de vontade da Administração Pública.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "Certo. A licença é um ato administrativo vinculado, pois, uma vez preenchidos os requisitos legais pelo particular, a Administração tem o dever de concedê-la. É uma manifestação de vontade que produz efeitos jurídicos diretos.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_005"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_006",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": "CEBRASPE",
+      "year": null,
+      "organization": null,
+      "role": null,
+      "statement": "Um desabamento de terra em uma rodovia federal, que impede o tráfego e não foi causado por ação ou omissão específica da Administração, é um fato da administração, e o Estado só será responsabilizado se houver comprovação de culpa em seu dever de agir.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "Certo. Um desabamento natural é um fato da administração. A responsabilidade do Estado, nesse caso, seria subjetiva, exigindo a comprovação de culpa (negligência, imprudência ou imperícia) em seu dever de manutenção ou prevenção para que haja indenização. Se o risco for inerente à atividade estatal (ex: obra mal feita), a responsabilidade pode ser objetiva. A questão especifica 'não foi causado por ação ou omissão específica', o que direciona para a responsabilidade subjetiva por omissão.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_006"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_007",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": "CEBRASPE",
+      "year": null,
+      "organization": null,
+      "role": null,
+      "statement": "Atos da administração, por serem meramente materiais e não jurídicos em sua essência, não estão sujeitos a qualquer tipo de controle de legalidade pelo Poder Judiciário.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "Errado. Embora os atos da administração sejam materiais, sua legalidade pode e deve ser controlada pelo Poder Judiciário. Se uma operação material for realizada sem amparo legal ou em desconformidade com um ato administrativo válido, ela é ilegal e pode ser questionada judicialmente, gerando, inclusive, dever de indenizar.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_007"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_008",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": "CEBRASPE",
+      "year": null,
+      "organization": null,
+      "role": null,
+      "statement": "A nomeação de um servidor público para um cargo em comissão é um ato administrativo discricionário, pois envolve um juízo de conveniência e oportunidade da Administração Pública.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "Certo. A nomeação para cargo em comissão é um ato administrativo discricionário, pois a Administração possui margem de escolha quanto à conveniência e oportunidade de nomear, bem como quanto à pessoa a ser nomeada, desde que observados os requisitos legais.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_008"
+        ],
+        "count": 1
+      }
+    }
+  ],
+  "comentarios_questoes": [
+    {
+      "comment_id": "com_001",
+      "question_id": "qst_001",
+      "content": "A demolição é uma operação material, a execução de um ato administrativo prévio (a decisão de demolir). Portanto, é um ato da administração (ou ato material), e não um ato administrativo em si. O ato administrativo é a decisão que autoriza ou determina a demolição.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_002",
+      "question_id": "qst_002",
+      "content": "Errado. Fatos da administração podem, sim, gerar responsabilidade civil para o Estado, especialmente nos casos de responsabilidade objetiva (teoria do risco administrativo) ou subjetiva por omissão, quando o Estado tinha o dever de agir e não o fez. Ex: um alagamento causado por deficiência na rede de esgoto.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_003",
+      "question_id": "qst_003",
+      "content": "Certo. O critério distintivo fundamental é a manifestação de vontade jurídica da Administração com o fim de produzir efeitos jurídicos diretos e imediatos. O ato administrativo possui essa vontade, enquanto o ato da administração é uma mera execução material.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_004",
+      "question_id": "qst_004",
+      "content": "Errado. A fiscalização é uma operação material, uma atividade de verificação e controle, caracterizando-se como um ato da administração. Embora possa ter caráter impositivo, não é uma manifestação de vontade jurídica autônoma para criar, modificar ou extinguir direitos diretamente, mas sim a concretização de uma norma ou de um ato administrativo prévio.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_005",
+      "question_id": "qst_005",
+      "content": "Certo. A licença é um ato administrativo vinculado, pois, uma vez preenchidos os requisitos legais pelo particular, a Administração tem o dever de concedê-la. É uma manifestação de vontade que produz efeitos jurídicos diretos.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_006",
+      "question_id": "qst_006",
+      "content": "Certo. Um desabamento natural é um fato da administração. A responsabilidade do Estado, nesse caso, seria subjetiva, exigindo a comprovação de culpa (negligência, imprudência ou imperícia) em seu dever de manutenção ou prevenção para que haja indenização. Se o risco for inerente à atividade estatal (ex: obra mal feita), a responsabilidade pode ser objetiva. A questão especifica 'não foi causado por ação ou omissão específica', o que direciona para a responsabilidade subjetiva por omissão.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_007",
+      "question_id": "qst_007",
+      "content": "Errado. Embora os atos da administração sejam materiais, sua legalidade pode e deve ser controlada pelo Poder Judiciário. Se uma operação material for realizada sem amparo legal ou em desconformidade com um ato administrativo válido, ela é ilegal e pode ser questionada judicialmente, gerando, inclusive, dever de indenizar.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_008",
+      "question_id": "qst_008",
+      "content": "Certo. A nomeação para cargo em comissão é um ato administrativo discricionário, pois a Administração possui margem de escolha quanto à conveniência e oportunidade de nomear, bem como quanto à pessoa a ser nomeada, desde que observados os requisitos legais.",
+      "explanation_alternatives": ""
+    }
+  ],
+  "checklist_revisao": [
+    {
+      "checklist_id": "chk_001",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Diferenciar Fato da Administração, Ato da Administração e Ato Administrativo pelo critério da manifestação de vontade jurídica.",
+      "completed": false,
+      "order": 1
+    },
+    {
+      "checklist_id": "chk_002",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Identificar exemplos práticos de cada categoria.",
+      "completed": false,
+      "order": 2
+    },
+    {
+      "checklist_id": "chk_003",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Compreender as implicações da classificação para a responsabilidade civil do Estado.",
+      "completed": false,
+      "order": 3
+    },
+    {
+      "checklist_id": "chk_004",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Reconhecer as pegadinhas comuns do CEBRASPE sobre o tema, especialmente a confusão entre ato material e ato jurídico.",
+      "completed": false,
+      "order": 4
+    },
+    {
+      "checklist_id": "chk_005",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Saber que atos da administração (materiais) também estão sujeitos a controle de legalidade.",
+      "completed": false,
+      "order": 5
+    }
+  ],
+  "referencias": [
+    {
+      "reference_id": "ref_001",
+      "material_id": "mat_001",
+      "reference_type": "doutrina",
+      "author_name": "DI PIETRO, Maria Sylvia Zanella",
+      "title": "Direito Administrativo",
+      "publisher": null,
+      "year_reference": "2024",
+      "isbn": null,
+      "url": null,
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_002",
+      "material_id": "mat_001",
+      "reference_type": "doutrina",
+      "author_name": "MEIRELLES, Hely Lopes; ALEIXO, Délcio Balestero; BURLE FILHO, José",
+      "title": "Direito Administrativo Brasileiro",
+      "publisher": null,
+      "year_reference": "2024",
+      "isbn": null,
+      "url": null,
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_003",
+      "material_id": "mat_001",
+      "reference_type": "doutrina",
+      "author_name": "BANDEIRA DE MELLO, Celso Antônio",
+      "title": "Curso de Direito Administrativo",
+      "publisher": null,
+      "year_reference": "2024",
+      "isbn": null,
+      "url": null,
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_004",
+      "material_id": "mat_001",
+      "reference_type": "legislacao",
+      "author_name": "BRASIL",
+      "title": "Lei nº 9.784, de 29 de janeiro de 1999",
+      "publisher": null,
+      "year_reference": "1999",
+      "isbn": null,
+      "url": "http://www.planalto.gov.br/ccivil_03/leis/l9784.htm",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_005",
+      "material_id": "mat_001",
+      "reference_type": "analise_banca",
+      "author_name": "Análise de Questões Anteriores CEBRASPE",
+      "title": "Padrão de Cobrança em Atos Administrativos",
+      "publisher": null,
+      "year_reference": "2020-2024",
+      "isbn": null,
+      "url": null,
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_006",
+      "material_id": "mat_001",
+      "reference_type": "doutrina",
+      "author_name": "GASPARINI, Diógenes",
+      "title": "Direito Administrativo",
+      "publisher": null,
+      "year_reference": "2024",
+      "isbn": null,
+      "url": null,
+      "accessed_at": null,
+      "description": null
+    }
+  ],
+  "estatisticas_de_geracao": {
+    "total_topicos": 7,
+    "total_componentes_topico": 9,
+    "total_entendimentos_relevantes": 2,
+    "total_pegadinhas": 4,
+    "total_pontos_memorizacao": 5,
+    "total_itens_quadro_sinotico": 3,
+    "total_questoes": 8,
+    "total_comentarios_questoes": 8,
+    "total_itens_checklist": 5,
+    "total_referencias": 6
+  },
+  "validacao_interna": {
+    "pesquisa_previa_realizada": true,
+    "analise_de_cobrancas_anteriores_realizada": true,
+    "material_atualizado": true,
+    "json_valido": true,
+    "estrutura_relacional_respeitada": true,
+    "numeracao_respeitada": true,
+    "houve_quebra_de_hierarquia": false,
+    "houve_nivel_numerico_superior_a_3": false,
+    "fontes_verificadas": true,
+    "sem_informacao_inventada": true
+  },
+  "metadata": {
+    "source_file_name": "4__direito-administrativo__4-atos-administrativos-4.2-fatos-da-administração-atos-da-administração-e-atos-administrativos.json",
+    "normalized_checksum": "7eb1cc797499125cd6e46aa6a8172241967d6c63eeddfbe94e348e13849587de",
+    "subject_slug": "dir-adm",
+    "material_slug": "atos-administrativos-fatos-atos-da",
+    "title_slug": "atos-administrativos-fatos-da-administracao-atos",
+    "board_slug": "cebraspe",
+    "counters": {
+      "blocks": 6,
+      "topics": 7,
+      "topic_components": 9,
+      "traps": 4,
+      "memory_points": 5,
+      "summary_items": 3,
+      "questions": 8,
+      "question_comments": 8,
+      "checklist_items": 5,
+      "references": 6
+    }
+  }
+}

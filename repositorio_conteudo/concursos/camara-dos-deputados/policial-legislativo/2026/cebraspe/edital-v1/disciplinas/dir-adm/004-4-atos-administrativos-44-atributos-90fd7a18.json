@@ -1,0 +1,1012 @@
+{
+  "schema_version": "1.0",
+  "normalized_at": "2026-04-07T15:39:14.268092-03:00",
+  "normalizer_version": "2.0.0",
+  "exported_at": "2026-04-07T17:37:00Z",
+  "source_request": {
+    "purpose": "Concurso público",
+    "general_area": "Direito",
+    "subject_name": "Direito Administrativo",
+    "subarea_name": "Direito Administrativo",
+    "main_theme": "4 Atos administrativos: 4.4 Atributos",
+    "theme_scope": "Teoria completa, incidência em prova, padrão de cobrança da banca, pegadinhas e questões comentadas",
+    "board_style": "CEBRASPE",
+    "depth_level": "Exaustivo",
+    "goal": "Teoria completa, revisão estratégica, pegadinhas e questões comentadas",
+    "base_topic_number": "4",
+    "topic_title": "4 Atos administrativos: 4.4 Atributos",
+    "syllabus_reference": "Conteúdo programático da disciplina Direito Administrativo",
+    "priority_sources": [
+      "Constituição Federal e legislação oficial vigente",
+      "Jurisprudência pertinente e atual, quando cabível",
+      "Doutrina consolidada",
+      "Questões anteriores da banca"
+    ],
+    "minimum_questions": 8,
+    "question_format": "Certo/Errado",
+    "prioritize_real_questions": true,
+    "response_language": "português",
+    "target_audience": "Candidato de concurso público",
+    "additional_notes": "Executar exatamente para esta linha individual do topicos.txt. Não juntar com outros tópicos. Não pular este tópico. Dar destaque ao padrão de cobrança da banca, aos pontos mais cobrados e às pegadinhas recorrentes.",
+    "input_hash": "3c6d4bc7e9fa",
+    "extras": {}
+  },
+  "material": {
+    "material_id": "mat_001",
+    "slug": "atos-administrativos-atributos-cebraspe",
+    "title": "Atos Administrativos: Atributos (CEBRASPE)",
+    "base_number": "4",
+    "topic_title": "4 Atos administrativos: 4.4 Atributos",
+    "purpose": "Concurso público",
+    "area_name": "Direito",
+    "subject_name": "Direito Administrativo",
+    "subarea_name": "Direito Administrativo",
+    "main_theme": "4 Atos administrativos: 4.4 Atributos",
+    "theme_scope": "Teoria completa, incidência em prova, padrão de cobrança da banca, pegadinhas e questões comentadas",
+    "board_style": "CEBRASPE",
+    "depth_level": "Exaustivo",
+    "study_goal": "Teoria completa, revisão estratégica, pegadinhas e questões comentadas",
+    "target_audience": "Candidato de concurso público",
+    "language_code": "português",
+    "update_status": "Atualizado",
+    "current_note": "Material atualizado com base na doutrina consolidada e jurisprudência recente, além de análise de questões CEBRASPE até 2025.",
+    "has_case_law": true,
+    "case_law_justification": "A jurisprudência é relevante para o tema, especialmente no que tange ao controle judicial dos atos administrativos e à relativização da presunção de legitimidade.",
+    "has_information_limitation": false,
+    "information_limitation_desc": null,
+    "content_checksum": "placeholder_checksum",
+    "extras": {}
+  },
+  "blocos_textuais": [
+    {
+      "external_block_code": "blc_001",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 1,
+      "title": "Introdução aos Atributos do Ato Administrativo",
+      "content": "Os atributos do ato administrativo são qualidades intrínsecas que os distinguem dos atos jurídicos de direito privado, conferindo-lhes prerrogativas e sujeições peculiares do regime jurídico-administrativo. Tais características decorrem da supremacia do interesse público sobre o privado e da posição de superioridade da Administração Pública. Embora a doutrina divirja quanto à quantidade exata de atributos, a maioria aponta quatro principais, frequentemente memorizados pelo mnemônico PATI: Presunção de Legitimidade e Veracidade, Autoexecutoriedade, Tipicidade e Imperatividade.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_002",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 2,
+      "title": "Presunção de Legitimidade e Veracidade",
+      "content": "A presunção de legitimidade (ou legalidade) é o atributo pelo qual os atos administrativos são considerados conformes à lei e ao Direito, até prova em contrário. A presunção de veracidade, por sua vez, implica que os fatos alegados pela Administração Pública para a prática do ato são tidos como verdadeiros. Embora alguns doutrinadores as distingam, é comum que sejam tratadas como um atributo único, sendo a presunção de veracidade uma decorrência lógica da presunção de legitimidade. Este é o único atributo presente em *todos* os atos administrativos, sem exceção. É uma presunção *relativa* (iuris tantum), o que significa que admite prova em contrário, cabendo o ônus da prova ao particular que a contesta. Mesmo atos inválidos produzem efeitos até que sua nulidade seja reconhecida pela própria Administração (autotutela) ou pelo Poder Judiciário.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_003",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 3,
+      "title": "Autoexecutoriedade",
+      "content": "A autoexecutoriedade é a prerrogativa que permite à Administração Pública executar diretamente seus próprios atos e decisões, sem a necessidade de prévia intervenção ou autorização do Poder Judiciário. Este atributo confere agilidade à atuação estatal, especialmente em situações que demandam pronta resposta para a proteção do interesse público. Contudo, a autoexecutoriedade *não está presente em todos os atos administrativos*. Sua aplicação exige previsão legal expressa ou que a situação configure urgência inadiável. Exemplos clássicos de atos que *não* possuem autoexecutoriedade são a desapropriação (que exige ação judicial para a transferência da propriedade) e a cobrança de dívida ativa (que demanda execução fiscal).",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_004",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 4,
+      "title": "Tipicidade",
+      "content": "A tipicidade é o atributo pelo qual o ato administrativo deve corresponder a uma figura previamente definida em lei como apta a produzir determinados resultados. Este atributo decorre diretamente do princípio da legalidade, que impõe à Administração Pública atuar somente nos termos e limites estabelecidos pela lei. A tipicidade funciona como uma garantia para o administrado, impedindo que a Administração pratique atos totalmente inominados ou arbitrários, sem qualquer respaldo legal. Assim como a presunção de legitimidade, a tipicidade é um atributo que se faz presente em *todos* os atos administrativos.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_005",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 5,
+      "title": "Imperatividade",
+      "content": "A imperatividade é o atributo que confere ao ato administrativo o poder de impor unilateralmente seus efeitos a terceiros, independentemente da concordância ou anuência dos administrados. Este atributo é uma manifestação direta do poder de império do Estado e da supremacia do interesse público sobre o privado. Assim como a autoexecutoriedade, a imperatividade *não está presente em todos os atos administrativos*. Atos meramente enunciativos (como certidões, atestados, pareceres) ou atos negociais (como licenças e autorizações, quando solicitados pelo particular) geralmente não possuem imperatividade, pois não impõem obrigações de forma unilateral.",
+      "content_type": "teoria"
+    }
+  ],
+  "topicos": [
+    {
+      "external_topic_code": "top_001",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "4.4",
+      "title": "Atributos dos Atos Administrativos",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 1
+    },
+    {
+      "external_topic_code": "top_002",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "4.4.1",
+      "title": "Presunção de Legitimidade e Veracidade",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 2
+    },
+    {
+      "external_topic_code": "top_003",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "4.4.2",
+      "title": "Autoexecutoriedade",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 3
+    },
+    {
+      "external_topic_code": "top_004",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "4.4.3",
+      "title": "Tipicidade",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 4
+    },
+    {
+      "external_topic_code": "top_005",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "4.4.4",
+      "title": "Imperatividade",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 5
+    }
+  ],
+  "topico_componentes": [
+    {
+      "component_id": "cmp_001",
+      "topic_id": "top_002",
+      "component_type": "conceito",
+      "content": "A presunção de legitimidade e veracidade é a qualidade pela qual os atos administrativos são considerados válidos e os fatos que os motivaram, verdadeiros, até prova em contrário.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_002",
+      "topic_id": "top_002",
+      "component_type": "caracteristica",
+      "content": "É uma presunção *relativa* (iuris tantum), admitindo contestação e inversão do ônus da prova para o particular.",
+      "order": 2
+    },
+    {
+      "component_id": "cmp_003",
+      "topic_id": "top_002",
+      "component_type": "incidencia",
+      "content": "Presente em *todos* os atos administrativos.",
+      "order": 3
+    },
+    {
+      "component_id": "cmp_004",
+      "topic_id": "top_003",
+      "component_type": "conceito",
+      "content": "A autoexecutoriedade é a prerrogativa de a Administração Pública executar suas decisões diretamente, sem necessidade de prévia autorização judicial.",
+      "order": 4
+    },
+    {
+      "component_id": "cmp_005",
+      "topic_id": "top_003",
+      "component_type": "caracteristica",
+      "content": "Não está presente em todos os atos administrativos, exigindo previsão legal ou urgência.",
+      "order": 5
+    },
+    {
+      "component_id": "cmp_006",
+      "topic_id": "top_003",
+      "component_type": "excecao",
+      "content": "Não se aplica à desapropriação e à cobrança de dívida ativa, que demandam processo judicial.",
+      "order": 6
+    },
+    {
+      "component_id": "cmp_007",
+      "topic_id": "top_004",
+      "component_type": "conceito",
+      "content": "A tipicidade exige que o ato administrativo corresponda a uma figura legalmente prevista, com resultados definidos.",
+      "order": 7
+    },
+    {
+      "component_id": "cmp_008",
+      "topic_id": "top_004",
+      "component_type": "fundamento",
+      "content": "Deriva do princípio da legalidade, coibindo atos arbitrários e inominados.",
+      "order": 8
+    },
+    {
+      "component_id": "cmp_009",
+      "topic_id": "top_004",
+      "component_type": "incidencia",
+      "content": "Presente em *todos* os atos administrativos.",
+      "order": 9
+    },
+    {
+      "component_id": "cmp_010",
+      "topic_id": "top_005",
+      "component_type": "conceito",
+      "content": "A imperatividade é o poder de o ato administrativo impor seus efeitos a terceiros, independentemente de sua concordância.",
+      "order": 10
+    },
+    {
+      "component_id": "cmp_011",
+      "topic_id": "top_005",
+      "component_type": "fundamento",
+      "content": "Manifestação do poder de império do Estado e da supremacia do interesse público.",
+      "order": 11
+    },
+    {
+      "component_id": "cmp_012",
+      "topic_id": "top_005",
+      "component_type": "excecao",
+      "content": "Não está presente em atos meramente enunciativos (certidões, pareceres) ou negociais (licenças, autorizações).",
+      "order": 12
+    }
+  ],
+  "pegadinhas": [
+    {
+      "trap_id": "peg_001",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": "Pegadinha 1",
+      "description": "Afirmar que a presunção de legitimidade e veracidade é *absoluta*. Ela é *relativa* (iuris tantum), admitindo prova em contrário.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 1
+    },
+    {
+      "trap_id": "peg_002",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": "Pegadinha 2",
+      "description": "Confundir autoexecutoriedade com imperatividade, ou afirmar que a autoexecutoriedade está presente em *todos* os atos administrativos.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 2
+    },
+    {
+      "trap_id": "peg_003",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": "Pegadinha 3",
+      "description": "Afirmar que a imperatividade está presente em *todos* os atos administrativos, ignorando as exceções dos atos enunciativos e negociais.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 3
+    },
+    {
+      "trap_id": "peg_004",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": "Pegadinha 4",
+      "description": "Interpretar a tipicidade como mera 'denominação' do ato, e não como a exigência de correspondência a uma figura legalmente definida para produzir resultados específicos.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 4
+    }
+  ],
+  "pontos_memorizacao": [
+    {
+      "memory_id": "mem_001",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": null,
+      "content": "Mnemônico PATI: Presunção de Legitimidade e Veracidade, Autoexecutoriedade, Tipicidade, Imperatividade.",
+      "order": 1
+    },
+    {
+      "memory_id": "mem_002",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": null,
+      "content": "Presunção de Legitimidade e Veracidade: *sempre* presente, *relativa* (iuris tantum), inverte o ônus da prova.",
+      "order": 2
+    },
+    {
+      "memory_id": "mem_003",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": null,
+      "content": "Autoexecutoriedade: *nem sempre* presente, exige lei ou urgência, permite execução direta sem Judiciário.",
+      "order": 3
+    },
+    {
+      "memory_id": "mem_004",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": null,
+      "content": "Tipicidade: *sempre* presente, decorre da legalidade, impede atos inominados.",
+      "order": 4
+    },
+    {
+      "memory_id": "mem_005",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": null,
+      "content": "Imperatividade: *nem sempre* presente, impõe unilateralmente, não se confunde com autoexecutoriedade.",
+      "order": 5
+    }
+  ],
+  "quadro_sinotico_itens": [
+    {
+      "summary_item_id": "sum_001",
+      "title": null,
+      "content": "",
+      "order": 1
+    },
+    {
+      "summary_item_id": "sum_002",
+      "title": null,
+      "content": "",
+      "order": 2
+    },
+    {
+      "summary_item_id": "sum_003",
+      "title": null,
+      "content": "",
+      "order": 3
+    },
+    {
+      "summary_item_id": "sum_004",
+      "title": null,
+      "content": "",
+      "order": 4
+    },
+    {
+      "summary_item_id": "sum_005",
+      "title": null,
+      "content": "",
+      "order": 5
+    }
+  ],
+  "questoes": [
+    {
+      "question_id": "qst_001",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": "CESPE/CEBRASPE",
+      "year": 2025,
+      "organization": "TRF 6",
+      "role": "Técnico Judiciário - Área Apoio Especializado - Especialidade: Contabilidade",
+      "statement": "A imperatividade é uma das características do ato administrativo em decorrência do poder da administração pública de executar diretamente os próprios atos.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": null,
+      "commentary_meta": {}
+    },
+    {
+      "question_id": "qst_002",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": "CESPE/CEBRASPE",
+      "year": 2018,
+      "organization": "IPHAN",
+      "role": "Auxiliar Institucional - Área 1",
+      "statement": "A imperatividade do ato administrativo prevê que a administração pública, para executar suas decisões, não necessita submeter sua pretensão ao Poder Judiciário.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": null,
+      "commentary_meta": {}
+    },
+    {
+      "question_id": "qst_003",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": "CESPE/CEBRASPE",
+      "year": 2024,
+      "organization": "CAPES",
+      "role": "Analista em Ciência e Tecnologia",
+      "statement": "Em razão da tipicidade, a administração pública é impedida de praticar um ato unilateral e coercitivo sem previsão legal.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": null,
+      "commentary_meta": {}
+    },
+    {
+      "question_id": "qst_004",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": "CESPE/CEBRASPE",
+      "year": 2022,
+      "organization": "FUB",
+      "role": "Administrador",
+      "statement": "A autoexecutoriedade revela-se na prerrogativa de a administração pública executar de imediato seus próprios atos, sem necessidade de ordem judicial.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": null,
+      "commentary_meta": {}
+    },
+    {
+      "question_id": "qst_005",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": "CESPE/CEBRASPE",
+      "year": 2017,
+      "organization": "STM",
+      "role": "Analista Judiciário - Área Administrativa",
+      "statement": "A imperatividade é o atributo pelo qual o ato administrativo é presumido verídico até que haja prova contrária à sua veracidade.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": null,
+      "commentary_meta": {}
+    },
+    {
+      "question_id": "qst_006",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": "CESPE/CEBRASPE",
+      "year": 2015,
+      "organization": "TRE GO",
+      "role": "Analista Judiciário - Área Judiciária",
+      "statement": "A presunção de legitimidade e veracidade dos atos administrativos é absoluta.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": null,
+      "commentary_meta": {}
+    },
+    {
+      "question_id": "qst_007",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": "CESPE/CEBRASPE",
+      "year": 2021,
+      "organization": "SEFAZ-CE",
+      "role": "Auditor Fiscal Jurídico da Receita Estadual",
+      "statement": "A autoexecutoriedade é atributo pelo qual o ato administrativo pode ser posto em execução pela própria administração pública. Apesar de a autoexecutoriedade ser uma das características que distingue o ato administrativo do ato de direito privado, sua utilização deve ser feita com parcimônia para que a administração não lese inapropriadamente direito dos particulares.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": null,
+      "commentary_meta": {}
+    },
+    {
+      "question_id": "qst_008",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": "CESPE/CEBRASPE",
+      "year": 2024,
+      "organization": "CAPES",
+      "role": "Analista em Ciência e Tecnologia - Especialidade: Biblioteconomia",
+      "statement": "Entre os atributos dos atos administrativos está o da autoexecutoriedade, que consiste na obrigação de a administração pública utilizar-se da supremacia do interesse público sobre o privado para criar, unilateralmente, obrigações para si e para o particular, sem necessitar da anuência deste.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": null,
+      "commentary_meta": {}
+    }
+  ],
+  "comentarios_questoes": [
+    {
+      "comment_id": "com_001",
+      "question_id": null,
+      "content": "O item está ERRADO. A imperatividade é o poder de impor o ato a terceiros, independentemente de sua concordância. A prerrogativa de executar diretamente os próprios atos, sem intervenção judicial, é a autoexecutoriedade. A questão confunde os dois atributos.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_002",
+      "question_id": null,
+      "content": "O item está ERRADO. A capacidade de a Administração executar suas decisões sem prévia submissão ao Poder Judiciário é a autoexecutoriedade. A imperatividade refere-se à imposição unilateral do ato. A questão atribui à imperatividade uma característica da autoexecutoriedade.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_003",
+      "question_id": null,
+      "content": "O item está CERTO. A tipicidade exige que o ato administrativo corresponda a uma figura legalmente prevista, impedindo a prática de atos unilaterais e coercitivos sem respaldo na lei, o que garante segurança jurídica ao administrado.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_004",
+      "question_id": null,
+      "content": "O item está CERTO. A autoexecutoriedade é, de fato, a prerrogativa que permite à Administração Pública executar seus atos e decisões de forma imediata, sem a necessidade de prévia autorização judicial, ressalvadas as exceções legais.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_005",
+      "question_id": null,
+      "content": "O item está ERRADO. A imperatividade é o atributo que confere ao ato administrativo o poder de impor seus efeitos a terceiros. A presunção de veracidade (e legitimidade) é que presume o ato verídico e conforme a lei até prova em contrário. A questão confunde os conceitos.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_006",
+      "question_id": null,
+      "content": "O item está ERRADO. A presunção de legitimidade e veracidade dos atos administrativos é *relativa* (iuris tantum), e não absoluta. Isso significa que ela admite prova em contrário, podendo ser afastada mediante contestação do particular ou controle judicial/administrativo.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_007",
+      "question_id": null,
+      "content": "O item está CERTO. A autoexecutoriedade permite a execução direta pela Administração, mas a doutrina e a prática recomendam parcimônia em seu uso para evitar lesões indevidas aos direitos dos particulares, reforçando a necessidade de observância dos princípios da razoabilidade e proporcionalidade.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_008",
+      "question_id": null,
+      "content": "O item está ERRADO. A descrição fornecida na questão refere-se mais à imperatividade (criação unilateral de obrigações) do que à autoexecutoriedade (execução direta sem Judiciário). Embora ambos decorram da supremacia do interesse público, são atributos distintos.",
+      "explanation_alternatives": ""
+    }
+  ],
+  "checklist_revisao": [
+    {
+      "checklist_id": "chk_001",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Compreendeu o conceito geral de atributos e sua importância no Direito Administrativo?",
+      "completed": false,
+      "order": 1
+    },
+    {
+      "checklist_id": "chk_002",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Memorizou que a Presunção de Legitimidade e Veracidade é universal e relativa?",
+      "completed": false,
+      "order": 2
+    },
+    {
+      "checklist_id": "chk_003",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Identificou as exceções à Autoexecutoriedade e quando ela pode ser aplicada?",
+      "completed": false,
+      "order": 3
+    },
+    {
+      "checklist_id": "chk_004",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Entendeu que a Tipicidade é universal e garante a legalidade dos atos?",
+      "completed": false,
+      "order": 4
+    },
+    {
+      "checklist_id": "chk_005",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Diferenciou Imperatividade de Autoexecutoriedade e suas exceções?",
+      "completed": false,
+      "order": 5
+    },
+    {
+      "checklist_id": "chk_006",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Revisou as pegadinhas mais comuns da banca CEBRASPE sobre os atributos?",
+      "completed": false,
+      "order": 6
+    },
+    {
+      "checklist_id": "chk_007",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Analisou os comentários das questões para entender o raciocínio da banca?",
+      "completed": false,
+      "order": 7
+    }
+  ],
+  "referencias": [
+    {
+      "reference_id": "ref_001",
+      "material_id": "mat_001",
+      "reference_type": "Doutrina",
+      "author_name": "Enciclopédia Jurídica da PUCSP",
+      "title": "Atributos do ato administrativo",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEynkXfY55ahZS3aScgTX4CLUotizY-ZYBHXfPCab_-taDEnP_EYoiUthx1zwcVDznGmC7Hd4NzI6UGhFQpm1TZDjVxMWYuhWhTeWOKQVvmNnPL9zmqLtefmiDNVMYjdDcWAxCXXYmKYQnO0juJfJpmcIi0AXllx3zT7K3HFGoK8-P8vcmbxOKBzexIleoCJoquz364",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_002",
+      "material_id": "mat_001",
+      "reference_type": "Doutrina",
+      "author_name": "Trilhante",
+      "title": "Atributos do Ato Administrativo",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGMBrZEBM67r4dt5b5HDR6VKfbvI0kQMOOfML2ctH4mnI2idx0V59k_ohra5R7vn6K4T37SPyYlR1vRTbo3QWkCVrvwjh84LLqVz8g93EL4rs9ea936eMaebAJfyyIdD8IvdU6vEcfctS3aJtkfGQYXrlaFkp62nVxSCoFf6XesdillbNB-kMqkvLnDm9PteFjaq4Ub0WtY",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_003",
+      "material_id": "mat_001",
+      "reference_type": "Doutrina",
+      "author_name": "Conteúdo Jurídico",
+      "title": "Apontamentos sobre os atributos dos atos administrativos",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGBhoQ6IWCoNhT7oV_fvUQkqvJYTPXbWMW-pH_xXdGE2PCE4vY2b3zrJuUheiOggBQa3BtGBLNbm-gnGOLiWhYIoRWNpoMyCYWkdzXSSlci_oS9Hseg7DpwkUwHJkN0lntGT6HcUtDaTUjlj4Hd7SDYv-o6RfBAjsh8K_ooC9PwZc_RPyc4DMgdJNX0RYUKYE8XtsNYOSUK2fy19Lg0xfA3EWa1GRTbC0FMWQ==",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_004",
+      "material_id": "mat_001",
+      "reference_type": "Doutrina",
+      "author_name": "Scribd",
+      "title": "Atributos dos Atos Administrativos",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHkYAWbYyc7VeloQDYZkpO0Q8ZlUHmHMNmERE8tiTPYw3_oYcJ80A1B12Okq7gtvsw231bQoaDeFVrJDvK3YJbW3CNS0mQATaQbV75lNvBWNvoXufRaINq134nbc9gK16B1cNWHgktLiEKCrme5nAAkKDxcQ8rgNiIkJdZu",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_005",
+      "material_id": "mat_001",
+      "reference_type": "Doutrina",
+      "author_name": "Estratégia Concursos",
+      "title": "Resumo sobre os atributos dos atos administrativos",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE9PhgoiJERL-cqSjF9w-KkfrtVp0sBUsBQhLLcQJVrsYk2g5bsQoJkzIpCCyOnEtIUCmixe1xKc7GjKOpUoTwD4RDr5O0oT0PvIetDrJNmdLLCLkCu3ox2CY6aOVFZU3gc2ryzlNyezLzw2yMi5Lgaezly4Rnm8rwfHMgpGMrC-ke2CQtaWldlnA==",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_006",
+      "material_id": "mat_001",
+      "reference_type": "Doutrina",
+      "author_name": "EMERJ",
+      "title": "Atributos do Ato Administrativo",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGOje1EKO5eOScsmwGOMRuP9xwCahu062O9CQkYy-tHM0I1LRbcTJU7A4Yf6NhR4NOK1stQf_MWASqZx-as-hIgmPus_bhZEXiyFbZi0u-fVc0s42y1K9w8lGZoBjKxaSWO1L21kWvJzcRm7qsUiS5bicrFil3y64OyFODbrsrWCskbx2IvfTJioViYFkMA27AjPI8BPcbymUTlNxipVpAEAHzpcoHwhy_R9si8FDVF",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_007",
+      "material_id": "mat_001",
+      "reference_type": "Doutrina",
+      "author_name": "Estratégia Concursos",
+      "title": "Atos administrativos: requisitos e atributos para a Receita Federal",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEE7DOANIMAKrQQb6vI6zdDpj7f8P91gTC1fzBvkeiBRsp7eGWtaDJ3DrMZLmUimkAEOcC4WJhvzOVxpy3ogsZqMRpTrJPqnzZA7I-JLfuNEXt5Vlpz4AAbIpyir3zEK4NFH-OhSkVKOiP-0yUxVVt_Kp61inOuFbz9Cg1TXjjKQMWZuVN_jOv3vA==",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_008",
+      "material_id": "mat_001",
+      "reference_type": "Doutrina",
+      "author_name": "Sigma Cursos Preparatórios",
+      "title": "Direito Administrativo – Atributos do ato administrativo",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHVhnX9KWuK3PU5TwMZikQM_ZbzrIGToUQ_OsllIEWdLQ6iJcKD_OoGkJ2pEBKr8DXyZGTBsmZLp6ncJJitI_xWMBi7gtkytZ5V9YkYaz6gqNEwaIprtP-aMET_k4La5L-2ng7FRjPFHTcofLIFkIoNQDZ4PVffHOyrK9wRHZBYpd-rtdHRn_2AsU4iu3kKIc87XLhKfekfihFl",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_009",
+      "material_id": "mat_001",
+      "reference_type": "Legislação",
+      "author_name": "Planalto",
+      "title": "LEI Nº 9.784, DE 29 DE JANEIRO DE 1999",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHbsTjdd3fvkIrvhzN556f6nGLwOdVio8x8w8CLyi-iFGuwTKZKuEZC3Xqpyz89ui5QzgicTUaT_e7cce2j3rtJgv8bu-7lPOPoR1vOVOY_zN8nd7ioD2YeOky0AhyS8XBh2N_EYp4USv-CTAoIyok=",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_010",
+      "material_id": "mat_001",
+      "reference_type": "Jurisprudência",
+      "author_name": "Magalhães & Gomes Advogados",
+      "title": "Legalidade, discricionariedade, proporcionalidade: o controle judicial dos atos administrativos na visão do STJ",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFF6KX2kfoNp1oEosUw5rrYkkN4hUULLMNzXfqkF9VW1zDfj8STCEYPCfmpgN3Rvlj_McMjvbYfenAx8PpsKD4geBeTDsUVmGmw6qKnl2WYEtb-9jCEGRok_JGjUYNhLESo4gqNxHsVP1rUbkZihnOKWoCZdpBknfVspkWrasI0TgfCs-Rj_jr_vqFkbRuL-5wwds7y-F8YOjeC7OF_sFoOQN4rLwsFw57A1lTQTH_KVfqLeKi7QsCDZsFkhDj924vI1BzZHvT_2Vgp",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_011",
+      "material_id": "mat_001",
+      "reference_type": "Questões CEBRASPE",
+      "author_name": "Tec Concursos",
+      "title": "Questão 3259119 CEBRASPE (CESPE) - Técnico Judiciário (TRF 6ª Região)",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGQGBk0rMCbvFjJ7Y9RkUyw3dTCrEMu0mErtfZThZSaDFOWXJW46ICT4K9NIz29tF7WIWcfzODwsFU0kWiMqEQoc7gnVduIBkeNH9fGvE6UW-9NGtoMlxgXpDVjCBkQNoyynUM7vsm9dT7AOA==",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_012",
+      "material_id": "mat_001",
+      "reference_type": "Questões CEBRASPE",
+      "author_name": "Qconcursos",
+      "title": "Questão Acerca dos atos administrativos, julgue o próximo item.A imperatividade do ato administrativo prevê que a adm...",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGJT_Q2UF9EPnzp55-BkxXzyp__z8xKMaHgL96f3adBpy-u8KUi2RYrSxBEDNzvdJo--U22Fgj3aoX6hqf3I2gT8XaK6srI93aMe-xGGqhce2vywMg1TNgFC8qTFT0RCi2Et4ESUdS2Y6DWrLnZjuJv3iqhp2JqKTy-ZRKj3wdq-OKJOb0NU3dgUBqA",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_013",
+      "material_id": "mat_001",
+      "reference_type": "Questões CEBRASPE",
+      "author_name": "Qconcursos",
+      "title": "Questão Julgue o item a seguir, relativo a atos administrativos.Em razão da tipicidade, a administração pública é imp...",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHQ5zulg9Vi8_6hlvlkBffhZAuElry_sAhOTYq_mRdJWwoQ4L76Og5iGhRghZcQnm24xjvNqvvblEEVHD7dGbAY0HSPiC6dncReJ_6vzdb-dzNDjXT1TvN4dl9aYssp0RztEDb7DwiUGLHl7VYeQ6XWEzA_KPfRkr3WuBBTafO0XRK46wuYhGYYloF1tg==",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_014",
+      "material_id": "mat_001",
+      "reference_type": "Questões CEBRASPE",
+      "author_name": "Gran Questões",
+      "title": "A autoexecutoriedade revela-se na prerrogativa de a admin...",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHTPJ4_KMVKlDWQIGjv0LvIFFSUhbx5PzFU76z9CtHSMHDEzxfgeLiAu0RRZq9Mma3qjUkTyY8OEwu-5Xk1HIQ4zlDcNzORDLeEDzZDk_Yk03j3drMpe3GtYCCMkzUOVn3sv_lOqymq3tAMN2D5qcBGepe-QhRiiTSh9kux6A8MtLeN2MvcqQbxoMddpxurmutw-w==",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_015",
+      "material_id": "mat_001",
+      "reference_type": "Questões CEBRASPE",
+      "author_name": "Qconcursos",
+      "title": "A respeito do direito administrativo, dos atos administrativos e dos agentes públicos e seu regime, julgue o ...",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHRUNMrjJHynJkAF3teNEbDo1M9tMM3FHCYNY2RDpEUiUJZgFjdjcmb-dlGqonP4lS6HCTuC2jY27xlVCPRDnDgeoDxIIoTXkGIQ4YPOpg3PLptEcqqY0OWQTYDWB_AZCiiyYSQznN5EgPuOV67ATAT_QUKeXYZbOPlYqwA3eq42LfTCsxsiRvTmQiQFdo=",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_016",
+      "material_id": "mat_001",
+      "reference_type": "Questões CEBRASPE",
+      "author_name": "Gran Questões",
+      "title": "A presunção de legitimidade e veracidade dos atos adminis...",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFLJ9ZEkyxeb05QOVs1oeZK6xroQXiIe3wk93LBOF97Lqmuwn4KODz0uUfzdFaUAAj5gUGBgFX4sPu0o2JkRRwkHr3XiyykheQQxMFgE2trKJInVBiv8D-6Z-df3w3wkkK40poBNAY_xcrxKnHpHyRJkSK35p76Pj1lbd8oREfIYgwWZzmOz_5vUtmY291hfzkVY1XFg1fLaw1AOCFkMzQ==",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_017",
+      "material_id": "mat_001",
+      "reference_type": "Questões CEBRASPE",
+      "author_name": "Qconcursos",
+      "title": "Grande parte da doutrina indica como atributos do ato admin...",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGBnoW1WWMAStZKDhhMm1v1TdN2RuM9crboZu1VN9BDL00kDfIwmZQ4ZUeo2-Qbq2Rm_aIP95eSf9eLL3QVJPNWOeRjrpkACoVdezpyTdr52GzdjK_Jld9vAshZek3YUrVaBP9TFJGET65UHik2gkbH0uJiy0Wo1t-MYIZJ0q6wg==",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_018",
+      "material_id": "mat_001",
+      "reference_type": "Questões CEBRASPE",
+      "author_name": "Qconcursos",
+      "title": "A respeito dos atos administrativos, julgue o item que se s...",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFU9QpJXrcHz88KTOnGia3duZLYeiDAM0WbDjpGUbZ6K8DgNwGIVwV6IWLseDtQjore262yUOJYUOM02_jOtlFN8dwibGnWHBlzH-nyWFL9EsIXApZjMXIVKqfZG_4Q8mlWpef-d1X-bqg2R4l7iYjp6sUXw3_GHX2GIYHweX4QcA==",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_019",
+      "material_id": "mat_001",
+      "reference_type": "Doutrina",
+      "author_name": "Estratégia Concursos",
+      "title": "Atos Administrativos: Mnemônicos de Direito Administrativo - Parte I",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHPq4RlSCBSC8zLAjAUOTcGhM934E6k0GoUzguINfgaRgM_C-PI0TQ9VtYNN65WnnJLHgsYkdbnqJI8yp94mgoLLcf7rtK5K6hXtL_JMuYIIKecULgKtzZeFINFCIbDs6TMgnECaZD3_C3n1X78pj4q2FpGrGzYmraTTOAUmtyp1dPDIOduJJ4=",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_020",
+      "material_id": "mat_001",
+      "reference_type": "Doutrina",
+      "author_name": "Conselho Nacional do Ministério Público",
+      "title": "Auto-executoriedade administrativa",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZbLsXbYjmyn0sNujbFvLH6ntt9Ck1dJZuv_sM_5OXvsW9aLR2SGE50WUug_8-5uMkr9ne5ZYgbx30wnk_NXQCLXjH3aKaGzthhkd_gBQIxAgIEp_kovyeEmjlHdKsCwlHXGzrPEZLNijrCe8hjYRt7zituQq66xlVgT0NqmiYVCdpHHfgzinz_mU=",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_021",
+      "material_id": "mat_001",
+      "reference_type": "Doutrina",
+      "author_name": "Âmbito Jurídico",
+      "title": "Atos administrativos",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHWdEa-69R28rWT9HVOXJPRSxZTrviJNJbwT3rdLADslhFWzl-4dhhUJzvPAZ2xWIKIsyknmXaR71m8OCHYMjf6DzgfKdo8rIhiFH1yPnr0Q0_QOAKXYV1_t_KO7Ge_PefvaYJWeeDNo6jd2fCqItJ7",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_022",
+      "material_id": "mat_001",
+      "reference_type": "Doutrina",
+      "author_name": "Ximenes & Advogados",
+      "title": "O Ato Administrativo: Uma Análise à Luz da Doutrina Nacional e da Jurisprudência do STJ e STF",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF6cvQjHCP_LySgUdqPkYM2aLdiyde1b_jSVKI17foNpWEdydIVyfvTtbUPxLSDIckluxBxCwhWPOMA17TFp-1wRhp8Ey_IMwD8FZw_FukYOqHtEOhV0uZtV_MpqgdJUWpvihxmwrdDFTGl7WYtFt97OnX2qluHq7AydMBmHncf50V0z1kj91yIXaaQax0qzoyuVmvHn847pmucz0UHr-11iw9dzO7lJSxjCyFWNpNp",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_023",
+      "material_id": "mat_001",
+      "reference_type": "Doutrina",
+      "author_name": "Âmbito Jurídico",
+      "title": "Uma análise doutrinária acerca do ato administrativo como categoria jurídica",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFnzYQsOawSDvlipOrj-Z--rFtNIYMy5Gmao1PPLZQrXNIBT-8kDhabExuBRDWKs4XObkW_2dPt580uEP30TkLzJ-vjKifosuGpXwTzuuU6FbYKPVPl3wH9N24Stk3aCxpHgvKlQpIUo5Ol-gfR9SFSKH_gQQqkLjNN4fLORdnDGzo_Lyu5kYgwY8brqe7eecaqBWl0IWwNq7oiNELYp3dMJ-WnGO29",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_024",
+      "material_id": "mat_001",
+      "reference_type": "Doutrina",
+      "author_name": "Revista Científica Semana Acadêmica",
+      "title": "CONTROLE JUDICIAL DO ATO ADMINISTRATIVO NA JURISPRUDÊNCIA DO STF",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGpRIceyflusuFilFYAY3BxdhVxnVipBYxCXzelsib4dApqG8UpAo4GjrlUxIJ8BkVCuK8mo8VoxJCQk-x64l15powOcVS4auyjgiZwOGJJfd3TDUw6pWwt6d6-iAFxojvIZLGY2VXwxeVMaShY8sZ_hbosxXm4NWMrYDHs_xqjbmGovk7oga5OW7I2glqVkiVAB3YeWb99jAIpcFuHYTI_LA==",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_025",
+      "material_id": "mat_001",
+      "reference_type": "Questões CEBRASPE",
+      "author_name": "Cebraspe",
+      "title": "PROVA ORAL DIREITO ADMINISTRATIVO E DIREITO CONSTITUCIONAL QUESTÃO 1",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEuT2ch0AaE24ESu9jMDVf2hcivRWibnFpJE3wvEzE8nsPWK7HrvVTgsV7ozIVcBjVqFPGEXFLwzo4EvK6U8Xrj-wAnJyrHrLB61PNsenQG6Ixir0uIF_aDFtIhBAjRpRO__MBCyzsCik4YnHKE2XD6yvn8y7aArVqGJhfHZWiAEm6q-LKRCDj3EbS4zZWbJB5lMw9lkw6hD24IM14M",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_026",
+      "material_id": "mat_001",
+      "reference_type": "Questões CEBRASPE",
+      "author_name": "YouTube",
+      "title": "QUESTÕES COMENTADAS SOBRE ATOS ADMINISTRATIVOS | BANCA CEBRASPE #direitoadministrativo",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGAfeTwys2_FtE_YPvNRSQEFjMvx-YZ6-_l_IaJTzvS-Hd7QJ8PzUJlZa6-4smCS8qcnAaYlqjvsdCkkOIlNe1sS4Z5Q3PsiGdgAbs0xCZ1UimJ4Uda_0CIR70ulxoHFJhsj5n-k8U=",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_027",
+      "material_id": "mat_001",
+      "reference_type": "Questões CEBRASPE",
+      "author_name": "YouTube",
+      "title": "Atos Administrativos - Banca CEBRASPE - Rodada de Questões com Ronaldo Paiva",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF6HPmmmXqq3XGxsPBdHBC1Z24n-N-AEhem6C1X-jeI4swpMzhM7zoy9JuSHkmHz0fdl1RCDWrZ0lojF4x7NgLYcPIxNf99HvpFnyHrbT2X-7RTvaKpMNj7qVQTnpwCuCfi67wKXLk=",
+      "accessed_at": null,
+      "description": null
+    }
+  ],
+  "estatisticas_de_geracao": {
+    "total_topicos": 5,
+    "total_componentes_topico": 12,
+    "total_entendimentos_relevantes": 5,
+    "total_pegadinhas": 4,
+    "total_pontos_memorizacao": 5,
+    "total_itens_quadro_sinotico": 5,
+    "total_questoes": 8,
+    "total_comentarios_questoes": 8,
+    "total_itens_checklist": 7,
+    "total_referencias": 27
+  },
+  "validacao_interna": {
+    "pesquisa_previa_realizada": true,
+    "analise_de_cobrancas_anteriores_realizada": true,
+    "material_atualizado": true,
+    "json_valido": true,
+    "estrutura_relacional_respeitada": true,
+    "numeracao_respeitada": true,
+    "houve_quebra_de_hierarquia": false,
+    "houve_nivel_numerico_superior_a_3": false,
+    "fontes_verificadas": true,
+    "sem_informacao_inventada": true
+  },
+  "metadata": {
+    "source_file_name": "4__direito-administrativo__4-atos-administrativos-4.4-atributos.json",
+    "normalized_checksum": "baa1bd824124f20caa8454254754b5d08cf6d996c5e06403024917067c29c61d",
+    "subject_slug": "dir-adm",
+    "material_slug": "atos-administrativos-atributos-cebraspe",
+    "title_slug": "atos-administrativos-atributos-cebraspe",
+    "board_slug": "cebraspe",
+    "counters": {
+      "blocks": 5,
+      "topics": 5,
+      "topic_components": 12,
+      "traps": 4,
+      "memory_points": 5,
+      "summary_items": 5,
+      "questions": 8,
+      "question_comments": 8,
+      "checklist_items": 7,
+      "references": 27
+    }
+  }
+}

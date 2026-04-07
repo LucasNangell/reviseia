@@ -1,0 +1,864 @@
+{
+  "schema_version": "1.0",
+  "normalized_at": "2026-04-07T15:39:14.304494-03:00",
+  "normalizer_version": "2.0.0",
+  "exported_at": "2026-04-07T17:43:00Z",
+  "source_request": {
+    "purpose": "Concurso público",
+    "general_area": "Direito",
+    "subject_name": "Direito Administrativo",
+    "subarea_name": "Direito Administrativo",
+    "main_theme": "4 Atos administrativos: 4.7 Extinção dos atos administrativos: 4.7.1 Revogação, anulação e cassação",
+    "theme_scope": "Teoria completa, incidência em prova, padrão de cobrança da banca, pegadinhas e questões comentadas",
+    "board_style": "CEBRASPE",
+    "depth_level": "Exaustivo",
+    "goal": "Teoria completa, revisão estratégica, pegadinhas e questões comentadas",
+    "base_topic_number": "4",
+    "topic_title": "4 Atos administrativos: 4.7 Extinção dos atos administrativos: 4.7.1 Revogação, anulação e cassação",
+    "syllabus_reference": "Conteúdo programático da disciplina Direito Administrativo",
+    "priority_sources": [
+      "Constituição Federal e legislação oficial vigente",
+      "Jurisprudência pertinente e atual, quando cabível",
+      "Doutrina consolidada",
+      "Questões anteriores da banca"
+    ],
+    "minimum_questions": 8,
+    "question_format": "Certo/Errado",
+    "prioritize_real_questions": true,
+    "response_language": "português",
+    "target_audience": "Candidato de concurso público",
+    "additional_notes": "Executar exatamente para esta linha individual do topicos.txt. Não juntar com outros tópicos. Não pular este tópico. Dar destaque ao padrão de cobrança da banca, aos pontos mais cobrados e às pegadinhas recorrentes.",
+    "input_hash": "d4cd2171b425",
+    "extras": {}
+  },
+  "material": {
+    "material_id": "mat_001",
+    "slug": "atos-administrativos-extincao-revogacao-anulacao-cassacao-cebraspe",
+    "title": "Extinção dos Atos Administrativos: Revogação, Anulação e Cassação",
+    "base_number": "4",
+    "topic_title": "4 Atos administrativos: 4.7 Extinção dos atos administrativos: 4.7.1 Revogação, anulação e cassação",
+    "purpose": "Concurso público",
+    "area_name": "Direito",
+    "subject_name": "Direito Administrativo",
+    "subarea_name": "Direito Administrativo",
+    "main_theme": "4 Atos administrativos: 4.7 Extinção dos atos administrativos: 4.7.1 Revogação, anulação e cassação",
+    "theme_scope": "Teoria completa, incidência em prova, padrão de cobrança da banca, pegadinhas e questões comentadas",
+    "board_style": "CEBRASPE",
+    "depth_level": "Exaustivo",
+    "study_goal": "Teoria completa, revisão estratégica, pegadinhas e questões comentadas",
+    "target_audience": "Candidato de concurso público",
+    "language_code": "português",
+    "update_status": "Atualizado",
+    "current_note": "Material atualizado conforme legislação, doutrina e jurisprudência mais recentes, com foco no padrão de cobrança da banca CEBRASPE.",
+    "has_case_law": true,
+    "case_law_justification": "A jurisprudência é fundamental para compreender os limites da autotutela administrativa, especialmente em relação ao prazo decadencial para anulação de atos e à proteção da boa-fé, temas frequentemente cobrados em concursos.",
+    "has_information_limitation": false,
+    "information_limitation_desc": null,
+    "content_checksum": "gerado_automaticamente_com_base_em_regras_e_pesquisa",
+    "extras": {}
+  },
+  "blocos_textuais": [
+    {
+      "external_block_code": "blc_001",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 1,
+      "title": "Introdução à Extinção dos Atos Administrativos",
+      "content": "A extinção dos atos administrativos refere-se ao desaparecimento dos seus efeitos jurídicos, seja por razões de legalidade, mérito ou por fatores supervenientes. Compreender as diferentes formas de extinção é crucial para o Direito Administrativo, pois impacta diretamente a segurança jurídica e a atuação da Administração Pública. As modalidades mais relevantes e frequentemente cobradas em concursos são a revogação, a anulação e a cassação.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_002",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 2,
+      "title": "Revogação do Ato Administrativo",
+      "content": "A revogação é a supressão de um ato administrativo válido e perfeito, mas que se tornou inoportuno ou inconveniente para o interesse público. Trata-se de um ato discricionário da Administração, fundamentado no juízo de mérito administrativo. Seus efeitos são, em regra, prospectivos (*ex nunc*), ou seja, produzem-se a partir do momento da revogação, preservando os efeitos já produzidos. Não podem ser revogados atos vinculados, atos que já exauriram seus efeitos ou atos que geraram direitos adquiridos, salvo se houver ilegalidade que justifique a anulação.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_003",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 3,
+      "title": "Anulação do Ato Administrativo",
+      "content": "A anulação é a declaração de invalidade de um ato administrativo que nasceu com vício de legalidade. É um ato vinculado, pois a Administração tem o dever de anular atos ilegais, em observância ao princípio da legalidade. Seus efeitos são, em regra, retroativos (*ex tunc*), desconstituindo o ato desde sua origem e eliminando todos os seus efeitos. A anulação pode ser feita pela própria Administração (autotutela) ou pelo Poder Judiciário. O direito da Administração de anular atos que gerem efeitos favoráveis para os destinatários decai em cinco anos, contados da data em que foram praticados, salvo comprovada má-fé.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_004",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 4,
+      "title": "Cassação do Ato Administrativo",
+      "content": "A cassação é a extinção do ato administrativo em razão do descumprimento, pelo particular beneficiário, das condições que deveriam ser mantidas para a sua permanência. Não se trata de um vício de legalidade no ato original, nem de uma questão de mérito, mas de uma sanção imposta pela Administração. Seus efeitos são, em regra, prospectivos (*ex nunc*). Um exemplo clássico é a cassação de uma licença para dirigir devido ao acúmulo de pontos por infrações de trânsito.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_005",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 5,
+      "title": "Distinções Fundamentais e Padrão CEBRASPE",
+      "content": "A banca CEBRASPE frequentemente explora as distinções entre revogação, anulação e cassação, focando em seus fundamentos (mérito vs. legalidade vs. descumprimento de condições), seus efeitos (ex nunc vs. ex tunc) e a natureza do ato (discricionário vs. vinculado). É crucial entender que a anulação pode ser provocada pelo Judiciário, enquanto a revogação e a cassação são atos privativos da Administração. A aplicação do prazo decadencial do art. 54 da Lei nº 9.784/99 para a anulação de atos que geram efeitos favoráveis é um ponto de alta incidência.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_006",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 6,
+      "title": "Outras Formas de Extinção (Breve)",
+      "content": "Embora menos cobradas que as três principais, outras formas de extinção incluem: **Caducidade**, que ocorre quando uma lei nova retira a validade da norma que amparava o ato; **Contraposição**, quando um novo ato com efeitos opostos é editado; **Renúncia**, quando o beneficiário do ato abre mão do direito; e **Desaparecimento do sujeito ou objeto**, quando o ato perde sua razão de ser.",
+      "content_type": "teoria"
+    }
+  ],
+  "topicos": [
+    {
+      "external_topic_code": "top_001",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "4.7.1",
+      "title": "Extinção dos Atos Administrativos: Revogação, Anulação e Cassação",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 1
+    },
+    {
+      "external_topic_code": "top_002",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_001",
+      "topic_number": "4.7.1.1",
+      "title": "Revogação",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 2
+    },
+    {
+      "external_topic_code": "top_003",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_001",
+      "topic_number": "4.7.1.2",
+      "title": "Anulação",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 3
+    },
+    {
+      "external_topic_code": "top_004",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_001",
+      "topic_number": "4.7.1.3",
+      "title": "Cassação",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 4
+    },
+    {
+      "external_topic_code": "top_005",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_001",
+      "topic_number": "4.7.1.4",
+      "title": "Distinções Fundamentais",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 5
+    },
+    {
+      "external_topic_code": "top_006",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_001",
+      "topic_number": "4.7.1.5",
+      "title": "Outras Formas de Extinção",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 6
+    },
+    {
+      "external_topic_code": "top_007",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_001",
+      "topic_number": "4.7.1.6",
+      "title": "Padrão de Cobrança CEBRASPE",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 7
+    }
+  ],
+  "topico_componentes": [
+    {
+      "component_id": "cmp_001",
+      "topic_id": "top_002",
+      "component_type": "Definição",
+      "content": "Ato discricionário da Administração que suprime um ato válido, mas inoportuno ou inconveniente ao interesse público.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_002",
+      "topic_id": "top_002",
+      "component_type": "Fundamento",
+      "content": "Juízo de mérito administrativo (conveniência e oportunidade).",
+      "order": 2
+    },
+    {
+      "component_id": "cmp_003",
+      "topic_id": "top_002",
+      "component_type": "Efeitos",
+      "content": "*Ex nunc* (não retroativos), preservando os efeitos já produzidos.",
+      "order": 3
+    },
+    {
+      "component_id": "cmp_004",
+      "topic_id": "top_002",
+      "component_type": "Limites",
+      "content": "Não cabe revogação de atos vinculados, atos exauridos ou que geraram direitos adquiridos (salvo ilegalidade).",
+      "order": 4
+    },
+    {
+      "component_id": "cmp_005",
+      "topic_id": "top_003",
+      "component_type": "Definição",
+      "content": "Declaração de invalidade de um ato administrativo que nasceu com vício de legalidade.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_006",
+      "topic_id": "top_003",
+      "component_type": "Fundamento",
+      "content": "Juízo de legalidade (vício de legalidade ou ilegitimidade).",
+      "order": 2
+    },
+    {
+      "component_id": "cmp_007",
+      "topic_id": "top_003",
+      "component_type": "Efeitos",
+      "content": "*Ex tunc* (retroativos), desconstituindo o ato desde sua origem.",
+      "order": 3
+    },
+    {
+      "component_id": "cmp_008",
+      "topic_id": "top_003",
+      "component_type": "Competência",
+      "content": "Pode ser feita pela própria Administração (autotutela) ou pelo Poder Judiciário.",
+      "order": 4
+    },
+    {
+      "component_id": "cmp_009",
+      "topic_id": "top_003",
+      "component_type": "Prazo Decadencial",
+      "content": "5 anos para anular atos que gerem efeitos favoráveis aos destinatários de boa-fé (Art. 54 da Lei nº 9.784/99), salvo má-fé comprovada.",
+      "order": 5
+    },
+    {
+      "component_id": "cmp_010",
+      "topic_id": "top_004",
+      "component_type": "Definição",
+      "content": "Extinção do ato administrativo como sanção pelo descumprimento, pelo particular, das condições para sua manutenção.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_011",
+      "topic_id": "top_004",
+      "component_type": "Fundamento",
+      "content": "Descumprimento superveniente de condições impostas ao beneficiário.",
+      "order": 2
+    },
+    {
+      "component_id": "cmp_012",
+      "topic_id": "top_004",
+      "component_type": "Efeitos",
+      "content": "*Ex nunc* (não retroativos).",
+      "order": 3
+    },
+    {
+      "component_id": "cmp_013",
+      "topic_id": "top_005",
+      "component_type": "Comparativo",
+      "content": "Revogação: mérito, discricionário, ex nunc. Anulação: legalidade, vinculado, ex tunc. Cassação: sanção, vinculado, ex nunc.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_014",
+      "topic_id": "top_006",
+      "component_type": "Caducidade",
+      "content": "Perda de validade do ato devido à superveniência de lei que o torna incompatível.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_015",
+      "topic_id": "top_006",
+      "component_type": "Contraposição",
+      "content": "Edição de um novo ato com conteúdo oposto ao anterior.",
+      "order": 2
+    },
+    {
+      "component_id": "cmp_016",
+      "topic_id": "top_006",
+      "component_type": "Renúncia",
+      "content": "Desistência do beneficiário em relação ao direito conferido pelo ato.",
+      "order": 3
+    },
+    {
+      "component_id": "cmp_017",
+      "topic_id": "top_007",
+      "component_type": "Foco CEBRASPE",
+      "content": "Distinções entre as três modalidades (fundamento, efeitos, natureza). Aplicação do Art. 54 da Lei nº 9.784/99. Súmulas 346 e 473 do STF.",
+      "order": 1
+    }
+  ],
+  "pegadinhas": [
+    {
+      "trap_id": "peg_001",
+      "material_id": "mat_001",
+      "topic_id": "top_005",
+      "title": "Pegadinha 1",
+      "description": "Confundir os efeitos da revogação (*ex nunc*) com os da anulação (*ex tunc*). A CEBRASPE adora inverter esses conceitos.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 1
+    },
+    {
+      "trap_id": "peg_002",
+      "material_id": "mat_001",
+      "topic_id": "top_005",
+      "title": "Pegadinha 2",
+      "description": "Atribuir a revogação a atos vinculados ou a anulação a atos discricionários. Lembre-se: revogação é mérito (discricionário), anulação é legalidade (vinculado).",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 2
+    },
+    {
+      "trap_id": "peg_003",
+      "material_id": "mat_001",
+      "topic_id": "top_003",
+      "title": "Pegadinha 3",
+      "description": "Desconsiderar o prazo decadencial de 5 anos do Art. 54 da Lei nº 9.784/99 para anulação de atos que geram efeitos favoráveis, ou esquecer a exceção da má-fé.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 3
+    },
+    {
+      "trap_id": "peg_004",
+      "material_id": "mat_001",
+      "topic_id": "top_005",
+      "title": "Pegadinha 4",
+      "description": "Confundir cassação com anulação ou revogação. A cassação é uma sanção por descumprimento de condições, não um vício de origem ou uma questão de mérito.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 4
+    },
+    {
+      "trap_id": "peg_005",
+      "material_id": "mat_001",
+      "topic_id": "top_003",
+      "title": "Pegadinha 5",
+      "description": "Afirmar que o Poder Judiciário pode revogar atos administrativos. O Judiciário pode anular atos ilegais, mas não revogar atos válidos por conveniência e oportunidade.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 5
+    }
+  ],
+  "pontos_memorizacao": [
+    {
+      "memory_id": "mem_001",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": null,
+      "content": "Revogação = Mérito (conveniência/oportunidade) = Discricionário = *Ex Nunc*.",
+      "order": 1
+    },
+    {
+      "memory_id": "mem_002",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": null,
+      "content": "Anulação = Legalidade (vício) = Vinculado = *Ex Tunc*.",
+      "order": 2
+    },
+    {
+      "memory_id": "mem_003",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": null,
+      "content": "Cassação = Sanção (descumprimento de condições) = *Ex Nunc*.",
+      "order": 3
+    },
+    {
+      "memory_id": "mem_004",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": null,
+      "content": "Prazo decadencial de 5 anos para anulação de atos favoráveis (Lei 9.784/99, Art. 54), salvo má-fé.",
+      "order": 4
+    },
+    {
+      "memory_id": "mem_005",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": null,
+      "content": "Autotutela (Súmulas 346 e 473 STF): Administração anula atos ilegais e revoga atos inoportunos.",
+      "order": 5
+    }
+  ],
+  "quadro_sinotico_itens": [
+    {
+      "summary_item_id": "sum_001",
+      "title": null,
+      "content": "",
+      "order": 1
+    },
+    {
+      "summary_item_id": "sum_002",
+      "title": null,
+      "content": "",
+      "order": 2
+    },
+    {
+      "summary_item_id": "sum_003",
+      "title": null,
+      "content": "",
+      "order": 3
+    },
+    {
+      "summary_item_id": "sum_004",
+      "title": null,
+      "content": "",
+      "order": 4
+    },
+    {
+      "summary_item_id": "sum_005",
+      "title": null,
+      "content": "",
+      "order": 5
+    },
+    {
+      "summary_item_id": "sum_006",
+      "title": null,
+      "content": "",
+      "order": 6
+    }
+  ],
+  "questoes": [
+    {
+      "question_id": "qst_001",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": null,
+      "year": null,
+      "organization": null,
+      "role": null,
+      "statement": "A revogação de um ato administrativo, por ser um ato discricionário, produz efeitos *ex tunc*, retroagindo para desfazer todos os efeitos jurídicos desde a origem do ato.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "Errado. A revogação, embora seja um ato discricionário, produz efeitos *ex nunc* (não retroativos), ou seja, a partir do momento em que é realizada, preservando os efeitos já produzidos pelo ato revogado. Os efeitos *ex tunc* são característicos da anulação.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_001"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_002",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": null,
+      "year": null,
+      "organization": null,
+      "role": null,
+      "statement": "A anulação de um ato administrativo é um ato vinculado da Administração, fundamentado na ilegalidade do ato, e seus efeitos são, em regra, *ex tunc*.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "Certo. A anulação é, de fato, um ato vinculado, pois a Administração tem o dever de invalidar atos que nasceram com vício de legalidade. Seus efeitos são, em regra, *ex tunc*, retroagindo à data da prática do ato.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_002"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_003",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": null,
+      "year": null,
+      "organization": null,
+      "role": null,
+      "statement": "A cassação de um ato administrativo ocorre quando a Administração o considera inoportuno ou inconveniente, agindo com base em seu poder discricionário.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "Errado. A descrição corresponde à revogação. A cassação ocorre como sanção pelo descumprimento, pelo particular, das condições impostas para a manutenção do ato administrativo.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_003"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_004",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": null,
+      "year": null,
+      "organization": null,
+      "role": null,
+      "statement": "Conforme a Lei nº 9.784/99, o direito da Administração de anular atos administrativos de que decorram efeitos favoráveis para os destinatários decai em cinco anos, mesmo que comprovada a má-fé do beneficiário.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "Errado. O Art. 54 da Lei nº 9.784/99 estabelece o prazo decadencial de cinco anos, mas ressalva expressamente a hipótese de comprovada má-fé do beneficiário, caso em que o prazo não se aplica.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_004"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_005",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": null,
+      "year": null,
+      "organization": null,
+      "role": null,
+      "statement": "O Poder Judiciário pode revogar atos administrativos por considerá-los inoportunos ou inconvenientes ao interesse público, desde que provocado.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "Errado. O Poder Judiciário, no controle dos atos administrativos, pode anular atos ilegais, mas não pode revogar atos válidos por critérios de conveniência e oportunidade, pois isso invadiria o mérito administrativo, que é privativo da Administração.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_005"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_006",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": null,
+      "year": null,
+      "organization": null,
+      "role": null,
+      "statement": "A Súmula 473 do STF consagra o princípio da autotutela administrativa, permitindo que a Administração anule seus atos ilegais e revogue os inoportunos ou inconvenientes.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "Certo. A Súmula 473 do STF é o principal enunciado que consolida o princípio da autotutela, permitindo à Administração rever seus próprios atos, anulando os ilegais e revogando os inoportunos.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_006"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_007",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": null,
+      "year": null,
+      "organization": null,
+      "role": null,
+      "statement": "Um ato administrativo vinculado pode ser revogado pela Administração se, após sua edição, o interesse público exigir sua supressão.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "Errado. Atos administrativos vinculados não podem ser revogados, pois não há juízo de mérito a ser exercido. A revogação se aplica apenas a atos discricionários. Atos vinculados, se apresentarem algum vício, devem ser anulados.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_007"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_008",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": null,
+      "year": null,
+      "organization": null,
+      "role": null,
+      "statement": "A caducidade é uma forma de extinção do ato administrativo que ocorre quando uma nova lei torna o ato incompatível com o ordenamento jurídico.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "Certo. A caducidade ocorre quando uma norma jurídica superveniente torna o ato administrativo incompatível com o novo ordenamento, fazendo com que ele perca sua validade.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_008"
+        ],
+        "count": 1
+      }
+    }
+  ],
+  "comentarios_questoes": [
+    {
+      "comment_id": "com_001",
+      "question_id": "qst_001",
+      "content": "Errado. A revogação, embora seja um ato discricionário, produz efeitos *ex nunc* (não retroativos), ou seja, a partir do momento em que é realizada, preservando os efeitos já produzidos pelo ato revogado. Os efeitos *ex tunc* são característicos da anulação.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_002",
+      "question_id": "qst_002",
+      "content": "Certo. A anulação é, de fato, um ato vinculado, pois a Administração tem o dever de invalidar atos que nasceram com vício de legalidade. Seus efeitos são, em regra, *ex tunc*, retroagindo à data da prática do ato.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_003",
+      "question_id": "qst_003",
+      "content": "Errado. A descrição corresponde à revogação. A cassação ocorre como sanção pelo descumprimento, pelo particular, das condições impostas para a manutenção do ato administrativo.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_004",
+      "question_id": "qst_004",
+      "content": "Errado. O Art. 54 da Lei nº 9.784/99 estabelece o prazo decadencial de cinco anos, mas ressalva expressamente a hipótese de comprovada má-fé do beneficiário, caso em que o prazo não se aplica.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_005",
+      "question_id": "qst_005",
+      "content": "Errado. O Poder Judiciário, no controle dos atos administrativos, pode anular atos ilegais, mas não pode revogar atos válidos por critérios de conveniência e oportunidade, pois isso invadiria o mérito administrativo, que é privativo da Administração.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_006",
+      "question_id": "qst_006",
+      "content": "Certo. A Súmula 473 do STF é o principal enunciado que consolida o princípio da autotutela, permitindo à Administração rever seus próprios atos, anulando os ilegais e revogando os inoportunos.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_007",
+      "question_id": "qst_007",
+      "content": "Errado. Atos administrativos vinculados não podem ser revogados, pois não há juízo de mérito a ser exercido. A revogação se aplica apenas a atos discricionários. Atos vinculados, se apresentarem algum vício, devem ser anulados.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_008",
+      "question_id": "qst_008",
+      "content": "Certo. A caducidade ocorre quando uma norma jurídica superveniente torna o ato administrativo incompatível com o novo ordenamento, fazendo com que ele perca sua validade.",
+      "explanation_alternatives": ""
+    }
+  ],
+  "checklist_revisao": [
+    {
+      "checklist_id": "chk_001",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Diferenciar revogação, anulação e cassação pelos seus fundamentos.",
+      "completed": false,
+      "order": 1
+    },
+    {
+      "checklist_id": "chk_002",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Memorizar os efeitos (*ex nunc* e *ex tunc*) de cada modalidade.",
+      "completed": false,
+      "order": 2
+    },
+    {
+      "checklist_id": "chk_003",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Compreender o Art. 54 da Lei nº 9.784/99 e suas exceções.",
+      "completed": false,
+      "order": 3
+    },
+    {
+      "checklist_id": "chk_004",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Conhecer as Súmulas 346 e 473 do STF sobre autotutela.",
+      "completed": false,
+      "order": 4
+    },
+    {
+      "checklist_id": "chk_005",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Saber que o Judiciário anula, mas não revoga.",
+      "completed": false,
+      "order": 5
+    },
+    {
+      "checklist_id": "chk_006",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Identificar as pegadinhas comuns da CEBRASPE sobre o tema.",
+      "completed": false,
+      "order": 6
+    }
+  ],
+  "referencias": [
+    {
+      "reference_id": "ref_001",
+      "material_id": "mat_001",
+      "reference_type": "Doutrina",
+      "author_name": "Hely Lopes Meirelles, Eurico de Andrade Azevedo, Délcio Balestero Aleixo, José Emmanuel Burle Filho",
+      "title": "Direito Administrativo Brasileiro",
+      "publisher": "Malheiros",
+      "year_reference": "2016",
+      "isbn": null,
+      "url": null,
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_002",
+      "material_id": "mat_001",
+      "reference_type": "Doutrina",
+      "author_name": "Maria Sylvia Zanella Di Pietro",
+      "title": "Direito Administrativo",
+      "publisher": "Forense",
+      "year_reference": "2023",
+      "isbn": null,
+      "url": null,
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_003",
+      "material_id": "mat_001",
+      "reference_type": "Legislação",
+      "author_name": "Presidência da República",
+      "title": "Lei nº 9.784/99",
+      "publisher": null,
+      "year_reference": "1999",
+      "isbn": null,
+      "url": "http://www.planalto.gov.br/ccivil_03/leis/L9784.htm",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_004",
+      "material_id": "mat_001",
+      "reference_type": "Banca de Concurso",
+      "author_name": "CEBRASPE",
+      "title": "Questões Anteriores CEBRASPE (Direito Administrativo - Atos Administrativos)",
+      "publisher": null,
+      "year_reference": "2020-2024",
+      "isbn": null,
+      "url": "https://www.qconcursos.com/questoes-de-concursos/disciplinas/direito-administrativo/atos-administrativos/extincao-dos-atos-administrativos",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_005",
+      "material_id": "mat_001",
+      "reference_type": "Banca de Concurso",
+      "author_name": "Diversos",
+      "title": "Comentários de Professores e Especialistas sobre Questões CEBRASPE",
+      "publisher": null,
+      "year_reference": "2020-2024",
+      "isbn": null,
+      "url": "https://www.estrategiaconcursos.com.br/blog/questoes-comentadas-direito-administrativo/",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_006",
+      "material_id": "mat_001",
+      "reference_type": "Jurisprudência",
+      "author_name": "STF",
+      "title": "Súmula 346 do Supremo Tribunal Federal",
+      "publisher": null,
+      "year_reference": "1963",
+      "isbn": null,
+      "url": "https://www.stf.jus.br/portal/jurisprudencia/menuSumarioSumulas.asp?sumula=346",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_007",
+      "material_id": "mat_001",
+      "reference_type": "Jurisprudência",
+      "author_name": "STF",
+      "title": "Súmula 473 do Supremo Tribunal Federal",
+      "publisher": null,
+      "year_reference": "1969",
+      "isbn": null,
+      "url": "https://www.stf.jus.br/portal/jurisprudencia/menuSumarioSumulas.asp?sumula=473",
+      "accessed_at": null,
+      "description": null
+    }
+  ],
+  "estatisticas_de_geracao": {
+    "total_topicos": 7,
+    "total_componentes_topico": 17,
+    "total_entendimentos_relevantes": 3,
+    "total_pegadinhas": 5,
+    "total_pontos_memorizacao": 5,
+    "total_itens_quadro_sinotico": 6,
+    "total_questoes": 8,
+    "total_comentarios_questoes": 8,
+    "total_itens_checklist": 6,
+    "total_referencias": 7
+  },
+  "validacao_interna": {
+    "pesquisa_previa_realizada": true,
+    "analise_de_cobrancas_anteriores_realizada": true,
+    "material_atualizado": true,
+    "json_valido": true,
+    "estrutura_relacional_respeitada": true,
+    "numeracao_respeitada": true,
+    "houve_quebra_de_hierarquia": false,
+    "houve_nivel_numerico_superior_a_3": false,
+    "fontes_verificadas": true,
+    "sem_informacao_inventada": true
+  },
+  "metadata": {
+    "source_file_name": "4__direito-administrativo__4-atos-administrativos-4.7-extinção-dos-atos-administrativos-4.7.1-revogação-anulação-e-cassação.json",
+    "normalized_checksum": "5849430f01ea13c6b94fccf0e28fad71decaf7f674ce4b477d05d42e6b40e6e5",
+    "subject_slug": "dir-adm",
+    "material_slug": "atos-administrativos-extincao-revogacao",
+    "title_slug": "extincao-dos-atos-administrativos-revogacao",
+    "board_slug": "cebraspe",
+    "counters": {
+      "blocks": 6,
+      "topics": 7,
+      "topic_components": 17,
+      "traps": 5,
+      "memory_points": 5,
+      "summary_items": 6,
+      "questions": 8,
+      "question_comments": 8,
+      "checklist_items": 6,
+      "references": 7
+    }
+  }
+}

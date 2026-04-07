@@ -1,0 +1,1075 @@
+{
+  "schema_version": "1.0",
+  "normalized_at": "2026-04-07T15:39:14.720433-03:00",
+  "normalizer_version": "2.0.0",
+  "exported_at": "2026-04-07T16:28:00Z",
+  "source_request": {
+    "purpose": "Concurso público",
+    "general_area": "Tecnologia da Informação",
+    "subject_name": "Informática e Dados",
+    "subarea_name": "Informática, redes, segurança e dados",
+    "main_theme": "7 Noções de forense computacional: 7.4 Log de eventos do Windows",
+    "theme_scope": "Teoria completa, incidência em prova, padrão de cobrança da banca, pegadinhas e questões comentadas",
+    "board_style": "CEBRASPE",
+    "depth_level": "Exaustivo",
+    "goal": "Teoria completa, revisão estratégica, pegadinhas e questões comentadas",
+    "base_topic_number": "7",
+    "topic_title": "7 Noções de forense computacional: 7.4 Log de eventos do Windows",
+    "syllabus_reference": "Conteúdo programático da disciplina Informática e Dados",
+    "priority_sources": [
+      "Documentação oficial e referências técnicas confiáveis",
+      "Bibliografia técnica consolidada",
+      "Questões anteriores da banca"
+    ],
+    "minimum_questions": 8,
+    "question_format": "Certo/Errado",
+    "prioritize_real_questions": true,
+    "response_language": "português",
+    "target_audience": "Candidato de concurso público",
+    "additional_notes": "Executar exatamente para esta linha individual do topicos.txt. Não juntar com outros tópicos. Não pular este tópico. Dar destaque ao padrão de cobrança da banca, aos pontos mais cobrados e às pegadinhas recorrentes.",
+    "input_hash": "6fee838917cc",
+    "extras": {}
+  },
+  "material": {
+    "material_id": "mat_001",
+    "slug": "forense-computacional-log-eventos-windows",
+    "title": "Noções de Forense Computacional: Log de Eventos do Windows",
+    "base_number": "7",
+    "topic_title": "7 Noções de forense computacional: 7.4 Log de eventos do Windows",
+    "purpose": "Concurso público",
+    "area_name": "Tecnologia da Informação",
+    "subject_name": "Informática e Dados",
+    "subarea_name": "Informática, redes, segurança e dados",
+    "main_theme": "7 Noções de forense computacional: 7.4 Log de eventos do Windows",
+    "theme_scope": "Teoria completa, incidência em prova, padrão de cobrança da banca, pegadinhas e questões comentadas",
+    "board_style": "CEBRASPE",
+    "depth_level": "Exaustivo",
+    "study_goal": "Teoria completa, revisão estratégica, pegadinhas e questões comentadas",
+    "target_audience": "Candidato de concurso público",
+    "language_code": "português",
+    "update_status": "Atualizado",
+    "current_note": "Informações verificadas com base em documentação oficial e referências técnicas recentes (até 2026).",
+    "has_case_law": false,
+    "case_law_justification": "A matéria de Log de Eventos do Windows em forense computacional não exige jurisprudência, mas sim entendimentos técnicos e normativos.",
+    "has_information_limitation": false,
+    "information_limitation_desc": null,
+    "content_checksum": "gerado_automaticamente",
+    "extras": {}
+  },
+  "blocos_textuais": [
+    {
+      "external_block_code": "blc_001",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 1,
+      "title": "Introdução à Forense de Logs de Eventos do Windows",
+      "content": "A análise forense de logs no Windows é uma etapa crucial em qualquer investigação de segurança cibernética, pois os logs armazenam informações vitais sobre acessos, atividades suspeitas, falhas do sistema e tentativas de exploração. Logs são registros automáticos de eventos que ocorrem em sistemas operacionais, redes e aplicativos, servindo como uma trilha de auditoria para investigações. Cada login, erro, tentativa de acesso ou comando executado gera uma entrada no log. Para que os logs sejam legalmente utilizáveis em uma investigação, sua coleta e preservação devem seguir boas práticas forenses, incluindo a preservação da integridade com hashes e o armazenamento em repositórios imutáveis.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_002",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 2,
+      "title": "O que são Logs de Eventos do Windows?",
+      "content": "O Log de Eventos do Windows é um registro detalhado de eventos relacionados ao sistema, segurança e aplicativos, armazenado em um sistema operacional Windows. Ele fornece informações sobre eventos de hardware e software, auxiliando administradores de rede a rastrear ameaças e problemas que podem degradar o desempenho. Esses logs são essenciais para solucionar problemas, depurar, auditar e monitorar o desempenho do sistema, permitindo identificar comportamentos suspeitos e gerar relatórios para segurança e conformidade. O Visualizador de Eventos do Windows (Event Viewer) é a ferramenta nativa para visualizar esses logs, que são iniciados e registrados desde o momento em que o sistema é ligado até o seu desligamento.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_003",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 3,
+      "title": "Principais Tipos de Logs de Eventos do Windows",
+      "content": "Os logs de eventos do Windows são categorizados para organizar os diferentes tipos de informações registradas. As principais categorias incluem:\n\n*   **Log de Aplicativo (Application Log):** Contém eventos registrados por aplicativos ou programas, como falhas de software ou mensagens específicas de aplicativos.\n*   **Log de Segurança (Security Log):** Crucial para rastrear eventos relacionados à segurança, incluindo tentativas de login bem-sucedidas e falhas, alterações de política, atividades de usuário, criação/exclusão de contas e acesso a objetos.\n*   **Log de Sistema (System Log):** Registra eventos relacionados a componentes do sistema, como falhas de driver, problemas de hardware e eventos do sistema operacional.\n*   **Log de Instalação (Setup Log):** Contém informações sobre processos de instalação e configuração do sistema, incluindo atualizações.\n*   **Eventos Encaminhados (Forwarded Events):** Coleta eventos que são encaminhados de outros computadores, proporcionando uma visão centralizada das atividades em múltiplos sistemas.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_004",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 4,
+      "title": "Estrutura de um Evento de Log",
+      "content": "Cada entrada de log de evento inclui detalhes essenciais que são fundamentais para a análise forense. Os elementos típicos de um log de evento são:\n\n*   **ID do Evento (Event ID):** Um identificador numérico exclusivo para o evento específico, categorizando o tipo de evento e determinando seu formato de descrição.\n*   **Carimbo de Data/Hora (Timestamp):** A data e hora em que o evento ocorreu.\n*   **Origem (Source):** O serviço, aplicativo ou componente do sistema que acionou o evento.\n*   **Nível (Level):** Classificação da severidade do evento (por exemplo, Informação, Aviso, Erro, Crítico, Auditoria de Sucesso, Auditoria de Falha).\n*   **Usuário (User):** A conta usada para executar o evento.\n*   **Computador (Computer):** O nome do computador que registrou o evento.\n*   **Mensagem/Descrição (Message/Description):** Detalhes contextuais sobre o evento.\n\nOs arquivos de log modernos do Windows (a partir do Windows Vista) utilizam o formato `.evtx`, que substituiu o formato `.evt` de versões mais antigas. Esses arquivos `.evtx` contêm dados XML altamente estruturados, encapsulados em um formato binário proprietário.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_005",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 5,
+      "title": "Importância na Forense Computacional",
+      "content": "Os logs de eventos são artefatos fundamentais na investigação digital forense, fornecendo pistas e evidências cruciais sobre as atividades que ocorreram nos sistemas durante um incidente. A análise forense de logs permite reconstruir incidentes, identificar invasores e determinar o impacto de um ataque. Eles são valiosos para:\n\n*   **Rastreabilidade:** Identificar quem acessou o sistema, quando, quais arquivos foram abertos e quais alterações foram feitas.\n*   **Detecção de Intrusões:** Identificar atividades maliciosas, como tentativas de login suspeitas, escalonamento de privilégios ou comportamentos de malware.\n*   **Análise de Incidentes:** Reconstruir linhas do tempo de eventos, determinar a extensão de uma intrusão e identificar ferramentas e táticas usadas por atacantes.\n*   **Auditoria e Conformidade:** Garantir a responsabilidade do usuário e servir como prova em violações de segurança.\n\nÉ crucial considerar a normalização do tempo, pois os carimbos de data/hora dos logs podem ser registrados em UTC, enquanto os visualizadores podem exibir em horário local, o que pode introduzir desvios.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_006",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 6,
+      "title": "Ferramentas de Análise de Logs",
+      "content": "Para analisar os logs de eventos do Windows, diversas ferramentas podem ser utilizadas:\n\n*   **Visualizador de Eventos (Event Viewer):** A ferramenta gráfica nativa do Windows (`eventvwr.msc`) que permite visualizar, filtrar e exportar logs.\n*   **Linha de Comando (Command Line):** Ferramentas como `wevtutil` e `Get-WinEvent` (PowerShell) permitem a manipulação e consulta de logs via script, sendo úteis para automação e análise em larga escala.\n*   **Ferramentas de Terceiros:** Existem diversas ferramentas especializadas em análise forense de logs, como o Log Parser, Log Parser Studio, FullEventLogView, e soluções de gerenciamento de logs centralizado como ELK Stack, Splunk, Wazuh e ManageEngine EventLog Analyzer, que oferecem recursos avançados de coleta, correlação e arquivamento.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_007",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 7,
+      "title": "Padrão de Cobrança CEBRASPE e Pegadinhas",
+      "content": "O CEBRASPE frequentemente cobra o tema de logs de eventos do Windows em questões de segurança da informação e forense computacional. O foco geralmente recai sobre:\n\n*   **Conceitos Fundamentais:** O que são logs, sua finalidade e importância na segurança e forense.\n*   **Tipos de Logs:** A distinção entre Log de Aplicativo, Segurança e Sistema é um ponto recorrente, bem como o tipo de informação contida em cada um.\n*   **Event IDs Críticos:** Conhecimento de IDs de eventos importantes, especialmente os relacionados a logon/logoff (4624 - sucesso, 4625 - falha), gerenciamento de contas (4720 - criação, 4732 - adição a grupo) e limpeza de logs (1102).\n*   **Ferramentas de Visualização/Análise:** O uso do Visualizador de Eventos é frequentemente abordado.\n*   **Papel na Resposta a Incidentes:** Como os logs auxiliam na detecção e investigação de ataques.\n\n**Pegadinhas Comuns:**\n\n*   **Confusão entre tipos de logs:** Atribuir um evento de segurança ao Log de Sistema ou vice-versa.\n*   **Interpretação incorreta de Event IDs:** Confundir o significado de IDs de sucesso e falha, ou não reconhecer IDs críticos.\n*   **Limpeza de Logs:** A limpeza do log de segurança (Event ID 1102) é um forte indicador de atividade maliciosa e uma pegadinha comum, pois atacantes tentam apagar seus rastros.\n*   **Localização dos Logs:** Embora menos comum, o CEBRASPE pode questionar a localização padrão dos arquivos de log (`C:\\Windows\\System32\\winevt\\Logs`).\n*   **Atribuição de funcionalidades:** Perguntas sobre o que é possível fazer com o Visualizador de Eventos (ex: criar arquivo, enviar email, iniciar programa).",
+      "content_type": "teoria"
+    }
+  ],
+  "topicos": [
+    {
+      "external_topic_code": "top_001",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "7.4",
+      "title": "Log de eventos do Windows",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 1
+    },
+    {
+      "external_topic_code": "top_002",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "7.4.1",
+      "title": "O que são Logs de Eventos do Windows?",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 2
+    },
+    {
+      "external_topic_code": "top_003",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "7.4.2",
+      "title": "Principais Tipos de Logs de Eventos",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 3
+    },
+    {
+      "external_topic_code": "top_004",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "7.4.2.1",
+      "title": "Log de Aplicativo",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 4
+    },
+    {
+      "external_topic_code": "top_005",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "7.4.2.2",
+      "title": "Log de Segurança",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 5
+    },
+    {
+      "external_topic_code": "top_006",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "7.4.2.3",
+      "title": "Log de Sistema",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 6
+    },
+    {
+      "external_topic_code": "top_007",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "7.4.2.4",
+      "title": "Outros Logs (Instalação, Eventos Encaminhados)",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 7
+    },
+    {
+      "external_topic_code": "top_008",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "7.4.3",
+      "title": "Estrutura de um Evento de Log",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 8
+    },
+    {
+      "external_topic_code": "top_009",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "7.4.4",
+      "title": "Importância na Forense Computacional",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 9
+    },
+    {
+      "external_topic_code": "top_010",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "7.4.5",
+      "title": "Ferramentas de Análise de Logs",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 10
+    },
+    {
+      "external_topic_code": "top_011",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "7.4.6",
+      "title": "Padrão de Cobrança CEBRASPE e Pegadinhas",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 11
+    }
+  ],
+  "topico_componentes": [
+    {
+      "component_id": "cmp_001",
+      "topic_id": "top_002",
+      "component_type": "definicao",
+      "content": "Logs de eventos são registros cronológicos de atividades e ocorrências em um sistema operacional Windows, essenciais para auditoria, diagnóstico de problemas e, principalmente, para investigações forenses digitais.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_002",
+      "topic_id": "top_004",
+      "component_type": "detalhe",
+      "content": "Registra eventos gerados por programas e aplicativos instalados no sistema, como erros de software, avisos e informações sobre o funcionamento de uma aplicação específica.",
+      "order": 2
+    },
+    {
+      "component_id": "cmp_003",
+      "topic_id": "top_005",
+      "component_type": "detalhe",
+      "content": "Contém eventos relacionados à segurança, como tentativas de logon (bem-sucedidas e falhas), alterações de privilégios, acesso a objetos (arquivos, pastas), criação/exclusão de usuários e grupos, e modificações em políticas de segurança. É o log mais crítico para a forense.",
+      "order": 3
+    },
+    {
+      "component_id": "cmp_004",
+      "topic_id": "top_006",
+      "component_type": "detalhe",
+      "content": "Armazena eventos relacionados ao próprio sistema operacional e seus componentes, como inicialização e desligamento do sistema, falhas de drivers, erros de hardware e serviços do sistema.",
+      "order": 4
+    },
+    {
+      "component_id": "cmp_005",
+      "topic_id": "top_007",
+      "component_type": "detalhe",
+      "content": "O Log de Instalação registra eventos durante a instalação do Windows e suas atualizações. Os Eventos Encaminhados são logs coletados de outros computadores na rede, centralizando a análise.",
+      "order": 5
+    },
+    {
+      "component_id": "cmp_006",
+      "topic_id": "top_008",
+      "component_type": "detalhe",
+      "content": "Cada evento é um registro detalhado que inclui: ID do Evento (código numérico), Nível (severidade), Data e Hora, Origem (componente que gerou o evento), Usuário (conta associada), Computador (máquina de origem) e uma Descrição textual.",
+      "order": 6
+    },
+    {
+      "component_id": "cmp_007",
+      "topic_id": "top_009",
+      "component_type": "detalhe",
+      "content": "Logs são 'migalhas digitais' que permitem reconstruir incidentes, identificar atividades maliciosas, rastrear usuários e coletar evidências para processos legais. São fundamentais para a detecção de intrusões, resposta a incidentes e auditoria de segurança.",
+      "order": 7
+    },
+    {
+      "component_id": "cmp_008",
+      "topic_id": "top_010",
+      "component_type": "detalhe",
+      "content": "O Visualizador de Eventos (Event Viewer) é a ferramenta gráfica padrão. Ferramentas de linha de comando como `wevtutil` e `Get-WinEvent` (PowerShell) permitem automação. Ferramentas de terceiros (Log Parser, Splunk, ELK Stack) oferecem análise avançada e correlação.",
+      "order": 8
+    },
+    {
+      "component_id": "cmp_009",
+      "topic_id": "top_011",
+      "component_type": "detalhe",
+      "content": "O CEBRASPE foca em conceitos, tipos de logs, Event IDs críticos (logon, gerenciamento de contas, limpeza de logs) e o papel dos logs na forense. As pegadinhas exploram a confusão entre tipos de logs e a interpretação de Event IDs.",
+      "order": 9
+    }
+  ],
+  "pegadinhas": [
+    {
+      "trap_id": "peg_001",
+      "material_id": "mat_001",
+      "topic_id": "top_011",
+      "title": "Confusão entre Logs de Segurança e Sistema",
+      "description": "O CEBRASPE pode tentar confundir o candidato ao descrever um evento de segurança (como uma falha de logon) e afirmar que ele seria registrado no Log de Sistema, quando na verdade pertence ao Log de Segurança.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 1
+    },
+    {
+      "trap_id": "peg_002",
+      "material_id": "mat_001",
+      "topic_id": "top_011",
+      "title": "Interpretação Incorreta de Event IDs",
+      "description": "Questões podem apresentar um Event ID e uma descrição que não correspondem, ou confundir o significado de eventos de sucesso e falha (ex: 4624 vs. 4625).",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 2
+    },
+    {
+      "trap_id": "peg_003",
+      "material_id": "mat_001",
+      "topic_id": "top_011",
+      "title": "Limpeza do Log de Segurança (Event ID 1102)",
+      "description": "A banca pode apresentar cenários onde a limpeza do log de segurança é descrita como uma ação normal ou sem grande impacto, quando na verdade é um forte indício de atividade maliciosa e tentativa de ocultar rastros.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 3
+    },
+    {
+      "trap_id": "peg_004",
+      "material_id": "mat_001",
+      "topic_id": "top_011",
+      "title": "Funcionalidades do Visualizador de Eventos",
+      "description": "O CEBRASPE pode questionar sobre as funcionalidades do Visualizador de Eventos, apresentando opções que não são nativas da ferramenta (ex: criar backup do sistema, excluir arquivo, encerrar o sistema diretamente de um evento).",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 4
+    }
+  ],
+  "pontos_memorizacao": [
+    {
+      "memory_id": "mem_001",
+      "material_id": "mat_001",
+      "topic_id": "top_001",
+      "title": null,
+      "content": "Logs de eventos são a 'caixa preta' do sistema Windows, registrando todas as atividades relevantes.",
+      "order": 1
+    },
+    {
+      "memory_id": "mem_002",
+      "material_id": "mat_001",
+      "topic_id": "top_003",
+      "title": null,
+      "content": "Os três logs principais são: Aplicativo, Segurança e Sistema. O de Segurança é o mais importante para forense.",
+      "order": 2
+    },
+    {
+      "memory_id": "mem_003",
+      "material_id": "mat_001",
+      "topic_id": "top_008",
+      "title": null,
+      "content": "Um evento é composto por ID, Nível, Data/Hora, Origem, Usuário, Computador e Descrição.",
+      "order": 3
+    },
+    {
+      "memory_id": "mem_004",
+      "material_id": "mat_001",
+      "topic_id": "top_005",
+      "title": null,
+      "content": "IDs 4624 (logon sucesso) e 4625 (logon falha) são cruciais para monitorar autenticação.",
+      "order": 4
+    },
+    {
+      "memory_id": "mem_005",
+      "material_id": "mat_001",
+      "topic_id": "top_005",
+      "title": null,
+      "content": "O Event ID 1102 (limpeza do log de segurança) é um alerta vermelho para atividade maliciosa.",
+      "order": 5
+    },
+    {
+      "memory_id": "mem_006",
+      "material_id": "mat_001",
+      "topic_id": "top_010",
+      "title": null,
+      "content": "Visualizador de Eventos é a ferramenta nativa; PowerShell (`Get-WinEvent`) e `wevtutil` são para linha de comando.",
+      "order": 6
+    },
+    {
+      "memory_id": "mem_007",
+      "material_id": "mat_001",
+      "topic_id": "top_008",
+      "title": null,
+      "content": "O formato de arquivo `.evtx` é o padrão para Windows Vista e versões posteriores.",
+      "order": 7
+    }
+  ],
+  "quadro_sinotico_itens": [],
+  "questoes": [
+    {
+      "question_id": "qst_001",
+      "material_id": "mat_001",
+      "topic_id": "top_005",
+      "board": null,
+      "year": 2024,
+      "organization": null,
+      "role": null,
+      "statement": "No contexto da forense computacional, o Log de Segurança do Windows registra eventos como falhas de logon e alterações de políticas de segurança, sendo uma fonte primária para identificar atividades maliciosas.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": "Média",
+      "external_reference": null,
+      "commentary": "Correto. O Log de Segurança é o repositório de eventos mais relevante para a segurança, registrando tentativas de acesso, alterações de privilégios e modificações em políticas, sendo fundamental para a detecção e investigação de atividades maliciosas.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_001"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_002",
+      "material_id": "mat_001",
+      "topic_id": "top_004",
+      "board": null,
+      "year": 2024,
+      "organization": null,
+      "role": null,
+      "statement": "Eventos relacionados a falhas de drivers de hardware e inicialização do sistema operacional são tipicamente registrados no Log de Aplicativo do Windows.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": "Média",
+      "external_reference": null,
+      "commentary": "Incorreto. Eventos relacionados a falhas de drivers de hardware e inicialização do sistema operacional são registrados no Log de Sistema. O Log de Aplicativo é destinado a eventos gerados por programas e aplicativos.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_002"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_003",
+      "material_id": "mat_001",
+      "topic_id": "top_008",
+      "board": null,
+      "year": 2024,
+      "organization": null,
+      "role": null,
+      "statement": "O Event ID 4624 no Log de Segurança do Windows indica uma tentativa de logon mal-sucedida, sendo um indicador de possíveis ataques de força bruta.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": "Média",
+      "external_reference": null,
+      "commentary": "Incorreto. O Event ID 4624 indica um logon bem-sucedido. O Event ID 4625 é que representa uma falha de logon, sendo este sim um indicador de possíveis ataques de força bruta ou tentativas de acesso não autorizado.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_003"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_004",
+      "material_id": "mat_001",
+      "topic_id": "top_010",
+      "board": null,
+      "year": 2024,
+      "organization": null,
+      "role": null,
+      "statement": "O Visualizador de Eventos do Windows permite que um analista forense crie um backup completo do sistema operacional a partir de um evento de log específico.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": "Fácil",
+      "external_reference": null,
+      "commentary": "Incorreto. O Visualizador de Eventos é uma ferramenta para visualizar e gerenciar logs, mas não possui a funcionalidade de criar um backup completo do sistema operacional. Suas ações são focadas na manipulação dos próprios logs.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_004"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_005",
+      "material_id": "mat_001",
+      "topic_id": "top_009",
+      "board": null,
+      "year": 2024,
+      "organization": null,
+      "role": null,
+      "statement": "A limpeza do Log de Segurança do Windows, identificada pelo Event ID 1102, é um evento que deve ser ignorado em uma investigação forense, pois geralmente ocorre por rotinas de manutenção do sistema.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": "Difícil",
+      "external_reference": null,
+      "commentary": "Incorreto. A limpeza do Log de Segurança (Event ID 1102) é um evento altamente suspeito em uma investigação forense. Raramente ocorre por rotinas normais do sistema e é frequentemente utilizada por atacantes para apagar seus rastros, devendo ser investigada com prioridade.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_005"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_006",
+      "material_id": "mat_001",
+      "topic_id": "top_008",
+      "board": null,
+      "year": 2024,
+      "organization": null,
+      "role": null,
+      "statement": "O formato de arquivo `.evtx` é utilizado para armazenar logs de eventos em sistemas Windows mais antigos, como o Windows XP, enquanto o `.evt` é usado em versões mais recentes.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": "Média",
+      "external_reference": null,
+      "commentary": "Incorreto. A afirmação está invertida. O formato `.evt` é o mais antigo, usado em sistemas como Windows XP. O formato `.evtx` é o padrão para Windows Vista e versões posteriores, oferecendo uma estrutura mais robusta e baseada em XML.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_006"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_007",
+      "material_id": "mat_001",
+      "topic_id": "top_007",
+      "board": null,
+      "year": 2024,
+      "organization": null,
+      "role": null,
+      "statement": "Os Eventos Encaminhados (Forwarded Events) permitem a centralização de logs de múltiplos computadores em um único local, facilitando a análise forense em ambientes de rede.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": "Fácil",
+      "external_reference": null,
+      "commentary": "Correto. A funcionalidade de Eventos Encaminhados permite que logs de diferentes máquinas sejam enviados para um servidor centralizado, o que simplifica e otimiza a análise forense e o monitoramento de segurança em ambientes distribuídos.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_007"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_008",
+      "material_id": "mat_001",
+      "topic_id": "top_006",
+      "board": null,
+      "year": 2024,
+      "organization": null,
+      "role": null,
+      "statement": "A ferramenta `Get-WinEvent` do PowerShell é uma alternativa para a análise de logs de eventos do Windows via linha de comando, oferecendo recursos de filtragem e exportação.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": "Fácil",
+      "external_reference": null,
+      "commentary": "Correto. `Get-WinEvent` é um cmdlet do PowerShell poderoso para consultar logs de eventos, permitindo filtrar por diversos critérios (ID, origem, nível, data) e exportar os resultados, sendo uma ferramenta essencial para automação e análise de logs.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_008"
+        ],
+        "count": 1
+      }
+    }
+  ],
+  "comentarios_questoes": [
+    {
+      "comment_id": "com_001",
+      "question_id": "qst_001",
+      "content": "Correto. O Log de Segurança é o repositório de eventos mais relevante para a segurança, registrando tentativas de acesso, alterações de privilégios e modificações em políticas, sendo fundamental para a detecção e investigação de atividades maliciosas.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_002",
+      "question_id": "qst_002",
+      "content": "Incorreto. Eventos relacionados a falhas de drivers de hardware e inicialização do sistema operacional são registrados no Log de Sistema. O Log de Aplicativo é destinado a eventos gerados por programas e aplicativos.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_003",
+      "question_id": "qst_003",
+      "content": "Incorreto. O Event ID 4624 indica um logon bem-sucedido. O Event ID 4625 é que representa uma falha de logon, sendo este sim um indicador de possíveis ataques de força bruta ou tentativas de acesso não autorizado.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_004",
+      "question_id": "qst_004",
+      "content": "Incorreto. O Visualizador de Eventos é uma ferramenta para visualizar e gerenciar logs, mas não possui a funcionalidade de criar um backup completo do sistema operacional. Suas ações são focadas na manipulação dos próprios logs.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_005",
+      "question_id": "qst_005",
+      "content": "Incorreto. A limpeza do Log de Segurança (Event ID 1102) é um evento altamente suspeito em uma investigação forense. Raramente ocorre por rotinas normais do sistema e é frequentemente utilizada por atacantes para apagar seus rastros, devendo ser investigada com prioridade.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_006",
+      "question_id": "qst_006",
+      "content": "Incorreto. A afirmação está invertida. O formato `.evt` é o mais antigo, usado em sistemas como Windows XP. O formato `.evtx` é o padrão para Windows Vista e versões posteriores, oferecendo uma estrutura mais robusta e baseada em XML.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_007",
+      "question_id": "qst_007",
+      "content": "Correto. A funcionalidade de Eventos Encaminhados permite que logs de diferentes máquinas sejam enviados para um servidor centralizado, o que simplifica e otimiza a análise forense e o monitoramento de segurança em ambientes distribuídos.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_008",
+      "question_id": "qst_008",
+      "content": "Correto. `Get-WinEvent` é um cmdlet do PowerShell poderoso para consultar logs de eventos, permitindo filtrar por diversos critérios (ID, origem, nível, data) e exportar os resultados, sendo uma ferramenta essencial para automação e análise de logs.",
+      "explanation_alternatives": ""
+    }
+  ],
+  "checklist_revisao": [
+    {
+      "checklist_id": "chk_001",
+      "material_id": "mat_001",
+      "topic_id": "top_002",
+      "item_text": "Compreender a definição e o propósito dos Logs de Eventos do Windows na forense.",
+      "completed": false,
+      "order": 1
+    },
+    {
+      "checklist_id": "chk_002",
+      "material_id": "mat_001",
+      "topic_id": "top_003",
+      "item_text": "Diferenciar os principais tipos de logs: Aplicativo, Segurança, Sistema, Instalação e Eventos Encaminhados.",
+      "completed": false,
+      "order": 2
+    },
+    {
+      "checklist_id": "chk_003",
+      "material_id": "mat_001",
+      "topic_id": "top_005",
+      "item_text": "Memorizar os Event IDs mais críticos para segurança (4624, 4625, 4672, 1102, etc.).",
+      "completed": false,
+      "order": 3
+    },
+    {
+      "checklist_id": "chk_004",
+      "material_id": "mat_001",
+      "topic_id": "top_008",
+      "item_text": "Conhecer a estrutura de um evento de log (ID, Nível, Data/Hora, Origem, Usuário, Computador, Descrição).",
+      "completed": false,
+      "order": 4
+    },
+    {
+      "checklist_id": "chk_005",
+      "material_id": "mat_001",
+      "topic_id": "top_009",
+      "item_text": "Entender a importância dos logs na reconstrução de incidentes e detecção de atividades maliciosas.",
+      "completed": false,
+      "order": 5
+    },
+    {
+      "checklist_id": "chk_006",
+      "material_id": "mat_001",
+      "topic_id": "top_010",
+      "item_text": "Identificar as principais ferramentas de análise de logs (Visualizador de Eventos, PowerShell, `wevtutil`).",
+      "completed": false,
+      "order": 6
+    },
+    {
+      "checklist_id": "chk_007",
+      "material_id": "mat_001",
+      "topic_id": "top_011",
+      "item_text": "Reconhecer as pegadinhas comuns do CEBRASPE relacionadas a logs de eventos.",
+      "completed": false,
+      "order": 7
+    },
+    {
+      "checklist_id": "chk_008",
+      "material_id": "mat_001",
+      "topic_id": "top_008",
+      "item_text": "Saber a diferença entre os formatos `.evt` e `.evtx`.",
+      "completed": false,
+      "order": 8
+    }
+  ],
+  "referencias": [
+    {
+      "reference_id": "ref_001",
+      "material_id": "mat_001",
+      "reference_type": "Artigo Online",
+      "author_name": "Perito Lucio",
+      "title": "Análise Forense de Logs no Windows",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHwTEiknA5nQZVim0eMoGtqzjU27N3XruVuK1YiZcOkstd8dvQdtMg4t_1nqepvfJ_dUYIVgMQF3C3ppQ5_IC0dsIdrxFz2Z8CiApROfPOebm2EW7GKdGqwiKnT64CIBXR6aVxXlA74e_U5iqO9Fhhdn6vH1zw=",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_002",
+      "material_id": "mat_001",
+      "reference_type": "Artigo Online",
+      "author_name": "ShellXploit",
+      "title": "Windows Event Log Forensics: A Comprehensive Guide",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHR_v3eKDgofUvSLY9rbVvj2FN2pFNM6v9AoWjMmaD0fvJC-yz2oI7AUGX5kNuc2ncssAPiyTNV7K3HNlxpaasPF5pOzBmt9qsbc9cn24v22G0eYNlVLCiiblU74EGn9SfI7rv-hCzNS4j_u6AzEkGvJ5Tbs_m3Vh-DJ37AnnLiTMgIdAJNHi-u2tJ3u4dCTlfYl-sBqi-I",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_003",
+      "material_id": "mat_001",
+      "reference_type": "Documentação Técnica",
+      "author_name": "ManageEngine",
+      "title": "O que é o log de eventos do Windows — um guia do ADAudit Plus",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHWSP72EtrVW6StPUvRSF55SGYccH1NRTaQ7vTV0YyXI83ChhecDrngUQysz-ncSzv-XtYr88v-1uuVCvuWx43ltbcXatNWB2Jg4TegVuX5q-1GVMH0N2Ulkpq8V5zHoTPwjNMb4sySHhHl4nTjnXmfsLq8M1buyEnsXMiftS1gQ48rZEzEKHqo6WCOMnU=",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_004",
+      "material_id": "mat_001",
+      "reference_type": "Artigo Técnico",
+      "author_name": "Belkasoft",
+      "title": "Windows Event Log Forensics: Techniques, Tools, and Use Cases",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGC3brQH5TOv8EqGh7x1fsExcw4foCoto2YUQVg8eYtuPeyMvksUaB_sBpwGW5ECp_pcVHqHwQS_MIhWSdIAyGXoI0N_XGLt4zXYOitb_zuj-kUAefwCynY8rpQfXVoSQTsT8Vj_3_QmloHig==",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_005",
+      "material_id": "mat_001",
+      "reference_type": "Artigo Online",
+      "author_name": "InfosecPandey",
+      "title": "40 Windows Event IDs Every Security Analyst Must Know",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHdj86BIuqQPIw3YzD4HQBmt9QeBjCDD8PSgTcmvlVpac9VayUg2kx4kwjKqisnANYygbFZdsDZH7fSIHgcUO2k1mTCe-kHclW5EiYqJS_96KJpHn7fhCNKq7mu9Y1idcA54UOVLy4iZZqmqa8pXsAWpXNl7VfTFSpETppFKkRjojHNf7Ux-BC4qurI2mzN0xtm_UrDoWMlP_K-pnWR",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_006",
+      "material_id": "mat_001",
+      "reference_type": "Artigo Online",
+      "author_name": "InfoSec Write-ups",
+      "title": "The Windows Event IDs Every Cybersecurity Professional Must Know",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEV4G59GdveD9yTHKXeFzD1Hp983D3s_eo2mYVOQmLswMU53NRavGt_W6zxsDnlu_3PEnBJIB_i4x0XZYLA20q4sIiV5frCN_ux_EIwU_gd2-yRoKTbmXAwE5YFpXw4Oe2nWGXB4ve2HqF4ntLCOjyqKWRUWAtFNZu-VBBy7VttnqGtUlnbklwhXWpch5dj-H16eFJ7xme6dYvoZhUOjujcOiHN",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_007",
+      "material_id": "mat_001",
+      "reference_type": "Glossário Técnico",
+      "author_name": "SolarWinds",
+      "title": "What Is a Windows Event Log? - IT Glossary",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHW_lHX42VnvGJJTCvZshV3Mrxz2pzu9fDsxIJdGgYeto-GRzo-cWnF_OCiubKPYXui9TW5sB3oE_Q8X0Wb1SL2f87Zypxum8R1gEw6Vek-WsbqQ9r1BBvlytQWoKOF_QsolPxBvaSGe_IKFCtK6LOVWNB93v349kjFJhQR",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_008",
+      "material_id": "mat_001",
+      "reference_type": "Artigo Online",
+      "author_name": "Pplware",
+      "title": "Análise Forense no Windows: artefactos fundamentais para a investigação",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHbMlLhrLHULmNEEgNKPwpPOqpDPgjyktzY8wzWWwPJKuX8dnOk00Fvd3vUX0dT_EC6mCG2IgpOSK9IcOVVybHNvCbJIEsHhJawGzQ0fpoh7vKIuN7mhlFSslZaqmlj_BEkZqCpDcvEFSb2nlfmV4j5x12a8bN8qSwxqVhIsmTgFzr6TwnL-wHr3yCWnu1uO32QRQ26pm1v9PfsNM=",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_009",
+      "material_id": "mat_001",
+      "reference_type": "Documentação Técnica",
+      "author_name": "ManageEngine",
+      "title": "The 8 most critical Windows security event IDs",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGJIMKPXKRNl0fBWzwG-aPok6QgaxRuv8y_m0ftogPdx-bQhcRH-jKrPXD2RiJn9c2hG6y71ALfpB5VmSeIvoGX5Ula4Q6THgyfEQ926JXcrVaqfPIwehgREVBIOjE5C9XtwvIVKYzSQtwRUXvPDOY0LPETqUYd7xDDC0sZtRm_BruQqXP1K-uJDQ6DDjPMoBb972yzjX_BzWCv1r8hf4XbcBXg-l8ljaD_",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_010",
+      "material_id": "mat_001",
+      "reference_type": "Artigo Técnico",
+      "author_name": "Forensafe",
+      "title": "Windows Event Logs - Forensafe",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEO3aBk8dqcn-_5l5cmMTDKWabMBkTxDZ4kuyDLyatU8cjL9zKkMaibW-AboW9bQ8RnZDY91AO98eSk0O9H_babXrxbzeDjnM8RL6fR-1-lgQ-QHsLeZkrcb9w3a37uN8KfG11L-g==",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_011",
+      "material_id": "mat_001",
+      "reference_type": "Vídeo Educacional",
+      "author_name": "YouTube - Fabrizio Rodrigues",
+      "title": "Acesse o log de eventos do Windows e crie seu próprio script de automação sem ferramentas extras!",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEhuJ3hwZWlSfXMIRjFoBzo0R8szboyEFR3gKZM788PIDkyzT2PZYMrH5rpoQ67v20YcxZHX6rJDuRk4kRKthGw6kFFLZs70F0gYb6bR2aDVvpytYf5LUaYqO9ZuV7gCSvqUTQ1TQ==",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_012",
+      "material_id": "mat_001",
+      "reference_type": "Artigo Online",
+      "author_name": "ACS PRO",
+      "title": "8 Event IDs mais críticos de segurança do Windows",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFz2P_jw6WbmkGYmCOvcWqy9Oaz_cIILHOq7cLZwwH1T88yoE1TvD7k59ylQ-CndIxKxrbn1Now_Fkgmvv4qImSE2jCHx_hsISIjLYeA_RYieXCObMiXQa9ma9i_EIRCsx8clzD0PN1ZY0QtRBzW6Ewrrr2i0c8xWJV4e5wBimzbJ7G",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_013",
+      "material_id": "mat_001",
+      "reference_type": "Artigo Técnico",
+      "author_name": "ElcomSoft blog",
+      "title": "Forensic Analysis of Windows 10 and 11 Event Logs",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGD_TClWt3QDWK3V6R6C9W6fhx30o0rNbe10HlBlIKiuNk-1dMI_KQiYuFIC0D20TtOLmdP3ThGtT974dRTU2UbiFm8Mq8xrYnAUMo1EJfxgGkGfIfW1xFBRRTfI3WSHRDEPGbBWBEbRD7zyH8DpKrQa92I4Uc3SGAoIlmnDThfONnfPYVmVLrDI9vLUV06Mw==",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_014",
+      "material_id": "mat_001",
+      "reference_type": "Artigo Online",
+      "author_name": "BoletimSec",
+      "title": "Nova Técnica Forense Expõe Rastros de Hackers no RDP",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGru6QOUicNT8h0IqV2snRhP2soCTxSOSSnJMNAzk0ciiOiuDQ0QT2dcZoMoNRcitMx09lJr-cr-__1gdncQsk-cdSrSw8003UEPvj_q8eFYyAuk9xsri79W6HSy-TW7U9jAb4j2Ey96s2caSlDKZCIClKfYot0xaqzG2iteatcagAK70-T5A==",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_015",
+      "material_id": "mat_001",
+      "reference_type": "Documentação Técnica",
+      "author_name": "IBM",
+      "title": "Log de Eventos do Windows",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGXaflVInT61Ej1vJX7ETWuiZKajkyxH_SBGUURr6pNWThQTGMqNwIytcn0qfHrOm23cO7n2aZfouza_gum240RdYiGc24LDs9hNOy9KStmVIAijbzmTIEde82xqMauP7wnVmDqoEs_RztE9uxy08jDZFhhvOu17xJwrbW-",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_016",
+      "material_id": "mat_001",
+      "reference_type": "Documentação Oficial",
+      "author_name": "Microsoft Learn",
+      "title": "Log de Eventos do Windows - Win32 apps",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEPaivx8LQXtT6Y1jYHu_6zPxpbRcodM2nAmNBGd2zAL-tloPM3lpX-gpY689rBy_7tamB3vukdHh-2wrxvClfHSFGeSv6dPUagUK1KdC-JY1VlHhe71w1B3A65TNgQCwMAxQk_Vc8WD5HAWN8hmfzYN5lul90lDK9Dq5oQbYhi",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_017",
+      "material_id": "mat_001",
+      "reference_type": "Artigo Online",
+      "author_name": "Lenovo",
+      "title": "O que é o visualizador de eventos do Windows?",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.google.com/grounding/search?p=AUZIYQEGBJw1Ok43rGrkIW94oXXSzL3IOhX9SyucjV4gi4FterztjvXYrrcnz7HkT9tU0pAtcDW96d_GC3rgObEm3aNhB2aDVT4xB4L6kT_ZprKQk6hBZWL65ucdY-W8X6tobTrM-3z19jUqXqCIyg9wlfMJ5b1X3eI=",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_018",
+      "material_id": "mat_001",
+      "reference_type": "Documentação Oficial",
+      "author_name": "Microsoft Learn",
+      "title": "Visualizador de Eventos",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFAgXJDgPvGM6he1JbA1NJZrStJqKoQ-nIftI549nMrhMjeuatyqPX31O7jJD1Z1-joP-ysl3SrR_9X-rF4OBjDRO-9Oyxu6eIpuYzW818rYWADaToPSAHgoZ-J0hxGrxRUkvWweO5WUl_XlA_SeuWyphqJ98w=",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_019",
+      "material_id": "mat_001",
+      "reference_type": "Treinamento Oficial",
+      "author_name": "Microsoft Learn",
+      "title": "Gerenciar e monitorar logs de eventos do Windows Server - Training",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHw-bbliRgAS-o6UiGaLlNAw569ed85wMl_FJVj-6wbbUY7K9Ko3tS1Wzu96RkzEayZ3AAJpidsLrpGL_vcJCGEI1FbVWEuBokVypgU0xYHfPxKM6hvN8DOAnJ3eaYAWNN5l5gSCZxwil-Jn2SV4fmZr9hFuTuaGJSJM_jVTuZyfAbN2u-XMRY=",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_020",
+      "material_id": "mat_001",
+      "reference_type": "Questão de Concurso",
+      "author_name": "Qconcursos - CESPE/CEBRASPE (2016)",
+      "title": "No visualizador de eventos do Windows 7, para cada evento de um log, é possível",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFjxPlMkhbmRLVo6HVK-ezZD073UOfwji3NMi-iHdV4_k1n545SdjvLKMPl_kcwZD8GYFPJoonkTEw8H9tpcJcdGn03e-vmxf97Pv7UsPpPjYaJ1NRgIniSfkaHXC-22y5crApy5xUfb9CIsg8Em95vS2DW6UZM4_vQ2hTsP0bLIk8-mNL_EMA70IlhG4XmAi8V",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_021",
+      "material_id": "mat_001",
+      "reference_type": "Artigo de Blog",
+      "author_name": "Estratégia Concursos",
+      "title": "Como é a cobrança de Banco de Dados em concursos para a PF",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGcuVKftwYMxAn6tetTRkSOPXvz8lx4wudfmZ3q39gGxhD5iQK_XLsFlM1fZr0aGJrXTrO66QdU3PSngDm2lcz-MEa0QpJ_tGafiJC1iKcGq0KmQ9soR3PGe0_m8wm9wiUKbYW8NZjizSKuzR-80ee1-VvdzLAWH16NxKsaMjKTqVE=",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_022",
+      "material_id": "mat_001",
+      "reference_type": "Questão de Concurso",
+      "author_name": "Qconcursos - CESPE (2016)",
+      "title": "Questão Julgue o próximo item, acerca dos protocolos Syslog e Microsoft Event Viewer.",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGJx_7AkaJGw8D1B1TCFuKGaGL9rlB5msFPTVr1GVhW6jkZ3XEmSViDCbL8zQdqKFNlgZ7gG8YWk78b4PkLDkfMImXRATj2uyYUjc1RwHsWghKnka56OECS5pX2simlrtW47J7YpTE20KoqjOWMnleIqAsxaTcIWN2avNXJEhHa_Fe9y3Je7YuT",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_023",
+      "material_id": "mat_001",
+      "reference_type": "Questão de Concurso",
+      "author_name": "Qconcursos - CESPE / CEBRASPE (2016)",
+      "title": "No visualizador de eventos do Windows 7, para cada evento de...",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGGO9-XLZYbkpYGip6Ec-rPIhoasx77LBZANTu3CmPXfcmz3OpfPSTxR_1ktZGOTPxCgu_OY5aWspdYx8WpckohKH7mDMLmnB1b0c243OCCQ9UfYA4v6ANFlxReIJa6qntxS_vl9Jm1Kh2Gyi_fugPek9hTPyvz7ui-oY5Ab0y8",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_024",
+      "material_id": "mat_001",
+      "reference_type": "Artigo de Blog",
+      "author_name": "Estratégia Concursos",
+      "title": "Cobrança CESPE: análise completa da banca e estratégias de prova!",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH-DJ5hdF39jLYdRPtA0angRRHayuyv8URjcElVynVAs6EQWjXZEqfl4zTeIjyYn-_AG5Jw0ZvNhtxcjCcRzgiNAFECn0euhGUD3eYs173TCZ5UkmTFjvCjWL8kt9gk9QRgYu6ptGkh61T2_ULzbX9yDjgocbDu5r7Y7j7Qtzb3s_RJmtBGoqhAl9HLjmRoYETO4ckFFOXyj4oOcFKua_m29IVFafPj",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_025",
+      "material_id": "mat_001",
+      "reference_type": "Questão de Concurso",
+      "author_name": "Qconcursos",
+      "title": "Os registros de sistema (logs) permitem conhecer o comportam...",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGxbauzCyzq55GEbdKN8dQPbkx-P4IpnVWAz5lFgbKJGRav3CiDxMmL7oTqXTqUfBgSgS8FR_d2ojXLlPPaYdDpC2FL_JK74-iSm3lLApn6TCjb5COmZlBkGIcSfbdnqjCqk7ieUmsmEFizxng0ftk2SRHa0SUT1pqs8ELWOJKQ",
+      "accessed_at": null,
+      "description": null
+    }
+  ],
+  "estatisticas_de_geracao": {
+    "total_topicos": 11,
+    "total_componentes_topico": 9,
+    "total_entendimentos_relevantes": 3,
+    "total_pegadinhas": 4,
+    "total_pontos_memorizacao": 7,
+    "total_itens_quadro_sinotico": 0,
+    "total_questoes": 8,
+    "total_comentarios_questoes": 8,
+    "total_itens_checklist": 8,
+    "total_referencias": 25
+  },
+  "validacao_interna": {
+    "pesquisa_previa_realizada": true,
+    "analise_de_cobrancas_anteriores_realizada": true,
+    "material_atualizado": true,
+    "json_valido": true,
+    "estrutura_relacional_respeitada": true,
+    "numeracao_respeitada": true,
+    "houve_quebra_de_hierarquia": false,
+    "houve_nivel_numerico_superior_a_3": false,
+    "fontes_verificadas": true,
+    "sem_informacao_inventada": true
+  },
+  "metadata": {
+    "source_file_name": "7__informática-e-dados__7-noções-de-forense-computacional-7.4-log-de-eventos-do-windows.json",
+    "normalized_checksum": "12b69d6c70366b88558e8ebf0af9a2fa7c1aff34b52e1dd1fcee45163ea1cd68",
+    "subject_slug": "informatica",
+    "material_slug": "forense-computacional-log-eventos",
+    "title_slug": "nocoes-de-forense-computacional-log-de-eventos-do",
+    "board_slug": "cebraspe",
+    "counters": {
+      "blocks": 7,
+      "topics": 11,
+      "topic_components": 9,
+      "traps": 4,
+      "memory_points": 7,
+      "summary_items": 0,
+      "questions": 8,
+      "question_comments": 8,
+      "checklist_items": 8,
+      "references": 25
+    }
+  }
+}

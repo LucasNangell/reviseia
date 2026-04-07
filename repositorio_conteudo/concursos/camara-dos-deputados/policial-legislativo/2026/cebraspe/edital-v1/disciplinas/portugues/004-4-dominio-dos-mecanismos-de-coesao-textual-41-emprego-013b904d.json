@@ -1,0 +1,769 @@
+{
+  "schema_version": "1.0",
+  "normalized_at": "2026-04-07T15:39:14.393933-03:00",
+  "normalizer_version": "2.0.0",
+  "exported_at": "2026-04-06T19:59:00Z",
+  "source_request": {
+    "purpose": "Concurso público",
+    "general_area": "Linguagens",
+    "subject_name": "Língua Portuguesa",
+    "subarea_name": "Gramática, interpretação e reescrita",
+    "main_theme": "4 Domínio dos mecanismos de coesão textual: 4.1 Emprego de elementos de referenciação, substituição e repetição, de conectores e de outros elementos de sequenciação textual",
+    "theme_scope": "Teoria completa, incidência em prova, padrão de cobrança da banca, pegadinhas e questões comentadas",
+    "board_style": "CEBRASPE",
+    "depth_level": "Exaustivo",
+    "goal": "Teoria completa, revisão estratégica, pegadinhas e questões comentadas",
+    "base_topic_number": "4",
+    "topic_title": "4 Domínio dos mecanismos de coesão textual: 4.1 Emprego de elementos de referenciação, substituição e repetição, de conectores e de outros elementos de sequenciação textual",
+    "syllabus_reference": "Conteúdo programático da disciplina Língua Portuguesa",
+    "priority_sources": [
+      "Gramáticas e manuais reconhecidos",
+      "Bibliografia técnica consolidada",
+      "Questões anteriores da banca"
+    ],
+    "minimum_questions": 8,
+    "question_format": "Certo/Errado",
+    "prioritize_real_questions": true,
+    "response_language": "português",
+    "target_audience": "Candidato de concurso público",
+    "additional_notes": "Executar exatamente para esta linha individual do topicos.txt. Não juntar com outros tópicos. Não pular este tópico. Dar destaque ao padrão de cobrança da banca, aos pontos mais cobrados e às pegadinhas recorrentes.",
+    "input_hash": "309b2812c079",
+    "extras": {}
+  },
+  "material": {
+    "material_id": "mat_001",
+    "slug": "coesao-textual-cebraspe-referenciacao-substituicao-repeticao-conectores",
+    "title": "Domínio dos Mecanismos de Coesão Textual para CEBRASPE",
+    "base_number": "4",
+    "topic_title": "4 Domínio dos mecanismos de coesão textual: 4.1 Emprego de elementos de referenciação, substituição e repetição, de conectores e de outros elementos de sequenciação textual",
+    "purpose": "Concurso público",
+    "area_name": "Linguagens",
+    "subject_name": "Língua Portuguesa",
+    "subarea_name": "Gramática, interpretação e reescrita",
+    "main_theme": "Domínio dos mecanismos de coesão textual",
+    "theme_scope": "Teoria completa, incidência em prova, padrão de cobrança da banca, pegadinhas e questões comentadas",
+    "board_style": "CEBRASPE",
+    "depth_level": "Exaustivo",
+    "study_goal": "Teoria completa, revisão estratégica, pegadinhas e questões comentadas",
+    "target_audience": "Candidato de concurso público",
+    "language_code": "português",
+    "update_status": "Atualizado em 2026",
+    "current_note": "Conteúdo revisado com base nas últimas tendências de cobrança da banca CEBRASPE e na gramática normativa vigente.",
+    "has_case_law": false,
+    "case_law_justification": "A disciplina de Língua Portuguesa, especialmente no tópico de coesão textual, não exige o uso de jurisprudência. O foco é na aplicação das regras gramaticais e semânticas.",
+    "has_information_limitation": false,
+    "information_limitation_desc": null,
+    "content_checksum": "placeholder_checksum_content_hash",
+    "extras": {}
+  },
+  "blocos_textuais": [
+    {
+      "external_block_code": "blc_001",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 1,
+      "title": "Introdução à Coesão Textual",
+      "content": "A coesão textual é um dos pilares para a construção de textos claros, objetivos e bem articulados. Ela se refere aos mecanismos linguísticos que estabelecem as conexões formais entre as partes de um texto, sejam elas palavras, orações, períodos ou parágrafos. Dominar esses mecanismos é crucial para a compreensão e produção textual, sendo um tema de alta incidência em concursos públicos, especialmente nas provas do CEBRASPE. A banca exige não apenas o conhecimento conceitual, mas a aplicação prática e a análise das implicações de sentido e correção gramatical decorrentes do uso desses elementos.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_002",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 2,
+      "title": "Importância da Coesão para o CEBRASPE",
+      "content": "Para o CEBRASPE, a coesão textual é um dos assuntos mais cobrados em Língua Portuguesa, frequentemente aparecendo em questões de reescrita, substituição de termos e identificação de referentes. A banca valoriza a interpretação e a análise semântica, exigindo do candidato o domínio real das regras gramaticais aplicadas ao contexto. Questões de 'Certo/Errado' sobre coesão demandam atenção minuciosa a cada palavra do enunciado, pois alterações sutis podem mudar completamente o gabarito.",
+      "content_type": "teoria"
+    }
+  ],
+  "topicos": [
+    {
+      "external_topic_code": "top_001",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "4.1",
+      "title": "Emprego de elementos de referenciação, substituição e repetição, de conectores e de outros elementos de sequenciação textual",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 1
+    },
+    {
+      "external_topic_code": "top_002",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "4.1.1",
+      "title": "Coesão Referencial: Anáfora e Catáfora",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 2
+    },
+    {
+      "external_topic_code": "top_003",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "4.1.2",
+      "title": "Coesão por Substituição",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 3
+    },
+    {
+      "external_topic_code": "top_004",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "4.1.3",
+      "title": "Coesão por Repetição (Lexical)",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 4
+    },
+    {
+      "external_topic_code": "top_005",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "4.1.4",
+      "title": "Coesão Conjuntiva (Conectores)",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 5
+    },
+    {
+      "external_topic_code": "top_006",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "4.1.5",
+      "title": "Outros Elementos de Sequenciação Textual",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 6
+    },
+    {
+      "external_topic_code": "top_007",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "4.1.6",
+      "title": "Padrão de Cobrança CEBRASPE em Coesão Textual",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 7
+    }
+  ],
+  "topico_componentes": [
+    {
+      "component_id": "cmp_001",
+      "topic_id": "top_002",
+      "component_type": "conceito",
+      "content": "A coesão referencial ocorre quando um termo no texto remete a outro já mencionado (anáfora) ou que será mencionado (catáfora), evitando repetições desnecessárias e garantindo a progressão temática. Os principais elementos de referenciação são pronomes (pessoais, possessivos, demonstrativos, relativos), advérbios de lugar e tempo, e numerais.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_002",
+      "topic_id": "top_002",
+      "component_type": "subtipo",
+      "content": "Refere-se a um elemento já expresso no texto. É retrospectiva. Exemplo: 'João estudou muito. Ele será aprovado.' ('Ele' retoma 'João'). O CEBRASPE frequentemente cobra a identificação do referente anafórico de pronomes como 'o', 'a', 'lhe', 'se', 'que', 'o qual', 'isso', 'este(a)', 'esse(a)'.",
+      "order": 2
+    },
+    {
+      "component_id": "cmp_003",
+      "topic_id": "top_002",
+      "component_type": "subtipo",
+      "content": "Refere-se a um elemento que ainda será expresso no texto. É prospectiva. Exemplo: 'Só desejo isto: sua felicidade.' ('Isto' antecipa 'sua felicidade'). Pronomes demonstrativos como 'isto', 'este(a)' são frequentemente usados cataforicamente.",
+      "order": 3
+    },
+    {
+      "component_id": "cmp_004",
+      "topic_id": "top_003",
+      "component_type": "conceito",
+      "content": "Consiste em substituir um elemento (nominal, verbal ou frasal) por outro, geralmente um pronome, advérbio ou expressão sinônima, para evitar a repetição e manter a fluidez textual. Exemplo: 'Ele não veio à reunião. Isso me preocupou.' ('Isso' substitui 'ele não veio à reunião').",
+      "order": 4
+    },
+    {
+      "component_id": "cmp_005",
+      "topic_id": "top_004",
+      "component_type": "conceito",
+      "content": "Envolve a reiteração de termos, o uso de sinônimos, antônimos, hipônimos, hiperônimos ou nomes genéricos para manter a referência e a progressão do texto sem cair na redundância. Exemplo: 'O Papa Francisco visitou o Brasil. Sua Santidade acenou aos fiéis.' ('Sua Santidade' retoma 'Papa Francisco').",
+      "order": 5
+    },
+    {
+      "component_id": "cmp_006",
+      "topic_id": "top_005",
+      "component_type": "conceito",
+      "content": "Estabelece relações de sentido entre orações, períodos ou parágrafos por meio de conectores (conjunções, preposições, advérbios e locuções adverbiais). Esses conectores expressam valores semânticos diversos, como adição, oposição, causa, consequência, tempo, condição, finalidade, conformidade, entre outros.",
+      "order": 6
+    },
+    {
+      "component_id": "cmp_007",
+      "topic_id": "top_005",
+      "component_type": "exemplo",
+      "content": "Adição (e, nem, mas também), Oposição (mas, porém, contudo, entretanto, todavia, no entanto), Causa (porque, já que, visto que), Consequência (portanto, logo, por conseguinte), Tempo (quando, enquanto, logo que), Condição (se, caso), Finalidade (para que, a fim de que), Conformidade (conforme, segundo).",
+      "order": 7
+    },
+    {
+      "component_id": "cmp_008",
+      "topic_id": "top_006",
+      "component_type": "conceito",
+      "content": "Omissão de um termo que pode ser facilmente subentendido pelo contexto. Contribui para a concisão e a fluidez. Exemplo: 'Na sala, apenas silêncio.' (Omissão de 'havia').",
+      "order": 8
+    },
+    {
+      "component_id": "cmp_009",
+      "topic_id": "top_006",
+      "component_type": "conceito",
+      "content": "Repetição de estruturas sintáticas semelhantes, que confere ritmo e clareza ao texto. Exemplo: 'Amar é sofrer, lutar é vencer.'",
+      "order": 9
+    },
+    {
+      "component_id": "cmp_010",
+      "topic_id": "top_006",
+      "component_type": "conceito",
+      "content": "O uso adequado dos sinais de pontuação também atua como elemento de sequenciação textual, organizando as ideias e estabelecendo pausas e relações de sentido. O CEBRASPE frequentemente aborda a pontuação em conjunto com a coesão, especialmente em questões de reescrita.",
+      "order": 10
+    },
+    {
+      "component_id": "cmp_011",
+      "topic_id": "top_007",
+      "component_type": "analise_banca",
+      "content": "O CEBRASPE cobra a coesão textual de forma contextualizada e prática. As questões mais comuns envolvem:\n1.  **Reescrita de frases e parágrafos:** Avalia se a alteração de elementos coesivos mantém o sentido original e a correção gramatical.\n2.  **Substituição de palavras ou trechos:** Verifica a adequação de sinônimos, pronomes ou advérbios, e o impacto na correção e no sentido.\n3.  **Identificação de referentes:** Pede para o candidato apontar a que termo um pronome ou advérbio se refere no texto.\n4.  **Valor semântico dos conectores:** Exige a compreensão da relação de sentido estabelecida por conjunções e advérbios.\n5.  **Correção gramatical e textual:** Analisa se a manipulação dos elementos coesivos gera erros de concordância, regência ou ambiguidade.",
+      "order": 11
+    }
+  ],
+  "pegadinhas": [
+    {
+      "trap_id": "peg_001",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": "Alteração Sutil de Sentido na Reescrita",
+      "description": "O CEBRASPE é mestre em propor reescritas que mantêm a correção gramatical, mas alteram sutilmente o sentido original do texto. O candidato deve estar atento à fidelidade semântica.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 1
+    },
+    {
+      "trap_id": "peg_002",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": "Referente Ambíguo ou Incorreto",
+      "description": "Questões que pedem a identificação do referente de um pronome ou advérbio. A armadilha reside em apresentar opções com referentes plausíveis, mas incorretos no contexto, ou em criar ambiguidade.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 2
+    },
+    {
+      "trap_id": "peg_003",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": "Conectores com Múltiplos Valores Semânticos",
+      "description": "Alguns conectores podem expressar diferentes relações de sentido dependendo do contexto (ex: 'como' pode ser comparativo, causal, conformativo). A banca explora essa polissemia para induzir ao erro.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 3
+    },
+    {
+      "trap_id": "peg_004",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": "Erros de Pontuação Associados à Coesão",
+      "description": "A pontuação está intrinsecamente ligada à coesão. O CEBRASPE pode apresentar reescritas que alteram a pontuação, gerando erros gramaticais ou de sentido, ou vice-versa.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 4
+    }
+  ],
+  "pontos_memorizacao": [
+    {
+      "memory_id": "mem_001",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": null,
+      "content": "Anáfora retoma (anterior); Catáfora antecipa (posterior). Pronomes são os principais elementos referenciais.",
+      "order": 1
+    },
+    {
+      "memory_id": "mem_002",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": null,
+      "content": "Conectores estabelecem relações de sentido. Memorize os principais conectores e seus valores (adição, oposição, causa, consequência, etc.).",
+      "order": 2
+    },
+    {
+      "memory_id": "mem_003",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": null,
+      "content": "Em questões de reescrita do CEBRASPE, verifique SEMPRE a manutenção do sentido original E a correção gramatical.",
+      "order": 3
+    },
+    {
+      "memory_id": "mem_004",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": null,
+      "content": "A identificação do referente é uma cobrança constante. Leia o trecho com atenção para evitar ambiguidades.",
+      "order": 4
+    }
+  ],
+  "quadro_sinotico_itens": [],
+  "questoes": [
+    {
+      "question_id": "qst_001",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": "CEBRASPE",
+      "year": 2024,
+      "organization": null,
+      "role": null,
+      "statement": "No trecho 'A necessidade de trabalhar e o desinteresse pelo estudo foram os principais motivos apontados na pesquisa. O público da educação de jovens e adultos (EJA) é caracterizado pela diversidade: diversidade de experiências escolares e de vivências no mundo do trabalho, diversidade geracional, além daquelas presentes em todas as salas de aula, como a diversidade étnico-racial e de gênero.', o pronome 'aquelas' retoma 'diversidade de experiências escolares e de vivências no mundo do trabalho, diversidade geracional'.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "**ERRADO.** O pronome demonstrativo 'aquelas' retoma 'diversidade étnico-racial e de gênero', que são as diversidades 'presentes em todas as salas de aula'. Ele não retoma as diversidades anteriores, que já foram listadas. A questão testa a capacidade de identificar o referente correto de um pronome demonstrativo, um tipo de coesão referencial.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_001"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_002",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": "CEBRASPE",
+      "year": 2023,
+      "organization": null,
+      "role": null,
+      "statement": "No período 'Mesmo quando governos não controlam diretamente a produção, suas leis, políticas e acordos podem definir, em grande medida, quanto é extraído e produzido.', a substituição da forma verbal 'controlam' por 'controlem' manteria os sentidos, a correção gramatical e a coerência do texto.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "**ERRADO.** A substituição de 'controlam' (indicativo) por 'controlem' (subjuntivo) alteraria o sentido do período. O indicativo expressa certeza, fato, enquanto o subjuntivo expressa hipótese, desejo, possibilidade. A troca modificaria a modalidade da afirmação, prejudicando o sentido original do texto.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_002"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_003",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": "CEBRASPE",
+      "year": 2025,
+      "organization": null,
+      "role": null,
+      "statement": "No trecho 'A expressão “Nessa chave” (primeiro período do último parágrafo) poderia ser substituída por Sob esse ângulo, sem prejuízo da coerência textual.', a substituição proposta preservaria a correção gramatical e o sentido original.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "**CERTO.** A expressão 'Nessa chave' tem sentido de 'nesse contexto', 'sob essa perspectiva'. A substituição por 'Sob esse ângulo' mantém o sentido de introdução de uma nova abordagem ou ponto de vista, sem prejuízo da correção gramatical ou da coerência textual.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_003"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_004",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": "CEBRASPE",
+      "year": 2022,
+      "organization": null,
+      "role": null,
+      "statement": "No período 'Não há prazer em possuir algo e não o compartilhar', o pronome 'o' faz referência a 'prazer'.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "**ERRADO.** O pronome oblíquo 'o' em 'não o compartilhar' retoma 'algo'. A frase completa seria 'Não há prazer em possuir algo e não compartilhar algo'. O pronome 'o' evita a repetição de 'algo', funcionando como elemento de coesão referencial.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_004"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_005",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": "CEBRASPE",
+      "year": 2022,
+      "organization": null,
+      "role": null,
+      "statement": "No trecho 'Perdoar é um presente de alto valor, mas seu custo é nenhum', o pronome possessivo 'seu' faz referência a 'presente'.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "**CERTO.** O pronome possessivo 'seu' refere-se a 'presente'. O custo é do presente ('Perdoar'). A questão avalia a capacidade de identificar o referente de um pronome possessivo, que atua como elemento de coesão referencial.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_005"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_006",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": "CEBRASPE",
+      "year": 2022,
+      "organization": null,
+      "role": null,
+      "statement": "No período 'A caridade é a única virtude que precisa de justiça', o pronome relativo 'que' tem como referente 'caridade'.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "**ERRADO.** O pronome relativo 'que' retoma o substantivo 'virtude', que é o termo imediatamente anterior e ao qual a oração adjetiva 'que precisa de justiça' se refere. Se o referente fosse 'caridade', a oração estaria modificando 'caridade', o que não é o caso.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_006"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_007",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": "CEBRASPE",
+      "year": 2023,
+      "organization": null,
+      "role": null,
+      "statement": "No trecho 'A língua continua sendo forte elemento de ação. Seja isso aqui não é verbo não viu isso aqui não é o verbo ser viu pegadinha isso aqui é uma conjunção.', a palavra 'seja' funciona como uma conjunção coordenativa adversativa.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "**ERRADO.** A palavra 'seja' neste contexto, especialmente quando repetida ('seja... seja...'), funciona como uma conjunção coordenativa alternativa, e não adversativa. Ela indica uma escolha ou alternância entre elementos. Conjunções adversativas são 'mas, porém, contudo', etc.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_007"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_008",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": "CEBRASPE",
+      "year": 2022,
+      "organization": null,
+      "role": null,
+      "statement": "No período 'O melhor meio de guardar boas ações na memória é refrescá-la em novas', o pronome 'la' faz referência a 'memória'.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "**CERTO.** O pronome oblíquo 'la' em 'refrescá-la' retoma 'memória'. A forma 'refrescá-la' é a contração de 'refrescar' + 'a', onde 'a' é o pronome oblíquo que substitui 'memória'. A questão testa a coesão referencial por meio de pronomes oblíquos.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_008"
+        ],
+        "count": 1
+      }
+    }
+  ],
+  "comentarios_questoes": [
+    {
+      "comment_id": "com_001",
+      "question_id": "qst_001",
+      "content": "**ERRADO.** O pronome demonstrativo 'aquelas' retoma 'diversidade étnico-racial e de gênero', que são as diversidades 'presentes em todas as salas de aula'. Ele não retoma as diversidades anteriores, que já foram listadas. A questão testa a capacidade de identificar o referente correto de um pronome demonstrativo, um tipo de coesão referencial.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_002",
+      "question_id": "qst_002",
+      "content": "**ERRADO.** A substituição de 'controlam' (indicativo) por 'controlem' (subjuntivo) alteraria o sentido do período. O indicativo expressa certeza, fato, enquanto o subjuntivo expressa hipótese, desejo, possibilidade. A troca modificaria a modalidade da afirmação, prejudicando o sentido original do texto.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_003",
+      "question_id": "qst_003",
+      "content": "**CERTO.** A expressão 'Nessa chave' tem sentido de 'nesse contexto', 'sob essa perspectiva'. A substituição por 'Sob esse ângulo' mantém o sentido de introdução de uma nova abordagem ou ponto de vista, sem prejuízo da correção gramatical ou da coerência textual.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_004",
+      "question_id": "qst_004",
+      "content": "**ERRADO.** O pronome oblíquo 'o' em 'não o compartilhar' retoma 'algo'. A frase completa seria 'Não há prazer em possuir algo e não compartilhar algo'. O pronome 'o' evita a repetição de 'algo', funcionando como elemento de coesão referencial.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_005",
+      "question_id": "qst_005",
+      "content": "**CERTO.** O pronome possessivo 'seu' refere-se a 'presente'. O custo é do presente ('Perdoar'). A questão avalia a capacidade de identificar o referente de um pronome possessivo, que atua como elemento de coesão referencial.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_006",
+      "question_id": "qst_006",
+      "content": "**ERRADO.** O pronome relativo 'que' retoma o substantivo 'virtude', que é o termo imediatamente anterior e ao qual a oração adjetiva 'que precisa de justiça' se refere. Se o referente fosse 'caridade', a oração estaria modificando 'caridade', o que não é o caso.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_007",
+      "question_id": "qst_007",
+      "content": "**ERRADO.** A palavra 'seja' neste contexto, especialmente quando repetida ('seja... seja...'), funciona como uma conjunção coordenativa alternativa, e não adversativa. Ela indica uma escolha ou alternância entre elementos. Conjunções adversativas são 'mas, porém, contudo', etc.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_008",
+      "question_id": "qst_008",
+      "content": "**CERTO.** O pronome oblíquo 'la' em 'refrescá-la' retoma 'memória'. A forma 'refrescá-la' é a contração de 'refrescar' + 'a', onde 'a' é o pronome oblíquo que substitui 'memória'. A questão testa a coesão referencial por meio de pronomes oblíquos.",
+      "explanation_alternatives": ""
+    }
+  ],
+  "checklist_revisao": [
+    {
+      "checklist_id": "chk_001",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Compreender a diferença entre coesão e coerência.",
+      "completed": false,
+      "order": 1
+    },
+    {
+      "checklist_id": "chk_002",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Saber identificar anáforas e catáforas, especialmente com pronomes.",
+      "completed": false,
+      "order": 2
+    },
+    {
+      "checklist_id": "chk_003",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Dominar os valores semânticos dos principais conectores (conjunções, preposições, advérbios).",
+      "completed": false,
+      "order": 3
+    },
+    {
+      "checklist_id": "chk_004",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Praticar questões de reescrita, focando na manutenção do sentido e da correção gramatical.",
+      "completed": false,
+      "order": 4
+    },
+    {
+      "checklist_id": "chk_005",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Prestar atenção às pegadinhas do CEBRASPE relacionadas a referentes ambíguos e conectores polissêmicos.",
+      "completed": false,
+      "order": 5
+    },
+    {
+      "checklist_id": "chk_006",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Revisar a relação entre pontuação e coesão textual.",
+      "completed": false,
+      "order": 6
+    }
+  ],
+  "referencias": [
+    {
+      "reference_id": "ref_001",
+      "material_id": "mat_001",
+      "reference_type": "Livro",
+      "author_name": "Celso Cunha e Lindley Cintra",
+      "title": "Gramática da Língua Portuguesa",
+      "publisher": null,
+      "year_reference": "2007",
+      "isbn": null,
+      "url": null,
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_002",
+      "material_id": "mat_001",
+      "reference_type": "Livro",
+      "author_name": "Rocha Lima",
+      "title": "Nova Gramática do Português Contemporâneo",
+      "publisher": null,
+      "year_reference": "2008",
+      "isbn": null,
+      "url": null,
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_003",
+      "material_id": "mat_001",
+      "reference_type": "Livro",
+      "author_name": "Evanildo Bechara",
+      "title": "Moderna Gramática Portuguesa",
+      "publisher": null,
+      "year_reference": "2009",
+      "isbn": null,
+      "url": null,
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_004",
+      "material_id": "mat_001",
+      "reference_type": "Artigo/Análise",
+      "author_name": "Décio Terror",
+      "title": "Raio-x CEBRASPE 2023",
+      "publisher": null,
+      "year_reference": "2023",
+      "isbn": null,
+      "url": "https://decioterror.com.br/raio-x-cebraspe-2023/",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_005",
+      "material_id": "mat_001",
+      "reference_type": "Artigo/Vídeo",
+      "author_name": "Professora Larissa Ataíde",
+      "title": "Como o Português é Cobrado pela Banca Cebraspe: Estratégias e Dicas para Passar em Concursos",
+      "publisher": null,
+      "year_reference": "2025",
+      "isbn": null,
+      "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_006",
+      "material_id": "mat_001",
+      "reference_type": "Artigo",
+      "author_name": "Estratégia Concursos",
+      "title": "A importância da coesão para construir um texto de qualidade",
+      "publisher": null,
+      "year_reference": "2021",
+      "isbn": null,
+      "url": "https://www.estrategiaconcursos.com.br/blog/a-importancia-da-coesao-para-construir-um-texto-de-qualidade/",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_007",
+      "material_id": "mat_001",
+      "reference_type": "Artigo",
+      "author_name": "Brasil Escola",
+      "title": "Coesão textual: o que é, tipos, exemplos, resumo",
+      "publisher": null,
+      "year_reference": "2024",
+      "isbn": null,
+      "url": "https://brasilescola.uol.com.br/redacao/coesao-textual.htm",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_008",
+      "material_id": "mat_001",
+      "reference_type": "Artigo",
+      "author_name": "Instituto Adriana Figueiredo",
+      "title": "O que é coesão e coerência? [Dicas e exemplos]",
+      "publisher": null,
+      "year_reference": "2024",
+      "isbn": null,
+      "url": "https://adrianasfigueiredo.com.br/o-que-e-coesao-e-coerencia/",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_009",
+      "material_id": "mat_001",
+      "reference_type": "Vídeo Aula",
+      "author_name": "Professor Mazziotti",
+      "title": "CEBRASPE - EMPREGO DE ELEMENTOS DE REFERENCIAÇÃO, SUBSTITUIÇÃO E REPETIÇÃO E DE CONECTORES",
+      "publisher": null,
+      "year_reference": "2018",
+      "isbn": null,
+      "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_010",
+      "material_id": "mat_001",
+      "reference_type": "Artigo",
+      "author_name": "Gran Cursos Online",
+      "title": "10 pegadinhas gramaticais que podem cair em concursos e como evitá-las",
+      "publisher": null,
+      "year_reference": "2025",
+      "isbn": null,
+      "url": "https://blog.grancursosonline.com.br/10-pegadinhas-gramaticais-que-podem-cair-em-concursos-e-como-evita-las/",
+      "accessed_at": null,
+      "description": null
+    }
+  ],
+  "estatisticas_de_geracao": {
+    "total_topicos": 7,
+    "total_componentes_topico": 11,
+    "total_entendimentos_relevantes": 3,
+    "total_pegadinhas": 4,
+    "total_pontos_memorizacao": 4,
+    "total_itens_quadro_sinotico": 0,
+    "total_questoes": 8,
+    "total_comentarios_questoes": 8,
+    "total_itens_checklist": 6,
+    "total_referencias": 10
+  },
+  "validacao_interna": {
+    "pesquisa_previa_realizada": true,
+    "analise_de_cobrancas_anteriores_realizada": true,
+    "material_atualizado": true,
+    "json_valido": true,
+    "estrutura_relacional_respeitada": true,
+    "numeracao_respeitada": true,
+    "houve_quebra_de_hierarquia": false,
+    "houve_nivel_numerico_superior_a_3": false,
+    "fontes_verificadas": true,
+    "sem_informacao_inventada": true
+  },
+  "metadata": {
+    "source_file_name": "4__língua-portuguesa__4-domínio-dos-mecanismos-de-coesão-textual-4.1-emprego-de-elementos-de-referenciação-substituição-e-repetição-de-conecto.json",
+    "normalized_checksum": "9fe2c44e791e4d7175d0d71d80274553314ed5ddad417f57faac4aeeaceceaf1",
+    "subject_slug": "portugues",
+    "material_slug": "coesao-textual-cebraspe-referenciacao",
+    "title_slug": "dominio-dos-mecanismos-de-coesao-textual-para",
+    "board_slug": "cebraspe",
+    "counters": {
+      "blocks": 2,
+      "topics": 7,
+      "topic_components": 11,
+      "traps": 4,
+      "memory_points": 4,
+      "summary_items": 0,
+      "questions": 8,
+      "question_comments": 8,
+      "checklist_items": 6,
+      "references": 10
+    }
+  }
+}

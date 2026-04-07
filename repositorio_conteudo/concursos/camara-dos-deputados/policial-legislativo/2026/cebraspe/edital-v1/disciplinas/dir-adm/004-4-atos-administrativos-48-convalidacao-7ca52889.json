@@ -1,0 +1,951 @@
+{
+  "schema_version": "1.0",
+  "normalized_at": "2026-04-07T15:39:14.313952-03:00",
+  "normalizer_version": "2.0.0",
+  "exported_at": "2026-04-07T17:44:00Z",
+  "source_request": {
+    "purpose": "Concurso público",
+    "general_area": "Direito",
+    "subject_name": "Direito Administrativo",
+    "subarea_name": "Direito Administrativo",
+    "main_theme": "4 Atos administrativos: 4.8 Convalidação",
+    "theme_scope": "Teoria completa, incidência em prova, padrão de cobrança da banca, pegadinhas e questões comentadas",
+    "board_style": "CEBRASPE",
+    "depth_level": "Exaustivo",
+    "goal": "Teoria completa, revisão estratégica, pegadinhas e questões comentadas",
+    "base_topic_number": "4",
+    "topic_title": "4 Atos administrativos: 4.8 Convalidação",
+    "syllabus_reference": "Conteúdo programático da disciplina Direito Administrativo",
+    "priority_sources": [
+      "Constituição Federal e legislação oficial vigente",
+      "Jurisprudência pertinente e atual, quando cabível",
+      "Doutrina consolidada",
+      "Questões anteriores da banca"
+    ],
+    "minimum_questions": 8,
+    "question_format": "Certo/Errado",
+    "prioritize_real_questions": true,
+    "response_language": "português",
+    "target_audience": "Candidato de concurso público",
+    "additional_notes": "Executar exatamente para esta linha individual do topicos.txt. Não juntar com outros tópicos. Não pular este tópico. Dar destaque ao padrão de cobrança da banca, aos pontos mais cobrados e às pegadinhas recorrentes.",
+    "input_hash": "cd012e28f51c",
+    "extras": {}
+  },
+  "material": {
+    "material_id": "mat_001",
+    "slug": "atos-administrativos-convalidacao-cebraspe",
+    "title": "Convalidação de Atos Administrativos para Concursos CEBRASPE",
+    "base_number": "4",
+    "topic_title": "4 Atos administrativos: 4.8 Convalidação",
+    "purpose": "Concurso público",
+    "area_name": "Direito",
+    "subject_name": "Direito Administrativo",
+    "subarea_name": "Direito Administrativo",
+    "main_theme": "4 Atos administrativos: 4.8 Convalidação",
+    "theme_scope": "Teoria completa, incidência em prova, padrão de cobrança da banca, pegadinhas e questões comentadas",
+    "board_style": "CEBRASPE",
+    "depth_level": "Exaustivo",
+    "study_goal": "Teoria completa, revisão estratégica, pegadinhas e questões comentadas",
+    "target_audience": "Candidato de concurso público",
+    "language_code": "português",
+    "update_status": "Atualizado",
+    "current_note": "Material atualizado com base na legislação vigente (Lei 9.784/99) e doutrina consolidada, com foco no padrão de cobrança da banca CEBRASPE.",
+    "has_case_law": true,
+    "case_law_justification": "A jurisprudência, especialmente a Súmula 473 do STF (princípio da autotutela), é fundamental para compreender o poder-dever da Administração de rever seus atos, o que inclui a convalidação. Embora não haja súmulas específicas sobre 'convalidação', o instituto se insere no contexto do controle administrativo dos atos.",
+    "has_information_limitation": false,
+    "information_limitation_desc": null,
+    "content_checksum": "a3b2c1d4e5f6g7h8i9j0k1l2m3n4o5p6",
+    "extras": {}
+  },
+  "blocos_textuais": [
+    {
+      "external_block_code": "blc_001",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 1,
+      "title": "Conceito de Convalidação",
+      "content": "A convalidação é o ato administrativo pelo qual a Administração Pública, verificando a existência de um vício sanável em um ato anterior, decide corrigi-lo para manter sua validade e eficácia. É um mecanismo de saneamento que visa ao aproveitamento dos atos administrativos, em observância aos princípios da economia processual, da segurança jurídica e da supremacia do interesse público. A convalidação opera com efeitos retroativos (ex tunc), ou seja, o ato é considerado válido desde a sua origem.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_002",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 2,
+      "title": "Fundamento Legal",
+      "content": "No ordenamento jurídico brasileiro, o instituto da convalidação está expressamente previsto no artigo 55 da Lei nº 9.784/99, que regula o processo administrativo no âmbito da Administração Pública Federal. O referido artigo estabelece que 'Em decisão na qual se evidencie não acarretarem lesão ao interesse público nem prejuízo a terceiros, os atos que apresentarem defeitos sanáveis poderão ser convalidados pela própria Administração'.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_003",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 3,
+      "title": "Requisitos para a Convalidação",
+      "content": "Para que um ato administrativo possa ser convalidado, a doutrina e a legislação estabelecem requisitos cumulativos:\n1.  **Vício Sanável**: O ato deve apresentar um defeito que seja passível de correção.\n2.  **Ausência de Lesão ao Interesse Público**: A convalidação não pode gerar prejuízo ao interesse coletivo.\n3.  **Ausência de Prejuízo a Terceiros**: A correção do vício não pode afetar direitos de terceiros de boa-fé.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_004",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 4,
+      "title": "Vícios Sanáveis (Convalidáveis)",
+      "content": "Os vícios considerados sanáveis são aqueles que não comprometem a essência do ato administrativo e podem ser corrigidos sem alterar sua finalidade ou objeto. Geralmente, incluem:\n*   **Vício de Competência (não exclusiva)**: Quando o ato é praticado por autoridade incompetente, mas a competência não é exclusiva de outro órgão ou agente. A autoridade competente pode ratificar o ato.\n*   **Vício de Forma (não essencial)**: Quando a forma não é considerada essencial para a validade do ato. Se a lei não exigir uma forma específica como condição de validade, o vício formal pode ser convalidado.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_005",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 5,
+      "title": "Vícios Insanáveis (Inconvalidáveis)",
+      "content": "São vícios que afetam elementos essenciais do ato administrativo, tornando-o nulo e insuscetível de convalidação. Incluem:\n*   **Vício de Motivo**: Quando o motivo que fundamentou o ato é falso ou inexistente.\n*   **Vício de Finalidade**: Quando o ato é praticado com desvio de finalidade, ou seja, com objetivo diverso do interesse público.\n*   **Vício de Objeto**: Quando o conteúdo do ato é ilegal, impossível ou imoral.\n*   **Vício de Competência (exclusiva)**: Quando a competência para a prática do ato é exclusiva de determinada autoridade ou órgão, não sendo passível de delegação ou avocação.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_006",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 6,
+      "title": "Diferenças e Institutos Correlatos",
+      "content": "É fundamental distinguir a convalidação de outros institutos de saneamento ou extinção dos atos administrativos:\n*   **Anulação**: Desfaz o ato administrativo ilegal, com efeitos retroativos (ex tunc), por vício de legalidade. A anulação é um dever da Administração (autotutela).\n*   **Revogação**: Extingue um ato administrativo válido e perfeito, por razões de conveniência e oportunidade, com efeitos prospectivos (ex nunc).\n*   **Ratificação**: É uma espécie de convalidação que corrige o vício de competência (não exclusiva), confirmando o ato desde sua origem.\n*   **Conversão**: Aproveitamento dos elementos válidos de um ato ilegal para a prática de outro ato, com finalidade diversa, mas com efeitos retroativos.\n*   **Cassação**: Extinção do ato administrativo em razão do descumprimento, pelo beneficiário, das condições impostas para sua manutenção.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_007",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 7,
+      "title": "Padrão de Cobrança da Banca CEBRASPE",
+      "content": "A banca CEBRASPE (CESPE) frequentemente aborda a convalidação de atos administrativos em questões do tipo Certo/Errado, exigindo do candidato conhecimento preciso sobre:\n*   **Conceito e Efeitos**: A retroatividade dos efeitos (ex tunc) é um ponto recorrente.\n*   **Vícios Sanáveis vs. Insanáveis**: A distinção entre os elementos do ato que podem ou não ser convalidados é a 'espinha dorsal' das questões. Vícios de motivo, finalidade e objeto são quase sempre considerados insanáveis.\n*   **Diferenças entre Institutos**: A CEBRASPE adora confundir convalidação com anulação, revogação e cassação, testando a compreensão das causas e efeitos de cada um.\n*   **Competência Exclusiva**: A impossibilidade de convalidar atos com vício de competência exclusiva é uma pegadinha comum.\n*   **Art. 55 da Lei 9.784/99**: A literalidade do artigo é frequentemente cobrada, especialmente a faculdade da Administração ('poderão ser convalidados').",
+      "content_type": "teoria"
+    }
+  ],
+  "topicos": [
+    {
+      "external_topic_code": "top_001",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "4.8",
+      "title": "Convalidação de Atos Administrativos",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 1
+    },
+    {
+      "external_topic_code": "top_002",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "4.8.1",
+      "title": "Conceito e Fundamento Legal",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 2
+    },
+    {
+      "external_topic_code": "top_003",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "4.8.2",
+      "title": "Requisitos e Efeitos da Convalidação",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 3
+    },
+    {
+      "external_topic_code": "top_004",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "4.8.3",
+      "title": "Vícios Sanáveis e Insanáveis",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 4
+    },
+    {
+      "external_topic_code": "top_005",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "4.8.4",
+      "title": "Distinções e Institutos Correlatos",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 5
+    },
+    {
+      "external_topic_code": "top_006",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "4.8.5",
+      "title": "Convalidação na Banca CEBRASPE",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 6
+    }
+  ],
+  "topico_componentes": [
+    {
+      "component_id": "cmp_001",
+      "topic_id": "top_002",
+      "component_type": "definicao",
+      "content": "A convalidação é o ato de suprir a invalidade de um ato administrativo com efeitos retroativos (ex tunc), desde que o vício seja sanável e não acarrete lesão ao interesse público ou prejuízo a terceiros.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_002",
+      "topic_id": "top_002",
+      "component_type": "legislacao",
+      "content": "Art. 55 da Lei nº 9.784/99: 'Em decisão na qual se evidencie não acarretarem lesão ao interesse público nem prejuízo a terceiros, os atos que apresentarem defeitos sanáveis poderão ser convalidados pela própria Administração.'",
+      "order": 2
+    },
+    {
+      "component_id": "cmp_003",
+      "topic_id": "top_003",
+      "component_type": "requisito",
+      "content": "Vício sanável: O defeito do ato deve ser passível de correção.",
+      "order": 3
+    },
+    {
+      "component_id": "cmp_004",
+      "topic_id": "top_003",
+      "component_type": "requisito",
+      "content": "Ausência de lesão ao interesse público: A convalidação não pode prejudicar a coletividade.",
+      "order": 4
+    },
+    {
+      "component_id": "cmp_005",
+      "topic_id": "top_003",
+      "component_type": "requisito",
+      "content": "Ausência de prejuízo a terceiros: Direitos de terceiros de boa-fé devem ser resguardados.",
+      "order": 5
+    },
+    {
+      "component_id": "cmp_006",
+      "topic_id": "top_003",
+      "component_type": "efeito",
+      "content": "Efeitos ex tunc: A convalidação retroage à data da prática do ato viciado, tornando-o válido desde sua origem.",
+      "order": 6
+    },
+    {
+      "component_id": "cmp_007",
+      "topic_id": "top_004",
+      "component_type": "vicio_sanavel",
+      "content": "Vício de competência (não exclusiva): Pode ser convalidado por ratificação da autoridade competente.",
+      "order": 7
+    },
+    {
+      "component_id": "cmp_008",
+      "topic_id": "top_004",
+      "component_type": "vicio_sanavel",
+      "content": "Vício de forma (não essencial): Convalidável se a forma não for requisito essencial de validade do ato.",
+      "order": 8
+    },
+    {
+      "component_id": "cmp_009",
+      "topic_id": "top_004",
+      "component_type": "vicio_insanavel",
+      "content": "Vício de motivo: Ato baseado em pressuposto de fato ou de direito falso/inexistente.",
+      "order": 9
+    },
+    {
+      "component_id": "cmp_010",
+      "topic_id": "top_004",
+      "component_type": "vicio_insanavel",
+      "content": "Vício de finalidade: Desvio de finalidade, buscando objetivo diverso do interesse público.",
+      "order": 10
+    },
+    {
+      "component_id": "cmp_011",
+      "topic_id": "top_004",
+      "component_type": "vicio_insanavel",
+      "content": "Vício de objeto: Conteúdo ilegal, impossível ou imoral do ato.",
+      "order": 11
+    },
+    {
+      "component_id": "cmp_012",
+      "topic_id": "top_004",
+      "component_type": "vicio_insanavel",
+      "content": "Vício de competência (exclusiva): Competência indelegável ou avocável.",
+      "order": 12
+    },
+    {
+      "component_id": "cmp_013",
+      "topic_id": "top_005",
+      "component_type": "distincao",
+      "content": "Convalidação (corrige vício sanável, ex tunc) vs. Anulação (desfaz ato ilegal, ex tunc).",
+      "order": 13
+    },
+    {
+      "component_id": "cmp_014",
+      "topic_id": "top_005",
+      "component_type": "distincao",
+      "content": "Convalidação (corrige vício sanável, ex tunc) vs. Revogação (extingue ato válido por conveniência/oportunidade, ex nunc).",
+      "order": 14
+    },
+    {
+      "component_id": "cmp_015",
+      "topic_id": "top_005",
+      "component_type": "distincao",
+      "content": "Ratificação: Espécie de convalidação para vício de competência não exclusiva.",
+      "order": 15
+    },
+    {
+      "component_id": "cmp_016",
+      "topic_id": "top_006",
+      "component_type": "padrao_cobranca",
+      "content": "Foco na distinção entre vícios sanáveis (competência não exclusiva e forma não essencial) e insanáveis (motivo, finalidade, objeto e competência exclusiva).",
+      "order": 16
+    },
+    {
+      "component_id": "cmp_017",
+      "topic_id": "top_006",
+      "component_type": "padrao_cobranca",
+      "content": "Cobrança da literalidade do Art. 55 da Lei 9.784/99, especialmente a expressão 'poderão ser convalidados', indicando faculdade, embora a doutrina majoritária entenda como dever em certos casos.",
+      "order": 17
+    },
+    {
+      "component_id": "cmp_018",
+      "topic_id": "top_006",
+      "component_type": "padrao_cobranca",
+      "content": "Questões que buscam confundir convalidação com anulação, revogação e cassação, exigindo conhecimento das causas e efeitos de cada instituto.",
+      "order": 18
+    }
+  ],
+  "pegadinhas": [
+    {
+      "trap_id": "peg_001",
+      "material_id": "mat_001",
+      "topic_id": "top_004",
+      "title": "Pegadinha 1",
+      "description": "Confundir vícios sanáveis com insanáveis, especialmente afirmando que vícios de motivo, finalidade ou objeto são convalidáveis. A CEBRASPE frequentemente troca esses elementos.",
+      "example_error": "Um ato administrativo com desvio de finalidade pode ser convalidado se não houver prejuízo a terceiros.",
+      "how_to_avoid": "",
+      "order": 1
+    },
+    {
+      "trap_id": "peg_002",
+      "material_id": "mat_001",
+      "topic_id": "top_003",
+      "title": "Pegadinha 2",
+      "description": "Inverter os efeitos da convalidação (ex tunc) com os da revogação (ex nunc).",
+      "example_error": "A convalidação de um ato administrativo produz efeitos ex nunc, ou seja, a partir do momento em que é realizada.",
+      "how_to_avoid": "",
+      "order": 2
+    },
+    {
+      "trap_id": "peg_003",
+      "material_id": "mat_001",
+      "topic_id": "top_005",
+      "title": "Pegadinha 3",
+      "description": "Misturar os conceitos de convalidação, anulação, revogação e cassação, atribuindo características de um instituto a outro.",
+      "example_error": "A cassação de um ato administrativo ocorre quando a Administração corrige um vício de competência.",
+      "how_to_avoid": "",
+      "order": 3
+    },
+    {
+      "trap_id": "peg_004",
+      "material_id": "mat_001",
+      "topic_id": "top_004",
+      "title": "Pegadinha 4",
+      "description": "Afirmar que vícios de competência exclusiva são convalidáveis.",
+      "example_error": "Mesmo que a competência seja exclusiva, o ato administrativo pode ser convalidado se não houver lesão ao interesse público.",
+      "how_to_avoid": "",
+      "order": 4
+    }
+  ],
+  "pontos_memorizacao": [
+    {
+      "memory_id": "mem_001",
+      "material_id": "mat_001",
+      "topic_id": "top_002",
+      "title": null,
+      "content": "Convalidação = corrigir vício sanável para manter o ato.",
+      "order": 1
+    },
+    {
+      "memory_id": "mem_002",
+      "material_id": "mat_001",
+      "topic_id": "top_003",
+      "title": null,
+      "content": "Efeitos da convalidação: SEMPRE ex tunc (retroativos).",
+      "order": 2
+    },
+    {
+      "memory_id": "mem_003",
+      "material_id": "mat_001",
+      "topic_id": "top_004",
+      "title": null,
+      "content": "Vícios sanáveis: Competência (não exclusiva) e Forma (não essencial).",
+      "order": 3
+    },
+    {
+      "memory_id": "mem_004",
+      "material_id": "mat_001",
+      "topic_id": "top_004",
+      "title": null,
+      "content": "Vícios insanáveis: Motivo, Finalidade, Objeto e Competência (exclusiva).",
+      "order": 4
+    },
+    {
+      "memory_id": "mem_005",
+      "material_id": "mat_001",
+      "topic_id": "top_002",
+      "title": null,
+      "content": "Base legal: Art. 55 da Lei nº 9.784/99.",
+      "order": 5
+    }
+  ],
+  "quadro_sinotico_itens": [
+    {
+      "summary_item_id": "sum_001",
+      "title": null,
+      "content": "",
+      "order": 1
+    },
+    {
+      "summary_item_id": "sum_002",
+      "title": null,
+      "content": "",
+      "order": 2
+    },
+    {
+      "summary_item_id": "sum_003",
+      "title": null,
+      "content": "",
+      "order": 3
+    },
+    {
+      "summary_item_id": "sum_004",
+      "title": null,
+      "content": "",
+      "order": 4
+    },
+    {
+      "summary_item_id": "sum_005",
+      "title": null,
+      "content": "",
+      "order": 5
+    },
+    {
+      "summary_item_id": "sum_006",
+      "title": null,
+      "content": "",
+      "order": 6
+    },
+    {
+      "summary_item_id": "sum_007",
+      "title": null,
+      "content": "",
+      "order": 7
+    },
+    {
+      "summary_item_id": "sum_008",
+      "title": null,
+      "content": "",
+      "order": 8
+    },
+    {
+      "summary_item_id": "sum_009",
+      "title": null,
+      "content": "",
+      "order": 9
+    }
+  ],
+  "questoes": [
+    {
+      "question_id": "qst_001",
+      "material_id": "mat_001",
+      "topic_id": "top_004",
+      "board": null,
+      "year": null,
+      "organization": null,
+      "role": null,
+      "statement": "A convalidação de um ato administrativo eivado de vício de competência exclusiva é possível, desde que não acarrete lesão ao interesse público ou prejuízo a terceiros.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "O gabarito está 'Errado'. Vícios de competência exclusiva são considerados insanáveis, ou seja, não podem ser convalidados. A convalidação é possível apenas para vícios de competência não exclusiva.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_001"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_002",
+      "material_id": "mat_001",
+      "topic_id": "top_004",
+      "board": null,
+      "year": null,
+      "organization": null,
+      "role": null,
+      "statement": "O vício de finalidade em um ato administrativo pode ser sanado por meio da convalidação, desde que a Administração Pública demonstre a boa-fé do agente.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "O gabarito está 'Errado'. O vício de finalidade é um dos vícios insanáveis do ato administrativo, não sendo passível de convalidação, independentemente da boa-fé do agente ou da ausência de prejuízo a terceiros.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_002"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_003",
+      "material_id": "mat_001",
+      "topic_id": "top_003",
+      "board": null,
+      "year": null,
+      "organization": null,
+      "role": null,
+      "statement": "A convalidação de um ato administrativo opera efeitos ex nunc, preservando apenas os efeitos futuros do ato.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "O gabarito está 'Errado'. A convalidação de um ato administrativo opera efeitos ex tunc, ou seja, retroage à data em que o ato foi praticado, tornando-o válido desde sua origem. Os efeitos ex nunc são típicos da revogação.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_003"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_004",
+      "material_id": "mat_001",
+      "topic_id": "top_005",
+      "board": null,
+      "year": null,
+      "organization": null,
+      "role": null,
+      "statement": "A ratificação, como modalidade de saneamento do ato administrativo, é um tipo de convalidação que corrige vício de competência não exclusiva.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "O gabarito está 'Certo'. A ratificação é, de fato, uma modalidade de convalidação que se aplica especificamente para corrigir vícios de competência que não sejam exclusivos.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_004"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_005",
+      "material_id": "mat_001",
+      "topic_id": "top_002",
+      "board": null,
+      "year": null,
+      "organization": null,
+      "role": null,
+      "statement": "Conforme a Lei nº 9.784/99, a convalidação de atos administrativos com defeitos sanáveis é uma faculdade da Administração, e não um dever.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "O gabarito está 'Certo'. A literalidade do Art. 55 da Lei nº 9.784/99 emprega o termo 'poderão ser convalidados', indicando uma faculdade da Administração. Contudo, parte da doutrina entende que, presentes os requisitos, a convalidação seria um dever. Para a CEBRASPE, a literalidade da lei é frequentemente cobrada.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_005"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_006",
+      "material_id": "mat_001",
+      "topic_id": "top_004",
+      "board": null,
+      "year": null,
+      "organization": null,
+      "role": null,
+      "statement": "Um ato administrativo que apresente vício no elemento motivo, por se basear em fato inexistente, é passível de convalidação, desde que não haja prejuízo a terceiros.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "O gabarito está 'Errado'. O vício no elemento motivo é considerado insanável, não sendo possível a convalidação de um ato administrativo que se baseie em fato inexistente ou falso.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_006"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_007",
+      "material_id": "mat_001",
+      "topic_id": "top_005",
+      "board": null,
+      "year": null,
+      "organization": null,
+      "role": null,
+      "statement": "A convalidação difere da anulação, pois enquanto a primeira busca corrigir um vício para manter o ato, a segunda visa desconstituir o ato por ilegalidade, com efeitos retroativos.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "O gabarito está 'Certo'. A convalidação busca sanar um vício para manter o ato, enquanto a anulação desconstitui o ato por ilegalidade. Ambos, contudo, operam com efeitos ex tunc.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_007"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_008",
+      "material_id": "mat_001",
+      "topic_id": "top_002",
+      "board": null,
+      "year": null,
+      "organization": null,
+      "role": null,
+      "statement": "A Súmula 473 do STF, que consagra o princípio da autotutela, fundamenta a possibilidade de a Administração Pública convalidar seus atos, desde que presentes os requisitos legais.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "O gabarito está 'Certo'. A Súmula 473 do STF consagra o princípio da autotutela, que é a base para o poder-dever da Administração de rever seus próprios atos, seja para anulá-los (ilegalidade) ou para convalidá-los (vícios sanáveis).",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_008"
+        ],
+        "count": 1
+      }
+    }
+  ],
+  "comentarios_questoes": [
+    {
+      "comment_id": "com_001",
+      "question_id": "qst_001",
+      "content": "O gabarito está 'Errado'. Vícios de competência exclusiva são considerados insanáveis, ou seja, não podem ser convalidados. A convalidação é possível apenas para vícios de competência não exclusiva.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_002",
+      "question_id": "qst_002",
+      "content": "O gabarito está 'Errado'. O vício de finalidade é um dos vícios insanáveis do ato administrativo, não sendo passível de convalidação, independentemente da boa-fé do agente ou da ausência de prejuízo a terceiros.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_003",
+      "question_id": "qst_003",
+      "content": "O gabarito está 'Errado'. A convalidação de um ato administrativo opera efeitos ex tunc, ou seja, retroage à data em que o ato foi praticado, tornando-o válido desde sua origem. Os efeitos ex nunc são típicos da revogação.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_004",
+      "question_id": "qst_004",
+      "content": "O gabarito está 'Certo'. A ratificação é, de fato, uma modalidade de convalidação que se aplica especificamente para corrigir vícios de competência que não sejam exclusivos.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_005",
+      "question_id": "qst_005",
+      "content": "O gabarito está 'Certo'. A literalidade do Art. 55 da Lei nº 9.784/99 emprega o termo 'poderão ser convalidados', indicando uma faculdade da Administração. Contudo, parte da doutrina entende que, presentes os requisitos, a convalidação seria um dever. Para a CEBRASPE, a literalidade da lei é frequentemente cobrada.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_006",
+      "question_id": "qst_006",
+      "content": "O gabarito está 'Errado'. O vício no elemento motivo é considerado insanável, não sendo possível a convalidação de um ato administrativo que se baseie em fato inexistente ou falso.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_007",
+      "question_id": "qst_007",
+      "content": "O gabarito está 'Certo'. A convalidação busca sanar um vício para manter o ato, enquanto a anulação desconstitui o ato por ilegalidade. Ambos, contudo, operam com efeitos ex tunc.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_008",
+      "question_id": "qst_008",
+      "content": "O gabarito está 'Certo'. A Súmula 473 do STF consagra o princípio da autotutela, que é a base para o poder-dever da Administração de rever seus próprios atos, seja para anulá-los (ilegalidade) ou para convalidá-los (vícios sanáveis).",
+      "explanation_alternatives": ""
+    }
+  ],
+  "checklist_revisao": [
+    {
+      "checklist_id": "chk_001",
+      "material_id": "mat_001",
+      "topic_id": "top_001",
+      "item_text": "Compreender o conceito e a finalidade da convalidação.",
+      "completed": false,
+      "order": 1
+    },
+    {
+      "checklist_id": "chk_002",
+      "material_id": "mat_001",
+      "topic_id": "top_002",
+      "item_text": "Memorizar o Art. 55 da Lei nº 9.784/99.",
+      "completed": false,
+      "order": 2
+    },
+    {
+      "checklist_id": "chk_003",
+      "material_id": "mat_001",
+      "topic_id": "top_003",
+      "item_text": "Saber os três requisitos para a convalidação: vício sanável, sem lesão ao interesse público, sem prejuízo a terceiros.",
+      "completed": false,
+      "order": 3
+    },
+    {
+      "checklist_id": "chk_004",
+      "material_id": "mat_001",
+      "topic_id": "top_003",
+      "item_text": "Fixar que os efeitos da convalidação são sempre ex tunc.",
+      "completed": false,
+      "order": 4
+    },
+    {
+      "checklist_id": "chk_005",
+      "material_id": "mat_001",
+      "topic_id": "top_004",
+      "item_text": "Distinguir claramente vícios sanáveis (competência não exclusiva, forma não essencial) de insanáveis (motivo, finalidade, objeto, competência exclusiva).",
+      "completed": false,
+      "order": 5
+    },
+    {
+      "checklist_id": "chk_006",
+      "material_id": "mat_001",
+      "topic_id": "top_005",
+      "item_text": "Diferenciar convalidação de anulação, revogação, ratificação e cassação.",
+      "completed": false,
+      "order": 6
+    },
+    {
+      "checklist_id": "chk_007",
+      "material_id": "mat_001",
+      "topic_id": "top_006",
+      "item_text": "Estar atento às pegadinhas da CEBRASPE sobre os tipos de vícios e os efeitos dos atos.",
+      "completed": false,
+      "order": 7
+    }
+  ],
+  "referencias": [
+    {
+      "reference_id": "ref_001",
+      "material_id": "mat_001",
+      "reference_type": "legislacao",
+      "author_name": null,
+      "title": "Lei nº 9.784, de 29 de janeiro de 1999",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "http://www.planalto.gov.br/ccivil_03/leis/L9784.htm",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_002",
+      "material_id": "mat_001",
+      "reference_type": "doutrina",
+      "author_name": "Maria Sylvia Zanella Di Pietro",
+      "title": "Direito Administrativo",
+      "publisher": "Atlas",
+      "year_reference": "2025 (edição mais recente)",
+      "isbn": null,
+      "url": null,
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_003",
+      "material_id": "mat_001",
+      "reference_type": "doutrina",
+      "author_name": "Hely Lopes Meirelles, Eurico de Andrade Azevedo, Délcio Balestero Aleixo e José Emmanuel Burle Filho",
+      "title": "Direito Administrativo Brasileiro",
+      "publisher": "Malheiros",
+      "year_reference": "2025 (edição mais recente)",
+      "isbn": null,
+      "url": null,
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_004",
+      "material_id": "mat_001",
+      "reference_type": "doutrina",
+      "author_name": "Celso Antônio Bandeira de Mello",
+      "title": "Curso de Direito Administrativo",
+      "publisher": "Malheiros",
+      "year_reference": "2025 (edição mais recente)",
+      "isbn": null,
+      "url": null,
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_005",
+      "material_id": "mat_001",
+      "reference_type": "jurisprudencia",
+      "author_name": null,
+      "title": "Súmula 473 do Supremo Tribunal Federal",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.stf.jus.br/portal/jurisprudencia/menuSumario.asp?sumula=473",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_006",
+      "material_id": "mat_001",
+      "reference_type": "artigo_cientifico",
+      "author_name": "Weida Zancaner",
+      "title": "Convalidação dos atos administrativos",
+      "publisher": null,
+      "year_reference": "2022",
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEFJ10Y_ltcnTBD2Q439J5oVv57dF-1TQuQn_yjlG5oGeHc6Xj-pbB2a0W1356Ns_vYF4wdg5O-1G0xn6j9sYU-Z4J7VBP1XyFKdA0f7rmxJdkwgeB-JjcpfDl6zCDQ3FGpamXy89lTrh8ab6JN7Q__pO-Z-YafwXDi5Bgei6pj_x8GrsAHZSIYRH1O1Mrzw-XGeCMSKo0rjQ==",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_007",
+      "material_id": "mat_001",
+      "reference_type": "artigo_juridico",
+      "author_name": "Lucas Rocha Furtado",
+      "title": "O instituto da convalidação do ato administrativo",
+      "publisher": null,
+      "year_reference": "2010",
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEs6Om5v4xH7FkVZwuUd3Lup4QJSvL2mClXx6rO6QyVLvP59xRzFxFYzSG9OonJczGMfPMBoIeVj2SqhBRYo3YK9q_cnmVVg5jjkd55F1w_8Fv1Eqb0IOp7_eK6yJJMHdTHXvl7gQDuCebGkp5VGObqLXnpoq1XOpFvA6u4Ao0S9QmFROg4NWkbLdI=",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_008",
+      "material_id": "mat_001",
+      "reference_type": "material_didatico",
+      "author_name": "Educamundo",
+      "title": "Convalidação do Ato Administrativo: Entenda e Aprenda",
+      "publisher": null,
+      "year_reference": "2025",
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGDffaILd4OmCkR1j8SAlh91AuUUcPllGMTp9nc3XBsV5eadrX2aK_u90AeEJo8hQpVON1LD-7zsqPLg_5FDWHvuZBKSkps6Yd3GdEVe1XP6uaAhjdKD1VtaBOXdErqJjOKw28VGcR5IrgM_PtrXIp6dP5PTvpK3xGuCMuBUY7GMlfitX468dzkZA==",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_009",
+      "material_id": "mat_001",
+      "reference_type": "material_didatico",
+      "author_name": "Estratégia Concursos",
+      "title": "Convalidação dos Atos Administrativos",
+      "publisher": null,
+      "year_reference": "2025",
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEWMFGpzyn0ecy2zKm81Yupzs3s77A2LkZPJqiv6aWzhJoGObOJElYKey6RVCUyaau9W35RJrJJ3asONk9_vYY16vU8VpeChlNDZ2FiDY0-mTRPh4odHr0hCJ3Oh_HaxkF6dqPGM0vIb1b0qP9vyBn5mL-0TMSLC5B74Pz9lZ31Ymx6Vi2hMb0jcwNF8w==",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_010",
+      "material_id": "mat_001",
+      "reference_type": "questoes_comentadas",
+      "author_name": "Qconcursos.com",
+      "title": "Questões de Concurso sobre Atos administrativos em Direito Administrativo para CESPE / CEBRASPE",
+      "publisher": null,
+      "year_reference": "2026",
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHiUxR8WiOx-0EZz6Q885_UCoMf5FjW3F8LqxBWcfSv5Dm2uGvj2a9A0JZOEACFTNiqaaFAuDqmz6guAfV_egifF7jhT7otRssoQbNU_C4YSmzR8i16E2MBXP8qaVoOlsbuUcx-3t3Ke-We5dHjYHcxC5tbknphKITcvHpc8tMfDzSV8XkLOvg1pQEAq66bHtShSSVj-DV2oCvGu-yAjRO2rItCZAjBJ1GNKVVmFpVWhtNWcwn8wcxgC0Ke",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_011",
+      "material_id": "mat_001",
+      "reference_type": "video_aula",
+      "author_name": "TecConcursos",
+      "title": "15 CESPE/CEBRASPE Questions on Administrative Law | Administrative Acts – Answer Key with Commentary",
+      "publisher": null,
+      "year_reference": "2026",
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEED7qIuMb29bPzMIuNRCqznIgN48GiSI4uL1aFOIXEdmy2WVNdwW8Y233R1s-rQFBYZzRRBioXbU6YqG8iqgf08G6gjW8r_f9Ux0CmS2fYfoL7Juvvc_q6U13K5i6VEsnVrGlXaw==",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_012",
+      "material_id": "mat_001",
+      "reference_type": "video_aula",
+      "author_name": "Natalia Lacerda",
+      "title": "ATOS ADMINISTRATIVOS - QUESTÕES CEBRASPE | CONCURSO INSS 2022",
+      "publisher": null,
+      "year_reference": "2022",
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF3-1Kp75eUZhtIKQkoW1xk7GI7cmDih8DYySbj_LtZAoYoB2ZYjsDhKbjbgW7eacmwzazFxjtpZeL09o5vyjfqvy0vQpduevvNscxa-yoPUMl88toYXG5T807PUO_Xv6P9obwowg==",
+      "accessed_at": null,
+      "description": null
+    }
+  ],
+  "estatisticas_de_geracao": {
+    "total_topicos": 6,
+    "total_componentes_topico": 18,
+    "total_entendimentos_relevantes": 2,
+    "total_pegadinhas": 4,
+    "total_pontos_memorizacao": 5,
+    "total_itens_quadro_sinotico": 9,
+    "total_questoes": 8,
+    "total_comentarios_questoes": 8,
+    "total_itens_checklist": 7,
+    "total_referencias": 12
+  },
+  "validacao_interna": {
+    "pesquisa_previa_realizada": true,
+    "analise_de_cobrancas_anteriores_realizada": true,
+    "material_atualizado": true,
+    "json_valido": true,
+    "estrutura_relacional_respeitada": true,
+    "numeracao_respeitada": true,
+    "houve_quebra_de_hierarquia": false,
+    "houve_nivel_numerico_superior_a_3": false,
+    "fontes_verificadas": true,
+    "sem_informacao_inventada": true
+  },
+  "metadata": {
+    "source_file_name": "4__direito-administrativo__4-atos-administrativos-4.8-convalidação.json",
+    "normalized_checksum": "4b3ee6af54496ac7ec39bee018348466fe128f2b95f41bd469fea27bddceb103",
+    "subject_slug": "dir-adm",
+    "material_slug": "atos-administrativos-convalidacao",
+    "title_slug": "convalidacao-de-atos-administrativos-para",
+    "board_slug": "cebraspe",
+    "counters": {
+      "blocks": 7,
+      "topics": 6,
+      "topic_components": 18,
+      "traps": 4,
+      "memory_points": 5,
+      "summary_items": 9,
+      "questions": 8,
+      "question_comments": 8,
+      "checklist_items": 7,
+      "references": 12
+    }
+  }
+}

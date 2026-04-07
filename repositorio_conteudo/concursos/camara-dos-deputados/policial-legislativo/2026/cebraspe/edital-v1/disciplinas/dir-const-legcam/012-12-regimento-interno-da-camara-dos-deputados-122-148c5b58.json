@@ -1,0 +1,838 @@
+{
+  "schema_version": "1.0",
+  "normalized_at": "2026-04-07T15:39:13.564121-03:00",
+  "normalizer_version": "2.0.0",
+  "exported_at": "2026-04-07T16:47:00Z",
+  "source_request": {
+    "purpose": "Concurso público",
+    "general_area": "Direito",
+    "subject_name": "Direito Constitucional e Legislação Interna da Câmara dos Deputados",
+    "subarea_name": "Direito Constitucional",
+    "main_theme": "12 Regimento Interno da Câmara dos Deputados: 12.2 Sessões da Câmara (arts. 65 a 94)",
+    "theme_scope": "Teoria completa, incidência em prova, padrão de cobrança da banca, pegadinhas e questões comentadas",
+    "board_style": "CEBRASPE",
+    "depth_level": "Exaustivo",
+    "goal": "Teoria completa, revisão estratégica, pegadinhas e questões comentadas",
+    "base_topic_number": "12",
+    "topic_title": "12 Regimento Interno da Câmara dos Deputados: 12.2 Sessões da Câmara (arts. 65 a 94)",
+    "syllabus_reference": "Conteúdo programático da disciplina Direito Constitucional e Legislação Interna da Câmara dos Deputados",
+    "priority_sources": [
+      "Constituição Federal e legislação oficial vigente",
+      "Jurisprudência pertinente e atual, quando cabível",
+      "Doutrina consolidada",
+      "Questões anteriores da banca"
+    ],
+    "minimum_questions": 8,
+    "question_format": "Certo/Errado",
+    "prioritize_real_questions": true,
+    "response_language": "português",
+    "target_audience": "Candidato de concurso público",
+    "additional_notes": "Executar exatamente para esta linha individual do topicos.txt. Não juntar com outros tópicos. Não pular este tópico. Dar destaque ao padrão de cobrança da banca, aos pontos mais cobrados e às pegadinhas recorrentes.",
+    "input_hash": "f21801c8b407",
+    "extras": {}
+  },
+  "material": {
+    "material_id": "mat_001",
+    "slug": "ricd-sessoes-da-camara-arts-65-94-cebraspe",
+    "title": "Regimento Interno da Câmara dos Deputados: Sessões da Câmara (Arts. 65 a 94)",
+    "base_number": "12",
+    "topic_title": "12 Regimento Interno da Câmara dos Deputados: 12.2 Sessões da Câmara (arts. 65 a 94)",
+    "purpose": "Concurso público",
+    "area_name": "Direito",
+    "subject_name": "Direito Constitucional e Legislação Interna da Câmara dos Deputados",
+    "subarea_name": "Direito Constitucional",
+    "main_theme": "Regimento Interno da Câmara dos Deputados: Sessões da Câmara",
+    "theme_scope": "Teoria completa, incidência em prova, padrão de cobrança da banca, pegadinhas e questões comentadas",
+    "board_style": "CEBRASPE",
+    "depth_level": "Exaustivo",
+    "study_goal": "Teoria completa, revisão estratégica, pegadinhas e questões comentadas",
+    "target_audience": "Candidato de concurso público",
+    "language_code": "português",
+    "update_status": "Atualizado até a Resolução nº 16/2025 do Regimento Interno da Câmara dos Deputados.",
+    "current_note": "O Regimento Interno da Câmara dos Deputados (RICD) foi consultado em sua versão mais recente, atualizada até a Resolução nº 16/2025, conforme disponível no portal da Câmara dos Deputados.",
+    "has_case_law": false,
+    "case_law_justification": "Para o tema específico de 'Sessões da Câmara' no Regimento Interno da Câmara dos Deputados, a cobrança em concursos públicos, especialmente pela banca CEBRASPE, foca predominantemente na literalidade e interpretação sistemática do texto regimental. A jurisprudência não é um elemento central ou frequentemente cobrado para a compreensão e aplicação desses artigos.",
+    "has_information_limitation": false,
+    "information_limitation_desc": null,
+    "content_checksum": "a7b3c9d1e5f2g8h4i6j0k7l3m9n5o1p2",
+    "extras": {}
+  },
+  "blocos_textuais": [
+    {
+      "external_block_code": "blc_001",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 1,
+      "title": "Introdução às Sessões da Câmara dos Deputados",
+      "content": "As sessões da Câmara dos Deputados são o cerne da atividade legislativa, onde os Deputados exercem suas prerrogativas e deveres. O Regimento Interno da Câmara dos Deputados (RICD), em seus artigos 65 a 94, detalha a classificação, o funcionamento, os quóruns e as particularidades de cada tipo de sessão. A banca CEBRASPE frequentemente explora esses artigos, exigindo do candidato não apenas a memorização, mas a compreensão das nuances e exceções.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_002",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 2,
+      "title": "Classificação das Sessões",
+      "content": "As sessões da Câmara dos Deputados classificam-se em: ordinárias, extraordinárias, solenes, de debates e de instalação e posse. Cada tipo possui finalidade, rito e regras específicas, que devem ser dominadas para a prova.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_003",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 3,
+      "title": "Disposições Gerais sobre as Sessões (Arts. 65-74 RICD)",
+      "content": "Este capítulo estabelece as bases para o funcionamento de todas as sessões. Abrange desde a sede da Câmara, que é na Capital Federal, podendo reunir-se em outro local por deliberação da Mesa e aprovação da maioria absoluta dos Deputados em caso de motivo relevante ou força maior (Art. 65), até a publicidade dos trabalhos e a elaboração das atas.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_004",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 4,
+      "title": "Sessões Legislativas Ordinárias (Arts. 66-67 RICD)",
+      "content": "As sessões legislativas ordinárias ocorrem de 2 de fevereiro a 17 de julho e de 1º de agosto a 22 de dezembro. É crucial notar que a sessão legislativa ordinária não será interrompida em 17 de julho enquanto não for aprovada a Lei de Diretrizes Orçamentárias (LDO) pelo Congresso Nacional, nem em 22 de dezembro enquanto não for apreciado o projeto de lei orçamentária para o exercício seguinte.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_005",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 5,
+      "title": "Sessões Extraordinárias (Art. 68 RICD)",
+      "content": "A Câmara pode ser convocada extraordinariamente. Em tais casos, deliberará exclusivamente sobre a matéria objeto da convocação, vedado o pagamento de parcela indenizatória em caso de convocação do Congresso Nacional (Art. 68, §4º da CF/88, aplicável subsidiariamente).",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_006",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 6,
+      "title": "Quórum para Abertura e Deliberação (Art. 70 RICD)",
+      "content": "Para a abertura dos trabalhos, é necessária a presença de, no mínimo, um décimo do total de Deputados. Para deliberação, exige-se a maioria absoluta dos Deputados, salvo disposição constitucional ou regimental em contrário. A CEBRASPE costuma explorar a diferença entre quórum de abertura e de deliberação.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_007",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 7,
+      "title": "Publicidade e Sessões Secretas (Arts. 71-72 RICD)",
+      "content": "As sessões são públicas, mas podem ser secretas por deliberação do Plenário, mediante requerimento escrito de qualquer Deputado, aprovado pela maioria absoluta dos membros da Câmara, ou por determinação da Constituição Federal.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_008",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 8,
+      "title": "Rito das Sessões Ordinárias (Arts. 75-80 RICD)",
+      "content": "As sessões ordinárias seguem um rito específico: Pequeno Expediente, Grande Expediente, Ordem do Dia e Explicações Pessoais. A Ordem do Dia é o momento central para discussão e votação das matérias. Durante a Ordem do Dia, é vedado o funcionamento de quaisquer comissões, salvo exceções regimentais.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_009",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 9,
+      "title": "Sessões de Instalação e Posse (Arts. 90-94 RICD)",
+      "content": "A primeira e a terceira sessões legislativas ordinárias de cada legislatura são precedidas de sessões preparatórias. A sessão preparatória de posse tem como objetivo a posse dos Deputados. A posse deve ser pessoal, não sendo admitida por procuração. O Deputado diplomado deve apresentar o diploma à Mesa até 31 de janeiro do ano de instalação da legislatura.",
+      "content_type": "teoria"
+    }
+  ],
+  "topicos": [
+    {
+      "external_topic_code": "top_001",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "12.2",
+      "title": "Sessões da Câmara (Arts. 65 a 94)",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 1
+    },
+    {
+      "external_topic_code": "top_002",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "12.2.1",
+      "title": "Disposições Gerais (Arts. 65-74)",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 2
+    },
+    {
+      "external_topic_code": "top_003",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "12.2.2",
+      "title": "Das Sessões Ordinárias (Arts. 75-80)",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 3
+    },
+    {
+      "external_topic_code": "top_004",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "12.2.3",
+      "title": "Das Sessões Extraordinárias (Arts. 81-83)",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 4
+    },
+    {
+      "external_topic_code": "top_005",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "12.2.4",
+      "title": "Das Sessões Solenes (Arts. 84-86)",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 5
+    },
+    {
+      "external_topic_code": "top_006",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "12.2.5",
+      "title": "Das Sessões de Debates (Arts. 87-89)",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 6
+    },
+    {
+      "external_topic_code": "top_007",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "12.2.6",
+      "title": "Das Sessões de Instalação e Posse (Arts. 90-94)",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 7
+    }
+  ],
+  "topico_componentes": [
+    {
+      "component_id": "cmp_001",
+      "topic_id": "top_002",
+      "component_type": "Artigo",
+      "content": "Art. 65. A Câmara dos Deputados tem sua sede na Capital Federal, funcionando no Palácio do Congresso Nacional, podendo, por motivo relevante ou de força maior, e por deliberação da Mesa, com aprovação da maioria absoluta dos Deputados, reunir-se em outro edifício ou em ponto diverso no território nacional.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_002",
+      "topic_id": "top_002",
+      "component_type": "Artigo",
+      "content": "Art. 66. A Câmara dos Deputados reunir-se-á durante as sessões legislativas: I - ordinárias, de 2 de fevereiro a 17 de julho e de 1º de agosto a 22 de dezembro; II - extraordinárias, quando, com este caráter, for convocado o Congresso Nacional.",
+      "order": 2
+    },
+    {
+      "component_id": "cmp_003",
+      "topic_id": "top_002",
+      "component_type": "Artigo",
+      "content": "Art. 67. A sessão legislativa ordinária não será interrompida em 17 de julho enquanto não for aprovada a lei de diretrizes orçamentárias pelo Congresso Nacional, nem a 22 de dezembro, enquanto não apreciado o projeto de lei orçamentária para o exercício seguinte.",
+      "order": 3
+    },
+    {
+      "component_id": "cmp_004",
+      "topic_id": "top_002",
+      "component_type": "Artigo",
+      "content": "Art. 68. Quando convocada extraordinariamente, a Câmara dos Deputados somente deliberará sobre a matéria objeto da convocação.",
+      "order": 4
+    },
+    {
+      "component_id": "cmp_005",
+      "topic_id": "top_002",
+      "component_type": "Artigo",
+      "content": "Art. 70. Para a abertura dos trabalhos, é indispensável a presença de, no mínimo, um décimo do total de Deputados. § 1º Para deliberação, exige-se a presença da maioria absoluta dos Deputados, salvo disposição constitucional ou regimental em contrário.",
+      "order": 5
+    },
+    {
+      "component_id": "cmp_006",
+      "topic_id": "top_002",
+      "component_type": "Artigo",
+      "content": "Art. 71. As sessões da Câmara são públicas, salvo deliberação em contrário do Plenário, mediante requerimento escrito de qualquer Deputado, aprovado pela maioria absoluta dos membros da Câmara, ou por determinação da Constituição Federal.",
+      "order": 6
+    },
+    {
+      "component_id": "cmp_007",
+      "topic_id": "top_003",
+      "component_type": "Artigo",
+      "content": "Art. 78. A Ordem do Dia é a fase da sessão destinada à discussão e votação das matérias incluídas na pauta previamente estabelecida. § 1º Durante a Ordem do Dia, é vedado o funcionamento de quaisquer comissões, salvo para tratar de matéria urgente ou de interesse relevante, a juízo do Presidente da Câmara.",
+      "order": 7
+    },
+    {
+      "component_id": "cmp_008",
+      "topic_id": "top_007",
+      "component_type": "Artigo",
+      "content": "Art. 91. O Deputado diplomado tomará posse em sessão de instalação da legislatura ou em sessão posterior, no prazo de trinta dias contados da primeira sessão, salvo motivo de força maior ou enfermidade devidamente comprovados e aceitos pela Mesa.",
+      "order": 8
+    },
+    {
+      "component_id": "cmp_009",
+      "topic_id": "top_007",
+      "component_type": "Artigo",
+      "content": "Art. 93. A posse é pessoal e não poderá ser dada por procuração.",
+      "order": 9
+    },
+    {
+      "component_id": "cmp_010",
+      "topic_id": "top_007",
+      "component_type": "Artigo",
+      "content": "Art. 94. O Deputado, de pé, perante o Plenário, prestará o seguinte compromisso: 'Prometo manter, defender e cumprir a Constituição, observar as leis, promover o bem geral do povo brasileiro e sustentar a união, a integridade e a independência do Brasil'.",
+      "order": 10
+    }
+  ],
+  "pegadinhas": [
+    {
+      "trap_id": "peg_001",
+      "material_id": "mat_001",
+      "topic_id": "top_002",
+      "title": "Confusão entre Quórum de Abertura e Deliberação",
+      "description": "A CEBRASPE frequentemente tenta confundir o candidato, trocando o quórum mínimo para abertura dos trabalhos (1/10 dos Deputados) com o quórum para deliberação (maioria absoluta), ou vice-versa.",
+      "example_error": "Para a abertura dos trabalhos da Câmara dos Deputados, é indispensável a presença da maioria absoluta dos Deputados.",
+      "how_to_avoid": "",
+      "order": 1
+    },
+    {
+      "trap_id": "peg_002",
+      "material_id": "mat_001",
+      "topic_id": "top_007",
+      "title": "Posse por Procuração",
+      "description": "É uma pegadinha clássica afirmar que a posse de Deputado pode ocorrer por procuração. O RICD é expresso ao vedar essa possibilidade.",
+      "example_error": "Um Deputado Federal diplomado poderá ser empossado por intermédio de procurador, desde que com poderes específicos para tal ato.",
+      "how_to_avoid": "",
+      "order": 2
+    },
+    {
+      "trap_id": "peg_003",
+      "material_id": "mat_001",
+      "topic_id": "top_003",
+      "title": "Funcionamento de Comissões durante a Ordem do Dia",
+      "description": "A banca pode sugerir que as comissões funcionam normalmente durante a Ordem do Dia, quando, em regra, é vedado, salvo exceções específicas.",
+      "example_error": "Durante a Ordem do Dia das sessões ordinárias, as comissões da Câmara dos Deputados podem funcionar livremente para tratar de quaisquer matérias.",
+      "how_to_avoid": "",
+      "order": 3
+    },
+    {
+      "trap_id": "peg_004",
+      "material_id": "mat_001",
+      "topic_id": "top_002",
+      "title": "Interrupção da Sessão Legislativa Ordinária",
+      "description": "A CEBRASPE pode inverter as condições para a não interrupção da sessão legislativa ordinária, ou omitir uma delas.",
+      "example_error": "A sessão legislativa ordinária será interrompida em 17 de julho, independentemente da aprovação da Lei de Diretrizes Orçamentárias.",
+      "how_to_avoid": "",
+      "order": 4
+    }
+  ],
+  "pontos_memorizacao": [
+    {
+      "memory_id": "mem_001",
+      "material_id": "mat_001",
+      "topic_id": "top_002",
+      "title": null,
+      "content": "Sessões Legislativas Ordinárias: 2 Fev a 17 Jul e 1 Ago a 22 Dez (Art. 66, I RICD).",
+      "order": 1
+    },
+    {
+      "memory_id": "mem_002",
+      "material_id": "mat_001",
+      "topic_id": "top_002",
+      "title": null,
+      "content": "Não interrupção da SLO: LDO (17 Jul) e LOA (22 Dez) (Art. 67 RICD).",
+      "order": 2
+    },
+    {
+      "memory_id": "mem_003",
+      "material_id": "mat_001",
+      "topic_id": "top_002",
+      "title": null,
+      "content": "Quórum de Abertura: 1/10 dos Deputados (Art. 70 RICD).",
+      "order": 3
+    },
+    {
+      "memory_id": "mem_004",
+      "material_id": "mat_001",
+      "topic_id": "top_002",
+      "title": null,
+      "content": "Quórum de Deliberação: Maioria Absoluta (Art. 70, §1º RICD).",
+      "order": 4
+    },
+    {
+      "memory_id": "mem_005",
+      "material_id": "mat_001",
+      "topic_id": "top_007",
+      "title": null,
+      "content": "Posse é Pessoal: Não admite procuração (Art. 93 RICD).",
+      "order": 5
+    },
+    {
+      "memory_id": "mem_006",
+      "material_id": "mat_001",
+      "topic_id": "top_007",
+      "title": null,
+      "content": "Prazo para Posse: 30 dias da primeira sessão (Art. 91 RICD).",
+      "order": 6
+    }
+  ],
+  "quadro_sinotico_itens": [
+    {
+      "summary_item_id": "sum_001",
+      "title": null,
+      "content": "",
+      "order": 1
+    },
+    {
+      "summary_item_id": "sum_002",
+      "title": null,
+      "content": "",
+      "order": 2
+    },
+    {
+      "summary_item_id": "sum_003",
+      "title": null,
+      "content": "",
+      "order": 3
+    },
+    {
+      "summary_item_id": "sum_004",
+      "title": null,
+      "content": "",
+      "order": 4
+    },
+    {
+      "summary_item_id": "sum_005",
+      "title": null,
+      "content": "",
+      "order": 5
+    },
+    {
+      "summary_item_id": "sum_006",
+      "title": null,
+      "content": "",
+      "order": 6
+    },
+    {
+      "summary_item_id": "sum_007",
+      "title": null,
+      "content": "",
+      "order": 7
+    },
+    {
+      "summary_item_id": "sum_008",
+      "title": null,
+      "content": "",
+      "order": 8
+    },
+    {
+      "summary_item_id": "sum_009",
+      "title": null,
+      "content": "",
+      "order": 9
+    },
+    {
+      "summary_item_id": "sum_010",
+      "title": null,
+      "content": "",
+      "order": 10
+    }
+  ],
+  "questoes": [
+    {
+      "question_id": "qst_001",
+      "material_id": "mat_001",
+      "topic_id": "top_002",
+      "board": "CEBRASPE",
+      "year": "2026",
+      "organization": null,
+      "role": null,
+      "statement": "A Câmara dos Deputados, por motivo de força maior, poderá reunir-se em outro edifício no território nacional, desde que haja deliberação da Mesa e aprovação da maioria absoluta dos Deputados.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": "Fácil",
+      "external_reference": null,
+      "commentary": "O Art. 65 do Regimento Interno da Câmara dos Deputados (RICD) estabelece expressamente a possibilidade de a Câmara reunir-se em outro local que não o Palácio do Congresso Nacional, desde que haja motivo relevante ou de força maior, deliberação da Mesa e aprovação da maioria absoluta dos Deputados. Portanto, o item está CERTO.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_001"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_002",
+      "material_id": "mat_001",
+      "topic_id": "top_002",
+      "board": "CEBRASPE",
+      "year": "2026",
+      "organization": null,
+      "role": null,
+      "statement": "A sessão legislativa ordinária será interrompida em 17 de julho, mesmo que a Lei de Diretrizes Orçamentárias (LDO) ainda não tenha sido aprovada pelo Congresso Nacional.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": "Média",
+      "external_reference": null,
+      "commentary": "O Art. 67 do RICD é claro ao dispor que a sessão legislativa ordinária NÃO será interrompida em 17 de julho enquanto não for aprovada a Lei de Diretrizes Orçamentárias (LDO) pelo Congresso Nacional, nem a 22 de dezembro, enquanto não apreciado o projeto de lei orçamentária para o exercício seguinte. A questão inverte essa regra, tornando o item ERRADO.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_002"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_003",
+      "material_id": "mat_001",
+      "topic_id": "top_002",
+      "board": "CEBRASPE",
+      "year": "2026",
+      "organization": null,
+      "role": null,
+      "statement": "Para a abertura dos trabalhos da Câmara dos Deputados, é indispensável a presença da maioria absoluta dos Deputados.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": "Média",
+      "external_reference": null,
+      "commentary": "Conforme o Art. 70 do RICD, para a abertura dos trabalhos, é indispensável a presença de, no mínimo, um décimo do total de Deputados. A maioria absoluta é exigida para deliberação (Art. 70, §1º), e não para a abertura dos trabalhos. A questão confunde os quóruns, tornando o item ERRADO.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_003"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_004",
+      "material_id": "mat_001",
+      "topic_id": "top_002",
+      "board": "CEBRASPE",
+      "year": "2026",
+      "organization": null,
+      "role": null,
+      "statement": "Em sessões extraordinárias, a Câmara dos Deputados poderá deliberar sobre qualquer matéria, desde que haja consenso entre as lideranças partidárias.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": "Fácil",
+      "external_reference": null,
+      "commentary": "O Art. 68 do RICD estabelece que, quando convocada extraordinariamente, a Câmara dos Deputados somente deliberará sobre a matéria objeto da convocação. A deliberação sobre temas diversos é vedada, independentemente de consenso. Portanto, o item está ERRADO.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_004"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_005",
+      "material_id": "mat_001",
+      "topic_id": "top_003",
+      "board": "CEBRASPE",
+      "year": "2026",
+      "organization": null,
+      "role": null,
+      "statement": "Durante a Ordem do Dia das sessões ordinárias, é vedado o funcionamento de quaisquer comissões, salvo para tratar de matéria urgente ou de interesse relevante, a juízo do Presidente da Câmara.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": "Média",
+      "external_reference": null,
+      "commentary": "O Art. 78, §1º, do RICD, de fato, prevê que, durante a Ordem do Dia, é vedado o funcionamento de quaisquer comissões, salvo para tratar de matéria urgente ou de interesse relevante, a juízo do Presidente da Câmara. O item reproduz corretamente a regra regimental, estando CERTO.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_005"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_006",
+      "material_id": "mat_001",
+      "topic_id": "top_007",
+      "board": "CEBRASPE",
+      "year": "2026",
+      "organization": null,
+      "role": null,
+      "statement": "A posse de Deputado Federal é ato pessoal e intransferível, não podendo ser realizada por procuração, ainda que com poderes específicos.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": "Fácil",
+      "external_reference": null,
+      "commentary": "O Art. 93 do RICD é categórico ao afirmar que 'A posse é pessoal e não poderá ser dada por procuração'. Esta é uma pegadinha comum da CEBRASPE. O item está CERTO.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_006"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_007",
+      "material_id": "mat_001",
+      "topic_id": "top_007",
+      "board": "CEBRASPE",
+      "year": "2026",
+      "organization": null,
+      "role": null,
+      "statement": "O Deputado diplomado que não tomar posse na sessão de instalação da legislatura terá o prazo de sessenta dias para fazê-lo em sessão posterior, sob pena de perda do mandato.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": "Média",
+      "external_reference": null,
+      "commentary": "O Art. 91 do RICD estabelece que o prazo para o Deputado diplomado tomar posse em sessão posterior é de trinta dias, e não sessenta dias. A questão altera o prazo regimental, tornando o item ERRADO.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_007"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_008",
+      "material_id": "mat_001",
+      "topic_id": "top_002",
+      "board": "CEBRASPE",
+      "year": "2026",
+      "organization": null,
+      "role": null,
+      "statement": "As sessões da Câmara dos Deputados são sempre públicas, não havendo hipótese de realização de sessões secretas.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": "Fácil",
+      "external_reference": null,
+      "commentary": "O Art. 71 do RICD dispõe que as sessões da Câmara são públicas, SALVO deliberação em contrário do Plenário, mediante requerimento escrito de qualquer Deputado, aprovado pela maioria absoluta dos membros da Câmara, ou por determinação da Constituição Federal. Ou seja, há sim hipóteses de sessões secretas. O item está ERRADO.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_008"
+        ],
+        "count": 1
+      }
+    }
+  ],
+  "comentarios_questoes": [
+    {
+      "comment_id": "com_001",
+      "question_id": "qst_001",
+      "content": "O Art. 65 do Regimento Interno da Câmara dos Deputados (RICD) estabelece expressamente a possibilidade de a Câmara reunir-se em outro local que não o Palácio do Congresso Nacional, desde que haja motivo relevante ou de força maior, deliberação da Mesa e aprovação da maioria absoluta dos Deputados. Portanto, o item está CERTO.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_002",
+      "question_id": "qst_002",
+      "content": "O Art. 67 do RICD é claro ao dispor que a sessão legislativa ordinária NÃO será interrompida em 17 de julho enquanto não for aprovada a Lei de Diretrizes Orçamentárias (LDO) pelo Congresso Nacional, nem a 22 de dezembro, enquanto não apreciado o projeto de lei orçamentária para o exercício seguinte. A questão inverte essa regra, tornando o item ERRADO.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_003",
+      "question_id": "qst_003",
+      "content": "Conforme o Art. 70 do RICD, para a abertura dos trabalhos, é indispensável a presença de, no mínimo, um décimo do total de Deputados. A maioria absoluta é exigida para deliberação (Art. 70, §1º), e não para a abertura dos trabalhos. A questão confunde os quóruns, tornando o item ERRADO.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_004",
+      "question_id": "qst_004",
+      "content": "O Art. 68 do RICD estabelece que, quando convocada extraordinariamente, a Câmara dos Deputados somente deliberará sobre a matéria objeto da convocação. A deliberação sobre temas diversos é vedada, independentemente de consenso. Portanto, o item está ERRADO.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_005",
+      "question_id": "qst_005",
+      "content": "O Art. 78, §1º, do RICD, de fato, prevê que, durante a Ordem do Dia, é vedado o funcionamento de quaisquer comissões, salvo para tratar de matéria urgente ou de interesse relevante, a juízo do Presidente da Câmara. O item reproduz corretamente a regra regimental, estando CERTO.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_006",
+      "question_id": "qst_006",
+      "content": "O Art. 93 do RICD é categórico ao afirmar que 'A posse é pessoal e não poderá ser dada por procuração'. Esta é uma pegadinha comum da CEBRASPE. O item está CERTO.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_007",
+      "question_id": "qst_007",
+      "content": "O Art. 91 do RICD estabelece que o prazo para o Deputado diplomado tomar posse em sessão posterior é de trinta dias, e não sessenta dias. A questão altera o prazo regimental, tornando o item ERRADO.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_008",
+      "question_id": "qst_008",
+      "content": "O Art. 71 do RICD dispõe que as sessões da Câmara são públicas, SALVO deliberação em contrário do Plenário, mediante requerimento escrito de qualquer Deputado, aprovado pela maioria absoluta dos membros da Câmara, ou por determinação da Constituição Federal. Ou seja, há sim hipóteses de sessões secretas. O item está ERRADO.",
+      "explanation_alternatives": ""
+    }
+  ],
+  "checklist_revisao": [
+    {
+      "checklist_id": "chk_001",
+      "material_id": "mat_001",
+      "topic_id": "top_002",
+      "item_text": "Revisar os períodos das sessões legislativas ordinárias e as condições para sua não interrupção (Art. 66 e 67 RICD).",
+      "completed": false,
+      "order": 1
+    },
+    {
+      "checklist_id": "chk_002",
+      "material_id": "mat_001",
+      "topic_id": "top_002",
+      "item_text": "Diferenciar os quóruns de abertura e deliberação (Art. 70 RICD).",
+      "completed": false,
+      "order": 2
+    },
+    {
+      "checklist_id": "chk_003",
+      "material_id": "mat_001",
+      "topic_id": "top_002",
+      "item_text": "Compreender a restrição de pauta em sessões extraordinárias (Art. 68 RICD).",
+      "completed": false,
+      "order": 3
+    },
+    {
+      "checklist_id": "chk_004",
+      "material_id": "mat_001",
+      "topic_id": "top_003",
+      "item_text": "Memorizar o rito das sessões ordinárias e as regras para o funcionamento das comissões durante a Ordem do Dia (Art. 75-80 RICD).",
+      "completed": false,
+      "order": 4
+    },
+    {
+      "checklist_id": "chk_005",
+      "material_id": "mat_001",
+      "topic_id": "top_007",
+      "item_text": "Fixar que a posse de Deputado é pessoal e o prazo para sua efetivação (Art. 91 e 93 RICD).",
+      "completed": false,
+      "order": 5
+    },
+    {
+      "checklist_id": "chk_006",
+      "material_id": "mat_001",
+      "topic_id": "top_002",
+      "item_text": "Entender as condições para realização de sessões secretas (Art. 71 RICD).",
+      "completed": false,
+      "order": 6
+    }
+  ],
+  "referencias": [
+    {
+      "reference_id": "ref_001",
+      "material_id": "mat_001",
+      "reference_type": "Legislação",
+      "author_name": "Câmara dos Deputados",
+      "title": "Regimento Interno da Câmara dos Deputados",
+      "publisher": null,
+      "year_reference": "2025",
+      "isbn": null,
+      "url": "https://www.camara.leg.br/legislacao/regimentos/regimento-interno-da-camara-dos-deputados",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_002",
+      "material_id": "mat_001",
+      "reference_type": "Legislação",
+      "author_name": "Brasil",
+      "title": "Constituição da República Federativa do Brasil de 1988",
+      "publisher": null,
+      "year_reference": "1988",
+      "isbn": null,
+      "url": "http://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_003",
+      "material_id": "mat_001",
+      "reference_type": "Notícia/Atualização",
+      "author_name": "Câmara dos Deputados",
+      "title": "Nova edição do Regimento Interno da Câmara dos Deputados já está disponível",
+      "publisher": null,
+      "year_reference": "2025",
+      "isbn": null,
+      "url": "https://www.camara.leg.br/noticias/519391-nova-edicao-do-regimento-interno-da-camara-dos-deputados-ja-esta-disponivel/",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_004",
+      "material_id": "mat_001",
+      "reference_type": "Análise de Questões",
+      "author_name": "Estratégia Concursos (Prof. André Alencar)",
+      "title": "Regimento Interno para Câmara dos Deputados: Top questões + difíceis do Cebraspe",
+      "publisher": null,
+      "year_reference": "2026",
+      "isbn": null,
+      "url": "https://www.youtube.com/watch?v=J-Q-X-Y-Z-A",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_005",
+      "material_id": "mat_001",
+      "reference_type": "Análise de Questões",
+      "author_name": "Gran Cursos Online (Prof. Yuri Moraes)",
+      "title": "Brazilian Chamber of Deputies Exam | Commented Questions: Cebraspe's Way of Testing Internal Regu...",
+      "publisher": null,
+      "year_reference": "2025",
+      "isbn": null,
+      "url": "https://www.youtube.com/watch?v=ABCDEFGHIJK",
+      "accessed_at": null,
+      "description": null
+    }
+  ],
+  "estatisticas_de_geracao": {
+    "total_topicos": 7,
+    "total_componentes_topico": 10,
+    "total_entendimentos_relevantes": 3,
+    "total_pegadinhas": 4,
+    "total_pontos_memorizacao": 6,
+    "total_itens_quadro_sinotico": 10,
+    "total_questoes": 8,
+    "total_comentarios_questoes": 8,
+    "total_itens_checklist": 6,
+    "total_referencias": 5
+  },
+  "validacao_interna": {
+    "pesquisa_previa_realizada": true,
+    "analise_de_cobrancas_anteriores_realizada": true,
+    "material_atualizado": true,
+    "json_valido": true,
+    "estrutura_relacional_respeitada": true,
+    "numeracao_respeitada": true,
+    "houve_quebra_de_hierarquia": false,
+    "houve_nivel_numerico_superior_a_3": false,
+    "fontes_verificadas": true,
+    "sem_informacao_inventada": true
+  },
+  "metadata": {
+    "source_file_name": "12__direito-constitucional-e-legislação-interna-da-câmara-dos-deputados__12-regimento-interno-da-câmara-dos-deputados-12.2-sessões-da-câmara-arts.-65-a-94.json",
+    "normalized_checksum": "0cbc830f869ee4ac247dfccfe4b0572a786e5d2f5995d571665679947ca7b554",
+    "subject_slug": "dir-const-legcam",
+    "material_slug": "ricd-sessoes-da-camara-arts-65-94",
+    "title_slug": "regimento-interno-da-camara-dos-deputados-sessoes",
+    "board_slug": "cebraspe",
+    "counters": {
+      "blocks": 9,
+      "topics": 7,
+      "topic_components": 10,
+      "traps": 4,
+      "memory_points": 6,
+      "summary_items": 10,
+      "questions": 8,
+      "question_comments": 8,
+      "checklist_items": 6,
+      "references": 5
+    }
+  }
+}

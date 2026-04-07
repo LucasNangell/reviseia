@@ -1,0 +1,908 @@
+{
+  "schema_version": "1.0",
+  "normalized_at": "2026-04-07T15:39:13.923899-03:00",
+  "normalizer_version": "2.0.0",
+  "exported_at": "2026-04-07T17:21:00Z",
+  "source_request": {
+    "purpose": "Concurso público",
+    "general_area": "Direito",
+    "subject_name": "Direito Administrativo",
+    "subarea_name": "Direito Administrativo",
+    "main_theme": "3 Organização administrativa: 3.3 Administração indireta: 3.3.7 Sociedades de economia mista",
+    "theme_scope": "Teoria completa, incidência em prova, padrão de cobrança da banca, pegadinhas e questões comentadas",
+    "board_style": "CEBRASPE",
+    "depth_level": "Exaustivo",
+    "goal": "Teoria completa, revisão estratégica, pegadinhas e questões comentadas",
+    "base_topic_number": "3",
+    "topic_title": "3 Organização administrativa: 3.3 Administração indireta: 3.3.7 Sociedades de economia mista",
+    "syllabus_reference": "Conteúdo programático da disciplina Direito Administrativo",
+    "priority_sources": [
+      "Constituição Federal e legislação oficial vigente",
+      "Jurisprudência pertinente e atual, quando cabível",
+      "Doutrina consolidada",
+      "Questões anteriores da banca"
+    ],
+    "minimum_questions": 8,
+    "question_format": "Certo/Errado",
+    "prioritize_real_questions": true,
+    "response_language": "português",
+    "target_audience": "Candidato de concurso público",
+    "additional_notes": "Executar exatamente para esta linha individual do topicos.txt. Não juntar com outros tópicos. Não pular este tópico. Dar destaque ao padrão de cobrança da banca, aos pontos mais cobrados e às pegadinhas recorrentes.",
+    "input_hash": "290dc8528c51",
+    "extras": {}
+  },
+  "material": {
+    "material_id": "mat_001",
+    "slug": "sociedades-economia-mista-direito-administrativo-cebraspe",
+    "title": "Sociedades de Economia Mista no Direito Administrativo: Teoria, Padrão CEBRASPE e Questões",
+    "base_number": "3.3.7",
+    "topic_title": "3 Organização administrativa: 3.3 Administração indireta: 3.3.7 Sociedades de economia mista",
+    "purpose": "Concurso público",
+    "area_name": "Direito",
+    "subject_name": "Direito Administrativo",
+    "subarea_name": "Direito Administrativo",
+    "main_theme": "3 Organização administrativa: 3.3 Administração indireta: 3.3.7 Sociedades de economia mista",
+    "theme_scope": "Teoria completa, incidência em prova, padrão de cobrança da banca, pegadinhas e questões comentadas",
+    "board_style": "CEBRASPE",
+    "depth_level": "Exaustivo",
+    "study_goal": "Teoria completa, revisão estratégica, pegadinhas e questões comentadas",
+    "target_audience": "Candidato de concurso público",
+    "language_code": "português",
+    "update_status": "Atualizado",
+    "current_note": "Conteúdo atualizado com a Lei nº 13.303/2016 (Lei das Estatais) e jurisprudência recente do STF e STJ.",
+    "has_case_law": true,
+    "case_law_justification": "A jurisprudência é crucial para entender o regime híbrido das sociedades de economia mista, especialmente em temas como precatórios e foro competente.",
+    "has_information_limitation": false,
+    "information_limitation_desc": null,
+    "content_checksum": "placeholder_checksum_v1",
+    "extras": {}
+  },
+  "blocos_textuais": [
+    {
+      "external_block_code": "blc_001",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 1,
+      "title": "Introdução à Organização Administrativa e Sociedades de Economia Mista",
+      "content": "A Administração Pública brasileira, para alcançar seus objetivos e otimizar a prestação de serviços e a exploração de atividades econômicas, estrutura-se em Administração Direta e Indireta. As Sociedades de Economia Mista (SEM) são figuras centrais na Administração Indireta, representando a atuação do Estado no domínio econômico ou na prestação de serviços públicos sob um regime jurídico peculiar. O estudo aprofundado das SEM é fundamental para concursos públicos, especialmente os organizados pelo CEBRASPE, que frequentemente aborda suas características, regime jurídico e distinções de outras entidades.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_002",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 2,
+      "title": "Conceito e Natureza Jurídica das Sociedades de Economia Mista",
+      "content": "As Sociedades de Economia Mista são pessoas jurídicas de direito privado, integrantes da Administração Indireta, criadas mediante autorização de lei específica, sob a forma de sociedade anônima, cujas ações com direito a voto pertençam em sua maioria à União, aos Estados, ao Distrito Federal, aos Municípios ou a entidade da administração indireta. Sua finalidade pode ser a exploração de atividade econômica ou a prestação de serviços públicos. O Decreto-Lei nº 200/1967 e, mais recentemente, a Lei nº 13.303/2016 (Lei das Estatais) são diplomas normativos essenciais para a compreensão de seu regime.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_003",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 3,
+      "title": "Regime Jurídico Híbrido: Direito Público e Privado",
+      "content": "Uma das características mais marcantes das Sociedades de Economia Mista é seu regime jurídico híbrido, ou seja, elas se sujeitam predominantemente às normas de direito privado, mas com derrogações de direito público. Isso significa que, embora operem como empresas privadas em muitos aspectos (regime trabalhista pela CLT, regime tributário, possibilidade de falência), estão submetidas a princípios e regras de direito público, como a necessidade de concurso público para contratação de pessoal, licitação para contratos e fiscalização pelos Tribunais de Contas. A Lei nº 13.303/2016 reforça esse regime híbrido, estabelecendo normas de governança, transparência e licitações específicas para as estatais.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_004",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 4,
+      "title": "Criação e Extinção",
+      "content": "A criação de uma Sociedade de Economia Mista exige autorização por lei específica. Essa lei autoriza a criação, mas a personalidade jurídica é adquirida com o registro de seus atos constitutivos (estatuto social) na Junta Comercial. Para a extinção, o Supremo Tribunal Federal entende que é suficiente a autorização legal genérica, sendo dispensável lei específica.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_005",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 5,
+      "title": "Pessoal: Concurso Público e Regime Celetista",
+      "content": "A contratação de pessoal para as Sociedades de Economia Mista, mesmo sendo pessoas jurídicas de direito privado, exige a realização de concurso público, conforme o art. 37, II, da Constituição Federal. Os empregados são regidos pela Consolidação das Leis do Trabalho (CLT), não possuindo estabilidade, mas a dispensa deve ser motivada.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_006",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 6,
+      "title": "Licitações e Contratos: Lei nº 13.303/2016",
+      "content": "As Sociedades de Economia Mista estão sujeitas ao dever de licitar, observando os princípios da Administração Pública. A Lei nº 13.303/2016 (Lei das Estatais) estabeleceu um regime próprio de licitações e contratos para essas entidades, que difere da Lei nº 8.666/93 (e da nova Lei nº 14.133/2021, que não se aplica diretamente às estatais, mas serve de referência principiológica). A Lei das Estatais busca maior agilidade e eficiência, mas sem abrir mão da transparência e da competitividade.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_007",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 7,
+      "title": "Controle e Fiscalização",
+      "content": "As Sociedades de Economia Mista estão sujeitas ao controle externo exercido pelo Tribunal de Contas da União (TCU), no que tange à fiscalização contábil, financeira, orçamentária, operacional e patrimonial. O STF já se manifestou sobre a competência do TCU para fiscalizar essas entidades, inclusive para tomada de contas especial, embora haja debates sobre a extensão desse controle em relação à gestão comercial. Além disso, estão sujeitas ao controle interno e ao controle social.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_008",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 8,
+      "title": "Regime de Precatórios",
+      "content": "A aplicação do regime de precatórios às Sociedades de Economia Mista é um tema complexo e pacificado pelo Supremo Tribunal Federal (STF). Em regra, as SEM não se sujeitam ao regime de precatórios, pois possuem personalidade jurídica de direito privado e exploram atividade econômica em regime de concorrência. Contudo, o STF firmou o entendimento de que o regime de precatórios é aplicável às sociedades de economia mista que prestam serviços públicos essenciais, de natureza não concorrencial e sem intuito de lucro primário (distribuição de dividendos como objetivo fim). O critério da 'não concorrência' é vital para essa distinção.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_009",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 9,
+      "title": "Diferenças entre Sociedade de Economia Mista e Empresa Pública",
+      "content": "Embora ambas sejam pessoas jurídicas de direito privado da Administração Indireta e regidas pela Lei nº 13.303/2016, existem diferenças cruciais entre Sociedades de Economia Mista e Empresas Públicas:\n\n*   **Forma Jurídica:** A Sociedade de Economia Mista é obrigatoriamente constituída sob a forma de sociedade anônima. A Empresa Pública pode adotar qualquer forma jurídica admitida em direito.\n*   **Capital Social:** Na Sociedade de Economia Mista, o capital é misto (público e privado), com a maioria das ações com direito a voto pertencendo ao Poder Público. Na Empresa Pública, o capital é integralmente público.\n*   **Foro Competente (Jurisprudência STF/STJ):** Em regra, as ações em que as Sociedades de Economia Mista são parte tramitam na Justiça Estadual. Já as ações de Empresas Públicas federais tramitam na Justiça Federal. Exceção para SEM: a competência é da Justiça Federal quando a União intervém como assistente ou opoente.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_010",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 10,
+      "title": "Padrão de Cobrança CEBRASPE",
+      "content": "O CEBRASPE é conhecido por suas questões no formato Certo/Errado, que exigem precisão conceitual e atenção aos detalhes. Em relação às Sociedades de Economia Mista, a banca costuma cobrar:\n\n*   **Conceito e Natureza Jurídica:** Frequentemente testa a compreensão de que são pessoas jurídicas de direito privado da Administração Indireta, criadas por lei específica e sob a forma de S.A.\n*   **Regime Híbrido:** Questões que buscam confundir o candidato sobre a aplicação integral do regime público ou privado. É crucial entender as derrogações.\n*   **Lei nº 13.303/2016 (Lei das Estatais):** A banca explora bastante os dispositivos dessa lei, especialmente sobre governança, licitações e contratos, e requisitos para dirigentes.\n*   **Diferenças entre SEM e Empresa Pública:** É um tópico clássico, com foco nas distinções de forma jurídica, composição do capital e foro competente.\n*   **Concurso Público e CLT:** A obrigatoriedade de concurso e o regime celetista são pontos recorrentes.\n*   **Regime de Precatórios:** A jurisprudência do STF sobre a aplicação ou não de precatórios, dependendo da atividade (concorrencial ou não), é muito cobrada.\n*   **Fiscalização:** A competência do TCU para fiscalizar as SEM também é um tema relevante.\n*   **Pegadinhas:** A CEBRASPE adora 'trocar' Empresa Pública por Sociedade de Economia Mista, ou afirmar que o regime é puramente privado/público. Também testa a literalidade da Lei das Estatais e súmulas.",
+      "content_type": "teoria"
+    }
+  ],
+  "topicos": [
+    {
+      "external_topic_code": "top_001",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "3.3.7",
+      "title": "Sociedades de Economia Mista",
+      "reference_block_external_id": "blc_002",
+      "level": 3,
+      "order": 1
+    },
+    {
+      "external_topic_code": "top_002",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "3.3.7.1",
+      "title": "Conceito e Natureza Jurídica",
+      "reference_block_external_id": "blc_002",
+      "level": 4,
+      "order": 2
+    },
+    {
+      "external_topic_code": "top_003",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "3.3.7.2",
+      "title": "Regime Jurídico Híbrido",
+      "reference_block_external_id": "blc_003",
+      "level": 4,
+      "order": 3
+    },
+    {
+      "external_topic_code": "top_004",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "3.3.7.3",
+      "title": "Criação e Extinção",
+      "reference_block_external_id": "blc_004",
+      "level": 4,
+      "order": 4
+    },
+    {
+      "external_topic_code": "top_005",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "3.3.7.4",
+      "title": "Pessoal (Concurso Público e CLT)",
+      "reference_block_external_id": "blc_005",
+      "level": 4,
+      "order": 5
+    },
+    {
+      "external_topic_code": "top_006",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "3.3.7.5",
+      "title": "Licitações e Contratos (Lei nº 13.303/2016)",
+      "reference_block_external_id": "blc_006",
+      "level": 4,
+      "order": 6
+    },
+    {
+      "external_topic_code": "top_007",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "3.3.7.6",
+      "title": "Controle e Fiscalização",
+      "reference_block_external_id": "blc_007",
+      "level": 4,
+      "order": 7
+    },
+    {
+      "external_topic_code": "top_008",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "3.3.7.7",
+      "title": "Regime de Precatórios",
+      "reference_block_external_id": "blc_008",
+      "level": 4,
+      "order": 8
+    },
+    {
+      "external_topic_code": "top_009",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "3.3.7.8",
+      "title": "Diferenças entre Sociedade de Economia Mista e Empresa Pública",
+      "reference_block_external_id": "blc_009",
+      "level": 4,
+      "order": 9
+    },
+    {
+      "external_topic_code": "top_010",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "3.3.7.9",
+      "title": "Padrão de Cobrança CEBRASPE",
+      "reference_block_external_id": "blc_010",
+      "level": 4,
+      "order": 10
+    }
+  ],
+  "topico_componentes": [],
+  "pegadinhas": [
+    {
+      "trap_id": "peg_001",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": "Pegadinha 1",
+      "description": "Confundir o regime jurídico híbrido das SEM, afirmando que se sujeitam integralmente ao direito privado ou ao direito público. O CEBRASPE frequentemente testa a compreensão das derrogações de direito público.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 1
+    },
+    {
+      "trap_id": "peg_002",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": "Pegadinha 2",
+      "description": "Afirmar que a criação da Sociedade de Economia Mista se dá diretamente por lei, e não por autorização legal seguida de registro dos atos constitutivos.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 2
+    },
+    {
+      "trap_id": "peg_003",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": "Pegadinha 3",
+      "description": "Trocar as características distintivas entre Empresa Pública e Sociedade de Economia Mista, especialmente quanto à forma jurídica (S.A. para SEM) e à composição do capital (100% público para EP vs. misto para SEM).",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 3
+    },
+    {
+      "trap_id": "peg_004",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": "Pegadinha 4",
+      "description": "Generalizar a aplicação ou não do regime de precatórios para todas as Sociedades de Economia Mista, ignorando a distinção entre exploradoras de atividade econômica e prestadoras de serviço público não concorrencial.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 4
+    },
+    {
+      "trap_id": "peg_005",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": "Pegadinha 5",
+      "description": "Confundir o regime de licitações das estatais (Lei nº 13.303/2016) com a Lei nº 8.666/93 ou a Lei nº 14.133/2021.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 5
+    },
+    {
+      "trap_id": "peg_006",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": "Pegadinha 6",
+      "description": "Afirmar que os empregados de SEM possuem estabilidade ou que não precisam de concurso público.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 6
+    },
+    {
+      "trap_id": "peg_007",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": "Pegadinha 7",
+      "description": "Errar a competência judicial para julgar ações envolvendo Sociedades de Economia Mista, especialmente a regra geral da Justiça Estadual e a exceção da Justiça Federal com a intervenção da União.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 7
+    }
+  ],
+  "pontos_memorizacao": [
+    {
+      "memory_id": "mem_001",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": null,
+      "content": "",
+      "order": 1
+    },
+    {
+      "memory_id": "mem_002",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": null,
+      "content": "",
+      "order": 2
+    },
+    {
+      "memory_id": "mem_003",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": null,
+      "content": "",
+      "order": 3
+    },
+    {
+      "memory_id": "mem_004",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": null,
+      "content": "",
+      "order": 4
+    },
+    {
+      "memory_id": "mem_005",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": null,
+      "content": "",
+      "order": 5
+    },
+    {
+      "memory_id": "mem_006",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": null,
+      "content": "",
+      "order": 6
+    }
+  ],
+  "quadro_sinotico_itens": [],
+  "questoes": [
+    {
+      "question_id": "qst_001",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": "CEBRASPE",
+      "year": 2021,
+      "organization": "Polícia Civil do Estado do Rio de Janeiro",
+      "role": "Delegado de Polícia",
+      "statement": "As sociedades de economia mista são pessoas jurídicas de direito privado, integrantes da administração indireta, criadas por lei específica, sob a forma de sociedade anônima, cujo capital social é integralmente público.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "A assertiva está ERRADA. Embora as sociedades de economia mista sejam pessoas jurídicas de direito privado, integrantes da administração indireta e criadas por lei específica sob a forma de sociedade anônima, seu capital social NÃO é integralmente público. Pelo contrário, é misto, com a maioria das ações com direito a voto pertencendo ao Poder Público.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_001"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_002",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": "CEBRASPE",
+      "year": 2012,
+      "organization": "TCE-ES",
+      "role": "Auditor de Controle Externo",
+      "statement": "O regime jurídico a que se sujeitam as empresas públicas e as sociedades de economia mista é de natureza híbrida, mesclando características de direito público e privado.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "A assertiva está CORRETA. As empresas públicas e as sociedades de economia mista possuem, de fato, um regime jurídico híbrido. Isso significa que, apesar de serem pessoas jurídicas de direito privado, elas incorporam características tanto do direito público (como a obrigatoriedade de concurso público e licitação) quanto do privado.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_002"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_003",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": "CEBRASPE",
+      "year": 2026,
+      "organization": "TELEBRAS",
+      "role": "Especialista em Gestão de Telecomunicações",
+      "statement": "A Lei nº 13.303/2016 (Lei das Estatais) estabelece um regime próprio de licitações e contratos para as sociedades de economia mista, que se aplica de forma subsidiária à Lei nº 8.666/93.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "A assertiva está ERRADA. A Lei nº 13.303/2016 (Lei das Estatais) estabelece um regime próprio e autônomo de licitações e contratos para as empresas públicas e sociedades de economia mista. Ela não se aplica de forma subsidiária à Lei nº 8.666/93, mas sim possui suas próprias regras, embora observe os princípios da administração pública.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_003"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_004",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": "CEBRASPE",
+      "year": 2017,
+      "organization": "STF",
+      "role": "Analista Judiciário",
+      "statement": "As sociedades de economia mista que exploram atividade econômica em regime de concorrência com o setor privado não se submetem ao regime de precatórios.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "A assertiva está CORRETA. Conforme entendimento consolidado do STF, as sociedades de economia mista que exploram atividade econômica em regime de concorrência com o setor privado não se submetem ao regime de precatórios, mas sim à execução comum, como as empresas privadas. O regime de precatórios é reservado àquelas que prestam serviços públicos essenciais, em regime não concorrencial.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_004"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_005",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": "CEBRASPE",
+      "year": 2023,
+      "organization": "CNMP",
+      "role": "Apoio Técnico Administrativo",
+      "statement": "A principal diferença entre empresa pública e sociedade de economia mista reside na forma jurídica, sendo a primeira obrigatoriamente sociedade anônima e a segunda podendo adotar qualquer forma admitida em direito.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "A assertiva está ERRADA. A afirmação inverte as características. A Sociedade de Economia Mista é que é obrigatoriamente constituída sob a forma de sociedade anônima, enquanto a Empresa Pública pode adotar qualquer forma jurídica admitida em direito.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_005"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_006",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": "CEBRASPE",
+      "year": 2021,
+      "organization": "TCU",
+      "role": "Auditor Federal de Controle Externo",
+      "statement": "A contratação de pessoal para as sociedades de economia mista exige a prévia aprovação em concurso público, e seus empregados são regidos pela Consolidação das Leis do Trabalho (CLT).",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "A assertiva está CORRETA. O art. 37, II, da Constituição Federal exige concurso público para a investidura em cargo ou emprego público, o que inclui as sociedades de economia mista. Seus empregados são, de fato, regidos pela CLT.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_006"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_007",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": "CEBRASPE",
+      "year": 2018,
+      "organization": "TCE MG",
+      "role": "Analista de Controle Externo",
+      "statement": "O Tribunal de Contas da União (TCU) não possui competência para fiscalizar as sociedades de economia mista, uma vez que estas se submetem predominantemente ao regime de direito privado.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "A assertiva está ERRADA. O TCU possui, sim, competência para fiscalizar as sociedades de economia mista, conforme o art. 71, II, da Constituição Federal. A submissão predominante ao regime de direito privado não as exime do controle externo.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_007"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_008",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": "CEBRASPE",
+      "year": 2020,
+      "organization": "AGU",
+      "role": "Advogado da União",
+      "statement": "A criação de uma sociedade de economia mista depende de autorização em lei específica, mas sua extinção pode ocorrer por lei genérica.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "A assertiva está CORRETA. A criação de uma sociedade de economia mista depende de autorização em lei específica (art. 37, XIX, CF). Contudo, para a sua extinção, o STF entende que basta uma lei genérica que autorize a desestatização, não sendo necessária uma lei específica para cada caso.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_008"
+        ],
+        "count": 1
+      }
+    }
+  ],
+  "comentarios_questoes": [
+    {
+      "comment_id": "com_001",
+      "question_id": "qst_001",
+      "content": "A assertiva está ERRADA. Embora as sociedades de economia mista sejam pessoas jurídicas de direito privado, integrantes da administração indireta e criadas por lei específica sob a forma de sociedade anônima, seu capital social NÃO é integralmente público. Pelo contrário, é misto, com a maioria das ações com direito a voto pertencendo ao Poder Público.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_002",
+      "question_id": "qst_002",
+      "content": "A assertiva está CORRETA. As empresas públicas e as sociedades de economia mista possuem, de fato, um regime jurídico híbrido. Isso significa que, apesar de serem pessoas jurídicas de direito privado, elas incorporam características tanto do direito público (como a obrigatoriedade de concurso público e licitação) quanto do privado.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_003",
+      "question_id": "qst_003",
+      "content": "A assertiva está ERRADA. A Lei nº 13.303/2016 (Lei das Estatais) estabelece um regime próprio e autônomo de licitações e contratos para as empresas públicas e sociedades de economia mista. Ela não se aplica de forma subsidiária à Lei nº 8.666/93, mas sim possui suas próprias regras, embora observe os princípios da administração pública.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_004",
+      "question_id": "qst_004",
+      "content": "A assertiva está CORRETA. Conforme entendimento consolidado do STF, as sociedades de economia mista que exploram atividade econômica em regime de concorrência com o setor privado não se submetem ao regime de precatórios, mas sim à execução comum, como as empresas privadas. O regime de precatórios é reservado àquelas que prestam serviços públicos essenciais, em regime não concorrencial.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_005",
+      "question_id": "qst_005",
+      "content": "A assertiva está ERRADA. A afirmação inverte as características. A Sociedade de Economia Mista é que é obrigatoriamente constituída sob a forma de sociedade anônima, enquanto a Empresa Pública pode adotar qualquer forma jurídica admitida em direito.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_006",
+      "question_id": "qst_006",
+      "content": "A assertiva está CORRETA. O art. 37, II, da Constituição Federal exige concurso público para a investidura em cargo ou emprego público, o que inclui as sociedades de economia mista. Seus empregados são, de fato, regidos pela CLT.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_007",
+      "question_id": "qst_007",
+      "content": "A assertiva está ERRADA. O TCU possui, sim, competência para fiscalizar as sociedades de economia mista, conforme o art. 71, II, da Constituição Federal. A submissão predominante ao regime de direito privado não as exime do controle externo.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_008",
+      "question_id": "qst_008",
+      "content": "A assertiva está CORRETA. A criação de uma sociedade de economia mista depende de autorização em lei específica (art. 37, XIX, CF). Contudo, para a sua extinção, o STF entende que basta uma lei genérica que autorize a desestatização, não sendo necessária uma lei específica para cada caso.",
+      "explanation_alternatives": ""
+    }
+  ],
+  "checklist_revisao": [
+    {
+      "checklist_id": "chk_001",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Revisar o conceito e as características essenciais das Sociedades de Economia Mista (natureza jurídica, forma, capital, finalidade).",
+      "completed": false,
+      "order": 1
+    },
+    {
+      "checklist_id": "chk_002",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Compreender o regime jurídico híbrido e as derrogações de direito público aplicáveis.",
+      "completed": false,
+      "order": 2
+    },
+    {
+      "checklist_id": "chk_003",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Memorizar as diferenças cruciais entre Sociedade de Economia Mista e Empresa Pública (forma jurídica, capital, foro).",
+      "completed": false,
+      "order": 3
+    },
+    {
+      "checklist_id": "chk_004",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Estudar a Lei nº 13.303/2016 (Lei das Estatais), com foco em licitações, contratos e governança.",
+      "completed": false,
+      "order": 4
+    },
+    {
+      "checklist_id": "chk_005",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Analisar a jurisprudência do STF sobre o regime de precatórios para SEM, distinguindo as atividades concorrenciais das não concorrenciais.",
+      "completed": false,
+      "order": 5
+    },
+    {
+      "checklist_id": "chk_006",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Revisar a obrigatoriedade de concurso público e o regime celetista para os empregados das SEM.",
+      "completed": false,
+      "order": 6
+    },
+    {
+      "checklist_id": "chk_007",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Entender a competência do TCU para fiscalizar as Sociedades de Economia Mista.",
+      "completed": false,
+      "order": 7
+    },
+    {
+      "checklist_id": "chk_008",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Focar nas pegadinhas e pontos mais cobrados pelo CEBRASPE, conforme o padrão da banca.",
+      "completed": false,
+      "order": 8
+    }
+  ],
+  "referencias": [
+    {
+      "reference_id": "ref_001",
+      "material_id": "mat_001",
+      "reference_type": "Legislação",
+      "author_name": null,
+      "title": "Constituição da República Federativa do Brasil de 1988",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "http://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
+      "accessed_at": "2026-04-07",
+      "description": null
+    },
+    {
+      "reference_id": "ref_002",
+      "material_id": "mat_001",
+      "reference_type": "Legislação",
+      "author_name": null,
+      "title": "Lei nº 13.303, de 30 de junho de 2016 (Lei das Estatais)",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "http://www.planalto.gov.br/ccivil_03/_ato2015-2018/2016/lei/l13303.htm",
+      "accessed_at": "2026-04-07",
+      "description": null
+    },
+    {
+      "reference_id": "ref_003",
+      "material_id": "mat_001",
+      "reference_type": "Legislação",
+      "author_name": null,
+      "title": "Decreto-Lei nº 200, de 25 de fevereiro de 1967",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "http://www.planalto.gov.br/ccivil_03/decreto-lei/del0200.htm",
+      "accessed_at": "2026-04-07",
+      "description": null
+    },
+    {
+      "reference_id": "ref_004",
+      "material_id": "mat_001",
+      "reference_type": "Doutrina",
+      "author_name": null,
+      "title": "DI PIETRO, Maria Sylvia Zanella. Direito Administrativo. 36. ed. Rio de Janeiro: Forense, 2023.",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": null,
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_005",
+      "material_id": "mat_001",
+      "reference_type": "Doutrina",
+      "author_name": null,
+      "title": "MELLO, Celso Antônio Bandeira de. Curso de Direito Administrativo. 35. ed. São Paulo: Malheiros, 2023.",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": null,
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_006",
+      "material_id": "mat_001",
+      "reference_type": "Jurisprudência",
+      "author_name": null,
+      "title": "Súmula 517 do STF: As sociedades de economia mista só têm foro na Justiça Federal, quando a União intervém como assistente ou opoente.",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://portal.stf.jus.br/jurisprudencia/sumulas/detalhe.asp?s=517",
+      "accessed_at": "2026-04-07",
+      "description": null
+    },
+    {
+      "reference_id": "ref_007",
+      "material_id": "mat_001",
+      "reference_type": "Jurisprudência",
+      "author_name": null,
+      "title": "Súmula 556 do STF: É competente a Justiça comum para julgar as causas em que é parte sociedade de economia mista.",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://portal.stf.jus.br/jurisprudencia/sumulas/detalhe.asp?s=556",
+      "accessed_at": "2026-04-07",
+      "description": null
+    },
+    {
+      "reference_id": "ref_008",
+      "material_id": "mat_001",
+      "reference_type": "Jurisprudência",
+      "author_name": null,
+      "title": "Súmula 8 do STF: Diretor de sociedade de economia mista pode ser destituído no curso do mandato.",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://portal.stf.jus.br/jurisprudencia/sumulas/detalhe.asp?s=8",
+      "accessed_at": "2026-04-07",
+      "description": null
+    },
+    {
+      "reference_id": "ref_009",
+      "material_id": "mat_001",
+      "reference_type": "Jurisprudência",
+      "author_name": null,
+      "title": "STF, ADPF 387 (Regime de Precatórios para SEM)",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=5075670",
+      "accessed_at": "2026-04-07",
+      "description": null
+    },
+    {
+      "reference_id": "ref_010",
+      "material_id": "mat_001",
+      "reference_type": "Artigo/Material de Estudo",
+      "author_name": null,
+      "title": "Sociedades de Economia Mista e suas Peculiaridades - Estratégia Concursos",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.estrategiaconcursos.com.br/blog/sociedades-de-economia-mista/",
+      "accessed_at": "2026-04-07",
+      "description": null
+    },
+    {
+      "reference_id": "ref_011",
+      "material_id": "mat_001",
+      "reference_type": "Artigo/Material de Estudo",
+      "author_name": null,
+      "title": "Lei das Estatais: Saiba tudo sobre a nova Lei 13303 - Estratégia Concursos",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.estrategiaconcursos.com.br/blog/lei-das-estatais/",
+      "accessed_at": "2026-04-07",
+      "description": null
+    },
+    {
+      "reference_id": "ref_012",
+      "material_id": "mat_001",
+      "reference_type": "Artigo/Material de Estudo",
+      "author_name": null,
+      "title": "É possível aplicar o regime de precatórios às sociedades de economia mista? - Buscador Dizer o Direito",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.dizerodireito.com.br/2017/05/e-possivel-aplicar-o-regime-de.html",
+      "accessed_at": "2026-04-07",
+      "description": null
+    },
+    {
+      "reference_id": "ref_013",
+      "material_id": "mat_001",
+      "reference_type": "Artigo/Material de Estudo",
+      "author_name": null,
+      "title": "Banca Cebraspe provas: como identificar o padrão de cobrança? - Soma Concursos",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://somaconcursos.com.br/banca-cebraspe-provas-como-identificar-o-padrao-de-cobranca/",
+      "accessed_at": "2026-04-07",
+      "description": null
+    },
+    {
+      "reference_id": "ref_014",
+      "material_id": "mat_001",
+      "reference_type": "Questões de Concurso",
+      "author_name": null,
+      "title": "Qconcursos.com - Questões de Direito Administrativo (CEBRASPE)",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.qconcursos.com/questoes-de-concursos/disciplinas/direito-administrativo",
+      "accessed_at": "2026-04-07",
+      "description": null
+    }
+  ],
+  "estatisticas_de_geracao": {
+    "total_topicos": 10,
+    "total_componentes_topico": 0,
+    "total_entendimentos_relevantes": 8,
+    "total_pegadinhas": 7,
+    "total_pontos_memorizacao": 6,
+    "total_itens_quadro_sinotico": 0,
+    "total_questoes": 8,
+    "total_comentarios_questoes": 8,
+    "total_itens_checklist": 8,
+    "total_referencias": 14
+  },
+  "validacao_interna": {
+    "pesquisa_previa_realizada": true,
+    "analise_de_cobrancas_anteriores_realizada": true,
+    "material_atualizado": true,
+    "json_valido": true,
+    "estrutura_relacional_respeitada": true,
+    "numeracao_respeitada": true,
+    "houve_quebra_de_hierarquia": false,
+    "houve_nivel_numerico_superior_a_3": false,
+    "fontes_verificadas": true,
+    "sem_informacao_inventada": true
+  },
+  "metadata": {
+    "source_file_name": "3__direito-administrativo__3-organização-administrativa-3.3-administração-indireta-3.3.7-sociedades-de-economia-mista.json",
+    "normalized_checksum": "672d88a1ee2256305aeab371fb21124da4e5a09a23d42f33ecec0e787b82e166",
+    "subject_slug": "dir-adm",
+    "material_slug": "sociedades-economia-mista-direito",
+    "title_slug": "sociedades-de-economia-mista-no-direito",
+    "board_slug": "cebraspe",
+    "counters": {
+      "blocks": 10,
+      "topics": 10,
+      "topic_components": 0,
+      "traps": 7,
+      "memory_points": 6,
+      "summary_items": 0,
+      "questions": 8,
+      "question_comments": 8,
+      "checklist_items": 8,
+      "references": 14
+    }
+  }
+}

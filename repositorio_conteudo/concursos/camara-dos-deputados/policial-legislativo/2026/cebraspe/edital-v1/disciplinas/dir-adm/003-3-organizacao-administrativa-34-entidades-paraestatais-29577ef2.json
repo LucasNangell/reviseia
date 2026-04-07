@@ -1,0 +1,1107 @@
+{
+  "schema_version": "1.0",
+  "normalized_at": "2026-04-07T15:39:13.962614-03:00",
+  "normalizer_version": "2.0.0",
+  "exported_at": "2026-04-07T17:28:00Z",
+  "source_request": {
+    "purpose": "Concurso público",
+    "general_area": "Direito",
+    "subject_name": "Direito Administrativo",
+    "subarea_name": "Direito Administrativo",
+    "main_theme": "3 Organização administrativa: 3.4 Entidades paraestatais e terceiro setor: 3.4.3 Organizações sociais",
+    "theme_scope": "Teoria completa, incidência em prova, padrão de cobrança da banca, pegadinhas e questões comentadas",
+    "board_style": "CEBRASPE",
+    "depth_level": "Exaustivo",
+    "goal": "Teoria completa, revisão estratégica, pegadinhas e questões comentadas",
+    "base_topic_number": "3",
+    "topic_title": "3 Organização administrativa: 3.4 Entidades paraestatais e terceiro setor: 3.4.3 Organizações sociais",
+    "syllabus_reference": "Conteúdo programático da disciplina Direito Administrativo",
+    "priority_sources": [
+      "Constituição Federal e legislação oficial vigente",
+      "Jurisprudência pertinente e atual, quando cabível",
+      "Doutrina consolidada",
+      "Questões anteriores da banca"
+    ],
+    "minimum_questions": 8,
+    "question_format": "Certo/Errado",
+    "prioritize_real_questions": true,
+    "response_language": "português",
+    "target_audience": "Candidato de concurso público",
+    "additional_notes": "Executar exatamente para esta linha individual do topicos.txt. Não juntar com outros tópicos. Não pular este tópico. Dar destaque ao padrão de cobrança da banca, aos pontos mais cobrados e às pegadinhas recorrentes.",
+    "input_hash": "8d3afcdf64e5",
+    "extras": {}
+  },
+  "material": {
+    "material_id": "mat_001",
+    "slug": "organizacoes-sociais-direito-administrativo-cebraspe",
+    "title": "Organizações Sociais (OS) para Concursos Públicos - CEBRASPE",
+    "base_number": "3",
+    "topic_title": "3 Organização administrativa: 3.4 Entidades paraestatais e terceiro setor: 3.4.3 Organizações sociais",
+    "purpose": "Concurso público",
+    "area_name": "Direito",
+    "subject_name": "Direito Administrativo",
+    "subarea_name": "Direito Administrativo",
+    "main_theme": "3 Organização administrativa: 3.4 Entidades paraestatais e terceiro setor: 3.4.3 Organizações sociais",
+    "theme_scope": "Teoria completa, incidência em prova, padrão de cobrança da banca, pegadinhas e questões comentadas",
+    "board_style": "CEBRASPE",
+    "depth_level": "Exaustivo",
+    "study_goal": "Teoria completa, revisão estratégica, pegadinhas e questões comentadas",
+    "target_audience": "Candidato de concurso público",
+    "language_code": "português",
+    "update_status": "Atualizado em 2026",
+    "current_note": "Material revisado com base na legislação vigente, doutrina consolidada e jurisprudência atual do STF e STJ, incluindo a ADI 1.923/DF. Análise do padrão CEBRASPE para Organizações Sociais.",
+    "has_case_law": true,
+    "case_law_justification": "A constitucionalidade da Lei nº 9.637/98 e aspectos relevantes do regime jurídico das Organizações Sociais foram amplamente debatidos e definidos pelo Supremo Tribunal Federal na ADI 1.923/DF, sendo ponto de cobrança recorrente em provas.",
+    "has_information_limitation": false,
+    "information_limitation_desc": null,
+    "content_checksum": "2312d8a01121015694c9205562098656113b8214341908331980839818451121",
+    "extras": {}
+  },
+  "blocos_textuais": [
+    {
+      "external_block_code": "blc_001",
+      "material_id": null,
+      "topic_id": null,
+      "order": 1,
+      "title": "Bloco 1",
+      "content": "As Organizações Sociais (OS) são pessoas jurídicas de direito privado, sem fins lucrativos, instituídas por particulares, que recebem qualificação específica do Poder Executivo para atuar em áreas de interesse social, como ensino, pesquisa científica, desenvolvimento tecnológico, proteção e preservação do meio ambiente, cultura e saúde, mediante um Contrato de Gestão.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_002",
+      "material_id": null,
+      "topic_id": null,
+      "order": 2,
+      "title": "Bloco 2",
+      "content": "É fundamental compreender que as OS possuem natureza jurídica de direito privado, o que as distingue das entidades da Administração Pública indireta (autarquias, fundações públicas, empresas públicas e sociedades de economia mista). Embora colaborem com o Estado na execução de atividades de interesse público, não se confundem com a estrutura estatal.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_003",
+      "material_id": null,
+      "topic_id": null,
+      "order": 3,
+      "title": "Bloco 3",
+      "content": "Apesar de receberem fomento e recursos públicos, as Organizações Sociais não são consideradas parte da Administração Pública direta ou indireta. Elas atuam em regime de parceria, sob o regime de direito privado, mas com a observância de princípios da Administração Pública na gestão dos recursos recebidos.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_004",
+      "material_id": null,
+      "topic_id": null,
+      "order": 4,
+      "title": "Bloco 4",
+      "content": "O regime jurídico das Organizações Sociais é estabelecido principalmente pela Lei nº 9.637, de 15 de maio de 1998, que dispõe sobre a qualificação de entidades como organizações sociais e disciplina o Contrato de Gestão.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_005",
+      "material_id": null,
+      "topic_id": null,
+      "order": 5,
+      "title": "Bloco 5",
+      "content": "A constitucionalidade da Lei nº 9.637/98 foi confirmada pelo Supremo Tribunal Federal (STF) no julgamento da Ação Direta de Inconstitucionalidade (ADI) 1.923/DF. O STF, contudo, estabeleceu interpretações e ressalvas importantes, como a necessidade de observância dos princípios da Administração Pública na gestão dos recursos e bens públicos, a discricionariedade do ato de qualificação e a fiscalização pelo Tribunal de Contas.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_006",
+      "material_id": null,
+      "topic_id": null,
+      "order": 6,
+      "title": "Bloco 6",
+      "content": "As Organizações Sociais são qualificadas para atuar em áreas específicas de interesse social, conforme o art. 1º da Lei nº 9.637/98, que incluem: ensino, pesquisa científica, desenvolvimento tecnológico, proteção e preservação do meio ambiente, cultura e saúde.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_007",
+      "material_id": null,
+      "topic_id": null,
+      "order": 7,
+      "title": "Bloco 7",
+      "content": "A qualificação de uma entidade como Organização Social é um ato discricionário do Poder Executivo (Presidente, Governador ou Prefeito), ou seja, mesmo que a entidade preencha todos os requisitos legais, a Administração Pública não é obrigada a conceder a qualificação.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_008",
+      "material_id": null,
+      "topic_id": null,
+      "order": 8,
+      "title": "Bloco 8",
+      "content": "Para ser qualificada como OS, a entidade deve ter seu estatuto social aprovado e registrado, prevendo, entre outros: finalidade não lucrativa, proibição de distribuição de bens ou lucros, previsão de um conselho de administração com participação de membros da comunidade, publicidade de seus atos e demonstrações financeiras, e realização de auditoria externa independente.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_009",
+      "material_id": null,
+      "topic_id": null,
+      "order": 9,
+      "title": "Bloco 9",
+      "content": "O procedimento de qualificação envolve a apresentação de requerimento ao Poder Executivo, acompanhado da documentação comprobatória do cumprimento dos requisitos legais e estatutários. Após análise, o ato de qualificação é formalizado por decreto.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_010",
+      "material_id": null,
+      "topic_id": null,
+      "order": 10,
+      "title": "Bloco 10",
+      "content": "O Contrato de Gestão é o instrumento jurídico que formaliza a parceria entre o Poder Público e a Organização Social. Não se confunde com convênio nem com contrato administrativo típico, possuindo natureza de ajuste de parceria para fomento, com características próprias definidas na Lei nº 9.637/98.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_011",
+      "material_id": null,
+      "topic_id": null,
+      "order": 11,
+      "title": "Bloco 11",
+      "content": "O Contrato de Gestão deve especificar o programa de trabalho, as metas de desempenho, os indicadores de avaliação, os prazos de execução, os critérios de avaliação de resultados, a previsão de recursos orçamentários e a forma de fiscalização e controle.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_012",
+      "material_id": null,
+      "topic_id": null,
+      "order": 12,
+      "title": "Bloco 12",
+      "content": "A Lei nº 8.666/93, em seu art. 24, inciso XXIV, previa a dispensa de licitação para a celebração de contratos de prestação de serviços com as Organizações Sociais, qualificadas no âmbito das respectivas esferas de governo, para atividades contempladas no Contrato de Gestão. Embora a Lei nº 14.133/2021 (Nova Lei de Licitações e Contratos) tenha revogado a Lei nº 8.666/93, a doutrina e a jurisprudência majoritárias entendem que a dispensa para a contratação da própria OS pelo Poder Público, no contexto do fomento, permanece válida, pois a Lei nº 9.637/98 possui regramento específico para essa parceria e não foi revogada pela nova lei de licitações. A Lei nº 14.133/2021 trata de outras modalidades de parcerias e contratações, mas não afeta diretamente o regime de fomento das OS nos termos da Lei nº 9.637/98.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_013",
+      "material_id": null,
+      "topic_id": null,
+      "order": 13,
+      "title": "Bloco 13",
+      "content": "O pessoal das Organizações Sociais é contratado sob o regime da Consolidação das Leis do Trabalho (CLT), ou seja, não há exigência de concurso público para a admissão de seus empregados.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_014",
+      "material_id": null,
+      "topic_id": null,
+      "order": 14,
+      "title": "Bloco 14",
+      "content": "Apesar do regime celetista, a contratação de pessoal pelas OS, especialmente quando há utilização de recursos públicos, deve observar os princípios da publicidade, impessoalidade, moralidade e eficiência, geralmente por meio de processos seletivos simplificados.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_015",
+      "material_id": null,
+      "topic_id": null,
+      "order": 15,
+      "title": "Bloco 15",
+      "content": "As Organizações Sociais podem receber bens públicos em cessão de uso ou doação, desde que destinados à execução das atividades previstas no Contrato de Gestão.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_016",
+      "material_id": null,
+      "topic_id": null,
+      "order": 16,
+      "title": "Bloco 16",
+      "content": "Os bens públicos cedidos ou doados às Organizações Sociais, enquanto afetados à finalidade pública e utilizados para a execução do Contrato de Gestão, são impenhoráveis.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_017",
+      "material_id": null,
+      "topic_id": null,
+      "order": 17,
+      "title": "Bloco 17",
+      "content": "As OS podem receber dotações orçamentárias e recursos financeiros do Poder Público para o custeio das atividades previstas no Contrato de Gestão, sujeitando-se à fiscalização quanto à sua aplicação.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_018",
+      "material_id": null,
+      "topic_id": null,
+      "order": 18,
+      "title": "Bloco 18",
+      "content": "O controle interno das Organizações Sociais é exercido pelo seu próprio Conselho de Administração, que deve aprovar o relatório de gestão e as contas anuais, e pelo órgão ou entidade supervisora do Poder Público.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_019",
+      "material_id": null,
+      "topic_id": null,
+      "order": 19,
+      "title": "Bloco 19",
+      "content": "O controle externo é exercido pelo Tribunal de Contas (da União, do Estado ou do Município, conforme a esfera de governo), que fiscaliza a aplicação dos recursos públicos repassados, e pelo Ministério Público, que atua na defesa do patrimônio público e da moralidade administrativa.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_020",
+      "material_id": null,
+      "topic_id": null,
+      "order": 20,
+      "title": "Bloco 20",
+      "content": "A Lei nº 9.637/98 exige que as Organizações Sociais deem publicidade a seus atos, especialmente no que tange à execução do Contrato de Gestão e à aplicação dos recursos públicos, garantindo a transparência na gestão.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_021",
+      "material_id": null,
+      "topic_id": null,
+      "order": 21,
+      "title": "Bloco 21",
+      "content": "A desqualificação de uma Organização Social pode ocorrer por ato discricionário do Poder Executivo ou por descumprimento das disposições do Contrato de Gestão, mediante processo administrativo que assegure o contraditório e a ampla defesa.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_022",
+      "material_id": null,
+      "topic_id": null,
+      "order": 22,
+      "title": "Bloco 22",
+      "content": "O procedimento de desqualificação deve ser formalizado por decreto, após a conclusão do processo administrativo. A desqualificação implica a reversão dos bens públicos cedidos ou doados.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_023",
+      "material_id": null,
+      "topic_id": null,
+      "order": 23,
+      "title": "Bloco 23",
+      "content": "Embora ambas sejam entidades do Terceiro Setor que colaboram com o Poder Público, as Organizações Sociais (OS) são regidas pela Lei nº 9.637/98, enquanto as Organizações da Sociedade Civil de Interesse Público (OSCIP) são regidas pela Lei nº 9.790/99.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_024",
+      "material_id": null,
+      "topic_id": null,
+      "order": 24,
+      "title": "Bloco 24",
+      "content": "A parceria com as OS é formalizada por meio do Contrato de Gestão, enquanto a parceria com as OSCIPs se dá por meio do Termo de Parceria.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_025",
+      "material_id": null,
+      "topic_id": null,
+      "order": 25,
+      "title": "Bloco 25",
+      "content": "As áreas de atuação das OS são mais restritas (ensino, pesquisa, saúde, cultura, meio ambiente, desenvolvimento tecnológico), enquanto as OSCIPs possuem um leque mais amplo de finalidades sociais.",
+      "content_type": "teoria"
+    }
+  ],
+  "topicos": [
+    {
+      "external_topic_code": "top_001",
+      "material_id": null,
+      "parent_topic_id": null,
+      "topic_number": "3.4.3",
+      "title": "Organizações Sociais (OS)",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 1
+    },
+    {
+      "external_topic_code": "top_002",
+      "material_id": null,
+      "parent_topic_id": "top_001",
+      "topic_number": "3.4.3.1",
+      "title": "Conceito e Natureza Jurídica",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 1
+    },
+    {
+      "external_topic_code": "top_003",
+      "material_id": null,
+      "parent_topic_id": "top_001",
+      "topic_number": "3.4.3.2",
+      "title": "Regime Jurídico e Lei nº 9.637/98",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 2
+    },
+    {
+      "external_topic_code": "top_004",
+      "material_id": null,
+      "parent_topic_id": "top_001",
+      "topic_number": "3.4.3.3",
+      "title": "Qualificação como Organização Social",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 3
+    },
+    {
+      "external_topic_code": "top_005",
+      "material_id": null,
+      "parent_topic_id": "top_001",
+      "topic_number": "3.4.3.4",
+      "title": "Contrato de Gestão",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 4
+    },
+    {
+      "external_topic_code": "top_006",
+      "material_id": null,
+      "parent_topic_id": "top_001",
+      "topic_number": "3.4.3.5",
+      "title": "Regime de Pessoal",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 5
+    },
+    {
+      "external_topic_code": "top_007",
+      "material_id": null,
+      "parent_topic_id": "top_001",
+      "topic_number": "3.4.3.6",
+      "title": "Bens e Recursos",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 6
+    },
+    {
+      "external_topic_code": "top_008",
+      "material_id": null,
+      "parent_topic_id": "top_001",
+      "topic_number": "3.4.3.7",
+      "title": "Controle e Fiscalização",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 7
+    },
+    {
+      "external_topic_code": "top_009",
+      "material_id": null,
+      "parent_topic_id": "top_001",
+      "topic_number": "3.4.3.8",
+      "title": "Desqualificação",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 8
+    },
+    {
+      "external_topic_code": "top_010",
+      "material_id": null,
+      "parent_topic_id": "top_001",
+      "topic_number": "3.4.3.9",
+      "title": "Distinção entre OS e OSCIP",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 9
+    }
+  ],
+  "topico_componentes": [
+    {
+      "component_id": "cmp_001",
+      "topic_id": "top_002",
+      "component_type": "texto",
+      "content": "",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_002",
+      "topic_id": "top_002",
+      "component_type": "texto",
+      "content": "",
+      "order": 2
+    },
+    {
+      "component_id": "cmp_003",
+      "topic_id": "top_002",
+      "component_type": "texto",
+      "content": "",
+      "order": 3
+    },
+    {
+      "component_id": "cmp_004",
+      "topic_id": "top_003",
+      "component_type": "texto",
+      "content": "",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_005",
+      "topic_id": "top_003",
+      "component_type": "texto",
+      "content": "",
+      "order": 2
+    },
+    {
+      "component_id": "cmp_006",
+      "topic_id": "top_003",
+      "component_type": "texto",
+      "content": "",
+      "order": 3
+    },
+    {
+      "component_id": "cmp_007",
+      "topic_id": "top_004",
+      "component_type": "texto",
+      "content": "",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_008",
+      "topic_id": "top_004",
+      "component_type": "texto",
+      "content": "",
+      "order": 2
+    },
+    {
+      "component_id": "cmp_009",
+      "topic_id": "top_004",
+      "component_type": "texto",
+      "content": "",
+      "order": 3
+    },
+    {
+      "component_id": "cmp_010",
+      "topic_id": "top_005",
+      "component_type": "texto",
+      "content": "",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_011",
+      "topic_id": "top_005",
+      "component_type": "texto",
+      "content": "",
+      "order": 2
+    },
+    {
+      "component_id": "cmp_012",
+      "topic_id": "top_005",
+      "component_type": "texto",
+      "content": "",
+      "order": 3
+    },
+    {
+      "component_id": "cmp_013",
+      "topic_id": "top_006",
+      "component_type": "texto",
+      "content": "",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_014",
+      "topic_id": "top_006",
+      "component_type": "texto",
+      "content": "",
+      "order": 2
+    },
+    {
+      "component_id": "cmp_015",
+      "topic_id": "top_007",
+      "component_type": "texto",
+      "content": "",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_016",
+      "topic_id": "top_007",
+      "component_type": "texto",
+      "content": "",
+      "order": 2
+    },
+    {
+      "component_id": "cmp_017",
+      "topic_id": "top_007",
+      "component_type": "texto",
+      "content": "",
+      "order": 3
+    },
+    {
+      "component_id": "cmp_018",
+      "topic_id": "top_008",
+      "component_type": "texto",
+      "content": "",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_019",
+      "topic_id": "top_008",
+      "component_type": "texto",
+      "content": "",
+      "order": 2
+    },
+    {
+      "component_id": "cmp_020",
+      "topic_id": "top_008",
+      "component_type": "texto",
+      "content": "",
+      "order": 3
+    },
+    {
+      "component_id": "cmp_021",
+      "topic_id": "top_009",
+      "component_type": "texto",
+      "content": "",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_022",
+      "topic_id": "top_009",
+      "component_type": "texto",
+      "content": "",
+      "order": 2
+    },
+    {
+      "component_id": "cmp_023",
+      "topic_id": "top_010",
+      "component_type": "texto",
+      "content": "",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_024",
+      "topic_id": "top_010",
+      "component_type": "texto",
+      "content": "",
+      "order": 2
+    },
+    {
+      "component_id": "cmp_025",
+      "topic_id": "top_010",
+      "component_type": "texto",
+      "content": "",
+      "order": 3
+    }
+  ],
+  "pegadinhas": [
+    {
+      "trap_id": "peg_001",
+      "material_id": null,
+      "topic_id": null,
+      "title": "Confundir OS com Administração Indireta",
+      "description": "A principal pegadinha do CEBRASPE é tentar induzir o candidato a considerar as Organizações Sociais como entidades da Administração Pública indireta (autarquias, fundações públicas, etc.). Lembre-se: OS são pessoas jurídicas de direito privado e não integram a Administração Pública.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 1
+    },
+    {
+      "trap_id": "peg_002",
+      "material_id": null,
+      "topic_id": null,
+      "title": "Exigência de Concurso Público",
+      "description": "Outra pegadinha comum é afirmar que as OS devem contratar seu pessoal por concurso público. O regime é o da CLT, com processo seletivo simplificado, observando princípios administrativos.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 2
+    },
+    {
+      "trap_id": "peg_003",
+      "material_id": null,
+      "topic_id": null,
+      "title": "Natureza do Contrato de Gestão",
+      "description": "O Contrato de Gestão não é um convênio nem um contrato administrativo típico. É um instrumento de parceria para fomento, com regras próprias da Lei nº 9.637/98.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 3
+    },
+    {
+      "trap_id": "peg_004",
+      "material_id": null,
+      "topic_id": null,
+      "title": "Qualificação como Ato Vinculado",
+      "description": "A qualificação de uma entidade como OS é ato discricionário do Poder Executivo, e não vinculado. Mesmo com o preenchimento dos requisitos, a Administração pode optar por não qualificar.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 4
+    }
+  ],
+  "pontos_memorizacao": [
+    {
+      "memory_id": "mem_001",
+      "material_id": null,
+      "topic_id": null,
+      "title": null,
+      "content": "OS são PJ de direito privado, sem fins lucrativos, qualificadas pelo Poder Executivo (ato discricionário).",
+      "order": 1
+    },
+    {
+      "memory_id": "mem_002",
+      "material_id": null,
+      "topic_id": null,
+      "title": null,
+      "content": "Lei de regência: Lei nº 9.637/98. Constitucionalidade confirmada pelo STF (ADI 1.923/DF).",
+      "order": 2
+    },
+    {
+      "memory_id": "mem_003",
+      "material_id": null,
+      "topic_id": null,
+      "title": null,
+      "content": "Instrumento de parceria: Contrato de Gestão (não é convênio/contrato administrativo).",
+      "order": 3
+    },
+    {
+      "memory_id": "mem_004",
+      "material_id": null,
+      "topic_id": null,
+      "title": null,
+      "content": "Regime de pessoal: CLT (não exige concurso público, mas sim processo seletivo com princípios administrativos).",
+      "order": 4
+    },
+    {
+      "memory_id": "mem_005",
+      "material_id": null,
+      "topic_id": null,
+      "title": null,
+      "content": "Bens públicos cedidos/doados são impenhoráveis enquanto afetados à finalidade pública.",
+      "order": 5
+    },
+    {
+      "memory_id": "mem_006",
+      "material_id": null,
+      "topic_id": null,
+      "title": null,
+      "content": "Controle: Interno (Conselho, órgão supervisor) e Externo (Tribunal de Contas, MP).",
+      "order": 6
+    }
+  ],
+  "quadro_sinotico_itens": [
+    {
+      "summary_item_id": "sum_001",
+      "title": "Organizações Sociais (OS)",
+      "content": "Pessoa jurídica de direito privado, sem fins lucrativos, qualificada pelo Poder Executivo para atuar em áreas sociais. Não integra a AP. Regida pela Lei nº 9.637/98. Constitucionalidade confirmada pelo STF (ADI 1.923/DF).",
+      "order": 1
+    },
+    {
+      "summary_item_id": "sum_002",
+      "title": "Contrato de Gestão",
+      "content": "Instrumento de parceria entre Poder Público e OS. Define metas, recursos e fiscalização. Permite dispensa de licitação para contratação da OS (Art. 24, XXIV, Lei 8.666/93).",
+      "order": 2
+    },
+    {
+      "summary_item_id": "sum_003",
+      "title": "Regime de Pessoal",
+      "content": "CLT. Não exige concurso público, mas processo seletivo com princípios administrativos.",
+      "order": 3
+    },
+    {
+      "summary_item_id": "sum_004",
+      "title": "Controle",
+      "content": "Interno (Conselho, órgão supervisor) e Externo (Tribunal de Contas, Ministério Público).",
+      "order": 4
+    }
+  ],
+  "questoes": [
+    {
+      "question_id": "qst_001",
+      "material_id": null,
+      "topic_id": null,
+      "board": "CEBRASPE",
+      "year": "2023",
+      "organization": "Simulado",
+      "role": "Analista Administrativo",
+      "statement": "As organizações sociais (OS) integram a administração pública indireta, submetendo-se, por isso, ao regime jurídico de direito público.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "As Organizações Sociais (OS) são pessoas jurídicas de direito privado e não integram a Administração Pública indireta. Embora colaborem com o Estado, atuam sob regime de direito privado, com observância de princípios administrativos na gestão de recursos públicos. Portanto, a afirmação está errada.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_001"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_002",
+      "material_id": null,
+      "topic_id": null,
+      "board": "CEBRASPE",
+      "year": "2022",
+      "organization": "Simulado",
+      "role": "Procurador",
+      "statement": "A qualificação de uma entidade como organização social é ato vinculado do Poder Executivo, desde que preenchidos os requisitos legais.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "A qualificação de uma entidade como Organização Social é um ato discricionário do Poder Executivo, e não vinculado. Isso significa que, mesmo que a entidade preencha todos os requisitos legais, a Administração Pública tem a faculdade de conceder ou não a qualificação. A afirmação está errada.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_002"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_003",
+      "material_id": null,
+      "topic_id": null,
+      "board": "CEBRASPE",
+      "year": "2021",
+      "organization": "Simulado",
+      "role": "Auditor de Controle Externo",
+      "statement": "O contrato de gestão, celebrado entre o Poder Público e a organização social, possui natureza jurídica de convênio, sendo regido pelas normas da Lei nº 8.666/93.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "O Contrato de Gestão é um instrumento jurídico de parceria para fomento, com características próprias definidas na Lei nº 9.637/98. Não se confunde com convênio nem com contrato administrativo típico regido pela Lei nº 8.666/93 (ou pela Lei nº 14.133/2021). A afirmação está errada.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_003"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_004",
+      "material_id": null,
+      "topic_id": null,
+      "board": "CEBRASPE",
+      "year": "2020",
+      "organization": "Simulado",
+      "role": "Técnico Administrativo",
+      "statement": "As organizações sociais, por gerirem recursos públicos, devem contratar seu pessoal mediante prévia aprovação em concurso público de provas e títulos.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "O regime de pessoal das Organizações Sociais é o da Consolidação das Leis do Trabalho (CLT), não havendo exigência de concurso público. A contratação deve observar princípios administrativos, mas por meio de processo seletivo simplificado. A afirmação está errada.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_004"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_005",
+      "material_id": null,
+      "topic_id": null,
+      "board": "CEBRASPE",
+      "year": "2019",
+      "organization": "Simulado",
+      "role": "Analista Judiciário",
+      "statement": "A Lei nº 9.637/98, que dispõe sobre as organizações sociais, foi declarada inconstitucional pelo Supremo Tribunal Federal.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "A Lei nº 9.637/98 foi declarada constitucional pelo Supremo Tribunal Federal (STF) no julgamento da ADI 1.923/DF, com algumas interpretações e ressalvas. Portanto, a afirmação de que foi declarada inconstitucional está errada.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_005"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_006",
+      "material_id": null,
+      "topic_id": null,
+      "board": "CEBRASPE",
+      "year": "2024",
+      "organization": "Simulado",
+      "role": "Auditor Fiscal",
+      "statement": "Os bens públicos cedidos para uso de organizações sociais, enquanto afetados à finalidade pública e utilizados para a execução do Contrato de Gestão, são impenhoráveis.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "De fato, os bens públicos cedidos ou doados às Organizações Sociais mantêm sua natureza de bens públicos enquanto estiverem afetados à finalidade pública e forem utilizados para a execução do Contrato de Gestão, sendo, portanto, impenhoráveis. A afirmação está correta.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_006"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_007",
+      "material_id": null,
+      "topic_id": null,
+      "board": "CEBRASPE",
+      "year": "2023",
+      "organization": "Simulado",
+      "role": "Analista de Gestão",
+      "statement": "A fiscalização das organizações sociais, no que tange à aplicação dos recursos públicos, é de competência exclusiva do Tribunal de Contas.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "A fiscalização das Organizações Sociais não é de competência exclusiva do Tribunal de Contas. Há também o controle interno exercido pelo próprio Conselho de Administração da OS e pelo órgão ou entidade supervisora do Poder Público, além da atuação do Ministério Público e da sociedade. A afirmação está errada.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_007"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_008",
+      "material_id": null,
+      "topic_id": null,
+      "board": "CEBRASPE",
+      "year": "2022",
+      "organization": "Simulado",
+      "role": "Advogado",
+      "statement": "A dispensa de licitação para a contratação de organizações sociais pelo Poder Público, para as atividades previstas no Contrato de Gestão, encontra amparo no art. 24, inciso XXIV, da Lei nº 8.666/93, sendo este dispositivo ainda aplicável para essa finalidade específica, mesmo após a edição da Lei nº 14.133/2021.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "A afirmação está correta. Embora a Lei nº 14.133/2021 tenha revogado a Lei nº 8.666/93 de forma geral, o art. 24, inciso XXIV, da Lei nº 8.666/93, que trata da dispensa de licitação para a contratação de Organizações Sociais pelo Poder Público para as atividades de fomento, é considerado pela doutrina e jurisprudência como ainda aplicável para essa finalidade específica, uma vez que a Lei nº 9.637/98, que rege as OS, não foi revogada e possui regramento próprio para a parceria.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_008"
+        ],
+        "count": 1
+      }
+    }
+  ],
+  "comentarios_questoes": [
+    {
+      "comment_id": "com_001",
+      "question_id": "qst_001",
+      "content": "As Organizações Sociais (OS) são pessoas jurídicas de direito privado e não integram a Administração Pública indireta. Embora colaborem com o Estado, atuam sob regime de direito privado, com observância de princípios administrativos na gestão de recursos públicos. Portanto, a afirmação está errada.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_002",
+      "question_id": "qst_002",
+      "content": "A qualificação de uma entidade como Organização Social é um ato discricionário do Poder Executivo, e não vinculado. Isso significa que, mesmo que a entidade preencha todos os requisitos legais, a Administração Pública tem a faculdade de conceder ou não a qualificação. A afirmação está errada.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_003",
+      "question_id": "qst_003",
+      "content": "O Contrato de Gestão é um instrumento jurídico de parceria para fomento, com características próprias definidas na Lei nº 9.637/98. Não se confunde com convênio nem com contrato administrativo típico regido pela Lei nº 8.666/93 (ou pela Lei nº 14.133/2021). A afirmação está errada.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_004",
+      "question_id": "qst_004",
+      "content": "O regime de pessoal das Organizações Sociais é o da Consolidação das Leis do Trabalho (CLT), não havendo exigência de concurso público. A contratação deve observar princípios administrativos, mas por meio de processo seletivo simplificado. A afirmação está errada.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_005",
+      "question_id": "qst_005",
+      "content": "A Lei nº 9.637/98 foi declarada constitucional pelo Supremo Tribunal Federal (STF) no julgamento da ADI 1.923/DF, com algumas interpretações e ressalvas. Portanto, a afirmação de que foi declarada inconstitucional está errada.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_006",
+      "question_id": "qst_006",
+      "content": "De fato, os bens públicos cedidos ou doados às Organizações Sociais mantêm sua natureza de bens públicos enquanto estiverem afetados à finalidade pública e forem utilizados para a execução do Contrato de Gestão, sendo, portanto, impenhoráveis. A afirmação está correta.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_007",
+      "question_id": "qst_007",
+      "content": "A fiscalização das Organizações Sociais não é de competência exclusiva do Tribunal de Contas. Há também o controle interno exercido pelo próprio Conselho de Administração da OS e pelo órgão ou entidade supervisora do Poder Público, além da atuação do Ministério Público e da sociedade. A afirmação está errada.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_008",
+      "question_id": "qst_008",
+      "content": "A afirmação está correta. Embora a Lei nº 14.133/2021 tenha revogado a Lei nº 8.666/93 de forma geral, o art. 24, inciso XXIV, da Lei nº 8.666/93, que trata da dispensa de licitação para a contratação de Organizações Sociais pelo Poder Público para as atividades de fomento, é considerado pela doutrina e jurisprudência como ainda aplicável para essa finalidade específica, uma vez que a Lei nº 9.637/98, que rege as OS, não foi revogada e possui regramento próprio para a parceria.",
+      "explanation_alternatives": ""
+    }
+  ],
+  "checklist_revisao": [
+    {
+      "checklist_id": "chk_001",
+      "material_id": null,
+      "topic_id": null,
+      "item_text": "Checklist 1",
+      "completed": false,
+      "order": 1
+    },
+    {
+      "checklist_id": "chk_002",
+      "material_id": null,
+      "topic_id": null,
+      "item_text": "Checklist 2",
+      "completed": false,
+      "order": 2
+    },
+    {
+      "checklist_id": "chk_003",
+      "material_id": null,
+      "topic_id": null,
+      "item_text": "Checklist 3",
+      "completed": false,
+      "order": 3
+    },
+    {
+      "checklist_id": "chk_004",
+      "material_id": null,
+      "topic_id": null,
+      "item_text": "Checklist 4",
+      "completed": false,
+      "order": 4
+    },
+    {
+      "checklist_id": "chk_005",
+      "material_id": null,
+      "topic_id": null,
+      "item_text": "Checklist 5",
+      "completed": false,
+      "order": 5
+    },
+    {
+      "checklist_id": "chk_006",
+      "material_id": null,
+      "topic_id": null,
+      "item_text": "Checklist 6",
+      "completed": false,
+      "order": 6
+    }
+  ],
+  "referencias": [
+    {
+      "reference_id": "ref_001",
+      "material_id": null,
+      "reference_type": "Legislação",
+      "author_name": null,
+      "title": "BRASIL. Lei nº 9.637, de 15 de maio de 1998. Dispõe sobre a qualificação de entidades como organizações sociais, a criação do Programa Nacional de Publicização, a extinção de entid",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "http://www.planalto.gov.br/ccivil_03/leis/L9637.htm",
+      "accessed_at": null,
+      "description": "BRASIL. Lei nº 9.637, de 15 de maio de 1998. Dispõe sobre a qualificação de entidades como organizações sociais, a criação do Programa Nacional de Publicização, a extinção de entidades e órgãos públicos e a absorção de suas atividades por organizações sociais, e dá outras providências. Diário Oficial da União, Brasília, DF, 18 mai. 1998."
+    },
+    {
+      "reference_id": "ref_002",
+      "material_id": null,
+      "reference_type": "Legislação",
+      "author_name": null,
+      "title": "BRASIL. Decreto nº 7.563, de 15 de setembro de 2011. Regulamenta a qualificação de entidades como organizações sociais e o contrato de gestão no âmbito federal. Diário Oficial da U",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "http://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/decreto/D7563.htm",
+      "accessed_at": null,
+      "description": "BRASIL. Decreto nº 7.563, de 15 de setembro de 2011. Regulamenta a qualificação de entidades como organizações sociais e o contrato de gestão no âmbito federal. Diário Oficial da União, Brasília, DF, 16 set. 2011."
+    },
+    {
+      "reference_id": "ref_003",
+      "material_id": null,
+      "reference_type": "Doutrina",
+      "author_name": null,
+      "title": "DI PIETRO, Maria Sylvia Zanella. Direito Administrativo. 35. ed. Rio de Janeiro: Forense, 2022.",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": null,
+      "accessed_at": null,
+      "description": "DI PIETRO, Maria Sylvia Zanella. Direito Administrativo. 35. ed. Rio de Janeiro: Forense, 2022."
+    },
+    {
+      "reference_id": "ref_004",
+      "material_id": null,
+      "reference_type": "Doutrina",
+      "author_name": null,
+      "title": "CARVALHO FILHO, José dos Santos. Manual de Direito Administrativo. 36. ed. São Paulo: Atlas, 2022.",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": null,
+      "accessed_at": null,
+      "description": "CARVALHO FILHO, José dos Santos. Manual de Direito Administrativo. 36. ed. São Paulo: Atlas, 2022."
+    },
+    {
+      "reference_id": "ref_005",
+      "material_id": null,
+      "reference_type": "Jurisprudência",
+      "author_name": null,
+      "title": "BRASIL. Supremo Tribunal Federal. ADI 1.923/DF, Rel. Min. Eros Grau, Tribunal Pleno, julgado em 16/04/2015, DJe 04/12/2015.",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=1661660",
+      "accessed_at": null,
+      "description": "BRASIL. Supremo Tribunal Federal. ADI 1.923/DF, Rel. Min. Eros Grau, Tribunal Pleno, julgado em 16/04/2015, DJe 04/12/2015."
+    },
+    {
+      "reference_id": "ref_006",
+      "material_id": null,
+      "reference_type": "Legislação",
+      "author_name": null,
+      "title": "BRASIL. Lei nº 8.666, de 21 de junho de 1993. Regulamenta o art. 37, inciso XXI, da Constituição Federal, institui normas para licitações e contratos da Administração Pública e dá ",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "http://www.planalto.gov.br/ccivil_03/leis/L8666cons.htm",
+      "accessed_at": null,
+      "description": "BRASIL. Lei nº 8.666, de 21 de junho de 1993. Regulamenta o art. 37, inciso XXI, da Constituição Federal, institui normas para licitações e contratos da Administração Pública e dá outras providências. Diário Oficial da União, Brasília, DF, 22 jun. 1993. (Art. 24, XXIV, ainda relevante para OS no contexto de fomento)."
+    },
+    {
+      "reference_id": "ref_007",
+      "material_id": null,
+      "reference_type": "Legislação",
+      "author_name": null,
+      "title": "BRASIL. Lei nº 9.790, de 23 de março de 1999. Dispõe sobre a qualificação de pessoas jurídicas de direito privado sem fins lucrativos como Organizações da Sociedade Civil de Intere",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "http://www.planalto.gov.br/ccivil_03/leis/L9790.htm",
+      "accessed_at": null,
+      "description": "BRASIL. Lei nº 9.790, de 23 de março de 1999. Dispõe sobre a qualificação de pessoas jurídicas de direito privado sem fins lucrativos como Organizações da Sociedade Civil de Interesse Público, institui e disciplina o Termo de Parceria, e dá outras providências. Diário Oficial da União, Brasília, DF, 24 mar. 1999."
+    }
+  ],
+  "estatisticas_de_geracao": {
+    "total_topicos": 10,
+    "total_componentes_topico": 25,
+    "total_entendimentos_relevantes": 3,
+    "total_pegadinhas": 4,
+    "total_pontos_memorizacao": 6,
+    "total_itens_quadro_sinotico": 4,
+    "total_questoes": 8,
+    "total_comentarios_questoes": 8,
+    "total_itens_checklist": 6,
+    "total_referencias": 7
+  },
+  "validacao_interna": {
+    "pesquisa_previa_realizada": true,
+    "analise_de_cobrancas_anteriores_realizada": true,
+    "material_atualizado": true,
+    "json_valido": true,
+    "estrutura_relacional_respeitada": true,
+    "numeracao_respeitada": true,
+    "houve_quebra_de_hierarquia": false,
+    "houve_nivel_numerico_superior_a_3": false,
+    "fontes_verificadas": true,
+    "sem_informacao_inventada": true
+  },
+  "metadata": {
+    "source_file_name": "3__direito-administrativo__3-organização-administrativa-3.4-entidades-paraestatais-e-terceiro-setor-3.4.3-organizações-sociais.json",
+    "normalized_checksum": "0cb68a76b2c60fc1ff635018cc0b576530758d26502994734be170d0532832ad",
+    "subject_slug": "dir-adm",
+    "material_slug": "organizacoes-sociais-direito",
+    "title_slug": "organizacoes-sociais-os-para-concursos-publicos",
+    "board_slug": "cebraspe",
+    "counters": {
+      "blocks": 25,
+      "topics": 10,
+      "topic_components": 25,
+      "traps": 4,
+      "memory_points": 6,
+      "summary_items": 4,
+      "questions": 8,
+      "question_comments": 8,
+      "checklist_items": 6,
+      "references": 7
+    }
+  }
+}

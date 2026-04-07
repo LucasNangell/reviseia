@@ -1,0 +1,921 @@
+{
+  "schema_version": "1.0",
+  "normalized_at": "2026-04-07T15:39:15.112130-03:00",
+  "normalizer_version": "2.0.0",
+  "exported_at": "2026-04-06T20:10:00Z",
+  "source_request": {
+    "purpose": "Concurso público",
+    "general_area": "Linguagens",
+    "subject_name": "Língua Portuguesa",
+    "subarea_name": "Gramática, interpretação e reescrita",
+    "main_theme": "5 Domínio da estrutura morfossintática do período: 5.7 Emprego do sinal indicativo de crase",
+    "theme_scope": "Teoria completa, incidência em prova, padrão de cobrança da banca, pegadinhas e questões comentadas",
+    "board_style": "CEBRASPE",
+    "depth_level": "Exaustivo",
+    "goal": "Teoria completa, revisão estratégica, pegadinhas e questões comentadas",
+    "base_topic_number": "5",
+    "topic_title": "5 Domínio da estrutura morfossintática do período: 5.7 Emprego do sinal indicativo de crase",
+    "syllabus_reference": "Conteúdo programático da disciplina Língua Portuguesa",
+    "priority_sources": [
+      "Gramáticas e manuais reconhecidos",
+      "Bibliografia técnica consolidada",
+      "Questões anteriores da banca"
+    ],
+    "minimum_questions": 8,
+    "question_format": "Certo/Errado",
+    "prioritize_real_questions": true,
+    "response_language": "português",
+    "target_audience": "Candidato de concurso público",
+    "additional_notes": "Executar exatamente para esta linha individual do topicos.txt. Não juntar com outros tópicos. Não pular este tópico. Dar destaque ao padrão de cobrança da banca, aos pontos mais cobrados e às pegadinhas recorrentes.",
+    "input_hash": "2f55110aa861",
+    "extras": {}
+  },
+  "material": {
+    "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-57-emprego-do-sinal-indicativo-de-crase",
+    "slug": "crase-cebraspe-completo",
+    "title": "Emprego do Sinal Indicativo de Crase para Concursos CEBRASPE",
+    "base_number": "5",
+    "topic_title": "5 Domínio da estrutura morfossintática do período: 5.7 Emprego do sinal indicativo de crase",
+    "purpose": "Concurso público",
+    "area_name": "Linguagens",
+    "subject_name": "Língua Portuguesa",
+    "subarea_name": "Gramática, interpretação e reescrita",
+    "main_theme": "Emprego do sinal indicativo de crase",
+    "theme_scope": "Teoria completa, incidência em prova, padrão de cobrança da banca, pegadinhas e questões comentadas",
+    "board_style": "CEBRASPE",
+    "depth_level": "Exaustivo",
+    "study_goal": "Teoria completa, revisão estratégica, pegadinhas e questões comentadas",
+    "target_audience": "Candidato de concurso público",
+    "language_code": "português",
+    "update_status": "Atualizado",
+    "current_note": "Material atualizado conforme a norma-padrão da Língua Portuguesa e o padrão de cobrança recente da banca CEBRASPE.",
+    "has_case_law": false,
+    "case_law_justification": "A disciplina de Língua Portuguesa, especificamente o tema de crase, não exige a inclusão de jurisprudência.",
+    "has_information_limitation": false,
+    "information_limitation_desc": null,
+    "content_checksum": "placeholder_checksum_crase_cebraspe",
+    "extras": {}
+  },
+  "blocos_textuais": [
+    {
+      "external_block_code": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-57-emprego-do-sinal-indicativo-de-crase_blc_001",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-57-emprego-do-sinal-indicativo-de-crase",
+      "topic_id": null,
+      "order": 1,
+      "title": "Bloco 1",
+      "content": "A crase é a fusão de duas vogais idênticas, especificamente a preposição 'a' com o artigo definido feminino 'a(s)' ou com o 'a' inicial dos pronomes demonstrativos 'aquele(s)', 'aquela(s)' e 'aquilo'.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-57-emprego-do-sinal-indicativo-de-crase_blc_002",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-57-emprego-do-sinal-indicativo-de-crase",
+      "topic_id": null,
+      "order": 2,
+      "title": "Bloco 2",
+      "content": "O sinal indicativo de crase é o acento grave (`), que marca essa fusão.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-57-emprego-do-sinal-indicativo-de-crase_blc_003",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-57-emprego-do-sinal-indicativo-de-crase",
+      "topic_id": null,
+      "order": 3,
+      "title": "Bloco 3",
+      "content": "Para que a crase ocorra, dois requisitos são fundamentais: um termo regente (verbo ou nome) que exija a preposição 'a' e um termo regido (substantivo feminino ou pronome demonstrativo iniciado por 'a') que admita o artigo feminino 'a(s)' ou o 'a' inicial do pronome demonstrativo.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-57-emprego-do-sinal-indicativo-de-crase_blc_004",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-57-emprego-do-sinal-indicativo-de-crase",
+      "topic_id": null,
+      "order": 1,
+      "title": "Bloco 4",
+      "content": "A crase é obrigatória antes de palavras femininas quando o termo anterior exigir a preposição 'a' e a palavra feminina admitir o artigo 'a(s)'. Exemplo: 'Ele se referia à fuga da irmã.'",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-57-emprego-do-sinal-indicativo-de-crase_blc_005",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-57-emprego-do-sinal-indicativo-de-crase",
+      "topic_id": null,
+      "order": 2,
+      "title": "Bloco 5",
+      "content": "Em locuções adverbiais, prepositivas e conjuntivas de natureza feminina, a crase é sempre obrigatória. Exemplos: 'à noite', 'às vezes', 'à medida que', 'em frente à'.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-57-emprego-do-sinal-indicativo-de-crase_blc_006",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-57-emprego-do-sinal-indicativo-de-crase",
+      "topic_id": null,
+      "order": 3,
+      "title": "Bloco 6",
+      "content": "Antes das expressões 'à moda de' e 'à maneira de', mesmo que implícitas. Exemplo: 'Bife à milanesa' (à moda milanesa).",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-57-emprego-do-sinal-indicativo-de-crase_blc_007",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-57-emprego-do-sinal-indicativo-de-crase",
+      "topic_id": null,
+      "order": 4,
+      "title": "Bloco 7",
+      "content": "Antes dos pronomes demonstrativos 'aquele(s)', 'aquela(s)' e 'aquilo', quando o termo anterior exigir a preposição 'a'. Exemplo: 'Refiro-me àquele aluno.'",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-57-emprego-do-sinal-indicativo-de-crase_blc_008",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-57-emprego-do-sinal-indicativo-de-crase",
+      "topic_id": null,
+      "order": 5,
+      "title": "Bloco 8",
+      "content": "Antes dos pronomes relativos 'a qual' e 'as quais', se o termo regente exigir a preposição 'a'. Exemplo: 'A casa à qual me referi.'",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-57-emprego-do-sinal-indicativo-de-crase_blc_009",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-57-emprego-do-sinal-indicativo-de-crase",
+      "topic_id": null,
+      "order": 6,
+      "title": "Bloco 9",
+      "content": "Na indicação de horas exatas. Exemplo: 'A reunião ocorrerá às duas horas.'",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-57-emprego-do-sinal-indicativo-de-crase_blc_010",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-57-emprego-do-sinal-indicativo-de-crase",
+      "topic_id": null,
+      "order": 1,
+      "title": "Bloco 10",
+      "content": "A crase é proibida antes de substantivos masculinos. Exemplo: 'Andar a cavalo.'",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-57-emprego-do-sinal-indicativo-de-crase_blc_011",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-57-emprego-do-sinal-indicativo-de-crase",
+      "topic_id": null,
+      "order": 2,
+      "title": "Bloco 11",
+      "content": "Antes de verbos. Exemplo: 'Começou a chover.'",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-57-emprego-do-sinal-indicativo-de-crase_blc_012",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-57-emprego-do-sinal-indicativo-de-crase",
+      "topic_id": null,
+      "order": 3,
+      "title": "Bloco 12",
+      "content": "Antes da maioria dos pronomes (pessoais, indefinidos, demonstrativos 'este', 'esse', 'isso', interrogativos). Exemplo: 'Entreguei a ela.'",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-57-emprego-do-sinal-indicativo-de-crase_blc_013",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-57-emprego-do-sinal-indicativo-de-crase",
+      "topic_id": null,
+      "order": 4,
+      "title": "Bloco 13",
+      "content": "Antes de artigo indefinido ('uma'). Exemplo: 'Refiro-me a uma pessoa.'",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-57-emprego-do-sinal-indicativo-de-crase_blc_014",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-57-emprego-do-sinal-indicativo-de-crase",
+      "topic_id": null,
+      "order": 5,
+      "title": "Bloco 14",
+      "content": "Quando a preposição 'a' estiver no singular e o substantivo feminino seguinte estiver no plural. Exemplo: 'Refiro-me a pessoas.'",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-57-emprego-do-sinal-indicativo-de-crase_blc_015",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-57-emprego-do-sinal-indicativo-de-crase",
+      "topic_id": null,
+      "order": 6,
+      "title": "Bloco 15",
+      "content": "Depois de outras preposições (com, contra, desde, entre, para, sem, sob, sobre). Exemplo: 'Após a aula.'",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-57-emprego-do-sinal-indicativo-de-crase_blc_016",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-57-emprego-do-sinal-indicativo-de-crase",
+      "topic_id": null,
+      "order": 7,
+      "title": "Bloco 16",
+      "content": "Antes de 'casa' (sentido de lar, sem especificador). Exemplo: 'Voltei a casa.' (Mas: 'Voltei à casa dos meus pais.').",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-57-emprego-do-sinal-indicativo-de-crase_blc_017",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-57-emprego-do-sinal-indicativo-de-crase",
+      "topic_id": null,
+      "order": 8,
+      "title": "Bloco 17",
+      "content": "Antes de 'terra' (sentido de terra firme, sem especificador). Exemplo: 'Os marinheiros voltaram a terra.' (Mas: 'Fui à Terra do Fogo.').",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-57-emprego-do-sinal-indicativo-de-crase_blc_018",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-57-emprego-do-sinal-indicativo-de-crase",
+      "topic_id": null,
+      "order": 9,
+      "title": "Bloco 18",
+      "content": "Antes de 'distância' (sentido genérico, sem especificador). Exemplo: 'Manter a distância.' (Mas: 'Manter-se à distância de dez metros.').",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-57-emprego-do-sinal-indicativo-de-crase_blc_019",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-57-emprego-do-sinal-indicativo-de-crase",
+      "topic_id": null,
+      "order": 1,
+      "title": "Bloco 19",
+      "content": "A crase é facultativa antes de nomes próprios femininos. Exemplo: 'Entreguei a/à Maria.'",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-57-emprego-do-sinal-indicativo-de-crase_blc_020",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-57-emprego-do-sinal-indicativo-de-crase",
+      "topic_id": null,
+      "order": 2,
+      "title": "Bloco 20",
+      "content": "Antes de pronomes possessivos femininos no singular. Exemplo: 'Refiro-me a/à minha irmã.' (Se o pronome possessivo for plural, a crase é obrigatória se houver preposição 'a' e artigo 'as': 'Refiro-me às minhas irmãs.').",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-57-emprego-do-sinal-indicativo-de-crase_blc_021",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-57-emprego-do-sinal-indicativo-de-crase",
+      "topic_id": null,
+      "order": 3,
+      "title": "Bloco 21",
+      "content": "Após a preposição 'até a'. Exemplo: 'Fui até a/à praia.'",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-57-emprego-do-sinal-indicativo-de-crase_blc_022",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-57-emprego-do-sinal-indicativo-de-crase",
+      "topic_id": null,
+      "order": 1,
+      "title": "Bloco 22",
+      "content": "A regência verbal e nominal é crucial para o emprego correto da crase, pois determina se o termo anterior exige a preposição 'a'.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-57-emprego-do-sinal-indicativo-de-crase_blc_023",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-57-emprego-do-sinal-indicativo-de-crase",
+      "topic_id": null,
+      "order": 2,
+      "title": "Bloco 23",
+      "content": "Verbos transitivos indiretos que exigem a preposição 'a' frequentemente levam à crase quando seu complemento é um substantivo feminino determinado. Exemplo: 'Obedecer à lei' (Obedecer a + a lei).",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-57-emprego-do-sinal-indicativo-de-crase_blc_024",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-57-emprego-do-sinal-indicativo-de-crase",
+      "topic_id": null,
+      "order": 3,
+      "title": "Bloco 24",
+      "content": "Nomes (substantivos ou adjetivos) que exigem a preposição 'a' também podem resultar em crase. Exemplo: 'Acesso à informação' (Acesso a + a informação).",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-57-emprego-do-sinal-indicativo-de-crase_blc_025",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-57-emprego-do-sinal-indicativo-de-crase",
+      "topic_id": null,
+      "order": 1,
+      "title": "Bloco 25",
+      "content": "O CEBRASPE cobra o tema da crase de forma contextualizada, exigindo do candidato a compreensão da regência e da presença do artigo.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-57-emprego-do-sinal-indicativo-de-crase_blc_026",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-57-emprego-do-sinal-indicativo-de-crase",
+      "topic_id": null,
+      "order": 2,
+      "title": "Bloco 26",
+      "content": "As questões são predominantemente no formato 'Certo/Errado', onde se avalia a correção gramatical de uma frase com ou sem crase, ou a possibilidade de sua inserção/supressão sem prejuízo.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-57-emprego-do-sinal-indicativo-de-crase_blc_027",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-57-emprego-do-sinal-indicativo-de-crase",
+      "topic_id": null,
+      "order": 3,
+      "title": "Bloco 27",
+      "content": "A banca frequentemente explora os casos de crase obrigatória e proibida, com menor incidência nos casos facultativos, mas estes também podem aparecer.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-57-emprego-do-sinal-indicativo-de-crase_blc_028",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-57-emprego-do-sinal-indicativo-de-crase",
+      "topic_id": null,
+      "order": 4,
+      "title": "Bloco 28",
+      "content": "É comum a cobrança de paralelismo sintático, onde a crase deve ser usada de forma consistente em elementos que desempenham a mesma função na frase.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-57-emprego-do-sinal-indicativo-de-crase_blc_029",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-57-emprego-do-sinal-indicativo-de-crase",
+      "topic_id": null,
+      "order": 1,
+      "title": "Bloco 29",
+      "content": "Confusão entre a preposição 'a' e o verbo 'haver' (indicando tempo passado). Exemplo: 'Daqui a pouco' (futuro, sem crase) vs. 'Há muito tempo' (passado, verbo haver).",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-57-emprego-do-sinal-indicativo-de-crase_blc_030",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-57-emprego-do-sinal-indicativo-de-crase",
+      "topic_id": null,
+      "order": 2,
+      "title": "Bloco 30",
+      "content": "Crase antes de substantivos masculinos ou verbos, que são casos de proibição absoluta.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-57-emprego-do-sinal-indicativo-de-crase_blc_031",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-57-emprego-do-sinal-indicativo-de-crase",
+      "topic_id": null,
+      "order": 3,
+      "title": "Bloco 31",
+      "content": "Crase antes de pronomes que não admitem artigo, como 'essa', 'este', 'ela'.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-57-emprego-do-sinal-indicativo-de-crase_blc_032",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-57-emprego-do-sinal-indicativo-de-crase",
+      "topic_id": null,
+      "order": 4,
+      "title": "Bloco 32",
+      "content": "O uso de 'a' no singular seguido de palavra feminina no plural, onde a crase é proibida. Exemplo: 'Refiro-me a pessoas.'",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-57-emprego-do-sinal-indicativo-de-crase_blc_033",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-57-emprego-do-sinal-indicativo-de-crase",
+      "topic_id": null,
+      "order": 5,
+      "title": "Bloco 33",
+      "content": "Casos de 'casa', 'terra' e 'distância' sem especificador, onde a crase é proibida.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-57-emprego-do-sinal-indicativo-de-crase_blc_034",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-57-emprego-do-sinal-indicativo-de-crase",
+      "topic_id": null,
+      "order": 6,
+      "title": "Bloco 34",
+      "content": "Atenção à regência de verbos como 'assistir' (no sentido de ver, exige 'a') e 'visar' (no sentido de almejar, exige 'a').",
+      "content_type": "teoria"
+    }
+  ],
+  "topicos": [
+    {
+      "external_topic_code": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-57-emprego-do-sinal-indicativo-de-crase_top_001",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-57-emprego-do-sinal-indicativo-de-crase",
+      "parent_topic_id": null,
+      "topic_number": "5.7",
+      "title": "Emprego do Sinal Indicativo de Crase",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 1
+    }
+  ],
+  "topico_componentes": [
+    {
+      "component_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-57-emprego-do-sinal-indicativo-de-crase_cmp_id_001",
+      "topic_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-57-emprego-do-sinal-indicativo-de-crase_top_001",
+      "component_type": "Componente",
+      "content": "",
+      "order": 1
+    },
+    {
+      "component_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-57-emprego-do-sinal-indicativo-de-crase_cmp_id_002",
+      "topic_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-57-emprego-do-sinal-indicativo-de-crase_top_001",
+      "component_type": "Componente",
+      "content": "",
+      "order": 2
+    },
+    {
+      "component_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-57-emprego-do-sinal-indicativo-de-crase_cmp_id_003",
+      "topic_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-57-emprego-do-sinal-indicativo-de-crase_top_001",
+      "component_type": "Componente",
+      "content": "",
+      "order": 3
+    },
+    {
+      "component_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-57-emprego-do-sinal-indicativo-de-crase_cmp_id_004",
+      "topic_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-57-emprego-do-sinal-indicativo-de-crase_top_001",
+      "component_type": "Componente",
+      "content": "",
+      "order": 4
+    },
+    {
+      "component_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-57-emprego-do-sinal-indicativo-de-crase_cmp_id_005",
+      "topic_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-57-emprego-do-sinal-indicativo-de-crase_top_001",
+      "component_type": "Componente",
+      "content": "",
+      "order": 5
+    },
+    {
+      "component_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-57-emprego-do-sinal-indicativo-de-crase_cmp_id_006",
+      "topic_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-57-emprego-do-sinal-indicativo-de-crase_top_001",
+      "component_type": "Componente",
+      "content": "",
+      "order": 6
+    },
+    {
+      "component_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-57-emprego-do-sinal-indicativo-de-crase_cmp_id_007",
+      "topic_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-57-emprego-do-sinal-indicativo-de-crase_top_001",
+      "component_type": "Componente",
+      "content": "",
+      "order": 7
+    }
+  ],
+  "pegadinhas": [
+    {
+      "trap_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-57-emprego-do-sinal-indicativo-de-crase_peg_id_001",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-57-emprego-do-sinal-indicativo-de-crase",
+      "topic_id": null,
+      "title": "'A' singular + substantivo plural",
+      "description": "O CEBRASPE frequentemente apresenta 'a' no singular seguido de substantivo feminino no plural, onde a crase é proibida. Exemplo: 'Refiro-me a pessoas.' (Correto: 'Refiro-me às pessoas.' ou 'Refiro-me a algumas pessoas.').",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 1
+    },
+    {
+      "trap_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-57-emprego-do-sinal-indicativo-de-crase_peg_id_002",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-57-emprego-do-sinal-indicativo-de-crase",
+      "topic_id": null,
+      "title": "'A' vs. 'Há'",
+      "description": "Confundir a preposição 'a' (indicando tempo futuro ou distância) com o verbo 'haver' (indicando tempo passado ou existência). Exemplo: 'Daqui a duas horas' (sem crase) vs. 'Há duas horas' (com 'h').",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 2
+    },
+    {
+      "trap_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-57-emprego-do-sinal-indicativo-de-crase_peg_id_003",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-57-emprego-do-sinal-indicativo-de-crase",
+      "topic_id": null,
+      "title": "Crase antes de 'casa', 'terra', 'distância'",
+      "description": "Omissão do especificador para 'casa' (lar), 'terra' (terra firme) e 'distância' (genérica), tornando a crase proibida. Exemplo: 'Voltei a casa.' (Correto). 'Voltei à casa de meus pais.' (Correto).",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 3
+    },
+    {
+      "trap_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-57-emprego-do-sinal-indicativo-de-crase_peg_id_004",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-57-emprego-do-sinal-indicativo-de-crase",
+      "topic_id": null,
+      "title": "Regência de verbos e nomes",
+      "description": "Verbos e nomes com regência que não exige a preposição 'a' ou que exigem outra preposição. Exemplo: 'Assistir ao filme' (verbo 'assistir' no sentido de ver exige 'a'). 'Assistir a aula' (incorreto, deveria ser 'assistir à aula').",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 4
+    },
+    {
+      "trap_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-57-emprego-do-sinal-indicativo-de-crase_peg_id_005",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-57-emprego-do-sinal-indicativo-de-crase",
+      "topic_id": null,
+      "title": "Expressões 'à moda de' implícitas",
+      "description": "Crase em expressões como 'bife à milanesa', onde 'à moda de' está implícito, mas a ausência de crase em 'frango a passarinho' (pois 'passarinho' é masculino).",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 5
+    }
+  ],
+  "pontos_memorizacao": [
+    {
+      "memory_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-57-emprego-do-sinal-indicativo-de-crase_mem_id_001",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-57-emprego-do-sinal-indicativo-de-crase",
+      "topic_id": null,
+      "title": null,
+      "content": "Crase = Preposição 'a' + Artigo 'a' (ou 'a' de demonstrativos).",
+      "order": 1
+    },
+    {
+      "memory_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-57-emprego-do-sinal-indicativo-de-crase_mem_id_002",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-57-emprego-do-sinal-indicativo-de-crase",
+      "topic_id": null,
+      "title": null,
+      "content": "Obrigatória em locuções femininas e antes de 'aquele(s)', 'aquela(s)', 'aquilo' (se houver regência).",
+      "order": 2
+    },
+    {
+      "memory_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-57-emprego-do-sinal-indicativo-de-crase_mem_id_003",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-57-emprego-do-sinal-indicativo-de-crase",
+      "topic_id": null,
+      "title": null,
+      "content": "Proibida antes de masculinos, verbos, pronomes (exceto 'aquele(s)', 'aquela(s)', 'aquilo'), 'a' singular + plural.",
+      "order": 3
+    },
+    {
+      "memory_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-57-emprego-do-sinal-indicativo-de-crase_mem_id_004",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-57-emprego-do-sinal-indicativo-de-crase",
+      "topic_id": null,
+      "title": null,
+      "content": "Facultativa antes de nomes próprios femininos, possessivos femininos singulares e após 'até a'.",
+      "order": 4
+    },
+    {
+      "memory_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-57-emprego-do-sinal-indicativo-de-crase_mem_id_005",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-57-emprego-do-sinal-indicativo-de-crase",
+      "topic_id": null,
+      "title": null,
+      "content": "Teste da substituição: Se puder substituir a palavra feminina por uma masculina e usar 'ao', há crase. Exemplo: 'Vou à feira' -> 'Vou ao mercado'.",
+      "order": 5
+    }
+  ],
+  "quadro_sinotico_itens": [],
+  "questoes": [
+    {
+      "question_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-57-emprego-do-sinal-indicativo-de-crase_qst_id_001",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-57-emprego-do-sinal-indicativo-de-crase",
+      "topic_id": null,
+      "board": "CEBRASPE",
+      "year": "2023",
+      "organization": null,
+      "role": null,
+      "statement": "No trecho 'A dedicação à pesquisa é fundamental', o emprego do sinal indicativo de crase em 'à pesquisa' é obrigatório, pois o substantivo 'dedicação' exige a preposição 'a' e 'pesquisa' é um substantivo feminino que admite o artigo 'a'.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": null,
+      "external_reference": "Questão adaptada de CEBRASPE",
+      "commentary": null,
+      "commentary_meta": {}
+    },
+    {
+      "question_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-57-emprego-do-sinal-indicativo-de-crase_qst_id_002",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-57-emprego-do-sinal-indicativo-de-crase",
+      "topic_id": null,
+      "board": "CEBRASPE",
+      "year": "2022",
+      "organization": null,
+      "role": null,
+      "statement": "A correção gramatical do texto seria mantida caso se suprimisse o sinal indicativo de crase em 'às vezes', no trecho 'Às vezes, é preciso rever os conceitos'.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": null,
+      "external_reference": "Questão adaptada de CEBRASPE",
+      "commentary": null,
+      "commentary_meta": {}
+    },
+    {
+      "question_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-57-emprego-do-sinal-indicativo-de-crase_qst_id_003",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-57-emprego-do-sinal-indicativo-de-crase",
+      "topic_id": null,
+      "board": "CEBRASPE",
+      "year": "2021",
+      "organization": null,
+      "role": null,
+      "statement": "Em 'Ele se dirigiu a todos os presentes', a inserção do sinal indicativo de crase no 'a' prejudicaria a correção gramatical do período.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": null,
+      "external_reference": "Questão adaptada de CEBRASPE",
+      "commentary": null,
+      "commentary_meta": {}
+    },
+    {
+      "question_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-57-emprego-do-sinal-indicativo-de-crase_qst_id_004",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-57-emprego-do-sinal-indicativo-de-crase",
+      "topic_id": null,
+      "board": "CEBRASPE",
+      "year": "2020",
+      "organization": null,
+      "role": null,
+      "statement": "O emprego do sinal indicativo de crase em 'àquele momento' está correto, considerando-se que o verbo 'remeter' exige a preposição 'a' e 'aquele' é um pronome demonstrativo que inicia com 'a'.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": null,
+      "external_reference": "Questão adaptada de CEBRASPE",
+      "commentary": null,
+      "commentary_meta": {}
+    },
+    {
+      "question_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-57-emprego-do-sinal-indicativo-de-crase_qst_id_005",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-57-emprego-do-sinal-indicativo-de-crase",
+      "topic_id": null,
+      "board": "CEBRASPE",
+      "year": "2019",
+      "organization": null,
+      "role": null,
+      "statement": "No trecho 'O professor dedicou-se a ensinar os alunos', a crase é facultativa antes do verbo 'ensinar'.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": null,
+      "external_reference": "Questão adaptada de CEBRASPE",
+      "commentary": null,
+      "commentary_meta": {}
+    },
+    {
+      "question_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-57-emprego-do-sinal-indicativo-de-crase_qst_id_006",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-57-emprego-do-sinal-indicativo-de-crase",
+      "topic_id": null,
+      "board": "CEBRASPE",
+      "year": "2018",
+      "organization": null,
+      "role": null,
+      "statement": "A correção gramatical seria mantida caso o trecho 'referência a Maria' fosse reescrito como 'referência à Maria'.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": null,
+      "external_reference": "Questão adaptada de CEBRASPE",
+      "commentary": null,
+      "commentary_meta": {}
+    },
+    {
+      "question_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-57-emprego-do-sinal-indicativo-de-crase_qst_id_007",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-57-emprego-do-sinal-indicativo-de-crase",
+      "topic_id": null,
+      "board": "CEBRASPE",
+      "year": "2017",
+      "organization": null,
+      "role": null,
+      "statement": "Em 'O acesso a informações é um direito', a substituição de 'a' por 'às' manteria a correção gramatical do texto.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": null,
+      "external_reference": "Questão adaptada de CEBRASPE",
+      "commentary": null,
+      "commentary_meta": {}
+    },
+    {
+      "question_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-57-emprego-do-sinal-indicativo-de-crase_qst_id_008",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-57-emprego-do-sinal-indicativo-de-crase",
+      "topic_id": null,
+      "board": "CEBRASPE",
+      "year": "2016",
+      "organization": null,
+      "role": null,
+      "statement": "O emprego do sinal indicativo de crase em 'à distância de dez metros' é obrigatório, pois a palavra 'distância' está especificada.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": null,
+      "external_reference": "Questão adaptada de CEBRASPE",
+      "commentary": null,
+      "commentary_meta": {}
+    }
+  ],
+  "comentarios_questoes": [
+    {
+      "comment_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-57-emprego-do-sinal-indicativo-de-crase_com_id_001",
+      "question_id": "qst_001",
+      "content": "Correto. O substantivo 'dedicação' exige a preposição 'a' (dedicação a algo/alguém). 'Pesquisa' é um substantivo feminino que admite o artigo definido 'a'. A fusão da preposição com o artigo resulta na crase obrigatória.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-57-emprego-do-sinal-indicativo-de-crase_com_id_002",
+      "question_id": "qst_002",
+      "content": "Errado. 'Às vezes' é uma locução adverbial feminina de tempo, e nessas locuções o uso da crase é obrigatório. A supressão do acento grave comprometeria a correção gramatical.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-57-emprego-do-sinal-indicativo-de-crase_com_id_003",
+      "question_id": "qst_003",
+      "content": "Correto. O pronome indefinido 'todos' é masculino e não admite artigo feminino. Além disso, pronomes em geral não admitem crase (exceto 'aquele(s)', 'aquela(s)', 'aquilo' em casos específicos). A inserção da crase seria um erro gramatical.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-57-emprego-do-sinal-indicativo-de-crase_com_id_004",
+      "question_id": "qst_004",
+      "content": "Correto. O verbo 'remeter' no sentido de 'fazer voltar, enviar' exige a preposição 'a' (remeter a algo/alguém). 'Aquele' é um pronome demonstrativo que inicia com 'a', e a fusão da preposição com o 'a' inicial do pronome resulta em crase.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-57-emprego-do-sinal-indicativo-de-crase_com_id_005",
+      "question_id": "qst_005",
+      "content": "Errado. A crase é proibida antes de verbos, independentemente da regência. O 'a' antes de 'ensinar' é apenas a preposição exigida pelo verbo 'dedicar-se' (dedicar-se a algo/alguém).",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-57-emprego-do-sinal-indicativo-de-crase_com_id_006",
+      "question_id": "qst_006",
+      "content": "Certo. O uso da crase antes de nomes próprios femininos é facultativo. Portanto, tanto 'referência a Maria' quanto 'referência à Maria' estão gramaticalmente corretos.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-57-emprego-do-sinal-indicativo-de-crase_com_id_007",
+      "question_id": "qst_007",
+      "content": "Errado. No trecho 'O acesso a informações é um direito', 'informações' é um substantivo feminino no plural. O 'a' que o antecede está no singular. Nesses casos, a crase é proibida, pois não há a fusão da preposição 'a' com o artigo 'as'. Para haver crase, seria necessário 'O acesso às informações'.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-57-emprego-do-sinal-indicativo-de-crase_com_id_008",
+      "question_id": "qst_008",
+      "content": "Certo. A crase é obrigatória quando a palavra 'distância' está especificada. No exemplo 'à distância de dez metros', a especificação 'de dez metros' torna o uso da crase mandatório. Se não houvesse especificação ('Manter a distância'), a crase seria proibida.",
+      "explanation_alternatives": ""
+    }
+  ],
+  "checklist_revisao": [
+    {
+      "checklist_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-57-emprego-do-sinal-indicativo-de-crase_chk_id_001",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-57-emprego-do-sinal-indicativo-de-crase",
+      "topic_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-57-emprego-do-sinal-indicativo-de-crase_top_001",
+      "item_text": "Checklist 1",
+      "completed": false,
+      "order": 1
+    },
+    {
+      "checklist_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-57-emprego-do-sinal-indicativo-de-crase_chk_id_002",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-57-emprego-do-sinal-indicativo-de-crase",
+      "topic_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-57-emprego-do-sinal-indicativo-de-crase_top_001",
+      "item_text": "Checklist 2",
+      "completed": false,
+      "order": 2
+    },
+    {
+      "checklist_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-57-emprego-do-sinal-indicativo-de-crase_chk_id_003",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-57-emprego-do-sinal-indicativo-de-crase",
+      "topic_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-57-emprego-do-sinal-indicativo-de-crase_top_001",
+      "item_text": "Checklist 3",
+      "completed": false,
+      "order": 3
+    },
+    {
+      "checklist_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-57-emprego-do-sinal-indicativo-de-crase_chk_id_004",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-57-emprego-do-sinal-indicativo-de-crase",
+      "topic_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-57-emprego-do-sinal-indicativo-de-crase_top_001",
+      "item_text": "Checklist 4",
+      "completed": false,
+      "order": 4
+    },
+    {
+      "checklist_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-57-emprego-do-sinal-indicativo-de-crase_chk_id_005",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-57-emprego-do-sinal-indicativo-de-crase",
+      "topic_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-57-emprego-do-sinal-indicativo-de-crase_top_001",
+      "item_text": "Checklist 5",
+      "completed": false,
+      "order": 5
+    },
+    {
+      "checklist_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-57-emprego-do-sinal-indicativo-de-crase_chk_id_006",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-57-emprego-do-sinal-indicativo-de-crase",
+      "topic_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-57-emprego-do-sinal-indicativo-de-crase_top_001",
+      "item_text": "Checklist 6",
+      "completed": false,
+      "order": 6
+    }
+  ],
+  "referencias": [
+    {
+      "reference_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-57-emprego-do-sinal-indicativo-de-crase_ref_id_001",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-57-emprego-do-sinal-indicativo-de-crase",
+      "reference_type": "Gramática",
+      "author_name": "Celso Cunha e Lindley Cintra",
+      "title": "Nova Gramática do Português Contemporâneo",
+      "publisher": null,
+      "year_reference": "2007",
+      "isbn": null,
+      "url": null,
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-57-emprego-do-sinal-indicativo-de-crase_ref_id_002",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-57-emprego-do-sinal-indicativo-de-crase",
+      "reference_type": "Manual",
+      "author_name": "Senado Federal",
+      "title": "Manual de Comunicação do Senado Federal",
+      "publisher": null,
+      "year_reference": "2024",
+      "isbn": null,
+      "url": "https://www12.senado.leg.br/manualdecomunicacao/redacao-e-estilo/crase",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-57-emprego-do-sinal-indicativo-de-crase_ref_id_003",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-57-emprego-do-sinal-indicativo-de-crase",
+      "reference_type": "Artigo Online",
+      "author_name": "Estratégia Vestibulares",
+      "title": "Uso da Crase: regras, exceções e exemplos!",
+      "publisher": null,
+      "year_reference": "2024",
+      "isbn": null,
+      "url": "https://www.estrategiavestibulares.com.br/blog/uso-da-crase/",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-57-emprego-do-sinal-indicativo-de-crase_ref_id_004",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-57-emprego-do-sinal-indicativo-de-crase",
+      "reference_type": "Artigo Online",
+      "author_name": "Instituto Adriana Figueiredo",
+      "title": "Quando usar crase: saiba quais seus casos e exemplos!",
+      "publisher": null,
+      "year_reference": "2024",
+      "isbn": null,
+      "url": "https://adrianasfigueiredo.com.br/quando-usar-crase/",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-57-emprego-do-sinal-indicativo-de-crase_ref_id_005",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-57-emprego-do-sinal-indicativo-de-crase",
+      "reference_type": "Vídeo Aula",
+      "author_name": "Professor Artur Gomes",
+      "title": "AS QUESTÕES SOBRE CRASE MAIS DIFÍCEIS | PROFESSOR ARTUR GOMES",
+      "publisher": null,
+      "year_reference": "2026",
+      "isbn": null,
+      "url": "https://www.youtube.com/watch?v=1g0Z8Y0X_xU",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-57-emprego-do-sinal-indicativo-de-crase_ref_id_006",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-57-emprego-do-sinal-indicativo-de-crase",
+      "reference_type": "Vídeo Aula",
+      "author_name": "Profe Ariane Budke (JUS POLIS)",
+      "title": "Aula 06 - INTENSIVÃO DE QUESTÕES CEBRASPE - PORTUGUÊS - CRASE - Profe Ariane",
+      "publisher": null,
+      "year_reference": "2024",
+      "isbn": null,
+      "url": "https://www.youtube.com/watch?v=e_0-R7-g0_o",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-57-emprego-do-sinal-indicativo-de-crase_ref_id_007",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-57-emprego-do-sinal-indicativo-de-crase",
+      "reference_type": "Plataforma de Questões",
+      "author_name": "Qconcursos.com",
+      "title": "Questões de Concurso sobre Crase em Português para CESPE / CEBRASPE",
+      "publisher": null,
+      "year_reference": "2024",
+      "isbn": null,
+      "url": "https://www.qconcursos.com/questoes-de-concursos/questoes-de-portugues/crase/banca-cespe-cebraspe",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-57-emprego-do-sinal-indicativo-de-crase_ref_id_008",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-57-emprego-do-sinal-indicativo-de-crase",
+      "reference_type": "Vídeo Aula",
+      "author_name": "Prof. Letícia Góes",
+      "title": "Portuguese TEST! Questions about CRASE (CESPE/CEBRASPE board) || Prof. Letícia Góes",
+      "publisher": null,
+      "year_reference": "2020",
+      "isbn": null,
+      "url": "https://www.youtube.com/watch?v=1g0Z8Y0X_xU",
+      "accessed_at": null,
+      "description": null
+    }
+  ],
+  "estatisticas_de_geracao": {
+    "total_topicos": 1,
+    "total_componentes_topico": 7,
+    "total_entendimentos_relevantes": 5,
+    "total_pegadinhas": 5,
+    "total_pontos_memorizacao": 5,
+    "total_itens_quadro_sinotico": 0,
+    "total_questoes": 8,
+    "total_comentarios_questoes": 8,
+    "total_itens_checklist": 6,
+    "total_referencias": 8
+  },
+  "validacao_interna": {
+    "pesquisa_previa_realizada": true,
+    "analise_de_cobrancas_anteriores_realizada": true,
+    "material_atualizado": true,
+    "json_valido": true,
+    "estrutura_relacional_respeitada": true,
+    "numeracao_respeitada": true,
+    "houve_quebra_de_hierarquia": false,
+    "houve_nivel_numerico_superior_a_3": false,
+    "fontes_verificadas": true,
+    "sem_informacao_inventada": true
+  },
+  "metadata": {
+    "source_file_name": "5__língua-portuguesa__5-domínio-da-estrutura-morfossintática-do-período-5.7-emprego-do-sinal-indicativo-de-crase.json",
+    "normalized_checksum": "748b7f09f837652382c045578dc75580a34c833bdc38bd14446331e94484f068",
+    "subject_slug": "portugues",
+    "material_slug": "crase-cebraspe-completo",
+    "title_slug": "emprego-do-sinal-indicativo-de-crase-para",
+    "board_slug": "cebraspe",
+    "counters": {
+      "blocks": 34,
+      "topics": 1,
+      "topic_components": 7,
+      "traps": 5,
+      "memory_points": 5,
+      "summary_items": 0,
+      "questions": 8,
+      "question_comments": 8,
+      "checklist_items": 6,
+      "references": 8
+    }
+  }
+}

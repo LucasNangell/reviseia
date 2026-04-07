@@ -1,0 +1,855 @@
+{
+  "schema_version": "1.0",
+  "normalized_at": "2026-04-07T15:39:14.258795-03:00",
+  "normalizer_version": "2.0.0",
+  "exported_at": "2026-04-07T17:36:00Z",
+  "source_request": {
+    "purpose": "Concurso público",
+    "general_area": "Direito",
+    "subject_name": "Direito Administrativo",
+    "subarea_name": "Direito Administrativo",
+    "main_theme": "4 Atos administrativos: 4.3 Requisitos ou elementos",
+    "theme_scope": "Teoria completa, incidência em prova, padrão de cobrança da banca, pegadinhas e questões comentadas",
+    "board_style": "CEBRASPE",
+    "depth_level": "Exaustivo",
+    "goal": "Teoria completa, revisão estratégica, pegadinhas e questões comentadas",
+    "base_topic_number": "4",
+    "topic_title": "4 Atos administrativos: 4.3 Requisitos ou elementos",
+    "syllabus_reference": "Conteúdo programático da disciplina Direito Administrativo",
+    "priority_sources": [
+      "Constituição Federal e legislação oficial vigente",
+      "Jurisprudência pertinente e atual, quando cabível",
+      "Doutrina consolidada",
+      "Questões anteriores da banca"
+    ],
+    "minimum_questions": 8,
+    "question_format": "Certo/Errado",
+    "prioritize_real_questions": true,
+    "response_language": "português",
+    "target_audience": "Candidato de concurso público",
+    "additional_notes": "Executar exatamente para esta linha individual do topicos.txt. Não juntar com outros tópicos. Não pular este tópico. Dar destaque ao padrão de cobrança da banca, aos pontos mais cobrados e às pegadinhas recorrentes.",
+    "input_hash": "740eeb5adcaa",
+    "extras": {}
+  },
+  "material": {
+    "material_id": "mat_001",
+    "slug": "atos-administrativos-requisitos-elementos-cebraspe",
+    "title": "Atos Administrativos: Requisitos ou Elementos",
+    "base_number": "4",
+    "topic_title": "4 Atos administrativos: 4.3 Requisitos ou elementos",
+    "purpose": "Concurso público",
+    "area_name": "Direito",
+    "subject_name": "Direito Administrativo",
+    "subarea_name": "Direito Administrativo",
+    "main_theme": "4 Atos administrativos: 4.3 Requisitos ou elementos",
+    "theme_scope": "Teoria completa, incidência em prova, padrão de cobrança da banca, pegadinhas e questões comentadas",
+    "board_style": "CEBRASPE",
+    "depth_level": "Exaustivo",
+    "study_goal": "Teoria completa, revisão estratégica, pegadinhas e questões comentadas",
+    "target_audience": "Candidato de concurso público",
+    "language_code": "português",
+    "update_status": "Atualizado em 2026-04-07",
+    "current_note": "Material atualizado com base na legislação vigente (Lei 9.784/99), doutrina consolidada e jurisprudência recente do STF/STJ, com foco no padrão de cobrança do CEBRASPE.",
+    "has_case_law": true,
+    "case_law_justification": "A jurisprudência é fundamental para a compreensão da Teoria dos Motivos Determinantes e do Desvio de Finalidade, temas recorrentes em provas do CEBRASPE, que exigem a aplicação prática dos conceitos.",
+    "has_information_limitation": false,
+    "information_limitation_desc": null,
+    "content_checksum": "placeholder_checksum_v1",
+    "extras": {}
+  },
+  "blocos_textuais": [
+    {
+      "external_block_code": "blc_001",
+      "material_id": null,
+      "topic_id": null,
+      "order": 1,
+      "title": "Introdução aos Requisitos dos Atos Administrativos",
+      "content": "Os atos administrativos são a principal forma de manifestação da Administração Pública, expressando sua vontade no exercício da função administrativa. Para que sejam válidos e produzam seus efeitos jurídicos, devem observar requisitos ou elementos essenciais, cuja ausência ou vício pode levar à sua invalidade. A doutrina majoritária e a jurisprudência consolidam cinco elementos: Competência, Finalidade, Forma, Objeto e Motivo (mnemônico COFIFE ou COFIPE).",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_002",
+      "material_id": null,
+      "topic_id": null,
+      "order": 2,
+      "title": "Competência",
+      "content": "A competência é o poder legal que a lei confere ao agente público para praticar o ato. É um elemento vinculado, ou seja, não há margem de escolha para o administrador quanto à sua existência. A competência é irrenunciável, intransferível e inderrogável pela vontade do particular. Contudo, pode ser delegada ou avocada, nos termos da lei, como previsto nos artigos 12 e 13 da Lei nº 9.784/99. O vício de competência pode ocorrer por excesso de poder (o agente atua além dos limites de sua atribuição) ou usurpação de função (o agente não possui qualquer atribuição legal para o ato).",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_003",
+      "material_id": null,
+      "topic_id": null,
+      "order": 3,
+      "title": "Finalidade",
+      "content": "A finalidade é o objetivo de interesse público que a lei prescreve para o ato administrativo. Todo ato administrativo deve visar ao interesse público, sendo este um elemento sempre vinculado. O vício de finalidade ocorre no chamado 'desvio de finalidade' (ou desvio de poder), que se caracteriza quando o agente pratica o ato com um objetivo diverso daquele previsto na lei para aquela espécie de ato, ainda que para outro fim público. É um vício insanável, que acarreta a nulidade do ato.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_004",
+      "material_id": null,
+      "topic_id": null,
+      "order": 4,
+      "title": "Forma",
+      "content": "A forma é o modo pelo qual o ato administrativo se exterioriza. A regra geral é que os atos administrativos sejam escritos, mas podem ser verbais, por gestos ou sinais, quando a lei assim o permitir. A forma é um elemento vinculado, sendo essencial para a validade do ato quando a lei a exige expressamente. A inobservância da forma legal, quando essencial, é motivo para a invalidade do ato.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_005",
+      "material_id": null,
+      "topic_id": null,
+      "order": 5,
+      "title": "Objeto",
+      "content": "O objeto (ou conteúdo) é o efeito jurídico imediato que o ato administrativo produz. Deve ser lícito, possível, determinado ou determinável, e moral. É o que o ato decide, certifica, declara ou impõe. O vício no objeto ocorre quando o conteúdo do ato é ilícito, impossível, indeterminado ou imoral, resultando na nulidade do ato.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_006",
+      "material_id": null,
+      "topic_id": null,
+      "order": 6,
+      "title": "Motivo",
+      "content": "O motivo é a situação de fato e de direito que autoriza ou determina a prática do ato administrativo. É a causa que impulsiona a Administração a agir. O motivo não se confunde com a motivação. O motivo é o 'porquê' do ato (a causa), enquanto a motivação é a 'exteriorização' ou 'declaração' desse motivo, ou seja, a exposição escrita ou oral das razões que levaram à prática do ato. O vício no motivo ocorre quando os pressupostos de fato ou de direito alegados são inexistentes ou falsos. Este vício é tratado pela Teoria dos Motivos Determinantes.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_007",
+      "material_id": null,
+      "topic_id": null,
+      "order": 7,
+      "title": "Teoria dos Motivos Determinantes",
+      "content": "A Teoria dos Motivos Determinantes estabelece que, quando a Administração Pública explicita os motivos que a levaram a praticar um ato, a validade desse ato fica vinculada à veracidade e à existência desses motivos. Se os motivos declarados forem falsos, inexistentes ou juridicamente inadequados, o ato será inválido (nulo), mesmo que a lei não exigisse motivação expressa para aquele tipo de ato. Essa teoria é um importante mecanismo de controle da legalidade e da moralidade administrativa, aplicando-se inclusive a atos discricionários que, uma vez motivados, ficam vinculados aos motivos expostos.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_008",
+      "material_id": null,
+      "topic_id": null,
+      "order": 8,
+      "title": "Vícios e Convalidação dos Atos Administrativos",
+      "content": "A ausência ou o defeito em um dos elementos essenciais do ato administrativo configura um vício, que pode levar à sua anulação. Nem todos os vícios, porém, são insanáveis. A convalidação é o ato pelo qual a Administração Pública corrige um vício sanável em um ato administrativo, com efeitos retroativos (ex tunc), desde que não acarrete lesão ao interesse público nem prejuízo a terceiros. São vícios sanáveis: os de competência (desde que não se trate de competência exclusiva e não haja usurpação de função) e os de forma (desde que a forma não seja essencial à validade do ato). São vícios insanáveis (que geram nulidade absoluta e não podem ser convalidados): os de finalidade (desvio de finalidade), motivo (inexistência ou falsidade) e objeto (ilicitude, impossibilidade, imoralidade).",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_009",
+      "material_id": null,
+      "topic_id": null,
+      "order": 9,
+      "title": "Padrão de Cobrança CEBRASPE",
+      "content": "O CEBRASPE (antigo CESPE) tem um padrão de cobrança rigoroso em Direito Administrativo, especialmente em atos administrativos. A banca exige a compreensão aprofundada dos conceitos, a distinção entre termos semelhantes e a aplicação da teoria a casos concretos. Pontos de alta incidência incluem: a diferença entre motivo e motivação, a Teoria dos Motivos Determinantes, o Desvio de Finalidade, e a capacidade de identificar vícios sanáveis e insanáveis, bem como as condições para a convalidação. As questões frequentemente apresentam situações hipotéticas e exigem que o candidato julgue a correção de uma afirmação (Certo/Errado) com base na legislação (principalmente Lei 9.784/99), doutrina e jurisprudência. É comum a banca tentar confundir elementos com atributos do ato administrativo, ou conceitos como excesso de poder e desvio de finalidade.",
+      "content_type": "teoria"
+    }
+  ],
+  "topicos": [
+    {
+      "external_topic_code": "top_001",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "4.3",
+      "title": "Requisitos ou Elementos dos Atos Administrativos",
+      "reference_block_external_id": "blc_001",
+      "level": 1,
+      "order": 1
+    },
+    {
+      "external_topic_code": "top_002",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "4.3.1",
+      "title": "Competência",
+      "reference_block_external_id": "blc_002",
+      "level": 1,
+      "order": 2
+    },
+    {
+      "external_topic_code": "top_003",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "4.3.2",
+      "title": "Finalidade",
+      "reference_block_external_id": "blc_003",
+      "level": 1,
+      "order": 3
+    },
+    {
+      "external_topic_code": "top_004",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "4.3.3",
+      "title": "Forma",
+      "reference_block_external_id": "blc_004",
+      "level": 1,
+      "order": 4
+    },
+    {
+      "external_topic_code": "top_005",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "4.3.4",
+      "title": "Objeto",
+      "reference_block_external_id": "blc_005",
+      "level": 1,
+      "order": 5
+    },
+    {
+      "external_topic_code": "top_006",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "4.3.5",
+      "title": "Motivo",
+      "reference_block_external_id": "blc_006",
+      "level": 1,
+      "order": 6
+    },
+    {
+      "external_topic_code": "top_007",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "4.3.6",
+      "title": "Teoria dos Motivos Determinantes",
+      "reference_block_external_id": "blc_007",
+      "level": 1,
+      "order": 7
+    },
+    {
+      "external_topic_code": "top_008",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "4.3.7",
+      "title": "Vícios e Convalidação",
+      "reference_block_external_id": "blc_008",
+      "level": 1,
+      "order": 8
+    },
+    {
+      "external_topic_code": "top_009",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "4.3.8",
+      "title": "Padrão de Cobrança CEBRASPE",
+      "reference_block_external_id": "blc_009",
+      "level": 1,
+      "order": 9
+    }
+  ],
+  "topico_componentes": [
+    {
+      "component_id": "cmp_001",
+      "topic_id": "top_002",
+      "component_type": "conceito",
+      "content": "A competência é o poder legal que a lei confere ao agente público para praticar o ato. É um elemento vinculado, irrenunciável e intransferível, mas pode ser delegada ou avocada nos termos da Lei nº 9.784/99.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_002",
+      "topic_id": "top_002",
+      "component_type": "vicio",
+      "content": "Vício de competência: Excesso de poder (agente atua além dos limites) ou Usurpação de função (agente não tem atribuição).",
+      "order": 2
+    },
+    {
+      "component_id": "cmp_003",
+      "topic_id": "top_003",
+      "component_type": "conceito",
+      "content": "A finalidade é o objetivo de interesse público que a lei prescreve para o ato. É um elemento sempre vinculado ao interesse público.",
+      "order": 3
+    },
+    {
+      "component_id": "cmp_004",
+      "topic_id": "top_003",
+      "component_type": "vicio",
+      "content": "Vício de finalidade: Desvio de finalidade (ato praticado com objetivo diverso do legalmente previsto). É insanável.",
+      "order": 4
+    },
+    {
+      "component_id": "cmp_005",
+      "topic_id": "top_004",
+      "component_type": "conceito",
+      "content": "A forma é o modo de exteriorização do ato, geralmente escrita. É essencial quando exigida por lei.",
+      "order": 5
+    },
+    {
+      "component_id": "cmp_006",
+      "topic_id": "top_004",
+      "component_type": "vicio",
+      "content": "Vício de forma: Inobservância da forma legal, quando essencial.",
+      "order": 6
+    },
+    {
+      "component_id": "cmp_007",
+      "topic_id": "top_005",
+      "component_type": "conceito",
+      "content": "O objeto é o efeito jurídico imediato do ato. Deve ser lícito, possível, determinado e moral.",
+      "order": 7
+    },
+    {
+      "component_id": "cmp_008",
+      "topic_id": "top_005",
+      "component_type": "vicio",
+      "content": "Vício de objeto: Objeto ilícito, impossível, indeterminado ou imoral. É insanável.",
+      "order": 8
+    },
+    {
+      "component_id": "cmp_009",
+      "topic_id": "top_006",
+      "component_type": "conceito",
+      "content": "O motivo é a situação de fato e de direito que fundamenta o ato. Não se confunde com motivação (exteriorização do motivo).",
+      "order": 9
+    },
+    {
+      "component_id": "cmp_010",
+      "topic_id": "top_006",
+      "component_type": "vicio",
+      "content": "Vício de motivo: Inexistência ou falsidade dos pressupostos de fato ou de direito (Teoria dos Motivos Determinantes). É insanável.",
+      "order": 10
+    },
+    {
+      "component_id": "cmp_011",
+      "topic_id": "top_007",
+      "component_type": "aplicacao",
+      "content": "A validade do ato administrativo se vincula aos motivos declarados, que devem ser verdadeiros e existentes.",
+      "order": 11
+    },
+    {
+      "component_id": "cmp_012",
+      "topic_id": "top_008",
+      "component_type": "sanavel",
+      "content": "Vícios sanáveis: Competência (não exclusiva, sem usurpação) e Forma (não essencial). Podem ser convalidados.",
+      "order": 12
+    },
+    {
+      "component_id": "cmp_013",
+      "topic_id": "top_008",
+      "component_type": "insanavel",
+      "content": "Vícios insanáveis: Finalidade, Motivo e Objeto. Geram nulidade e não podem ser convalidados.",
+      "order": 13
+    },
+    {
+      "component_id": "cmp_014",
+      "topic_id": "top_009",
+      "component_type": "foco_banca",
+      "content": "CEBRASPE foca em distinções (motivo x motivação, elementos x atributos), Teoria dos Motivos Determinantes, Desvio de Finalidade e vícios/convalidação.",
+      "order": 14
+    },
+    {
+      "component_id": "cmp_015",
+      "topic_id": "top_009",
+      "component_type": "armadilhas_banca",
+      "content": "Armadilhas comuns: confundir motivo com motivação, desvio de finalidade com excesso de poder, e vícios sanáveis com insanáveis.",
+      "order": 15
+    }
+  ],
+  "pegadinhas": [
+    {
+      "trap_id": "peg_001",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": "Motivo vs. Motivação",
+      "description": "O CEBRASPE frequentemente tenta confundir 'motivo' (a causa do ato) com 'motivação' (a exteriorização do motivo). Lembre-se: o motivo é o 'porquê', a motivação é o 'como' ou 'declaração'.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 1
+    },
+    {
+      "trap_id": "peg_002",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": "Vícios Sanáveis vs. Insanáveis",
+      "description": "A banca pode misturar os vícios, afirmando que um vício insanável é convalidável ou vice-versa. Memorize que vícios de finalidade, motivo e objeto são insanáveis.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 2
+    },
+    {
+      "trap_id": "peg_003",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": "Desvio de Finalidade vs. Excesso de Poder",
+      "description": "Embora ambos sejam vícios, o desvio de finalidade (vício na finalidade) é diferente do excesso de poder (vício na competência). O CEBRASPE pode tentar trocá-los.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 3
+    },
+    {
+      "trap_id": "peg_004",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": "Forma Essencial",
+      "description": "Nem todo vício de forma é insanável. A convalidação é possível se a forma não for essencial para a validade do ato. A banca pode generalizar.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 4
+    }
+  ],
+  "pontos_memorizacao": [
+    {
+      "memory_id": "mem_001",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": null,
+      "content": "Mnemônico COFIPE: Competência, Objeto, Finalidade, Forma, Motivo. São os elementos do ato administrativo.",
+      "order": 1
+    },
+    {
+      "memory_id": "mem_002",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": null,
+      "content": "Vícios insanáveis: Finalidade (desvio), Motivo (falso/inexistente), Objeto (ilícito/impossível/imoral).",
+      "order": 2
+    },
+    {
+      "memory_id": "mem_003",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": null,
+      "content": "Vícios sanáveis: Competência (não exclusiva, sem usurpação) e Forma (não essencial).",
+      "order": 3
+    },
+    {
+      "memory_id": "mem_004",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": null,
+      "content": "Teoria dos Motivos Determinantes: Vincula o ato aos motivos declarados. Se falsos, o ato é nulo.",
+      "order": 4
+    }
+  ],
+  "quadro_sinotico_itens": [
+    {
+      "summary_item_id": "sum_001",
+      "title": null,
+      "content": "Poder legal para praticar o ato.",
+      "order": 1
+    },
+    {
+      "summary_item_id": "sum_002",
+      "title": null,
+      "content": "Objetivo de interesse público previsto em lei.",
+      "order": 2
+    },
+    {
+      "summary_item_id": "sum_003",
+      "title": null,
+      "content": "Modo de exteriorização do ato.",
+      "order": 3
+    },
+    {
+      "summary_item_id": "sum_004",
+      "title": null,
+      "content": "Efeito jurídico imediato do ato.",
+      "order": 4
+    },
+    {
+      "summary_item_id": "sum_005",
+      "title": null,
+      "content": "Pressupostos de fato e de direito que justificam o ato.",
+      "order": 5
+    }
+  ],
+  "questoes": [
+    {
+      "question_id": "qst_001",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": "CEBRASPE (CESPE)",
+      "year": 2017,
+      "organization": "TCE/PE",
+      "role": "Auditor de Controle Externo",
+      "statement": "Um exemplo de convalidação de um ato administrativo é o saneamento do vício de competência por meio da ratificação do ato pela autoridade competente.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "A questão está CORRETA. Vícios de competência (desde que não sejam de competência exclusiva ou usurpação de função) são considerados sanáveis e podem ser convalidados pela Administração Pública, por meio da ratificação, desde que não haja lesão ao interesse público ou prejuízo a terceiros, conforme o Art. 55 da Lei nº 9.784/99.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_001"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_002",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": "CEBRASPE (CESPE)",
+      "year": 2019,
+      "organization": "TJ-AM",
+      "role": "Analista Judiciário - Direito",
+      "statement": "De acordo com a teoria dos motivos determinantes, a validade de um ato administrativo vincula-se aos motivos indicados como seus fundamentos, de modo que, se inexistentes ou falsos os motivos, o ato torna-se nulo.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "A questão está CORRETA. A Teoria dos Motivos Determinantes preconiza que a validade do ato administrativo está vinculada à existência e à veracidade dos motivos que foram explicitamente declarados como seus fundamentos. Se esses motivos forem inexistentes ou falsos, o ato será nulo.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_002"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_003",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": "CEBRASPE (CESPE)",
+      "year": 2016,
+      "organization": "TCE-PA",
+      "role": "Auditor de Controle Externo - Área Planejamento - Administração",
+      "statement": "Motivação, finalidade, competência, forma e objeto constituem elementos obrigatórios do ato administrativo e requisitos de validade da sua prática, de modo que a ausência de qualquer um desses elementos implica a nulidade do ato praticado.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "A questão está ERRADA. Embora motivação, finalidade, competência, forma e objeto sejam elementos obrigatórios do ato administrativo, a afirmação de que a ausência de *qualquer* um deles implica a nulidade do ato praticado é imprecisa. Vícios de competência e forma, em certas condições, são sanáveis e podem ser convalidados, não resultando necessariamente em nulidade. A motivação, por sua vez, é a exteriorização do motivo, e nem sempre sua ausência gera nulidade, dependendo do tipo de ato e da exigência legal de motivação.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_003"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_004",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": "CEBRASPE (CESPE)",
+      "year": 2007,
+      "organization": "TCU",
+      "role": "Técnico de Controle Externo",
+      "statement": "Motivo e motivação dos atos administrativos são conceitos coincidentes e significam a situação de fato e de direito que serve de fundamento para a prática do ato administrativo.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "A questão está ERRADA. Motivo e motivação são conceitos distintos no Direito Administrativo. O motivo é a situação de fato e de direito que serve de fundamento para o ato (o 'porquê'). A motivação é a exteriorização, a declaração formal, dos motivos (o 'como'). Eles não são coincidentes.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_004"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_005",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": "CEBRASPE (CESPE)",
+      "year": 2021,
+      "organization": "ICMBio",
+      "role": "Analista Ambiental",
+      "statement": "Ato administrativo praticado com vício de competência deve ser anulado.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "A questão está ERRADA. Um ato administrativo praticado com vício de competência *pode* ser anulado, mas nem sempre *deve* ser. Se o vício de competência não for de competência exclusiva e não configurar usurpação de função, ele é sanável e pode ser convalidado pela Administração, conforme o Art. 55 da Lei nº 9.784/99.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_005"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_006",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": "CEBRASPE (CESPE)",
+      "year": 2025,
+      "organization": "FUB",
+      "role": "Administrador",
+      "statement": "A administração pública, ao editar determinado ato administrativo, indicou expressamente os motivos que justificariam sua prática. Posteriormente, verificou-se que os fatos alegados não correspondiam à realidade, embora o ato fosse formalmente válido. À luz da teoria aplicável aos atos administrativos, o ato permanece válido, pois os motivos não integram sua estrutura jurídica.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "A questão está ERRADA. De acordo com a Teoria dos Motivos Determinantes, se a Administração Pública indica motivos para a prática de um ato, ela se vincula a eles. Se os fatos alegados não correspondem à realidade (motivos falsos ou inexistentes), o ato é nulo, mesmo que formalmente válido. Os motivos, uma vez declarados, integram a estrutura jurídica do ato e condicionam sua validade.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_006"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_007",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": "CEBRASPE (CESPE)",
+      "year": 2017,
+      "organization": "CAPES",
+      "role": "Analista em Ciência e Tecnologia",
+      "statement": "Os elementos do ato administrativo são o sujeito, o objeto, a forma, o motivo e a finalidade.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "A questão está CORRETA. A doutrina majoritária elenca os cinco elementos do ato administrativo como Competência (sujeito competente), Objeto, Finalidade, Forma e Motivo. O termo 'sujeito' é frequentemente usado como sinônimo de 'competência' no contexto dos elementos.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_007"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_008",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": "CEBRASPE (CESPE)",
+      "year": 2026,
+      "organization": "SEFAZ PR",
+      "role": "Agente Fazendário Estadual - Área: Analista Fazendário",
+      "statement": "A finalidade é elemento sempre vinculado, e se o fim visado não for aquele previsto para o ato editado haverá o desvio específico de finalidade, expondo o ato à invalidação.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "A questão está CORRETA. A finalidade é um elemento sempre vinculado ao interesse público. Qualquer ato administrativo que não vise ao fim público específico previsto em lei para aquela espécie de ato incorre em desvio de finalidade, um vício insanável que leva à invalidação do ato.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_008"
+        ],
+        "count": 1
+      }
+    }
+  ],
+  "comentarios_questoes": [
+    {
+      "comment_id": "com_001",
+      "question_id": "qst_001",
+      "content": "A questão está CORRETA. Vícios de competência (desde que não sejam de competência exclusiva ou usurpação de função) são considerados sanáveis e podem ser convalidados pela Administração Pública, por meio da ratificação, desde que não haja lesão ao interesse público ou prejuízo a terceiros, conforme o Art. 55 da Lei nº 9.784/99.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_002",
+      "question_id": "qst_002",
+      "content": "A questão está CORRETA. A Teoria dos Motivos Determinantes preconiza que a validade do ato administrativo está vinculada à existência e à veracidade dos motivos que foram explicitamente declarados como seus fundamentos. Se esses motivos forem inexistentes ou falsos, o ato será nulo.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_003",
+      "question_id": "qst_003",
+      "content": "A questão está ERRADA. Embora motivação, finalidade, competência, forma e objeto sejam elementos obrigatórios do ato administrativo, a afirmação de que a ausência de *qualquer* um deles implica a nulidade do ato praticado é imprecisa. Vícios de competência e forma, em certas condições, são sanáveis e podem ser convalidados, não resultando necessariamente em nulidade. A motivação, por sua vez, é a exteriorização do motivo, e nem sempre sua ausência gera nulidade, dependendo do tipo de ato e da exigência legal de motivação.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_004",
+      "question_id": "qst_004",
+      "content": "A questão está ERRADA. Motivo e motivação são conceitos distintos no Direito Administrativo. O motivo é a situação de fato e de direito que serve de fundamento para o ato (o 'porquê'). A motivação é a exteriorização, a declaração formal, dos motivos (o 'como'). Eles não são coincidentes.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_005",
+      "question_id": "qst_005",
+      "content": "A questão está ERRADA. Um ato administrativo praticado com vício de competência *pode* ser anulado, mas nem sempre *deve* ser. Se o vício de competência não for de competência exclusiva e não configurar usurpação de função, ele é sanável e pode ser convalidado pela Administração, conforme o Art. 55 da Lei nº 9.784/99.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_006",
+      "question_id": "qst_006",
+      "content": "A questão está ERRADA. De acordo com a Teoria dos Motivos Determinantes, se a Administração Pública indica motivos para a prática de um ato, ela se vincula a eles. Se os fatos alegados não correspondem à realidade (motivos falsos ou inexistentes), o ato é nulo, mesmo que formalmente válido. Os motivos, uma vez declarados, integram a estrutura jurídica do ato e condicionam sua validade.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_007",
+      "question_id": "qst_007",
+      "content": "A questão está CORRETA. A doutrina majoritária elenca os cinco elementos do ato administrativo como Competência (sujeito competente), Objeto, Finalidade, Forma e Motivo. O termo 'sujeito' é frequentemente usado como sinônimo de 'competência' no contexto dos elementos.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_008",
+      "question_id": "qst_008",
+      "content": "A questão está CORRETA. A finalidade é um elemento sempre vinculado ao interesse público. Qualquer ato administrativo que não vise ao fim público específico previsto em lei para aquela espécie de ato incorre em desvio de finalidade, um vício insanável que leva à invalidação do ato.",
+      "explanation_alternatives": ""
+    }
+  ],
+  "checklist_revisao": [
+    {
+      "checklist_id": "chk_001",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Conceito de ato administrativo e seus cinco elementos (COFIPE).",
+      "completed": false,
+      "order": 1
+    },
+    {
+      "checklist_id": "chk_002",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Diferença entre motivo e motivação.",
+      "completed": false,
+      "order": 2
+    },
+    {
+      "checklist_id": "chk_003",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Aplicação da Teoria dos Motivos Determinantes e suas consequências.",
+      "completed": false,
+      "order": 3
+    },
+    {
+      "checklist_id": "chk_004",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Conceito e implicações do desvio de finalidade.",
+      "completed": false,
+      "order": 4
+    },
+    {
+      "checklist_id": "chk_005",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Identificação de vícios sanáveis (competência e forma não essencial) e insanáveis (finalidade, motivo, objeto).",
+      "completed": false,
+      "order": 5
+    },
+    {
+      "checklist_id": "chk_006",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Condições para a convalidação de atos administrativos (Lei nº 9.784/99, Art. 55).",
+      "completed": false,
+      "order": 6
+    },
+    {
+      "checklist_id": "chk_007",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Padrão de cobrança do CEBRASPE: foco em distinções e casos práticos.",
+      "completed": false,
+      "order": 7
+    }
+  ],
+  "referencias": [
+    {
+      "reference_id": "ref_001",
+      "material_id": "mat_001",
+      "reference_type": "legislacao",
+      "author_name": null,
+      "title": "Lei nº 9.784, de 29 de janeiro de 1999",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "http://www.planalto.gov.br/ccivil_03/leis/L9784.htm",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_002",
+      "material_id": "mat_001",
+      "reference_type": "doutrina",
+      "author_name": null,
+      "title": "DI PIETRO, Maria Sylvia Zanella. Direito Administrativo.",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": null,
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_003",
+      "material_id": "mat_001",
+      "reference_type": "doutrina",
+      "author_name": null,
+      "title": "MEIRELLES, Hely Lopes. Direito Administrativo Brasileiro.",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": null,
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_004",
+      "material_id": "mat_001",
+      "reference_type": "jurisprudencia",
+      "author_name": null,
+      "title": "Jurisprudência do Superior Tribunal de Justiça (STJ)",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": null,
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_005",
+      "material_id": "mat_001",
+      "reference_type": "questoes_anteriores",
+      "author_name": null,
+      "title": "Questões CEBRASPE (CESPE)",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": null,
+      "accessed_at": null,
+      "description": null
+    }
+  ],
+  "estatisticas_de_geracao": {
+    "total_topicos": 9,
+    "total_componentes_topico": 15,
+    "total_entendimentos_relevantes": 3,
+    "total_pegadinhas": 4,
+    "total_pontos_memorizacao": 4,
+    "total_itens_quadro_sinotico": 5,
+    "total_questoes": 8,
+    "total_comentarios_questoes": 8,
+    "total_itens_checklist": 7,
+    "total_referencias": 5
+  },
+  "validacao_interna": {
+    "pesquisa_previa_realizada": true,
+    "analise_de_cobrancas_anteriores_realizada": true,
+    "material_atualizado": true,
+    "json_valido": true,
+    "estrutura_relacional_respeitada": true,
+    "numeracao_respeitada": true,
+    "houve_quebra_de_hierarquia": false,
+    "houve_nivel_numerico_superior_a_3": false,
+    "fontes_verificadas": true,
+    "sem_informacao_inventada": true
+  },
+  "metadata": {
+    "source_file_name": "4__direito-administrativo__4-atos-administrativos-4.3-requisitos-ou-elementos.json",
+    "normalized_checksum": "0b05857f9cd0e61e7b3d7fd5f83ef0f7b282dd665b8e5e7706b44f1c312aa18a",
+    "subject_slug": "dir-adm",
+    "material_slug": "atos-administrativos-requisitos",
+    "title_slug": "atos-administrativos-requisitos-ou-elementos",
+    "board_slug": "cebraspe",
+    "counters": {
+      "blocks": 9,
+      "topics": 9,
+      "topic_components": 15,
+      "traps": 4,
+      "memory_points": 4,
+      "summary_items": 5,
+      "questions": 8,
+      "question_comments": 8,
+      "checklist_items": 7,
+      "references": 5
+    }
+  }
+}

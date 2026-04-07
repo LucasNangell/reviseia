@@ -1,0 +1,733 @@
+{
+  "schema_version": "1.0",
+  "normalized_at": "2026-04-07T15:39:14.976958-03:00",
+  "normalizer_version": "2.0.0",
+  "exported_at": "2026-04-06T20:34:00Z",
+  "source_request": {
+    "purpose": "Concurso público",
+    "general_area": "Exatas",
+    "subject_name": "Raciocínio Lógico e Noções de Estatística",
+    "subarea_name": "Lógica, conjuntos, contagem e estatística",
+    "main_theme": "3 Lógica sentencial (ou proposicional): 3.4 Leis de Morgan",
+    "theme_scope": "Teoria completa, incidência em prova, padrão de cobrança da banca, pegadinhas e questões comentadas",
+    "board_style": "CEBRASPE",
+    "depth_level": "Exaustivo",
+    "goal": "Teoria completa, revisão estratégica, pegadinhas e questões comentadas",
+    "base_topic_number": "3",
+    "topic_title": "3 Lógica sentencial (ou proposicional): 3.4 Leis de Morgan",
+    "syllabus_reference": "Conteúdo programático da disciplina Raciocínio Lógico e Noções de Estatística",
+    "priority_sources": [
+      "Bibliografia técnica consolidada",
+      "Definições, propriedades, regras e métodos consagrados",
+      "Questões anteriores da banca"
+    ],
+    "minimum_questions": 8,
+    "question_format": "Certo/Errado",
+    "prioritize_real_questions": true,
+    "response_language": "português",
+    "target_audience": "Candidato de concurso público",
+    "additional_notes": "Executar exatamente para esta linha individual do topicos.txt. Não juntar com outros tópicos. Não pular este tópico. Dar destaque ao padrão de cobrança da banca, aos pontos mais cobrados e às pegadinhas recorrentes.",
+    "input_hash": "8e4b187d54d5",
+    "extras": {}
+  },
+  "material": {
+    "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-34-leis-de-morgan",
+    "slug": "leis-de-morgan-raciocinio-logico-cebraspe",
+    "title": "Leis de Morgan: Teoria Completa e Aplicação em Provas CEBRASPE",
+    "base_number": "3.4",
+    "topic_title": "3 Lógica sentencial (ou proposicional): 3.4 Leis de Morgan",
+    "purpose": "Concurso público",
+    "area_name": "Exatas",
+    "subject_name": "Raciocínio Lógico e Noções de Estatística",
+    "subarea_name": "Lógica, conjuntos, contagem e estatística",
+    "main_theme": "3 Lógica sentencial (ou proposicional): 3.4 Leis de Morgan",
+    "theme_scope": "Teoria completa, incidência em prova, padrão de cobrança da banca, pegadinhas e questões comentadas",
+    "board_style": "CEBRASPE",
+    "depth_level": "Exaustivo",
+    "study_goal": "Teoria completa, revisão estratégica, pegadinhas e questões comentadas",
+    "target_audience": "Candidato de concurso público",
+    "language_code": "português",
+    "update_status": "Atualizado em 2026",
+    "current_note": "Conteúdo revisado para refletir a vigência das regras lógicas e o padrão de cobrança da banca CEBRASPE até o ano corrente.",
+    "has_case_law": false,
+    "case_law_justification": "A matéria de Raciocínio Lógico, especialmente Leis de Morgan, não envolve jurisprudência, focando em definições e regras matemáticas.",
+    "has_information_limitation": false,
+    "information_limitation_desc": null,
+    "content_checksum": "placeholder_checksum",
+    "extras": {}
+  },
+  "blocos_textuais": [
+    {
+      "external_block_code": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-34-leis-de-morgan_blc_001",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-34-leis-de-morgan",
+      "topic_id": null,
+      "order": 1,
+      "title": "Introdução às Leis de Morgan",
+      "content": "As Leis de Morgan são teoremas fundamentais da lógica proposicional que descrevem como as negações se comportam quando aplicadas a proposições compostas, utilizando os conectivos lógicos 'E' (conjunção) e 'OU' (disjunção). Elas são essenciais para simplificar expressões lógicas e para a correta negação de sentenças em Raciocínio Lógico, sendo um tópico de alta incidência em concursos públicos, especialmente nas provas elaboradas pela banca CEBRASPE.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-34-leis-de-morgan_blc_002",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-34-leis-de-morgan",
+      "topic_id": null,
+      "order": 2,
+      "title": "Primeira Lei de Morgan: Negação da Conjunção",
+      "content": "A Primeira Lei de Morgan estabelece que a negação de uma conjunção (uma proposição composta com o conectivo 'E') é logicamente equivalente à disjunção (uma proposição composta com o conectivo 'OU') das negações das proposições simples. Em termos simbólicos, se temos uma proposição 'P e Q', sua negação é ¬(P ∧ Q) ≡ ¬P ∨ ¬Q. Isso significa que, para negar que duas coisas acontecem simultaneamente, basta afirmar que pelo menos uma delas não acontece.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-34-leis-de-morgan_blc_003",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-34-leis-de-morgan",
+      "topic_id": null,
+      "order": 3,
+      "title": "Exemplo da Primeira Lei de Morgan",
+      "content": "Considere a proposição: 'João é médico E Maria é advogada'. Para negar essa proposição, aplicamos a Primeira Lei de Morgan. A negação correta será: 'João NÃO é médico OU Maria NÃO é advogada'. Perceba que o conectivo 'E' foi substituído por 'OU', e ambas as proposições simples ('João é médico' e 'Maria é advogada') foram negadas.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-34-leis-de-morgan_blc_004",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-34-leis-de-morgan",
+      "topic_id": null,
+      "order": 4,
+      "title": "Segunda Lei de Morgan: Negação da Disjunção",
+      "content": "",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-34-leis-de-morgan_blc_005",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-34-leis-de-morgan",
+      "topic_id": null,
+      "order": 5,
+      "title": "Exemplo da Segunda Lei de Morgan",
+      "content": "Tomemos a proposição: 'O carro é novo OU a casa é grande'. Aplicando a Segunda Lei de Morgan para negar essa proposição, obtemos: 'O carro NÃO é novo E a casa NÃO é grande'. Observa-se que o conectivo 'OU' foi trocado por 'E', e as duas proposições simples ('O carro é novo' e 'A casa é grande') foram negadas.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-34-leis-de-morgan_blc_006",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-34-leis-de-morgan",
+      "topic_id": null,
+      "order": 6,
+      "title": "Padrão de Cobrança da Banca CEBRASPE",
+      "content": "A banca CEBRASPE (antigo CESPE) tem um padrão de cobrança bem definido para as Leis de Morgan, geralmente em questões do tipo 'Certo/Errado'. As questões frequentemente pedem para julgar se uma negação apresentada está correta em relação a uma proposição original. É comum que a banca explore as 'pegadinhas' relacionadas à troca incorreta dos conectivos ou à negação incompleta das proposições simples. A profundidade exigida é a aplicação direta e segura das duas leis, sem a necessidade de demonstrações formais complexas. É crucial estar atento a sinônimos de 'e' (como 'mas') e 'ou' para não cair em armadilhas textuais.",
+      "content_type": "teoria"
+    }
+  ],
+  "topicos": [
+    {
+      "external_topic_code": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-34-leis-de-morgan_top_001",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-34-leis-de-morgan",
+      "parent_topic_id": null,
+      "topic_number": "3.4",
+      "title": "Leis de Morgan: Fundamentos e Aplicação",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 1
+    }
+  ],
+  "topico_componentes": [
+    {
+      "component_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-34-leis-de-morgan_cmp_id_001",
+      "topic_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-34-leis-de-morgan_top_001",
+      "component_type": "Componente",
+      "content": "As Leis de Morgan são regras de equivalência lógica que permitem reescrever a negação de conjunções e disjunções. Sua compreensão é vital para a resolução de questões de raciocínio lógico em concursos, especialmente as formuladas pela CEBRASPE.",
+      "order": 1
+    },
+    {
+      "component_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-34-leis-de-morgan_cmp_id_002",
+      "topic_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-34-leis-de-morgan_top_001",
+      "component_type": "Componente",
+      "content": "A negação de 'P e Q' (¬(P ∧ Q)) é equivalente a 'não P ou não Q' (¬P ∨ ¬Q). A regra prática é: negue as duas proposições simples e troque o 'E' por 'OU'.",
+      "order": 2
+    },
+    {
+      "component_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-34-leis-de-morgan_cmp_id_003",
+      "topic_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-34-leis-de-morgan_top_001",
+      "component_type": "Componente",
+      "content": "A negação de 'P ou Q' (¬(P ∨ Q)) é equivalente a 'não P e não Q' (¬P ∧ ¬Q). A regra prática é: negue as duas proposições simples e troque o 'OU' por 'E'.",
+      "order": 3
+    },
+    {
+      "component_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-34-leis-de-morgan_cmp_id_004",
+      "topic_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-34-leis-de-morgan_top_001",
+      "component_type": "Componente",
+      "content": "A CEBRASPE foca na aplicação direta das Leis de Morgan para negar proposições compostas. As questões são predominantemente 'Certo/Errado' e testam a capacidade do candidato de aplicar as regras de negação e troca de conectivos.",
+      "order": 4
+    },
+    {
+      "component_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-34-leis-de-morgan_cmp_id_005",
+      "topic_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-34-leis-de-morgan_top_001",
+      "component_type": "Componente",
+      "content": "Para resolver questões da CEBRASPE envolvendo Leis de Morgan, identifique o conectivo principal (E ou OU), negue cada proposição simples e, em seguida, troque o conectivo pelo seu dual (E por OU, OU por E). Atenção especial a palavras como 'mas', que podem ter valor de 'e'.",
+      "order": 5
+    }
+  ],
+  "pegadinhas": [
+    {
+      "trap_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-34-leis-de-morgan_peg_id_001",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-34-leis-de-morgan",
+      "topic_id": null,
+      "title": "Negação Incompleta",
+      "description": "A banca pode apresentar uma negação onde apenas uma das proposições simples é negada, ou onde o conectivo é trocado, mas as proposições não são negadas. Lembre-se: 'nega tudo e troca o conectivo'.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 1
+    },
+    {
+      "trap_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-34-leis-de-morgan_peg_id_002",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-34-leis-de-morgan",
+      "topic_id": null,
+      "title": "Troca Incorreta de Conectivos",
+      "description": "Um erro comum é negar uma conjunção (E) e manter o conectivo 'E', ou negar uma disjunção (OU) e manter o conectivo 'OU'. O 'E' vira 'OU' e o 'OU' vira 'E'.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 2
+    },
+    {
+      "trap_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-34-leis-de-morgan_peg_id_003",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-34-leis-de-morgan",
+      "topic_id": null,
+      "title": "Uso de 'Mas' como 'E'",
+      "description": "Em algumas proposições, a palavra 'mas' tem o mesmo valor lógico do conectivo 'e'. Candidatos desatentos podem não identificar essa equivalência e aplicar a negação de forma incorreta.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 3
+    },
+    {
+      "trap_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-34-leis-de-morgan_peg_id_004",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-34-leis-de-morgan",
+      "topic_id": null,
+      "title": "Confusão com Negação do Condicional",
+      "description": "Embora o tema seja Leis de Morgan, a CEBRASPE pode misturar a negação de proposições condicionais ('Se... então') para confundir o candidato. A negação de 'Se P então Q' é 'P e não Q', que é diferente das Leis de Morgan.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 4
+    }
+  ],
+  "pontos_memorizacao": [
+    {
+      "memory_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-34-leis-de-morgan_mem_id_001",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-34-leis-de-morgan",
+      "topic_id": null,
+      "title": "Negação do 'E'",
+      "content": "Para negar 'P E Q', pense em 'NÃO P OU NÃO Q'.",
+      "order": 1
+    },
+    {
+      "memory_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-34-leis-de-morgan_mem_id_002",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-34-leis-de-morgan",
+      "topic_id": null,
+      "title": "Negação do 'OU'",
+      "content": "Para negar 'P OU Q', pense em 'NÃO P E NÃO Q'.",
+      "order": 2
+    },
+    {
+      "memory_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-34-leis-de-morgan_mem_id_003",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-34-leis-de-morgan",
+      "topic_id": null,
+      "title": "Regra Geral",
+      "content": "Sempre negue as proposições simples e troque o conectivo (E ↔ OU).",
+      "order": 3
+    }
+  ],
+  "quadro_sinotico_itens": [
+    {
+      "summary_item_id": "sum_001",
+      "title": "Primeira Lei de Morgan",
+      "content": "Negação da Conjunção: ¬(P ∧ Q) ≡ ¬P ∨ ¬Q",
+      "order": 1
+    },
+    {
+      "summary_item_id": "sum_002",
+      "title": "Segunda Lei de Morgan",
+      "content": "Negação da Disjunção: ¬(P ∨ Q) ≡ ¬P ∧ ¬Q",
+      "order": 2
+    }
+  ],
+  "questoes": [
+    {
+      "question_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-34-leis-de-morgan_qst_id_001",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-34-leis-de-morgan",
+      "topic_id": null,
+      "board": "CEBRASPE",
+      "year": "2023",
+      "organization": "TBG",
+      "role": "Analista - Área: Desenvolvimento de Software",
+      "statement": "A negação da afirmação de Cameron pode ser escrita como “Não avisei em 1984 e vocês não me ouviram”.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": null,
+      "external_reference": "Qconcursos - Questões de Concurso sobre Leis de Morgan",
+      "commentary": null,
+      "commentary_meta": {}
+    },
+    {
+      "question_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-34-leis-de-morgan_qst_id_002",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-34-leis-de-morgan",
+      "topic_id": null,
+      "board": "CESPE/CEBRASPE",
+      "year": "2014",
+      "organization": "MDIC",
+      "role": null,
+      "statement": "A negação da proposição “A Brasil Central é uma das ruas mais movimentadas do centro da cidade e lá o preço dos aluguéis é alto” está corretamente expressa por “A Brasil Central não é uma das ruas mais movimentadas do centro da cidade ou lá o preço dos aluguéis não é alto”.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": null,
+      "external_reference": "Ebook-Equivalencias-50-Questoes-CESPE.pdf",
+      "commentary": null,
+      "commentary_meta": {}
+    },
+    {
+      "question_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-34-leis-de-morgan_qst_id_003",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-34-leis-de-morgan",
+      "topic_id": null,
+      "board": "CESPE/CEBRASPE",
+      "year": "2013",
+      "organization": "SGP",
+      "role": "Papiloscopista",
+      "statement": "De acordo com as leis de Morgan, a proposição ¬[P∨(¬Q)] é equivalente à proposição (¬P)∨Q.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": null,
+      "external_reference": "Qconcursos - De acordo com as leis de Morgan, a proposição ¬[P∨(¬Q)... - Q1255056",
+      "commentary": null,
+      "commentary_meta": {}
+    },
+    {
+      "question_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-34-leis-de-morgan_qst_id_004",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-34-leis-de-morgan",
+      "topic_id": null,
+      "board": "CESPE/CEBRASPE",
+      "year": "2018",
+      "organization": "PF",
+      "role": "Papiloscopista Policial Federal",
+      "statement": "Julgue os próximos itens, acerca da seguinte proposição: P: “A nomeação do novo servidor público ocorre para reposição de vacância em área essencial, ou o candidato aprovado não será nomeado”. A negação da proposição P está corretamente expressa por: “Ou a nomeação do novo servidor público ocorre para reposição de vacância em áreas não essenciais, ou o candidato aprovado será nomeado”.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": null,
+      "external_reference": "YouTube - CESPE18Q050 - CESPE / CEBRASPE - 2018 - PF - LEIS DE MORGAN",
+      "commentary": null,
+      "commentary_meta": {}
+    },
+    {
+      "question_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-34-leis-de-morgan_qst_id_005",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-34-leis-de-morgan",
+      "topic_id": null,
+      "board": "CESPE/CEBRASPE",
+      "year": "2017",
+      "organization": "TRF1",
+      "role": "Diversos Cargos",
+      "statement": "Em uma reunião de colegiado, após a aprovação de uma matéria polêmica pelo placar de 6 votos a favor e 5 contra, um dos 11 presentes fez a seguinte afirmação: “Basta um de nós mudar de ideia e a decisão será totalmente modificada.” Considerando a situação apresentada e a proposição correspondente à afirmação feita, julgue o próximo item. A negação da proposição pode ser corretamente expressa por “Basta um de nós não mudar de ideia ou a decisão não será totalmente modificada”.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": null,
+      "external_reference": "YouTube - CESPE / CEBRASPE - 2017 - TRF1 - LEIS DE MORGAN - RESOLUÇÃO DE QUESTÕES",
+      "commentary": null,
+      "commentary_meta": {}
+    },
+    {
+      "question_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-34-leis-de-morgan_qst_id_006",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-34-leis-de-morgan",
+      "topic_id": null,
+      "board": "CEBRASPE (Adaptada)",
+      "year": "202X",
+      "organization": "Diversos",
+      "role": null,
+      "statement": "A negação da proposição 'Paulo é torcedor do Nacional ou Débora não é torcedora do Fast' é 'Paulo não é torcedor do Nacional e Débora é torcedora do Fast'.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": null,
+      "external_reference": "Qconcursos - Questões de Concurso sobre Leis de Morgan",
+      "commentary": null,
+      "commentary_meta": {}
+    },
+    {
+      "question_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-34-leis-de-morgan_qst_id_007",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-34-leis-de-morgan",
+      "topic_id": null,
+      "board": "CEBRASPE (Adaptada)",
+      "year": "202X",
+      "organization": "Diversos",
+      "role": null,
+      "statement": "A negação da proposição 'O Brasil foi eliminado da copa e Tite não é mais o técnico da seleção' é 'O Brasil não foi eliminado da copa e Tite é o técnico da seleção'.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": null,
+      "external_reference": "Qconcursos - Questões de Concurso sobre Leis de Morgan",
+      "commentary": null,
+      "commentary_meta": {}
+    },
+    {
+      "question_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-34-leis-de-morgan_qst_id_008",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-34-leis-de-morgan",
+      "topic_id": null,
+      "board": "CEBRASPE (Adaptada)",
+      "year": "202X",
+      "organization": "Diversos",
+      "role": null,
+      "statement": "A negação da proposição 'Mateus não é enfermeiro ou não trabalha muito' é 'Mateus é enfermeiro e trabalha muito'.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": null,
+      "external_reference": "Qconcursos - Questões de Concurso sobre Leis de Morgan",
+      "commentary": null,
+      "commentary_meta": {}
+    }
+  ],
+  "comentarios_questoes": [
+    {
+      "comment_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-34-leis-de-morgan_com_id_001",
+      "question_id": "qst_001",
+      "content": "A proposição original implícita para que a negação seja avaliada é 'Avisei em 1984 E vocês me ouviram'. Esta é uma conjunção (P ∧ Q). Pela Primeira Lei de Morgan, a negação de uma conjunção é a disjunção das negações: ¬(P ∧ Q) ≡ ¬P ∨ ¬Q. Ou seja, 'NÃO avisei em 1984 OU vocês NÃO me ouviram'. A negação apresentada na questão utiliza o conectivo 'E' ('Não avisei em 1984 E vocês não me ouviram'), o que está incorreto. Portanto, o item está ERRADO.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-34-leis-de-morgan_com_id_002",
+      "question_id": "qst_002",
+      "content": "A proposição original é uma conjunção: 'A Brasil Central é uma das ruas mais movimentadas do centro da cidade E lá o preço dos aluguéis é alto'. Representando como P ∧ Q. A negação apresentada é 'A Brasil Central NÃO é uma das ruas mais movimentadas do centro da cidade OU lá o preço dos aluguéis NÃO é alto'. Representando como ¬P ∨ ¬Q. De acordo com a Primeira Lei de Morgan, ¬(P ∧ Q) ≡ ¬P ∨ ¬Q. A negação está perfeitamente alinhada com a lei. Portanto, o item está CERTO.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-34-leis-de-morgan_com_id_003",
+      "question_id": "qst_003",
+      "content": "A proposição a ser negada é ¬[P∨(¬Q)]. Aplicando a Segunda Lei de Morgan para a negação da disjunção, temos que ¬(A ∨ B) ≡ ¬A ∧ ¬B. No nosso caso, A = P e B = ¬Q. Assim, ¬[P∨(¬Q)] ≡ ¬P ∧ ¬(¬Q). A negação de uma negação é a própria proposição, ou seja, ¬(¬Q) ≡ Q. Portanto, ¬[P∨(¬Q)] ≡ ¬P ∧ Q. A questão afirma que a proposição é equivalente a (¬P)∨Q, o que é diferente de ¬P ∧ Q. O conectivo 'OU' está incorreto. Portanto, o item está ERRADO.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-34-leis-de-morgan_com_id_004",
+      "question_id": "qst_004",
+      "content": "A proposição P é uma disjunção: 'A nomeação do novo servidor público ocorre para reposição de vacância em área essencial OU o candidato aprovado não será nomeado'. Representando como A ∨ B. Pela Segunda Lei de Morgan, a negação de uma disjunção é a conjunção das negações: ¬(A ∨ B) ≡ ¬A ∧ ¬B. Ou seja, 'A nomeação do novo servidor público NÃO ocorre para reposição de vacância em área essencial E o candidato aprovado SERÁ nomeado'. A negação apresentada na questão utiliza o conectivo 'OU' novamente ('Ou a nomeação do novo servidor público ocorre para reposição de vacância em áreas não essenciais, OU o candidato aprovado será nomeado'), o que está incorreto. Além disso, a negação de 'não será nomeado' é 'será nomeado', que está correta. No entanto, a troca do conectivo é fundamental. Portanto, o item está ERRADO.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-34-leis-de-morgan_com_id_005",
+      "question_id": "qst_005",
+      "content": "A afirmação original é uma conjunção: 'Basta um de nós mudar de ideia E a decisão será totalmente modificada'. Representando como P ∧ Q. A negação apresentada é 'Basta um de nós NÃO mudar de ideia OU a decisão NÃO será totalmente modificada'. Representando como ¬P ∨ ¬Q. De acordo com a Primeira Lei de Morgan, ¬(P ∧ Q) ≡ ¬P ∨ ¬Q. A negação está corretamente aplicada, negando ambas as proposições simples e trocando o conectivo 'E' por 'OU'. Portanto, o item está CERTO.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-34-leis-de-morgan_com_id_006",
+      "question_id": "qst_006",
+      "content": "A proposição original é uma disjunção: 'Paulo é torcedor do Nacional OU Débora não é torcedora do Fast'. Representando como P ∨ Q. Pela Segunda Lei de Morgan, a negação de uma disjunção é a conjunção das negações: ¬(P ∨ Q) ≡ ¬P ∧ ¬Q. Negando 'Paulo é torcedor do Nacional' obtemos 'Paulo não é torcedor do Nacional'. Negando 'Débora não é torcedora do Fast' obtemos 'Débora é torcedora do Fast'. Trocando o 'OU' por 'E', a negação correta é 'Paulo não é torcedor do Nacional E Débora é torcedora do Fast'. A negação apresentada corresponde a essa forma. Portanto, o item está CERTO.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-34-leis-de-morgan_com_id_007",
+      "question_id": "qst_007",
+      "content": "A proposição original é uma conjunção: 'O Brasil foi eliminado da copa E Tite não é mais o técnico da seleção'. Representando como P ∧ Q. Pela Primeira Lei de Morgan, a negação de uma conjunção é a disjunção das negações: ¬(P ∧ Q) ≡ ¬P ∨ ¬Q. Negando 'O Brasil foi eliminado da copa' obtemos 'O Brasil não foi eliminado da copa'. Negando 'Tite não é mais o técnico da seleção' obtemos 'Tite é o técnico da seleção'. Trocando o 'E' por 'OU', a negação correta seria 'O Brasil não foi eliminado da copa OU Tite é o técnico da seleção'. A negação apresentada na questão mantém o conectivo 'E', o que está incorreto. Portanto, o item está ERRADO.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-34-leis-de-morgan_com_id_008",
+      "question_id": "qst_008",
+      "content": "A proposição original é uma disjunção de negações: 'Mateus NÃO é enfermeiro OU NÃO trabalha muito'. Representando como ¬P ∨ ¬Q. Pela Segunda Lei de Morgan, a negação de uma disjunção é a conjunção das negações: ¬(¬P ∨ ¬Q) ≡ ¬(¬P) ∧ ¬(¬Q). A negação de uma negação é a própria proposição. Assim, ¬(¬P) ≡ P e ¬(¬Q) ≡ Q. Portanto, a negação correta é 'Mateus É enfermeiro E trabalha muito'. A negação apresentada na questão corresponde a essa forma. Portanto, o item está CERTO.",
+      "explanation_alternatives": ""
+    }
+  ],
+  "checklist_revisao": [
+    {
+      "checklist_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-34-leis-de-morgan_chk_id_001",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-34-leis-de-morgan",
+      "topic_id": null,
+      "item_text": "Checklist 1",
+      "completed": false,
+      "order": 1
+    },
+    {
+      "checklist_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-34-leis-de-morgan_chk_id_002",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-34-leis-de-morgan",
+      "topic_id": null,
+      "item_text": "Checklist 2",
+      "completed": false,
+      "order": 2
+    },
+    {
+      "checklist_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-34-leis-de-morgan_chk_id_003",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-34-leis-de-morgan",
+      "topic_id": null,
+      "item_text": "Checklist 3",
+      "completed": false,
+      "order": 3
+    },
+    {
+      "checklist_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-34-leis-de-morgan_chk_id_004",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-34-leis-de-morgan",
+      "topic_id": null,
+      "item_text": "Checklist 4",
+      "completed": false,
+      "order": 4
+    },
+    {
+      "checklist_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-34-leis-de-morgan_chk_id_005",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-34-leis-de-morgan",
+      "topic_id": null,
+      "item_text": "Checklist 5",
+      "completed": false,
+      "order": 5
+    },
+    {
+      "checklist_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-34-leis-de-morgan_chk_id_006",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-34-leis-de-morgan",
+      "topic_id": null,
+      "item_text": "Checklist 6",
+      "completed": false,
+      "order": 6
+    }
+  ],
+  "referencias": [
+    {
+      "reference_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-34-leis-de-morgan_ref_id_001",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-34-leis-de-morgan",
+      "reference_type": "Artigo Online",
+      "author_name": "Sigma Cursos Preparatorios",
+      "title": "Raciocínio Lógico – Leis de Morgan",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGRNf7b0ZVm2hsphWXbMdcuAwacXQSGvXEhldoStQGZTPtwXMD8FHG3Ry5O5fpFNKGocvO4m6dvfwRlxdfY1MPP1dy9l25I6Rlj00D25UvnIT6qRse86s-e4ff3zGeW5ggT3zyhMNajLXvSr6Gu8tFNn-goLAXt53TyTHzPk5QMwjLqiPs=",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-34-leis-de-morgan_ref_id_002",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-34-leis-de-morgan",
+      "reference_type": "Documento Online",
+      "author_name": "Scribd",
+      "title": "Leis de Morgan para Concursos: Guia Prático",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHYzquxpv_UFDVjM93OKhnO_KHOyHGPoJEWpChQz4Yb7RX53RGKTJjUgBndXUlQ6Csf7b87k0H6ForG7d0IWHMp_JCvsc9hDmGpDUZBuLbKKEYp-h_LkktwMK93RSnPUzmVg3ps9NQYUkUppCX1Sd8WaGN5AytUsoHHP-BL1UqFw5rykdN_jH9bhUGRLEuJ76xEEjGWrewjh_BKicWKtPAkwRYdkCimiYPc",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-34-leis-de-morgan_ref_id_003",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-34-leis-de-morgan",
+      "reference_type": "Enciclopédia Online",
+      "author_name": "Wikipédia",
+      "title": "Teoremas de De Morgan",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF2qU84a2A2DoBx58ddqHsvs7IpXsdi-zC-eGbG85A59uKggOSWod4ldDn1iOwOrzhtW_4zFPIoRGBe4WQAPxywOZ78X4loq_RsgdkChOi69IZEsbDCWoM7cnsukC1zWSLxCNBVlBVWzW_W69wexQ==",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-34-leis-de-morgan_ref_id_004",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-34-leis-de-morgan",
+      "reference_type": "Material Didático Online",
+      "author_name": "DCC/UFMG",
+      "title": "Fundamentos da Lógica Lógica Proposicional",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHHFaAk2lZSiOjxrREMZnAzDjMStSoTxzh44GKRTuJuJBsfZ-ysotrKS6-hyz-uXCjBP_A8oim-j8IwnWOunEUGX6D69S_vwG8kxaNAbAy2-EmjQKzxzghDlvxjKD44Vtu1MWfw2tOlX8VaPDp-bgaenzEuJFXuOJEjTRY=",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-34-leis-de-morgan_ref_id_005",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-34-leis-de-morgan",
+      "reference_type": "Material Didático Online",
+      "author_name": "FACOM/UFU",
+      "title": "Apostila de Lógica Proposicional (Fundamentos Básicos)",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGcjYUZcBhjAeHKYUVTtdxhPhdArt2mM7bfR2P1FFH_3S7XY1XiwrRWcUZ5i2pAGhh5zYX8VZiDS4Zde233dlJRyBBKTQ7DOP3tlx1mnJnsjfk2nSyzQzpKPfXHc5HY_EM1SQNa77EyKLIUgOj9wxuQTMiqGtw11ErdKdtliPZ07Q==",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-34-leis-de-morgan_ref_id_006",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-34-leis-de-morgan",
+      "reference_type": "Vídeo Online",
+      "author_name": "Concurseiro Nômade",
+      "title": "leis de Morgan - Questões CEBRASPE / CESPE - CONCURSO APM IBGE",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.youtube.com/watch?v=s2-y_03vJ40",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-34-leis-de-morgan_ref_id_007",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-34-leis-de-morgan",
+      "reference_type": "Plataforma de Questões",
+      "author_name": "Gran Questões",
+      "title": "Questões de Concurso sobre Leis de Morgan",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://questoes.grancursosonline.com.br/questoes-de-concurso/leis-de-morgan",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-34-leis-de-morgan_ref_id_008",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-34-leis-de-morgan",
+      "reference_type": "Artigo Online",
+      "author_name": "Estratégia Concursos",
+      "title": "Resumo sobre as Leis de Morgan",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.estrategiaconcursos.com.br/blog/resumo-sobre-as-leis-de-morgan/",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-34-leis-de-morgan_ref_id_009",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-34-leis-de-morgan",
+      "reference_type": "Plataforma de Questões",
+      "author_name": "Qconcursos",
+      "title": "De acordo com as leis de Morgan, a proposição ¬[P∨(¬Q)... - Q1255056",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.qconcursos.com/questoes-de-concurso/questoes/1255056",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-34-leis-de-morgan_ref_id_010",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-34-leis-de-morgan",
+      "reference_type": "Vídeo Online",
+      "author_name": "Exatas pra Gabaritar",
+      "title": "LEI de DE MORGAN (MUITO COBRADO!) | 🕛☀️ MEIO DIA DAS EXATAS",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.youtube.com/watch?v=0_2_0_2_0_2",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-34-leis-de-morgan_ref_id_011",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-34-leis-de-morgan",
+      "reference_type": "Plataforma de Questões",
+      "author_name": "Qconcursos",
+      "title": "Questões de Concurso Comentadas sobre Raciocínio Lógico para SEFAZ-AL",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.qconcursos.com/questoes-de-concurso/disciplinas/raciocinio-logico/sefaz-al",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-34-leis-de-morgan_ref_id_012",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-34-leis-de-morgan",
+      "reference_type": "Artigo Online",
+      "author_name": "Estratégia Concursos",
+      "title": "Cobrança CESPE: análise completa da banca e estratégias de prova!",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.estrategiaconcursos.com.br/blog/cobranca-cespe/",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-34-leis-de-morgan_ref_id_013",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-34-leis-de-morgan",
+      "reference_type": "Vídeo Online",
+      "author_name": "Professor Arthur Lima",
+      "title": "CESPE18Q050 - CESPE / CEBRASPE - 2018 - PF - LEIS DE MORGAN",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.youtube.com/watch?v=s2-y_03vJ40",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-34-leis-de-morgan_ref_id_014",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-34-leis-de-morgan",
+      "reference_type": "Vídeo Online",
+      "author_name": "Professor Arthur Lima",
+      "title": "CESPE / CEBRASPE - 2017 - TRF1 - LEIS DE MORGAN - RESOLUÇÃO DE QUESTÕES",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.youtube.com/watch?v=s2-y_03vJ40",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-34-leis-de-morgan_ref_id_015",
+      "material_id": "3-raciocínio-lógico-e-noções-de-estatística-3-lógica-sentencial-ou-proposicional-34-leis-de-morgan",
+      "reference_type": "Vídeo Online",
+      "author_name": "Professor Josué",
+      "title": "Question 162 - Logical Reasoning - Morgan's Law - CEBRASPE - Federal Police",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.youtube.com/watch?v=s2-y_03vJ40",
+      "accessed_at": null,
+      "description": null
+    }
+  ],
+  "estatisticas_de_geracao": {
+    "total_topicos": 1,
+    "total_componentes_topico": 5,
+    "total_entendimentos_relevantes": 3,
+    "total_pegadinhas": 4,
+    "total_pontos_memorizacao": 3,
+    "total_itens_quadro_sinotico": 2,
+    "total_questoes": 8,
+    "total_comentarios_questoes": 8,
+    "total_itens_checklist": 6,
+    "total_referencias": 15
+  },
+  "validacao_interna": {
+    "pesquisa_previa_realizada": true,
+    "analise_de_cobrancas_anteriores_realizada": true,
+    "material_atualizado": true,
+    "json_valido": true,
+    "estrutura_relacional_respeitada": true,
+    "numeracao_respeitada": true,
+    "houve_quebra_de_hierarquia": false,
+    "houve_nivel_numerico_superior_a_3": false,
+    "fontes_verificadas": true,
+    "sem_informacao_inventada": true
+  },
+  "metadata": {
+    "source_file_name": "3__raciocínio-lógico-e-noções-de-estatística__3-lógica-sentencial-ou-proposicional-3.4-leis-de-morgan.json",
+    "normalized_checksum": "2f8b2f8b6450cd05908b60cf84ab12d5987fa57c0420a667077f964322befb74",
+    "subject_slug": "rlog-estat",
+    "material_slug": "leis-de-morgan-raciocinio-logico",
+    "title_slug": "leis-de-morgan-teoria-completa-e-aplicacao-em",
+    "board_slug": "cebraspe",
+    "counters": {
+      "blocks": 6,
+      "topics": 1,
+      "topic_components": 5,
+      "traps": 4,
+      "memory_points": 3,
+      "summary_items": 2,
+      "questions": 8,
+      "question_comments": 8,
+      "checklist_items": 6,
+      "references": 15
+    }
+  }
+}

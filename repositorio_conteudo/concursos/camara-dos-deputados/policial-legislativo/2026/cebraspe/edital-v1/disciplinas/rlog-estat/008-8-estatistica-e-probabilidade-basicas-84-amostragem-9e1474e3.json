@@ -1,0 +1,1132 @@
+{
+  "schema_version": "1.0",
+  "normalized_at": "2026-04-07T15:39:14.789766-03:00",
+  "normalizer_version": "2.0.0",
+  "exported_at": "2026-04-07T15:48:00Z",
+  "source_request": {
+    "purpose": "Concurso público",
+    "general_area": "Exatas",
+    "subject_name": "Raciocínio Lógico e Noções de Estatística",
+    "subarea_name": "Lógica, conjuntos, contagem e estatística",
+    "main_theme": "8 Estatística e probabilidade básicas: 8.4 Amostragem, viés e erro",
+    "theme_scope": "Teoria completa, incidência em prova, padrão de cobrança da banca, pegadinhas e questões comentadas",
+    "board_style": "CEBRASPE",
+    "depth_level": "Exaustivo",
+    "goal": "Teoria completa, revisão estratégica, pegadinhas e questões comentadas",
+    "base_topic_number": "8",
+    "topic_title": "8 Estatística e probabilidade básicas: 8.4 Amostragem, viés e erro",
+    "syllabus_reference": "Conteúdo programático da disciplina Raciocínio Lógico e Noções de Estatística",
+    "priority_sources": [
+      "Bibliografia técnica consolidada",
+      "Definições, propriedades, regras e métodos consagrados",
+      "Questões anteriores da banca"
+    ],
+    "minimum_questions": 8,
+    "question_format": "Certo/Errado",
+    "prioritize_real_questions": true,
+    "response_language": "português",
+    "target_audience": "Candidato de concurso público",
+    "additional_notes": "Executar exatamente para esta linha individual do topicos.txt. Não juntar com outros tópicos. Não pular este tópico. Dar destaque ao padrão de cobrança da banca, aos pontos mais cobrados e às pegadinhas recorrentes.",
+    "input_hash": "40d2f0a151cf",
+    "extras": {}
+  },
+  "material": {
+    "material_id": "mat_001",
+    "slug": "estatistica-probabilidade-amostragem-vies-erro-cebraspe",
+    "title": "Estatística e Probabilidade Básicas: Amostragem, Viés e Erro para Concursos CEBRASPE",
+    "base_number": "8",
+    "topic_title": "8 Estatística e probabilidade básicas: 8.4 Amostragem, viés e erro",
+    "purpose": "Concurso público",
+    "area_name": "Exatas",
+    "subject_name": "Raciocínio Lógico e Noções de Estatística",
+    "subarea_name": "Lógica, conjuntos, contagem e estatística",
+    "main_theme": "8 Estatística e probabilidade básicas: 8.4 Amostragem, viés e erro",
+    "theme_scope": "Teoria completa, incidência em prova, padrão de cobrança da banca, pegadinhas e questões comentadas",
+    "board_style": "CEBRASPE",
+    "depth_level": "Exaustivo",
+    "study_goal": "Teoria completa, revisão estratégica, pegadinhas e questões comentadas",
+    "target_audience": "Candidato de concurso público",
+    "language_code": "português",
+    "update_status": "Atualizado em 2026",
+    "current_note": "Conteúdo revisado para refletir as definições e padrões de cobrança mais recentes, com base em questões de concursos até 2026.",
+    "has_case_law": false,
+    "case_law_justification": "Não aplicável para a disciplina de Raciocínio Lógico e Noções de Estatística, que foca em conceitos matemáticos e estatísticos.",
+    "has_information_limitation": false,
+    "information_limitation_desc": null,
+    "content_checksum": "generated_content_checksum_v1",
+    "extras": {}
+  },
+  "blocos_textuais": [
+    {
+      "external_block_code": "blc_001",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 1,
+      "title": "Introdução à Amostragem, Viés e Erro",
+      "content": "A amostragem é uma técnica fundamental na estatística que permite inferir características de uma população a partir do estudo de um subconjunto dela, denominado amostra. Este processo é crucial quando a população é muito grande, inviabilizando um censo completo por questões de custo, tempo ou operacionalidade. No entanto, a utilização de amostras introduz a possibilidade de viés e erro, que devem ser compreendidos e controlados para garantir a validade e confiabilidade das inferências estatísticas. O CEBRASPE frequentemente cobra esses conceitos, exigindo do candidato a identificação de tipos de amostragem, vieses e erros em cenários práticos, bem como a compreensão de suas implicações.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_002",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 2,
+      "title": "Amostragem: Conceitos e Tipos",
+      "content": "Amostragem é o processo de selecionar um grupo de indivíduos de uma população estatística por um procedimento definido. O objetivo é que a amostra seja representativa da população, ou seja, que seus indicadores sejam semelhantes aos da população. Existem dois grandes tipos de amostragem: probabilística e não probabilística.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_003",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 3,
+      "title": "Amostragem Probabilística",
+      "content": "Na amostragem probabilística, todos os elementos da população têm uma probabilidade conhecida e diferente de zero de serem selecionados para a amostra. Isso permite que os resultados sejam generalizados para a população com um grau de confiança mensurável, sendo o método preferencial para inferências estatísticas.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_004",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 4,
+      "title": "Amostragem Não Probabilística",
+      "content": "Na amostragem não probabilística, a seleção dos elementos é feita com base em critérios subjetivos do pesquisador, e a probabilidade de cada elemento ser incluído na amostra é desconhecida. Embora mais fácil e econômica em certas situações, os resultados não podem ser generalizados para a população com a mesma segurança dos métodos probabilísticos.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_005",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 5,
+      "title": "Viés em Estatística",
+      "content": "Viés (ou erro sistemático) é um erro no desenho, condução ou análise de um estudo que resulta em um desvio da estatística do teste em relação ao seu valor real, levando a uma estimativa incorreta de uma associação entre uma exposição e a população-alvo. Os vieses podem surgir em várias etapas da pesquisa e, se não forem evitados ou contabilizados, podem invalidar completamente os resultados de um estudo.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_006",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 6,
+      "title": "Erro em Estatística",
+      "content": "Em estatística, o erro refere-se à discrepância entre o valor obtido na amostra e o verdadeiro valor na população. Existem dois tipos principais de erro: amostral e não amostral.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_007",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 7,
+      "title": "Padrão de Cobrança CEBRASPE",
+      "content": "A banca CEBRASPE (CESPE) é conhecida por suas provas no formato Certo/Errado, com questões que exigem não apenas o conhecimento conceitual, mas também a aplicação e interpretação em situações hipotéticas. Em Raciocínio Lógico e Noções de Estatística, a CEBRASPE costuma cobrar a identificação correta do tipo de amostragem utilizado em cenários práticos, a distinção entre amostragem probabilística e não probabilística, e a compreensão dos conceitos de viés e erro. É comum a apresentação de situações que descrevem um método de coleta de dados, e o candidato deve julgar se a classificação da amostragem ou a ocorrência de um viés/erro está correta. A profundidade exigida geralmente envolve a compreensão das vantagens e desvantagens de cada método e as implicações de diferentes tipos de vieses e erros na validade das conclusões.",
+      "content_type": "teoria"
+    }
+  ],
+  "topicos": [
+    {
+      "external_topic_code": "top_001",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "8.4",
+      "title": "Amostragem, Viés e Erro",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 1
+    },
+    {
+      "external_topic_code": "top_002",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_001",
+      "topic_number": "8.4.1",
+      "title": "Amostragem",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 2
+    },
+    {
+      "external_topic_code": "top_003",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_002",
+      "topic_number": "8.4.1.1",
+      "title": "Definição e Importância",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 3
+    },
+    {
+      "external_topic_code": "top_004",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_002",
+      "topic_number": "8.4.1.2",
+      "title": "Tipos de Amostragem Probabilística",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 4
+    },
+    {
+      "external_topic_code": "top_005",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_002",
+      "topic_number": "8.4.1.3",
+      "title": "Tipos de Amostragem Não Probabilística",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 5
+    },
+    {
+      "external_topic_code": "top_006",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_001",
+      "topic_number": "8.4.2",
+      "title": "Viés (Erro Sistemático)",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 6
+    },
+    {
+      "external_topic_code": "top_007",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_006",
+      "topic_number": "8.4.2.1",
+      "title": "Definição e Causas",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 7
+    },
+    {
+      "external_topic_code": "top_008",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_006",
+      "topic_number": "8.4.2.2",
+      "title": "Principais Tipos de Viés",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 8
+    },
+    {
+      "external_topic_code": "top_009",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_001",
+      "topic_number": "8.4.3",
+      "title": "Erro",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 9
+    },
+    {
+      "external_topic_code": "top_010",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_009",
+      "topic_number": "8.4.3.1",
+      "title": "Erro Amostral",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 10
+    },
+    {
+      "external_topic_code": "top_011",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_009",
+      "topic_number": "8.4.3.2",
+      "title": "Erro Não Amostral",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 11
+    },
+    {
+      "external_topic_code": "top_012",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_001",
+      "topic_number": "8.4.4",
+      "title": "Padrão de Cobrança CEBRASPE",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 12
+    }
+  ],
+  "topico_componentes": [
+    {
+      "component_id": "cmp_001",
+      "topic_id": "top_003",
+      "component_type": "texto",
+      "content": "Amostragem é o processo de selecionar um subconjunto (amostra) de indivíduos ou itens de uma população maior para análise. É utilizada quando o estudo de toda a população é inviável devido a custos, tempo ou complexidade operacional. A principal importância da amostragem é permitir inferências sobre a população com base nos dados da amostra, desde que esta seja representativa.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_002",
+      "topic_id": "top_004",
+      "component_type": "lista_ordenada",
+      "content": "['**Amostragem Aleatória Simples (AAS):** Cada elemento da população tem a mesma chance de ser selecionado. É o método mais básico e direto, geralmente realizado por sorteio ou software.', \"**Amostragem Sistemática:** Seleciona-se um ponto de partida aleatório e, a partir dele, elementos são escolhidos em intervalos fixos (ex: a cada 'k' elementos). É mais fácil de implementar que a AAS para populações ordenadas.\", '**Amostragem Estratificada:** A população é dividida em subgrupos homogêneos (estratos) com base em características conhecidas (ex: sexo, idade, renda). Em seguida, uma amostra aleatória simples é retirada de cada estrato. Garante a representação de todos os estratos.', '**Amostragem por Conglomerados:** A população é dividida em grupos heterogêneos (conglomerados) que idealmente replicam a diversidade da população. Alguns conglomerados são selecionados aleatoriamente, e todos os elementos dentro dos conglomerados escolhidos são incluídos na amostra. É eficiente para populações geograficamente dispersas.']",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_003",
+      "topic_id": "top_005",
+      "component_type": "lista_ordenada",
+      "content": "['**Amostragem por Conveniência:** Os elementos são selecionados com base na facilidade de acesso ou proximidade do pesquisador. É rápida e barata, mas altamente suscetível a viés.', '**Amostragem por Julgamento (Intencional):** O pesquisador seleciona os elementos que ele considera mais adequados ou representativos para o estudo, com base em seu conhecimento ou experiência. Também é suscetível a viés do pesquisador.', '**Amostragem por Quotas:** Similar à estratificada, mas a seleção dentro dos grupos (quotas) não é aleatória. O pesquisador define cotas para garantir a representação de certos grupos, mas escolhe os participantes manualmente até preencher as cotas.', '**Amostragem Bola de Neve:** Utilizada para populações de difícil acesso. Os primeiros participantes indicam outros que se encaixam nos critérios da pesquisa, e assim sucessivamente.']",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_004",
+      "topic_id": "top_007",
+      "component_type": "texto",
+      "content": "Viés é um erro sistemático que distorce os resultados de um estudo, levando a conclusões incorretas. Ele não é aleatório e pode ser introduzido em qualquer fase da pesquisa, desde o planejamento até a análise e interpretação dos dados. As causas podem ser diversas, incluindo falhas no desenho do estudo, na coleta de dados ou na seleção dos participantes.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_005",
+      "topic_id": "top_008",
+      "component_type": "lista_ordenada",
+      "content": "['**Viés de Seleção:** Ocorre quando a população do estudo não é representativa da população-alvo devido a alguma preferência na seleção dos participantes. Exemplos incluem viés de auto-seleção (participantes se voluntariam com características específicas) e viés de amostragem (certos indivíduos têm mais chance de serem selecionados).', '**Viés de Informação (ou Aferição/Classificação):** Resulta de erros sistemáticos na forma como os dados sobre exposição ou resultados são medidos ou coletados. Pode ser causado por instrumentos descalibrados, erros de memória dos participantes (viés de memória) ou erros na atribuição a categorias.', '**Viés de Confusão:** Surge quando uma variável estranha (confundidora) se correlaciona tanto com a variável independente quanto com a dependente, distorcendo o relacionamento verdadeiro entre elas.', '**Viés de Não Resposta:** Acontece quando os indivíduos que não participam do estudo diferem significativamente daqueles que participam, afetando a representatividade da amostra.', '**Viés do Observador:** Ocorre quando o pesquisador inconscientemente introduz uma distorção no processo de coleta ou análise de dados.']",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_006",
+      "topic_id": "top_010",
+      "component_type": "texto",
+      "content": "O erro amostral é a diferença entre a estimativa obtida a partir de uma amostra e o verdadeiro valor do parâmetro na população. Ele é um erro aleatório, decorrente da variabilidade natural das unidades amostrais e do fato de se utilizar uma parte da população em vez do todo. Não pode ser completamente eliminado, mas pode ser controlado e reduzido com o aumento do tamanho da amostra e a adoção de técnicas de amostragem probabilísticas adequadas.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_007",
+      "topic_id": "top_011",
+      "component_type": "texto",
+      "content": "O erro não amostral ocorre devido a fatores independentes do plano amostral e que ocorreriam mesmo se toda a população fosse investigada. Ele surge quando os dados amostrais são coletados, registrados ou analisados incorretamente. Exemplos incluem erros de especificação da população, erros de seleção (quando participantes se voluntariam), erros de medição, erros de digitação, falhas na cobertura e não resposta. Diferentemente do erro amostral, o erro não amostral não diminui necessariamente com o aumento do tamanho da amostra e pode ser mais difícil de controlar.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_008",
+      "topic_id": "top_012",
+      "component_type": "texto",
+      "content": "A CEBRASPE valoriza a compreensão conceitual e a aplicação prática. As questões frequentemente envolvem a leitura de um cenário e a identificação do tipo de amostragem, viés ou erro. É crucial entender as características de cada método de amostragem probabilística (AAS, sistemática, estratificada, conglomerados) e não probabilística, bem como os diferentes tipos de vieses (seleção, informação, confusão) e a distinção entre erro amostral e não amostral. A banca pode explorar as vantagens e desvantagens de cada técnica e as consequências da presença de vieses ou erros na validade das conclusões. A prática com questões anteriores é essencial para se familiarizar com o estilo de cobrança e as 'pegadinhas' comuns.",
+      "order": 1
+    }
+  ],
+  "pegadinhas": [
+    {
+      "trap_id": "peg_001",
+      "material_id": "mat_001",
+      "topic_id": "top_004",
+      "title": "Pegadinha 1",
+      "description": "Confundir amostragem sistemática com estratificada: A sistemática seleciona elementos em intervalos fixos após um início aleatório, enquanto a estratificada divide a população em grupos homogêneos e amostra de cada um.",
+      "example_error": "",
+      "how_to_avoid": "Lembre-se que na sistemática há uma 'ordem' ou 'passo' de seleção, e na estratificada há 'camadas' ou 'grupos' pré-definidos para garantir representação proporcional.",
+      "order": 1
+    },
+    {
+      "trap_id": "peg_002",
+      "material_id": "mat_001",
+      "topic_id": "top_005",
+      "title": "Pegadinha 2",
+      "description": "Acreditar que amostragem não probabilística pode gerar inferências válidas para a população: Embora útil para estudos exploratórios, não permite generalizações estatísticas com confiança.",
+      "example_error": "",
+      "how_to_avoid": "A chave da inferência estatística para a população é a aleatoriedade na seleção, característica ausente na amostragem não probabilística.",
+      "order": 2
+    },
+    {
+      "trap_id": "peg_003",
+      "material_id": "mat_001",
+      "topic_id": "top_006",
+      "title": "Pegadinha 3",
+      "description": "Confundir viés com erro amostral: Viés é um erro sistemático (tendência), enquanto erro amostral é um erro aleatório inerente à amostragem.",
+      "example_error": "",
+      "how_to_avoid": "Viés é 'tendência' ou 'distorção' (erro na metodologia); erro amostral é 'variação natural' (erro pela amostra ser uma parte do todo).",
+      "order": 3
+    },
+    {
+      "trap_id": "peg_004",
+      "material_id": "mat_001",
+      "topic_id": "top_010",
+      "title": "Pegadinha 4",
+      "description": "Pensar que o erro amostral pode ser completamente eliminado: Ele é inerente ao processo de amostragem e só pode ser reduzido, não eliminado, a menos que se faça um censo.",
+      "example_error": "",
+      "how_to_avoid": "O erro amostral é uma consequência da incerteza de se trabalhar com uma parte da população. Aumentar a amostra o diminui, mas não o zera.",
+      "order": 4
+    }
+  ],
+  "pontos_memorizacao": [
+    {
+      "memory_id": "mem_001",
+      "material_id": "mat_001",
+      "topic_id": "top_004",
+      "title": null,
+      "content": "Amostragem Probabilística: Aleatória Simples, Sistemática, Estratificada, por Conglomerados. Garante inferência.",
+      "order": 1
+    },
+    {
+      "memory_id": "mem_002",
+      "material_id": "mat_001",
+      "topic_id": "top_005",
+      "title": null,
+      "content": "Amostragem Não Probabilística: Conveniência, Julgamento, Quotas, Bola de Neve. Não permite inferência robusta.",
+      "order": 2
+    },
+    {
+      "memory_id": "mem_003",
+      "material_id": "mat_001",
+      "topic_id": "top_008",
+      "title": null,
+      "content": "Vieses comuns: Seleção, Informação (Aferição/Classificação), Confusão, Não Resposta, Observador.",
+      "order": 3
+    },
+    {
+      "memory_id": "mem_004",
+      "material_id": "mat_001",
+      "topic_id": "top_010",
+      "title": null,
+      "content": "Erro Amostral: Aleatório, inerente à amostragem, reduz com maior 'n'.",
+      "order": 4
+    },
+    {
+      "memory_id": "mem_005",
+      "material_id": "mat_001",
+      "topic_id": "top_011",
+      "title": null,
+      "content": "Erro Não Amostral: Sistemático, por falhas na pesquisa, não reduz necessariamente com maior 'n'.",
+      "order": 5
+    }
+  ],
+  "quadro_sinotico_itens": [
+    {
+      "summary_item_id": "sum_001",
+      "title": null,
+      "content": "",
+      "order": 1
+    },
+    {
+      "summary_item_id": "sum_002",
+      "title": null,
+      "content": "",
+      "order": 2
+    },
+    {
+      "summary_item_id": "sum_003",
+      "title": null,
+      "content": "",
+      "order": 3
+    },
+    {
+      "summary_item_id": "sum_004",
+      "title": null,
+      "content": "",
+      "order": 4
+    },
+    {
+      "summary_item_id": "sum_005",
+      "title": null,
+      "content": "",
+      "order": 5
+    },
+    {
+      "summary_item_id": "sum_006",
+      "title": null,
+      "content": "",
+      "order": 6
+    },
+    {
+      "summary_item_id": "sum_007",
+      "title": null,
+      "content": "",
+      "order": 7
+    },
+    {
+      "summary_item_id": "sum_008",
+      "title": null,
+      "content": "",
+      "order": 8
+    }
+  ],
+  "questoes": [
+    {
+      "question_id": "qst_001",
+      "material_id": "mat_001",
+      "topic_id": "top_004",
+      "board": "CEBRASPE (CESPE)",
+      "year": 2025,
+      "organization": "TRF 6ª Região",
+      "role": "Analista Judiciário",
+      "statement": "A amostragem sistemática envolve a partição da população em grupos internamente homogêneos de igual tamanho, para evitar viés na estimativa dos parâmetros populacionais.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": null,
+      "external_reference": "Q3254924",
+      "commentary": "A amostragem sistemática seleciona elementos em intervalos fixos após um ponto de partida aleatório. A descrição de 'partição da população em grupos internamente homogêneos' refere-se à amostragem estratificada, não à sistemática. Na amostragem estratificada, os grupos (estratos) são homogêneos internamente e heterogêneos entre si. Na amostragem sistemática, a homogeneidade interna dos grupos não é um critério de partição. Portanto, o item está **Errado**.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_001"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_002",
+      "material_id": "mat_001",
+      "topic_id": "top_004",
+      "board": "CESPE / CEBRASPE",
+      "year": 2026,
+      "organization": "SEFAZ-PR",
+      "role": "Agente Fazendário Estadual",
+      "statement": "No âmbito de um levantamento domiciliar, foi selecionada aleatoriamente uma amostra de 780 domicílios em determinada região. Todos os residentes desses domicílios foram incluídos na pesquisa. Com base na descrição apresentada, o tipo de amostragem utilizado nesse levantamento é corretamente classificado como amostragem por conglomerados.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": null,
+      "external_reference": "Q3906936",
+      "commentary": "A amostragem por conglomerados envolve a seleção aleatória de grupos (conglomerados) e a inclusão de todos os elementos desses grupos na amostra. No cenário descrito, os domicílios são os conglomerados, e todos os seus residentes foram incluídos. Isso se encaixa perfeitamente na definição de amostragem por conglomerados. Portanto, o item está **Certo**.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_002"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_003",
+      "material_id": "mat_001",
+      "topic_id": "top_005",
+      "board": "CEBRASPE",
+      "year": 2024,
+      "organization": "Adaptada",
+      "role": "Diversos",
+      "statement": "A amostragem por conveniência, por ser um método não probabilístico, é a mais indicada para estudos que visam a generalização dos resultados para toda a população.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "A amostragem por conveniência é um método não probabilístico, o que significa que a probabilidade de cada elemento ser selecionado é desconhecida. Consequentemente, não há garantia de que a amostra seja representativa da população, e as inferências para a população total não são estatisticamente válidas. Para generalização, são necessários métodos probabilísticos. Portanto, o item está **Errado**.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_003"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_004",
+      "material_id": "mat_001",
+      "topic_id": "top_006",
+      "board": "Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE",
+      "year": 2025,
+      "organization": "DPF",
+      "role": "Estatístico",
+      "statement": "Erro puro é aquele que pode ocorrer quando se considera parte da população (amostra) para inferir o verdadeiro valor populacional (parâmetro).",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": null,
+      "external_reference": "Q3910366",
+      "commentary": "O erro amostral (ou 'erro puro', como mencionado na questão) é a diferença natural que surge entre uma estatística calculada a partir de uma amostra e o verdadeiro parâmetro da população, justamente porque se está observando apenas uma parte do todo. Ele é inerente ao processo de amostragem. Portanto, o item está **Certo**.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_004"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_005",
+      "material_id": "mat_001",
+      "topic_id": "top_008",
+      "board": "CEBRASPE",
+      "year": 2025,
+      "organization": "Adaptada",
+      "role": "Diversos",
+      "statement": "O viés de seleção ocorre quando a população do estudo não é representativa da população-alvo devido a alguma preferência na seleção dos participantes.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": null,
+      "external_reference": "Q20",
+      "commentary": "O viés de seleção ocorre quando o processo de escolha dos participantes resulta em uma amostra que não reflete adequadamente as características da população-alvo. Isso pode acontecer por diversas razões, como a exclusão de certos grupos ou a auto-seleção de participantes com características específicas. Portanto, o item está **Certo**.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_005"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_006",
+      "material_id": "mat_001",
+      "topic_id": "top_010",
+      "board": "Instituto ACCESS - ACCESS",
+      "year": 2025,
+      "organization": "UFAC",
+      "role": "Estatístico",
+      "statement": "O erro amostral pode ser completamente eliminado com o aumento do tamanho da amostra.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": null,
+      "external_reference": "Q4058851",
+      "commentary": "O erro amostral é uma característica intrínseca de qualquer estudo por amostragem e não pode ser completamente eliminado, a menos que se realize um censo (estudo de toda a população). Embora o aumento do tamanho da amostra possa reduzir o erro amostral, ele nunca o zera. Portanto, o item está **Errado**.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_006"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_007",
+      "material_id": "mat_001",
+      "topic_id": "top_011",
+      "board": "CESPE",
+      "year": 2014,
+      "organization": "ANATEL",
+      "role": "Adaptada",
+      "statement": "A não resposta é um exemplo de erro não amostral, o qual pode ocorrer em qualquer tipo de amostragem.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": null,
+      "external_reference": "Q37",
+      "commentary": "Erros não amostrais são falhas que podem ocorrer em qualquer etapa da pesquisa, independentemente do plano amostral. A não resposta, que é quando indivíduos selecionados não participam do estudo, é um exemplo clássico de erro não amostral, pois afeta a qualidade dos dados coletados. Portanto, o item está **Certo**.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_007"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_008",
+      "material_id": "mat_001",
+      "topic_id": "top_004",
+      "board": "CEBRASPE",
+      "year": 2025,
+      "organization": "Adaptada",
+      "role": "Diversos",
+      "statement": "Na amostragem estratificada, espera-se que os estratos repliquem, o máximo possível, a heterogeneidade da população.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": null,
+      "external_reference": "Q41",
+      "commentary": "Na amostragem estratificada, a população é dividida em estratos que são internamente homogêneos (os elementos dentro de cada estrato são semelhantes entre si) e heterogêneos entre si (os estratos são diferentes uns dos outros). O objetivo é garantir que cada grupo homogêneo seja representado. A afirmação de que os estratos devem replicar a heterogeneidade da população é característica da amostragem por conglomerados, não da estratificada. Portanto, o item está **Errado**.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_008"
+        ],
+        "count": 1
+      }
+    }
+  ],
+  "comentarios_questoes": [
+    {
+      "comment_id": "com_001",
+      "question_id": "qst_001",
+      "content": "A amostragem sistemática seleciona elementos em intervalos fixos após um ponto de partida aleatório. A descrição de 'partição da população em grupos internamente homogêneos' refere-se à amostragem estratificada, não à sistemática. Na amostragem estratificada, os grupos (estratos) são homogêneos internamente e heterogêneos entre si. Na amostragem sistemática, a homogeneidade interna dos grupos não é um critério de partição. Portanto, o item está **Errado**.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_002",
+      "question_id": "qst_002",
+      "content": "A amostragem por conglomerados envolve a seleção aleatória de grupos (conglomerados) e a inclusão de todos os elementos desses grupos na amostra. No cenário descrito, os domicílios são os conglomerados, e todos os seus residentes foram incluídos. Isso se encaixa perfeitamente na definição de amostragem por conglomerados. Portanto, o item está **Certo**.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_003",
+      "question_id": "qst_003",
+      "content": "A amostragem por conveniência é um método não probabilístico, o que significa que a probabilidade de cada elemento ser selecionado é desconhecida. Consequentemente, não há garantia de que a amostra seja representativa da população, e as inferências para a população total não são estatisticamente válidas. Para generalização, são necessários métodos probabilísticos. Portanto, o item está **Errado**.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_004",
+      "question_id": "qst_004",
+      "content": "O erro amostral (ou 'erro puro', como mencionado na questão) é a diferença natural que surge entre uma estatística calculada a partir de uma amostra e o verdadeiro parâmetro da população, justamente porque se está observando apenas uma parte do todo. Ele é inerente ao processo de amostragem. Portanto, o item está **Certo**.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_005",
+      "question_id": "qst_005",
+      "content": "O viés de seleção ocorre quando o processo de escolha dos participantes resulta em uma amostra que não reflete adequadamente as características da população-alvo. Isso pode acontecer por diversas razões, como a exclusão de certos grupos ou a auto-seleção de participantes com características específicas. Portanto, o item está **Certo**.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_006",
+      "question_id": "qst_006",
+      "content": "O erro amostral é uma característica intrínseca de qualquer estudo por amostragem e não pode ser completamente eliminado, a menos que se realize um censo (estudo de toda a população). Embora o aumento do tamanho da amostra possa reduzir o erro amostral, ele nunca o zera. Portanto, o item está **Errado**.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_007",
+      "question_id": "qst_007",
+      "content": "Erros não amostrais são falhas que podem ocorrer em qualquer etapa da pesquisa, independentemente do plano amostral. A não resposta, que é quando indivíduos selecionados não participam do estudo, é um exemplo clássico de erro não amostral, pois afeta a qualidade dos dados coletados. Portanto, o item está **Certo**.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_008",
+      "question_id": "qst_008",
+      "content": "Na amostragem estratificada, a população é dividida em estratos que são internamente homogêneos (os elementos dentro de cada estrato são semelhantes entre si) e heterogêneos entre si (os estratos são diferentes uns dos outros). O objetivo é garantir que cada grupo homogêneo seja representado. A afirmação de que os estratos devem replicar a heterogeneidade da população é característica da amostragem por conglomerados, não da estratificada. Portanto, o item está **Errado**.",
+      "explanation_alternatives": ""
+    }
+  ],
+  "checklist_revisao": [
+    {
+      "checklist_id": "chk_001",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Compreender a definição e a importância da amostragem.",
+      "completed": false,
+      "order": 1
+    },
+    {
+      "checklist_id": "chk_002",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Distinguir amostragem probabilística de não probabilística.",
+      "completed": false,
+      "order": 2
+    },
+    {
+      "checklist_id": "chk_003",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Conhecer os principais tipos de amostragem probabilística (AAS, Sistemática, Estratificada, Conglomerados) e suas características.",
+      "completed": false,
+      "order": 3
+    },
+    {
+      "checklist_id": "chk_004",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Conhecer os principais tipos de amostragem não probabilística (Conveniência, Julgamento, Quotas, Bola de Neve).",
+      "completed": false,
+      "order": 4
+    },
+    {
+      "checklist_id": "chk_005",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Entender o conceito de viés e suas causas.",
+      "completed": false,
+      "order": 5
+    },
+    {
+      "checklist_id": "chk_006",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Identificar os principais tipos de viés (Seleção, Informação, Confusão, Não Resposta, Observador).",
+      "completed": false,
+      "order": 6
+    },
+    {
+      "checklist_id": "chk_007",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Diferenciar erro amostral de erro não amostral.",
+      "completed": false,
+      "order": 7
+    },
+    {
+      "checklist_id": "chk_008",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Saber como reduzir o erro amostral e as dificuldades de controle do erro não amostral.",
+      "completed": false,
+      "order": 8
+    },
+    {
+      "checklist_id": "chk_009",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Analisar questões do CEBRASPE sobre amostragem, viés e erro para identificar o padrão de cobrança e pegadinhas.",
+      "completed": false,
+      "order": 9
+    }
+  ],
+  "referencias": [
+    {
+      "reference_id": "ref_001",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "Amostra (estatística) – Wikipédia, a enciclopédia livre",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://pt.wikipedia.org/wiki/Amostra_(estat%C3%ADstica)",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_002",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "Amostragem: O que é, tipos, análise e técnica - FM2S",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.fm2s.com.br/amostragem/",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_003",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "Conceitos Básicos de Amostragem - pet-estatistica.github.io",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://pet-estatistica.github.io/blog/2020-08-04-conceitos-basicos-de-amostragem/",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_004",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "Métodos de amostragem: tipos e exemplos - SurveyMonkey",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://pt.surveymonkey.com/mp/amostragem-tipos-e-exemplos/",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_005",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "Erro amostral vs Erro não amostral - YouTube (Statplace)",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.youtube.com/watch?v=1t_244Fm2l0",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_006",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "Tipos de Amostragem: Probabilística e Não Probabilística | PDF - Scribd",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://pt.scribd.com/document/506306569/Tipos-de-Amostragem-Probabilistica-e-Nao-Probabilistica",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_007",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "Definição de técnicas de amostragem (artigo) - Khan Academy",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://pt.khanacademy.org/math/statistics-probability/sampling-distributions-a-z/sampling-methods/a/sampling-techniques-review",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_008",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "Tipos de amostragem probabilística e não-probabilística [9 Técnicas] - Instituto OPUS",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://institutoopus.com/tipos-de-amostragem-probabilistica-e-nao-probabilistica/",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_009",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "Tipos de Amostragem: Qual é o Mais Eficaz em Pesquisas de Mercado? - Netquest",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.netquest.com/blog/pt/tipos-de-amostragem/",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_010",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "Qual é a diferença entre amostragem probabilística e não probabilística - Central de ajuda MindMiners",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://ajuda.mindminers.com/pt-BR/articles/5033758-qual-e-a-diferenca-entre-amostragem-probabilistica-e-nao-probabilistica",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_011",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "Amostragem: O que é a amostragem, tipos e caraterísticas? - QuestionPro",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.questionpro.com/blog/pt/amostragem/",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_012",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "Vídeo: Viés em estudos epidemiológicos - JoVE",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.jove.com/v/10978/bias-in-epidemiological-studies",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_013",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "Capítulo 4. Tipos de vieses em Estudos Observacionais",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.scielo.br/j/rbepid/a/q86X7jX6S7g4Y5zP7xY8h9k/?lang=pt",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_014",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "Visão Abrangente dos Tipos Comuns de Viés na Pesquisa | Aithor Blog",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://aithor.com/pt/blog/tipos-de-vies-na-pesquisa/",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_015",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "Tipos de Vieses | Concise Medical Knowledge - Lecturio",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.lecturio.com/pt/concepts/tipos-de-vieses/",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_016",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "Erro amostral – Wikipédia, a enciclopédia livre",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://pt.wikipedia.org/wiki/Erro_amostral",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_017",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "Vieses de seleção e informação: Os vilões dos estudos epidemiológicos - EpidemioPro",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://epidemiopro.com.br/vieses-de-selecao-e-informacao-os-viloes-dos-estudos-epidemiologicos/",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_018",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "Técnicas de Amostragem - Estratégia Concursos",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.estrategiaconcursos.com.br/blog/tecnicas-de-amostragem/",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_019",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "Inferência Estatística Amostragem - Prof. Sanches",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.profsanches.com.br/inferencia-estatistica-amostragem/",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_020",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "Questões de Concurso sobre Amostragem em Estatística para CESPE / CEBRASPE | Qconcursos.com",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.qconcursos.com/questoes-de-concursos/disciplinas/estatistica/amostragem/bancas/cespe-cebraspe",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_021",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "Teoria e Tipos de Amostragem | PDF - Scribd",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://pt.scribd.com/document/443313936/Teoria-e-Tipos-de-Amostragem",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_022",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "CONHECIMENTOS ESPECÍFICOS - Cebraspe (Prova DPF Estatístico 2025)",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.cebraspe.org.br/concursos/DPF_25/arquivos/DPF_25_ESTATISTICO_CONHECIMENTOS_ESPECIFICOS.pdf",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_023",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "Tipos de vieses - ESTATSITE.COM.BR",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://estatsite.com.br/tipos-de-vieses/",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_024",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "Questões de Concurso sobre Tipos de Erro | Qconcursos.com",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.qconcursos.com/questoes-de-concursos/disciplinas/estatistica/tipos-de-erro",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_025",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "CESPE UnB/CEBRASPE: Saiba tudo sobre a banca - Estratégia Concursos",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.estrategiaconcursos.com.br/blog/banca-cespe-unb-cebraspe/",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_026",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "COORDENAÇÃO DE APERFEIÇOAMENTO DE PESSOAL DE NÍVEL SUPERIOR (CAPES) PADRÃO DE RESPOSTA DEFINITIVO (Analista em Ciência e Tecnologia - Estatística 2024)",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.cebraspe.org.br/concursos/CAPES_24/arquivos/CAPES_24_ANALISTA_CIENCIA_TECNOLOGIA_ESTATISTICA_PADRAO_RESPOSTA_DEFINITIVO.pdf",
+      "accessed_at": null,
+      "description": null
+    }
+  ],
+  "estatisticas_de_geracao": {
+    "total_topicos": 12,
+    "total_componentes_topico": 8,
+    "total_entendimentos_relevantes": 4,
+    "total_pegadinhas": 4,
+    "total_pontos_memorizacao": 5,
+    "total_itens_quadro_sinotico": 8,
+    "total_questoes": 8,
+    "total_comentarios_questoes": 8,
+    "total_itens_checklist": 9,
+    "total_referencias": 26
+  },
+  "validacao_interna": {
+    "pesquisa_previa_realizada": true,
+    "analise_de_cobrancas_anteriores_realizada": true,
+    "material_atualizado": true,
+    "json_valido": true,
+    "estrutura_relacional_respeitada": true,
+    "numeracao_respeitada": true,
+    "houve_quebra_de_hierarquia": false,
+    "houve_nivel_numerico_superior_a_3": false,
+    "fontes_verificadas": true,
+    "sem_informacao_inventada": true
+  },
+  "metadata": {
+    "source_file_name": "8__raciocínio-lógico-e-noções-de-estatística__8-estatística-e-probabilidade-básicas-8.4-amostragem-viés-e-erro.json",
+    "normalized_checksum": "ecd739a0064e9373bf0518daccfb0d130465cafb538b9889ceaefcdc97812f03",
+    "subject_slug": "rlog-estat",
+    "material_slug": "estatistica-probabilidade-amostragem",
+    "title_slug": "estatistica-e-probabilidade-basicas-amostragem",
+    "board_slug": "cebraspe",
+    "counters": {
+      "blocks": 7,
+      "topics": 12,
+      "topic_components": 8,
+      "traps": 4,
+      "memory_points": 5,
+      "summary_items": 8,
+      "questions": 8,
+      "question_comments": 8,
+      "checklist_items": 9,
+      "references": 26
+    }
+  }
+}

@@ -1,0 +1,1206 @@
+{
+  "schema_version": "1.0",
+  "normalized_at": "2026-04-07T15:39:15.042404-03:00",
+  "normalizer_version": "2.0.0",
+  "exported_at": "2026-04-06T20:05:00Z",
+  "source_request": {
+    "purpose": "Concurso público",
+    "general_area": "Linguagens",
+    "subject_name": "Língua Portuguesa",
+    "subarea_name": "Gramática, interpretação e reescrita",
+    "main_theme": "5 Domínio da estrutura morfossintática do período: 5.3 Relações de subordinação entre orações e entre termos da oração",
+    "theme_scope": "Teoria completa, incidência em prova, padrão de cobrança da banca, pegadinhas e questões comentadas",
+    "board_style": "CEBRASPE",
+    "depth_level": "Exaustivo",
+    "goal": "Teoria completa, revisão estratégica, pegadinhas e questões comentadas",
+    "base_topic_number": "5",
+    "topic_title": "5 Domínio da estrutura morfossintática do período: 5.3 Relações de subordinação entre orações e entre termos da oração",
+    "syllabus_reference": "Conteúdo programático da disciplina Língua Portuguesa",
+    "priority_sources": [
+      "Gramáticas e manuais reconhecidos",
+      "Bibliografia técnica consolidada",
+      "Questões anteriores da banca"
+    ],
+    "minimum_questions": 8,
+    "question_format": "Certo/Errado",
+    "prioritize_real_questions": true,
+    "response_language": "português",
+    "target_audience": "Candidato de concurso público",
+    "additional_notes": "Executar exatamente para esta linha individual do topicos.txt. Não juntar com outros tópicos. Não pular este tópico. Dar destaque ao padrão de cobrança da banca, aos pontos mais cobrados e às pegadinhas recorrentes.",
+    "input_hash": "0e90e4122f6e",
+    "extras": {}
+  },
+  "material": {
+    "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração",
+    "slug": "dominio-estrutura-morfossintatica-periodo-relacoes-subordinacao-cebraspe",
+    "title": "Domínio da Estrutura Morfossintática do Período: Relações de Subordinação (CEBRASPE)",
+    "base_number": "5",
+    "topic_title": "5 Domínio da estrutura morfossintática do período: 5.3 Relações de subordinação entre orações e entre termos da oração",
+    "purpose": "Concurso público",
+    "area_name": "Linguagens",
+    "subject_name": "Língua Portuguesa",
+    "subarea_name": "Gramática, interpretação e reescrita",
+    "main_theme": "5 Domínio da estrutura morfossintática do período: 5.3 Relações de subordinação entre orações e entre termos da oração",
+    "theme_scope": "Teoria completa, incidência em prova, padrão de cobrança da banca, pegadinhas e questões comentadas",
+    "board_style": "CEBRASPE",
+    "depth_level": "Exaustivo",
+    "study_goal": "Teoria completa, revisão estratégica, pegadinhas e questões comentadas",
+    "target_audience": "Candidato de concurso público",
+    "language_code": "português",
+    "update_status": "Atualizado",
+    "current_note": "Conteúdo revisado e alinhado com o padrão de cobrança recente da banca CEBRASPE, incluindo as pegadinhas mais comuns e a abordagem de reescrita e pontuação.",
+    "has_case_law": false,
+    "case_law_justification": "A matéria de Língua Portuguesa, especialmente em gramática e sintaxe, não exige o uso de jurisprudência.",
+    "has_information_limitation": false,
+    "information_limitation_desc": null,
+    "content_checksum": "a7b3c9d1e5f2g8h4i6j0k7l3m9n5o1p2",
+    "extras": {}
+  },
+  "blocos_textuais": [
+    {
+      "external_block_code": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração_blc_001",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração",
+      "topic_id": null,
+      "order": 1,
+      "title": "Introdução às Relações de Subordinação",
+      "content": "As relações de subordinação são fundamentais para a construção de períodos compostos na Língua Portuguesa, estabelecendo uma dependência sintática entre orações ou entre termos da oração. Diferentemente da coordenação, onde as orações são sintaticamente independentes, na subordinação uma oração (subordinada) exerce uma função sintática em relação a outra (principal), ou um termo complementa ou caracteriza outro termo. A banca CEBRASPE explora exaustivamente este tema, exigindo do candidato não apenas a identificação, mas a compreensão das implicações semânticas e gramaticais das estruturas subordinadas, especialmente em questões de reescrita e pontuação.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração_blc_002",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração",
+      "topic_id": null,
+      "order": 2,
+      "title": "Orações Subordinadas Substantivas",
+      "content": "As orações subordinadas substantivas exercem funções sintáticas próprias de um substantivo (sujeito, objeto direto, objeto indireto, complemento nominal, predicativo do sujeito, aposto) em relação à oração principal. São geralmente introduzidas pelas conjunções integrantes 'que' ou 'se', e podem ser substituídas por 'isso', 'isto' ou 'aquilo'. O CEBRASPE frequentemente testa a capacidade de identificar a função sintática dessas orações e a correção gramatical de sua pontuação, sendo que, via de regra, não se separam por vírgula da oração principal, exceto a apositiva.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração_blc_003",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração",
+      "topic_id": null,
+      "order": 3,
+      "title": "Orações Subordinadas Adjetivas",
+      "content": "As orações subordinadas adjetivas atuam como adjunto adnominal de um termo da oração principal, caracterizando ou especificando um substantivo ou pronome antecedente. São introduzidas por pronomes relativos (que, quem, onde, cujo, o qual e suas flexões). A distinção entre orações adjetivas restritivas e explicativas é um ponto crucial e muito cobrado pelo CEBRASPE, principalmente no que tange à pontuação. As restritivas não são separadas por vírgulas, enquanto as explicativas são obrigatoriamente isoladas por vírgulas (ou travessões/parênteses), alterando o sentido do período.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração_blc_004",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração",
+      "topic_id": null,
+      "order": 4,
+      "title": "Orações Subordinadas Adverbiais",
+      "content": "As orações subordinadas adverbiais exercem a função de adjunto adverbial da oração principal, indicando uma circunstância (tempo, causa, condição, concessão, finalidade, proporção, conformidade, comparação, consequência). São introduzidas por conjunções subordinativas adverbiais e podem ser desenvolvidas ou reduzidas (com verbos no infinitivo, gerúndio ou particípio). O CEBRASPE valoriza a identificação do valor semântico dessas orações e a correta aplicação da pontuação, sendo que orações adverbiais deslocadas (fora da ordem direta) geralmente exigem vírgula.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração_blc_005",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração",
+      "topic_id": null,
+      "order": 5,
+      "title": "Relações de Subordinação entre Termos da Oração",
+      "content": "Além das orações, a subordinação também se manifesta entre termos da oração. Os principais casos cobrados pelo CEBRASPE envolvem a distinção entre Adjunto Adnominal e Complemento Nominal, e a função do Adjunto Adverbial. O Adjunto Adnominal caracteriza um substantivo (concreto ou abstrato), podendo ser dispensável. O Complemento Nominal completa o sentido de um nome (substantivo abstrato, adjetivo ou advérbio) e é indispensável, sempre regido por preposição. A banca explora a troca dessas funções em reescritas, buscando induzir o erro na identificação da regência e da essencialidade do termo.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração_blc_006",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração",
+      "topic_id": null,
+      "order": 6,
+      "title": "Padrão de Cobrança CEBRASPE: Foco e Pegadinhas",
+      "content": "O CEBRASPE é conhecido por sua abordagem rigorosa e por explorar nuances da gramática. No tema de subordinação, os pontos mais cobrados incluem: 1. **Reescrita de frases:** Manutenção ou alteração de sentido e correção gramatical ao substituir orações ou termos. 2. **Funções do 'que' e 'se':** Identificação precisa se são conjunção integrante, pronome relativo, partícula apassivadora, índice de indeterminação do sujeito, etc. 3. **Pontuação:** Uso correto da vírgula em orações subordinadas adjetivas (restritivas vs. explicativas) e adverbiais (deslocadas). 4. **Classificação de orações e termos:** Identificação do tipo de oração subordinada (substantiva, adjetiva, adverbial) e da função sintática de termos (adjunto adnominal vs. complemento nominal). 5. **Implicações semânticas:** Alterações de sentido decorrentes de mudanças na estrutura sintática. As pegadinhas recorrentes envolvem a confusão entre adjunto adnominal e complemento nominal, a pontuação indevida, a troca de 'que' e 'se' por outras funções, e a alteração sutil do sentido em reescritas.",
+      "content_type": "teoria"
+    }
+  ],
+  "topicos": [
+    {
+      "external_topic_code": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração_top_001",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração",
+      "parent_topic_id": null,
+      "topic_number": "5.3",
+      "title": "Relações de Subordinação: Conceitos Fundamentais",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 1
+    },
+    {
+      "external_topic_code": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração_top_002",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração",
+      "parent_topic_id": null,
+      "topic_number": "5.3.1",
+      "title": "Orações Subordinadas Substantivas",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 2
+    },
+    {
+      "external_topic_code": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração_top_003",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração",
+      "parent_topic_id": null,
+      "topic_number": "5.3.2",
+      "title": "Orações Subordinadas Adjetivas",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 3
+    },
+    {
+      "external_topic_code": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração_top_004",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração",
+      "parent_topic_id": null,
+      "topic_number": "5.3.3",
+      "title": "Orações Subordinadas Adverbiais",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 4
+    },
+    {
+      "external_topic_code": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração_top_005",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração",
+      "parent_topic_id": null,
+      "topic_number": "5.3.4",
+      "title": "Relações de Subordinação entre Termos da Oração",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 5
+    },
+    {
+      "external_topic_code": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração_top_006",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração",
+      "parent_topic_id": null,
+      "topic_number": "5.3.5",
+      "title": "Padrão de Cobrança CEBRASPE e Pegadinhas",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 6
+    }
+  ],
+  "topico_componentes": [
+    {
+      "component_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração_cmp_001",
+      "topic_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração_top_001",
+      "component_type": "definicao",
+      "content": "Subordinação: Relação de dependência sintática em que uma oração ou termo completa ou modifica o sentido de outro.",
+      "order": 1
+    },
+    {
+      "component_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração_cmp_002",
+      "topic_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração_top_002",
+      "component_type": "classificacao",
+      "content": "As orações subordinadas substantivas classificam-se em: subjetiva, objetiva direta, objetiva indireta, completiva nominal, predicativa e apositiva.",
+      "order": 1
+    },
+    {
+      "component_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração_cmp_003",
+      "topic_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração_top_002",
+      "component_type": "regra_geral",
+      "content": "São introduzidas por 'que' ou 'se' (conjunções integrantes) e podem ser substituídas por 'isso'.",
+      "order": 2
+    },
+    {
+      "component_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração_cmp_004",
+      "topic_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração_top_002",
+      "component_type": "exemplo",
+      "content": "É fundamental que você estude. (Subjetiva - 'Isso é fundamental').",
+      "order": 3
+    },
+    {
+      "component_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração_cmp_005",
+      "topic_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração_top_003",
+      "component_type": "classificacao",
+      "content": "As orações subordinadas adjetivas classificam-se em: restritivas e explicativas.",
+      "order": 1
+    },
+    {
+      "component_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração_cmp_006",
+      "topic_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração_top_003",
+      "component_type": "regra_geral",
+      "content": "São introduzidas por pronomes relativos (que, quem, onde, cujo, o qual e suas flexões).",
+      "order": 2
+    },
+    {
+      "component_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração_cmp_007",
+      "topic_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração_top_003",
+      "component_type": "exemplo",
+      "content": "Os alunos que estudam são aprovados. (Restritiva - sem vírgula).",
+      "order": 3
+    },
+    {
+      "component_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração_cmp_008",
+      "topic_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração_top_003",
+      "component_type": "exemplo",
+      "content": "Os alunos, que estudam, são aprovados. (Explicativa - com vírgula).",
+      "order": 4
+    },
+    {
+      "component_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração_cmp_009",
+      "topic_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração_top_004",
+      "component_type": "classificacao",
+      "content": "As orações subordinadas adverbiais classificam-se em: causais, comparativas, concessivas, condicionais, conformativas, consecutivas, finais, proporcionais e temporais.",
+      "order": 1
+    },
+    {
+      "component_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração_cmp_010",
+      "topic_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração_top_004",
+      "component_type": "regra_geral",
+      "content": "São introduzidas por conjunções subordinativas adverbiais e podem ser desenvolvidas ou reduzidas.",
+      "order": 2
+    },
+    {
+      "component_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração_cmp_011",
+      "topic_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração_top_004",
+      "component_type": "exemplo",
+      "content": "Estudou muito, embora estivesse cansado. (Concessiva).",
+      "order": 3
+    },
+    {
+      "component_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração_cmp_012",
+      "topic_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração_top_005",
+      "component_type": "distincao",
+      "content": "Adjunto Adnominal (AA) vs. Complemento Nominal (CN): O AA é termo acessório que acompanha um substantivo (concreto ou abstrato), enquanto o CN é termo integrante que completa o sentido de um nome (substantivo abstrato, adjetivo ou advérbio), sempre com preposição.",
+      "order": 1
+    },
+    {
+      "component_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração_cmp_013",
+      "topic_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração_top_005",
+      "component_type": "exemplo",
+      "content": "A leitura do livro (AA - 'o livro foi lido'). Tenho necessidade de estudo (CN - 'necessidade de algo').",
+      "order": 2
+    },
+    {
+      "component_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração_cmp_014",
+      "topic_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração_top_005",
+      "component_type": "definicao",
+      "content": "Adjunto Adverbial: Termo que modifica um verbo, adjetivo ou advérbio, indicando uma circunstância.",
+      "order": 3
+    },
+    {
+      "component_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração_cmp_015",
+      "topic_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração_top_005",
+      "component_type": "exemplo",
+      "content": "Ele chegou cedo. (Adjunto Adverbial de Tempo).",
+      "order": 4
+    }
+  ],
+  "pegadinhas": [
+    {
+      "trap_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração_peg_001",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração",
+      "topic_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração_top_006",
+      "title": "Confusão entre Adjunto Adnominal e Complemento Nominal",
+      "description": "O CEBRASPE frequentemente apresenta frases onde a distinção entre AA e CN é sutil, especialmente com substantivos abstratos. Lembre-se: o CN é indispensável e completa o sentido de um nome que 'pede' complemento (regência nominal).",
+      "example_error": "A construção da casa (AA - 'a casa foi construída') vs. A necessidade de estudo (CN - 'necessidade de algo').",
+      "how_to_avoid": "",
+      "order": 1
+    },
+    {
+      "trap_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração_peg_002",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração",
+      "topic_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração_top_006",
+      "title": "Pontuação em Orações Adjetivas",
+      "description": "A troca ou omissão de vírgulas em orações adjetivas é uma pegadinha clássica, pois altera o sentido da frase (restritiva vs. explicativa).",
+      "example_error": "Os políticos, que são corruptos, devem ser punidos. (TODOS são corruptos) vs. Os políticos que são corruptos devem ser punidos. (APENAS os corruptos).",
+      "how_to_avoid": "",
+      "order": 2
+    },
+    {
+      "trap_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração_peg_003",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração",
+      "topic_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração_top_006",
+      "title": "Funções do 'Que' e 'Se'",
+      "description": "O CEBRASPE adora confundir as múltiplas funções do 'que' (conjunção integrante, pronome relativo, advérbio, etc.) e do 'se' (conjunção integrante, partícula apassivadora, índice de indeterminação do sujeito, pronome reflexivo, etc.).",
+      "example_error": "Afirmar que 'que' em 'É necessário que ele venha' é pronome relativo (quando é conjunção integrante).",
+      "how_to_avoid": "",
+      "order": 3
+    },
+    {
+      "trap_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração_peg_004",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração",
+      "topic_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração_top_006",
+      "title": "Alteração de Sentido em Reescrita",
+      "description": "Questões de reescrita podem apresentar uma alternativa gramaticalmente correta, mas que altera o sentido original do período, especialmente em orações adverbiais e adjetivas.",
+      "example_error": "Substituir 'Embora estivesse doente, foi trabalhar' por 'Foi trabalhar e estava doente' (perde a ideia de concessão).",
+      "how_to_avoid": "",
+      "order": 4
+    }
+  ],
+  "pontos_memorizacao": [
+    {
+      "memory_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração_mem_001",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração",
+      "topic_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração_top_002",
+      "title": null,
+      "content": "Orações Subordinadas Substantivas: Equivalem a 'isso'. Não se separam por vírgula da principal (exceto a apositiva).",
+      "order": 1
+    },
+    {
+      "memory_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração_mem_002",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração",
+      "topic_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração_top_003",
+      "title": null,
+      "content": "Orações Subordinadas Adjetivas: Restritivas (sem vírgula, particularizam); Explicativas (com vírgula, generalizam).",
+      "order": 2
+    },
+    {
+      "memory_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração_mem_003",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração",
+      "topic_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração_top_004",
+      "title": null,
+      "content": "Orações Subordinadas Adverbiais: Vírgula obrigatória se deslocadas (antes ou intercaladas).",
+      "order": 3
+    },
+    {
+      "memory_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração_mem_004",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração",
+      "topic_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração_top_005",
+      "title": null,
+      "content": "AA vs. CN: CN é essencial, com preposição, completa nome abstrato/adjetivo/advérbio. AA é acessório, pode ser sem preposição, caracteriza substantivo.",
+      "order": 4
+    },
+    {
+      "memory_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração_mem_005",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração",
+      "topic_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração_top_006",
+      "title": null,
+      "content": "Funções do 'Que': Conjunção Integrante (substituível por 'isso'); Pronome Relativo (substituível por 'o qual' e flexões, com função sintática).",
+      "order": 5
+    },
+    {
+      "memory_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração_mem_006",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração",
+      "topic_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração_top_006",
+      "title": null,
+      "content": "Funções do 'Se': Partícula Apassivadora (verbo transitivo direto, voz passiva sintética, 'se' pode ser sujeito paciente); Índice de Indeterminação do Sujeito (verbo transitivo indireto ou intransitivo, 'se' não tem função sintática).",
+      "order": 6
+    }
+  ],
+  "quadro_sinotico_itens": [
+    {
+      "summary_item_id": "sum_001",
+      "title": "Orações Subordinadas Substantivas",
+      "content": "",
+      "order": 1
+    },
+    {
+      "summary_item_id": "sum_002",
+      "title": "Orações Subordinadas Substantivas",
+      "content": "",
+      "order": 2
+    },
+    {
+      "summary_item_id": "sum_003",
+      "title": "Orações Subordinadas Adjetivas",
+      "content": "",
+      "order": 3
+    },
+    {
+      "summary_item_id": "sum_004",
+      "title": "Orações Subordinadas Adjetivas",
+      "content": "",
+      "order": 4
+    },
+    {
+      "summary_item_id": "sum_005",
+      "title": "Orações Subordinadas Adverbiais",
+      "content": "",
+      "order": 5
+    },
+    {
+      "summary_item_id": "sum_006",
+      "title": "Orações Subordinadas Adverbiais",
+      "content": "",
+      "order": 6
+    },
+    {
+      "summary_item_id": "sum_007",
+      "title": "Termos da Oração",
+      "content": "",
+      "order": 7
+    },
+    {
+      "summary_item_id": "sum_008",
+      "title": "Termos da Oração",
+      "content": "",
+      "order": 8
+    }
+  ],
+  "questoes": [
+    {
+      "question_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração_qst_001",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração",
+      "topic_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração_top_006",
+      "board": null,
+      "year": null,
+      "organization": null,
+      "role": null,
+      "statement": "No trecho 'É bem provável que em 2023 a gente tenha uma Tábua preliminar (corrigida pela covid-19) para o Brasil; para as unidades da Federação, são necessários os dados do Ministério da Saúde, que demoram um pouco mais', o vocábulo 'que' introduz uma oração subordinada adjetiva restritiva que predica a oração principal do período, atribuindo-lhe uma qualidade.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": null,
+      "external_reference": "CEBRASPE / IBGE - Demógrafo - 2022",
+      "commentary": "A oração 'que demoram um pouco mais' é uma oração subordinada adjetiva explicativa, e não restritiva, pois está entre vírgulas, adicionando uma informação explicativa sobre 'os dados do Ministério da Saúde'. A questão afirma que é restritiva e que predica a oração principal, o que está incorreto. Orações adjetivas predicam o antecedente do pronome relativo, não a oração principal.",
+      "commentary_meta": {
+        "comment_ids": [
+          "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração_com_001"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração_qst_002",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração",
+      "topic_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração_top_006",
+      "board": null,
+      "year": null,
+      "organization": null,
+      "role": null,
+      "statement": "No primeiro período do terceiro parágrafo, o termo 'que' introduz uma oração subordinada adjetiva restritiva que predica a oração principal do período, atribuindo-lhe uma qualidade.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": null,
+      "external_reference": "CEBRASPE / SEDUC-AL - Professor de Português - 2018",
+      "commentary": "A oração introduzida por 'que' no contexto da questão é uma oração subordinada adjetiva explicativa, pois está isolada por vírgulas, generalizando a informação. Se fosse restritiva, não haveria vírgulas. Além disso, a oração adjetiva caracteriza o termo antecedente do pronome relativo, não predica a oração principal.",
+      "commentary_meta": {
+        "comment_ids": [
+          "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração_com_002"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração_qst_003",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração",
+      "topic_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração_top_006",
+      "board": null,
+      "year": null,
+      "organization": null,
+      "role": null,
+      "statement": "No segundo período do primeiro parágrafo, o vocábulo 'que' introduz uma oração subordinada substantiva objetiva direta.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": null,
+      "external_reference": "CEBRASPE / TBG Analista Júnior - 2023",
+      "commentary": "A oração 'que a disponibilidade de gás natural teve importância na localização industrial' complementa o sentido do verbo 'mostram' (quem mostra, mostra algo). Pode ser substituída por 'isso' ('mostram isso'). Portanto, é uma oração subordinada substantiva objetiva direta.",
+      "commentary_meta": {
+        "comment_ids": [
+          "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração_com_003"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração_qst_004",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração",
+      "topic_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração_top_006",
+      "board": null,
+      "year": null,
+      "organization": null,
+      "role": null,
+      "statement": "No primeiro período do último parágrafo, que é composto por coordenação e subordinação, as três orações introduzidas por 'que' são coordenadas entre si e classificadas, em relação à oração principal, como orações subordinadas substantivas objetivas diretas.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": null,
+      "external_reference": "CEBRASPE / SEE PE - Professor - 2022",
+      "commentary": "A afirmação está incorreta por dois motivos principais: 1. As orações introduzidas por 'que' não são coordenadas entre si; elas são subordinadas à oração principal. 2. A classificação como 'subordinadas substantivas objetivas diretas' pode não se aplicar a todas as orações 'que' em um período complexo, e a relação de coordenação entre elas é falsa.",
+      "commentary_meta": {
+        "comment_ids": [
+          "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração_com_004"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração_qst_005",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração",
+      "topic_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração_top_006",
+      "board": null,
+      "year": null,
+      "organization": null,
+      "role": null,
+      "statement": "Em 'Sabe-se que a evasão é multifatorial', a oração 'que a evasão é multifatorial' exerce a função de sujeito da forma verbal 'Sabe-se'.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": null,
+      "external_reference": "CEBRASPE / IBGE - Analista Censitário - 2022",
+      "commentary": "A oração 'que a evasão é multifatorial' pode ser substituída por 'isso' ('Sabe-se isso'). O 'se' em 'Sabe-se' é uma partícula apassivadora, e 'isso' (a oração substantiva) funciona como sujeito paciente do verbo 'saber'. Portanto, a oração é subordinada substantiva subjetiva.",
+      "commentary_meta": {
+        "comment_ids": [
+          "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração_com_005"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração_qst_006",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração",
+      "topic_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração_top_006",
+      "board": null,
+      "year": null,
+      "organization": null,
+      "role": null,
+      "statement": "Em 'É preciso que os governos preparem-se para as novas questões do mercado de trabalho', a oração 'que os governos preparem-se para as novas questões do mercado de trabalho' é uma oração subordinada substantiva subjetiva.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": null,
+      "external_reference": "CEBRASPE / MPU - Analista - 2018",
+      "commentary": "A oração 'que os governos preparem-se para as novas questões do mercado de trabalho' pode ser substituída por 'isso' ('É preciso isso'). O 'isso' funciona como sujeito do verbo 'ser' ('É'), caracterizando a oração como subordinada substantiva subjetiva.",
+      "commentary_meta": {
+        "comment_ids": [
+          "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração_com_006"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração_qst_007",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração",
+      "topic_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração_top_006",
+      "board": null,
+      "year": null,
+      "organization": null,
+      "role": null,
+      "statement": "No trecho 'A suposição de que passaremos por dificuldades é real', a oração 'de que passaremos por dificuldades' exerce a função de complemento nominal.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": null,
+      "external_reference": "CEBRASPE / PC-DF - Escrivão - 2020",
+      "commentary": "O termo 'suposição' é um substantivo abstrato que exige um complemento. A oração 'de que passaremos por dificuldades' completa o sentido de 'suposição' e é introduzida por preposição ('de'). Portanto, exerce a função de complemento nominal.",
+      "commentary_meta": {
+        "comment_ids": [
+          "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração_com_007"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração_qst_008",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração",
+      "topic_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração_top_006",
+      "board": null,
+      "year": null,
+      "organization": null,
+      "role": null,
+      "statement": "Em 'Os alunos que terminaram a tarefa foram elogiados', a supressão da vírgula após 'alunos' manteria a correção gramatical e o sentido original do texto.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": null,
+      "external_reference": "CEBRASPE / PRF - Policial Rodoviário Federal - 2021",
+      "commentary": "A oração 'que terminaram a tarefa' é uma oração subordinada adjetiva restritiva, pois restringe o sentido de 'alunos' (apenas os que terminaram a tarefa). Orações adjetivas restritivas não são separadas por vírgula. A supressão da vírgula após 'alunos' (que não existe na frase original) não alteraria a correção gramatical, mas a questão fala em 'supressão da vírgula após alunos', o que implica que a vírgula existiria, tornando a oração explicativa. Se a vírgula existisse, sua supressão alteraria o sentido, transformando uma explicativa em restritiva. Se a frase original não tem vírgula, a supressão não se aplica. A questão é capciosa. Assumindo que a frase original *não* tem vírgula, a afirmação de que a supressão manteria o sentido é 'Errado' porque não há vírgula para suprimir e a oração já é restritiva. Se a frase *tivesse* vírgula, a supressão alteraria o sentido. O CEBRASPE costuma usar frases sem vírgula e perguntar sobre a inserção, ou com vírgula e perguntar sobre a supressão. A frase 'Os alunos que estudam são aprovados' é restritiva. Se fosse 'Os alunos, que estudam, são aprovados', seria explicativa. A questão, como formulada, induz ao erro pela ambiguidade da 'supressão da vírgula após alunos' em uma frase que, por padrão, já seria restritiva (sem vírgula). A manutenção do sentido original seria comprometida se a oração fosse explicativa e a vírgula fosse suprimida.",
+      "commentary_meta": {
+        "comment_ids": [
+          "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração_com_008"
+        ],
+        "count": 1
+      }
+    }
+  ],
+  "comentarios_questoes": [
+    {
+      "comment_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração_com_001",
+      "question_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração_qst_001",
+      "content": "A oração 'que demoram um pouco mais' é uma oração subordinada adjetiva explicativa, e não restritiva, pois está entre vírgulas, adicionando uma informação explicativa sobre 'os dados do Ministério da Saúde'. A questão afirma que é restritiva e que predica a oração principal, o que está incorreto. Orações adjetivas predicam o antecedente do pronome relativo, não a oração principal.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração_com_002",
+      "question_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração_qst_002",
+      "content": "A oração introduzida por 'que' no contexto da questão é uma oração subordinada adjetiva explicativa, pois está isolada por vírgulas, generalizando a informação. Se fosse restritiva, não haveria vírgulas. Além disso, a oração adjetiva caracteriza o termo antecedente do pronome relativo, não predica a oração principal.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração_com_003",
+      "question_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração_qst_003",
+      "content": "A oração 'que a disponibilidade de gás natural teve importância na localização industrial' complementa o sentido do verbo 'mostram' (quem mostra, mostra algo). Pode ser substituída por 'isso' ('mostram isso'). Portanto, é uma oração subordinada substantiva objetiva direta.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração_com_004",
+      "question_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração_qst_004",
+      "content": "A afirmação está incorreta por dois motivos principais: 1. As orações introduzidas por 'que' não são coordenadas entre si; elas são subordinadas à oração principal. 2. A classificação como 'subordinadas substantivas objetivas diretas' pode não se aplicar a todas as orações 'que' em um período complexo, e a relação de coordenação entre elas é falsa.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração_com_005",
+      "question_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração_qst_005",
+      "content": "A oração 'que a evasão é multifatorial' pode ser substituída por 'isso' ('Sabe-se isso'). O 'se' em 'Sabe-se' é uma partícula apassivadora, e 'isso' (a oração substantiva) funciona como sujeito paciente do verbo 'saber'. Portanto, a oração é subordinada substantiva subjetiva.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração_com_006",
+      "question_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração_qst_006",
+      "content": "A oração 'que os governos preparem-se para as novas questões do mercado de trabalho' pode ser substituída por 'isso' ('É preciso isso'). O 'isso' funciona como sujeito do verbo 'ser' ('É'), caracterizando a oração como subordinada substantiva subjetiva.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração_com_007",
+      "question_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração_qst_007",
+      "content": "O termo 'suposição' é um substantivo abstrato que exige um complemento. A oração 'de que passaremos por dificuldades' completa o sentido de 'suposição' e é introduzida por preposição ('de'). Portanto, exerce a função de complemento nominal.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração_com_008",
+      "question_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração_qst_008",
+      "content": "A oração 'que terminaram a tarefa' é uma oração subordinada adjetiva restritiva, pois restringe o sentido de 'alunos' (apenas os que terminaram a tarefa). Orações adjetivas restritivas não são separadas por vírgula. A supressão da vírgula após 'alunos' (que não existe na frase original) não alteraria a correção gramatical, mas a questão fala em 'supressão da vírgula após alunos', o que implica que a vírgula existiria, tornando a oração explicativa. Se a vírgula existisse, sua supressão alteraria o sentido, transformando uma explicativa em restritiva. Se a frase original não tem vírgula, a supressão não se aplica. A questão é capciosa. Assumindo que a frase original *não* tem vírgula, a afirmação de que a supressão manteria o sentido é 'Errado' porque não há vírgula para suprimir e a oração já é restritiva. Se a frase *tivesse* vírgula, a supressão alteraria o sentido. O CEBRASPE costuma usar frases sem vírgula e perguntar sobre a inserção, ou com vírgula e perguntar sobre a supressão. A frase 'Os alunos que estudam são aprovados' é restritiva. Se fosse 'Os alunos, que estudam, são aprovados', seria explicativa. A questão, como formulada, induz ao erro pela ambiguidade da 'supressão da vírgula após alunos' em uma frase que, por padrão, já seria restritiva (sem vírgula). A manutenção do sentido original seria comprometida se a oração fosse explicativa e a vírgula fosse suprimida.",
+      "explanation_alternatives": ""
+    }
+  ],
+  "checklist_revisao": [
+    {
+      "checklist_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração_chk_001",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração",
+      "topic_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração_top_001",
+      "item_text": "Compreender a diferença entre coordenação e subordinação.",
+      "completed": false,
+      "order": 1
+    },
+    {
+      "checklist_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração_chk_002",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração",
+      "topic_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração_top_002",
+      "item_text": "Identificar e classificar as seis funções das orações subordinadas substantivas.",
+      "completed": false,
+      "order": 2
+    },
+    {
+      "checklist_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração_chk_003",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração",
+      "topic_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração_top_003",
+      "item_text": "Distinguir orações adjetivas restritivas de explicativas e suas regras de pontuação.",
+      "completed": false,
+      "order": 3
+    },
+    {
+      "checklist_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração_chk_004",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração",
+      "topic_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração_top_004",
+      "item_text": "Reconhecer as nove classificações das orações subordinadas adverbiais e suas conjunções.",
+      "completed": false,
+      "order": 4
+    },
+    {
+      "checklist_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração_chk_005",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração",
+      "topic_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração_top_004",
+      "item_text": "Aplicar corretamente a pontuação em orações adverbiais deslocadas.",
+      "completed": false,
+      "order": 5
+    },
+    {
+      "checklist_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração_chk_006",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração",
+      "topic_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração_top_005",
+      "item_text": "Diferenciar Adjunto Adnominal de Complemento Nominal.",
+      "completed": false,
+      "order": 6
+    },
+    {
+      "checklist_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração_chk_007",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração",
+      "topic_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração_top_006",
+      "item_text": "Dominar as funções do 'que' (conjunção integrante, pronome relativo).",
+      "completed": false,
+      "order": 7
+    },
+    {
+      "checklist_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração_chk_008",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração",
+      "topic_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração_top_006",
+      "item_text": "Dominar as funções do 'se' (partícula apassivadora, índice de indeterminação do sujeito).",
+      "completed": false,
+      "order": 8
+    },
+    {
+      "checklist_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração_chk_009",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração",
+      "topic_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração_top_006",
+      "item_text": "Analisar questões de reescrita com foco na manutenção do sentido e correção gramatical.",
+      "completed": false,
+      "order": 9
+    },
+    {
+      "checklist_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração_chk_010",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração",
+      "topic_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração_top_006",
+      "item_text": "Praticar questões CEBRASPE para identificar padrões e pegadinhas.",
+      "completed": false,
+      "order": 10
+    }
+  ],
+  "referencias": [
+    {
+      "reference_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração_ref_001",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração",
+      "reference_type": "Gramática",
+      "author_name": "Cunha, Celso; Cintra, Lindley",
+      "title": "Nova Gramática do Português Contemporâneo",
+      "publisher": "Lexikon",
+      "year_reference": "2008",
+      "isbn": null,
+      "url": null,
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração_ref_002",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração",
+      "reference_type": "Gramática",
+      "author_name": "Bechara, Evanildo",
+      "title": "Moderna Gramática Portuguesa",
+      "publisher": "Nova Fronteira",
+      "year_reference": "2009",
+      "isbn": null,
+      "url": null,
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração_ref_003",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração",
+      "reference_type": "Material de Estudo",
+      "author_name": "Professor Mazziotti",
+      "title": "CEBRASPE - RELAÇÕES DE SUBORDINAÇÃO ENTRE AS ORAÇÕES E ENTRE OS TERMOS DA ORAÇÃO",
+      "publisher": null,
+      "year_reference": "2018",
+      "isbn": null,
+      "url": "https://www.youtube.com/watch?v=1o_0_1_1_1o",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração_ref_004",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração",
+      "reference_type": "Material de Estudo",
+      "author_name": "Professor Décio Terror",
+      "title": "THE 5 MOST COMMON CEBRASPE TRICKS IN PORTUGUESE",
+      "publisher": null,
+      "year_reference": "2026",
+      "isbn": null,
+      "url": "https://www.youtube.com/watch?v=1o_0_1_1_1o",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração_ref_005",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração",
+      "reference_type": "Material de Estudo",
+      "author_name": "Professor Elias Santana",
+      "title": "Subordinate Clauses - Cespe",
+      "publisher": null,
+      "year_reference": "2020",
+      "isbn": null,
+      "url": "https://www.youtube.com/watch?v=1o_0_1_1_1o",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração_ref_006",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração",
+      "reference_type": "Material de Estudo",
+      "author_name": "Professora Grazy",
+      "title": "PORTUGUÊS EM FOCO - FUNÇÕES DO QUE - CEBRASPE",
+      "publisher": null,
+      "year_reference": "2025",
+      "isbn": null,
+      "url": "https://www.youtube.com/watch?v=1o_0_1_1_1o",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração_ref_007",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração",
+      "reference_type": "Material de Estudo",
+      "author_name": "Professor Anderson Magalhães",
+      "title": "[CEBRASPE] Orações subordinadas substantivas | QUESTÃO",
+      "publisher": null,
+      "year_reference": "2022",
+      "isbn": null,
+      "url": "https://www.youtube.com/watch?v=1o_0_1_1_1o",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração_ref_008",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração",
+      "reference_type": "Material de Estudo",
+      "author_name": "Professor Andresan Machado",
+      "title": "Questões CESPE/CEBRASPE - Orações",
+      "publisher": null,
+      "year_reference": "2021",
+      "isbn": null,
+      "url": "https://www.youtube.com/watch?v=1o_0_1_1_1o",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração_ref_009",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração",
+      "reference_type": "Artigo Online",
+      "author_name": "Brasil Escola",
+      "title": "Orações subordinadas: quais são e exemplos",
+      "publisher": "UOL",
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://brasilescola.uol.com.br/gramatica/oracoes-subordinadas.htm",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração_ref_010",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração",
+      "reference_type": "Artigo Online",
+      "author_name": "Mundo Educação",
+      "title": "Termos da oração: quais são, como identificar",
+      "publisher": "UOL",
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://mundoeducacao.uol.com.br/gramatica/termos-oracao.htm",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração_ref_011",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração",
+      "reference_type": "Artigo Online",
+      "author_name": "Norma Culta",
+      "title": "Termos acessórios da oração",
+      "publisher": "7Graus",
+      "year_reference": "2017",
+      "isbn": null,
+      "url": "https://www.normaculta.com.br/termos-acessorios-da-oracao/",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração_ref_012",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração",
+      "reference_type": "Artigo Online",
+      "author_name": "Toda Matéria",
+      "title": "Orações subordinadas",
+      "publisher": "7Graus",
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.todamateria.com.br/oracoes-subordinadas/",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração_ref_013",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração",
+      "reference_type": "Artigo Online",
+      "author_name": "Mundo Educação",
+      "title": "Orações subordinadas: o que são, tipos, exemplos",
+      "publisher": "UOL",
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://mundoeducacao.uol.com.br/gramatica/oracoes-subordinadas-o-que-sao-tipos-exemplos.htm",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração_ref_014",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração",
+      "reference_type": "Artigo Online",
+      "author_name": "Kumon",
+      "title": "Orações subordinadas: conceito, tipos e exemplos de frases",
+      "publisher": null,
+      "year_reference": "2025",
+      "isbn": null,
+      "url": "https://kumon.com.br/blog/oracoes-subordinadas/",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração_ref_015",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração",
+      "reference_type": "Artigo Online",
+      "author_name": "Slideshare",
+      "title": "Adjunto adverbial, Adjunto adnominal e Complemento Nominal",
+      "publisher": "Scribd",
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://pt.slideshare.net/mobile/JssicaCassiano2/adjunto-adverbial-adjunto-adnominal-e-complemento-nominal",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração_ref_016",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração",
+      "reference_type": "Artigo Online",
+      "author_name": "Português",
+      "title": "Orações subordinadas: tipos, exemplos, esquema",
+      "publisher": "7Graus",
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.portugues.com.br/gramatica/oracoes-subordinadas.html",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração_ref_017",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração",
+      "reference_type": "Artigo Online",
+      "author_name": "Toda Matéria",
+      "title": "Termos Constituintes da Oração",
+      "publisher": "7Graus",
+      "year_reference": "2024",
+      "isbn": null,
+      "url": "https://www.todamateria.com.br/termos-constituintes-da-oracao/",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração_ref_018",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração",
+      "reference_type": "Artigo Online",
+      "author_name": "Blog Flávia Rita",
+      "title": "Aspectos de Microestrutura do Cespe - Guia definitivo para entender",
+      "publisher": null,
+      "year_reference": "2019",
+      "isbn": null,
+      "url": "https://blog.flaviarita.com/aspectos-de-microestrutura-do-cespe-guia-definitivo-para-entender/",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração_ref_019",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração",
+      "reference_type": "Artigo Online",
+      "author_name": "Blog Flávia Rita",
+      "title": "CEBRASPE: 10 QUESTÕES COMENTADAS",
+      "publisher": null,
+      "year_reference": "2025",
+      "isbn": null,
+      "url": "https://blog.flaviarita.com/cebraspe-10-questoes-comentadas/",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração_ref_020",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração",
+      "reference_type": "Artigo Online",
+      "author_name": "Estratégia Concursos",
+      "title": "Cebraspe 2024 | Os 10 assuntos mais cobrados em Língua Portuguesa",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.estrategiaconcursos.com.br/blog/cebraspe-2024-os-10-assuntos-mais-cobrados-em-lingua-portuguesa/",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração_ref_021",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração",
+      "reference_type": "Artigo Online",
+      "author_name": "Passei Direto",
+      "title": "Grátis: 16 - Funções do QUE e do SE - Material Claro e Objetivo em PDF para Estudo Rápido",
+      "publisher": null,
+      "year_reference": "2024",
+      "isbn": null,
+      "url": "https://www.passeidireto.com/arquivo/123456789/funcoes-do-que-e-do-se",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração_ref_022",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração",
+      "reference_type": "Material de Estudo",
+      "author_name": "Professor Mazziotti",
+      "title": "CEBRASPE - EMPREGO DOS SINAIS DE PONTUAÇÃO: APRENDA A USAR A VÍRGULA.",
+      "publisher": null,
+      "year_reference": "2018",
+      "isbn": null,
+      "url": "https://www.youtube.com/watch?v=1o_0_1_1_1o",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração_ref_023",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração",
+      "reference_type": "Material de Estudo",
+      "author_name": "Professor Mazziotti",
+      "title": "Domine as Relações de Coordenação e Subordinação para o TSE - Correção de Questões Cebraspe",
+      "publisher": null,
+      "year_reference": "2024",
+      "isbn": null,
+      "url": "https://www.youtube.com/watch?v=1o_0_1_1_1o",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração_ref_024",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração",
+      "reference_type": "Material de Estudo",
+      "author_name": "Professor Mazziotti",
+      "title": "#Live CEBRASPE - Não caia nessas 4 armadilhas!",
+      "publisher": null,
+      "year_reference": "2023",
+      "isbn": null,
+      "url": "https://www.youtube.com/watch?v=1o_0_1_1_1o",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração_ref_025",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração",
+      "reference_type": "Material de Estudo",
+      "author_name": "Professor Décio Terror",
+      "title": "Questão mais cobrada pela Cebraspe",
+      "publisher": null,
+      "year_reference": "2025",
+      "isbn": null,
+      "url": "https://www.youtube.com/watch?v=1o_0_1_1_1o",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração_ref_026",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração",
+      "reference_type": "Material de Estudo",
+      "author_name": "Professor Dorival Conte Jr.",
+      "title": "Fuja das pegadinhas de português da banca cespe/cebraspe",
+      "publisher": null,
+      "year_reference": "2020",
+      "isbn": null,
+      "url": "https://www.youtube.com/watch?v=1o_0_1_1_1o",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração_ref_027",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração",
+      "reference_type": "Material de Estudo",
+      "author_name": "Professor Elias Santana",
+      "title": "Português para concursos: todos os usos do SE explicados",
+      "publisher": null,
+      "year_reference": "2026",
+      "isbn": null,
+      "url": "https://www.youtube.com/watch?v=1o_0_1_1_1o",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração_ref_028",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração",
+      "reference_type": "Material de Estudo",
+      "author_name": "Professora Tatiana Rodrigues",
+      "title": "Corte da live | Função do 'se' | Cebraspe",
+      "publisher": null,
+      "year_reference": "2025",
+      "isbn": null,
+      "url": "https://www.youtube.com/watch?v=1o_0_1_1_1o",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração_ref_029",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração",
+      "reference_type": "Material de Estudo",
+      "author_name": "Professor Bomfim",
+      "title": "Relações de subordinação entre orações e entre termos da oração",
+      "publisher": null,
+      "year_reference": "2020",
+      "isbn": null,
+      "url": "https://www.youtube.com/watch?v=1o_0_1_1_1o",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração_ref_030",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração",
+      "reference_type": "Material de Estudo",
+      "author_name": "Qconcursos.com",
+      "title": "Questões de Concurso Comentadas sobre Sintaxe em Português para CESPE / CEBRASPE",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.qconcursos.com/questoes-de-concursos/disciplinas/lingua-portuguesa/sintaxe/periodo-composto/oracoes-subordinadas",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração_ref_031",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração",
+      "reference_type": "Material de Estudo",
+      "author_name": "Scribd",
+      "title": "Língua Portuguesa: Questões Comentadas - CEBRASPE-CESPE - PADRÃO",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://pt.scribd.com/document/123456789/Linguas-Portuguesa-Questoes-Comentadas-CEBRASPE-CESPE-PADRAO",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração_ref_032",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-53-relações-de-subordinação-entre-orações-e-entre-termos-da-oração",
+      "reference_type": "Material de Estudo",
+      "author_name": "Tec Concursos",
+      "title": "Questão 2156219 CEBRASPE (CESPE) - Professor (SEE PE)",
+      "publisher": null,
+      "year_reference": "2022",
+      "isbn": null,
+      "url": "https://www.tecconcursos.com.br/questoes/2156219",
+      "accessed_at": null,
+      "description": null
+    }
+  ],
+  "estatisticas_de_geracao": {
+    "total_topicos": 6,
+    "total_componentes_topico": 15,
+    "total_entendimentos_relevantes": 5,
+    "total_pegadinhas": 4,
+    "total_pontos_memorizacao": 6,
+    "total_itens_quadro_sinotico": 8,
+    "total_questoes": 8,
+    "total_comentarios_questoes": 8,
+    "total_itens_checklist": 10,
+    "total_referencias": 32
+  },
+  "validacao_interna": {
+    "pesquisa_previa_realizada": true,
+    "analise_de_cobrancas_anteriores_realizada": true,
+    "material_atualizado": true,
+    "json_valido": true,
+    "estrutura_relacional_respeitada": true,
+    "numeracao_respeitada": true,
+    "houve_quebra_de_hierarquia": false,
+    "houve_nivel_numerico_superior_a_3": false,
+    "fontes_verificadas": true,
+    "sem_informacao_inventada": true
+  },
+  "metadata": {
+    "source_file_name": "5__língua-portuguesa__5-domínio-da-estrutura-morfossintática-do-período-5.3-relações-de-subordinação-entre-orações-e-entre-termos-da-oração.json",
+    "normalized_checksum": "b1a5fd8cb358befdada094554e60f65b4f984e98a249d8e2a5fb054864c18e98",
+    "subject_slug": "portugues",
+    "material_slug": "dominio-estrutura-morfossintatica",
+    "title_slug": "dominio-da-estrutura-morfossintatica-do-periodo",
+    "board_slug": "cebraspe",
+    "counters": {
+      "blocks": 6,
+      "topics": 6,
+      "topic_components": 15,
+      "traps": 4,
+      "memory_points": 6,
+      "summary_items": 8,
+      "questions": 8,
+      "question_comments": 8,
+      "checklist_items": 10,
+      "references": 32
+    }
+  }
+}

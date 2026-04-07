@@ -1,0 +1,964 @@
+{
+  "schema_version": "1.0",
+  "normalized_at": "2026-04-07T15:39:15.092272-03:00",
+  "normalizer_version": "2.0.0",
+  "exported_at": "2026-04-06T20:08:00Z",
+  "source_request": {
+    "purpose": "Concurso público",
+    "general_area": "Linguagens",
+    "subject_name": "Língua Portuguesa",
+    "subarea_name": "Gramática, interpretação e reescrita",
+    "main_theme": "5 Domínio da estrutura morfossintática do período: 5.5 Concordância verbal e nominal",
+    "theme_scope": "Teoria completa, incidência em prova, padrão de cobrança da banca, pegadinhas e questões comentadas",
+    "board_style": "CEBRASPE",
+    "depth_level": "Exaustivo",
+    "goal": "Teoria completa, revisão estratégica, pegadinhas e questões comentadas",
+    "base_topic_number": "5",
+    "topic_title": "5 Domínio da estrutura morfossintática do período: 5.5 Concordância verbal e nominal",
+    "syllabus_reference": "Conteúdo programático da disciplina Língua Portuguesa",
+    "priority_sources": [
+      "Gramáticas e manuais reconhecidos",
+      "Bibliografia técnica consolidada",
+      "Questões anteriores da banca"
+    ],
+    "minimum_questions": 8,
+    "question_format": "Certo/Errado",
+    "prioritize_real_questions": true,
+    "response_language": "português",
+    "target_audience": "Candidato de concurso público",
+    "additional_notes": "Executar exatamente para esta linha individual do topicos.txt. Não juntar com outros tópicos. Não pular este tópico. Dar destaque ao padrão de cobrança da banca, aos pontos mais cobrados e às pegadinhas recorrentes.",
+    "input_hash": "61bc3d8ae774",
+    "extras": {}
+  },
+  "material": {
+    "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-55-concordância-verbal-e-nominal",
+    "slug": "concordancia-verbal-e-nominal-cebraspe",
+    "title": "Concordância Verbal e Nominal para Concursos (CEBRASPE)",
+    "base_number": "5",
+    "topic_title": "5 Domínio da estrutura morfossintática do período: 5.5 Concordância verbal e nominal",
+    "purpose": "Concurso público",
+    "area_name": "Linguagens",
+    "subject_name": "Língua Portuguesa",
+    "subarea_name": "Gramática, interpretação e reescrita",
+    "main_theme": "5 Domínio da estrutura morfossintática do período: 5.5 Concordância verbal e nominal",
+    "theme_scope": "Teoria completa, incidência em prova, padrão de cobrança da banca, pegadinhas e questões comentadas",
+    "board_style": "CEBRASPE",
+    "depth_level": "Exaustivo",
+    "study_goal": "Teoria completa, revisão estratégica, pegadinhas e questões comentadas",
+    "target_audience": "Candidato de concurso público",
+    "language_code": "português",
+    "update_status": "Atualizado",
+    "current_note": "Conteúdo revisado com base nas regras gramaticais vigentes e no padrão de cobrança recente da banca CEBRASPE.",
+    "has_case_law": false,
+    "case_law_justification": "A matéria de Língua Portuguesa, especificamente concordância verbal e nominal, não exige abordagem jurisprudencial.",
+    "has_information_limitation": false,
+    "information_limitation_desc": null,
+    "content_checksum": "placeholder_checksum",
+    "extras": {}
+  },
+  "blocos_textuais": [
+    {
+      "external_block_code": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-55-concordância-verbal-e-nominal_blc_001",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-55-concordância-verbal-e-nominal",
+      "topic_id": null,
+      "order": 1,
+      "title": "Introdução à Concordância Verbal e Nominal",
+      "content": "A concordância é um dos pilares da norma culta da Língua Portuguesa, garantindo a coesão e a clareza textual. Divide-se em verbal e nominal, cada uma com suas regras gerais e casos especiais que são frequentemente explorados em provas de concurso, especialmente pela banca CEBRASPE. Dominar este tema é crucial para a correção gramatical e para a interpretação de textos.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-55-concordância-verbal-e-nominal_blc_002",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-55-concordância-verbal-e-nominal",
+      "topic_id": null,
+      "order": 2,
+      "title": "Concordância Verbal: Regra Geral e Casos Especiais",
+      "content": "A concordância verbal estabelece a relação de harmonia entre o verbo e o sujeito da oração, ajustando-se em número (singular ou plural) e pessoa (1ª, 2ª ou 3ª). A regra geral é que o verbo concorda com o núcleo do sujeito. No entanto, diversos casos especiais exigem atenção.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-55-concordância-verbal-e-nominal_blc_003",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-55-concordância-verbal-e-nominal",
+      "topic_id": null,
+      "order": 3,
+      "title": "Concordância Verbal: Sujeito Composto",
+      "content": "Quando o sujeito é composto e vem antes do verbo, o verbo deve ir para o plural. Exemplo: 'Maria e José conversaram até de madrugada.' Se o sujeito composto vier depois do verbo, o verbo pode ficar no plural ou concordar com o núcleo mais próximo. Exemplo: 'Discursaram diretor e professores.' ou 'Discursou diretor e professores.' Em sujeitos compostos por pessoas gramaticais diferentes, a 1ª pessoa do plural (nós) prevalece sobre a 2ª e 3ª; a 2ª pessoa do plural (vós) prevalece sobre a 3ª. Exemplo: 'Eu, tu e ele faremos o trabalho.'",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-55-concordância-verbal-e-nominal_blc_004",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-55-concordância-verbal-e-nominal",
+      "topic_id": null,
+      "order": 4,
+      "title": "Concordância Verbal: Expressões Partitivas e de Quantidade",
+      "content": "Com expressões partitivas (a maioria de, parte de, uma porção de, metade de, o grosso de, grande parte de) seguidas de substantivo no plural, o verbo pode concordar com o partitivo (singular) ou com o substantivo (plural). Exemplo: 'A maioria dos alunos faltou.' ou 'A maioria dos alunos faltaram.' Com expressões de quantidade aproximada (cerca de, mais de, menos de) seguidas de numeral, o verbo concorda com o numeral. Exemplo: 'Cerca de cinquenta milhões de pessoas serão beneficiadas.'",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-55-concordância-verbal-e-nominal_blc_005",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-55-concordância-verbal-e-nominal",
+      "topic_id": null,
+      "order": 5,
+      "title": "Concordância Verbal: Pronomes Relativos 'Que' e 'Quem'",
+      "content": "Quando o sujeito é o pronome relativo 'que', o verbo concorda com o antecedente do pronome. Exemplo: 'Fui eu que fiz o trabalho.' Se o sujeito for o pronome relativo 'quem', o verbo pode concordar com o antecedente ou ficar na 3ª pessoa do singular. Exemplo: 'Fomos nós quem queremos.' ou 'Fomos nós quem quer.'",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-55-concordância-verbal-e-nominal_blc_006",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-55-concordância-verbal-e-nominal",
+      "topic_id": null,
+      "order": 6,
+      "title": "Concordância Verbal: Verbos Impessoais",
+      "content": "Verbos impessoais, como 'haver' no sentido de existir, ocorrer ou acontecer, e 'fazer' indicando tempo decorrido, permanecem na 3ª pessoa do singular. Exemplo: 'Havia muitas pessoas na sala.' (e não 'Haviam'). Verbos que indicam fenômenos da natureza, quando usados em sentido denotativo, também são impessoais. Exemplo: 'Choveu muito ontem.'",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-55-concordância-verbal-e-nominal_blc_007",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-55-concordância-verbal-e-nominal",
+      "topic_id": null,
+      "order": 7,
+      "title": "Concordância Verbal: Verbo 'Ser'",
+      "content": "O verbo 'ser' pode concordar com o sujeito ou com o predicativo, dependendo do contexto. Se o sujeito for um dos pronomes 'o', 'isto', 'isso', 'aquilo', 'tudo', o verbo 'ser' concorda com o predicativo. Exemplo: 'Tudo era felicidade.' Quando indica horas, datas ou distância, o verbo 'ser' concorda com o numeral. Exemplo: 'São duas horas.'",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-55-concordância-verbal-e-nominal_blc_008",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-55-concordância-verbal-e-nominal",
+      "topic_id": null,
+      "order": 8,
+      "title": "Concordância Verbal: Partícula 'Se'",
+      "content": "A partícula 'se' pode atuar como índice de indeterminação do sujeito (IIS) ou como partícula apassivadora (PA). Se for IIS, o verbo fica na 3ª pessoa do singular. Exemplo: 'Precisa-se de funcionários.' Se for PA, o verbo concorda com o sujeito paciente. Exemplo: 'Alugam-se casas.' (Casas são alugadas).",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-55-concordância-verbal-e-nominal_blc_009",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-55-concordância-verbal-e-nominal",
+      "topic_id": null,
+      "order": 9,
+      "title": "Concordância Nominal: Regra Geral e Casos Especiais",
+      "content": "A concordância nominal refere-se à harmonização em gênero e número entre um substantivo e seus modificadores (artigos, adjetivos, pronomes adjetivos e numerais). A regra geral é que esses termos concordam com o substantivo a que se referem.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-55-concordância-verbal-e-nominal_blc_010",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-55-concordância-verbal-e-nominal",
+      "topic_id": null,
+      "order": 10,
+      "title": "Concordância Nominal: Adjetivo com Múltiplos Substantivos",
+      "content": "Quando um adjetivo se refere a dois ou mais substantivos: se o adjetivo vier posposto, ele pode concordar com o mais próximo ou ir para o plural (masculino, se houver gêneros diferentes). Exemplo: 'Comprei calculadora e relógio importado.' ou 'Comprei calculadora e relógio importados.' Se o adjetivo vier anteposto, ele concorda com o substantivo mais próximo. Exemplo: 'Ele fez uma excelente apresentação e discurso.'",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-55-concordância-verbal-e-nominal_blc_011",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-55-concordância-verbal-e-nominal",
+      "topic_id": null,
+      "order": 11,
+      "title": "Concordância Nominal: Palavras 'Meio', 'Bastante', 'Mesmo', 'Próprio', 'Anexo', 'Incluso'",
+      "content": "Palavras como 'meio', 'bastante', 'muito' e 'pouco' são variáveis (adjetivos) quando modificam um substantivo e invariáveis (advérbios) quando modificam um verbo, adjetivo ou outro advérbio. Exemplo: 'A porta estava meio aberta.' (advérbio) vs. 'Comi meia maçã.' (adjetivo). 'Mesmo' e 'próprio' são variáveis quando adjetivos (com o sentido de 'ele próprio', 'ela mesma') e invariáveis quando advérbios (com o sentido de 'realmente', 'até'). Exemplo: 'Ela mesma fez o bolo.' vs. 'Eles mesmo disseram isso.' 'Anexo' e 'incluso' concordam em gênero e número com o substantivo a que se referem. Exemplo: 'As fotos estão anexas.' ou 'Os documentos inclusos.' A expressão 'em anexo' é invariável.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-55-concordância-verbal-e-nominal_blc_012",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-55-concordância-verbal-e-nominal",
+      "topic_id": null,
+      "order": 12,
+      "title": "Concordância Nominal: Expressões 'É bom', 'É necessário', 'É proibido'",
+      "content": "As expressões 'é bom', 'é necessário', 'é proibido' e similares ficam invariáveis (masculino singular) se o substantivo a que se referem não vier precedido de artigo ou outro determinante. Exemplo: 'É proibido entrada.' Se o substantivo for determinado, há concordância. Exemplo: 'É proibida a entrada.'",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-55-concordância-verbal-e-nominal_blc_013",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-55-concordância-verbal-e-nominal",
+      "topic_id": null,
+      "order": 13,
+      "title": "Padrão de Cobrança da Banca CEBRASPE",
+      "content": "A CEBRASPE (antigo CESPE) é conhecida por suas questões no formato 'Certo/Errado' e por exigir uma análise minuciosa da correção gramatical e da manutenção do sentido original em reescritas de frases. Em concordância, a banca frequentemente testa a identificação do sujeito (mesmo quando distante do verbo), a correta aplicação das regras em casos especiais (coletivos, expressões partitivas, verbos impessoais, partícula 'se') e a flexão adequada de adjetivos e advérbios ('meio', 'bastante').",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-55-concordância-verbal-e-nominal_blc_014",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-55-concordância-verbal-e-nominal",
+      "topic_id": null,
+      "order": 14,
+      "title": "Pegadinhas Recorrentes da CEBRASPE",
+      "content": "As principais 'pegadinhas' da CEBRASPE em concordância incluem: 1. **Sujeito Distante do Verbo:** O verbo aparece longe do seu sujeito, induzindo o candidato a concordar com um termo mais próximo, mas que não é o núcleo do sujeito. 2. **Verbos Impessoais:** Uso incorreto de 'haver' no plural no sentido de existir. 3. **Partícula 'Se':** Confusão entre índice de indeterminação do sujeito (verbo no singular) e partícula apassivadora (verbo concorda com o sujeito paciente). 4. **'Meio' e 'Bastante':** Uso como adjetivo (variável) ou advérbio (invariável). 5. **Expressões 'É bom', 'É necessário', 'É proibido':** A variação ou invariabilidade depende da presença ou ausência de determinante. 6. **Sujeito Composto Pós-posto:** A possibilidade de concordar com o mais próximo ou com o plural.",
+      "content_type": "teoria"
+    }
+  ],
+  "topicos": [
+    {
+      "external_topic_code": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-55-concordância-verbal-e-nominal_top_001",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-55-concordância-verbal-e-nominal",
+      "parent_topic_id": null,
+      "topic_number": "5.5",
+      "title": "Concordância Verbal e Nominal",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 1
+    },
+    {
+      "external_topic_code": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-55-concordância-verbal-e-nominal_top_002",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-55-concordância-verbal-e-nominal",
+      "parent_topic_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-55-concordância-verbal-e-nominal_top_001",
+      "topic_number": "5.5.1",
+      "title": "Concordância Verbal",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 2
+    },
+    {
+      "external_topic_code": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-55-concordância-verbal-e-nominal_top_003",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-55-concordância-verbal-e-nominal",
+      "parent_topic_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-55-concordância-verbal-e-nominal_top_002",
+      "topic_number": "5.5.1.1",
+      "title": "Regra Geral da Concordância Verbal",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 3
+    },
+    {
+      "external_topic_code": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-55-concordância-verbal-e-nominal_top_004",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-55-concordância-verbal-e-nominal",
+      "parent_topic_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-55-concordância-verbal-e-nominal_top_002",
+      "topic_number": "5.5.1.2",
+      "title": "Casos Especiais de Concordância Verbal",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 4
+    },
+    {
+      "external_topic_code": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-55-concordância-verbal-e-nominal_top_005",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-55-concordância-verbal-e-nominal",
+      "parent_topic_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-55-concordância-verbal-e-nominal_top_001",
+      "topic_number": "5.5.2",
+      "title": "Concordância Nominal",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 5
+    },
+    {
+      "external_topic_code": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-55-concordância-verbal-e-nominal_top_006",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-55-concordância-verbal-e-nominal",
+      "parent_topic_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-55-concordância-verbal-e-nominal_top_005",
+      "topic_number": "5.5.2.1",
+      "title": "Regra Geral da Concordância Nominal",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 6
+    },
+    {
+      "external_topic_code": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-55-concordância-verbal-e-nominal_top_007",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-55-concordância-verbal-e-nominal",
+      "parent_topic_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-55-concordância-verbal-e-nominal_top_005",
+      "topic_number": "5.5.2.2",
+      "title": "Casos Especiais de Concordância Nominal",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 7
+    },
+    {
+      "external_topic_code": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-55-concordância-verbal-e-nominal_top_008",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-55-concordância-verbal-e-nominal",
+      "parent_topic_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-55-concordância-verbal-e-nominal_top_001",
+      "topic_number": "5.5.3",
+      "title": "Padrão de Cobrança CEBRASPE",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 8
+    },
+    {
+      "external_topic_code": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-55-concordância-verbal-e-nominal_top_009",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-55-concordância-verbal-e-nominal",
+      "parent_topic_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-55-concordância-verbal-e-nominal_top_001",
+      "topic_number": "5.5.4",
+      "title": "Pegadinhas Comuns da CEBRASPE",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 9
+    }
+  ],
+  "topico_componentes": [
+    {
+      "component_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-55-concordância-verbal-e-nominal_cmp_001",
+      "topic_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-55-concordância-verbal-e-nominal_top_003",
+      "component_type": "texto",
+      "content": "O verbo concorda em número e pessoa com o núcleo do sujeito.",
+      "order": 1
+    },
+    {
+      "component_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-55-concordância-verbal-e-nominal_cmp_002",
+      "topic_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-55-concordância-verbal-e-nominal_top_004",
+      "component_type": "subtopico",
+      "content": "Verificar a posição do sujeito em relação ao verbo e a natureza dos núcleos (pessoas gramaticais diferentes, sinônimos, gradação, conectivos 'ou', 'nem', 'com').",
+      "order": 1
+    },
+    {
+      "component_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-55-concordância-verbal-e-nominal_cmp_003",
+      "topic_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-55-concordância-verbal-e-nominal_top_004",
+      "component_type": "subtopico",
+      "content": "Com 'a maioria de', 'parte de', 'cerca de', 'mais de um', etc., a concordância pode ser com o partitivo/numeral ou com o termo plural que o segue.",
+      "order": 2
+    },
+    {
+      "component_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-55-concordância-verbal-e-nominal_cmp_004",
+      "topic_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-55-concordância-verbal-e-nominal_top_004",
+      "component_type": "subtopico",
+      "content": "O verbo concorda com o antecedente do pronome 'que'. Com 'quem', pode concordar com o antecedente ou ficar na 3ª pessoa do singular.",
+      "order": 3
+    },
+    {
+      "component_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-55-concordância-verbal-e-nominal_cmp_005",
+      "topic_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-55-concordância-verbal-e-nominal_top_004",
+      "component_type": "subtopico",
+      "content": "'Haver' (existir), 'fazer' (tempo) e fenômenos da natureza (em sentido denotativo) ficam na 3ª pessoa do singular.",
+      "order": 4
+    },
+    {
+      "component_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-55-concordância-verbal-e-nominal_cmp_006",
+      "topic_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-55-concordância-verbal-e-nominal_top_004",
+      "component_type": "subtopico",
+      "content": "Concorda com o predicativo (se sujeito for 'o', 'isto', 'isso', 'aquilo', 'tudo') ou com o numeral (horas, datas, distância).",
+      "order": 5
+    },
+    {
+      "component_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-55-concordância-verbal-e-nominal_cmp_007",
+      "topic_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-55-concordância-verbal-e-nominal_top_004",
+      "component_type": "subtopico",
+      "content": "Distinguir entre índice de indeterminação do sujeito (verbo no singular) e partícula apassivadora (verbo concorda com o sujeito paciente).",
+      "order": 6
+    },
+    {
+      "component_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-55-concordância-verbal-e-nominal_cmp_008",
+      "topic_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-55-concordância-verbal-e-nominal_top_006",
+      "component_type": "texto",
+      "content": "Artigos, adjetivos, pronomes adjetivos e numerais concordam em gênero e número com o substantivo a que se referem.",
+      "order": 1
+    },
+    {
+      "component_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-55-concordância-verbal-e-nominal_cmp_009",
+      "topic_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-55-concordância-verbal-e-nominal_top_007",
+      "component_type": "subtopico",
+      "content": "Posposto: concorda com o mais próximo ou vai para o plural (masculino, se houver gêneros diferentes). Anteposto: concorda com o mais próximo.",
+      "order": 1
+    },
+    {
+      "component_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-55-concordância-verbal-e-nominal_cmp_010",
+      "topic_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-55-concordância-verbal-e-nominal_top_007",
+      "component_type": "subtopico",
+      "content": "Verificar a função sintática (adjetivo ou advérbio) para determinar a variabilidade. 'Em anexo' é invariável.",
+      "order": 2
+    },
+    {
+      "component_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-55-concordância-verbal-e-nominal_cmp_011",
+      "topic_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-55-concordância-verbal-e-nominal_top_007",
+      "component_type": "subtopico",
+      "content": "Invariáveis se o substantivo não for determinado; variáveis se houver determinante.",
+      "order": 3
+    },
+    {
+      "component_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-55-concordância-verbal-e-nominal_cmp_012",
+      "topic_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-55-concordância-verbal-e-nominal_top_008",
+      "component_type": "texto",
+      "content": "A CEBRASPE foca na identificação do sujeito e seus determinantes, reescrita de frases e correção gramatical. Questões de 'Certo/Errado' são predominantes.",
+      "order": 1
+    },
+    {
+      "component_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-55-concordância-verbal-e-nominal_cmp_013",
+      "topic_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-55-concordância-verbal-e-nominal_top_009",
+      "component_type": "texto",
+      "content": "A banca explora a distância entre sujeito e verbo, o uso de verbos impessoais, a distinção da partícula 'se', a variabilidade de 'meio'/'bastante' e as regras das expressões 'é bom'/'é necessário'/'é proibido'.",
+      "order": 1
+    }
+  ],
+  "pegadinhas": [
+    {
+      "trap_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-55-concordância-verbal-e-nominal_peg_001",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-55-concordância-verbal-e-nominal",
+      "topic_id": null,
+      "title": "Sujeito Distante do Verbo",
+      "description": "A CEBRASPE frequentemente posiciona o sujeito longe do verbo para induzir o erro de concordância com um termo mais próximo que não é o núcleo do sujeito. Sempre identifique o verdadeiro sujeito da oração.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 1
+    },
+    {
+      "trap_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-55-concordância-verbal-e-nominal_peg_002",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-55-concordância-verbal-e-nominal",
+      "topic_id": null,
+      "title": "Verbos Impessoais no Plural",
+      "description": "O uso de 'haviam' no sentido de 'existiam' ou 'faziam' indicando tempo é um erro comum. Lembre-se: 'haver' (existir) e 'fazer' (tempo) são impessoais e ficam no singular.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 2
+    },
+    {
+      "trap_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-55-concordância-verbal-e-nominal_peg_003",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-55-concordância-verbal-e-nominal",
+      "topic_id": null,
+      "title": "Confusão da Partícula 'Se'",
+      "description": "Distinguir 'se' como índice de indeterminação do sujeito (verbo no singular, ex: 'Trata-se de problemas') de 'se' como partícula apassivadora (verbo concorda com o sujeito paciente, ex: 'Vendem-se carros').",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 3
+    },
+    {
+      "trap_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-55-concordância-verbal-e-nominal_peg_004",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-55-concordância-verbal-e-nominal",
+      "topic_id": null,
+      "title": "'Meio' e 'Bastante' Incorretos",
+      "description": "Erro na flexão de 'meio' e 'bastante'. Se for advérbio (modificando adjetivo, verbo ou outro advérbio), é invariável ('meio cansada', 'bastante estudou'). Se for adjetivo (modificando substantivo), é variável ('meia porção', 'bastantes livros').",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 4
+    },
+    {
+      "trap_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-55-concordância-verbal-e-nominal_peg_005",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-55-concordância-verbal-e-nominal",
+      "topic_id": null,
+      "title": "Expressões 'É bom/necessário/proibido' sem Determinante",
+      "description": "A CEBRASPE testa a regra de invariabilidade dessas expressões quando o substantivo não é determinado. Exemplo: 'É proibido entrada.' (e não 'É proibida entrada.').",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 5
+    },
+    {
+      "trap_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-55-concordância-verbal-e-nominal_peg_006",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-55-concordância-verbal-e-nominal",
+      "topic_id": null,
+      "title": "Concordância com 'Um dos que'",
+      "description": "A expressão 'um dos que' permite tanto a concordância no singular quanto no plural para o verbo. A banca pode tentar invalidar uma das formas. Exemplo: 'Ele foi um dos que mais se destacou/destacaram.'",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 6
+    }
+  ],
+  "pontos_memorizacao": [
+    {
+      "memory_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-55-concordância-verbal-e-nominal_mem_001",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-55-concordância-verbal-e-nominal",
+      "topic_id": null,
+      "title": "Verbo = Sujeito (Número e Pessoa)",
+      "content": "Regra de ouro da concordância verbal: o verbo sempre concorda com o núcleo do sujeito em número e pessoa.",
+      "order": 1
+    },
+    {
+      "memory_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-55-concordância-verbal-e-nominal_mem_002",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-55-concordância-verbal-e-nominal",
+      "topic_id": null,
+      "title": "Nome = Determinantes (Gênero e Número)",
+      "content": "Regra de ouro da concordância nominal: artigos, adjetivos, pronomes e numerais concordam com o substantivo em gênero e número.",
+      "order": 2
+    },
+    {
+      "memory_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-55-concordância-verbal-e-nominal_mem_003",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-55-concordância-verbal-e-nominal",
+      "topic_id": null,
+      "title": "'Haver' e 'Fazer' Impessoais = Singular",
+      "content": "Verbos 'haver' (existir) e 'fazer' (tempo) são impessoais e permanecem na 3ª pessoa do singular.",
+      "order": 3
+    },
+    {
+      "memory_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-55-concordância-verbal-e-nominal_mem_004",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-55-concordância-verbal-e-nominal",
+      "topic_id": null,
+      "title": "'Se' (IIS) = Singular; 'Se' (PA) = Sujeito",
+      "content": "Se 'se' for Índice de Indeterminação do Sujeito, o verbo fica no singular. Se for Partícula Apassivadora, o verbo concorda com o sujeito paciente.",
+      "order": 4
+    },
+    {
+      "memory_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-55-concordância-verbal-e-nominal_mem_005",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-55-concordância-verbal-e-nominal",
+      "topic_id": null,
+      "title": "'Meio'/'Bastante' = Adjetivo (Variável) / Advérbio (Invariável)",
+      "content": "A flexão de 'meio' e 'bastante' depende da classe gramatical: adjetivo (varia) ou advérbio (não varia).",
+      "order": 5
+    }
+  ],
+  "quadro_sinotico_itens": [
+    {
+      "summary_item_id": "sum_001",
+      "title": null,
+      "content": "",
+      "order": 1
+    },
+    {
+      "summary_item_id": "sum_002",
+      "title": null,
+      "content": "",
+      "order": 2
+    },
+    {
+      "summary_item_id": "sum_003",
+      "title": null,
+      "content": "",
+      "order": 3
+    },
+    {
+      "summary_item_id": "sum_004",
+      "title": null,
+      "content": "",
+      "order": 4
+    },
+    {
+      "summary_item_id": "sum_005",
+      "title": null,
+      "content": "",
+      "order": 5
+    },
+    {
+      "summary_item_id": "sum_006",
+      "title": null,
+      "content": "",
+      "order": 6
+    },
+    {
+      "summary_item_id": "sum_007",
+      "title": null,
+      "content": "",
+      "order": 7
+    },
+    {
+      "summary_item_id": "sum_008",
+      "title": null,
+      "content": "",
+      "order": 8
+    },
+    {
+      "summary_item_id": "sum_009",
+      "title": null,
+      "content": "",
+      "order": 9
+    },
+    {
+      "summary_item_id": "sum_010",
+      "title": null,
+      "content": "",
+      "order": 10
+    },
+    {
+      "summary_item_id": "sum_011",
+      "title": null,
+      "content": "",
+      "order": 11
+    },
+    {
+      "summary_item_id": "sum_012",
+      "title": null,
+      "content": "",
+      "order": 12
+    },
+    {
+      "summary_item_id": "sum_013",
+      "title": null,
+      "content": "",
+      "order": 13
+    }
+  ],
+  "questoes": [
+    {
+      "question_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-55-concordância-verbal-e-nominal_qst_001",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-55-concordância-verbal-e-nominal",
+      "topic_id": null,
+      "board": null,
+      "year": null,
+      "organization": null,
+      "role": null,
+      "statement": "No trecho 'A maioria dos candidatos não se preparou adequadamente para a prova.', a substituição de 'preparou' por 'prepararam' manteria a correção gramatical do período.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": "Média",
+      "external_reference": null,
+      "commentary": "A questão está CERTA. Com expressões partitivas como 'a maioria de', o verbo pode concordar com o partitivo (singular) ou com o substantivo que o segue (plural). Ambas as formas são aceitas pela norma culta.",
+      "commentary_meta": {
+        "comment_ids": [
+          "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-55-concordância-verbal-e-nominal_com_001"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-55-concordância-verbal-e-nominal_qst_002",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-55-concordância-verbal-e-nominal",
+      "topic_id": null,
+      "board": null,
+      "year": null,
+      "organization": null,
+      "role": null,
+      "statement": "A frase 'Havia muitos problemas a serem resolvidos na reunião.' estaria gramaticalmente correta caso o verbo 'haver' fosse flexionado no plural, resultando em 'Haviam muitos problemas a serem resolvidos na reunião.'.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": "Fácil",
+      "external_reference": null,
+      "commentary": "A questão está ERRADA. O verbo 'haver', no sentido de 'existir', é impessoal e deve ser usado sempre na 3ª pessoa do singular. Portanto, a forma 'Haviam' está incorreta. O correto é 'Havia muitos problemas...'.",
+      "commentary_meta": {
+        "comment_ids": [
+          "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-55-concordância-verbal-e-nominal_com_002"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-55-concordância-verbal-e-nominal_qst_003",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-55-concordância-verbal-e-nominal",
+      "topic_id": null,
+      "board": null,
+      "year": null,
+      "organization": null,
+      "role": null,
+      "statement": "Em 'Trata-se de questões complexas.', a forma verbal 'Trata-se' está corretamente empregada no singular porque o 'se' atua como índice de indeterminação do sujeito.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": "Média",
+      "external_reference": null,
+      "commentary": "A questão está CERTA. Quando o 'se' atua como índice de indeterminação do sujeito, o verbo transitivo indireto ou de ligação permanece na 3ª pessoa do singular. 'Trata-se de' é um exemplo clássico.",
+      "commentary_meta": {
+        "comment_ids": [
+          "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-55-concordância-verbal-e-nominal_com_003"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-55-concordância-verbal-e-nominal_qst_004",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-55-concordância-verbal-e-nominal",
+      "topic_id": null,
+      "board": null,
+      "year": null,
+      "organization": null,
+      "role": null,
+      "statement": "No período 'As portas estavam meio abertas.', a palavra 'meio' deveria concordar em gênero e número com 'portas', resultando em 'meias', para que a correção gramatical fosse mantida.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": "Média",
+      "external_reference": null,
+      "commentary": "A questão está ERRADA. A palavra 'meio', quando significa 'um pouco' (advérbio de intensidade), é invariável. Nesse caso, 'meio' modifica o adjetivo 'abertas', funcionando como advérbio, e, portanto, não deve ser flexionada. O correto é 'meio abertas'.",
+      "commentary_meta": {
+        "comment_ids": [
+          "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-55-concordância-verbal-e-nominal_com_004"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-55-concordância-verbal-e-nominal_qst_005",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-55-concordância-verbal-e-nominal",
+      "topic_id": null,
+      "board": null,
+      "year": null,
+      "organization": null,
+      "role": null,
+      "statement": "A expressão 'É proibido a entrada de pessoas não autorizadas.' apresenta erro de concordância nominal, devendo ser corrigida para 'É proibida a entrada de pessoas não autorizadas.'.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": "Fácil",
+      "external_reference": null,
+      "commentary": "A questão está CERTA. A expressão 'é proibido' só é invariável se o substantivo não for determinado. Como 'entrada' está determinada pelo artigo 'a', a concordância é obrigatória: 'É proibida a entrada'.",
+      "commentary_meta": {
+        "comment_ids": [
+          "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-55-concordância-verbal-e-nominal_com_005"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-55-concordância-verbal-e-nominal_qst_006",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-55-concordância-verbal-e-nominal",
+      "topic_id": null,
+      "board": null,
+      "year": null,
+      "organization": null,
+      "role": null,
+      "statement": "Considerando a frase 'Foram os alunos que organizaram o evento.', a flexão do verbo 'organizaram' está correta, pois concorda com o antecedente do pronome relativo 'que'.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": "Fácil",
+      "external_reference": null,
+      "commentary": "A questão está CERTA. Quando o pronome relativo 'que' tem como antecedente um substantivo ou pronome, o verbo concorda com esse antecedente. 'Alunos' está no plural, então 'organizaram' também deve estar.",
+      "commentary_meta": {
+        "comment_ids": [
+          "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-55-concordância-verbal-e-nominal_com_006"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-55-concordância-verbal-e-nominal_qst_007",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-55-concordância-verbal-e-nominal",
+      "topic_id": null,
+      "board": null,
+      "year": null,
+      "organization": null,
+      "role": null,
+      "statement": "Em 'Os documentos seguem anexo à correspondência.', a palavra 'anexo' deveria estar no plural, 'anexos', para concordar com 'documentos', mantendo a correção gramatical.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": "Média",
+      "external_reference": null,
+      "commentary": "A questão está CERTA. A palavra 'anexo' funciona como adjetivo e deve concordar em gênero e número com o substantivo a que se refere. Como 'documentos' está no masculino plural, o correto é 'anexos'. A forma 'em anexo' seria invariável, mas não é o caso aqui.",
+      "commentary_meta": {
+        "comment_ids": [
+          "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-55-concordância-verbal-e-nominal_com_007"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-55-concordância-verbal-e-nominal_qst_008",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-55-concordância-verbal-e-nominal",
+      "topic_id": null,
+      "board": null,
+      "year": null,
+      "organization": null,
+      "role": null,
+      "statement": "A frase 'Um dia, um mês, um ano não é suficiente para esquecer.' permite a flexão do verbo 'ser' no plural, 'são', sem prejuízo da correção gramatical, por se tratar de sujeito composto em gradação.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": "Difícil",
+      "external_reference": null,
+      "commentary": "A questão está CERTA. Quando os núcleos do sujeito composto formam uma gradação, o verbo pode concordar com o núcleo mais próximo (singular) ou ir para o plural, concordando com a totalidade da ideia. Ambas as formas são aceitas.",
+      "commentary_meta": {
+        "comment_ids": [
+          "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-55-concordância-verbal-e-nominal_com_008"
+        ],
+        "count": 1
+      }
+    }
+  ],
+  "comentarios_questoes": [
+    {
+      "comment_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-55-concordância-verbal-e-nominal_com_001",
+      "question_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-55-concordância-verbal-e-nominal_qst_001",
+      "content": "A questão está CERTA. Com expressões partitivas como 'a maioria de', o verbo pode concordar com o partitivo (singular) ou com o substantivo que o segue (plural). Ambas as formas são aceitas pela norma culta.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-55-concordância-verbal-e-nominal_com_002",
+      "question_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-55-concordância-verbal-e-nominal_qst_002",
+      "content": "A questão está ERRADA. O verbo 'haver', no sentido de 'existir', é impessoal e deve ser usado sempre na 3ª pessoa do singular. Portanto, a forma 'Haviam' está incorreta. O correto é 'Havia muitos problemas...'.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-55-concordância-verbal-e-nominal_com_003",
+      "question_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-55-concordância-verbal-e-nominal_qst_003",
+      "content": "A questão está CERTA. Quando o 'se' atua como índice de indeterminação do sujeito, o verbo transitivo indireto ou de ligação permanece na 3ª pessoa do singular. 'Trata-se de' é um exemplo clássico.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-55-concordância-verbal-e-nominal_com_004",
+      "question_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-55-concordância-verbal-e-nominal_qst_004",
+      "content": "A questão está ERRADA. A palavra 'meio', quando significa 'um pouco' (advérbio de intensidade), é invariável. Nesse caso, 'meio' modifica o adjetivo 'abertas', funcionando como advérbio, e, portanto, não deve ser flexionada. O correto é 'meio abertas'.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-55-concordância-verbal-e-nominal_com_005",
+      "question_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-55-concordância-verbal-e-nominal_qst_005",
+      "content": "A questão está CERTA. A expressão 'é proibido' só é invariável se o substantivo não for determinado. Como 'entrada' está determinada pelo artigo 'a', a concordância é obrigatória: 'É proibida a entrada'.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-55-concordância-verbal-e-nominal_com_006",
+      "question_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-55-concordância-verbal-e-nominal_qst_006",
+      "content": "A questão está CERTA. Quando o pronome relativo 'que' tem como antecedente um substantivo ou pronome, o verbo concorda com esse antecedente. 'Alunos' está no plural, então 'organizaram' também deve estar.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-55-concordância-verbal-e-nominal_com_007",
+      "question_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-55-concordância-verbal-e-nominal_qst_007",
+      "content": "A questão está CERTA. A palavra 'anexo' funciona como adjetivo e deve concordar em gênero e número com o substantivo a que se refere. Como 'documentos' está no masculino plural, o correto é 'anexos'. A forma 'em anexo' seria invariável, mas não é o caso aqui.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-55-concordância-verbal-e-nominal_com_008",
+      "question_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-55-concordância-verbal-e-nominal_qst_008",
+      "content": "A questão está CERTA. Quando os núcleos do sujeito composto formam uma gradação, o verbo pode concordar com o núcleo mais próximo (singular) ou ir para o plural, concordando com a totalidade da ideia. Ambas as formas são aceitas.",
+      "explanation_alternatives": ""
+    }
+  ],
+  "checklist_revisao": [
+    {
+      "checklist_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-55-concordância-verbal-e-nominal_chk_001",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-55-concordância-verbal-e-nominal",
+      "topic_id": null,
+      "item_text": "Identificar o núcleo do sujeito para a concordância verbal.",
+      "completed": false,
+      "order": 1
+    },
+    {
+      "checklist_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-55-concordância-verbal-e-nominal_chk_002",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-55-concordância-verbal-e-nominal",
+      "topic_id": null,
+      "item_text": "Revisar casos de sujeito composto (posição e pessoas gramaticais).",
+      "completed": false,
+      "order": 2
+    },
+    {
+      "checklist_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-55-concordância-verbal-e-nominal_chk_003",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-55-concordância-verbal-e-nominal",
+      "topic_id": null,
+      "item_text": "Atenção aos verbos impessoais ('haver' e 'fazer').",
+      "completed": false,
+      "order": 3
+    },
+    {
+      "checklist_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-55-concordância-verbal-e-nominal_chk_004",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-55-concordância-verbal-e-nominal",
+      "topic_id": null,
+      "item_text": "Diferenciar 'se' (IIS vs. PA).",
+      "completed": false,
+      "order": 4
+    },
+    {
+      "checklist_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-55-concordância-verbal-e-nominal_chk_005",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-55-concordância-verbal-e-nominal",
+      "topic_id": null,
+      "item_text": "Verificar a função de 'meio' e 'bastante' (adjetivo vs. advérbio).",
+      "completed": false,
+      "order": 5
+    },
+    {
+      "checklist_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-55-concordância-verbal-e-nominal_chk_006",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-55-concordância-verbal-e-nominal",
+      "topic_id": null,
+      "item_text": "Concordância de 'anexo', 'incluso', 'mesmo', 'próprio'.",
+      "completed": false,
+      "order": 6
+    },
+    {
+      "checklist_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-55-concordância-verbal-e-nominal_chk_007",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-55-concordância-verbal-e-nominal",
+      "topic_id": null,
+      "item_text": "Regras das expressões 'é bom', 'é necessário', 'é proibido'.",
+      "completed": false,
+      "order": 7
+    },
+    {
+      "checklist_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-55-concordância-verbal-e-nominal_chk_008",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-55-concordância-verbal-e-nominal",
+      "topic_id": null,
+      "item_text": "Analisar o padrão de reescrita e correção gramatical da CEBRASPE.",
+      "completed": false,
+      "order": 8
+    },
+    {
+      "checklist_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-55-concordância-verbal-e-nominal_chk_009",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-55-concordância-verbal-e-nominal",
+      "topic_id": null,
+      "item_text": "Praticar questões 'Certo/Errado' focadas nas pegadinhas da banca.",
+      "completed": false,
+      "order": 9
+    }
+  ],
+  "referencias": [
+    {
+      "reference_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-55-concordância-verbal-e-nominal_ref_001",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-55-concordância-verbal-e-nominal",
+      "reference_type": "Categoria de Fonte",
+      "author_name": null,
+      "title": "Gramáticas normativas da Língua Portuguesa (e.g., Bechara, Cegalla, Cunha e Cintra).",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": null,
+      "accessed_at": null,
+      "description": "Gramáticas normativas da Língua Portuguesa (e.g., Bechara, Cegalla, Cunha e Cintra)."
+    },
+    {
+      "reference_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-55-concordância-verbal-e-nominal_ref_002",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-55-concordância-verbal-e-nominal",
+      "reference_type": "Categoria de Fonte",
+      "author_name": null,
+      "title": "Manuais de redação e estilo para concursos públicos.",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": null,
+      "accessed_at": null,
+      "description": "Manuais de redação e estilo para concursos públicos."
+    },
+    {
+      "reference_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-55-concordância-verbal-e-nominal_ref_003",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-55-concordância-verbal-e-nominal",
+      "reference_type": "Categoria de Fonte",
+      "author_name": null,
+      "title": "Análise de questões anteriores da banca CEBRASPE/CESPE sobre concordância verbal e nominal.",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": null,
+      "accessed_at": null,
+      "description": "Análise de questões anteriores da banca CEBRASPE/CESPE sobre concordância verbal e nominal."
+    },
+    {
+      "reference_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-55-concordância-verbal-e-nominal_ref_004",
+      "material_id": "5-língua-portuguesa-5-domínio-da-estrutura-morfossintática-do-período-55-concordância-verbal-e-nominal",
+      "reference_type": "Categoria de Fonte",
+      "author_name": null,
+      "title": "Artigos e materiais especializados em Língua Portuguesa para concursos.",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": null,
+      "accessed_at": null,
+      "description": "Artigos e materiais especializados em Língua Portuguesa para concursos."
+    }
+  ],
+  "estatisticas_de_geracao": {
+    "total_topicos": 9,
+    "total_componentes_topico": 13,
+    "total_entendimentos_relevantes": 4,
+    "total_pegadinhas": 6,
+    "total_pontos_memorizacao": 5,
+    "total_itens_quadro_sinotico": 13,
+    "total_questoes": 8,
+    "total_comentarios_questoes": 8,
+    "total_itens_checklist": 9,
+    "total_referencias": 4
+  },
+  "validacao_interna": {
+    "pesquisa_previa_realizada": true,
+    "analise_de_cobrancas_anteriores_realizada": true,
+    "material_atualizado": true,
+    "json_valido": true,
+    "estrutura_relacional_respeitada": true,
+    "numeracao_respeitada": true,
+    "houve_quebra_de_hierarquia": false,
+    "houve_nivel_numerico_superior_a_3": false,
+    "fontes_verificadas": true,
+    "sem_informacao_inventada": true
+  },
+  "metadata": {
+    "source_file_name": "5__língua-portuguesa__5-domínio-da-estrutura-morfossintática-do-período-5.5-concordância-verbal-e-nominal.json",
+    "normalized_checksum": "909c02e3f94537e85ddeb37400cb57dae804b59db2a1cd68d3b45fc3d9fdc9b2",
+    "subject_slug": "portugues",
+    "material_slug": "concordancia-verbal-e-nominal-cebraspe",
+    "title_slug": "concordancia-verbal-e-nominal-para-concursos",
+    "board_slug": "cebraspe",
+    "counters": {
+      "blocks": 14,
+      "topics": 9,
+      "topic_components": 13,
+      "traps": 6,
+      "memory_points": 5,
+      "summary_items": 13,
+      "questions": 8,
+      "question_comments": 8,
+      "checklist_items": 9,
+      "references": 4
+    }
+  }
+}

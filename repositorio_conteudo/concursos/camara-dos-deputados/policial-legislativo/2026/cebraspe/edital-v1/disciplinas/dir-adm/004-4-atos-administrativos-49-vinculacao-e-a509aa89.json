@@ -1,0 +1,881 @@
+{
+  "schema_version": "1.0",
+  "normalized_at": "2026-04-07T15:39:14.341651-03:00",
+  "normalizer_version": "2.0.0",
+  "exported_at": "2026-04-07T17:46:00Z",
+  "source_request": {
+    "purpose": "Concurso público",
+    "general_area": "Direito",
+    "subject_name": "Direito Administrativo",
+    "subarea_name": "Direito Administrativo",
+    "main_theme": "4 Atos administrativos: 4.9 Vinculação e discricionariedade",
+    "theme_scope": "Teoria completa, incidência em prova, padrão de cobrança da banca, pegadinhas e questões comentadas",
+    "board_style": "CEBRASPE",
+    "depth_level": "Exaustivo",
+    "goal": "Teoria completa, revisão estratégica, pegadinhas e questões comentadas",
+    "base_topic_number": "4",
+    "topic_title": "4 Atos administrativos: 4.9 Vinculação e discricionariedade",
+    "syllabus_reference": "Conteúdo programático da disciplina Direito Administrativo",
+    "priority_sources": [
+      "Constituição Federal e legislação oficial vigente",
+      "Jurisprudência pertinente e atual, quando cabível",
+      "Doutrina consolidada",
+      "Questões anteriores da banca"
+    ],
+    "minimum_questions": 8,
+    "question_format": "Certo/Errado",
+    "prioritize_real_questions": true,
+    "response_language": "português",
+    "target_audience": "Candidato de concurso público",
+    "additional_notes": "Executar exatamente para esta linha individual do topicos.txt. Não juntar com outros tópicos. Não pular este tópico. Dar destaque ao padrão de cobrança da banca, aos pontos mais cobrados e às pegadinhas recorrentes.",
+    "input_hash": "d8189ca78158",
+    "extras": {}
+  },
+  "material": {
+    "material_id": "mat_001",
+    "slug": "atos-administrativos-vinculacao-e-discricionariedade-cebraspe",
+    "title": "Atos Administrativos: Vinculação e Discricionariedade para Concursos (CEBRASPE)",
+    "base_number": "4",
+    "topic_title": "4 Atos administrativos: 4.9 Vinculação e discricionariedade",
+    "purpose": "Concurso público",
+    "area_name": "Direito",
+    "subject_name": "Direito Administrativo",
+    "subarea_name": "Direito Administrativo",
+    "main_theme": "Atos administrativos: Vinculação e discricionariedade",
+    "theme_scope": "Teoria completa, incidência em prova, padrão de cobrança da banca, pegadinhas e questões comentadas",
+    "board_style": "CEBRASPE",
+    "depth_level": "Exaustivo",
+    "study_goal": "Teoria completa, revisão estratégica, pegadinhas e questões comentadas",
+    "target_audience": "Candidato de concurso público",
+    "language_code": "português",
+    "update_status": "Atualizado em 2026",
+    "current_note": "Conteúdo revisado com base na legislação vigente, doutrina consolidada e jurisprudência atualizada do STF e STJ, além de análise de questões recentes da banca CEBRASPE.",
+    "has_case_law": true,
+    "case_law_justification": "A jurisprudência é crucial para entender os limites do controle judicial sobre atos discricionários, tema frequentemente cobrado pela CEBRASPE.",
+    "has_information_limitation": false,
+    "information_limitation_desc": null,
+    "content_checksum": "placeholder_checksum_content",
+    "extras": {}
+  },
+  "blocos_textuais": [
+    {
+      "external_block_code": "blc_001",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 1,
+      "title": "Introdução à Vinculação e Discricionariedade dos Atos Administrativos",
+      "content": "A distinção entre atos administrativos vinculados e discricionários é um dos pilares do Direito Administrativo, fundamental para compreender a atuação da Administração Pública e os limites do controle judicial. Este tema é recorrente em concursos públicos, especialmente nos exames da banca CEBRASPE, que exige do candidato não apenas o conhecimento conceitual, mas também a capacidade de identificar sua aplicação prática e as nuances que envolvem o controle de legalidade e mérito.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_002",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 2,
+      "title": "Padrão de Cobrança da Banca CEBRASPE",
+      "content": "A CEBRASPE costuma abordar a vinculação e a discricionariedade dos atos administrativos de forma a testar a compreensão do candidato sobre: a) a natureza dos elementos do ato administrativo (competência, finalidade, forma, motivo e objeto) e quais deles são sempre vinculados ou passíveis de discricionariedade; b) os limites do poder discricionário, enfatizando que discricionariedade não se confunde com arbitrariedade; c) o controle judicial dos atos administrativos, com foco na impossibilidade de o Judiciário adentrar o mérito administrativo (conveniência e oportunidade), salvo em casos de ilegalidade, desvio de finalidade, irrazoabilidade ou desproporcionalidade; d) a Teoria dos Motivos Determinantes, que vincula a Administração aos motivos que declarou para a prática do ato, mesmo que discricionário.",
+      "content_type": "teoria"
+    }
+  ],
+  "topicos": [
+    {
+      "external_topic_code": "top_001",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "4.9.1",
+      "title": "Conceito de Ato Administrativo Vinculado",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 1
+    },
+    {
+      "external_topic_code": "top_002",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "4.9.2",
+      "title": "Conceito de Ato Administrativo Discricionário",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 2
+    },
+    {
+      "external_topic_code": "top_003",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "4.9.3",
+      "title": "Diferenças Fundamentais e Elementos do Ato Administrativo",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 3
+    },
+    {
+      "external_topic_code": "top_004",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "4.9.3.1",
+      "title": "Elementos Sempre Vinculados",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 4
+    },
+    {
+      "external_topic_code": "top_005",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "4.9.3.2",
+      "title": "Elementos Potencialmente Discricionários",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 5
+    },
+    {
+      "external_topic_code": "top_006",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "4.9.4",
+      "title": "Mérito Administrativo",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 6
+    },
+    {
+      "external_topic_code": "top_007",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "4.9.5",
+      "title": "Limites da Discricionariedade e Controle Judicial",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 7
+    },
+    {
+      "external_topic_code": "top_008",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "4.9.5.1",
+      "title": "Controle de Legalidade",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 8
+    },
+    {
+      "external_topic_code": "top_009",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "4.9.5.2",
+      "title": "Impossibilidade de Controle de Mérito",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 9
+    },
+    {
+      "external_topic_code": "top_010",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "4.9.5.3",
+      "title": "Exceções ao Controle de Mérito (Princípios da Razoabilidade e Proporcionalidade)",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 10
+    },
+    {
+      "external_topic_code": "top_011",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "4.9.6",
+      "title": "Teoria dos Motivos Determinantes",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 11
+    }
+  ],
+  "topico_componentes": [
+    {
+      "component_id": "cmp_001",
+      "topic_id": "top_001",
+      "component_type": "texto",
+      "content": "O ato administrativo vinculado é aquele em que a lei estabelece, de forma exaustiva e detalhada, todos os requisitos e condições para sua prática, não conferindo ao administrador qualquer margem de liberdade para decidir sobre sua conveniência ou oportunidade. O administrador atua como mero executor da vontade legal, devendo praticar o ato exatamente como a norma prescreve, uma vez preenchidos os pressupostos legais. A ausência de discricionariedade implica que, presentes os requisitos, o ato deve ser praticado, e sua não emissão constitui uma negativa indevida de direito.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_002",
+      "topic_id": "top_001",
+      "component_type": "exemplo",
+      "content": "Concessão de licença para construir, se o requerente cumpre todos os requisitos legais e apresenta a documentação exigida. Aposentadoria compulsória, quando o servidor atinge a idade limite. Lançamento tributário, uma vez configurado o fato gerador.",
+      "order": 2
+    },
+    {
+      "component_id": "cmp_003",
+      "topic_id": "top_002",
+      "component_type": "texto",
+      "content": "O ato administrativo discricionário é aquele em que a lei confere à Administração Pública uma margem de liberdade para que o agente público, dentro dos limites legais, escolha a solução que melhor atenda ao interesse público, avaliando a conveniência e a oportunidade da prática do ato. Essa liberdade não é absoluta, mas relativa, e deve ser exercida sempre em conformidade com a lei e os princípios que regem a Administração Pública.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_004",
+      "topic_id": "top_002",
+      "component_type": "exemplo",
+      "content": "Autorização para uso de bem público. Definição do horário de funcionamento de um circo em praça pública, considerando o impacto na vizinhança. Aplicação de multa dentro de um intervalo legal (ex: de R$ 200 a R$ 400).",
+      "order": 2
+    },
+    {
+      "component_id": "cmp_005",
+      "topic_id": "top_003",
+      "component_type": "texto",
+      "content": "A principal diferença entre atos vinculados e discricionários reside na margem de liberdade conferida ao administrador. Enquanto no ato vinculado essa margem é inexistente, no discricionário ela existe, mas é delimitada pela lei. Para entender essa distinção, é crucial analisar os elementos do ato administrativo: competência, finalidade, forma, motivo e objeto.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_006",
+      "topic_id": "top_004",
+      "component_type": "texto",
+      "content": "São elementos que a lei sempre define de forma precisa, não deixando espaço para a valoração do administrador.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_007",
+      "topic_id": "top_004",
+      "component_type": "lista_simples",
+      "content": "['**Competência**: A atribuição legal para a prática do ato. É sempre vinculada, pois resulta da lei e não pode ser alterada discricionariamente.', '**Finalidade**: O objetivo de interesse público que o ato busca atingir. É sempre vinculada, expressa ou implicitamente na lei, e não há ato administrativo sem finalidade pública.', '**Forma**: O revestimento exteriorizador do ato administrativo (ex: escrito, verbal). É sempre vinculada, pois a lei geralmente prescreve a forma para sua validade.']",
+      "order": 2
+    },
+    {
+      "component_id": "cmp_008",
+      "topic_id": "top_005",
+      "component_type": "texto",
+      "content": "São elementos que a lei pode deixar uma margem de liberdade para a avaliação do administrador, permitindo o juízo de conveniência e oportunidade.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_009",
+      "topic_id": "top_005",
+      "component_type": "lista_simples",
+      "content": "['**Motivo**: A situação de fato e de direito que autoriza ou determina a prática do ato. Pode ser vinculado (quando a lei o descreve exaustivamente) ou discricionário (quando a lei confere margem de avaliação ao administrador).', '**Objeto**: O conteúdo do ato, o efeito jurídico imediato que ele produz. Pode ser vinculado (quando a lei define exatamente o conteúdo) ou discricionário (quando a lei não define o conteúdo, permitindo a escolha do administrador).']",
+      "order": 2
+    },
+    {
+      "component_id": "cmp_010",
+      "topic_id": "top_006",
+      "component_type": "texto",
+      "content": "O mérito administrativo refere-se ao juízo de conveniência e oportunidade que a Administração Pública faz ao praticar um ato discricionário. É a escolha, dentro dos limites legais, da melhor solução para o interesse público no caso concreto. O mérito administrativo é exclusivo da Administração, não podendo ser revisto pelo Poder Judiciário, salvo em situações excepcionais de ilegalidade.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_011",
+      "topic_id": "top_007",
+      "component_type": "texto",
+      "content": "A discricionariedade administrativa não é um poder ilimitado ou arbitrário. Ela encontra seus limites na própria lei, na Constituição Federal e nos princípios que regem a Administração Pública, como a legalidade, moralidade, impessoalidade, publicidade, eficiência, razoabilidade e proporcionalidade. O controle judicial sobre os atos administrativos, sejam eles vinculados ou discricionários, é uma garantia fundamental do Estado Democrático de Direito.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_012",
+      "topic_id": "top_008",
+      "component_type": "texto",
+      "content": "O Poder Judiciário pode e deve analisar a legalidade de *todos* os atos administrativos, sejam eles vinculados ou discricionários. Isso significa verificar se o ato foi praticado por autoridade competente, se observou a forma prescrita em lei, se teve a finalidade pública exigida e se os motivos declarados são reais e compatíveis com a decisão.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_013",
+      "topic_id": "top_009",
+      "component_type": "texto",
+      "content": "Em regra, o Poder Judiciário não pode adentrar o mérito administrativo, ou seja, não pode analisar a conveniência e a oportunidade da decisão tomada pela Administração. Isso decorre do princípio da separação dos Poderes, que reserva à Administração a prerrogativa de fazer juízos de valor sobre a gestão e a política pública.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_014",
+      "topic_id": "top_010",
+      "component_type": "texto",
+      "content": "Embora o controle de mérito seja vedado, o Judiciário pode analisar a legalidade dos atos discricionários sob a ótica dos princípios da razoabilidade e da proporcionalidade. Se um ato discricionário, mesmo dentro da margem legal, for manifestamente irrazoável, desproporcional, ou implicar desvio de finalidade, o Judiciário poderá intervir para anular o ato por ilegalidade.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_015",
+      "topic_id": "top_011",
+      "component_type": "texto",
+      "content": "A Teoria dos Motivos Determinantes estabelece que, quando a Administração Pública explicita os motivos que a levaram a praticar um ato (mesmo que discricionário), ela fica vinculada a esses motivos. Se os motivos declarados forem falsos, inexistentes ou inadequados, o ato será nulo por vício de legalidade, independentemente de ser vinculado ou discricionário. Este princípio reforça a necessidade de motivação dos atos administrativos, conforme previsto na Lei nº 9.784/99.",
+      "order": 1
+    }
+  ],
+  "pegadinhas": [
+    {
+      "trap_id": "peg_001",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": "Confundir discricionariedade com arbitrariedade",
+      "description": "A discricionariedade não é liberdade plena para o administrador agir como quiser, mas sim uma margem de escolha dentro dos limites impostos pela lei e pelos princípios administrativos. A arbitrariedade é ilegalidade e abuso de poder.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 1
+    },
+    {
+      "trap_id": "peg_002",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": "Afirmar que ato discricionário é imune a controle judicial",
+      "description": "Todo ato administrativo, seja vinculado ou discricionário, está sujeito ao controle de legalidade pelo Poder Judiciário. O que não se controla é o mérito (conveniência e oportunidade), salvo em casos de ilegalidade, desvio de finalidade, irrazoabilidade ou desproporcionalidade.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 2
+    },
+    {
+      "trap_id": "peg_003",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": "Inverter elementos vinculados e discricionários",
+      "description": "A CEBRASPE frequentemente tenta confundir o candidato sobre quais elementos do ato administrativo são sempre vinculados (competência, finalidade, forma) e quais podem ser discricionários (motivo e objeto).",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 3
+    },
+    {
+      "trap_id": "peg_004",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": "Desconsiderar a Teoria dos Motivos Determinantes para atos discricionários",
+      "description": "Mesmo em atos discricionários, se a Administração explicita os motivos, ela fica a eles vinculada. A falsidade ou inexistência desses motivos acarreta a nulidade do ato.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 4
+    }
+  ],
+  "pontos_memorizacao": [
+    {
+      "memory_id": "mem_001",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": null,
+      "content": "Ato Vinculado: Lei define TUDO. Sem margem de escolha.",
+      "order": 1
+    },
+    {
+      "memory_id": "mem_002",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": null,
+      "content": "Ato Discricionário: Lei confere MARGEM de escolha (conveniência e oportunidade).",
+      "order": 2
+    },
+    {
+      "memory_id": "mem_003",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": null,
+      "content": "Elementos SEMPRE vinculados: Competência, Finalidade, Forma (COFI-FOR).",
+      "order": 3
+    },
+    {
+      "memory_id": "mem_004",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": null,
+      "content": "Elementos POTENCIALMENTE discricionários: Motivo e Objeto.",
+      "order": 4
+    },
+    {
+      "memory_id": "mem_005",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": null,
+      "content": "Mérito Administrativo = Conveniência e Oportunidade. Exclusivo da Administração.",
+      "order": 5
+    },
+    {
+      "memory_id": "mem_006",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": null,
+      "content": "Controle Judicial: SEMPRE de LEGALIDADE. NUNCA de MÉRITO (em regra).",
+      "order": 6
+    },
+    {
+      "memory_id": "mem_007",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": null,
+      "content": "Exceções ao controle de mérito: Ilegalidade, desvio de finalidade, irrazoabilidade, desproporcionalidade.",
+      "order": 7
+    },
+    {
+      "memory_id": "mem_008",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": null,
+      "content": "Teoria dos Motivos Determinantes: Administração vinculada aos motivos declarados, mesmo em atos discricionários.",
+      "order": 8
+    }
+  ],
+  "quadro_sinotico_itens": [
+    {
+      "summary_item_id": "sum_001",
+      "title": "Ato Vinculado vs. Ato Discricionário",
+      "content": "",
+      "order": 1
+    },
+    {
+      "summary_item_id": "sum_002",
+      "title": "Controle Judicial",
+      "content": "",
+      "order": 2
+    }
+  ],
+  "questoes": [
+    {
+      "question_id": "qst_001",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": "CESPE / CEBRASPE",
+      "year": 2021,
+      "organization": "Tribunal de Contas do Distrito Federal",
+      "role": "Legislação",
+      "statement": "A discricionariedade para a prática de determinado ato administrativo pode decorrer de disposição expressa ou de omissão de norma legal.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "A discricionariedade pode, de fato, decorrer de disposição expressa da lei, que confere margem de escolha ao administrador, ou de uma omissão da norma legal em detalhar todos os elementos do ato, deixando espaço para a valoração da Administração. O que não se admite é a arbitrariedade, que é a ausência de limites legais. Portanto, o item está CERTO.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_001"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_002",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": "CESPE / CEBRASPE",
+      "year": 2024,
+      "organization": "TSE",
+      "role": "Analista Judiciário",
+      "statement": "A administração pública fica vinculada aos motivos adotados para a prática de ato administrativo, salvo se de natureza discricionária.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "A afirmativa está ERRADA. Pela Teoria dos Motivos Determinantes, a Administração Pública fica vinculada aos motivos que declarou para a prática de um ato, *mesmo que discricionário*. Se os motivos forem falsos, inexistentes ou inadequados, o ato será nulo. A discricionariedade não afasta a vinculação aos motivos declarados.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_002"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_003",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": "CESPE / CEBRASPE",
+      "year": 2008,
+      "organization": "HEMOBRÁS",
+      "role": "Analista de Gestão Corporativa - Advogado",
+      "statement": "O mérito administrativo consiste no poder conferido por lei ao administrador para que ele, nos atos discricionários, decida sobre a oportunidade e conveniência de sua prática.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "O item está CERTO. O mérito administrativo é, precisamente, o juízo de conveniência e oportunidade que o administrador realiza ao praticar atos discricionários, escolhendo a melhor solução para o interesse público dentro dos limites legais.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_003"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_004",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": "CESPE / CEBRASPE",
+      "year": 2022,
+      "organization": "AGU",
+      "role": "Procurador Federal",
+      "statement": "O Poder Judiciário tem a prerrogativa de apreciar a legalidade do ato administrativo. Quanto ao ato vinculado, aprecia se os elementos previstos na lei estão refletidos no ato administrativo. Porém, diferentemente do ato vinculado, no ato discricionário a lei confere margem de escolha ao administrador público para análise de mérito do ato.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "O item está CERTO. O Poder Judiciário controla a legalidade de todos os atos administrativos. Nos atos vinculados, verifica-se a estrita conformidade com a lei. Nos atos discricionários, a lei confere margem de escolha quanto ao mérito (conveniência e oportunidade), que, em regra, não é passível de controle judicial direto, mas sim de legalidade.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_004"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_005",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": "CESPE / CEBRASPE",
+      "year": 2022,
+      "organization": "INSS",
+      "role": "Técnico do Seguro Social",
+      "statement": "A revogação de um ato administrativo somente é possível por intermédio do poder judiciário.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "A afirmativa está ERRADA. A revogação de um ato administrativo é prerrogativa da própria Administração Pública, por motivos de conveniência e oportunidade (mérito administrativo). O Poder Judiciário não revoga atos administrativos, apenas os anula por ilegalidade.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_005"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_006",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": "CESPE / CEBRASPE",
+      "year": 2022,
+      "organization": "AGU",
+      "role": "Procurador Federal",
+      "statement": "O controle judicial sobre os atos da administração é exclusivamente de legalidade. O que é vedado ao Poder Judiciário é apreciar o que se denomina normalmente de mérito administrativo.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "O item está CERTO. O controle judicial dos atos administrativos se restringe à legalidade, não podendo o Judiciário adentrar o mérito administrativo (conveniência e oportunidade), que é de competência exclusiva da Administração.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_006"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_007",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": "CESPE / CEBRASPE",
+      "year": 2023,
+      "organization": "TJDFT",
+      "role": "Analista Judiciário",
+      "statement": "A competência, a finalidade e a forma são elementos do ato administrativo que podem ser discricionários, a depender da lei que rege o ato.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "A afirmativa está ERRADA. A competência, a finalidade e a forma são elementos do ato administrativo que são *sempre vinculados* à lei, não havendo margem para discricionariedade. Os elementos que podem ser discricionários são o motivo e o objeto.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_007"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_008",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": "CESPE / CEBRASPE",
+      "year": 2024,
+      "organization": "TSE",
+      "role": "Analista Judiciário",
+      "statement": "A discricionariedade administrativa é imune ao controle judicial, especialmente diante da prática de atos que impliquem restrições a direitos dos administrados.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "A afirmativa está ERRADA. A discricionariedade administrativa *não é imune* ao controle judicial. Embora o Judiciário não adentre o mérito, ele pode e deve controlar a legalidade do ato discricionário, inclusive sob a ótica dos princípios da razoabilidade e proporcionalidade, especialmente quando há restrição de direitos.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_008"
+        ],
+        "count": 1
+      }
+    }
+  ],
+  "comentarios_questoes": [
+    {
+      "comment_id": "com_001",
+      "question_id": "qst_001",
+      "content": "A discricionariedade pode, de fato, decorrer de disposição expressa da lei, que confere margem de escolha ao administrador, ou de uma omissão da norma legal em detalhar todos os elementos do ato, deixando espaço para a valoração da Administração. O que não se admite é a arbitrariedade, que é a ausência de limites legais. Portanto, o item está CERTO.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_002",
+      "question_id": "qst_002",
+      "content": "A afirmativa está ERRADA. Pela Teoria dos Motivos Determinantes, a Administração Pública fica vinculada aos motivos que declarou para a prática de um ato, *mesmo que discricionário*. Se os motivos forem falsos, inexistentes ou inadequados, o ato será nulo. A discricionariedade não afasta a vinculação aos motivos declarados.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_003",
+      "question_id": "qst_003",
+      "content": "O item está CERTO. O mérito administrativo é, precisamente, o juízo de conveniência e oportunidade que o administrador realiza ao praticar atos discricionários, escolhendo a melhor solução para o interesse público dentro dos limites legais.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_004",
+      "question_id": "qst_004",
+      "content": "O item está CERTO. O Poder Judiciário controla a legalidade de todos os atos administrativos. Nos atos vinculados, verifica-se a estrita conformidade com a lei. Nos atos discricionários, a lei confere margem de escolha quanto ao mérito (conveniência e oportunidade), que, em regra, não é passível de controle judicial direto, mas sim de legalidade.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_005",
+      "question_id": "qst_005",
+      "content": "A afirmativa está ERRADA. A revogação de um ato administrativo é prerrogativa da própria Administração Pública, por motivos de conveniência e oportunidade (mérito administrativo). O Poder Judiciário não revoga atos administrativos, apenas os anula por ilegalidade.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_006",
+      "question_id": "qst_006",
+      "content": "O item está CERTO. O controle judicial dos atos administrativos se restringe à legalidade, não podendo o Judiciário adentrar o mérito administrativo (conveniência e oportunidade), que é de competência exclusiva da Administração.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_007",
+      "question_id": "qst_007",
+      "content": "A afirmativa está ERRADA. A competência, a finalidade e a forma são elementos do ato administrativo que são *sempre vinculados* à lei, não havendo margem para discricionariedade. Os elementos que podem ser discricionários são o motivo e o objeto.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_008",
+      "question_id": "qst_008",
+      "content": "A afirmativa está ERRADA. A discricionariedade administrativa *não é imune* ao controle judicial. Embora o Judiciário não adentre o mérito, ele pode e deve controlar a legalidade do ato discricionário, inclusive sob a ótica dos princípios da razoabilidade e proporcionalidade, especialmente quando há restrição de direitos.",
+      "explanation_alternatives": ""
+    }
+  ],
+  "checklist_revisao": [
+    {
+      "checklist_id": "chk_001",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Compreender a diferença conceitual entre ato vinculado e ato discricionário.",
+      "completed": false,
+      "order": 1
+    },
+    {
+      "checklist_id": "chk_002",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Identificar os elementos do ato administrativo que são sempre vinculados (competência, finalidade, forma).",
+      "completed": false,
+      "order": 2
+    },
+    {
+      "checklist_id": "chk_003",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Identificar os elementos do ato administrativo que podem ser discricionários (motivo, objeto).",
+      "completed": false,
+      "order": 3
+    },
+    {
+      "checklist_id": "chk_004",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Entender o conceito de mérito administrativo (conveniência e oportunidade).",
+      "completed": false,
+      "order": 4
+    },
+    {
+      "checklist_id": "chk_005",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Saber os limites do controle judicial sobre os atos administrativos (legalidade vs. mérito).",
+      "completed": false,
+      "order": 5
+    },
+    {
+      "checklist_id": "chk_006",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Conhecer as exceções ao controle de mérito (razoabilidade, proporcionalidade, desvio de finalidade).",
+      "completed": false,
+      "order": 6
+    },
+    {
+      "checklist_id": "chk_007",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Dominar a Teoria dos Motivos Determinantes e sua aplicação a atos discricionários.",
+      "completed": false,
+      "order": 7
+    },
+    {
+      "checklist_id": "chk_008",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Revisar as Súmulas do STF e STJ pertinentes ao tema (ex: Súmula 473-STF, Súmula 665-STJ).",
+      "completed": false,
+      "order": 8
+    },
+    {
+      "checklist_id": "chk_009",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Praticar questões CEBRASPE para identificar pegadinhas e o padrão de cobrança.",
+      "completed": false,
+      "order": 9
+    }
+  ],
+  "referencias": [
+    {
+      "reference_id": "ref_001",
+      "material_id": "mat_001",
+      "reference_type": "legislacao",
+      "author_name": null,
+      "title": "Constituição da República Federativa do Brasil de 1988",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "http://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_002",
+      "material_id": "mat_001",
+      "reference_type": "legislacao",
+      "author_name": null,
+      "title": "Lei nº 9.784, de 29 de janeiro de 1999",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "http://www.planalto.gov.br/ccivil_03/leis/l9784.htm",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_003",
+      "material_id": "mat_001",
+      "reference_type": "doutrina",
+      "author_name": null,
+      "title": "DI PIETRO, Maria Sylvia Zanella. Direito Administrativo. São Paulo: Atlas.",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": null,
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_004",
+      "material_id": "mat_001",
+      "reference_type": "doutrina",
+      "author_name": null,
+      "title": "MEIRELLES, Hely Lopes. Direito Administrativo Brasileiro. São Paulo: Malheiros.",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": null,
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_005",
+      "material_id": "mat_001",
+      "reference_type": "doutrina",
+      "author_name": null,
+      "title": "MELLO, Celso Antônio Bandeira de. Curso de Direito Administrativo. São Paulo: Malheiros.",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": null,
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_006",
+      "material_id": "mat_001",
+      "reference_type": "jurisprudencia",
+      "author_name": null,
+      "title": "Súmula 473 do Supremo Tribunal Federal (STF)",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.stf.jus.br/portal/jurisprudencia/menuSumario.asp?sumula=473",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_007",
+      "material_id": "mat_001",
+      "reference_type": "jurisprudencia",
+      "author_name": null,
+      "title": "Súmula 665 do Superior Tribunal de Justiça (STJ)",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.stj.jus.br/docs_internet/informativos/S%C3%BAmula%20665.pdf",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_008",
+      "material_id": "mat_001",
+      "reference_type": "questoes_anteriores",
+      "author_name": null,
+      "title": "Questões CEBRASPE de Direito Administrativo - Atos Administrativos (diversos anos e órgãos)",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://www.qconcursos.com/questoes-de-concursos/disciplinas/direito-administrativo/atos-administrativos/cebraspe",
+      "accessed_at": null,
+      "description": null
+    }
+  ],
+  "estatisticas_de_geracao": {
+    "total_topicos": 11,
+    "total_componentes_topico": 15,
+    "total_entendimentos_relevantes": 3,
+    "total_pegadinhas": 4,
+    "total_pontos_memorizacao": 8,
+    "total_itens_quadro_sinotico": 2,
+    "total_questoes": 8,
+    "total_comentarios_questoes": 8,
+    "total_itens_checklist": 9,
+    "total_referencias": 8
+  },
+  "validacao_interna": {
+    "pesquisa_previa_realizada": true,
+    "analise_de_cobrancas_anteriores_realizada": true,
+    "material_atualizado": true,
+    "json_valido": true,
+    "estrutura_relacional_respeitada": true,
+    "numeracao_respeitada": true,
+    "houve_quebra_de_hierarquia": false,
+    "houve_nivel_numerico_superior_a_3": false,
+    "fontes_verificadas": true,
+    "sem_informacao_inventada": true
+  },
+  "metadata": {
+    "source_file_name": "4__direito-administrativo__4-atos-administrativos-4.9-vinculação-e-discricionariedade.json",
+    "normalized_checksum": "0b30ca64901c5612b6b2b59c6f1984c7e34ff0b1cf075923ac44ef68b77157d7",
+    "subject_slug": "dir-adm",
+    "material_slug": "atos-administrativos-vinculacao-e",
+    "title_slug": "atos-administrativos-vinculacao-e",
+    "board_slug": "cebraspe",
+    "counters": {
+      "blocks": 2,
+      "topics": 11,
+      "topic_components": 15,
+      "traps": 4,
+      "memory_points": 8,
+      "summary_items": 2,
+      "questions": 8,
+      "question_comments": 8,
+      "checklist_items": 9,
+      "references": 8
+    }
+  }
+}

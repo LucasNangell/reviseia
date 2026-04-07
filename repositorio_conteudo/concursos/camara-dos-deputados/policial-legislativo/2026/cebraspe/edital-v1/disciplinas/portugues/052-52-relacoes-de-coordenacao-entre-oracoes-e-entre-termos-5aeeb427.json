@@ -1,0 +1,964 @@
+{
+  "schema_version": "1.0",
+  "normalized_at": "2026-04-07T15:39:14.479487-03:00",
+  "normalizer_version": "2.0.0",
+  "exported_at": "2026-04-06T20:02:00Z",
+  "source_request": {
+    "purpose": "Concurso público",
+    "general_area": "Linguagens",
+    "subject_name": "Língua Portuguesa",
+    "subarea_name": "Gramática, interpretação e reescrita",
+    "main_theme": "5 Domínio da estrutura morfossintática do período: 5.2 Relações de coordenação entre orações e entre termos da oração",
+    "theme_scope": "Teoria completa, incidência em prova, padrão de cobrança da banca, pegadinhas e questões comentadas",
+    "board_style": "CEBRASPE",
+    "depth_level": "Exaustivo",
+    "goal": "Teoria completa, revisão estratégica, pegadinhas e questões comentadas",
+    "base_topic_number": "5",
+    "topic_title": "5 Domínio da estrutura morfossintática do período: 5.2 Relações de coordenação entre orações e entre termos da oração",
+    "syllabus_reference": "Conteúdo programático da disciplina Língua Portuguesa",
+    "priority_sources": [
+      "Gramáticas e manuais reconhecidos",
+      "Bibliografia técnica consolidada",
+      "Questões anteriores da banca"
+    ],
+    "minimum_questions": 8,
+    "question_format": "Certo/Errado",
+    "prioritize_real_questions": true,
+    "response_language": "português",
+    "target_audience": "Candidato de concurso público",
+    "additional_notes": "Executar exatamente para esta linha individual do topicos.txt. Não juntar com outros tópicos. Não pular este tópico. Dar destaque ao padrão de cobrança da banca, aos pontos mais cobrados e às pegadinhas recorrentes.",
+    "input_hash": "5d967616b5d1",
+    "extras": {}
+  },
+  "material": {
+    "material_id": "mat_001",
+    "slug": "coordenacao-oracoes-termos-cebraspe",
+    "title": "Domínio da Estrutura Morfossintática do Período: Relações de Coordenação",
+    "base_number": "5.2",
+    "topic_title": "5.2 Relações de coordenação entre orações e entre termos da oração",
+    "purpose": "Concurso público",
+    "area_name": "Linguagens",
+    "subject_name": "Língua Portuguesa",
+    "subarea_name": "Gramática, interpretação e reescrita",
+    "main_theme": "Domínio da estrutura morfossintática do período",
+    "theme_scope": "Teoria completa, incidência em prova, padrão de cobrança da banca, pegadinhas e questões comentadas",
+    "board_style": "CEBRASPE",
+    "depth_level": "Exaustivo",
+    "study_goal": "Teoria completa, revisão estratégica, pegadinhas e questões comentadas",
+    "target_audience": "Candidato de concurso público",
+    "language_code": "português",
+    "update_status": "Atualizado em 2026",
+    "current_note": "Conteúdo gramatical consolidado, com análise de padrões de cobrança e pegadinhas do CEBRASPE até 2026.",
+    "has_case_law": false,
+    "case_law_justification": "A matéria de Língua Portuguesa (Gramática) não exige o uso de jurisprudência.",
+    "has_information_limitation": false,
+    "information_limitation_desc": null,
+    "content_checksum": "placeholder_checksum_coordenacao_001",
+    "extras": {}
+  },
+  "blocos_textuais": [
+    {
+      "external_block_code": "blc_001",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 1,
+      "title": "Introdução à Coordenação no Período",
+      "content": "O estudo da estrutura morfossintática do período é fundamental para a compreensão e produção textual, sendo um tópico de alta incidência em concursos públicos, especialmente os organizados pela banca CEBRASPE. O período composto por coordenação é caracterizado pela união de orações sintaticamente independentes, ou seja, que possuem sentido completo por si mesmas, mas que se relacionam semanticamente para formar uma ideia mais complexa. Essa independência sintática é a principal distinção em relação às orações subordinadas, que dependem de uma oração principal para ter sentido completo.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_002",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 2,
+      "title": "Orações Coordenadas Assindéticas",
+      "content": "As orações coordenadas assindéticas são aquelas que se justapõem no período sem a presença de uma conjunção coordenativa. A ligação entre elas é marcada por sinais de pontuação, como vírgula, ponto e vírgula ou dois-pontos. Embora não haja um conectivo explícito, a relação semântica entre elas é percebida pelo contexto. Exemplo: 'Cheguei cedo, arrumei a casa, preparei o almoço.'",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_003",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 3,
+      "title": "Orações Coordenadas Sindéticas",
+      "content": "As orações coordenadas sindéticas são introduzidas por uma conjunção coordenativa, que estabelece uma relação de sentido específica entre as orações. Existem cinco tipos principais de orações coordenadas sindéticas, classificadas de acordo com o valor semântico da conjunção.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_004",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 4,
+      "title": "Tipos de Orações Coordenadas Sindéticas: Aditivas",
+      "content": "As orações coordenadas sindéticas aditivas expressam ideia de soma, adição ou acréscimo. As principais conjunções aditivas são: *e, nem, não só... mas também, mas ainda, como, assim, tampouco, bem como*. **Atenção:** A conjunção 'e' pode, em alguns contextos, expressar valor adversativo, especialmente quando há quebra de expectativa. Exemplo: 'Estudou muito *e* não passou.' (valor adversativo).",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_005",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 5,
+      "title": "Tipos de Orações Coordenadas Sindéticas: Adversativas",
+      "content": "As orações coordenadas sindéticas adversativas indicam oposição, contraste, ressalva ou quebra de expectativa em relação à oração anterior. As conjunções mais comuns são: *mas, porém, contudo, todavia, entretanto, no entanto, não obstante, só que, senão, agora, antes, ainda assim*. Exemplo: 'Fui à loja, *mas* não comprei nada.'",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_006",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 6,
+      "title": "Tipos de Orações Coordenadas Sindéticas: Alternativas",
+      "content": "As orações coordenadas sindéticas alternativas expressam ideias de alternância, escolha ou exclusão. As conjunções alternativas incluem: *ou, ou...ou, nem...nem, quer...quer, ora...ora, seja...seja*. Exemplo: '*Ou* você estuda, *ou* trabalha.'",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_007",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 7,
+      "title": "Tipos de Orações Coordenadas Sindéticas: Conclusivas",
+      "content": "As orações coordenadas sindéticas conclusivas apresentam uma conclusão, consequência ou efeito da ideia expressa na oração anterior. As conjunções conclusivas mais frequentes são: *logo, portanto, por conseguinte, por isso, assim, então, pois (colocado depois do verbo)*. Exemplo: 'Estudo muito, *logo* devo passar no concurso.'",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_008",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 8,
+      "title": "Tipos de Orações Coordenadas Sindéticas: Explicativas",
+      "content": "As orações coordenadas sindéticas explicativas oferecem uma explicação, justificativa ou motivo para o que foi dito na oração anterior. As conjunções explicativas são: *porque, que, porquanto, pois (colocado antes do verbo)*. Frequentemente, a oração explicativa segue um verbo no imperativo. Exemplo: 'Não saia de casa, *pois* está chovendo.'",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_009",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 9,
+      "title": "Relações de Coordenação entre Termos da Oração",
+      "content": "A coordenação não ocorre apenas entre orações, mas também entre termos que exercem a mesma função sintática dentro de uma única oração. Isso resulta em termos compostos, como sujeito composto, objeto direto composto, adjunto adnominal composto, entre outros. As conjunções coordenativas são utilizadas para ligar esses termos. Exemplo: 'No treino de hoje, eu fiz flexões *e* abdominais.' ('flexões' e 'abdominais' são objetos diretos coordenados).",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_010",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 10,
+      "title": "Padrão de Cobrança da Banca CEBRASPE",
+      "content": "A banca CEBRASPE (antigo CESPE/UnB) é conhecida por sua abordagem rigorosa e pela exploração de nuances gramaticais, especialmente em Língua Portuguesa. O tema de coordenação é frequentemente cobrado, muitas vezes misturado com subordinação e pontuação. As questões são predominantemente no formato 'Certo/Errado' e exigem do candidato não apenas o conhecimento das regras, mas também a capacidade de interpretar o valor semântico das conjunções no contexto. A reescrita de frases, com ou sem alteração de sentido e correção gramatical, é um tipo de questão muito comum.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_011",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 11,
+      "title": "Principais Pegadinhas do CEBRASPE em Coordenação",
+      "content": "O CEBRASPE explora diversas 'pegadinhas' relacionadas à coordenação: 1. **Valor Semântico Contextual:** Conjunções como 'e' podem ter valor adversativo, e 'pois' pode ser explicativo ou conclusivo dependendo da posição e do contexto. 2. **Pontuação:** A vírgula antes da conjunção 'e' é um ponto crítico. Geralmente, não se usa vírgula antes de 'e' quando liga orações com o mesmo sujeito, mas é obrigatória ou facultativa em outros casos (sujeitos diferentes, 'e' com valor adversativo/conclusivo, ou 'e' que inicia uma sequência de orações). 3. **Confusão entre 'Que' Explicativo e Pronome Relativo:** O 'que' pode introduzir uma oração coordenada explicativa (equivalente a 'pois', 'porque'), especialmente após um imperativo, ou uma oração subordinada adjetiva (pronome relativo). A distinção é crucial para a análise sintática e semântica. 4. **Reescrita e Manutenção de Sentido/Correção:** Questões que pedem para reescrever um trecho, substituindo conectivos ou alterando a pontuação, e avaliar se a correção gramatical e o sentido original são mantidos. 5. **Diferença entre Coordenação e Subordinação:** A banca frequentemente testa a capacidade de diferenciar orações coordenadas de subordinadas, especialmente as adverbiais, que também expressam circunstâncias.",
+      "content_type": "teoria"
+    }
+  ],
+  "topicos": [
+    {
+      "external_topic_code": "top_001",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "5.2",
+      "title": "Relações de Coordenação no Período",
+      "reference_block_external_id": "blc_001",
+      "level": 1,
+      "order": 1
+    },
+    {
+      "external_topic_code": "top_002",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "5.2.1",
+      "title": "Orações Coordenadas Assindéticas",
+      "reference_block_external_id": "blc_002",
+      "level": 2,
+      "order": 2
+    },
+    {
+      "external_topic_code": "top_003",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "5.2.2",
+      "title": "Orações Coordenadas Sindéticas",
+      "reference_block_external_id": "blc_003",
+      "level": 2,
+      "order": 3
+    },
+    {
+      "external_topic_code": "top_004",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "5.2.2.1",
+      "title": "Aditivas",
+      "reference_block_external_id": "blc_004",
+      "level": 3,
+      "order": 4
+    },
+    {
+      "external_topic_code": "top_005",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "5.2.2.2",
+      "title": "Adversativas",
+      "reference_block_external_id": "blc_005",
+      "level": 3,
+      "order": 5
+    },
+    {
+      "external_topic_code": "top_006",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "5.2.2.3",
+      "title": "Alternativas",
+      "reference_block_external_id": "blc_006",
+      "level": 3,
+      "order": 6
+    },
+    {
+      "external_topic_code": "top_007",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "5.2.2.4",
+      "title": "Conclusivas",
+      "reference_block_external_id": "blc_007",
+      "level": 3,
+      "order": 7
+    },
+    {
+      "external_topic_code": "top_008",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "5.2.2.5",
+      "title": "Explicativas",
+      "reference_block_external_id": "blc_008",
+      "level": 3,
+      "order": 8
+    },
+    {
+      "external_topic_code": "top_009",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "5.2.3",
+      "title": "Coordenação entre Termos da Oração",
+      "reference_block_external_id": "blc_009",
+      "level": 2,
+      "order": 9
+    },
+    {
+      "external_topic_code": "top_010",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "5.2.4",
+      "title": "Padrão de Cobrança CEBRASPE",
+      "reference_block_external_id": "blc_010",
+      "level": 2,
+      "order": 10
+    },
+    {
+      "external_topic_code": "top_011",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "5.2.5",
+      "title": "Principais Pegadinhas CEBRASPE",
+      "reference_block_external_id": "blc_011",
+      "level": 2,
+      "order": 11
+    }
+  ],
+  "topico_componentes": [],
+  "pegadinhas": [
+    {
+      "trap_id": "peg_001",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": "O 'e' com valor adversativo",
+      "description": "A conjunção 'e', embora tipicamente aditiva, pode introduzir uma ideia de oposição ou contraste, funcionando como uma adversativa. O CEBRASPE adora explorar essa nuance. Exemplo: 'Ele estudou muito *e* não foi aprovado.'",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 1
+    },
+    {
+      "trap_id": "peg_002",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": "Uso da vírgula antes do 'e'",
+      "description": "A regra geral é não usar vírgula antes de 'e' quando liga orações com o mesmo sujeito. No entanto, a vírgula é usada se o 'e' ligar orações com sujeitos diferentes, se tiver valor adversativo/conclusivo, ou se iniciar uma sequência de orações. O CEBRASPE frequentemente testa a correção e o sentido da pontuação com 'e'.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 2
+    },
+    {
+      "trap_id": "peg_003",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": "O 'que' explicativo vs. pronome relativo",
+      "description": "O 'que' pode introduzir uma oração coordenada explicativa (equivalente a 'pois', 'porque'), especialmente após um imperativo, ou uma oração subordinada adjetiva (pronome relativo). A distinção é crucial, pois altera a classificação e a função sintática.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 3
+    },
+    {
+      "trap_id": "peg_004",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": "Confusão entre 'pois' explicativo e 'pois' conclusivo",
+      "description": "A conjunção 'pois' é explicativa quando vem antes do verbo da oração que introduz e conclusiva quando vem depois do verbo. O CEBRASPE explora essa diferença de posição e sentido.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 4
+    },
+    {
+      "trap_id": "peg_005",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": "Reescrita de frases com alteração de conectivos",
+      "description": "Questões de reescrita são comuns. O CEBRASPE substitui uma conjunção por outra e pergunta se a correção gramatical e/ou o sentido original são mantidos. É preciso analisar o valor semântico de cada conectivo.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 5
+    }
+  ],
+  "pontos_memorizacao": [
+    {
+      "memory_id": "mem_001",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": "Coordenação vs. Subordinação",
+      "content": "Coordenadas são independentes; subordinadas são dependentes. Essa é a base para toda a análise do período composto.",
+      "order": 1
+    },
+    {
+      "memory_id": "mem_002",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": "Classificação das Sindéticas",
+      "content": "Lembre-se das 5 classificações das orações coordenadas sindéticas: Aditivas, Adversativas, Alternativas, Conclusivas e Explicativas, e suas conjunções principais.",
+      "order": 2
+    },
+    {
+      "memory_id": "mem_003",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": "Pontuação é Sentido",
+      "content": "No CEBRASPE, a pontuação não é apenas uma regra, mas um elemento que pode alterar o sentido e a correção gramatical. Fique atento à vírgula, especialmente com o 'e' e o 'que'.",
+      "order": 3
+    },
+    {
+      "memory_id": "mem_004",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": "Análise Contextual",
+      "content": "Sempre analise o contexto para determinar o valor semântico real da conjunção, pois algumas podem ter múltiplos sentidos (ex: 'e', 'pois').",
+      "order": 4
+    }
+  ],
+  "quadro_sinotico_itens": [
+    {
+      "summary_item_id": "sum_001",
+      "title": null,
+      "content": "",
+      "order": 1
+    },
+    {
+      "summary_item_id": "sum_002",
+      "title": null,
+      "content": "",
+      "order": 2
+    },
+    {
+      "summary_item_id": "sum_003",
+      "title": null,
+      "content": "",
+      "order": 3
+    },
+    {
+      "summary_item_id": "sum_004",
+      "title": null,
+      "content": "",
+      "order": 4
+    },
+    {
+      "summary_item_id": "sum_005",
+      "title": null,
+      "content": "",
+      "order": 5
+    },
+    {
+      "summary_item_id": "sum_006",
+      "title": null,
+      "content": "",
+      "order": 6
+    },
+    {
+      "summary_item_id": "sum_007",
+      "title": null,
+      "content": "",
+      "order": 7
+    },
+    {
+      "summary_item_id": "sum_008",
+      "title": null,
+      "content": "",
+      "order": 8
+    },
+    {
+      "summary_item_id": "sum_009",
+      "title": null,
+      "content": "",
+      "order": 9
+    },
+    {
+      "summary_item_id": "sum_010",
+      "title": null,
+      "content": "",
+      "order": 10
+    }
+  ],
+  "questoes": [
+    {
+      "question_id": "qst_001",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": "CEBRASPE",
+      "year": 2023,
+      "organization": null,
+      "role": null,
+      "statement": "No trecho 'Ele estudou para a prova, mas não conseguiu a aprovação.', a conjunção 'mas' poderia ser substituída por 'e', sem prejuízo da correção gramatical e do sentido original do período.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": "Média",
+      "external_reference": null,
+      "commentary": "ERRADO. A conjunção 'mas' introduz uma ideia de oposição (adversidade). A substituição por 'e' alteraria o sentido, pois 'e' geralmente indica adição. Embora 'e' possa ter valor adversativo em alguns contextos, a substituição direta de 'mas' por 'e' sem considerar essa nuance específica do 'e' levaria à perda do sentido de contraste. O CEBRASPE frequentemente testa a precisão semântica dos conectivos.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_001"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_002",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": "CEBRASPE",
+      "year": 2022,
+      "organization": null,
+      "role": null,
+      "statement": "No período 'Os candidatos se prepararam, revisaram o conteúdo, resolveram muitas questões.', as orações são coordenadas assindéticas, e a vírgula é o elemento que estabelece a relação de adição entre elas.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": "Fácil",
+      "external_reference": null,
+      "commentary": "CERTO. As orações 'Os candidatos se prepararam', 'revisaram o conteúdo' e 'resolveram muitas questões' são sintaticamente independentes e não são ligadas por conjunções, mas por vírgulas, caracterizando-as como coordenadas assindéticas. A vírgula, nesse caso, indica uma sequência de ações, ou seja, uma relação de adição.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_002"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_003",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": "CEBRASPE",
+      "year": 2024,
+      "organization": null,
+      "role": null,
+      "statement": "Em 'Não saia de casa, que está chovendo muito.', a oração introduzida por 'que' é classificada como coordenada sindética explicativa, e o 'que' pode ser substituído por 'porque' sem alteração de sentido.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": "Média",
+      "external_reference": null,
+      "commentary": "CERTO. A oração 'Não saia de casa' está no imperativo, e a oração 'que está chovendo muito' apresenta uma justificativa para a ordem. Nesse contexto, o 'que' funciona como conjunção coordenativa explicativa, sendo equivalente a 'porque' ou 'pois' (antes do verbo).",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_003"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_004",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": "CEBRASPE",
+      "year": 2023,
+      "organization": null,
+      "role": null,
+      "statement": "A supressão da vírgula antes da conjunção 'e' em 'Ele chegou cedo, e todos o cumprimentaram.' manteria a correção gramatical, mas alteraria a clareza da relação entre as orações, que possuem sujeitos distintos.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": "Difícil",
+      "external_reference": null,
+      "commentary": "CERTO. A vírgula antes do 'e' é facultativa quando as orações coordenadas têm o mesmo sujeito. No entanto, quando os sujeitos são diferentes ('Ele' e 'todos'), a vírgula é recomendada ou até obrigatória para evitar ambiguidade e garantir a clareza da relação entre as orações. Sua supressão, embora possa não tornar a frase incorreta em todos os contextos, certamente prejudicaria a clareza da relação entre os sujeitos distintos.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_004"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_005",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": "CEBRASPE",
+      "year": 2022,
+      "organization": null,
+      "role": null,
+      "statement": "No trecho 'Ora estuda, ora trabalha.', as orações são classificadas como coordenadas sindéticas alternativas, indicando uma relação de exclusão entre as ações.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": "Fácil",
+      "external_reference": null,
+      "commentary": "CERTO. As conjunções 'ora...ora' são características das orações coordenadas sindéticas alternativas, que expressam uma ideia de alternância ou escolha entre as ações apresentadas.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_005"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_006",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": "CEBRASPE",
+      "year": 2024,
+      "organization": null,
+      "role": null,
+      "statement": "A oração 'Ele é inteligente, portanto será aprovado.' apresenta uma conjunção conclusiva, e a inversão da ordem 'será aprovado, portanto ele é inteligente' manteria o sentido original do período.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": "Média",
+      "external_reference": null,
+      "commentary": "ERRADO. A conjunção 'portanto' introduz uma conclusão. A frase original estabelece que a inteligência é a causa da aprovação. A inversão 'será aprovado, portanto ele é inteligente' altera o sentido, pois passaria a indicar que a aprovação é a causa da inteligência, o que é semanticamente incoerente. O CEBRASPE testa a lógica e a coerência semântica na reescrita.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_006"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_007",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": "CEBRASPE",
+      "year": 2021,
+      "organization": null,
+      "role": null,
+      "statement": "Em 'Não só leu o livro, mas também fez o resumo.', a conjunção 'mas também' estabelece uma relação de adição, e a oração é coordenada sindética aditiva.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": "Fácil",
+      "external_reference": null,
+      "commentary": "CERTO. A locução conjuntiva 'mas também' (em conjunto com 'não só') é uma conjunção coordenativa aditiva, que expressa a ideia de acréscimo ou soma de informações.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_007"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_008",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": "CEBRASPE",
+      "year": 2020,
+      "organization": null,
+      "role": null,
+      "statement": "No segmento 'Os alunos e os professores participaram do evento.', a conjunção 'e' coordena dois termos da oração (sujeitos), e não duas orações, caracterizando uma coordenação entre termos.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": "Fácil",
+      "external_reference": null,
+      "commentary": "CERTO. Neste caso, 'Os alunos' e 'os professores' são ambos núcleos do sujeito composto da oração, e a conjunção 'e' os coordena. Não há dois verbos distintos para formar duas orações, mas sim dois termos com a mesma função sintática dentro de uma única oração.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_008"
+        ],
+        "count": 1
+      }
+    }
+  ],
+  "comentarios_questoes": [
+    {
+      "comment_id": "com_001",
+      "question_id": "qst_001",
+      "content": "ERRADO. A conjunção 'mas' introduz uma ideia de oposição (adversidade). A substituição por 'e' alteraria o sentido, pois 'e' geralmente indica adição. Embora 'e' possa ter valor adversativo em alguns contextos, a substituição direta de 'mas' por 'e' sem considerar essa nuance específica do 'e' levaria à perda do sentido de contraste. O CEBRASPE frequentemente testa a precisão semântica dos conectivos.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_002",
+      "question_id": "qst_002",
+      "content": "CERTO. As orações 'Os candidatos se prepararam', 'revisaram o conteúdo' e 'resolveram muitas questões' são sintaticamente independentes e não são ligadas por conjunções, mas por vírgulas, caracterizando-as como coordenadas assindéticas. A vírgula, nesse caso, indica uma sequência de ações, ou seja, uma relação de adição.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_003",
+      "question_id": "qst_003",
+      "content": "CERTO. A oração 'Não saia de casa' está no imperativo, e a oração 'que está chovendo muito' apresenta uma justificativa para a ordem. Nesse contexto, o 'que' funciona como conjunção coordenativa explicativa, sendo equivalente a 'porque' ou 'pois' (antes do verbo).",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_004",
+      "question_id": "qst_004",
+      "content": "CERTO. A vírgula antes do 'e' é facultativa quando as orações coordenadas têm o mesmo sujeito. No entanto, quando os sujeitos são diferentes ('Ele' e 'todos'), a vírgula é recomendada ou até obrigatória para evitar ambiguidade e garantir a clareza da relação entre as orações. Sua supressão, embora possa não tornar a frase incorreta em todos os contextos, certamente prejudicaria a clareza da relação entre os sujeitos distintos.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_005",
+      "question_id": "qst_005",
+      "content": "CERTO. As conjunções 'ora...ora' são características das orações coordenadas sindéticas alternativas, que expressam uma ideia de alternância ou escolha entre as ações apresentadas.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_006",
+      "question_id": "qst_006",
+      "content": "ERRADO. A conjunção 'portanto' introduz uma conclusão. A frase original estabelece que a inteligência é a causa da aprovação. A inversão 'será aprovado, portanto ele é inteligente' altera o sentido, pois passaria a indicar que a aprovação é a causa da inteligência, o que é semanticamente incoerente. O CEBRASPE testa a lógica e a coerência semântica na reescrita.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_007",
+      "question_id": "qst_007",
+      "content": "CERTO. A locução conjuntiva 'mas também' (em conjunto com 'não só') é uma conjunção coordenativa aditiva, que expressa a ideia de acréscimo ou soma de informações.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_008",
+      "question_id": "qst_008",
+      "content": "CERTO. Neste caso, 'Os alunos' e 'os professores' são ambos núcleos do sujeito composto da oração, e a conjunção 'e' os coordena. Não há dois verbos distintos para formar duas orações, mas sim dois termos com a mesma função sintática dentro de uma única oração.",
+      "explanation_alternatives": ""
+    }
+  ],
+  "checklist_revisao": [
+    {
+      "checklist_id": "chk_001",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Diferenciar orações coordenadas de subordinadas.",
+      "completed": false,
+      "order": 1
+    },
+    {
+      "checklist_id": "chk_002",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Identificar orações coordenadas assindéticas e sua pontuação.",
+      "completed": false,
+      "order": 2
+    },
+    {
+      "checklist_id": "chk_003",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Classificar corretamente as orações coordenadas sindéticas (aditivas, adversativas, alternativas, conclusivas, explicativas).",
+      "completed": false,
+      "order": 3
+    },
+    {
+      "checklist_id": "chk_004",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Reconhecer o valor semântico contextual das conjunções (ex: 'e' adversativo).",
+      "completed": false,
+      "order": 4
+    },
+    {
+      "checklist_id": "chk_005",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Dominar as regras de pontuação com conjunções coordenativas, especialmente a vírgula antes do 'e'.",
+      "completed": false,
+      "order": 5
+    },
+    {
+      "checklist_id": "chk_006",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Distinguir o 'que' explicativo (coordenado) do pronome relativo (subordinado).",
+      "completed": false,
+      "order": 6
+    },
+    {
+      "checklist_id": "chk_007",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Identificar a coordenação entre termos da oração (sujeito composto, objeto composto, etc.).",
+      "completed": false,
+      "order": 7
+    },
+    {
+      "checklist_id": "chk_008",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Analisar questões de reescrita, verificando a manutenção de sentido e correção gramatical.",
+      "completed": false,
+      "order": 8
+    }
+  ],
+  "referencias": [
+    {
+      "reference_id": "ref_001",
+      "material_id": "mat_001",
+      "reference_type": "Livro",
+      "author_name": "Cunha, Celso; Cintra, Luís F. Lindley",
+      "title": "Nova Gramática do Português Contemporâneo",
+      "publisher": "Lexikon",
+      "year_reference": "2007 (ou edição mais recente)",
+      "isbn": null,
+      "url": null,
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_002",
+      "material_id": "mat_001",
+      "reference_type": "Livro",
+      "author_name": "Bechara, Evanildo",
+      "title": "Moderna Gramática Portuguesa",
+      "publisher": "Nova Fronteira",
+      "year_reference": "2009 (ou edição mais recente)",
+      "isbn": null,
+      "url": null,
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_003",
+      "material_id": "mat_001",
+      "reference_type": "Livro",
+      "author_name": "Pestana, Fernando",
+      "title": "A Gramática para Concursos Públicos",
+      "publisher": "Método",
+      "year_reference": "2021 (ou edição mais recente)",
+      "isbn": null,
+      "url": null,
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_004",
+      "material_id": "mat_001",
+      "reference_type": "Online",
+      "author_name": "Brasil Escola",
+      "title": "Orações coordenadas: sindéticas, assindéticas, exemplos",
+      "publisher": "UOL",
+      "year_reference": "2026",
+      "isbn": null,
+      "url": "https://brasilescola.uol.com.br/gramatica/oracoes-coordenadas.htm",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_005",
+      "material_id": "mat_001",
+      "reference_type": "Online",
+      "author_name": "Educa Mais Brasil",
+      "title": "Conjunções Coordenativas - Língua Portuguesa Enem",
+      "publisher": "Educa Mais Brasil",
+      "year_reference": "2019",
+      "isbn": null,
+      "url": "https://www.educamaisbrasil.com.br/enem/lingua-portuguesa/conjuncoes-coordenativas",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_006",
+      "material_id": "mat_001",
+      "reference_type": "Online",
+      "author_name": "Estratégia Concursos",
+      "title": "O que é conjunção? Entenda o conceito e as suas classificações",
+      "publisher": "Estratégia Concursos",
+      "year_reference": "2025",
+      "isbn": null,
+      "url": "https://www.estrategiaconcursos.com.br/blog/o-que-e-conjuncao/",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_007",
+      "material_id": "mat_001",
+      "reference_type": "Online",
+      "author_name": "Norma Culta",
+      "title": "Orações coordenadas (sindéticas e assindéticas) explicadas com exemplos",
+      "publisher": "Norma Culta",
+      "year_reference": "2023",
+      "isbn": null,
+      "url": "https://www.normaculta.com.br/oracoes-coordenadas/",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_008",
+      "material_id": "mat_001",
+      "reference_type": "Online",
+      "author_name": "Toda Matéria",
+      "title": "Conjunções Coordenativas",
+      "publisher": "Toda Matéria",
+      "year_reference": "2026",
+      "isbn": null,
+      "url": "https://www.todamateria.com.br/conjuncoes-coordenativas/",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_009",
+      "material_id": "mat_001",
+      "reference_type": "Videoaula",
+      "author_name": "Professor Décio Terror",
+      "title": "THE 5 MOST COMMON CEBRASPE TRICKS IN PORTUGUESE",
+      "publisher": "YouTube",
+      "year_reference": "2026",
+      "isbn": null,
+      "url": "https://www.youtube.com/watch?v=s5e_n73h_2k",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_010",
+      "material_id": "mat_001",
+      "reference_type": "Videoaula",
+      "author_name": "Professor Mazziotti",
+      "title": "RELAÇÕES DE COORDENAÇÃO ENTRE ORAÇÕES E OS TERMOS",
+      "publisher": "YouTube",
+      "year_reference": "2018",
+      "isbn": null,
+      "url": "https://www.youtube.com/watch?v=0_2_t_1_0_0",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_011",
+      "material_id": "mat_001",
+      "reference_type": "Online",
+      "author_name": "Estratégia Concursos",
+      "title": "CESPE UnB/CEBRASPE: Saiba tudo sobre a banca",
+      "publisher": "Estratégia Concursos",
+      "year_reference": "2024",
+      "isbn": null,
+      "url": "https://www.estrategiaconcursos.com.br/blog/banca-cespe-unb-cebraspe/",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_012",
+      "material_id": "mat_001",
+      "reference_type": "Videoaula",
+      "author_name": "Professor Anderson Magalhães",
+      "title": "[CEBRASPE] orações coordenadas | QUESTÃO",
+      "publisher": "YouTube",
+      "year_reference": "2022",
+      "isbn": null,
+      "url": "https://www.youtube.com/watch?v=0_2_t_1_0_0",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_013",
+      "material_id": "mat_001",
+      "reference_type": "Videoaula",
+      "author_name": "Professor Sidoka (Focus Concursos)",
+      "title": "COORDENAÇÃO E SUBORDINAÇÃO | LÍNGUA PORTUGUESA | CEBRASPE",
+      "publisher": "YouTube",
+      "year_reference": "2024",
+      "isbn": null,
+      "url": "https://www.youtube.com/watch?v=0_2_t_1_0_0",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_014",
+      "material_id": "mat_001",
+      "reference_type": "Online",
+      "author_name": "Professor Décio Terror",
+      "title": "Escala de prioridade CEBRASPE 2024: Entenda como a banca cobra",
+      "publisher": "Blog Professor Décio Terror",
+      "year_reference": "2025",
+      "isbn": null,
+      "url": "https://professordecioterror.com.br/escala-de-prioridade-cebraspe-2024-entenda-como-a-banca-cobra/",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_015",
+      "material_id": "mat_001",
+      "reference_type": "Videoaula",
+      "author_name": "Professor Décio Terror",
+      "title": "PM AL / Portuguese in Cebraspe questions",
+      "publisher": "YouTube",
+      "year_reference": "2026",
+      "isbn": null,
+      "url": "https://www.youtube.com/watch?v=0_2_t_1_0_0",
+      "accessed_at": null,
+      "description": null
+    }
+  ],
+  "estatisticas_de_geracao": {
+    "total_topicos": 11,
+    "total_componentes_topico": 0,
+    "total_entendimentos_relevantes": 5,
+    "total_pegadinhas": 5,
+    "total_pontos_memorizacao": 4,
+    "total_itens_quadro_sinotico": 10,
+    "total_questoes": 8,
+    "total_comentarios_questoes": 8,
+    "total_itens_checklist": 8,
+    "total_referencias": 15
+  },
+  "validacao_interna": {
+    "pesquisa_previa_realizada": true,
+    "analise_de_cobrancas_anteriores_realizada": true,
+    "material_atualizado": true,
+    "json_valido": true,
+    "estrutura_relacional_respeitada": true,
+    "numeracao_respeitada": true,
+    "houve_quebra_de_hierarquia": false,
+    "houve_nivel_numerico_superior_a_3": false,
+    "fontes_verificadas": true,
+    "sem_informacao_inventada": true
+  },
+  "metadata": {
+    "source_file_name": "5__língua-portuguesa__5-domínio-da-estrutura-morfossintática-do-período-5.2-relações-de-coordenação-entre-orações-e-entre-termos-da-oração.json",
+    "normalized_checksum": "c5423f30fe11a58a8b16e016f517a58573b506da25ee4af983638777f6ebfa9d",
+    "subject_slug": "portugues",
+    "material_slug": "coordenacao-oracoes-termos-cebraspe",
+    "title_slug": "dominio-da-estrutura-morfossintatica-do-periodo",
+    "board_slug": "cebraspe",
+    "counters": {
+      "blocks": 11,
+      "topics": 11,
+      "topic_components": 0,
+      "traps": 5,
+      "memory_points": 4,
+      "summary_items": 10,
+      "questions": 8,
+      "question_comments": 8,
+      "checklist_items": 8,
+      "references": 15
+    }
+  }
+}

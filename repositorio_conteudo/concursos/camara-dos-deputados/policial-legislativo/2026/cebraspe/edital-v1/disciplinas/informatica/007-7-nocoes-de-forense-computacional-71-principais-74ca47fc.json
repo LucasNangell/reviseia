@@ -1,0 +1,1119 @@
+{
+  "schema_version": "1.0",
+  "normalized_at": "2026-04-07T15:39:14.688487-03:00",
+  "normalizer_version": "2.0.0",
+  "exported_at": "2026-04-07T16:23:00Z",
+  "source_request": {
+    "purpose": "Concurso público",
+    "general_area": "Tecnologia da Informação",
+    "subject_name": "Informática e Dados",
+    "subarea_name": "Informática, redes, segurança e dados",
+    "main_theme": "7 Noções de forense computacional: 7.1 Principais técnicas de recuperação de arquivos apagados em sistemas de arquivos",
+    "theme_scope": "Teoria completa, incidência em prova, padrão de cobrança da banca, pegadinhas e questões comentadas",
+    "board_style": "CEBRASPE",
+    "depth_level": "Exaustivo",
+    "goal": "Teoria completa, revisão estratégica, pegadinhas e questões comentadas",
+    "base_topic_number": "7",
+    "topic_title": "7 Noções de forense computacional: 7.1 Principais técnicas de recuperação de arquivos apagados em sistemas de arquivos",
+    "syllabus_reference": "Conteúdo programático da disciplina Informática e Dados",
+    "priority_sources": [
+      "Documentação oficial e referências técnicas confiáveis",
+      "Bibliografia técnica consolidada",
+      "Questões anteriores da banca"
+    ],
+    "minimum_questions": 8,
+    "question_format": "Certo/Errado",
+    "prioritize_real_questions": true,
+    "response_language": "português",
+    "target_audience": "Candidato de concurso público",
+    "additional_notes": "Executar exatamente para esta linha individual do topicos.txt. Não juntar com outros tópicos. Não pular este tópico. Dar destaque ao padrão de cobrança da banca, aos pontos mais cobrados e às pegadinhas recorrentes.",
+    "input_hash": "d28ce8d09d65",
+    "extras": {}
+  },
+  "material": {
+    "material_id": "mat_001",
+    "slug": "forense-computacional-recuperacao-arquivos-apagados",
+    "title": "Noções de Forense Computacional: Técnicas de Recuperação de Arquivos Apagados",
+    "base_number": "7",
+    "topic_title": "7 Noções de forense computacional: 7.1 Principais técnicas de recuperação de arquivos apagados em sistemas de arquivos",
+    "purpose": "Concurso público",
+    "area_name": "Tecnologia da Informação",
+    "subject_name": "Informática e Dados",
+    "subarea_name": "Informática, redes, segurança e dados",
+    "main_theme": "7 Noções de forense computacional: 7.1 Principais técnicas de recuperação de arquivos apagados em sistemas de arquivos",
+    "theme_scope": "Teoria completa, incidência em prova, padrão de cobrança da banca, pegadinhas e questões comentadas",
+    "board_style": "CEBRASPE",
+    "depth_level": "Exaustivo",
+    "study_goal": "Teoria completa, revisão estratégica, pegadinhas e questões comentadas",
+    "target_audience": "Candidato de concurso público",
+    "language_code": "português",
+    "update_status": "Atualizado em 2026-04-07",
+    "current_note": "Informações verificadas e atualizadas com base nas práticas e ferramentas forenses mais recentes, considerando a natureza estável dos princípios de recuperação de dados e a evolução das tecnologias de armazenamento.",
+    "has_case_law": false,
+    "case_law_justification": "A matéria de forense computacional e recuperação de arquivos apagados é eminentemente técnica, não havendo aplicação direta ou relevante de jurisprudência para a compreensão das técnicas e seu padrão de cobrança em concursos públicos.",
+    "has_information_limitation": false,
+    "information_limitation_desc": null,
+    "content_checksum": "PENDING_CALCULATION",
+    "extras": {}
+  },
+  "blocos_textuais": [
+    {
+      "external_block_code": "blc_001",
+      "material_id": null,
+      "topic_id": null,
+      "order": 1,
+      "title": "Introdução à Forense Computacional e Recuperação de Arquivos Apagados",
+      "content": "A forense computacional, ou perícia forense digital, é uma disciplina da ciência forense digital que se dedica à investigação de incidentes cibernéticos, coletando, analisando e preservando evidências digitais para uso legal. Uma de suas atividades fundamentais é a recuperação de arquivos apagados, que permite examinar registros removidos por usuários ou pelo sistema operacional. A crença comum de que um arquivo deletado desaparece para sempre é um equívoco; na maioria das vezes, o arquivo é apenas 'escondido', tornando a recuperação de dados uma disciplina essencial em investigações.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_002",
+      "material_id": null,
+      "topic_id": null,
+      "order": 2,
+      "title": "Conceitos Fundamentais na Exclusão de Arquivos",
+      "content": "Quando um arquivo é 'apagado' em um sistema operacional, geralmente sua referência no índice do sistema de arquivos é removida, e o espaço que ele ocupava é marcado como disponível para ser sobrescrito por novos dados. O conteúdo físico do arquivo permanece no disco até que seja sobrescrito. A recuperação de dados forense se diferencia da recuperação comum pelo rigor técnico e pela documentação, visando não apenas resgatar o arquivo, mas provar sua autenticidade e integridade para fins legais.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_003",
+      "material_id": null,
+      "topic_id": null,
+      "order": 3,
+      "title": "Recuperação Baseada em Metadados (File Recovery)",
+      "content": "A recuperação de arquivos baseada em metadados, também conhecida como 'file recovery', é o método primário que softwares de recuperação tentam executar. Essa técnica busca recuperar arquivos utilizando as informações remanescentes no índice do sistema de arquivos, como nome original, caminho e carimbos de data/hora (MACtimes - Modification, Access, Creation). É eficaz quando as informações de metadados ainda estão intactas ou parcialmente disponíveis, permitindo a reconstrução do arquivo com suas propriedades originais.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_004",
+      "material_id": null,
+      "topic_id": null,
+      "order": 4,
+      "title": "Recuperação Baseada em Assinaturas (Data Carving / File Carving)",
+      "content": "O 'data carving' ou 'file carving' é uma técnica poderosa utilizada na análise forense digital para recuperar dados perdidos, excluídos, corrompidos ou sobrescritos, especialmente quando os metadados do sistema de arquivos estão ausentes ou corrompidos. Essa técnica ignora o sistema de arquivos e realiza uma varredura de baixo nível na mídia de armazenamento, procurando por 'assinaturas' (sequências específicas de bytes, conhecidas como 'magic numbers') que marcam o início e/ou fim de um tipo de arquivo. É particularmente útil para recuperar arquivos de espaço não alocado, espaço livre ou 'slack space'. O CEBRASPE frequentemente cobra esse conceito, destacando sua aplicação na recuperação de arquivos excluídos a partir da assinatura do tipo de arquivo.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_005",
+      "material_id": null,
+      "topic_id": null,
+      "order": 5,
+      "title": "Tipos e Desafios do File Carving",
+      "content": "Existem diversos esquemas de carving, incluindo o 'bifragment gap carving' e o 'SmartCarving', que buscam lidar com a fragmentação de arquivos. A fragmentação é um desafio significativo, pois muitos programas de carving tradicionais recuperam apenas arquivos contíguos. Técnicas mais avançadas utilizam análises estatísticas para determinar pontos de fragmentação. O carving pode ser classificado com base no tipo de arquivo, estado de fragmentação e dificuldade de recuperação, incluindo abordagens baseadas em assinatura, hash, estrutura, conteúdo e grafos.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_006",
+      "material_id": null,
+      "topic_id": null,
+      "order": 6,
+      "title": "Análise de Journaling File Systems",
+      "content": "Sistemas de arquivos com journaling (como NTFS, ext3, ext4, ReiserFS, HFS Plus) mantêm um registro ('journal' ou 'log') das mudanças que ainda não foram efetivadas na parte principal do sistema de arquivos. Em caso de falha do sistema ou perda de energia, esses sistemas podem ser restaurados mais rapidamente com menor probabilidade de corrupção. Para a forense, a análise do journal pode ser uma 'mina de ouro', revelando quais arquivos foram recentemente sobrescritos, arquivos deletados e até versões anteriores de arquivos, sem a necessidade de uma análise hexadecimal completa do disco. O journal pode registrar apenas metadados ou, em alguns modos, tanto metadados quanto dados. No NTFS, por exemplo, o `$LogFile` e o `$UsnJrnl` são logs que fornecem visibilidade sobre a atividade passada do sistema de arquivos.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_007",
+      "material_id": null,
+      "topic_id": null,
+      "order": 7,
+      "title": "Análise de Metadados de Arquivos",
+      "content": "Metadados são informações estruturadas que descrevem características de um arquivo digital sem fazer parte do conteúdo principal visível. Eles podem incluir nome, tipo, extensão, tamanho, data de modificação, hash criptográfico, dados GPS e configurações da câmera (para imagens EXIF). A extração e análise de metadados são cruciais na forense para verificar a autenticidade, origem e integridade de arquivos, além de identificar atividades suspeitas. Mesmo quando imagens são excluídas, suas miniaturas e metadados podem persistir em arquivos como `thumbs.db` no Windows.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_008",
+      "material_id": null,
+      "topic_id": null,
+      "order": 8,
+      "title": "Fatores que Afetam a Recuperação de Arquivos",
+      "content": "Diversos fatores influenciam o sucesso da recuperação de arquivos:\n*   **Tempo desde a exclusão:** Quanto mais cedo a tentativa de recuperação, maior a chance de sucesso.\n*   **Uso contínuo do disco:** Novos arquivos podem sobrescrever os dados antigos, tornando a recuperação impossível.\n*   **Tipo de sistema de arquivos:** Sistemas como NTFS e FAT32 armazenam e excluem dados de maneiras diferentes, impactando a recuperação.\n*   **Danos físicos ao disco:** Discos rígidos (HDDs) com danos físicos exigem equipamentos especiais e ambientes controlados para recuperação.\n*   **Tecnologia de armazenamento (HDDs vs. SSDs):** Em HDDs, arquivos apagados podem ser recuperados até serem sobrescritos. Em SSDs, a função TRIM pode apagar dados permanentemente, dificultando significativamente a recuperação.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_009",
+      "material_id": null,
+      "topic_id": null,
+      "order": 9,
+      "title": "Ferramentas Comuns em Forense Computacional para Recuperação",
+      "content": "Profissionais de forense digital utilizam uma variedade de softwares especializados para recuperar e analisar dados:\n*   **EnCase:** Uma das ferramentas mais utilizadas, permite criar imagens forenses, recuperar arquivos apagados e gerar relatórios detalhados.\n*   **Autopsy/The Sleuth Kit (TSK):** O TSK é um conjunto de ferramentas de linha de comando para análise de sistemas de arquivos e recuperação de dados, sendo a base para o Autopsy, que oferece uma interface gráfica amigável.\n*   **FTK Imager:** Ferramenta gratuita para criação de imagens forenses e análise preliminar de dados, incluindo a visualização de arquivos deletados.\n*   **R-Studio:** Software de recuperação avançada, utilizado também em perícia digital.\n*   **Cellebrite UFED:** Especializado na análise forense de dispositivos móveis, extraindo e recuperando dados de smartphones e tablets.\n*   **Recuva, EaseUS Data Recovery, TestDisk & PhotoRec:** Ferramentas mais acessíveis para usuários comuns, mas também com aplicação em cenários forenses menos complexos.\n*   **Volatility:** Framework para análise de memória volátil (RAM), útil na detecção de malware e ameaças ocultas.\n*   **Bulk Extractor:** Analisa imagens de disco em alta velocidade, extraindo artefatos como e-mails e números de cartão de crédito.\n*   **ExifTool:** Ferramenta para extração e manipulação de metadados de arquivos de imagem e outros formatos.",
+      "content_type": "teoria"
+    }
+  ],
+  "topicos": [
+    {
+      "external_topic_code": "top_001",
+      "material_id": null,
+      "parent_topic_id": null,
+      "topic_number": "7",
+      "title": "Noções de Forense Computacional",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 1
+    },
+    {
+      "external_topic_code": "top_002",
+      "material_id": null,
+      "parent_topic_id": "top_001",
+      "topic_number": "7.1",
+      "title": "Principais técnicas de recuperação de arquivos apagados em sistemas de arquivos",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 2
+    },
+    {
+      "external_topic_code": "top_003",
+      "material_id": null,
+      "parent_topic_id": "top_002",
+      "topic_number": "7.1.1",
+      "title": "Conceitos Fundamentais na Exclusão de Arquivos",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 3
+    },
+    {
+      "external_topic_code": "top_004",
+      "material_id": null,
+      "parent_topic_id": "top_002",
+      "topic_number": "7.1.2",
+      "title": "Recuperação Baseada em Metadados (File Recovery)",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 4
+    },
+    {
+      "external_topic_code": "top_005",
+      "material_id": null,
+      "parent_topic_id": "top_002",
+      "topic_number": "7.1.3",
+      "title": "Recuperação Baseada em Assinaturas (Data Carving / File Carving)",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 5
+    },
+    {
+      "external_topic_code": "top_006",
+      "material_id": null,
+      "parent_topic_id": "top_002",
+      "topic_number": "7.1.4",
+      "title": "Análise de Journaling File Systems",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 6
+    },
+    {
+      "external_topic_code": "top_007",
+      "material_id": null,
+      "parent_topic_id": "top_002",
+      "topic_number": "7.1.5",
+      "title": "Análise de Metadados de Arquivos",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 7
+    },
+    {
+      "external_topic_code": "top_008",
+      "material_id": null,
+      "parent_topic_id": "top_002",
+      "topic_number": "7.1.6",
+      "title": "Fatores que Afetam a Recuperação",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 8
+    },
+    {
+      "external_topic_code": "top_009",
+      "material_id": null,
+      "parent_topic_id": "top_002",
+      "topic_number": "7.1.7",
+      "title": "Ferramentas Comuns em Forense Computacional para Recuperação",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 9
+    }
+  ],
+  "topico_componentes": [
+    {
+      "component_id": "cmp_001",
+      "topic_id": null,
+      "component_type": "Definição",
+      "content": "A exclusão lógica de um arquivo remove sua entrada do diretório e marca o espaço como disponível, mas não apaga imediatamente os dados físicos.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_002",
+      "topic_id": null,
+      "component_type": "Mecanismo",
+      "content": "Programas de 'file recovery' buscam e interpretam as estruturas de metadados remanescentes (como File Allocation Table - FAT, Master File Table - MFT no NTFS, ou inodes no extX) para reconstruir o arquivo.",
+      "order": 2
+    },
+    {
+      "component_id": "cmp_003",
+      "topic_id": null,
+      "component_type": "Mecanismo",
+      "content": "O 'data carving' escaneia o disco em busca de 'magic numbers' (assinaturas de arquivo) que indicam o início e, se possível, o fim de um arquivo, ignorando a estrutura do sistema de arquivos.",
+      "order": 3
+    },
+    {
+      "component_id": "cmp_004",
+      "topic_id": null,
+      "component_type": "Exemplo de Assinatura",
+      "content": "Um arquivo JPEG, por exemplo, pode começar com os bytes `FF D8 FF E0` e terminar com `FF D9`.",
+      "order": 4
+    },
+    {
+      "component_id": "cmp_005",
+      "topic_id": null,
+      "component_type": "Benefício Forense",
+      "content": "A análise do journal pode revelar a ordem cronológica de eventos, como criação, modificação e exclusão de arquivos, mesmo que os dados originais tenham sido sobrescritos.",
+      "order": 5
+    },
+    {
+      "component_id": "cmp_006",
+      "topic_id": null,
+      "component_type": "Tipos de Metadados",
+      "content": "Metadados EXIF em imagens podem conter informações sobre a câmera, data/hora da captura, localização GPS e configurações de exposição.",
+      "order": 6
+    },
+    {
+      "component_id": "cmp_007",
+      "topic_id": null,
+      "component_type": "Impacto do TRIM",
+      "content": "Em SSDs, o comando TRIM informa ao controlador do disco quais blocos de dados não estão mais em uso, permitindo que o controlador os apague fisicamente de forma proativa, dificultando a recuperação.",
+      "order": 7
+    },
+    {
+      "component_id": "cmp_008",
+      "topic_id": null,
+      "component_type": "Ferramenta Open Source",
+      "content": "Autopsy é uma ferramenta de código aberto que integra o The Sleuth Kit (TSK) e oferece uma interface gráfica para análise forense e recuperação de dados.",
+      "order": 8
+    }
+  ],
+  "pegadinhas": [
+    {
+      "trap_id": "peg_001",
+      "material_id": null,
+      "topic_id": null,
+      "title": "Confundir exclusão lógica com física",
+      "description": "A CEBRASPE pode tentar induzir ao erro afirmando que um arquivo deletado da lixeira é irrecuperável. Na verdade, a exclusão da lixeira é uma exclusão lógica, e os dados podem ser recuperados até serem sobrescritos.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 1
+    },
+    {
+      "trap_id": "peg_002",
+      "material_id": null,
+      "topic_id": null,
+      "title": "Limitações do Data Carving para arquivos fragmentados",
+      "description": "Embora o data carving seja poderoso, a banca pode explorar a dificuldade de recuperar arquivos altamente fragmentados sem metadados de alocação, a menos que técnicas avançadas como SmartCarving sejam empregadas.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 2
+    },
+    {
+      "trap_id": "peg_003",
+      "material_id": null,
+      "topic_id": null,
+      "title": "Recuperação em SSDs vs. HDDs",
+      "description": "A diferença na recuperação entre HDDs e SSDs devido ao comando TRIM é um ponto crucial. A CEBRASPE pode apresentar cenários onde a recuperação em SSDs é tratada como igualmente simples à de HDDs.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 3
+    },
+    {
+      "trap_id": "peg_004",
+      "material_id": null,
+      "topic_id": null,
+      "title": "Diferença entre File Recovery e Data Carving",
+      "description": "A banca pode misturar os conceitos de 'file recovery' (baseado em metadados do sistema de arquivos) e 'data carving' (baseado em assinaturas de arquivo), que são técnicas distintas com aplicações e limitações diferentes.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 4
+    }
+  ],
+  "pontos_memorizacao": [
+    {
+      "memory_id": "mem_001",
+      "material_id": null,
+      "topic_id": null,
+      "title": null,
+      "content": "Excluir um arquivo geralmente remove apenas sua entrada do diretório, não seus dados físicos. O espaço é marcado como livre.",
+      "order": 1
+    },
+    {
+      "memory_id": "mem_002",
+      "material_id": null,
+      "topic_id": null,
+      "title": null,
+      "content": "File Recovery: Recupera arquivos usando metadados do sistema de arquivos (nome, caminho, datas).",
+      "order": 2
+    },
+    {
+      "memory_id": "mem_003",
+      "material_id": null,
+      "topic_id": null,
+      "title": null,
+      "content": "Data Carving: Recupera arquivos buscando assinaturas (magic numbers) nos dados brutos, ignorando o sistema de arquivos. Útil para dados fragmentados ou sem metadados.",
+      "order": 3
+    },
+    {
+      "memory_id": "mem_004",
+      "material_id": null,
+      "topic_id": null,
+      "title": null,
+      "content": "Journaling File Systems (NTFS, ext3): Mantêm um log de transações que pode ser valioso para a recuperação de metadados e, em alguns casos, dados.",
+      "order": 4
+    },
+    {
+      "memory_id": "mem_005",
+      "material_id": null,
+      "topic_id": null,
+      "title": null,
+      "content": "Metadados: Informações sobre o arquivo (autor, data, GPS, câmera) que podem ser cruciais para a investigação forense.",
+      "order": 5
+    },
+    {
+      "memory_id": "mem_006",
+      "material_id": null,
+      "topic_id": null,
+      "title": null,
+      "content": "SSDs e TRIM: A recuperação em SSDs é mais difícil devido ao comando TRIM, que apaga fisicamente os blocos de dados.",
+      "order": 6
+    }
+  ],
+  "quadro_sinotico_itens": [
+    {
+      "summary_item_id": "sum_001",
+      "title": null,
+      "content": "",
+      "order": 1
+    },
+    {
+      "summary_item_id": "sum_002",
+      "title": null,
+      "content": "",
+      "order": 2
+    },
+    {
+      "summary_item_id": "sum_003",
+      "title": null,
+      "content": "",
+      "order": 3
+    },
+    {
+      "summary_item_id": "sum_004",
+      "title": null,
+      "content": "",
+      "order": 4
+    },
+    {
+      "summary_item_id": "sum_005",
+      "title": null,
+      "content": "",
+      "order": 5
+    },
+    {
+      "summary_item_id": "sum_006",
+      "title": null,
+      "content": "",
+      "order": 6
+    },
+    {
+      "summary_item_id": "sum_007",
+      "title": null,
+      "content": "",
+      "order": 7
+    },
+    {
+      "summary_item_id": "sum_008",
+      "title": null,
+      "content": "",
+      "order": 8
+    }
+  ],
+  "questoes": [
+    {
+      "question_id": "qst_001",
+      "material_id": null,
+      "topic_id": null,
+      "board": null,
+      "year": null,
+      "organization": null,
+      "role": null,
+      "statement": "Em sistemas de arquivos como NTFS e FAT32, a exclusão de um arquivo implica na remoção imediata e permanente de seus dados físicos do disco, tornando sua recuperação impossível por qualquer técnica forense.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": "Média",
+      "external_reference": null,
+      "commentary": null,
+      "commentary_meta": {}
+    },
+    {
+      "question_id": "qst_002",
+      "material_id": null,
+      "topic_id": null,
+      "board": null,
+      "year": 2018,
+      "organization": "ABIN",
+      "role": "Oficial de Inteligência",
+      "statement": "As técnicas de data carving objetivam a recuperação de dados apagados a partir da análise de dados brutos à procura de assinaturas e outras marcações. Havendo sucesso nessa busca, data carving realiza a recuperação de arquivos inteiros e de seus metadados, e, em alguns casos, de fragmentos de arquivos que podem ter utilidade forense.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": "Fácil",
+      "external_reference": null,
+      "commentary": null,
+      "commentary_meta": {}
+    },
+    {
+      "question_id": "qst_003",
+      "material_id": null,
+      "topic_id": null,
+      "board": null,
+      "year": 2025,
+      "organization": "Polícia Federal",
+      "role": "Médico Psiquiatra",
+      "statement": "File recovery é a recuperação de arquivos com base em índice de sistemas de arquivos, sendo uma técnica que independe da integridade dos metadados do sistema de arquivos.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": "Média",
+      "external_reference": null,
+      "commentary": null,
+      "commentary_meta": {}
+    },
+    {
+      "question_id": "qst_004",
+      "material_id": null,
+      "topic_id": null,
+      "board": null,
+      "year": null,
+      "organization": null,
+      "role": null,
+      "statement": "Em dispositivos de armazenamento SSD, a ativação do comando TRIM dificulta significativamente a recuperação de arquivos apagados, pois ele apaga fisicamente os blocos de dados não utilizados, ao contrário do que ocorre em HDDs, onde a recuperação é possível até a sobrescrita.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": "Média",
+      "external_reference": null,
+      "commentary": null,
+      "commentary_meta": {}
+    },
+    {
+      "question_id": "qst_005",
+      "material_id": null,
+      "topic_id": null,
+      "board": null,
+      "year": null,
+      "organization": null,
+      "role": null,
+      "statement": "A análise do journal de um sistema de arquivos, como o `$LogFile` no NTFS ou o journal do ext3, pode fornecer informações valiosas sobre a cronologia de eventos e metadados de arquivos, mesmo que os dados originais tenham sido sobrescritos.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": "Fácil",
+      "external_reference": null,
+      "commentary": null,
+      "commentary_meta": {}
+    },
+    {
+      "question_id": "qst_006",
+      "material_id": null,
+      "topic_id": null,
+      "board": null,
+      "year": null,
+      "organization": null,
+      "role": null,
+      "statement": "Metadados de arquivos, como os dados EXIF em imagens, são informações irrelevantes para a forense computacional, pois não contêm detalhes sobre a origem ou autoria do arquivo.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": "Fácil",
+      "external_reference": null,
+      "commentary": null,
+      "commentary_meta": {}
+    },
+    {
+      "question_id": "qst_007",
+      "material_id": null,
+      "topic_id": null,
+      "board": null,
+      "year": null,
+      "organization": null,
+      "role": null,
+      "statement": "O The Sleuth Kit (TSK) é um conjunto de ferramentas de linha de comando para análise de sistemas de arquivos e recuperação de dados, sendo a base para o software Autopsy, que oferece uma interface gráfica para facilitar a investigação forense.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": "Fácil",
+      "external_reference": null,
+      "commentary": null,
+      "commentary_meta": {}
+    },
+    {
+      "question_id": "qst_008",
+      "material_id": null,
+      "topic_id": null,
+      "board": null,
+      "year": null,
+      "organization": null,
+      "role": null,
+      "statement": "A técnica de data carving é ineficaz para a recuperação de arquivos que foram renomeados ou movidos, pois depende estritamente do nome original do arquivo e de sua localização no sistema de arquivos.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": "Média",
+      "external_reference": null,
+      "commentary": null,
+      "commentary_meta": {}
+    }
+  ],
+  "comentarios_questoes": [
+    {
+      "comment_id": "com_001",
+      "question_id": null,
+      "content": "Errado. A exclusão de um arquivo em sistemas como NTFS e FAT32 é, inicialmente, uma exclusão lógica. O sistema operacional remove a referência do arquivo no índice e marca o espaço como disponível, mas os dados físicos permanecem no disco até serem sobrescritos. Por isso, a recuperação é frequentemente possível com técnicas forenses adequadas.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_002",
+      "question_id": null,
+      "content": "Certo. Esta questão descreve corretamente o conceito e a aplicação do data carving. É uma técnica que busca por assinaturas de arquivos em dados brutos, permitindo a recuperação de arquivos inteiros, metadados e até fragmentos, especialmente quando o sistema de arquivos está corrompido ou os metadados foram perdidos.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_003",
+      "question_id": null,
+      "content": "Errado. 'File recovery' é, de fato, a recuperação de arquivos com base no índice de sistemas de arquivos. No entanto, ela DEPENDE da integridade desses metadados. Se os metadados estiverem corrompidos ou ausentes, a eficácia do file recovery é comprometida, sendo necessário recorrer a outras técnicas como o data carving.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_004",
+      "question_id": null,
+      "content": "Certo. O comando TRIM, presente em SSDs, otimiza o desempenho e a vida útil do drive apagando fisicamente os blocos de dados que não estão mais em uso. Isso torna a recuperação de arquivos apagados em SSDs muito mais difícil, ou até impossível, em comparação com HDDs, onde os dados persistem até serem sobrescritos.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_005",
+      "question_id": null,
+      "content": "Certo. Sistemas de arquivos com journaling registram as transações e mudanças em um log. A análise desse journal é uma técnica forense valiosa, pois permite reconstruir a cronologia de eventos (criação, modificação, exclusão) e recuperar metadados, mesmo que os dados do arquivo original já tenham sido sobrescritos.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_006",
+      "question_id": null,
+      "content": "Errado. Metadados são extremamente relevantes para a forense computacional. Eles fornecem informações cruciais sobre o arquivo, como data e hora de criação/modificação, autor, software utilizado, localização GPS (em imagens), e configurações da câmera. Esses detalhes podem ser fundamentais para estabelecer a autenticidade, origem e contexto de uma evidência digital.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_007",
+      "question_id": null,
+      "content": "Certo. O The Sleuth Kit (TSK) é uma biblioteca de ferramentas de linha de comando amplamente utilizada para análise forense de sistemas de arquivos. O Autopsy é uma interface gráfica de usuário (GUI) que se baseia no TSK, tornando a análise e recuperação de dados mais acessível e intuitiva para investigadores forenses.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_008",
+      "question_id": null,
+      "content": "Errado. A técnica de data carving é particularmente útil para recuperar arquivos que foram renomeados, movidos ou até mesmo ocultados, pois ela não depende do nome ou da localização do arquivo no sistema de arquivos. Em vez disso, ela busca por padrões de bytes (assinaturas) diretamente nos dados brutos, independentemente de como o sistema de arquivos os organiza.",
+      "explanation_alternatives": ""
+    }
+  ],
+  "checklist_revisao": [
+    {
+      "checklist_id": "chk_001",
+      "material_id": null,
+      "topic_id": null,
+      "item_text": "Compreender a diferença entre exclusão lógica e física de arquivos.",
+      "completed": false,
+      "order": 1
+    },
+    {
+      "checklist_id": "chk_002",
+      "material_id": null,
+      "topic_id": null,
+      "item_text": "Dominar o conceito de 'File Recovery' e sua dependência de metadados.",
+      "completed": false,
+      "order": 2
+    },
+    {
+      "checklist_id": "chk_003",
+      "material_id": null,
+      "topic_id": null,
+      "item_text": "Dominar o conceito de 'Data Carving', como funciona e suas aplicações (assinaturas, dados brutos).",
+      "completed": false,
+      "order": 3
+    },
+    {
+      "checklist_id": "chk_004",
+      "material_id": null,
+      "topic_id": null,
+      "item_text": "Entender a importância da análise de Journaling File Systems (NTFS, ext3) para a cronologia de eventos.",
+      "completed": false,
+      "order": 4
+    },
+    {
+      "checklist_id": "chk_005",
+      "material_id": null,
+      "topic_id": null,
+      "item_text": "Saber o que são metadados de arquivos e sua relevância forense (EXIF, datas).",
+      "completed": false,
+      "order": 5
+    },
+    {
+      "checklist_id": "chk_006",
+      "material_id": null,
+      "topic_id": null,
+      "item_text": "Conhecer os fatores que afetam a recuperação, com foco no impacto do comando TRIM em SSDs.",
+      "completed": false,
+      "order": 6
+    },
+    {
+      "checklist_id": "chk_007",
+      "material_id": null,
+      "topic_id": null,
+      "item_text": "Identificar as principais ferramentas forenses para recuperação de dados (Autopsy/TSK, EnCase, FTK Imager).",
+      "completed": false,
+      "order": 7
+    },
+    {
+      "checklist_id": "chk_008",
+      "material_id": null,
+      "topic_id": null,
+      "item_text": "Revisar questões anteriores da CEBRASPE sobre recuperação de arquivos e forense computacional para identificar pegadinhas e padrões de cobrança.",
+      "completed": false,
+      "order": 8
+    }
+  ],
+  "referencias": [
+    {
+      "reference_id": "ref_001",
+      "material_id": null,
+      "reference_type": null,
+      "author_name": null,
+      "title": "Quais ferramentas são mais utilizadas na forense computacional? - Infosec Security",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEMS7X4C5SnzkuZNyN99K2F39uJJbK22uxidDFmW1_ZYFrYTXLyAt93rt6ZJk8gdhmNgri5Y7sx8HT4GhyNtwnKVIu76f1hRdq3hqriyJX9Me9DsQtsjfPT64F3faWfokE5rQy8M766eM_cExGbrIagOaRVoXuB5i7A2DesCO7B87ulPG_pFPSCYmrRsPZilqD3O-Vx4A==",
+      "accessed_at": "2026-04-07",
+      "description": null
+    },
+    {
+      "reference_id": "ref_002",
+      "material_id": null,
+      "reference_type": null,
+      "author_name": null,
+      "title": "File carving - Wikipedia",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEptnhYGK_Y3eBVR_ikPyHX4K-JFqgIhNV1uq7D5l9DiIc62DigbAAhrTzqIuWUgznboDj24_bxJOX-JmSZX15rXYZVZm5jycMxdjWck000NOb9uIejxsS-bFOPKrMiXXzHytgHOQ==",
+      "accessed_at": "2026-04-07",
+      "description": null
+    },
+    {
+      "reference_id": "ref_003",
+      "material_id": null,
+      "reference_type": null,
+      "author_name": null,
+      "title": "File carving - - Forensics Wiki",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG0jPRd1UhH15mJcE6iuTfciFZt2P5OvcBAlUc4ZjeXjiSNSlHD72a6QDCiLpYsT-poaxuqmM_ABs2Z6eX4Lxb02LRjsZ6FPEkzq-326adtPld3bbZxaBomwmLgCYmY_w==",
+      "accessed_at": "2026-04-07",
+      "description": null
+    },
+    {
+      "reference_id": "ref_004",
+      "material_id": null,
+      "reference_type": null,
+      "author_name": null,
+      "title": "File System Journal Forensics. - IFIP Open Digital Library",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEwi-Qpbp8BW7K20bhQ4vCdJo-QbtNOkQMcqfo40MY13F11A3AimfT99_niSvlDjAgHh1PpilqzjnrK6BaHuVs9XuVbXTQTglufPNM4h_jw3A5bIM2l0lZgrz3INOUXgCWWjZeDJCg1lqYTHvgQj5s7xdOxElLaPWbdeqUhIL0=",
+      "accessed_at": "2026-04-07",
+      "description": null
+    },
+    {
+      "reference_id": "ref_005",
+      "material_id": null,
+      "reference_type": null,
+      "author_name": null,
+      "title": "Data Carving - Cyber Triage",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGWupzE1wl0vXRHxKZjafMRNjGE4a8s0AWAlUgg1bheXbllsvo_nY0cStFIWKrCPCFqkZqFTM84gyFIztqam6It7ezxF7QF0yxL_GtjIHty5RcfzPC2-fTLfchRRtBJe4YDIeiltPLCaTFiYv4a1OlwOWI=",
+      "accessed_at": "2026-04-07",
+      "description": null
+    },
+    {
+      "reference_id": "ref_006",
+      "material_id": null,
+      "reference_type": null,
+      "author_name": null,
+      "title": "10 Ferramentas Open-Source para Análise Forense Digital - IBSEC",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGa5vcBh7IRmA3HMjOlIyZ8QRFFlwqEKHX-srA5b-9zo6owzUmEIdEPf8erhUTlW-3r4TuRAEdVkRa5uoKwVEkigN9kYhovoXEEsJHHIFx4AxuG-KSWygS4HVNLzLnTh2pnu3HAofOMOYtSrTVZkEfBrg8Ik4zrYugv3JklaFgNwYljim-jp3xa",
+      "accessed_at": "2026-04-07",
+      "description": null
+    },
+    {
+      "reference_id": "ref_007",
+      "material_id": null,
+      "reference_type": null,
+      "author_name": null,
+      "title": "Forensic File Carving: A Guide to Recovering Critical Digital Evidence - EC-Council",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQECxkly9ci812C-4WXXSlPo4q9UJi0ak_z3FwLwq8hCIfmeKXO3c1xygeFl1pGsbFq1_VQAUpFKTrRVy886D2KQFfJzQz8v4bvMgd-KFRDfiLpJQ_7QocmiSuDWABYz2gsefChL5iBsCmgXMXmGYNn9y5sjVbUHa9fdt55tFrHTFUCFQP3qmqZudEDZym0o-T0aygIXh_hLEQ==",
+      "accessed_at": "2026-04-07",
+      "description": null
+    },
+    {
+      "reference_id": "ref_008",
+      "material_id": null,
+      "reference_type": null,
+      "author_name": null,
+      "title": "Carving and its Implementations in Digital Forensics - Belkasoft",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFk0ItYRhjBYSCeP1A7mhwGI13_3VghivLCvJJ4ncDXVEBrQQSU-K4WK9-17t9Kpz6gAX2IiveOpJSTuDi6JenT3NGojttgQzKvDaGtER8EvvEOggEQq3W-jaMkJ_Rs-9Eazny2Nhyhd9dP9MXbXrt-",
+      "accessed_at": "2026-04-07",
+      "description": null
+    },
+    {
+      "reference_id": "ref_009",
+      "material_id": null,
+      "reference_type": null,
+      "author_name": null,
+      "title": "(PDF) File System Journal Forensics - ResearchGate",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFX_rNWuuTwHd4yrTCUAWyvcQ0obS6mJ6fmqH1TM1SB42Vxddzk3CAI7CujaExNbOC0JqBN89K-gRCNTtFxbmF8gahPROQ5hkwbX47mlEkbCPTeI1_S1eQ9SEVPBYeKBnsyRmwMbVP9SYTWSX0rcsBc069pe5JxWvroQ16QVz-C9Drwa9sZOAN6E3xM",
+      "accessed_at": "2026-04-07",
+      "description": null
+    },
+    {
+      "reference_id": "ref_010",
+      "material_id": null,
+      "reference_type": null,
+      "author_name": null,
+      "title": "Técnicas de recuperação de arquivos apagados. Flashcards by Jeif Vernieri - Brainscape",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFti625D4H8_3mmiIE8z6gZVMuQfHYniJSCKzIxea1rVFfkxvZ94ZaMAr4E4ZzQvFjEwcbaO03SlxXPh4YEbqtk6TA65yeC6CWtZjOIObraAElnaRQV40xRov3MSU80mIz86Q5zALpNzgIvaFcozfJGSbqcXx2Pf6xSDWTCBCXrGkG9_1an3QCPnOUFBtdFSCikW8T9is2yepPZ0rNtLUberA==",
+      "accessed_at": "2026-04-07",
+      "description": null
+    },
+    {
+      "reference_id": "ref_011",
+      "material_id": null,
+      "reference_type": null,
+      "author_name": null,
+      "title": "Understanding NTFS Journaling ($LogFile and $UsnJrnl) : A Goldmine for Investigators",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFQpQ7h4FkUDi1aby-pzu0tcZhKjSfXLxCC19odjFbN9lppcXj6VAHUoqtjtZXc9JHp1TS-tDqtgoPZHU4yeU2stL-lKqi9d1IxgK3cizs6GUXbd2KVGBVblZpJi0PGaBhIiUUtU8cvbQkjwh0kwtmtLWgziaa21kPJdsf3Xz0WbMK0ZbsHFkd0aHnYwPbxJFS6w_rIn1axo78=",
+      "accessed_at": "2026-04-07",
+      "description": null
+    },
+    {
+      "reference_id": "ref_012",
+      "material_id": null,
+      "reference_type": null,
+      "author_name": null,
+      "title": "Extrator de Meta Dados - Laboratório Forense - CSI Perícia",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH1EL1hNEfkCSXaw68mKbKefCCC-bmzSv3a9lXs89hzWvOnxsyNwDFxJuZD8EfSSFQtPN1ql9zjKsqzkLTgx4L3xjBXj7_5DB2DZ31PweIAmZEXTy5W8-XRgsrBUWX1xV28FvTUhgHIPnf3l72fcdAP",
+      "accessed_at": "2026-04-07",
+      "description": null
+    },
+    {
+      "reference_id": "ref_013",
+      "material_id": null,
+      "reference_type": null,
+      "author_name": null,
+      "title": "Journaling file system forensics",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHzDPZAC0yOwq66yMUmib9Qx4pMKnHkzB1QeiFgbdz30gsVFQG1d7PMSGd-irRzTfgPgUefulLzWOoikdDQ6SFU4ILzNRtceIQRQwLVD7YvKOoKXYr9HzQyXOe4M1jECHBaVmu7dWZL1ajgmR6MG10MHnVYAGOv3ktpMCi-aY7xyLd1I4QDqhg=",
+      "accessed_at": "2026-04-07",
+      "description": null
+    },
+    {
+      "reference_id": "ref_014",
+      "material_id": null,
+      "reference_type": null,
+      "author_name": null,
+      "title": "Noções Básicas de Recuperação de Arquivos: Como Funciona a Recuperação de Dados",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHC8sgcSPg1cjjsAJFQPMZQcw4PAE6YZFnz2LeQqnZ7Vi5UYYbuJJIpjkTy-_5Oj7OQcOIgWR1bOm7dhid5UL2mkH3KWwg-cAV7ML576vRlF35Xfr2g96YvuKVFgcamaOsZ1hPGsYy3-JyEIl7FhSnFuizK6ZqwgTTkBzaQzeCCjg==",
+      "accessed_at": "2026-04-07",
+      "description": null
+    },
+    {
+      "reference_id": "ref_015",
+      "material_id": null,
+      "reference_type": null,
+      "author_name": null,
+      "title": "5 ferramentas gratuitas indispensáveis para perícia digital",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE-2Py99eDUJYypEimklGm3TsjR7YQIhugqXsw9HludQ_QNiuRc7taxI89JF7w7p3YhSN40XhhcHKuSEy2P6CJ2V0ttMZG7xyuk-0WwkQbCUTaUX0eDw4O538xYnUAdsce2NlH8ZaWQx6eMsuojXl09JjY9xl6beOMSao8KWbk9_JVQCNevS_YRJ1HTA2x4AzLWSw==",
+      "accessed_at": "2026-04-07",
+      "description": null
+    },
+    {
+      "reference_id": "ref_016",
+      "material_id": null,
+      "reference_type": null,
+      "author_name": null,
+      "title": "Perícia em Recuperação de Arquivos - Perícias Digitais",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZBLYdGK7WHYwb2YQGhaP5pROoAUsU1klp0sv6RuaXuO8b8K45AN2IJD0tXhk32QuXN2gSRU90uwQFYsZSgICKDLXkuq7e3zvcrwTfd665tZlomv9Q4iB5QXF17u5_CrhcQoBe3EIjx0Vm9XwScxoA0OXdBziC4K2z2ojPrpKbJz8EHYNlbjm",
+      "accessed_at": "2026-04-07",
+      "description": null
+    },
+    {
+      "reference_id": "ref_017",
+      "material_id": null,
+      "reference_type": null,
+      "author_name": null,
+      "title": "Queira o Sr. Perito explicar como é feita a recuperação de arquivos apagados – Parte 01",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEArQEnmAojiOiuolLCuFJ2PugPm_NBAg4sqGuwEKaCjzhUONqAWgLhAu856fA5AZAdE_NLhECHDMNrG5eKPpBmB10VLEQoRtTEouadhSfY1jTpVwCKxz3bvM1je9hGu55DhmckyVz21wMHmuKVcfa_HFXYhaxMNrCiUIg0l3cNW9Ov7s-At8XpBhO5aJKsSWJK0YQ8gMXUIfvLVqurDhGhtsKab2UrdlcK9h6TxB9N6hF7wZqN6I6Hg==",
+      "accessed_at": "2026-04-07",
+      "description": null
+    },
+    {
+      "reference_id": "ref_018",
+      "material_id": null,
+      "reference_type": null,
+      "author_name": null,
+      "title": "Recuperação de dados apagados: como funciona a perícia em mídias digitais",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFyi7sJsa62f3cABzjkuuLP8NnXe8ROs05PUbTG3W6RzbKMp_QRO4IA1DdXL5kSF0sAqWu7gF2Lg5pRYpP3vbfc5uaMiisX-OOq8izV3xoUro0-mD3ofBIflu2SsA37mcPEDufy2byzHUOVHHfoxIw==",
+      "accessed_at": "2026-04-07",
+      "description": null
+    },
+    {
+      "reference_id": "ref_019",
+      "material_id": null,
+      "reference_type": null,
+      "author_name": null,
+      "title": "R-Studio para Negócios Forenses e de Recuperação de Dados.",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGG_-hGbKCh-g2nu0pwx3LMbkhAxD56S7dEwukC8UNLmUoPGDMryJ3jtU4RWhDCPqxioF4P9s8CxKKH9flXEsubYE-P0CVk5AYnDMSBfGDj1iYsFkAyn9-VJ76xxgt4D9w7f6toD9NKxYvPgxAJv0L8h32bmrnGIiCvJ_5stxMERIeJcX759kI=",
+      "accessed_at": "2026-04-07",
+      "description": null
+    },
+    {
+      "reference_id": "ref_020",
+      "material_id": null,
+      "reference_type": null,
+      "author_name": null,
+      "title": "Journaling file system - Wikipedia",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF9DHBT_M2ns3Dh59S_IBzqwWsRtmPWYC1flNh-rRDa0wJj8x5M4OYiiCfqvQxH_RV4GFpBdMs6OTnEKSFw2C2_V-zFxzBvHmEJWKqV7NrCAPY898nimrDg3Xj-iXtkdFfnUA-Z6dFn5tbHRlnF_a0=",
+      "accessed_at": "2026-04-07",
+      "description": null
+    },
+    {
+      "reference_id": "ref_021",
+      "material_id": null,
+      "reference_type": null,
+      "author_name": null,
+      "title": "ESTUDO DE CASO DE ANÁLISE FORENSE DE ARQUIVOS APAGADOS EM ÁREA NÃO ALOCADA DA MEMÓRIA - Revista de Sistemas e Computação - RSC",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH-FMJ1p1-nHu5X6h1oRS7lG1idDAxeQWRy9IwulHTaAXxEwVsVcekTR2TgOW_s1S_oK4k3v-QQ0GI15xqr8JYrouyNpzasfStA8MrinvybSiZdaE46ZOxJFXfrMLOw9ZVap5TdI6ma2dTLxtBNmNkkPqTWh8RCJ8Sfu7VJUH69w==",
+      "accessed_at": "2026-04-07",
+      "description": null
+    },
+    {
+      "reference_id": "ref_022",
+      "material_id": null,
+      "reference_type": null,
+      "author_name": null,
+      "title": "Como Analisar e Limpar Metadados de Arquivos (PDF, Imagens e Documentos) - Capturee",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEL_XHffux4bR311Jl8DvvM35VZy8Ka0Iv3nGQwYJkZ0rNH5IxKxXurCQjmIxwq1OSguJrF4UsgYo_3lt9u8ajn5x3dtT7uTQ9sQbYw8W1ro0AGtPNoDJtofK3G35-VNgwy_G63Cq7zaHXJ9kbUI-Rtpuz_TbkbYJLHBeo_Yl-GOHBRAlCa08pGW53CPD8ZGdgKkey6y7WvPnH0jw==",
+      "accessed_at": "2026-04-07",
+      "description": null
+    },
+    {
+      "reference_id": "ref_023",
+      "material_id": null,
+      "reference_type": null,
+      "author_name": null,
+      "title": "Metadados - Recuperação de Dados HD RJ [RECOMENDADO]",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHJIGWwCZ0X3x7p5b11wIGthhwnNbIqZi1l_7YFFxf8NumN1rH9ZYWwis50uw_4_d8IaSCafDNvLSsb_Q_RvMRyr83cLYvcUb_g21PSeiUiAY_zXuY=",
+      "accessed_at": "2026-04-07",
+      "description": null
+    },
+    {
+      "reference_id": "ref_024",
+      "material_id": null,
+      "reference_type": null,
+      "author_name": null,
+      "title": "FERRAMENTAS DE ANÁLISE DE ARQUIVOS – ANÁLISE FORENSE - Douglas Mendes",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFRCjpbhruOHoKDAFNDQpvkF4YVKfQOq69cghbWFjuoeOKWJzAxWNDZqL6QTM5FaOdj0U1tnwG_x8vkVCF6LfRIbzJdG6O4cVeErA7LTrjSQEmVh_8j3mjizmueMzHCWtFQl2XbfFesybn3kyJnWm8X9e3EDtJ4j0B1srfpg6og48gzZUmxqBghIJwOXJtU9DayxYWFa8-UmKo=",
+      "accessed_at": "2026-04-07",
+      "description": null
+    },
+    {
+      "reference_id": "ref_025",
+      "material_id": null,
+      "reference_type": null,
+      "author_name": null,
+      "title": "Em relação a conceitos e fundamentos da forense computaciona... - Qconcursos",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQELwIvFky0PxeXWg_QokKtSQ1AWlzn0rHcmnKUfWQ8fzpXqxbIaSj9LvePeH-mnhPrS0b6kEun453BRRXDu-AUQz6VpkjM9Sb_vTsqVstjY0AbOj5yJJnWfOREFbreCeGeng95D0gYWZtvaXoHbKIktsPT5QtuJzqnv9pLzGDJbdw==",
+      "accessed_at": "2026-04-07",
+      "description": null
+    },
+    {
+      "reference_id": "ref_026",
+      "material_id": null,
+      "reference_type": null,
+      "author_name": null,
+      "title": "Questão Durante uma recuperação após falha, o sistema aplica apenas os registros presentes no log de transações já co... - Qconcursos",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFasGlATd86E4wCvrbtIOOsdrmvnnZIQfRNLJMRsZmkvyO3dujw_qp8qxyP_M5DTumGcr9R7alhB4jGV2YXJON52sz6qCxTlODypjb5y3h_wWCG8TgygrsHDsJQx4rdAr5t_GQzqTkZwl39IPwc2BSpuXOLdMuGMC-xVsXWobN3_aNMBGNB",
+      "accessed_at": "2026-04-07",
+      "description": null
+    },
+    {
+      "reference_id": "ref_027",
+      "material_id": null,
+      "reference_type": null,
+      "author_name": null,
+      "title": "As técnicas de data carving objetivam a recuperação de da... - Gran Questões",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHUv7tNYQbhiKIBdacF0m1loqYrb4TKKsT4FMqdlIMo3RJcZxZYzJMVxy2pr_iFmytsku4uA3-fZDWdKcGZbxO8dPwzZuAtVzN-drFsowpYVmCfuTSknNwOc3G3VBDLouWdGbFp0Fkwuqr4T8OeKG5q96Hw5MKaHHc7QZy0JQFw_AE0OWKb0e-iYkE5eGr_olzHOSWRnf7kArE=",
+      "accessed_at": "2026-04-07",
+      "description": null
+    },
+    {
+      "reference_id": "ref_028",
+      "material_id": null,
+      "reference_type": null,
+      "author_name": null,
+      "title": "Acerca das técnicas de recuperação de arquivos de um computa... - Qconcursos",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGtYLABEbBnDjBJX0y_EAwkmfwB4PgpGw1Y_-2f48HLMX_DuktpX2dgAA1qjmBqOtYFmcArOuvZFKvT9_S7xjFReHSCEe4f8Z6ynRxvprCWtGRyN-hlvF1A4MgBmOZqUXqciZSaMpMDxMOf2Ak2eiljTbiRevNrthNJ_AGuG2qBLg==",
+      "accessed_at": "2026-04-07",
+      "description": null
+    },
+    {
+      "reference_id": "ref_029",
+      "material_id": null,
+      "reference_type": null,
+      "author_name": null,
+      "title": "CESPE UnB/CEBRASPE: Saiba tudo sobre a banca - Estratégia Concursos",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH6hwnr85m9mPt8uG0kB7Pdu8wgF-UYqAOdU57ddJRQSeTVR4IiYoDkONveJMfhEeCjUUjiPhqYXupK2KcC26Pd3iZZnJNbRYn1uePjbo5r9rM2nrIdZc7Y-cECwSFLikOdHZeiXXBboYrsEB7EeZz-_xjtpK2S_DQFMA==",
+      "accessed_at": "2026-04-07",
+      "description": null
+    }
+  ],
+  "estatisticas_de_geracao": {
+    "total_topicos": 9,
+    "total_componentes_topico": 8,
+    "total_entendimentos_relevantes": 5,
+    "total_pegadinhas": 4,
+    "total_pontos_memorizacao": 6,
+    "total_itens_quadro_sinotico": 8,
+    "total_questoes": 8,
+    "total_comentarios_questoes": 8,
+    "total_itens_checklist": 8,
+    "total_referencias": 29
+  },
+  "validacao_interna": {
+    "pesquisa_previa_realizada": true,
+    "analise_de_cobrancas_anteriores_realizada": true,
+    "material_atualizado": true,
+    "json_valido": true,
+    "estrutura_relacional_respeitada": true,
+    "numeracao_respeitada": true,
+    "houve_quebra_de_hierarquia": false,
+    "houve_nivel_numerico_superior_a_3": false,
+    "fontes_verificadas": true,
+    "sem_informacao_inventada": true
+  },
+  "metadata": {
+    "source_file_name": "7__informática-e-dados__7-noções-de-forense-computacional-7.1-principais-técnicas-de-recuperação-de-arquivos-apagados-em-sistemas-de-arquivos.json",
+    "normalized_checksum": "97e2a48748205dfa2f618c1e154892b8c1f33c054ef083ca23cfe144eba7c261",
+    "subject_slug": "informatica",
+    "material_slug": "forense-computacional-recuperacao",
+    "title_slug": "nocoes-de-forense-computacional-tecnicas-de",
+    "board_slug": "cebraspe",
+    "counters": {
+      "blocks": 9,
+      "topics": 9,
+      "topic_components": 8,
+      "traps": 4,
+      "memory_points": 6,
+      "summary_items": 8,
+      "questions": 8,
+      "question_comments": 8,
+      "checklist_items": 8,
+      "references": 29
+    }
+  }
+}

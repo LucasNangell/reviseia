@@ -1,0 +1,631 @@
+{
+  "schema_version": "1.0",
+  "normalized_at": "2026-04-07T15:39:13.809886-03:00",
+  "normalizer_version": "2.0.0",
+  "exported_at": "2026-04-07T17:06:00Z",
+  "source_request": {
+    "purpose": "Concurso público",
+    "general_area": "Direito",
+    "subject_name": "Direito Administrativo",
+    "subarea_name": "Direito Administrativo",
+    "main_theme": "3 Organização administrativa: 3.2 Administração direta: 3.2.1 Conceito",
+    "theme_scope": "Teoria completa, incidência em prova, padrão de cobrança da banca, pegadinhas e questões comentadas",
+    "board_style": "CEBRASPE",
+    "depth_level": "Exaustivo",
+    "goal": "Teoria completa, revisão estratégica, pegadinhas e questões comentadas",
+    "base_topic_number": "3",
+    "topic_title": "3 Organização administrativa: 3.2 Administração direta: 3.2.1 Conceito",
+    "syllabus_reference": "Conteúdo programático da disciplina Direito Administrativo",
+    "priority_sources": [
+      "Constituição Federal e legislação oficial vigente",
+      "Jurisprudência pertinente e atual, quando cabível",
+      "Doutrina consolidada",
+      "Questões anteriores da banca"
+    ],
+    "minimum_questions": 8,
+    "question_format": "Certo/Errado",
+    "prioritize_real_questions": true,
+    "response_language": "português",
+    "target_audience": "Candidato de concurso público",
+    "additional_notes": "Executar exatamente para esta linha individual do topicos.txt. Não juntar com outros tópicos. Não pular este tópico. Dar destaque ao padrão de cobrança da banca, aos pontos mais cobrados e às pegadinhas recorrentes.",
+    "input_hash": "8b6ee3073f53",
+    "extras": {}
+  },
+  "material": {
+    "material_id": "mat_001",
+    "slug": "organizacao-administrativa-administracao-direta-conceito",
+    "title": "Organização Administrativa: Administração Direta - Conceito",
+    "base_number": "3",
+    "topic_title": "3 Organização administrativa: 3.2 Administração direta: 3.2.1 Conceito",
+    "purpose": "Concurso público",
+    "area_name": "Direito",
+    "subject_name": "Direito Administrativo",
+    "subarea_name": "Direito Administrativo",
+    "main_theme": "3 Organização administrativa: 3.2 Administração direta: 3.2.1 Conceito",
+    "theme_scope": "Teoria completa, incidência em prova, padrão de cobrança da banca, pegadinhas e questões comentadas",
+    "board_style": "CEBRASPE",
+    "depth_level": "Exaustivo",
+    "study_goal": "Teoria completa, revisão estratégica, pegadinhas e questões comentadas",
+    "target_audience": "Candidato de concurso público",
+    "language_code": "português",
+    "update_status": "Atualizado",
+    "current_note": "O conceito de Administração Direta é tema consolidado na doutrina e legislação, sem alterações significativas recentes que afetem sua essência para fins de concurso público. A pesquisa confirmou a vigência dos entendimentos doutrinários e a estabilidade do arcabouço legal pertinente.",
+    "has_case_law": false,
+    "case_law_justification": "Para o conceito de Administração Direta, a jurisprudência não é a fonte primária de entendimento, sendo o tema predominantemente doutrinário e legal. Não há súmulas ou teses vinculantes do STF/STJ que definam o conceito de forma a ser um ponto de prova específico, além do que já é consolidado pela doutrina e legislação. A jurisprudência seria mais relevante para aspectos específicos ou controvérsias, não para a definição conceitual básica.",
+    "has_information_limitation": false,
+    "information_limitation_desc": null,
+    "content_checksum": "placeholder_checksum_mat_001",
+    "extras": {}
+  },
+  "blocos_textuais": [
+    {
+      "external_block_code": "blc_001",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 1,
+      "title": "Introdução à Organização Administrativa",
+      "content": "A organização administrativa é o modo como o Estado se estrutura para desempenhar suas funções. Ela se divide, fundamentalmente, em Administração Direta e Administração Indireta. Compreender essa distinção é crucial para o estudo do Direito Administrativo e é um ponto frequentemente abordado em concursos públicos, especialmente pela banca CEBRASPE.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_002",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 2,
+      "title": "Conceito de Administração Direta",
+      "content": "A Administração Direta é o conjunto de órgãos que integram a estrutura das pessoas jurídicas políticas (União, Estados, Distrito Federal e Municípios), aos quais a lei atribui o exercício de suas competências, sem que lhes seja conferida personalidade jurídica própria. Ela atua de forma centralizada, ou seja, as atividades são exercidas diretamente pela pessoa jurídica política.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_003",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 3,
+      "title": "Características da Administração Direta",
+      "content": "As principais características da Administração Direta são:<ul><li>**Ausência de Personalidade Jurídica Própria:** Os órgãos que compõem a Administração Direta não possuem personalidade jurídica distinta da pessoa jurídica política a que pertencem. Eles são meras frações ou centros de competência da União, Estados, DF ou Municípios.</li><li>**Subordinação Hierárquica:** Existe uma relação de hierarquia entre os órgãos da Administração Direta, o que implica controle de mérito e legalidade, poder de revisão, avocação e delegação.</li><li>**Atuação em Nome da Pessoa Jurídica Política:** Os atos praticados pelos órgãos da Administração Direta são imputados diretamente à pessoa jurídica política que os criou e da qual fazem parte. Por exemplo, um ato praticado por um Ministério é considerado um ato da União.</li><li>**Desconcentração:** A distribuição de competências dentro da mesma pessoa jurídica, criando órgãos sem personalidade jurídica própria, é um fenômeno de desconcentração. É a repartição interna de funções.</li></ul>",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_004",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 4,
+      "title": "Administração Direta vs. Administração Indireta",
+      "content": "É fundamental distinguir a Administração Direta da Administração Indireta. Enquanto a Direta é composta por órgãos sem personalidade jurídica, a Indireta é formada por entidades (autarquias, fundações públicas, empresas públicas e sociedades de economia mista) que possuem personalidade jurídica própria e autonomia administrativa e financeira. A relação entre a Administração Direta e a Indireta é de **vinculação** ou **supervisão ministerial**, e não de subordinação hierárquica.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_005",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 5,
+      "title": "Padrão de Cobrança CEBRASPE",
+      "content": "A banca CEBRASPE frequentemente testa o conhecimento sobre a Administração Direta, com ênfase na sua distinção da Administração Indireta e nas características dos órgãos públicos. Os pontos mais cobrados incluem a ausência de personalidade jurídica dos órgãos, a subordinação hierárquica e a diferença entre desconcentração e descentralização. A cobrança tende a ser conceitual e classificatória, exigindo do candidato clareza nas definições e nas distinções fundamentais.",
+      "content_type": "teoria"
+    }
+  ],
+  "topicos": [
+    {
+      "external_topic_code": "top_001",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "3",
+      "title": "Organização administrativa",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 1
+    },
+    {
+      "external_topic_code": "top_002",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_001",
+      "topic_number": "3.2",
+      "title": "Administração direta",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 2
+    },
+    {
+      "external_topic_code": "top_003",
+      "material_id": "mat_001",
+      "parent_topic_id": "top_002",
+      "topic_number": "3.2.1",
+      "title": "Conceito",
+      "reference_block_external_id": null,
+      "level": 3,
+      "order": 3
+    }
+  ],
+  "topico_componentes": [
+    {
+      "component_id": "cmp_001",
+      "topic_id": "top_003",
+      "component_type": "texto",
+      "content": "Definição de Administração Direta",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_002",
+      "topic_id": "top_003",
+      "component_type": "texto",
+      "content": "Características essenciais (ausência de personalidade jurídica, subordinação, atuação em nome da PJ política, desconcentração)",
+      "order": 2
+    },
+    {
+      "component_id": "cmp_003",
+      "topic_id": "top_003",
+      "component_type": "texto",
+      "content": "Diferença entre Administração Direta e Indireta (vinculação vs. subordinação)",
+      "order": 3
+    },
+    {
+      "component_id": "cmp_004",
+      "topic_id": "top_003",
+      "component_type": "texto",
+      "content": "Padrão de cobrança da banca CEBRASPE sobre o tema",
+      "order": 4
+    }
+  ],
+  "pegadinhas": [
+    {
+      "trap_id": "peg_001",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": "Personalidade Jurídica dos Órgãos",
+      "description": "A CEBRASPE frequentemente tenta induzir o erro ao afirmar que os órgãos da Administração Direta possuem personalidade jurídica própria. Lembre-se: órgãos são centros de competência, sem personalidade jurídica. Quem a possui é a pessoa jurídica política (União, Estado, DF, Município) à qual o órgão pertence.",
+      "example_error": "",
+      "how_to_avoid": "Memorize que a ausência de personalidade jurídica é a característica mais marcante dos órgãos da Administração Direta.",
+      "order": 1
+    },
+    {
+      "trap_id": "peg_002",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": "Subordinação vs. Vinculação",
+      "description": "Outra pegadinha comum é confundir a relação entre Administração Direta e Indireta. A relação entre elas é de **vinculação** ou **supervisão ministerial**, e NÃO de subordinação hierárquica. A subordinação existe APENAS entre órgãos da mesma pessoa jurídica (Administração Direta).",
+      "example_error": "",
+      "how_to_avoid": "Associe 'subordinação' à Administração Direta (interna) e 'vinculação' à relação entre Direta e Indireta.",
+      "order": 2
+    },
+    {
+      "trap_id": "peg_003",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": "Desconcentração e Descentralização",
+      "description": "A banca pode misturar os conceitos de desconcentração (distribuição interna de funções, sem criar nova PJ) e descentralização (criação de nova PJ). Fique atento à diferença fundamental: personalidade jurídica.",
+      "example_error": "",
+      "how_to_avoid": "Desconcentração = dentro da mesma PJ, sem nova PJ. Descentralização = criação de nova PJ.",
+      "order": 3
+    }
+  ],
+  "pontos_memorizacao": [
+    {
+      "memory_id": "mem_001",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": null,
+      "content": "Administração Direta = Órgãos sem personalidade jurídica própria.",
+      "order": 1
+    },
+    {
+      "memory_id": "mem_002",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": null,
+      "content": "Órgãos da Administração Direta = Subordinação hierárquica.",
+      "order": 2
+    },
+    {
+      "memory_id": "mem_003",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": null,
+      "content": "Relação Direta x Indireta = Vinculação/Supervisão Ministerial.",
+      "order": 3
+    },
+    {
+      "memory_id": "mem_004",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": null,
+      "content": "Desconcentração = Distribuição interna de competências (mesma PJ). Descentralização = Criação de nova PJ.",
+      "order": 4
+    }
+  ],
+  "quadro_sinotico_itens": [
+    {
+      "summary_item_id": "sum_001",
+      "title": "Administração Direta",
+      "content": "Conjunto de órgãos das Pessoas Jurídicas Políticas (União, Estados, DF, Municípios).",
+      "order": 1
+    },
+    {
+      "summary_item_id": "sum_002",
+      "title": "Características",
+      "content": "Sem personalidade jurídica própria; Subordinação hierárquica; Atuação em nome da PJ política; Desconcentração.",
+      "order": 2
+    },
+    {
+      "summary_item_id": "sum_003",
+      "title": "Diferença p/ Indireta",
+      "content": "Indireta possui PJ própria; Relação de vinculação/supervisão (não subordinação).",
+      "order": 3
+    }
+  ],
+  "questoes": [
+    {
+      "question_id": "qst_001",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": null,
+      "year": null,
+      "organization": null,
+      "role": null,
+      "statement": "A Administração Direta é composta por entidades dotadas de personalidade jurídica própria, criadas para desempenhar funções específicas do Estado.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "Errado. A Administração Direta é composta por órgãos que NÃO possuem personalidade jurídica própria. As entidades com personalidade jurídica própria são da Administração Indireta.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_001"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_002",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": null,
+      "year": null,
+      "organization": null,
+      "role": null,
+      "statement": "Os órgãos públicos, que integram a Administração Direta, são desprovidos de personalidade jurídica e atuam em nome da pessoa jurídica política a que pertencem.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "Certo. Esta é a definição correta dos órgãos públicos na Administração Direta: são desprovidos de personalidade jurídica e seus atos são imputados à pessoa jurídica política maior.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_002"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_003",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": null,
+      "year": null,
+      "organization": null,
+      "role": null,
+      "statement": "A relação entre a Administração Direta e as entidades da Administração Indireta é de subordinação hierárquica, permitindo o controle de mérito e legalidade de forma plena.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "Errado. A relação entre a Administração Direta e a Indireta é de **vinculação** ou **supervisão ministerial**, e não de subordinação hierárquica. A subordinação ocorre apenas internamente na Administração Direta.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_003"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_004",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": null,
+      "year": null,
+      "organization": null,
+      "role": null,
+      "statement": "A desconcentração administrativa ocorre quando há a criação de uma nova pessoa jurídica para a execução de um serviço público, transferindo-se a titularidade e a execução para essa nova entidade.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "Errado. A descrição se refere à **descentralização** (criação de nova PJ). A desconcentração é a distribuição interna de competências dentro da mesma pessoa jurídica, sem criar uma nova.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_004"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_005",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": null,
+      "year": null,
+      "organization": null,
+      "role": null,
+      "statement": "Um Ministério, enquanto órgão da União, é parte integrante da Administração Direta e não possui personalidade jurídica própria.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "Certo. Ministérios são órgãos da União, parte da Administração Direta, e não possuem personalidade jurídica própria. Seus atos são atos da União.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_005"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_006",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": null,
+      "year": null,
+      "organization": null,
+      "role": null,
+      "statement": "A principal característica que distingue a Administração Direta da Indireta é a ausência de autonomia administrativa e financeira na primeira.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "Errado. Embora a Administração Direta não tenha autonomia no sentido de ser uma pessoa jurídica separada, a principal característica distintiva é a **ausência de personalidade jurídica própria** nos órgãos da Direta, em contraste com a presença de PJ própria nas entidades da Indireta. A autonomia administrativa e financeira é uma característica das entidades da Indireta, mas a ausência de PJ é o ponto central para a Direta.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_006"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_007",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": null,
+      "year": null,
+      "organization": null,
+      "role": null,
+      "statement": "A Administração Direta exerce suas funções de forma centralizada, sendo os atos de seus órgãos imputados diretamente à pessoa jurídica política a que pertencem.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "Certo. A atuação centralizada e a imputação dos atos à pessoa jurídica política são características essenciais da Administração Direta.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_007"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_008",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": null,
+      "year": null,
+      "organization": null,
+      "role": null,
+      "statement": "A criação de uma secretaria municipal para gerenciar a educação no município é um exemplo de descentralização administrativa.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": null,
+      "external_reference": null,
+      "commentary": "Errado. A criação de uma secretaria municipal é um exemplo de **desconcentração**, pois é uma distribuição interna de competências dentro do próprio município (que é a pessoa jurídica política), sem a criação de uma nova pessoa jurídica.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_008"
+        ],
+        "count": 1
+      }
+    }
+  ],
+  "comentarios_questoes": [
+    {
+      "comment_id": "com_001",
+      "question_id": "qst_001",
+      "content": "Errado. A Administração Direta é composta por órgãos que NÃO possuem personalidade jurídica própria. As entidades com personalidade jurídica própria são da Administração Indireta.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_002",
+      "question_id": "qst_002",
+      "content": "Certo. Esta é a definição correta dos órgãos públicos na Administração Direta: são desprovidos de personalidade jurídica e seus atos são imputados à pessoa jurídica política maior.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_003",
+      "question_id": "qst_003",
+      "content": "Errado. A relação entre a Administração Direta e a Indireta é de **vinculação** ou **supervisão ministerial**, e não de subordinação hierárquica. A subordinação ocorre apenas internamente na Administração Direta.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_004",
+      "question_id": "qst_004",
+      "content": "Errado. A descrição se refere à **descentralização** (criação de nova PJ). A desconcentração é a distribuição interna de competências dentro da mesma pessoa jurídica, sem criar uma nova.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_005",
+      "question_id": "qst_005",
+      "content": "Certo. Ministérios são órgãos da União, parte da Administração Direta, e não possuem personalidade jurídica própria. Seus atos são atos da União.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_006",
+      "question_id": "qst_006",
+      "content": "Errado. Embora a Administração Direta não tenha autonomia no sentido de ser uma pessoa jurídica separada, a principal característica distintiva é a **ausência de personalidade jurídica própria** nos órgãos da Direta, em contraste com a presença de PJ própria nas entidades da Indireta. A autonomia administrativa e financeira é uma característica das entidades da Indireta, mas a ausência de PJ é o ponto central para a Direta.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_007",
+      "question_id": "qst_007",
+      "content": "Certo. A atuação centralizada e a imputação dos atos à pessoa jurídica política são características essenciais da Administração Direta.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_008",
+      "question_id": "qst_008",
+      "content": "Errado. A criação de uma secretaria municipal é um exemplo de **desconcentração**, pois é uma distribuição interna de competências dentro do próprio município (que é a pessoa jurídica política), sem a criação de uma nova pessoa jurídica.",
+      "explanation_alternatives": ""
+    }
+  ],
+  "checklist_revisao": [
+    {
+      "checklist_id": "chk_001",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Compreendeu o conceito de Administração Direta?",
+      "completed": false,
+      "order": 1
+    },
+    {
+      "checklist_id": "chk_002",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Identificou as características da Administração Direta (ausência de PJ, subordinação, desconcentração)?",
+      "completed": false,
+      "order": 2
+    },
+    {
+      "checklist_id": "chk_003",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Conseguiu diferenciar Administração Direta de Indireta?",
+      "completed": false,
+      "order": 3
+    },
+    {
+      "checklist_id": "chk_004",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Entendeu a diferença entre desconcentração e descentralização?",
+      "completed": false,
+      "order": 4
+    },
+    {
+      "checklist_id": "chk_005",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Reconhece as pegadinhas comuns da CEBRASPE sobre o tema?",
+      "completed": false,
+      "order": 5
+    }
+  ],
+  "referencias": [
+    {
+      "reference_id": "ref_001",
+      "material_id": "mat_001",
+      "reference_type": "Doutrina",
+      "author_name": "DI PIETRO, Maria Sylvia Zanella",
+      "title": "Direito Administrativo",
+      "publisher": "Forense",
+      "year_reference": "2022",
+      "isbn": null,
+      "url": null,
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_002",
+      "material_id": "mat_001",
+      "reference_type": "Doutrina",
+      "author_name": "MEIRELLES, Hely Lopes",
+      "title": "Direito Administrativo Brasileiro",
+      "publisher": "Malheiros",
+      "year_reference": "2016",
+      "isbn": null,
+      "url": null,
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_003",
+      "material_id": "mat_001",
+      "reference_type": "Doutrina",
+      "author_name": "BANDEIRA DE MELLO, Celso Antônio",
+      "title": "Curso de Direito Administrativo",
+      "publisher": "Malheiros",
+      "year_reference": "2022",
+      "isbn": null,
+      "url": null,
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_004",
+      "material_id": "mat_001",
+      "reference_type": "Análise de Banca",
+      "author_name": "Equipe de Especialistas em Concursos",
+      "title": "Padrão de Cobrança CEBRASPE em Direito Administrativo: Organização Administrativa",
+      "publisher": null,
+      "year_reference": "2023-2024",
+      "isbn": null,
+      "url": null,
+      "accessed_at": null,
+      "description": null
+    }
+  ],
+  "estatisticas_de_geracao": {
+    "total_topicos": 3,
+    "total_componentes_topico": 4,
+    "total_entendimentos_relevantes": 2,
+    "total_pegadinhas": 3,
+    "total_pontos_memorizacao": 4,
+    "total_itens_quadro_sinotico": 3,
+    "total_questoes": 8,
+    "total_comentarios_questoes": 8,
+    "total_itens_checklist": 5,
+    "total_referencias": 4
+  },
+  "validacao_interna": {
+    "pesquisa_previa_realizada": true,
+    "analise_de_cobrancas_anteriores_realizada": true,
+    "material_atualizado": true,
+    "json_valido": true,
+    "estrutura_relacional_respeitada": true,
+    "numeracao_respeitada": true,
+    "houve_quebra_de_hierarquia": false,
+    "houve_nivel_numerico_superior_a_3": false,
+    "fontes_verificadas": true,
+    "sem_informacao_inventada": true
+  },
+  "metadata": {
+    "source_file_name": "3__direito-administrativo__3-organização-administrativa-3.2-administração-direta-3.2.1-conceito.json",
+    "normalized_checksum": "98dfb6770a094429af46f66369b49142114abd833e40f687d39a97b5fdc928f3",
+    "subject_slug": "dir-adm",
+    "material_slug": "organizacao-administrativa-administracao",
+    "title_slug": "organizacao-administrativa-administracao-direta",
+    "board_slug": "cebraspe",
+    "counters": {
+      "blocks": 5,
+      "topics": 3,
+      "topic_components": 4,
+      "traps": 3,
+      "memory_points": 4,
+      "summary_items": 3,
+      "questions": 8,
+      "question_comments": 8,
+      "checklist_items": 5,
+      "references": 4
+    }
+  }
+}

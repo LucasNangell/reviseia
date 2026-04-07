@@ -1,0 +1,1184 @@
+{
+  "schema_version": "1.0",
+  "normalized_at": "2026-04-07T15:39:13.756652-03:00",
+  "normalizer_version": "2.0.0",
+  "exported_at": "2026-04-07T15:59:00Z",
+  "source_request": {
+    "purpose": "Concurso público",
+    "general_area": "Tecnologia da Informação",
+    "subject_name": "Informática e Dados",
+    "subarea_name": "Informática, redes, segurança e dados",
+    "main_theme": "2 Navegadores de Internet, webmail e ferramentas de produtividade",
+    "theme_scope": "Teoria completa, incidência em prova, padrão de cobrança da banca, pegadinhas e questões comentadas",
+    "board_style": "CEBRASPE",
+    "depth_level": "Exaustivo",
+    "goal": "Teoria completa, revisão estratégica, pegadinhas e questões comentadas",
+    "base_topic_number": "2",
+    "topic_title": "2 Navegadores de Internet, webmail e ferramentas de produtividade",
+    "syllabus_reference": "Conteúdo programático da disciplina Informática e Dados",
+    "priority_sources": [
+      "Documentação oficial e referências técnicas confiáveis",
+      "Bibliografia técnica consolidada",
+      "Questões anteriores da banca"
+    ],
+    "minimum_questions": 8,
+    "question_format": "Certo/Errado",
+    "prioritize_real_questions": true,
+    "response_language": "português",
+    "target_audience": "Candidato de concurso público",
+    "additional_notes": "Executar exatamente para esta linha individual do topicos.txt. Não juntar com outros tópicos. Não pular este tópico. Dar destaque ao padrão de cobrança da banca, aos pontos mais cobrados e às pegadinhas recorrentes.",
+    "input_hash": "7d489d96964c",
+    "extras": {}
+  },
+  "material": {
+    "material_id": "mat_001",
+    "slug": "navegadores-webmail-produtividade-cebraspe",
+    "title": "Navegadores de Internet, Webmail e Ferramentas de Produtividade para Concursos (CEBRASPE)",
+    "base_number": "2",
+    "topic_title": "Navegadores de Internet, webmail e ferramentas de produtividade",
+    "purpose": "Concurso público",
+    "area_name": "Tecnologia da Informação",
+    "subject_name": "Informática e Dados",
+    "subarea_name": "Informática, redes, segurança e dados",
+    "main_theme": "Navegadores de Internet, webmail e ferramentas de produtividade",
+    "theme_scope": "Teoria completa, incidência em prova, padrão de cobrança da banca, pegadinhas e questões comentadas",
+    "board_style": "CEBRASPE",
+    "depth_level": "Exaustivo",
+    "study_goal": "Teoria completa, revisão estratégica, pegadinhas e questões comentadas",
+    "target_audience": "Candidato de concurso público",
+    "language_code": "português",
+    "update_status": "Atualizado",
+    "current_note": "Conteúdo verificado e atualizado conforme as versões mais recentes dos navegadores e ferramentas de produtividade online, e o padrão de cobrança da banca CEBRASPE.",
+    "has_case_law": false,
+    "case_law_justification": "A matéria de Informática e Dados, especificamente sobre navegadores, webmail e ferramentas de produtividade, não exige a inclusão de jurisprudência. O foco é em conceitos técnicos, funcionalidades e segurança.",
+    "has_information_limitation": false,
+    "information_limitation_desc": null,
+    "content_checksum": "a0b1c2d3e4f5g6h7i8j9k0l1m2n3o4p5q6r7s8t9",
+    "extras": {}
+  },
+  "blocos_textuais": [
+    {
+      "external_block_code": "blc_001",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 1,
+      "title": "Introdução aos Navegadores de Internet",
+      "content": "Os navegadores de Internet, também conhecidos como browsers, são softwares essenciais que permitem aos usuários acessar e interagir com o conteúdo da World Wide Web. Eles interpretam códigos como HTML, CSS e JavaScript para exibir páginas da web de forma visualmente compreensível. A banca CEBRASPE frequentemente cobra conhecimentos sobre as funcionalidades básicas, recursos de segurança e privacidade, e as diferenças entre os principais navegadores do mercado.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_002",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 2,
+      "title": "Principais Navegadores e Suas Características",
+      "content": "Os navegadores mais cobrados em concursos CEBRASPE são Google Chrome, Mozilla Firefox e Microsoft Edge. Cada um possui características e particularidades que são frequentemente exploradas em questões. \n\n**Google Chrome:** Desenvolvido pelo Google, é conhecido por sua velocidade, interface minimalista e vasta gama de extensões. Possui o modo de navegação anônima, que não salva histórico, cookies ou dados de formulários após o fechamento da janela. Permite sincronizar favoritos e senhas entre dispositivos com uma conta Google.\n\n**Mozilla Firefox:** Focado em privacidade e personalização, o Firefox é um navegador de código aberto. Oferece recursos de bloqueio de rastreadores de anúncios e permite a instalação de extensões para adicionar novas funcionalidades. Seu modo de navegação privada também impede o armazenamento de histórico e cookies.\n\n**Microsoft Edge:** Sucessor do Internet Explorer, o Edge é o navegador padrão do Windows. Utiliza o motor de busca Bing por padrão, mas permite alteração. Possui o modo InPrivate, com funcionalidades semelhantes à navegação anônima de outros navegadores, apagando registros de navegação e cookies. O Microsoft Defender SmartScreen é um recurso de segurança integrado que alerta sobre sites suspeitos e verifica listas de phishing e software malicioso. O Edge também oferece níveis de prevenção de rastreamento (Básico, Equilibrado e Estrito) para gerenciar privacidade.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_003",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 3,
+      "title": "Recursos Comuns dos Navegadores",
+      "content": "**Histórico de Navegação:** Registra os sites visitados, permitindo ao usuário revisitá-los facilmente. Pode ser limpo manualmente.\n\n**Cache:** Armazena temporariamente arquivos de sites (imagens, scripts) para acelerar o carregamento em visitas futuras.\n\n**Cookies:** Pequenos arquivos de texto armazenados no computador do usuário pelos sites visitados. Podem conter informações de login, preferências do site e dados de rastreamento.\n\n**Favoritos/Marcadores:** Permitem salvar URLs de sites para acesso rápido.\n\n**Extensões/Add-ons:** Pequenos programas que adicionam funcionalidades específicas ao navegador.\n\n**Navegação Privada/Anônima/InPrivate:** Um modo que impede o navegador de salvar histórico de navegação, cookies e dados de formulários na máquina local após o fechamento da janela. É crucial entender que este modo *não* torna o usuário anônimo na internet, não oculta a atividade do provedor de internet, do empregador ou dos próprios sites visitados.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_004",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 4,
+      "title": "Webmail: Conceitos e Funcionalidades",
+      "content": "Webmail é um serviço de correio eletrônico acessado diretamente por meio de um navegador web, sem a necessidade de instalação de um programa cliente de e-mail no computador. Exemplos populares incluem Gmail e Outlook.com. \n\n**Funcionalidades Comuns:** Envio e recebimento de mensagens, organização em pastas (caixa de entrada, enviados, rascunhos, lixeira, spam), anexos de arquivos, lista de contatos, filtros e regras para gerenciamento de e-mails, e recursos de segurança como detecção de spam e phishing.\n\n**Segurança em Webmail:** A CEBRASPE frequentemente aborda a segurança do e-mail, especialmente em relação a golpes como phishing. Phishing é uma técnica de engenharia social que tenta 'pescar' dados pessoais e credenciais de acesso, geralmente por meio de e-mails falsos que imitam instituições legítimas. É fundamental verificar o remetente e a URL antes de clicar em links ou fornecer informações.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_005",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 5,
+      "title": "Ferramentas de Produtividade Online",
+      "content": "As ferramentas de produtividade online são aplicações baseadas na nuvem que permitem aos usuários criar, editar, armazenar e colaborar em documentos, planilhas, apresentações e outros tipos de arquivos, acessíveis via navegador. A CEBRASPE tem cobrado cada vez mais o conhecimento sobre suítes como Google Workspace (antigo G Suite) e Microsoft 365 Online.\n\n**Google Workspace:** Inclui Gmail, Google Drive (armazenamento em nuvem), Google Docs (editor de texto), Google Sheets (planilha eletrônica), Google Slides (apresentações), Google Meet (videoconferências) e Google Calendar (agenda). Destaca-se pela colaboração em tempo real, controle de versões e compartilhamento facilitado. O Google Meet, por exemplo, permite reuniões com até 100 participantes na versão gratuita, com duração de 60 minutos.\n\n**Microsoft 365 Online:** Oferece versões web de aplicativos como Word, Excel, PowerPoint, OneDrive (armazenamento em nuvem) e Outlook Web App. O Microsoft Teams é uma plataforma unificada de comunicação e colaboração que integra chat, videoconferências, armazenamento de arquivos e aplicativos. A colaboração e o compartilhamento de arquivos são pontos chave.\n\n**Padrão de Cobrança CEBRASPE:** As questões focam nas funcionalidades de colaboração, armazenamento em nuvem, compartilhamento de arquivos, diferenças entre versões online e desktop (quando aplicável), e segurança no uso dessas ferramentas.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_006",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 6,
+      "title": "Padrão de Cobrança CEBRASPE: Destaques e Pegadinhas",
+      "content": "A CEBRASPE é conhecida por suas questões no formato 'Certo/Errado' e por exigir precisão nos conceitos. \n\n**Navegadores:**\n*   **Funcionalidades:** Cobrança literal de recursos como histórico, cache, cookies, favoritos, extensões.\n*   **Modos de Navegação Privada:** Grande foco nas limitações desses modos (não garante anonimato total, não oculta do provedor ou empregador).\n*   **Segurança:** Importância do HTTPS, alertas de sites maliciosos (SmartScreen no Edge).\n*   **Atalhos de Teclado:** Embora menos frequente para navegadores, podem aparecer. (Ex: Ctrl+F para buscar na página).\n\n**Webmail:**\n*   **Phishing:** Identificação de golpes de engenharia social via e-mail.\n*   **Funcionalidades Básicas:** Envio, recebimento, anexos, organização.\n\n**Ferramentas de Produtividade Online:**\n*   **Colaboração:** Como as ferramentas permitem o trabalho simultâneo e o compartilhamento.\n*   **Armazenamento em Nuvem:** Conceitos de Google Drive, OneDrive, sincronização e acesso.\n*   **Videoconferência:** Funcionalidades do Google Meet e Microsoft Teams (limites de participantes, gravação).\n*   **Diferenças entre versões:** Online vs. desktop, embora a ênfase seja nas online.\n\n**Pegadinhas Recorrentes:**\n*   Afirmar que a navegação anônima garante anonimato total.\n*   Confundir cache com cookies ou suas finalidades.\n*   Atribuir funcionalidades exclusivas a um navegador quando são comuns a vários.\n*   Erros sobre protocolos de e-mail (POP3, IMAP, SMTP) em questões de webmail (embora o foco seja no webmail, o conhecimento dos protocolos subjacentes pode ser testado).\n*   Confundir funcionalidades de suítes online com softwares instalados localmente.",
+      "content_type": "teoria"
+    }
+  ],
+  "topicos": [
+    {
+      "external_topic_code": "top_001",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "2.1",
+      "title": "Navegadores de Internet (Browsers)",
+      "reference_block_external_id": "blc_001",
+      "level": 1,
+      "order": 1
+    },
+    {
+      "external_topic_code": "top_002",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "2.1.1",
+      "title": "Principais Navegadores",
+      "reference_block_external_id": "blc_002",
+      "level": 2,
+      "order": 2
+    },
+    {
+      "external_topic_code": "top_003",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "2.1.2",
+      "title": "Recursos e Funcionalidades Comuns",
+      "reference_block_external_id": "blc_003",
+      "level": 2,
+      "order": 3
+    },
+    {
+      "external_topic_code": "top_004",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "2.1.3",
+      "title": "Segurança e Privacidade na Navegação",
+      "reference_block_external_id": "blc_003",
+      "level": 2,
+      "order": 4
+    },
+    {
+      "external_topic_code": "top_005",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "2.2",
+      "title": "Webmail",
+      "reference_block_external_id": "blc_004",
+      "level": 1,
+      "order": 5
+    },
+    {
+      "external_topic_code": "top_006",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "2.2.1",
+      "title": "Conceitos e Funcionalidades",
+      "reference_block_external_id": "blc_004",
+      "level": 2,
+      "order": 6
+    },
+    {
+      "external_topic_code": "top_007",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "2.2.2",
+      "title": "Ameaças e Segurança (Phishing)",
+      "reference_block_external_id": "blc_004",
+      "level": 2,
+      "order": 7
+    },
+    {
+      "external_topic_code": "top_008",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "2.3",
+      "title": "Ferramentas de Produtividade Online",
+      "reference_block_external_id": "blc_005",
+      "level": 1,
+      "order": 8
+    },
+    {
+      "external_topic_code": "top_009",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "2.3.1",
+      "title": "Google Workspace (Docs, Sheets, Drive, Meet)",
+      "reference_block_external_id": "blc_005",
+      "level": 2,
+      "order": 9
+    },
+    {
+      "external_topic_code": "top_010",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "2.3.2",
+      "title": "Microsoft 365 Online (Word, Excel, OneDrive, Teams)",
+      "reference_block_external_id": "blc_005",
+      "level": 2,
+      "order": 10
+    },
+    {
+      "external_topic_code": "top_011",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "2.4",
+      "title": "Padrão de Cobrança CEBRASPE",
+      "reference_block_external_id": "blc_006",
+      "level": 1,
+      "order": 11
+    }
+  ],
+  "topico_componentes": [
+    {
+      "component_id": "cmp_001",
+      "topic_id": "top_002",
+      "component_type": "descricao",
+      "content": "Google Chrome: velocidade, extensões, sincronização, navegação anônima.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_002",
+      "topic_id": "top_002",
+      "component_type": "descricao",
+      "content": "Mozilla Firefox: privacidade, código aberto, bloqueio de rastreadores, navegação privada.",
+      "order": 2
+    },
+    {
+      "component_id": "cmp_003",
+      "topic_id": "top_002",
+      "component_type": "descricao",
+      "content": "Microsoft Edge: padrão do Windows, SmartScreen, InPrivate, prevenção de rastreamento.",
+      "order": 3
+    },
+    {
+      "component_id": "cmp_004",
+      "topic_id": "top_003",
+      "component_type": "descricao",
+      "content": "Histórico de Navegação: registro de sites visitados.",
+      "order": 4
+    },
+    {
+      "component_id": "cmp_005",
+      "topic_id": "top_003",
+      "component_type": "descricao",
+      "content": "Cache: armazenamento temporário de arquivos para agilizar carregamento.",
+      "order": 5
+    },
+    {
+      "component_id": "cmp_006",
+      "topic_id": "top_003",
+      "component_type": "descricao",
+      "content": "Cookies: arquivos com informações de usuário e preferências.",
+      "order": 6
+    },
+    {
+      "component_id": "cmp_007",
+      "topic_id": "top_003",
+      "component_type": "descricao",
+      "content": "Favoritos/Marcadores: atalhos para sites.",
+      "order": 7
+    },
+    {
+      "component_id": "cmp_008",
+      "topic_id": "top_003",
+      "component_type": "descricao",
+      "content": "Extensões/Add-ons: funcionalidades adicionais.",
+      "order": 8
+    },
+    {
+      "component_id": "cmp_009",
+      "topic_id": "top_004",
+      "component_type": "descricao",
+      "content": "Navegação Privada/Anônima/InPrivate: não salva histórico, cookies ou dados de formulários localmente. Não garante anonimato total.",
+      "order": 9
+    },
+    {
+      "component_id": "cmp_010",
+      "topic_id": "top_006",
+      "component_type": "descricao",
+      "content": "Acesso via navegador, sem instalação de software cliente.",
+      "order": 10
+    },
+    {
+      "component_id": "cmp_011",
+      "topic_id": "top_006",
+      "component_type": "descricao",
+      "content": "Funcionalidades: envio/recebimento, pastas, anexos, contatos, filtros.",
+      "order": 11
+    },
+    {
+      "component_id": "cmp_012",
+      "topic_id": "top_007",
+      "component_type": "descricao",
+      "content": "Phishing: golpe de engenharia social via e-mail para roubo de dados.",
+      "order": 12
+    },
+    {
+      "component_id": "cmp_013",
+      "topic_id": "top_009",
+      "component_type": "descricao",
+      "content": "Google Drive, Docs, Sheets, Slides, Meet, Calendar. Colaboração em tempo real, armazenamento em nuvem.",
+      "order": 13
+    },
+    {
+      "component_id": "cmp_014",
+      "topic_id": "top_010",
+      "component_type": "descricao",
+      "content": "Word Online, Excel Online, PowerPoint Online, OneDrive, Outlook Web App, Microsoft Teams. Comunicação unificada e colaboração.",
+      "order": 14
+    }
+  ],
+  "pegadinhas": [
+    {
+      "trap_id": "peg_001",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": "Anonimato na Navegação Privada",
+      "description": "A CEBRASPE frequentemente afirma que o modo de navegação anônima/privada garante total anonimato ou impede que o provedor de internet ou o empregador rastreiem a atividade. ISSO ESTÁ ERRADO. O modo apenas impede o registro local de dados.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 1
+    },
+    {
+      "trap_id": "peg_002",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": "Confusão entre Cache e Cookies",
+      "description": "Questões podem tentar confundir as funções de cache (acelera carregamento de páginas) e cookies (armazenam preferências e dados de sessão).",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 2
+    },
+    {
+      "trap_id": "peg_003",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": "Funcionalidades Exclusivas de Navegadores",
+      "description": "Atribuir uma funcionalidade comum (ex: navegação por abas, favoritos) como exclusiva de um navegador específico, ou vice-versa. A maioria dos navegadores modernos compartilha muitas funcionalidades básicas.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 3
+    },
+    {
+      "trap_id": "peg_004",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": "Segurança de E-mails Falsos (Phishing)",
+      "description": "Acreditar que um e-mail com aparência oficial é legítimo sem verificar o remetente ou a URL dos links. Golpes de phishing são muito explorados.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 4
+    },
+    {
+      "trap_id": "peg_005",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": "Limitações de Ferramentas Online",
+      "description": "Confundir as capacidades das versões online de ferramentas de produtividade com as versões desktop completas, ou subestimar suas capacidades de colaboração e armazenamento em nuvem.",
+      "example_error": "",
+      "how_to_avoid": "",
+      "order": 5
+    }
+  ],
+  "pontos_memorizacao": [
+    {
+      "memory_id": "mem_001",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": "Navegação Privada: O que NÃO faz",
+      "content": "Não oculta seu IP, não te torna anônimo para o provedor, empregador ou sites. Apenas não salva dados LOCALMENTE.",
+      "order": 1
+    },
+    {
+      "memory_id": "mem_002",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": "Phishing: Verifique o Remetente e URL",
+      "content": "Sempre desconfie de e-mails que pedem dados pessoais ou credenciais. Verifique o endereço de e-mail do remetente e passe o mouse sobre os links para ver a URL real antes de clicar.",
+      "order": 2
+    },
+    {
+      "memory_id": "mem_003",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": "Colaboração em Nuvem: Edição Simultânea",
+      "content": "Ferramentas como Google Docs e Microsoft Word Online permitem que várias pessoas editem o mesmo documento ao mesmo tempo, com as alterações sendo sincronizadas.",
+      "order": 3
+    },
+    {
+      "memory_id": "mem_004",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": "Cache vs. Cookies",
+      "content": "Cache: acelera carregamento de páginas. Cookies: armazenam dados de sessão e preferências.",
+      "order": 4
+    },
+    {
+      "memory_id": "mem_005",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": "Navegadores CEBRASPE",
+      "content": "Foco principal em Google Chrome, Mozilla Firefox e Microsoft Edge.",
+      "order": 5
+    },
+    {
+      "memory_id": "mem_006",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "title": "Google Meet Gratuito",
+      "content": "Permite até 100 participantes e duração de 60 minutos.",
+      "order": 6
+    }
+  ],
+  "quadro_sinotico_itens": [],
+  "questoes": [
+    {
+      "question_id": "qst_001",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": null,
+      "year": null,
+      "organization": null,
+      "role": null,
+      "statement": "No modo de navegação anônima do Google Chrome, o histórico de navegação do usuário e os cookies são salvos no navegador, contudo ficam acessíveis somente para o usuário.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": null,
+      "external_reference": "CEBRASPE (CESPE) – 2023 – Adaptada",
+      "commentary": "ERRADO. No modo de navegação anônima do Google Chrome (e modos equivalentes em outros navegadores), o histórico de navegação, os cookies e os dados de formulários *não* são salvos após o fechamento da janela. O objetivo é justamente evitar o registro local dessas informações.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_001"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_002",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": null,
+      "year": null,
+      "organization": null,
+      "role": null,
+      "statement": "O Microsoft Defender SmartScreen, presente no Microsoft Edge, alerta o usuário sobre páginas da web suspeitas e verifica uma lista dinâmica de sites de phishing e software malicioso previamente relatados, contribuindo para uma navegação mais segura.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": null,
+      "external_reference": "CESPE/CEBRASPE – FINEP – Analista – 2024 – Adaptada",
+      "commentary": "CERTO. O Microsoft Defender SmartScreen é uma funcionalidade de segurança integrada ao Microsoft Edge que atua na proteção contra sites de phishing e downloads de software malicioso, verificando a reputação das páginas e arquivos.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_002"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_003",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": null,
+      "year": null,
+      "organization": null,
+      "role": null,
+      "statement": "O webmail é um serviço de correio eletrônico que exige a instalação de um programa cliente específico no computador do usuário para que as mensagens possam ser acessadas e gerenciadas.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": null,
+      "external_reference": "CESPE/CEBRASPE – PM PA – Oficial – 2023 – Adaptada",
+      "commentary": "ERRADO. O webmail, por definição, é um serviço de correio eletrônico acessado diretamente via navegador web, sem a necessidade de instalação de um programa cliente de e-mail (como Outlook ou Thunderbird) no computador.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_003"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_004",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": null,
+      "year": null,
+      "organization": null,
+      "role": null,
+      "statement": "No Google Documentos, caso um usuário exclua um arquivo compartilhado, sem transferir a propriedade para outra pessoa, esse arquivo será removido do Drive apenas para o usuário que efetuou a exclusão; assim, os demais colaboradores com os quais o arquivo esteja sendo compartilhado ainda terão acesso ao arquivo.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": null,
+      "external_reference": "QUADRIX – 2022 – SEDF – Professor – Adaptada (Estilo CEBRASPE)",
+      "commentary": "ERRADO. No Google Drive, se um usuário exclui um arquivo compartilhado do qual ele é o proprietário, o arquivo é removido para todos os colaboradores. Para que os demais continuem tendo acesso, a propriedade deve ser transferida antes da exclusão.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_004"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_005",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": null,
+      "year": null,
+      "organization": null,
+      "role": null,
+      "statement": "O Microsoft Teams é uma plataforma unificada de comunicação e colaboração que reúne bate-papo, videoconferências, armazenamento de arquivos e integração de aplicativos no local de trabalho.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": null,
+      "external_reference": "CESPE/CEBRASPE – FINEP – Analista – 2024 – Adaptada",
+      "commentary": "CERTO. O Microsoft Teams é, de fato, uma plataforma de comunicação e colaboração abrangente que integra diversas funcionalidades como chat, chamadas de vídeo, armazenamento e compartilhamento de arquivos, e a integração com outros aplicativos do Microsoft 365.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_005"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_006",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": null,
+      "year": null,
+      "organization": null,
+      "role": null,
+      "statement": "A navegação com privacidade do Chrome, denominada anônima, não salva o registro dos sítios visitados, somente registra os downloads realizados.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": null,
+      "external_reference": "CESPE/CEBRASPE – FUB – Técnico em Contabilidade – 2022",
+      "commentary": "CERTO. A navegação anônima no Chrome (e modos similares em outros navegadores) não salva o histórico de navegação dos sites visitados. No entanto, os downloads realizados durante a sessão anônima *são* registrados e permanecem no computador, a menos que sejam excluídos manualmente.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_006"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_007",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": null,
+      "year": null,
+      "organization": null,
+      "role": null,
+      "statement": "O Mozilla Firefox, diferentemente do Google Chrome e do Microsoft Edge, não permite o uso de extensões para adicionar funcionalidades extras ao navegador.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": null,
+      "external_reference": "PS Concursos – 2025 – Prefeitura de Turvo – SC – Agente Administrativo – Adaptada (Estilo CEBRASPE)",
+      "commentary": "ERRADO. Todos os principais navegadores modernos, incluindo Mozilla Firefox, Google Chrome e Microsoft Edge, permitem a instalação e o uso de extensões (também chamadas de add-ons ou plugins) para adicionar funcionalidades extras e personalizar a experiência do usuário.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_007"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_008",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": null,
+      "year": null,
+      "organization": null,
+      "role": null,
+      "statement": "Em um ataque de phishing, o usuário é direcionado a uma página visualmente semelhante a um portal oficial e, nela, insere suas credenciais, sem realizar download, instalação ou execução de qualquer arquivo, programa ou extensão.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Certo",
+      "difficulty": null,
+      "external_reference": "CEBRASPE – PCMG – 2023 – Adaptada",
+      "commentary": "CERTO. A situação descrita é um exemplo clássico de phishing. O usuário é induzido a acessar um site falso (mas visualmente idêntico ao original) e a inserir suas credenciais, que são então capturadas pelos criminosos, sem a necessidade de download ou instalação de software malicioso.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_008"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_009",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "board": null,
+      "year": null,
+      "organization": null,
+      "role": null,
+      "statement": "O Google Meet, na modalidade gratuita, permite que qualquer pessoa com uma conta Google crie uma reunião online com até 250 participantes e duração ilimitada.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": "Errado",
+      "difficulty": null,
+      "external_reference": "Questão de Concurso sobre Google Workspace – Adaptada (Estilo CEBRASPE)",
+      "commentary": "ERRADO. Na versão gratuita do Google Meet, uma reunião online pode ter até 100 participantes e a duração é limitada a 60 minutos. A afirmação de 250 participantes e duração ilimitada está incorreta para a versão gratuita.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_009"
+        ],
+        "count": 1
+      }
+    }
+  ],
+  "comentarios_questoes": [
+    {
+      "comment_id": "com_001",
+      "question_id": "qst_001",
+      "content": "ERRADO. No modo de navegação anônima do Google Chrome (e modos equivalentes em outros navegadores), o histórico de navegação, os cookies e os dados de formulários *não* são salvos após o fechamento da janela. O objetivo é justamente evitar o registro local dessas informações.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_002",
+      "question_id": "qst_002",
+      "content": "CERTO. O Microsoft Defender SmartScreen é uma funcionalidade de segurança integrada ao Microsoft Edge que atua na proteção contra sites de phishing e downloads de software malicioso, verificando a reputação das páginas e arquivos.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_003",
+      "question_id": "qst_003",
+      "content": "ERRADO. O webmail, por definição, é um serviço de correio eletrônico acessado diretamente via navegador web, sem a necessidade de instalação de um programa cliente de e-mail (como Outlook ou Thunderbird) no computador.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_004",
+      "question_id": "qst_004",
+      "content": "ERRADO. No Google Drive, se um usuário exclui um arquivo compartilhado do qual ele é o proprietário, o arquivo é removido para todos os colaboradores. Para que os demais continuem tendo acesso, a propriedade deve ser transferida antes da exclusão.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_005",
+      "question_id": "qst_005",
+      "content": "CERTO. O Microsoft Teams é, de fato, uma plataforma de comunicação e colaboração abrangente que integra diversas funcionalidades como chat, chamadas de vídeo, armazenamento e compartilhamento de arquivos, e a integração com outros aplicativos do Microsoft 365.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_006",
+      "question_id": "qst_006",
+      "content": "CERTO. A navegação anônima no Chrome (e modos similares em outros navegadores) não salva o histórico de navegação dos sites visitados. No entanto, os downloads realizados durante a sessão anônima *são* registrados e permanecem no computador, a menos que sejam excluídos manualmente.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_007",
+      "question_id": "qst_007",
+      "content": "ERRADO. Todos os principais navegadores modernos, incluindo Mozilla Firefox, Google Chrome e Microsoft Edge, permitem a instalação e o uso de extensões (também chamadas de add-ons ou plugins) para adicionar funcionalidades extras e personalizar a experiência do usuário.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_008",
+      "question_id": "qst_008",
+      "content": "CERTO. A situação descrita é um exemplo clássico de phishing. O usuário é induzido a acessar um site falso (mas visualmente idêntico ao original) e a inserir suas credenciais, que são então capturadas pelos criminosos, sem a necessidade de download ou instalação de software malicioso.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_009",
+      "question_id": "qst_009",
+      "content": "ERRADO. Na versão gratuita do Google Meet, uma reunião online pode ter até 100 participantes e a duração é limitada a 60 minutos. A afirmação de 250 participantes e duração ilimitada está incorreta para a versão gratuita.",
+      "explanation_alternatives": ""
+    }
+  ],
+  "checklist_revisao": [
+    {
+      "checklist_id": "chk_001",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Compreender as funcionalidades básicas dos navegadores (histórico, cache, cookies, favoritos, extensões).",
+      "completed": false,
+      "order": 1
+    },
+    {
+      "checklist_id": "chk_002",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Distinguir as características e modos de navegação privada (anônima, InPrivate, privativa) dos principais navegadores (Chrome, Firefox, Edge).",
+      "completed": false,
+      "order": 2
+    },
+    {
+      "checklist_id": "chk_003",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Saber as limitações da navegação privada (não garante anonimato total).",
+      "completed": false,
+      "order": 3
+    },
+    {
+      "checklist_id": "chk_004",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Entender o conceito de webmail e suas funcionalidades básicas.",
+      "completed": false,
+      "order": 4
+    },
+    {
+      "checklist_id": "chk_005",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Identificar e prevenir golpes de phishing em e-mails.",
+      "completed": false,
+      "order": 5
+    },
+    {
+      "checklist_id": "chk_006",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Conhecer as principais ferramentas de produtividade online (Google Workspace, Microsoft 365 Online).",
+      "completed": false,
+      "order": 6
+    },
+    {
+      "checklist_id": "chk_007",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Compreender os recursos de colaboração, armazenamento em nuvem e videoconferência dessas suítes.",
+      "completed": false,
+      "order": 7
+    },
+    {
+      "checklist_id": "chk_008",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "item_text": "Revisar as pegadinhas e os pontos mais cobrados pela banca CEBRASPE.",
+      "completed": false,
+      "order": 8
+    }
+  ],
+  "referencias": [
+    {
+      "reference_id": "ref_001",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "Questões de Concurso sobre Ferramentas de produtividade e trabalho a distância",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGMmSQra09ONSdH6uTq3IgDY1H82irFGbHOPjvoF12YSm3My3oqAgSdG3Bp3tqQq_7GHBEcL-62M1BLf3Nrh5m5AiBlsv4iXfQMRKPQ9gYsMDMisbK__thQU9Jy__txTikObYwuks0O4E28qutomlGo0vWurFL4u9_mjahyuhSvVJfZE5L0Uan8aZ7AZcBPjCaLYnY9B56hMtCOKz8RalYBMM780Jv2Txo8NMsKIEGwXbKLFwc53u040FRiqWnqLH0=",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_002",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "Questões de Concurso sobre Navegadores (Browser) em Noções de Informática para CESPE / CEBRASPE | Qconcursos.com",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH2VKZjNdGyoA4t5A0Dk71gQm5RFxd4hZiTbQE-gy-VFEtjI06COxUwfoLV7KF1Z3H8Qam7n5D0rgnaXSO4zxKBgzTLS08bieeh-fqusbwwyhGgHKW6pqGMpMpvcfULZmAahj_Fjm4kJ5OAIK06fNg9PO0nRbdKMW0NVOPoro2fYcLX_c8z4zUG-I-0IQFv_wSkyfNTbO7vm5vnJvk9QfGq-8kelrL99UGJBMG5YTIe-d2fDVRFb2XIBjWyNliveTY=",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_003",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "Questão 2164254 CEBRASPE (CESPE) - Analista (APEX) - Tec Concursos",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHkzwm3rFHJcQioiOIwY0l_814QAqpeIwfPQJPDAVfjwzHzI2r0hZbwRDuK5xsoASFmYFGp6tmAwL0V8v8PJ20teNaDUlEQFu9KW9PE59JHqolQ48nKJXREfQnWGf5jzdb2s6z7YfUbIwHm",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_004",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "Questões de Concurso sobre Correio Eletrônico",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGhDF1YsGqbzVBNYgG-InVHLW8OfVFbGONvSeaQQxxWZasX2h-GesFIkePq7r2ndSPG8YtrC2bCJWruocGnw2l6M5TnRgGlzRNVOy0wYLMCjiq_ULeBMgjUSHICqgOKimdlLOmP4X3oSQPKytBeASkfnLkQjez8QauJJ2blIIATFSFtmUh3_rZFuMQ6XmDqc_kujSY2GhjWJJqil-adrw==",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_005",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "Questões de Concurso sobre Navegadores ou Browsers",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEh01yp-c9I_I8b0TDrtmS07b_aPbCeDwH7alacHM0b5-Eta2tYJs0dS3PyUcvo79QFka2BIilgcCZHwRNfkmdX6f8vTQmYrWo_ybo5gGvpSfP-P6T5_lzf0DHOhjkRV4VpcsU87ukkyHq8iQbOecZCPNR4xKl8JeEnlEdlG_tu1_phPgSVGPdALAlfGZDcmjifU09AYZg-KMNSslq8maQ9g0Lj",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_006",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "Funcionalidades do navegador Firefox",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHRvIC06EEHAyECeO-N3fdT1MD_f04rcpOHGeStag-RGnsyraRNChWJC_xhaABSflquo2nOFG62Wm-VysIi1CPIbq8AILct7CvNatYXc0jubdv1Hu5urdBT_1gKJgSTveDw",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_007",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "Questão Acerca de Internet, intranet e tecnologias e procedimentos a elas associados, julgue o item a seguir.Disponív...",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHDdXYLtwwmhNjY7B_inu9-7XKIve87zExsPxPSHoCWqSSPxD26XhO6uSctrw6_0P6btCcGesjCfctIPgyW8klTxY2HH67t1MCmr8q_6CMTldZP421mOi3jvERi7ROc17snfmBVLG8Pw66HgGuf5gOkaR8KuOLxnEz3BKakyMY9rk45UZ6qy1A=",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_008",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "227. (CEBRASPE-CESPE – 2023) No modo de navegação anônima do Google Chrome: a) o histórico de navegação do usuário e os cookies são salvos no Goog... – Questões Respondidas - Passei Direto",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHv7kSie0kppBqnWY3jseZ8SbN8WSkkXBgW2TnrPnpEM-tnBmzmczBEiUp0OKBZzYjjyMIqqchCQfHb57ToqbPJ4y1lXrAEpgtlXRpB2ceW2ygPe9tA2FGCbMoHQpD466gCQ70t3l4X2f1LtSzCYSxdjsI6nBIe0ku9OEgsO38QBSUsEUG6_fsPidIJJQj2bfGyt0S-aXmEFFy0CJjm2gE27Zgzav2PxaHSaQz1D57nm17Hu11BstiGpT4N",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_009",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "INFORMÁTICA CEBRASPE 2025: Aula 01: Navegadores. - YouTube",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFEv2Y871VKm1EVHCF3aKu75JGgEuTN4FLEa5diZb292ndXM_fOuGKGkFGX1WYYr796t1Hwj8RFlyt1dW8FnWaHM2lpb9cqDtkp_IRZz5lzQ8nQlTbd57t1mZhd2upeqt7IIrDOtg==",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_010",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "Alerta de golpe! E-mail falso convoca candidatos aprovados no concurso do INSS",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHl6F32vDvgtwEjpPPvrW66GOJBET7YtCvPCiQB4DK7u-BCNwObm-qYEABm6tE_0E7NoBuQLNN9w7nVH7LSNillbCFXZqi-yDBCaOJLTvok6FqdJ0DsmfHYCnGSmIFS9IyS4EOskyaqIBwCQU4r_g96WN3BBGMjf6_AO0XAadbtbBaxqv2zMqBgbk4Tl61EBH1GxDW_ITu9ZRcwgwSeybgtDYaGKzrUDLARF7yq_1A=",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_011",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "FERRAMENTAS GOOGLE WORKSPACE | G SUITE - Informática para Concursos Públicos",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQExfe6vxqtfWzoqHOexjfcYd42RKGZ-4bgsWz2rC2Z2cdw30Z-ontBK3EKJ0idsvu27rpSGZbx3jQ7qUscqGDy4M5fAHGEvZmuTOvo-loHKwqHGL8caXs47SHxP7zZQifeEaPT4qQ==",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_012",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "A navegação com privacidade do Chrome, denominada anônima... - Gran Questões",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFcx6TtiV3YBjM0hOlneCNBCTE5W_QKXdHphqkjedVxhS7Ttw4zlYYLsh5qdsLBYhISatDZzJ8y3PrfnPniqH3F8O0p6R7ugDkCccVkeVD1E9m_Jr0Nb81Fkf7zjNw_O6eEi-_GiiSb4wvW70MNCesHUEQzE3dGhnVclzuwzIrMyizYyaYhm6kaECX-Ct0CK6xNZBo=",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_013",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "No modo de navegação anônima do Chrome, é possível navegar ... - Qconcursos",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGoWKmx-pH5PGou9F__YxGvCZX3IIHHunU5pcPhjq8Ixs1VSXdEBSMqV_9DeCWZtDp7dor2yAsMkmIoJR6580kdbxApnsS0Xa2r8krsCnSCOsOyhEJ9Dey-htwS8EHdAMejk88uvtMZE3RrAFozDblSFSAQldb-hLdvkfPVsvZW",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_014",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "Mozilla Firefox",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE3WyQZD8Ou0zVPYk1xL9a-_wdHkq49mVsklp-XVHfviMTBp-JAa7nd_No31gzXngH2n2xqvJI6XVrmDaN4XXsq8huADQ78_947D3MtIA2RnA52C9p6BAOTwIqQUNU8DWYtIGVyx1NiIaDF1KTL1aDrPcDJZQcSBPJQtVQCHz1fee-6QPItl75xaMU7vznq1sEMuM_J827MZN4tFuKW4DvgDcqglWqLbaMLSZ",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_015",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "Questões de Noções de Informática - Edge para Concurso | Qconcursos.com",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHoyPYUqxDP5MzO-5nWSHfOPQdBotGOllkCwEbW4CK_cqOg-hJZ510dJA3Lsh77cgq105If_f9lyapPgyq6fWfhAdA290RDOixLO7YcvbKhf_oq35I8iexZjY3CnltizVBU7F2bcLt_lNaSkRoK-QpEZTMONgs1XYF9b16K6VSbM2CmX5rduLUR2oJPNSGWX5a2vXQIiJRrN8ddY1nMkSRHxMO31ek0U8Nk2bpWERQ7U3e96A==",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_016",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "FERRAMENTAS GOOGLE WORKSPACE | G SUITE | Informática para Concursos",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEeQYeVgO4ezSlQcRwU-xWm2C8gNWxAFqS8IwPJ7t-LDmrbZQJqXhs-i1m9kGDoarct0L2JMO_pT9jbNpueUgHH8aBssQc8B1_klS-keW7vA5dAYVQdJyGBOfuM4DEFvPvLtW2hFw==",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_017",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "Polícia Federal e Cebraspe alertam sobre site falso para inscrições em certame",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEOc6OMcmVdCvIs1uqZaWW1w_wcIM0GXsAqHeLGJv4XR7vLoh1QNS8S0T5XI_7XTS3fgrk_tYIiFxYGTqsZKVSnHRWnPu2032mdyYViQBh6S3pzYLx80WwgDs2APsYRGlXZ8SIq2v2S7JVGtANGGml5_vqKmf4ffonP8gzdP-lPnryug_6rz_gC7G6fAB8aqy1urg_HEotTkXR12dMXDq5ClWQalDY=",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_018",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "Em novo golpe, email falso convoca aprovados em concurso do INSS, pede cadastro e rouba dados - Notícias R7",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGfwamtAn7XEQ9JtZrnYTOL6vITSAiV-g-8lqvnhqZeXxM12CV2c0GS0TUmK9LlG4Fdf2HlO-WOdp4APg7QwzRS2Phdj5_Xy_5JqzCWG3fdjAvwc3ADvv5TTSgHLnZbrSYekPNcmex_H8BPipSWLKe6WqaFXeef-KZFfA-NkfE668EncmZ3aLO77QKPxAb0awGaOr4Kee6U0xDHV0tZeZJBjNZTMDKbqznxmIGGKfrBenFBaT_PKXyKad39qYmYSFRn",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_019",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "Google Workspace: Apps Para Empresas e Ferramentas Colaborativas",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHaL3rm-pU7gVyEDftkyclzxMFhEvFHSNP3kt3_99v7l6lSGX8p-yVrzBWD0q51VvhTR4BvQQIBtWEm_tQpJ8KWTDLEFtICGhXRY1h1OaAjzSnLYI4eNPzyAjOJ5osksxz4Mw==",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_020",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "Questões de Concurso Sobre google chrome em noções de informática - Qconcursos",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHTesLHKUdFNEv05e6XiZ_dC4isZOYGdrq22DIR3e95Dx14czYv6pUTbyZZiCS7DHCib6mQ6XtdLzCO6joz4zzr-BiOj_AX90Ry4iaB92l2Aghtz8fpgQHs6HimxKN6cEfbkVCYlm5nbZ6bICGClE_Op8N3swveXtGV8BIkaewzf0g4-aY9wlXb_eb8kVRwX4ITmILayJ3PbTCMrB8qgY2EFFqlzdmBOlMSaJcBJakdHVqTWAG5c_UCMVcrass=",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_021",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "Workspace — Ministério da Educação - Google - Governo Federal",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHOo2I1Qwsmxj8aTNw2oUMkqo_A_Eh2ix1GsNSMyAVssnGFGawrLk8lk_a62MEckeTSdQCYT1J_vKbKKIlDeyyBaczspX8RwJSssN2MbSvXPRAfTi6O12U_wrPNvYQd-RorHa1oApmtKDsZREZ0VHHnd9TjzTyA6Jt8kQVFtoKp34tNLg==",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_022",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "O Google Workspace tem se tornado uma ferramenta fundamental... - Qconcursos",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEr9BOjF2HW7zjsnLaaIFIJCIZ1EnTXemK8uCtzUi1OtpnMYk0GUOpC59ZxXA3_iVukjXRYEzSFyju-rmLZaDJsKuOn1LanY5pvg07Q3Rz0ln-ib7d21hmt3d8gIrmH3FZHMFR-cQiQSxoGCgsYyqTP24BfaBzw8DUat_uEOB0j",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_023",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "IT - Internet, Information Security and Electronic Mail Issues from CEBRASPE - YouTube",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFOkJpZeKzqego5O94Ui1by81VK1tUeRG6qHfZ8mK_TBaQp4_OLITfGwKmlHqmwvlEbH_pwtkvdg-QXM8VsdT1CAnU2yXAuoZCiJRBLcBpgJaiIrBxE-WXExnXjPK0D2wvYLdc1sw==",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_024",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "NÃO ERRE ESSA QUESTÃO! Phishing, Pharming e Smishing Explicados de Forma Simples! - YouTube",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHShfY1QvTNHQHleMb1CkspVjHPiLfx_rjHZP_V2t3hWJnx5xEQgKoWyQ_Uxc7KI6a5dd_Fhs0qnlhOyprFdXvbhbA0H22s6bzBnxmgcspNVA9jMW7gHV4sO0zMO6g63Buwbn86Ow==",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_025",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "No que se refere a sistemas operacionais, pacotes office, na... - Qconcursos",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGFIg0Lqr2DPe0IfVTgfXTF5gyAol-WVf8Bi0H32XtbYcsehbGmHeA4zloIpyK4cf-uaunohNSbk5uEMUgRkngaao437p3kS_HoE4hpwF9tApsYyJbSsJDLaKFLbRe3ELzUNI9Cp6csAmfMIKMivFGutTPCtICbDfuTwLZDDWTY",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_026",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "PROVA OBJETIVA - Cebraspe",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFyKA_5EJrz--3QUwNn4TzpbiWVzFHpMj20r7epcqrqgDOgC-Ws52ZR-QMYJTmmX7ZNQD4NE0HFC-xi34YfOwsRQSf6iHOrK9p8aAaTIHGUEyM8mmIwqYtcIPhmMHlXMiCWQax4vV7WEw5KzC7WUYyMuBN8ZRXjJcppYRFiIWotSsTtxYgDBmjsuVr9O8bmb6KgCwARApIqXp7XcT9tRGMJ7Zbfr1IvM6ana71BR54SJBnFePf-lOIpbM0V3A==",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_027",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "InforQuiz: Microsoft Edge e seus segredos! com Fabrício Melo - YouTube",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF3SOQuV0yEuamHyqaxtDXUgo_1PSSL_UYPXLXsMcRJMg2IzBoT5yEFkEuoP71ACMsD6qZ0FDNZmOC7p3zZzjCE4ScLaOs8uXZf_v_jej8w7jAolmBD_KWe95-ovaennrkCiHynXA==",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_028",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "InforQuiz: Ferramentas de produtividade - YouTube",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQExQMtKwa36e5r4Ed703800E7TXymzNRGmG7ObSIn9XDiqxy0tJh4iQLhXc20pX1i-64zJp9LNfWEm3PUGqLqwmmiMNrUrftcx7iV_IQgWMG7Vjey26kg-4Qn61bkUtmFanRuydiw==",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_029",
+      "material_id": "mat_001",
+      "reference_type": null,
+      "author_name": null,
+      "title": "Bloco 03; Navegadores de internet - questões comentadas de informática para concursos",
+      "publisher": null,
+      "year_reference": null,
+      "isbn": null,
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGCBt1XPYlofy_oqR0uhPnQLaFL1P4xjDY41-rIk0zsCjTehRjdgUbTpE57P_A4znXeXPdiNhrDF4mqkr_lTTA3Dl40F_krrBAlcivTxxngRNj631ZvKDRqzYPNsQazBZdXhkjX0A==",
+      "accessed_at": null,
+      "description": null
+    }
+  ],
+  "estatisticas_de_geracao": {
+    "total_topicos": 11,
+    "total_componentes_topico": 14,
+    "total_entendimentos_relevantes": 4,
+    "total_pegadinhas": 5,
+    "total_pontos_memorizacao": 6,
+    "total_itens_quadro_sinotico": 0,
+    "total_questoes": 9,
+    "total_comentarios_questoes": 9,
+    "total_itens_checklist": 8,
+    "total_referencias": 29
+  },
+  "validacao_interna": {
+    "pesquisa_previa_realizada": true,
+    "analise_de_cobrancas_anteriores_realizada": true,
+    "material_atualizado": true,
+    "json_valido": true,
+    "estrutura_relacional_respeitada": true,
+    "numeracao_respeitada": true,
+    "houve_quebra_de_hierarquia": false,
+    "houve_nivel_numerico_superior_a_3": false,
+    "fontes_verificadas": true,
+    "sem_informacao_inventada": true
+  },
+  "metadata": {
+    "source_file_name": "2__informática-e-dados__2-navegadores-de-internet-webmail-e-ferramentas-de-produtividade.json",
+    "normalized_checksum": "f3ac1e7d14a8c81880325e87b39e9bab548326118fd41ea83fad880b44c94194",
+    "subject_slug": "informatica",
+    "material_slug": "navegadores-webmail-produtividade",
+    "title_slug": "navegadores-de-internet-webmail-e-ferramentas-de",
+    "board_slug": "cebraspe",
+    "counters": {
+      "blocks": 6,
+      "topics": 11,
+      "topic_components": 14,
+      "traps": 5,
+      "memory_points": 6,
+      "summary_items": 0,
+      "questions": 9,
+      "question_comments": 9,
+      "checklist_items": 8,
+      "references": 29
+    }
+  }
+}

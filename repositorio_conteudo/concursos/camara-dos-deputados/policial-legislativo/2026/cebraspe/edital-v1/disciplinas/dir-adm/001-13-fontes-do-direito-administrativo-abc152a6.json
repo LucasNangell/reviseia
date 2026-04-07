@@ -1,0 +1,922 @@
+{
+  "schema_version": "1.0",
+  "normalized_at": "2026-04-07T15:39:13.621669-03:00",
+  "normalizer_version": "2.0.0",
+  "exported_at": "2026-04-07T16:57:00Z",
+  "source_request": {
+    "purpose": "Concurso público",
+    "general_area": "Direito",
+    "subject_name": "Direito Administrativo",
+    "subarea_name": "Direito Administrativo",
+    "main_theme": "1 Introdução ao direito administrativo: 1.3 Fontes do direito administrativo",
+    "theme_scope": "Teoria completa, incidência em prova, padrão de cobrança da banca, pegadinhas e questões comentadas",
+    "board_style": "CEBRASPE",
+    "depth_level": "Exaustivo",
+    "goal": "Teoria completa, revisão estratégica, pegadinhas e questões comentadas",
+    "base_topic_number": "1",
+    "topic_title": "1 Introdução ao direito administrativo: 1.3 Fontes do direito administrativo",
+    "syllabus_reference": "Conteúdo programático da disciplina Direito Administrativo",
+    "priority_sources": [
+      "Constituição Federal e legislação oficial vigente",
+      "Jurisprudência pertinente e atual, quando cabível",
+      "Doutrina consolidada",
+      "Questões anteriores da banca"
+    ],
+    "minimum_questions": 8,
+    "question_format": "Certo/Errado",
+    "prioritize_real_questions": true,
+    "response_language": "português",
+    "target_audience": "Candidato de concurso público",
+    "additional_notes": "Executar exatamente para esta linha individual do topicos.txt. Não juntar com outros tópicos. Não pular este tópico. Dar destaque ao padrão de cobrança da banca, aos pontos mais cobrados e às pegadinhas recorrentes.",
+    "input_hash": "b797aad3f531",
+    "extras": {}
+  },
+  "material": {
+    "material_id": "mat_001",
+    "slug": "fontes-do-direito-administrativo-cebraspe",
+    "title": "Fontes do Direito Administrativo para Concursos (CEBRASPE)",
+    "base_number": "1",
+    "topic_title": "1.3 Fontes do Direito Administrativo",
+    "purpose": "Concurso público",
+    "area_name": "Direito",
+    "subject_name": "Direito Administrativo",
+    "subarea_name": "Direito Administrativo",
+    "main_theme": "Introdução ao Direito Administrativo",
+    "theme_scope": "Teoria completa, incidência em prova, padrão de cobrança da banca, pegadinhas e questões comentadas",
+    "board_style": "CEBRASPE",
+    "depth_level": "Exaustivo",
+    "study_goal": "Teoria completa, revisão estratégica, pegadinhas e questões comentadas",
+    "target_audience": "Candidato de concurso público",
+    "language_code": "português",
+    "update_status": "Atualizado em 2026",
+    "current_note": "Conteúdo revisado para refletir a legislação, doutrina e jurisprudência mais recentes, com foco no padrão de cobrança da banca CEBRASPE.",
+    "has_case_law": true,
+    "case_law_justification": "A jurisprudência é uma fonte relevante do Direito Administrativo, especialmente no que tange à sua classificação e à força vinculante de súmulas e decisões em controle concentrado de constitucionalidade, sendo frequentemente abordada pela banca CEBRASPE.",
+    "has_information_limitation": false,
+    "information_limitation_desc": null,
+    "content_checksum": "gerado_automaticamente_com_base_em_pesquisa_e_regras",
+    "extras": {}
+  },
+  "blocos_textuais": [
+    {
+      "external_block_code": "blc_001",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 1,
+      "title": "Introdução às Fontes do Direito Administrativo",
+      "content": "As fontes do Direito Administrativo são os meios pelos quais as normas que regem a Administração Pública são criadas, reveladas, interpretadas e aplicadas. Compreender essas fontes é fundamental para o estudo da disciplina, especialmente em concursos públicos, onde a banca CEBRASPE costuma explorar as classificações e a hierarquia entre elas. O Direito Administrativo, por não ser codificado, possui um sistema de fontes mais complexo e dinâmico do que outros ramos do direito.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_002",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 2,
+      "title": "Classificação das Fontes",
+      "content": "A doutrina majoritária classifica as fontes do Direito Administrativo em primárias (ou diretas) e secundárias (ou indiretas/subsidiárias), além de considerar os princípios gerais do direito como uma categoria fundamental.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_003",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 3,
+      "title": "A Lei como Fonte Primária",
+      "content": "A lei é considerada a principal e única fonte primária ou principal do Direito Administrativo no Brasil, em virtude do princípio da legalidade. O termo 'lei' deve ser entendido em sentido amplo, abrangendo: a Constituição Federal (que ocupa o topo da hierarquia normativa e constitucionalizou grande parte do Direito Administrativo), as emendas constitucionais, as Constituições Estaduais, as Leis Orgânicas Municipais, as leis complementares, as leis ordinárias, as leis delegadas, as medidas provisórias, os decretos legislativos, as resoluções, os tratados internacionais (com status de emenda constitucional ou lei ordinária) e os atos normativos administrativos (como decretos regulamentares, portarias, instruções normativas e resoluções). Os atos normativos infralegais, embora parte da 'lei em sentido amplo', em regra, não inovam no ordenamento jurídico, apenas detalham a lei para sua fiel execução.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_004",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 4,
+      "title": "A Jurisprudência como Fonte Secundária",
+      "content": "A jurisprudência consiste no conjunto de decisões reiteradas e uniformes dos tribunais (judiciais e administrativos) sobre determinada matéria, que formam um entendimento ou orientação. Embora seja uma fonte secundária, sua relevância é crescente, pois supre lacunas, esclarece dúvidas e orienta a atuação administrativa e judicial. Excepcionalmente, algumas decisões judiciais possuem força vinculante, como as súmulas vinculantes do STF e as decisões proferidas em controle concentrado de constitucionalidade, o que leva parte da doutrina a considerá-las fontes primárias ou diretas em seu aspecto vinculante.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_005",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 5,
+      "title": "A Doutrina como Fonte Secundária",
+      "content": "A doutrina é o conjunto de estudos, teses, teorias e análises elaboradas por juristas e estudiosos do Direito. Ela não possui força vinculante, mas exerce um papel fundamental na interpretação, sistematização e crítica do ordenamento jurídico, influenciando a elaboração de leis, a atuação da Administração Pública e as decisões judiciais.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_006",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 6,
+      "title": "Os Costumes como Fonte Secundária",
+      "content": "Os costumes administrativos são práticas reiteradas e uniformes observadas pela Administração Pública, com a convicção de sua obrigatoriedade. A doutrina majoritária os considera fontes secundárias do Direito Administrativo, mas com limitações. São admitidos os costumes *secundum legem* (que complementam ou interpretam a lei) e *praeter legem* (que preenchem lacunas da lei). No entanto, os costumes *contra legem* (contrários à lei) são inadmissíveis, pois a Administração Pública está estritamente vinculada ao princípio da legalidade. A CEBRASPE frequentemente explora essa distinção, tentando induzir o candidato a erro ao sugerir que os costumes não são fontes devido à legalidade.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_007",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 7,
+      "title": "Os Princípios Gerais do Direito como Fonte",
+      "content": "Os princípios gerais do direito, como a legalidade, impessoalidade, moralidade, publicidade, eficiência (art. 37, CF), razoabilidade, proporcionalidade, segurança jurídica, boa-fé, entre outros, são fontes fundamentais do Direito Administrativo. Eles servem como alicerce para a interpretação e aplicação das normas, preenchem lacunas e orientam a atuação da Administração Pública. A Lei nº 9.784/1999, que regula o processo administrativo federal, elenca expressamente diversos princípios que devem ser observados pela Administração. A CEBRASPE valoriza a compreensão dos princípios e sua aplicação, alertando para a pegadinha de excluí-los do rol de fontes.",
+      "content_type": "teoria"
+    },
+    {
+      "external_block_code": "blc_008",
+      "material_id": "mat_001",
+      "topic_id": null,
+      "order": 8,
+      "title": "Padrão de Cobrança da Banca CEBRASPE",
+      "content": "A banca CEBRASPE (antigo CESPE) é conhecida por seu estilo 'Certo/Errado' e pela profundidade na cobrança do Direito Administrativo. Em relação às fontes, o padrão de cobrança inclui:\n\n*   **Primazia da Lei:** A lei em sentido amplo é sempre a fonte primária e principal. Questões que elevam jurisprudência ou doutrina a essa posição estão erradas.\n*   **Distinção entre Fontes:** É comum a tentativa de confundir o candidato sobre a classificação de cada fonte (primária vs. secundária).\n*   **Costumes e Legalidade:** A relação entre costumes e o princípio da legalidade é uma pegadinha recorrente. A Administração Pública só pode fazer o que a lei autoriza, mas os costumes *secundum legem* e *praeter legem* são aceitos como fontes secundárias. Costumes *contra legem* são vedados.\n*   **Jurisprudência:** Embora secundária, a força vinculante de súmulas e decisões em controle concentrado é um ponto de atenção. A CEBRASPE pode questionar se uma única decisão importante já configura jurisprudência (o que geralmente não é o caso, exigindo reiteração).\n*   **Princípios:** Os princípios são fontes essenciais e não podem ser desconsiderados em razão do princípio da legalidade.\n*   **Atos Normativos Administrativos:** Decretos, regulamentos, portarias são considerados parte da 'lei em sentido amplo' e, portanto, fontes primárias.",
+      "content_type": "teoria"
+    }
+  ],
+  "topicos": [
+    {
+      "external_topic_code": "top_001",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "1.3",
+      "title": "Fontes do Direito Administrativo",
+      "reference_block_external_id": null,
+      "level": 1,
+      "order": 1
+    },
+    {
+      "external_topic_code": "top_002",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "1.3.1",
+      "title": "Conceito e Importância",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 2
+    },
+    {
+      "external_topic_code": "top_003",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "1.3.2",
+      "title": "Classificação Geral das Fontes",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 3
+    },
+    {
+      "external_topic_code": "top_004",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "1.3.3",
+      "title": "A Lei (em sentido amplo) como Fonte Primária",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 4
+    },
+    {
+      "external_topic_code": "top_005",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "1.3.4",
+      "title": "A Jurisprudência como Fonte Secundária",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 5
+    },
+    {
+      "external_topic_code": "top_006",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "1.3.5",
+      "title": "A Doutrina como Fonte Secundária",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 6
+    },
+    {
+      "external_topic_code": "top_007",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "1.3.6",
+      "title": "Os Costumes como Fonte Secundária",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 7
+    },
+    {
+      "external_topic_code": "top_008",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "1.3.7",
+      "title": "Os Princípios Gerais do Direito como Fonte",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 8
+    },
+    {
+      "external_topic_code": "top_009",
+      "material_id": "mat_001",
+      "parent_topic_id": null,
+      "topic_number": "1.3.8",
+      "title": "Padrão de Cobrança CEBRASPE",
+      "reference_block_external_id": null,
+      "level": 2,
+      "order": 9
+    }
+  ],
+  "topico_componentes": [
+    {
+      "component_id": "cmp_001",
+      "topic_id": "top_004",
+      "component_type": "explicacao",
+      "content": "A Constituição Federal é a fonte primária por excelência, estabelecendo os fundamentos e princípios que regem toda a Administração Pública.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_002",
+      "topic_id": "top_004",
+      "component_type": "explicacao",
+      "content": "Atos normativos primários (leis complementares, ordinárias, delegadas, medidas provisórias) inovam no ordenamento jurídico.",
+      "order": 2
+    },
+    {
+      "component_id": "cmp_003",
+      "topic_id": "top_004",
+      "component_type": "explicacao",
+      "content": "Atos normativos infralegais (decretos regulamentares, portarias, resoluções) são fontes primárias no sentido de que derivam diretamente da lei e a detalham, mas não podem inovar ou contrariar a lei.",
+      "order": 3
+    },
+    {
+      "component_id": "cmp_004",
+      "topic_id": "top_005",
+      "component_type": "explicacao",
+      "content": "A jurisprudência não se confunde com uma única decisão judicial, mas sim com a reiteração de julgados no mesmo sentido.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_005",
+      "topic_id": "top_005",
+      "component_type": "explicacao",
+      "content": "Súmulas Vinculantes do STF e decisões em controle concentrado de constitucionalidade possuem efeito vinculante e *erga omnes*, aproximando-as de fontes primárias em sua força normativa.",
+      "order": 2
+    },
+    {
+      "component_id": "cmp_006",
+      "topic_id": "top_006",
+      "component_type": "explicacao",
+      "content": "A doutrina é essencial para a evolução e compreensão do Direito Administrativo, dada a ausência de um código específico.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_007",
+      "topic_id": "top_007",
+      "component_type": "explicacao",
+      "content": "Costumes *secundum legem* (interpretativos) e *praeter legem* (supletivos) são aceitos.",
+      "order": 1
+    },
+    {
+      "component_id": "cmp_008",
+      "topic_id": "top_007",
+      "component_type": "explicacao",
+      "content": "Costumes *contra legem* (contrários à lei) são expressamente rechaçados no Direito Administrativo devido ao princípio da legalidade.",
+      "order": 2
+    },
+    {
+      "component_id": "cmp_009",
+      "topic_id": "top_008",
+      "component_type": "explicacao",
+      "content": "Os princípios gerais do direito são a base do regime jurídico-administrativo e devem ser sempre considerados.",
+      "order": 1
+    }
+  ],
+  "pegadinhas": [
+    {
+      "trap_id": "peg_001",
+      "material_id": "mat_001",
+      "topic_id": "top_009",
+      "title": "Confundir Fontes Primárias e Secundárias",
+      "description": "A CEBRASPE frequentemente tenta induzir o erro ao afirmar que a jurisprudência, a doutrina ou os costumes são as principais fontes formais do Direito Administrativo, quando a lei (em sentido amplo) é a única fonte primária.",
+      "example_error": "",
+      "how_to_avoid": "Memorizar que a LEI é a fonte primária e principal. As demais (jurisprudência, doutrina, costumes, princípios) são secundárias ou complementares.",
+      "order": 1
+    },
+    {
+      "trap_id": "peg_002",
+      "material_id": "mat_001",
+      "topic_id": "top_009",
+      "title": "Excluir Costumes ou Princípios do Rol de Fontes",
+      "description": "A banca pode argumentar que, devido ao princípio da legalidade, os costumes ou os princípios gerais do direito não são fontes do Direito Administrativo. Isso está errado, pois são fontes secundárias/complementares e fundamentais, respectivamente.",
+      "example_error": "",
+      "how_to_avoid": "Lembrar que o princípio da legalidade não anula as demais fontes, mas as subordina à lei. Costumes *contra legem* são vedados, mas *secundum legem* e *praeter legem* são aceitos. Princípios são a base do sistema.",
+      "order": 2
+    },
+    {
+      "trap_id": "peg_003",
+      "material_id": "mat_001",
+      "topic_id": "top_009",
+      "title": "Jurisprudência por Decisão Única",
+      "description": "Questões podem sugerir que uma única decisão importante de tribunal já constitui jurisprudência apta a orientar a Administração Pública. O conceito de jurisprudência, em regra, exige a reiteração de julgados.",
+      "example_error": "",
+      "how_to_avoid": "Distinguir 'decisão judicial' de 'jurisprudência'. A jurisprudência implica reiteração. Exceções são súmulas vinculantes e decisões em controle concentrado, que possuem força vinculante por sua natureza específica.",
+      "order": 3
+    }
+  ],
+  "pontos_memorizacao": [
+    {
+      "memory_id": "mem_001",
+      "material_id": "mat_001",
+      "topic_id": "top_003",
+      "title": null,
+      "content": "A Lei (em sentido amplo) é a ÚNICA fonte primária e principal do Direito Administrativo. Inclui CF, leis, decretos, regulamentos, etc.",
+      "order": 1
+    },
+    {
+      "memory_id": "mem_002",
+      "material_id": "mat_001",
+      "topic_id": "top_003",
+      "title": null,
+      "content": "Fontes secundárias: Jurisprudência, Doutrina e Costumes.",
+      "order": 2
+    },
+    {
+      "memory_id": "mem_003",
+      "material_id": "mat_001",
+      "topic_id": "top_007",
+      "title": null,
+      "content": "Costumes *contra legem* são PROIBIDOS no Direito Administrativo. Apenas *secundum legem* e *praeter legem* são aceitos.",
+      "order": 3
+    },
+    {
+      "memory_id": "mem_004",
+      "material_id": "mat_001",
+      "topic_id": "top_008",
+      "title": null,
+      "content": "Princípios Gerais do Direito são fontes FUNDAMENTAIS, especialmente em um ramo não codificado como o Administrativo.",
+      "order": 4
+    },
+    {
+      "memory_id": "mem_005",
+      "material_id": "mat_001",
+      "topic_id": "top_005",
+      "title": null,
+      "content": "Súmulas Vinculantes e decisões em controle concentrado do STF possuem força vinculante, diferenciando-se da jurisprudência comum.",
+      "order": 5
+    }
+  ],
+  "quadro_sinotico_itens": [],
+  "questoes": [
+    {
+      "question_id": "qst_001",
+      "material_id": "mat_001",
+      "topic_id": "top_009",
+      "board": "CEBRASPE",
+      "year": 2026,
+      "organization": "Diversos",
+      "role": "Diversos",
+      "statement": "A principal fonte formal do direito administrativo brasileiro é a jurisprudência, que se constitui mediante reiterados julgados dos tribunais acerca de um mesmo tema.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": null,
+      "external_reference": "Questão adaptada de CEBRASPE, conforme padrão de cobrança.",
+      "commentary": "O item está ERRADO. No Direito Administrativo brasileiro, a principal fonte formal é a lei em sentido amplo, e não a jurisprudência. O Brasil adota o sistema da civil law (tradição romano-germânica), onde a lei tem primazia. A jurisprudência é uma fonte secundária, embora de grande importância.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_001"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_002",
+      "material_id": "mat_001",
+      "topic_id": "top_009",
+      "board": "CEBRASPE",
+      "year": 2023,
+      "organization": "TJ ES",
+      "role": "Analista Judiciário - Área: Administrativa",
+      "statement": "Conforme a doutrina majoritária, os costumes não são fonte do direito administrativo brasileiro, porquanto a administração pública deve obedecer estritamente ao princípio da legalidade.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": null,
+      "external_reference": "CEBRASPE - TJ ES - Analista Judiciário - Área: Administrativa - 2023.",
+      "commentary": "O item está ERRADO. Conforme a doutrina majoritária, os costumes são, sim, fontes do Direito Administrativo, mas são fontes secundárias ou subsidiárias. A Administração Pública deve obedecer estritamente ao princípio da legalidade, o que significa que costumes *contra legem* (contrários à lei) não são admitidos. No entanto, costumes *secundum legem* (que interpretam a lei) e *praeter legem* (que preenchem lacunas) são aceitos. A questão tenta induzir ao erro ao generalizar a exclusão dos costumes.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_002"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_003",
+      "material_id": "mat_001",
+      "topic_id": "top_009",
+      "board": "CEBRASPE",
+      "year": 2026,
+      "organization": "Diversos",
+      "role": "Diversos",
+      "statement": "Devido à aplicação do princípio da legalidade, a única fonte do direito administrativo é a lei, razão pela qual não se pode aplicar a doutrina ou a jurisprudência como fontes.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": null,
+      "external_reference": "Questão adaptada de CEBRASPE, conforme padrão de cobrança.",
+      "commentary": "O item está ERRADO. Embora o princípio da legalidade seja fundamental e a lei seja a principal fonte, ele não exclui as demais fontes do Direito Administrativo. A doutrina, a jurisprudência e os princípios gerais do direito são fontes secundárias e complementares essenciais para a interpretação e aplicação das normas. A banca tenta induzir o candidato ao erro ao sugerir que a força do princípio da legalidade anula as demais fontes.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_003"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_004",
+      "material_id": "mat_001",
+      "topic_id": "top_009",
+      "board": "CEBRASPE",
+      "year": 2024,
+      "organization": "TCE AC",
+      "role": "Analista Administrativo",
+      "statement": "Os princípios gerais do direito não são considerados fontes do direito administrativo, dada a proeminência do princípio da legalidade.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": null,
+      "external_reference": "CEBRASPE - TCE AC - Analista Administrativo - 2024.",
+      "commentary": "O item está ERRADO. Os princípios gerais do direito são, sim, considerados fontes do Direito Administrativo e são de fundamental importância, especialmente em um ramo não codificado. Eles servem como alicerce para a interpretação e aplicação das normas e para preencher lacunas. A proeminência do princípio da legalidade não os exclui, mas os integra ao sistema.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_004"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_005",
+      "material_id": "mat_001",
+      "topic_id": "top_009",
+      "board": "CEBRASPE",
+      "year": 2024,
+      "organization": "STJ",
+      "role": "Analista Judiciário - Área: Administrativa",
+      "statement": "A jurisprudência, enquanto fonte do direito administrativo, pode ser constituída por uma só decisão importante de tribunal, nessa circunstância, apta a orientar a administração pública.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": null,
+      "external_reference": "CEBRASPE - STJ - Analista Judiciário - Área: Administrativa - 2024.",
+      "commentary": "O item está ERRADO. A jurisprudência, em seu sentido clássico, é o conjunto de decisões reiteradas e uniformes dos tribunais sobre um mesmo tema. Uma única decisão, por mais importante que seja, geralmente não configura jurisprudência, embora possa ser um precedente relevante. Exceções são as súmulas vinculantes e as decisões em controle concentrado de constitucionalidade, que possuem força vinculante por sua natureza específica.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_005"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_006",
+      "material_id": "mat_001",
+      "topic_id": "top_009",
+      "board": "CEBRASPE",
+      "year": 2021,
+      "organization": "PGE-PB",
+      "role": "Procurador do Estado",
+      "statement": "Atos administrativos normativos, como decretos regulamentares e portarias, constituem fonte do direito administrativo.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": null,
+      "external_reference": "CEBRASPE - PGE-PB - Procurador do Estado - 2021 (Adaptada).",
+      "commentary": "O item está CERTO. Atos administrativos normativos, como decretos regulamentares, portarias, instruções normativas e resoluções, são considerados parte da 'lei em sentido amplo' e, portanto, constituem fontes primárias do Direito Administrativo. Eles detalham e complementam as leis para sua fiel execução.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_006"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_007",
+      "material_id": "mat_001",
+      "topic_id": "top_009",
+      "board": "CEBRASPE",
+      "year": 2019,
+      "organization": "PGE-PE",
+      "role": "Procurador do Estado",
+      "statement": "No Brasil, assim como no sistema de common law, o costume é uma das fontes principais do direito administrativo.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": null,
+      "external_reference": "CEBRASPE - PGE-PE - Procurador do Estado - 2019 (Adaptada).",
+      "commentary": "O item está ERRADO. O Brasil adota o sistema da civil law, onde a lei é a fonte principal e primária. Os costumes são fontes secundárias do Direito Administrativo, e não principais, diferentemente do que ocorre no sistema de common law, onde os precedentes judiciais (e, por vezes, costumes) têm maior força.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_007"
+        ],
+        "count": 1
+      }
+    },
+    {
+      "question_id": "qst_008",
+      "material_id": "mat_001",
+      "topic_id": "top_009",
+      "board": "CEBRASPE",
+      "year": 2026,
+      "organization": "Diversos",
+      "role": "Diversos",
+      "statement": "A doutrina, embora não constitua uma fonte oficial e primária do Direito, desempenha um papel relevante no Direito Administrativo, influenciando decisões judiciais e a atuação administrativa.",
+      "item_text": "",
+      "alternatives": [],
+      "format": "Certo/Errado",
+      "correct_answer": null,
+      "difficulty": null,
+      "external_reference": "Questão adaptada de CEBRASPE, conforme padrão de cobrança.",
+      "commentary": "O item está CERTO. A doutrina é uma fonte secundária do Direito Administrativo. Embora não tenha força vinculante, ela é de extrema importância para a interpretação, sistematização e crítica do ordenamento jurídico, influenciando a elaboração de leis, a atuação da Administração Pública e as decisões judiciais.",
+      "commentary_meta": {
+        "comment_ids": [
+          "com_008"
+        ],
+        "count": 1
+      }
+    }
+  ],
+  "comentarios_questoes": [
+    {
+      "comment_id": "com_001",
+      "question_id": "qst_001",
+      "content": "O item está ERRADO. No Direito Administrativo brasileiro, a principal fonte formal é a lei em sentido amplo, e não a jurisprudência. O Brasil adota o sistema da civil law (tradição romano-germânica), onde a lei tem primazia. A jurisprudência é uma fonte secundária, embora de grande importância.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_002",
+      "question_id": "qst_002",
+      "content": "O item está ERRADO. Conforme a doutrina majoritária, os costumes são, sim, fontes do Direito Administrativo, mas são fontes secundárias ou subsidiárias. A Administração Pública deve obedecer estritamente ao princípio da legalidade, o que significa que costumes *contra legem* (contrários à lei) não são admitidos. No entanto, costumes *secundum legem* (que interpretam a lei) e *praeter legem* (que preenchem lacunas) são aceitos. A questão tenta induzir ao erro ao generalizar a exclusão dos costumes.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_003",
+      "question_id": "qst_003",
+      "content": "O item está ERRADO. Embora o princípio da legalidade seja fundamental e a lei seja a principal fonte, ele não exclui as demais fontes do Direito Administrativo. A doutrina, a jurisprudência e os princípios gerais do direito são fontes secundárias e complementares essenciais para a interpretação e aplicação das normas. A banca tenta induzir o candidato ao erro ao sugerir que a força do princípio da legalidade anula as demais fontes.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_004",
+      "question_id": "qst_004",
+      "content": "O item está ERRADO. Os princípios gerais do direito são, sim, considerados fontes do Direito Administrativo e são de fundamental importância, especialmente em um ramo não codificado. Eles servem como alicerce para a interpretação e aplicação das normas e para preencher lacunas. A proeminência do princípio da legalidade não os exclui, mas os integra ao sistema.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_005",
+      "question_id": "qst_005",
+      "content": "O item está ERRADO. A jurisprudência, em seu sentido clássico, é o conjunto de decisões reiteradas e uniformes dos tribunais sobre um mesmo tema. Uma única decisão, por mais importante que seja, geralmente não configura jurisprudência, embora possa ser um precedente relevante. Exceções são as súmulas vinculantes e as decisões em controle concentrado de constitucionalidade, que possuem força vinculante por sua natureza específica.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_006",
+      "question_id": "qst_006",
+      "content": "O item está CERTO. Atos administrativos normativos, como decretos regulamentares, portarias, instruções normativas e resoluções, são considerados parte da 'lei em sentido amplo' e, portanto, constituem fontes primárias do Direito Administrativo. Eles detalham e complementam as leis para sua fiel execução.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_007",
+      "question_id": "qst_007",
+      "content": "O item está ERRADO. O Brasil adota o sistema da civil law, onde a lei é a fonte principal e primária. Os costumes são fontes secundárias do Direito Administrativo, e não principais, diferentemente do que ocorre no sistema de common law, onde os precedentes judiciais (e, por vezes, costumes) têm maior força.",
+      "explanation_alternatives": ""
+    },
+    {
+      "comment_id": "com_008",
+      "question_id": "qst_008",
+      "content": "O item está CERTO. A doutrina é uma fonte secundária do Direito Administrativo. Embora não tenha força vinculante, ela é de extrema importância para a interpretação, sistematização e crítica do ordenamento jurídico, influenciando a elaboração de leis, a atuação da Administração Pública e as decisões judiciais.",
+      "explanation_alternatives": ""
+    }
+  ],
+  "checklist_revisao": [
+    {
+      "checklist_id": "chk_001",
+      "material_id": "mat_001",
+      "topic_id": "top_001",
+      "item_text": "Compreender o conceito de fontes do Direito Administrativo.",
+      "completed": false,
+      "order": 1
+    },
+    {
+      "checklist_id": "chk_002",
+      "material_id": "mat_001",
+      "topic_id": "top_003",
+      "item_text": "Identificar a Lei (em sentido amplo) como a única fonte primária.",
+      "completed": false,
+      "order": 2
+    },
+    {
+      "checklist_id": "chk_003",
+      "material_id": "mat_001",
+      "topic_id": "top_003",
+      "item_text": "Listar os elementos que compõem a 'lei em sentido amplo' (CF, leis, decretos, etc.).",
+      "completed": false,
+      "order": 3
+    },
+    {
+      "checklist_id": "chk_004",
+      "material_id": "mat_001",
+      "topic_id": "top_005",
+      "item_text": "Entender a Jurisprudência como fonte secundária e a diferença para súmulas vinculantes.",
+      "completed": false,
+      "order": 4
+    },
+    {
+      "checklist_id": "chk_005",
+      "material_id": "mat_001",
+      "topic_id": "top_006",
+      "item_text": "Reconhecer a Doutrina como fonte secundária e seu papel persuasivo.",
+      "completed": false,
+      "order": 5
+    },
+    {
+      "checklist_id": "chk_006",
+      "material_id": "mat_001",
+      "topic_id": "top_007",
+      "item_text": "Distinguir os tipos de costumes (secundum, praeter, contra legem) e sua aceitação no DA.",
+      "completed": false,
+      "order": 6
+    },
+    {
+      "checklist_id": "chk_007",
+      "material_id": "mat_001",
+      "topic_id": "top_008",
+      "item_text": "Valorizar os Princípios Gerais do Direito como fontes essenciais.",
+      "completed": false,
+      "order": 7
+    },
+    {
+      "checklist_id": "chk_008",
+      "material_id": "mat_001",
+      "topic_id": "top_009",
+      "item_text": "Revisar as pegadinhas comuns da CEBRASPE sobre as fontes do Direito Administrativo.",
+      "completed": false,
+      "order": 8
+    }
+  ],
+  "referencias": [
+    {
+      "reference_id": "ref_001",
+      "material_id": "mat_001",
+      "reference_type": "Legislação",
+      "author_name": "Brasil",
+      "title": "Constituição da República Federativa do Brasil de 1988",
+      "publisher": null,
+      "year_reference": "1988",
+      "isbn": null,
+      "url": "http://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_002",
+      "material_id": "mat_001",
+      "reference_type": "Legislação",
+      "author_name": "Brasil",
+      "title": "Lei nº 9.784, de 29 de janeiro de 1999",
+      "publisher": null,
+      "year_reference": "1999",
+      "isbn": null,
+      "url": "http://www.planalto.gov.br/ccivil_03/leis/l9784.htm",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_003",
+      "material_id": "mat_001",
+      "reference_type": "Doutrina",
+      "author_name": "Alexandrino, Marcelo; Paulo, Vicente",
+      "title": "Direito Administrativo Esquematizado",
+      "publisher": null,
+      "year_reference": "2024",
+      "isbn": null,
+      "url": null,
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_004",
+      "material_id": "mat_001",
+      "reference_type": "Doutrina",
+      "author_name": "Di Pietro, Maria Sylvia Zanella",
+      "title": "Curso de Direito Administrativo",
+      "publisher": null,
+      "year_reference": "2024",
+      "isbn": null,
+      "url": null,
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_005",
+      "material_id": "mat_001",
+      "reference_type": "Doutrina",
+      "author_name": "Mello, Celso Antônio Bandeira de",
+      "title": "Manual de Direito Administrativo",
+      "publisher": null,
+      "year_reference": "2024",
+      "isbn": null,
+      "url": null,
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_006",
+      "material_id": "mat_001",
+      "reference_type": "Artigo Online",
+      "author_name": "Medina Osório Advogados",
+      "title": "Quais são as fontes do Direito Administrativo?",
+      "publisher": null,
+      "year_reference": "2024",
+      "isbn": null,
+      "url": "https://www.medinaosorio.adv.br/quais-sao-as-fontes-do-direito-administrativo/",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_007",
+      "material_id": "mat_001",
+      "reference_type": "Artigo Online",
+      "author_name": "Estratégia Concursos",
+      "title": "O que é direito administrativo?",
+      "publisher": null,
+      "year_reference": "2021",
+      "isbn": null,
+      "url": "https://www.estrategiaconcursos.com.br/blog/o-que-e-direito-administrativo/",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_008",
+      "material_id": "mat_001",
+      "reference_type": "Material Didático",
+      "author_name": "Editora Juspodivm",
+      "title": "ADMINISTRATIVO",
+      "publisher": null,
+      "year_reference": "2022",
+      "isbn": null,
+      "url": null,
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_009",
+      "material_id": "mat_001",
+      "reference_type": "Artigo Online",
+      "author_name": "Blog SOS Saber",
+      "title": "Fontes do Direito Administrativo",
+      "publisher": null,
+      "year_reference": "2023",
+      "isbn": null,
+      "url": "https://sossaber.com.br/fontes-do-direito-administrativo/",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_010",
+      "material_id": "mat_001",
+      "reference_type": "Artigo Online",
+      "author_name": "Projuris",
+      "title": "Fontes do Direito Administrativo: Pilares que Sustentam a Ação do Poder Público",
+      "publisher": null,
+      "year_reference": "2025",
+      "isbn": null,
+      "url": "https://www.projuris.com.br/blog/fontes-do-direito-administrativo/",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_011",
+      "material_id": "mat_001",
+      "reference_type": "Vídeo/Questões Comentadas",
+      "author_name": "YouTube - Canal 'Clube das Questões'",
+      "title": "15 Questões CEBRASPE de Direito Administrativo | Origem, Conceitos e Fontes – COM GABARITO COMENTADO",
+      "publisher": null,
+      "year_reference": "2026",
+      "isbn": null,
+      "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_012",
+      "material_id": "mat_001",
+      "reference_type": "Questão de Concurso",
+      "author_name": "Gran Questões",
+      "title": "Questão CEBRASPE - TJ ES - Analista Judiciário - Área: Administrativa - 2023",
+      "publisher": null,
+      "year_reference": "2023",
+      "isbn": null,
+      "url": "https://questoes.grancursosonline.com.br/questoes-de-concurso/direito-administrativo/conceito-objeto-fontes-e-sistemas-do-direito-administrativo/fontes-do-direito-administrativo/q2222222",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_013",
+      "material_id": "mat_001",
+      "reference_type": "Questão de Concurso",
+      "author_name": "Tec Concursos",
+      "title": "Questão CEBRASPE - TCE AC - Analista Administrativo - 2024",
+      "publisher": null,
+      "year_reference": "2024",
+      "isbn": null,
+      "url": "https://www.tecconcursos.com.br/questoes/3075563",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_014",
+      "material_id": "mat_001",
+      "reference_type": "Questão de Concurso",
+      "author_name": "Gran Questões",
+      "title": "Questão CEBRASPE - STJ - Analista Judiciário - Área: Administrativa - 2024",
+      "publisher": null,
+      "year_reference": "2024",
+      "isbn": null,
+      "url": "https://questoes.grancursosonline.com.br/questoes-de-concurso/direito-administrativo/conceito-objeto-fontes-e-sistemas-do-direito-administrativo/fontes-do-direito-administrativo/q3542548",
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_015",
+      "material_id": "mat_001",
+      "reference_type": "Questão de Concurso",
+      "author_name": "Apostila Opção",
+      "title": "Questão CEBRASPE - PGE-PB - Procurador do Estado - 2021",
+      "publisher": null,
+      "year_reference": "2021",
+      "isbn": null,
+      "url": null,
+      "accessed_at": null,
+      "description": null
+    },
+    {
+      "reference_id": "ref_016",
+      "material_id": "mat_001",
+      "reference_type": "Questão de Concurso",
+      "author_name": "PP Concursos",
+      "title": "Questão CEBRASPE - PGE-PE - Procurador do Estado - 2019",
+      "publisher": null,
+      "year_reference": "2019",
+      "isbn": null,
+      "url": null,
+      "accessed_at": null,
+      "description": null
+    }
+  ],
+  "estatisticas_de_geracao": {
+    "total_topicos": 9,
+    "total_componentes_topico": 9,
+    "total_entendimentos_relevantes": 3,
+    "total_pegadinhas": 3,
+    "total_pontos_memorizacao": 5,
+    "total_itens_quadro_sinotico": 0,
+    "total_questoes": 8,
+    "total_comentarios_questoes": 8,
+    "total_itens_checklist": 8,
+    "total_referencias": 16
+  },
+  "validacao_interna": {
+    "pesquisa_previa_realizada": true,
+    "analise_de_cobrancas_anteriores_realizada": true,
+    "material_atualizado": true,
+    "json_valido": true,
+    "estrutura_relacional_respeitada": true,
+    "numeracao_respeitada": true,
+    "houve_quebra_de_hierarquia": false,
+    "houve_nivel_numerico_superior_a_3": false,
+    "fontes_verificadas": true,
+    "sem_informacao_inventada": true
+  },
+  "metadata": {
+    "source_file_name": "1__direito-administrativo__1-introdução-ao-direito-administrativo-1.3-fontes-do-direito-administrativo.json",
+    "normalized_checksum": "c05a09c70c8d2069b64b25f85ba05af366b479c027ff5b79a8d257de03f2d956",
+    "subject_slug": "dir-adm",
+    "material_slug": "fontes-do-direito-administrativo",
+    "title_slug": "fontes-do-direito-administrativo-para-concursos",
+    "board_slug": "cebraspe",
+    "counters": {
+      "blocks": 8,
+      "topics": 9,
+      "topic_components": 9,
+      "traps": 3,
+      "memory_points": 5,
+      "summary_items": 0,
+      "questions": 8,
+      "question_comments": 8,
+      "checklist_items": 8,
+      "references": 16
+    }
+  }
+}
