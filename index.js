@@ -149,18 +149,18 @@ api.get('/materials/:id/questions', async (req, res) => {
 
 // POST /api/users
 api.post('/users', async (req, res) => {
-  const { name, email, password_hash } = req.body;
+  const { name, email, whatsapp, password_hash } = req.body;
   try {
     const [existing] = await pool.query('SELECT id FROM users WHERE email = ?', [email]);
     if (existing.length > 0) return res.status(409).json({ error: 'E-mail já cadastrado' });
 
     const [result] = await pool.query(
-      'INSERT INTO users (name, email, password_hash, status) VALUES (?, ?, ?, "active")',
-      [name, email, password_hash]
+      'INSERT INTO users (name, email, whatsapp, password_hash, status) VALUES (?, ?, ?, ?, "active")',
+      [name, email, whatsapp, password_hash]
     );
     res.json({ id: result.insertId, message: 'Usuário criado com sucesso' });
   } catch (error) {
-    res.status(500).json({ error: 'Erro ao criar usuário' });
+    res.status(500).json({ error: 'Erro ao criar usuário', details: error.message });
   }
 });
 
@@ -244,6 +244,64 @@ api.post('/users/:userId/checklists/:checklistId', async (req, res) => {
     res.json({ id: result.insertId, message: 'Checklist criado' });
   } catch (error) {
     res.status(500).json({ error: 'Erro ao salvar checklist' });
+  }
+});
+
+// GET /api/users/:userId/dashboard
+api.get('/users/:userId/dashboard', async (req, res) => {
+  const userId = req.params.userId;
+  try {
+    const [[user]] = await pool.query('SELECT id, name, email, whatsapp, status FROM users WHERE id = ?', [userId]);
+    if (!user) return res.status(404).json({ error: 'Usuário não encontrado' });
+
+    // 1. User Subscribed Tracks
+    const [userTracks] = await pool.query(`
+      SELECT s.id as sub_id, s.status, s.started_at,
+             lt.id, lt.name, lt.description, lt.track_type,
+             eb.name as board_name, ee.title as exam_edition_title,
+             (SELECT COUNT(lti.id) FROM learning_track_items lti WHERE lti.learning_track_id = lt.id) as total_items,
+             (SELECT COUNT(ump.id) 
+              FROM user_material_progress ump 
+              INNER JOIN learning_track_items lti ON lti.material_id = ump.material_id 
+              WHERE ump.user_id = ? AND lti.learning_track_id = lt.id AND ump.status = 'completed') as completed_items
+      FROM user_exam_subscriptions s
+      INNER JOIN learning_tracks lt ON lt.id = s.learning_track_id
+      LEFT JOIN exam_editions ee ON ee.id = lt.exam_edition_id
+      LEFT JOIN exam_boards eb ON eb.id = ee.exam_board_id
+      WHERE s.user_id = ?
+    `, [userId, userId]);
+
+    // 2. All Available Tracks (Not Subscribed)
+    const [availableTracks] = await pool.query(`
+      SELECT lt.id, lt.name, lt.description, lt.track_type, lt.is_default,
+             eb.name as board_name, ee.title as exam_edition_title,
+             (SELECT COUNT(lti.id) FROM learning_track_items lti WHERE lti.learning_track_id = lt.id) as total_items,
+             (SELECT SUM(lti.estimated_minutes) FROM learning_track_items lti WHERE lti.learning_track_id = lt.id) as total_minutes
+      FROM learning_tracks lt
+      LEFT JOIN exam_editions ee ON ee.id = lt.exam_edition_id
+      LEFT JOIN exam_boards eb ON eb.id = ee.exam_board_id
+      WHERE lt.id NOT IN (SELECT learning_track_id FROM user_exam_subscriptions WHERE user_id = ?)
+      ORDER BY lt.is_default DESC, lt.name
+    `, [userId]);
+
+    // 3. User Stats
+    const [[completedMaterials]] = await pool.query('SELECT COUNT(*) as total FROM user_material_progress WHERE user_id = ? AND status = "completed"', [userId]);
+    const [[activeMaterials]] = await pool.query('SELECT COUNT(*) as total FROM user_material_progress WHERE user_id = ? AND status = "in_progress"', [userId]);
+    const [[questionsAttempted]] = await pool.query('SELECT COUNT(*) as total FROM user_question_attempts WHERE user_id = ?', [userId]);
+
+    res.json({
+      user,
+      userTracks,
+      availableTracks,
+      stats: {
+        completedMaterials: completedMaterials.total || 0,
+        activeMaterials: activeMaterials.total || 0,
+        questionsAttempted: questionsAttempted.total || 0
+      }
+    });
+
+  } catch (error) {
+    res.status(500).json({ error: 'Erro ao carregar dashboard', details: error.message });
   }
 });
 
